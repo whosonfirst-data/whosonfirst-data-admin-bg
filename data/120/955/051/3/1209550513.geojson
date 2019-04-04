@@ -1,0 +1,72 @@
+{
+  "id": 1209550513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36667,41.68333,25.36667,41.68333",
+    "geom:latitude":41.68333,
+    "geom:longitude":25.36667,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ16",
+    "gn:admin3_code":"KRZ16-39",
+    "gn:asciiname":"Kalinka",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730755,
+    "gn:latitude":41.68333,
+    "gn:longitude":25.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalinka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Keremenler",
+        "Kalinka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730755,
+        "wk:page":"Kalinka%2C_Kardzhali_Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"316689bcdef2a0525b20bb0d23f7ab2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209550513
+        }
+    ],
+    "wof:id":1209550513,
+    "wof:lastmodified":1537587584,
+    "wof:name":"Kalinka",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36667000000001,
+    41.68333,
+    25.36667000000001,
+    41.68333
+],
+  "geometry": {"coordinates":[25.36667000000001,41.68333],"type":"Point"}
+}

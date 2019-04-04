@@ -1,0 +1,118 @@
+{
+  "id": 101799377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000084,
+    "geom:area_square_m":768862.39602,
+    "geom:bbox":"24.8947876773,42.0932728919,24.9090364967,42.1044136133",
+    "geom:latitude":42.098128,
+    "geom:longitude":24.90164,
+    "iso:country":"BG",
+    "lbl:latitude":42.097275,
+    "lbl:longitude":24.902126,
+    "mps:latitude":42.097275,
+    "mps:longitude":24.902126,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0435\u0444\u0430\u043d \u041a\u0430\u0440\u0430\u0434\u0436\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0434\u0436\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Stefan Karadzhovo"
+    ],
+    "name:eng_x_preferred":[
+        "Karadzhovo"
+    ],
+    "name:eng_x_variant":[
+        "Karadshowo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0435\u0444\u0430\u043d-\u041a\u0430\u0440\u0430\u0434\u0436\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Stefan Karad\u017cowo"
+    ],
+    "name:ron_x_preferred":[
+        "Stefan Karadjovo"
+    ],
+    "name:rum_x_preferred":[
+        "Karadjovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u0444\u0430\u043d-\u041a\u0430\u0440\u0430\u0434\u0436\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Stefan Karadzjovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u0444\u0430\u043d-\u041a\u0430\u0440\u0430\u0434\u0436\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Karadshowo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+    "qs:a1_alt":"Plovdiv",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u0430\u0440\u0430\u0434\u0436\u043e\u0432\u043e",
+    "qs:la_lc":"*BGPDV2836244",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0430\u0440\u0430\u0434\u0436\u043e\u0432\u043e",
+    "qs:loc_alt":"Karadzhovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03713f2c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730620,
+        "gp:id":836964,
+        "qs:id":110238,
+        "wd:id":"Q2015943"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"72f01cf56688c940160d01c0319e050b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799377,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":101799377,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641686,
+    "wof:name":"\u041a\u0430\u0440\u0430\u0434\u0436\u043e\u0432\u043e",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8947876773189,
+    42.09327289192197,
+    24.90903649672327,
+    42.10441361330311
+],
+  "geometry": {"coordinates":[[[24.89945339246043,42.10317462967686],[24.8992326896082,42.10229111826345],[24.90042017208532,42.10211336647615],[24.90019946154234,42.10122985661212],[24.90732412916356,42.10016307033999],[24.90710332905292,42.0992795770922],[24.90829073578209,42.09910173345781],[24.90784912888387,42.09733474859752],[24.90903649672327,42.09715689700982],[24.90859489184015,42.09538991232023],[24.90622021550814,42.09574558945985],[24.90577871086782,42.09397858685895],[24.90459139623221,42.09415639843166],[24.90437067331425,42.09327289192197],[24.897246754798,42.09433944969453],[24.89834996506443,42.09875705797657],[24.8947876773189,42.09929019329644],[24.89567020533224,42.10282428972778],[24.89685770623112,42.1026465798891],[24.89729905510694,42.10441361330311],[24.89848658262451,42.10423588345679],[24.89826588746388,42.10335237049372],[24.89945339246043,42.10317462967686]]],"type":"Polygon"}
+}

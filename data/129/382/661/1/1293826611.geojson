@@ -1,0 +1,80 @@
+{
+  "id": 1293826611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.78171,43.6159,27.78171,43.6159",
+    "geom:latitude":43.6159,
+    "geom:longitude":27.78171,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB15",
+    "gn:asciiname":"Vrachantsi",
+    "gn:country_code":"BG",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725734,
+    "gn:latitude":43.6159,
+    "gn:longitude":27.78171,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Vrachantsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0430\u0447\u0430\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tschek\u0103rtscha",
+        "Wra\u010danci",
+        "Chek\u016drcha",
+        "Ceacarcen",
+        "Ceacarcia",
+        "Chak\u016drcha",
+        "Ceac\u00e2rcea",
+        "Vrachantsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725734,
+        "wk:page":"Vrachantsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7154095cdf4fa328fb3f43520d7d7f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293826611,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1293826611,
+    "wof:lastmodified":1537587267,
+    "wof:name":"Vrachantsi",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.78171,
+    43.6159,
+    27.78171,
+    43.6159
+],
+  "geometry": {"coordinates":[27.78171,43.6159],"type":"Point"}
+}

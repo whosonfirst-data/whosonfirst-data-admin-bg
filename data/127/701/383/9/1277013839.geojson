@@ -1,0 +1,81 @@
+{
+  "id": 1277013839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98316,43.359,27.98316,43.359",
+    "geom:latitude":43.359,
+    "geom:longitude":27.98316,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"VAR02",
+    "gn:admin3_code":"VAR02-04",
+    "gn:asciiname":"General Kantardzhievo",
+    "gn:country_code":"BG",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731475,
+    "gn:latitude":43.359,
+    "gn:longitude":27.98316,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"General Kantardzhievo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b-\u041a\u0430\u043d\u0442\u0430\u0440\u0434\u0436\u0438\u0435\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "General Kantardzhievo",
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b \u041a\u0430\u043d\u0442\u0430\u0440\u0434\u0436\u0438\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tschausch-Kioi",
+        "Chaush K\u2019oy",
+        "V\u00e2n\u0103tori",
+        "General Kantardziev"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731475,
+        "wk:page":"General_Kantardzhievo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"694b72849771f10379556eb707c63489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1277013839,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1277013839,
+    "wof:lastmodified":1537587638,
+    "wof:name":"General Kantardzhievo",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98316,
+    43.359,
+    27.98316,
+    43.359
+],
+  "geometry": {"coordinates":[27.98316,43.359],"type":"Point"}
+}

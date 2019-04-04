@@ -1,0 +1,77 @@
+{
+  "id": 1309842699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31667,41.71667,25.31667,41.71667",
+    "geom:latitude":41.71667,
+    "geom:longitude":25.31667,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ16",
+    "gn:admin3_code":"KRZ16-16",
+    "gn:asciiname":"Krushevska",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729868,
+    "gn:latitude":41.71667,
+    "gn:longitude":25.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Krushevska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0435\u0432\u0441\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Maruflar",
+        "Kruschewska",
+        "Krushevska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729868,
+        "wk:page":"Krushevska"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"16468c985a5cde60cce377939d57067f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309842699,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1309842699,
+    "wof:lastmodified":1537587531,
+    "wof:name":"Krushevska",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31667,
+    41.71667,
+    25.31667,
+    41.71667
+],
+  "geometry": {"coordinates":[25.31667,41.71667],"type":"Point"}
+}

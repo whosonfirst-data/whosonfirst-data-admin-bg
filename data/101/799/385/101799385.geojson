@@ -1,0 +1,114 @@
+{
+  "id": 101799385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":718942.074463,
+    "geom:bbox":"24.9366605774,42.0338490926,24.9510337764,42.0435671763",
+    "geom:latitude":42.039225,
+    "geom:longitude":24.943787,
+    "iso:country":"BG",
+    "lbl:latitude":42.03986,
+    "lbl:longitude":24.942698,
+    "mps:latitude":42.03986,
+    "mps:longitude":24.942698,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u044f\u043d\u0446\u0438"
+    ],
+    "name:eng_x_colloquial":[
+        "Karthlii",
+        "Kartlii",
+        "Karulii",
+        "Katthrliy",
+        "Kattrliy",
+        "Katurliy"
+    ],
+    "name:eng_x_preferred":[
+        "Boyantsi"
+    ],
+    "name:eng_x_variant":[
+        "Bojanci",
+        "Bojanzi",
+        "Kar\u00felii",
+        "Katurlii",
+        "Kat\u00ferliy"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u044f\u043d\u0446\u0438"
+    ],
+    "name:rum_x_preferred":[
+        "Boian\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u044f\u043d\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Kar\u016dlii"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+    "qs:a1_alt":"Plovdiv",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u043e\u044f\u043d\u0446\u0438",
+    "qs:la_lc":"*BGPDV0106029",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u043e\u044f\u043d\u0446\u0438",
+    "qs:loc_alt":"Boyantsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03704040-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732989,
+        "gp:id":835141,
+        "qs:id":8,
+        "wd:id":"Q2012808"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"24d17ece38544ae6ac94d2ba877b7db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799385,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":101799385,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513899781,
+    "wof:name":"\u0411\u043e\u044f\u043d\u0446\u0438",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93666057739597,
+    42.03384909263804,
+    24.9510337763669,
+    42.04356717627644
+],
+  "geometry": {"coordinates":[[[24.94242819442456,42.04356717627644],[24.94954567306712,42.04249754634213],[24.94932460756451,42.04161410963951],[24.9505108161872,42.04143579212462],[24.9498476228548,42.03878548224532],[24.9510337763669,42.03860715981756],[24.9505916582886,42.03684028524543],[24.94466099255249,42.03773172758565],[24.94421907244737,42.03596481696997],[24.94184682847344,42.03632128410129],[24.94140500839887,42.03455435554457],[24.94021890985078,42.03473256213562],[24.93999802916107,42.03384909263804],[24.93762584630241,42.03420545790243],[24.9378466943491,42.03508893342894],[24.93666057739597,42.03526709813042],[24.93688141780223,42.03615057520113],[24.93806755107806,42.03597240748536],[24.93983471753518,42.04304014703683],[24.94220722687794,42.04268372147595],[24.94242819442456,42.04356717627644]]],"type":"Polygon"}
+}

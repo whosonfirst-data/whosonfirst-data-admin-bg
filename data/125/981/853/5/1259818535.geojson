@@ -1,0 +1,77 @@
+{
+  "id": 1259818535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13333,42.86667,27.13333,42.86667",
+    "geom:latitude":42.86667,
+    "geom:longitude":27.13333,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS18",
+    "gn:admin3_code":"BGS18-13",
+    "gn:asciiname":"Listets",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729595,
+    "gn:latitude":42.86667,
+    "gn:longitude":27.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Listets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0441\u0442\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Kara Aliler",
+        "Listez",
+        "Karalar",
+        "Listets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729595
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c38c96b354889dcd97a6f22f3e43dc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259818535,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1259818535,
+    "wof:lastmodified":1537587516,
+    "wof:name":"Listets",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13333,
+    42.86667,
+    27.13333,
+    42.86667
+],
+  "geometry": {"coordinates":[27.13333,42.86667],"type":"Point"}
+}

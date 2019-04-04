@@ -1,0 +1,79 @@
+{
+  "id": 1193171955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.19173,42.64748,27.19173,42.64748",
+    "geom:latitude":42.64748,
+    "geom:longitude":27.19173,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS01",
+    "gn:admin3_code":"BGS01-04",
+    "gn:asciiname":"Karanovo",
+    "gn:country_code":"BG",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730593,
+    "gn:latitude":42.64748,
+    "gn:longitude":27.19173,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Azaplii",
+        "Karanowo",
+        "Azapli",
+        "Kasapl\u016d",
+        "Azapliy",
+        "Karanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730593,
+        "wk:page":"Karanovo%2C_Burgas_Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ab6a533c1f978d3166d9e86252ff63c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1193171955,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1193171955,
+    "wof:lastmodified":1537587575,
+    "wof:name":"Karanovo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19173,
+    42.64748,
+    27.19173,
+    42.64748
+],
+  "geometry": {"coordinates":[27.19173,42.64748],"type":"Point"}
+}

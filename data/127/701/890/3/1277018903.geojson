@@ -1,0 +1,73 @@
+{
+  "id": 1277018903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35,41.71667,25.35,41.71667",
+    "geom:latitude":41.71667,
+    "geom:longitude":25.35,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Sapunare",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727436,
+    "gn:latitude":41.71667,
+    "gn:longitude":25.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sapunare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043f\u0443\u043d\u0430\u0440\u0438\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Sabundzhilar",
+        "Sapunare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727436
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2b8a41b78daf4b27b648b919abfbefd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1277018903,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1277018903,
+    "wof:lastmodified":1537587374,
+    "wof:name":"Sapunare",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35,
+    41.71667,
+    25.35,
+    41.71667
+],
+  "geometry": {"coordinates":[25.35,41.71667],"type":"Point"}
+}

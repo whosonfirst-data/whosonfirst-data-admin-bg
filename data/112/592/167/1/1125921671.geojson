@@ -1,0 +1,111 @@
+{
+  "id": 1125921671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.05,44.1,27.05,44.1",
+    "geom:latitude":44.1,
+    "geom:longitude":27.05,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":44.1,
+    "lbl:longitude":27.05,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0440\u0435\u0431\u044a\u0440\u043d\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Srebarna"
+    ],
+    "name:eng_x_preferred":[
+        "Srebarna"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0440\u0435\u0431\u044b\u0440\u043d\u0430_"
+    ],
+    "name:rum_x_preferred":[
+        "Sreb\u0103rna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u0431\u044b\u0440\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u0435\u0431\u0438\u0440\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Sreb\u00e2rna"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":726943,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sreburna",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Silistra",
+    "qs_pg:photos":104,
+    "qs_pg:photos_1k":21,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":104,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":983588,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":839777,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Silistra",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726943,
+        "gp:id":839777,
+        "qs_pg:id":983588,
+        "wd:id":"Q4438449"
+    },
+    "wof:country":"BG",
+    "wof:created":1497296502,
+    "wof:geomhash":"960edf9a7642d056f2cef027dd795591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125921671,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1125921671,
+    "wof:lastmodified":1553816631,
+    "wof:name":"Sreburna",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05,
+    44.1,
+    27.05,
+    44.1
+],
+  "geometry": {"coordinates":[27.05,44.1],"type":"Point"}
+}

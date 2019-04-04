@@ -1,0 +1,76 @@
+{
+  "id": 1277016605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.969,42.61456,22.969,42.61456",
+    "geom:latitude":42.61456,
+    "geom:longitude":22.969,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Bogdanov Dol",
+    "gn:country_code":"BG",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733127,
+    "gn:latitude":42.61456,
+    "gn:longitude":22.969,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Bogdanov Dol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432\u0434\u043e\u043b"
+    ],
+    "name:bul_x_variant":[
+        "Bogdanov Dol",
+        "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432 \u0414\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Bogdanow-Dol",
+        "Bogdanovdol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733127
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8eede941cc49346b555c624ea9ec7cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1277016605,
+            "region_id":85681767
+        }
+    ],
+    "wof:id":1277016605,
+    "wof:lastmodified":1537587747,
+    "wof:name":"Bogdanov Dol",
+    "wof:parent_id":85681767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.969,
+    42.61456,
+    22.969,
+    42.61456
+],
+  "geometry": {"coordinates":[22.969,42.61456],"type":"Point"}
+}

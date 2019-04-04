@@ -1,0 +1,114 @@
+{
+  "id": 101800227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":279617.758517,
+    "geom:bbox":"24.3697977462,41.6598184153,24.3791119791,41.6645877637",
+    "geom:latitude":41.662158,
+    "geom:longitude":24.374732,
+    "iso:country":"BG",
+    "lbl:latitude":41.661962,
+    "lbl:longitude":24.374732,
+    "mps:latitude":41.661962,
+    "mps:longitude":24.374732,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u044c\u043e\u0432\u0440\u0435\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Gyovren"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10d5\u10e0\u10d4\u10dc\u10d8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10dd\u10d5\u10e0\u10d4\u10dc\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Gyovren"
+    ],
+    "name:msa_x_preferred":[
+        "Gyovren"
+    ],
+    "name:ron_x_preferred":[
+        "Govren"
+    ],
+    "name:rum_x_preferred":[
+        "Govren"
+    ],
+    "name:swe_x_preferred":[
+        "Govren"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00f6vren"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u044c\u043e\u0432\u0440\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Gjowren"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043c\u043e\u043b\u044f\u043d",
+    "qs:a1_alt":"Smolyan",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u044c\u043e\u0432\u0440\u0435\u043d",
+    "qs:la_lc":"*BGSML0918424",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u044c\u043e\u0432\u0440\u0435\u043d",
+    "qs:loc_alt":"Gyovren",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":261,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731100,
+        "gp:id":836217,
+        "qs:id":8,
+        "qs_pg:id":249898,
+        "wd:id":"Q3623055"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5d351064f533f4c935b612300d315c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800227,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":101800227,
+    "wof:lastmodified":1553815511,
+    "wof:name":"\u0413\u044c\u043e\u0432\u0440\u0435\u043d",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36979774617396,
+    41.65981841533409,
+    24.37911197909654,
+    41.6645877636912
+],
+  "geometry": {"coordinates":[[[24.37911197909654,41.66407364952096],[24.37827020753099,41.66053236830032],[24.37708991747365,41.66070374209392],[24.37687951133796,41.65981841533409],[24.36979774617396,41.6608463489498],[24.37042869824876,41.66350237665495],[24.37278940685422,41.66315977047918],[24.3729997730166,41.6640451044384],[24.37536049075754,41.66370243691131],[24.37557089749453,41.6645877636912],[24.37911197909654,41.66407364952096]]],"type":"Polygon"}
+}

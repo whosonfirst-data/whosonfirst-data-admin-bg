@@ -1,0 +1,77 @@
+{
+  "id": 1326860771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.63333,43.03333,26.63333,43.03333",
+    "geom:latitude":43.03333,
+    "geom:longitude":26.63333,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"SHU10",
+    "gn:admin3_code":"SHU10-09",
+    "gn:asciiname":"Mengishevo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729152,
+    "gn:latitude":43.03333,
+    "gn:longitude":26.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mengishevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u043d\u0433\u0438\u0448\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "K\u2019opekkioy",
+        "Mengischewo",
+        "K\u2019opek K\u2019oy",
+        "Mengishevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729152
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"cf88db0820c910e9b229a79346ea497b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326860771,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1326860771,
+    "wof:lastmodified":1537587487,
+    "wof:name":"Mengishevo",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.63333,
+    43.03333,
+    26.63333,
+    43.03333
+],
+  "geometry": {"coordinates":[26.63333,43.03333],"type":"Point"}
+}

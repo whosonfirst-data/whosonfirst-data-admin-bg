@@ -1,0 +1,74 @@
+{
+  "id": 1326965107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.52776,42.69671,27.52776,42.69671",
+    "geom:latitude":42.69671,
+    "geom:longitude":27.52776,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Gaberevo",
+    "gn:country_code":"BG",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731568,
+    "gn:latitude":42.69671,
+    "gn:longitude":27.52776,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Gaberevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0431\u0435\u0440\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Gyurgenkioy",
+        "Gaberewo",
+        "Gyurgen K\u2019oy",
+        "Gaberevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731568
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6545f78568da8340d65976e1a13e13db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326965107,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1326965107,
+    "wof:lastmodified":1537587643,
+    "wof:name":"Gaberevo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.52776,
+    42.69671,
+    27.52776,
+    42.69671
+],
+  "geometry": {"coordinates":[27.52776,42.69671],"type":"Point"}
+}

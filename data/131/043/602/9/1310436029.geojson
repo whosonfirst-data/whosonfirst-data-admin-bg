@@ -1,0 +1,75 @@
+{
+  "id": 1310436029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.15,43.08333,24.15,43.08333",
+    "geom:latitude":43.08333,
+    "geom:longitude":24.15,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"LOV38",
+    "gn:admin3_code":"LOV38-06",
+    "gn:asciiname":"Zlatna Panega",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725273,
+    "gn:latitude":43.08333,
+    "gn:longitude":24.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zlatna Panega",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u043d\u0430 \u043f\u0430\u043d\u0435\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Panega",
+        "Zlatna Panega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725273
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b8962496ada16a48b5d7a2c1cdc7b024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310436029,
+            "region_id":85681811
+        }
+    ],
+    "wof:id":1310436029,
+    "wof:lastmodified":1537587232,
+    "wof:name":"Zlatna Panega",
+    "wof:parent_id":85681811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15,
+    43.08333,
+    24.15,
+    43.08333
+],
+  "geometry": {"coordinates":[24.15,43.08333],"type":"Point"}
+}

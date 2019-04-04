@@ -1,0 +1,79 @@
+{
+  "id": 1243490809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94853,42.37498,22.94853,42.37498",
+    "geom:latitude":42.37498,
+    "geom:longitude":22.94853,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL04",
+    "gn:asciiname":"Golema Fucha",
+    "gn:country_code":"BG",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731371,
+    "gn:latitude":42.37498,
+    "gn:longitude":22.94853,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Golema Fucha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u0430 \u0444\u0443\u0447\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u043e\u043b\u0435\u043c\u0430 \u0424\u0443\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Golyema-Fucha",
+        "Golema-Futscha",
+        "Golyama Fucha",
+        "Golema Fucha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731371,
+        "wk:page":"Golema_Fucha"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6c492871df393919a541403a12999ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243490809,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1243490809,
+    "wof:lastmodified":1537587632,
+    "wof:name":"Golema Fucha",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94853,
+    42.37498,
+    22.94853,
+    42.37498
+],
+  "geometry": {"coordinates":[22.94853,42.37498],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226571963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.23995,43.68317,24.23995,43.68317",
+    "geom:latitude":43.68317,
+    "geom:longitude":24.23995,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"VRC31",
+    "gn:admin3_code":"VRC31-02",
+    "gn:asciiname":"Gorni Vadin",
+    "gn:country_code":"BG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731195,
+    "gn:latitude":43.68317,
+    "gn:longitude":24.23995,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Gorni Vadin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438 \u0412\u0430\u0434\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Vadin",
+        "Nov Vadin",
+        "Gorni Wadin",
+        "Gorni Vadin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731195
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"48f63f27235070b931d749e49e031305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226571963,
+            "region_id":85681817
+        }
+    ],
+    "wof:id":1226571963,
+    "wof:lastmodified":1537587618,
+    "wof:name":"Gorni Vadin",
+    "wof:parent_id":85681817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.23995,
+    43.68317,
+    24.23995,
+    43.68317
+],
+  "geometry": {"coordinates":[24.23995,43.68317],"type":"Point"}
+}

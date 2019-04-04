@@ -1,0 +1,122 @@
+{
+  "id": 101800379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:bbox":"23.1289404194,41.363759748,23.146569181,41.3767261283",
+    "geom:latitude":41.369272,
+    "geom:longitude":23.138938,
+    "iso:country":"BG",
+    "lbl:latitude":41.369908,
+    "lbl:longitude":23.142744,
+    "mps:latitude":41.369908,
+    "mps:longitude":23.142744,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0424\u041a \u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Belasiza Petritsch"
+    ],
+    "name:eng_x_preferred":[
+        "Belasitsa"
+    ],
+    "name:eng_x_variant":[
+        "Belasica",
+        "Eleschniza",
+        "Eleshnitsa"
+    ],
+    "name:fra_x_preferred":[
+        "Belassitza Petritch"
+    ],
+    "name:ita_x_preferred":[
+        "Profesionalen Futbolen Klub Belasica Petri\u010d"
+    ],
+    "name:lit_x_preferred":[
+        "PFK Belasica Petri\u010d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0424\u041a \u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Belasitsa Petritsj"
+    ],
+    "name:pol_x_preferred":[
+        "Be\u0142asica Petricz"
+    ],
+    "name:por_x_preferred":[
+        "PFC Belasitsa Petrich"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Eleschniza"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430",
+    "qs:la_lc":"*BGBLG3303294",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430",
+    "qs:loc_alt":"Belasitsa",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":321,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0370176e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":733367,
+        "gp:id":834864,
+        "qs:id":102394,
+        "wd:id":"Q6707867"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6f9a6baf0f8a5fda4f57c8436dc60c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800379,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800379,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715086,
+    "wof:name":"\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.12894041943787,
+    41.36375974799057,
+    23.14656918098262,
+    41.37672612832375
+],
+  "geometry": {"coordinates":[[[23.14596459605451,41.37359022738963],[23.145391748593,41.37092426878979],[23.14656918098262,41.37076760523479],[23.14618728761059,41.36899029804323],[23.14500988759556,41.36914695636955],[23.14462805644291,41.36736963859926],[23.14345068355431,41.36752627780572],[23.14325979535448,41.36663761430066],[23.13737293317456,41.36742058889388],[23.13718213336358,41.36653191098594],[23.1360047613843,41.36668846161757],[23.13581398521575,41.36579977976021],[23.13463662418076,41.36595631388809],[23.13444587165304,41.3650676280821],[23.13326852156291,41.36522414570675],[23.13307779267512,41.36433545595207],[23.13072310914589,41.36464844430446],[23.13053242008203,41.36375974799057],[23.12935508664401,41.36391621871888],[23.13011782286361,41.36747100639946],[23.12894041943787,41.36762747367999],[23.12913110593411,41.36851616987042],[23.13030852554908,41.36835969997878],[23.13049923568707,41.36924839222178],[23.13756374044215,41.36830926546497],[23.13775455516668,41.36919794069934],[23.13893197046474,41.36904136833789],[23.1393136546626,41.37081870956956],[23.14049109709345,41.37066211808991],[23.14087284350501,41.37243944874712],[23.14205031306932,41.37228283814761],[23.14300489061077,41.37672612832375],[23.1453599759086,41.37641283930378],[23.14478710985088,41.37374688489581],[23.14596459605451,41.37359022738963]]],"type":"Polygon"}
+}

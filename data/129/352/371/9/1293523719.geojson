@@ -1,0 +1,80 @@
+{
+  "id": 1293523719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38333,42.86667,25.38333,42.86667",
+    "geom:latitude":42.86667,
+    "geom:longitude":25.38333,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB05",
+    "gn:admin3_code":"GAB05-12",
+    "gn:asciiname":"Iztochnik",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730822,
+    "gn:latitude":42.86667,
+    "gn:longitude":25.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Iztochnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Poprazitye",
+        "Poprazite",
+        "Popreditsi",
+        "Popredizi",
+        "Popredits\u016d",
+        "Iztochnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730822,
+        "wk:page":"Iztochnik"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"58c5cd05f4a7b7af78049dac2b13e53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293523719,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1293523719,
+    "wof:lastmodified":1537587589,
+    "wof:name":"Iztochnik",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38333,
+    42.86667,
+    25.38333,
+    42.86667
+],
+  "geometry": {"coordinates":[25.38333,42.86667],"type":"Point"}
+}

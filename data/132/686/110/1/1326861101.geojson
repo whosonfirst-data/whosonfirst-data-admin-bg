@@ -1,0 +1,83 @@
+{
+  "id": 1326861101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.81667,42.48333,25.81667,42.48333",
+    "geom:latitude":42.48333,
+    "geom:longitude":25.81667,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR31",
+    "gn:admin3_code":"SZR31-30",
+    "gn:asciiname":"Oryahovitsa",
+    "gn:country_code":"BG",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728567,
+    "gn:latitude":42.48333,
+    "gn:longitude":25.81667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Oryahovitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u044f\u0445\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Oryahovitsa"
+    ],
+    "name:und_x_variant":[
+        "Uraevitsa",
+        "Oriahovica",
+        "Orekhovitsa",
+        "Orehovitza",
+        "Orechowiza",
+        "Orjachovica",
+        "Oryekhovitsa",
+        "Oryakhovitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728567
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0cdc001319cc1baf7c730b8d16c25fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326861101,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1326861101,
+    "wof:lastmodified":1537587450,
+    "wof:name":"Oryahovitsa",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.81667,
+    42.48333,
+    25.81667,
+    42.48333
+],
+  "geometry": {"coordinates":[25.81667,42.48333],"type":"Point"}
+}

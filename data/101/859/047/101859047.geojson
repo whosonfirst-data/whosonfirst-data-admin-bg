@@ -1,0 +1,113 @@
+{
+  "id": 101859047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.568852,41.402319,25.568852,41.402319",
+    "geom:latitude":41.402319,
+    "geom:longitude":25.568852,
+    "iso:country":"BG",
+    "lbl:latitude":41.402319,
+    "lbl:longitude":25.568852,
+    "mps:latitude":41.402319,
+    "mps:longitude":25.568852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430 \u0427\u0438\u043d\u043a\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430 \u0447\u0438\u043d\u043a\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Golyama Chinka"
+    ],
+    "name:eng_x_variant":[
+        "Golema Tschinka",
+        "Goljama Chinka",
+        "Yakbasan Kebir"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430-\u0427\u0438\u043d\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Goleama Cinka"
+    ],
+    "name:rum_x_preferred":[
+        "Goleama Cinka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430-\u0427\u0438\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430 \u0427\u0438\u043d\u043a\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Yakbasan Kebir"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u043e\u043b\u044f\u043c\u0430 \u0447\u0438\u043d\u043a\u0430",
+    "qs:loc_alt":"Golyama Chinka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0370f21a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":731334,
+        "gp:id":836421,
+        "qs:id":6,
+        "wd:id":"Q1084408"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c0dcadd78c496a1a2fa788ffe5adc57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101859047,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101859047,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544744713,
+    "wof:name":"\u0413\u043e\u043b\u044f\u043c\u0430 \u0447\u0438\u043d\u043a\u0430",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.568852,
+    41.402319,
+    25.568852,
+    41.402319
+],
+  "geometry": {"coordinates":[25.568852,41.402319],"type":"Point"}
+}

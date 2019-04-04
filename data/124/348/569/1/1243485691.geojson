@@ -1,0 +1,76 @@
+{
+  "id": 1243485691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8,41.86667,23.8,41.86667",
+    "geom:latitude":41.86667,
+    "geom:longitude":23.8,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"PAZ08",
+    "gn:admin3_code":"PAZ08-10",
+    "gn:asciiname":"Medeni Polyani",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729179,
+    "gn:latitude":41.86667,
+    "gn:longitude":23.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Medeni Polyani",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0434\u0435\u043d\u0438 \u041f\u043e\u043b\u044f\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Nowa Machala",
+        "Nova Makhala",
+        "Medeni Polyani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729179
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2600330c7be79122e165c1025b657b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243485691,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":1243485691,
+    "wof:lastmodified":1537587489,
+    "wof:name":"Medeni Polyani",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8,
+    41.86667,
+    23.8,
+    41.86667
+],
+  "geometry": {"coordinates":[23.8,41.86667],"type":"Point"}
+}

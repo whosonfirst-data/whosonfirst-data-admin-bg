@@ -1,0 +1,74 @@
+{
+  "id": 1259911367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58347,42.83293,22.58347,42.83293",
+    "geom:latitude":42.83293,
+    "geom:longitude":22.58347,
+    "gn:admin1_code":"49",
+    "gn:admin2_code":"PER51",
+    "gn:asciiname":"Zabel",
+    "gn:country_code":"BG",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725478,
+    "gn:latitude":42.83293,
+    "gn:longitude":22.58347,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Zabel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0431\u0435\u043b"
+    ],
+    "name:und_x_variant":[
+        "Sabol",
+        "Zabyel",
+        "Zabel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725478
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d9b83d800a07481f428b2fc147b8d53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259911367,
+            "region_id":85681767
+        }
+    ],
+    "wof:id":1259911367,
+    "wof:lastmodified":1537587248,
+    "wof:name":"Zabel",
+    "wof:parent_id":85681767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58347,
+    42.83293,
+    22.58347,
+    42.83293
+],
+  "geometry": {"coordinates":[22.58347,42.83293],"type":"Point"}
+}

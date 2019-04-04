@@ -1,0 +1,68 @@
+{
+  "id": 1343591671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16667,42.71667,24.16667,42.71667",
+    "geom:latitude":42.71667,
+    "geom:longitude":24.16667,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Srednogorie",
+    "gn:country_code":"BG",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726918,
+    "gn:latitude":42.71667,
+    "gn:longitude":24.16667,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Srednogorie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0440\u0435\u0434\u043d\u043e\u0433\u043e\u0440\u0438\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726918
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"086a8e4754973cae15a0c90d9dcba35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343591671,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1343591671,
+    "wof:lastmodified":1537587342,
+    "wof:name":"Srednogorie",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16667,
+    42.71667,
+    24.16667,
+    42.71667
+],
+  "geometry": {"coordinates":[24.16667,42.71667],"type":"Point"}
+}

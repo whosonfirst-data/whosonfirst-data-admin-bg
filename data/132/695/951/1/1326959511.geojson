@@ -1,0 +1,76 @@
+{
+  "id": 1326959511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.50027,43.84838,26.50027,43.84838",
+    "geom:latitude":43.84838,
+    "geom:longitude":26.50027,
+    "gn:admin1_code":"52",
+    "gn:admin2_code":"RAZ16",
+    "gn:admin3_code":"RAZ16-05",
+    "gn:asciiname":"Zadruga",
+    "gn:country_code":"BG",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725474,
+    "gn:latitude":43.84838,
+    "gn:longitude":26.50027,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Zadruga",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0434\u0440\u0443\u0433\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kishlakioy",
+        "Sadruga",
+        "K\u016dshla K\u2019oy",
+        "Zadruga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725474
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"567efd116161b18a9c9995e82c28a028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326959511,
+            "region_id":85681857
+        }
+    ],
+    "wof:id":1326959511,
+    "wof:lastmodified":1537587248,
+    "wof:name":"Zadruga",
+    "wof:parent_id":85681857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.50027,
+    43.84838,
+    26.50027,
+    43.84838
+],
+  "geometry": {"coordinates":[26.50027,43.84838],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 101798329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":778721.328977,
+    "geom:bbox":"27.4672170628,42.7681705819,27.4816658407,42.7777577904",
+    "geom:latitude":42.772291,
+    "geom:longitude":27.473669,
+    "iso:country":"BG",
+    "lbl:latitude":42.772693,
+    "lbl:longitude":27.473669,
+    "mps:latitude":42.772693,
+    "mps:longitude":27.473669,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0446\u0438\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Stracin"
+    ],
+    "name:eng_x_preferred":[
+        "Stratsin"
+    ],
+    "name:eng_x_variant":[
+        "Akhli",
+        "Akhlii",
+        "Akhliy",
+        "Stracin",
+        "Strazin"
+    ],
+    "name:fre_x_preferred":[
+        "Stratsin"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0446\u0438\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Stra\u021bin"
+    ],
+    "name:rum_x_preferred":[
+        "Stra\u021bin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0446\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Stratsin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0446\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Akhli"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u0421\u0442\u0440\u0430\u0446\u0438\u043d",
+    "qs:la_lc":"*BGBGS1769746",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0440\u0430\u0446\u0438\u043d",
+    "qs:loc_alt":"Stratsin",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372d2c4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726739,
+        "gp:id":839939,
+        "wd:id":"Q1075234",
+        "wk:page":"Stratsin"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"04b769ef1416cec0aab7227b876236e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798329,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101798329,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641934,
+    "wof:name":"\u0421\u0442\u0440\u0430\u0446\u0438\u043d",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.46721706277054,
+    42.7681705818801,
+    27.48166584065683,
+    42.77775779036091
+],
+  "geometry": {"coordinates":[[[27.47343218453392,42.77734077519699],[27.47316876305194,42.77646546352958],[27.47675051118347,42.77583984657593],[27.47648705124601,42.77496454391928],[27.4776809362312,42.77475598052871],[27.47741747041226,42.77388067973493],[27.47861133172643,42.77367210592888],[27.47834786002653,42.77279680699797],[27.48073552792903,42.77237962456712],[27.48047203406782,42.77150433107329],[27.48166584065683,42.771295722449],[27.48113885158153,42.76954513747518],[27.47875129613823,42.76996232643802],[27.47822441378912,42.76821172032106],[27.47344934452201,42.76904590179834],[27.4731859840673,42.7681705818801],[27.46721706277054,42.76921297612392],[27.46958694844562,42.77709095456953],[27.470780894033,42.77688247154686],[27.47104428294102,42.77775779036091],[27.47343218453392,42.77734077519699]]],"type":"Polygon"}
+}

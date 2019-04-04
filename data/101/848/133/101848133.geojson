@@ -1,0 +1,101 @@
+{
+  "id": 101848133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:bbox":"23.3915639012,42.6003425199,23.4003702448,42.6059840274",
+    "geom:latitude":42.603138,
+    "geom:longitude":23.395745,
+    "iso:country":"BG",
+    "lbl:latitude":42.602843,
+    "lbl:longitude":23.395746,
+    "mps:latitude":42.602843,
+    "mps:longitude":23.395746,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Rayon Pancharevo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Panczarewo"
+    ],
+    "name:ron_x_preferred":[
+        "Pancearevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Pantscharewo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430)",
+    "qs:a1_alt":"Sofia (stolitsa)",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e",
+    "qs:la_lc":"*BGSOF4655419",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e",
+    "qs:loc_alt":"Pancharevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":590,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728440,
+        "gp:id":838611,
+        "qs:id":211578,
+        "qs_pg:id":211578,
+        "wd:id":"Q1027607"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5e307a7432d88634e8ed86e2022e2fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101848133,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":101848133,
+    "wof:lastmodified":1527714807,
+    "wof:name":"\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e",
+    "wof:parent_id":85681771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.39156390115141,
+    42.60034251992857,
+    23.40037024477391,
+    42.60598402742409
+],
+  "geometry": {"coordinates":[[[23.39857341403695,42.60566373288759],[23.39837200225742,42.60477686732258],[23.39957256018391,42.6046167015175],[23.39916972662661,42.60284297199655],[23.40037024477391,42.60268279751597],[23.40016882299744,42.60179593355963],[23.39896832188964,42.6019561052787],[23.39876692517987,42.60106923725652],[23.39756643541466,42.60122939201688],[23.39736506377034,42.60034251992857],[23.39256311590805,42.60098298595017],[23.3927644193941,42.60186986907991],[23.39156390115141,42.60202995285033],[23.39236912716797,42.60557748336663],[23.39597086931161,42.60509715633691],[23.3961722470064,42.60598402742409],[23.39857341403695,42.60566373288759]]],"type":"Polygon"}
+}

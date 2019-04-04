@@ -1,0 +1,78 @@
+{
+  "id": 1242708803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3,42.65,25.3,42.65",
+    "geom:latitude":42.65,
+    "geom:longitude":25.3,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR12",
+    "gn:admin3_code":"SZR12-05",
+    "gn:asciiname":"Dunavtsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731811,
+    "gn:latitude":42.65,
+    "gn:longitude":25.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dunavtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bayaslii",
+        "Dunawzi",
+        "Bayazetli",
+        "Bakhaslii",
+        "Dunavtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731811
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5b9847d683caafb7dd7edecfa1abe440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242708803,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1242708803,
+    "wof:lastmodified":1537587658,
+    "wof:name":"Dunavtsi",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3,
+    42.65,
+    25.3,
+    42.65
+],
+  "geometry": {"coordinates":[25.3,42.65],"type":"Point"}
+}

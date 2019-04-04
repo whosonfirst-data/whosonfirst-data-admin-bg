@@ -1,0 +1,74 @@
+{
+  "id": 1293031461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88333,42.55,25.88333,42.55",
+    "geom:latitude":42.55,
+    "geom:longitude":25.88333,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"SLV16",
+    "gn:asciiname":"Kriva Krusha",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729924,
+    "gn:latitude":42.55,
+    "gn:longitude":25.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kriva Krusha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u043a\u0440\u0438\u0432\u0430 \u043a\u0440\u0443\u0448\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kriwa-Kruscha",
+        "Kriva Krusha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729924
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"85629ceb1a13afe4eb566d3f5fd07720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293031461,
+            "region_id":85681799
+        }
+    ],
+    "wof:id":1293031461,
+    "wof:lastmodified":1537587535,
+    "wof:name":"Kriva Krusha",
+    "wof:parent_id":85681799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88333,
+    42.55,
+    25.88333,
+    42.55
+],
+  "geometry": {"coordinates":[25.88333,42.55],"type":"Point"}
+}

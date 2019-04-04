@@ -1,0 +1,71 @@
+{
+  "id": 1209035365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.75436,43.53376,25.75436,43.53376",
+    "geom:latitude":43.53376,
+    "geom:longitude":25.75436,
+    "gn:admin1_code":"53",
+    "gn:admin2_code":"RSE03",
+    "gn:admin3_code":"RSE03-07",
+    "gn:asciiname":"Brestovitsa",
+    "gn:country_code":"BG",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732897,
+    "gn:latitude":43.53376,
+    "gn:longitude":25.75436,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Brestovitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Bryastovitsa",
+        "Brestowiza",
+        "Brestovitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732897
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8769b238746984bbf85ca85c195f0050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209035365
+        }
+    ],
+    "wof:id":1209035365,
+    "wof:lastmodified":1537587734,
+    "wof:name":"Brestovitsa",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75436,
+    43.53376,
+    25.75436,
+    43.53376
+],
+  "geometry": {"coordinates":[25.75436,43.53376],"type":"Point"}
+}

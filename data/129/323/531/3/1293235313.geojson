@@ -1,0 +1,76 @@
+{
+  "id": 1293235313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78333,42.41667,24.78333,42.41667",
+    "geom:latitude":42.41667,
+    "geom:longitude":24.78333,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"PDV12",
+    "gn:admin3_code":"PDV12-14",
+    "gn:asciiname":"Dolna Mahala",
+    "gn:country_code":"BG",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732126,
+    "gn:latitude":42.41667,
+    "gn:longitude":24.78333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Dolna Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dolna Magala",
+        "Dolna Mahala",
+        "Dolna-Machala",
+        "Dolna Makhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732126
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"47b8de45fd4b97f044ba816effc2bb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293235313,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":1293235313,
+    "wof:lastmodified":1537587681,
+    "wof:name":"Dolna Mahala",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78333,
+    42.41667,
+    24.78333,
+    42.41667
+],
+  "geometry": {"coordinates":[24.78333,42.41667],"type":"Point"}
+}

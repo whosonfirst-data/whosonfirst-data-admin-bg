@@ -1,0 +1,75 @@
+{
+  "id": 1343292889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91667,41.41667,25.91667,41.41667",
+    "geom:latitude":41.41667,
+    "geom:longitude":25.91667,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Dab",
+    "gn:country_code":"BG",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":731875,
+    "gn:latitude":41.41667,
+    "gn:longitude":25.91667,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dab",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bul_x_preferred":[
+        "\u0414\u044a\u0431"
+    ],
+    "name:bul_x_variant":[
+        "Dab"
+    ],
+    "name:und_x_variant":[
+        "Frenk K\u2019oy",
+        "D\u016db"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731875
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2743efc56a8f5390d18fde898afedf63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343292889,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1343292889,
+    "wof:lastmodified":1537587662,
+    "wof:name":"Dab",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91667,
+    41.41667,
+    25.91667,
+    41.41667
+],
+  "geometry": {"coordinates":[25.91667,41.41667],"type":"Point"}
+}

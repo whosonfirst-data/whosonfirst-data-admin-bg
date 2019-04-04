@@ -1,0 +1,74 @@
+{
+  "id": 1309942723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78429,41.40954,24.78429,41.40954",
+    "geom:latitude":41.40954,
+    "geom:longitude":24.78429,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"SML27",
+    "gn:admin3_code":"SML27-06",
+    "gn:asciiname":"Koritata",
+    "gn:country_code":"BG",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730153,
+    "gn:latitude":41.40954,
+    "gn:longitude":24.78429,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Koritata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u0430\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Korita",
+        "Koritata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730153
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"366aa1994ee28081639c294ef90daf0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309942723,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1309942723,
+    "wof:lastmodified":1537587549,
+    "wof:name":"Koritata",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78429,
+    41.40954,
+    24.78429,
+    41.40954
+],
+  "geometry": {"coordinates":[24.78429,41.40954],"type":"Point"}
+}

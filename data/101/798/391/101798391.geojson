@@ -1,0 +1,179 @@
+{
+  "id": 101798391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000226,
+    "geom:area_square_m":2036449.623863,
+    "geom:bbox":"25.2949825507,43.1996492656,25.324172315,43.2139679005",
+    "geom:latitude":43.20632,
+    "geom:longitude":25.308724,
+    "gn:population":3010,
+    "iso:country":"BG",
+    "lbl:latitude":43.207472,
+    "lbl:longitude":25.307286,
+    "mps:latitude":43.207472,
+    "mps:longitude":25.307286,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u044f\u043b\u0430 \u0447\u0435\u0440\u043a\u0432\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Byala Cherkva"
+    ],
+    "name:chi_x_preferred":[
+        "\u767d\u5207\u723e\u514b\u74e6"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u06cc\u0627\u0644\u0627 \u0686\u06ce\u0631\u06a9\u06a4\u0627"
+    ],
+    "name:dut_x_preferred":[
+        "Byala Cherkva"
+    ],
+    "name:eng_x_colloquial":[
+        "Bela Cerkva",
+        "Bela-Cerkova",
+        "Bela-Tchekva",
+        "Bjela-Cerkova"
+    ],
+    "name:eng_x_preferred":[
+        "Byala Cherkva"
+    ],
+    "name:eng_x_variant":[
+        "Bela Cherkva",
+        "Bela Tscherkwa",
+        "Bela-\u010cerkova",
+        "Bjala Cherkva",
+        "Bjela-Cerkva",
+        "Bjela-\u010cerkova",
+        "Byala Cherkova",
+        "Byela Cherkva",
+        "Byela-Cherkova",
+        "B\u00e9la-Tchekva",
+        "B\u011bla \u010cerkva",
+        "Gorni Turcheta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0627\u0644\u0627 \u0686\u0631\u06a9\u0648\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u044f\u043b\u0430-\u0427\u0435\u0440\u043a\u0432\u0430"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u06cc\u0627\u0644\u0627 \u0686\u0631\u06a9\u0648\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Bjala \u010derkva"
+    ],
+    "name:ron_x_preferred":[
+        "Beala Cerkva"
+    ],
+    "name:rum_x_preferred":[
+        "Biala Cerkva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044f\u043b\u0430-\u0427\u0435\u0440\u043a\u0432\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Biala \u010cerkva"
+    ],
+    "name:slo_x_preferred":[
+        "Biala \u010cerkva"
+    ],
+    "name:spa_x_preferred":[
+        "Byala Cherkva"
+    ],
+    "name:swe_x_preferred":[
+        "Bjala tjerkva"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u04d9\u043b\u0430-\u0427\u0435\u0440\u043a\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044f\u043b\u0430 \u0427\u0435\u0440\u043a\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Gorni Turcheta"
+    ],
+    "name:vie_x_preferred":[
+        "Byala Cherkva"
+    ],
+    "name:war_x_preferred":[
+        "Byala Cherkva"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u5207\u723e\u514b\u74e6"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+    "qs:a1_alt":"Veliko Tarnovo",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u044f\u043b\u0430 \u0447\u0435\u0440\u043a\u0432\u0430",
+    "qs:la_lc":"*BGVTR2207716",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u044f\u043b\u0430 \u0447\u0435\u0440\u043a\u0432\u0430",
+    "qs:loc_alt":"Byala cherkva",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":104.0,
+    "wd:latitude":43.2,
+    "wd:longitude":25.3,
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03705ecc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732717,
+        "gp:id":835354,
+        "qs:id":1272274,
+        "qs_pg:id":1272274,
+        "wd:id":"Q407239",
+        "wk:page":"Byala Cherkva"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c45e89cab6e9996a64343966b96d6ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798391,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":101798391,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641923,
+    "wof:name":"\u0411\u044f\u043b\u0430 \u0447\u0435\u0440\u043a\u0432\u0430",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:population":3010,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2949825506891,
+    43.19964926555735,
+    25.32417231500017,
+    43.2139679005108
+],
+  "geometry": {"coordinates":[[[25.31836580717862,43.20787871958692],[25.31957394092154,43.20769548667323],[25.31933991526364,43.20681417688542],[25.32417231500017,43.20608111554156],[25.32370415496285,43.20431851714773],[25.32249609925992,43.20450179746081],[25.32202801093115,43.20273918681846],[25.32081998275549,43.20292244649238],[25.32058596975469,43.20204113577961],[25.31454581421667,43.20295720447501],[25.31431189610669,43.20207587632194],[25.31310386207213,43.20225904412678],[25.3128699704352,43.20137771131635],[25.31166194682947,43.20156086168021],[25.3114280816647,43.20067952421283],[25.30780402211269,43.20122888024372],[25.30757021762707,43.20034753173275],[25.30636220153406,43.20053061872346],[25.30612842351718,43.19964926555735],[25.30371240552421,43.20001539041334],[25.30394614933113,43.2008967499649],[25.29790590207779,43.20181182874654],[25.29837324670677,43.20357457538461],[25.29716514302885,43.20375755478193],[25.29739881227408,43.20463892910067],[25.2949825506891,43.20500485153349],[25.29521619507312,43.20588623077384],[25.29642434631137,43.20570327349037],[25.29689169738231,43.20746602120545],[25.29930804829257,43.20710005112528],[25.29954177209413,43.20798141640734],[25.3007499546531,43.20779840680166],[25.30238640325285,43.2139679005108],[25.31326082401671,43.21231997165432],[25.31255897065216,43.20967599793437],[25.31859982510292,43.20876003110772],[25.31836580717862,43.20787871958692]]],"type":"Polygon"}
+}

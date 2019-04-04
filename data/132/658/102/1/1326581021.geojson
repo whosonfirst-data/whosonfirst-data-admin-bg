@@ -1,0 +1,74 @@
+{
+  "id": 1326581021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.12554,41.45581,23.12554,41.45581",
+    "geom:latitude":41.45581,
+    "geom:longitude":23.12554,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG33",
+    "gn:asciiname":"Churicheni",
+    "gn:country_code":"BG",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732392,
+    "gn:latitude":41.45581,
+    "gn:longitude":23.12554,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Churicheni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u0440\u0438\u0447\u0435\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Tschuritschene",
+        "Churicheni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732392,
+        "wk:page":"Churicheni"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e4151e61385e17e30a4645347763e1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326581021,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1326581021,
+    "wof:lastmodified":1537587700,
+    "wof:name":"Churicheni",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.12554,
+    41.45581,
+    23.12554,
+    41.45581
+],
+  "geometry": {"coordinates":[23.12554,41.45581],"type":"Point"}
+}

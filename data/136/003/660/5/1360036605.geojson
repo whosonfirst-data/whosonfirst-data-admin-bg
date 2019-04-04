@@ -1,0 +1,79 @@
+{
+  "id": 1360036605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68607,43.58479,27.68607,43.58479",
+    "geom:latitude":43.58479,
+    "geom:longitude":27.68607,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB15",
+    "gn:asciiname":"Zlatia",
+    "gn:country_code":"BG",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725280,
+    "gn:latitude":43.58479,
+    "gn:longitude":27.68607,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Zlatia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u043b\u0442\u0438\u044f"
+    ],
+    "name:bul_x_variant":[
+        "Zlatia",
+        "\u0417\u043b\u0430\u0442\u0438\u044f"
+    ],
+    "name:und_x_variant":[
+        "Kara Murad",
+        "Zlatija",
+        "Caramurat",
+        "Zlatiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725280
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a9fb92fdf658e8dbf2980e99396c2540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360036605,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1360036605,
+    "wof:lastmodified":1537587232,
+    "wof:name":"Zlatia",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68607,
+    43.58479000000001,
+    27.68607,
+    43.58479000000001
+],
+  "geometry": {"coordinates":[27.68607,43.58479000000001],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1125998969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69139,43.67861,22.69139,43.67861",
+    "geom:latitude":43.67861,
+    "geom:longitude":22.69139,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":43.67861,
+    "lbl:longitude":22.69139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Kaluger"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":731039,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Granitovo",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Vidin",
+    "qs_pg:photos":205,
+    "qs_pg:photos_1k":42,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":205,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":241082,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":836661,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Vidin",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731039,
+        "gp:id":836661,
+        "qs_pg:id":241082
+    },
+    "wof:country":"BG",
+    "wof:created":1497299532,
+    "wof:geomhash":"7ab10a3943bf1dea187cc486d8fbcfcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125998969,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1125998969,
+    "wof:lastmodified":1509405991,
+    "wof:name":"Granitovo",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69139,
+    43.67861,
+    22.69139,
+    43.67861
+],
+  "geometry": {"coordinates":[22.69139,43.67861],"type":"Point"}
+}

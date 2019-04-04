@@ -1,0 +1,113 @@
+{
+  "id": 101760573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":253233.220617,
+    "geom:bbox":"25.3548039805,41.6003032469,25.3654821926,41.6056959244",
+    "geom:latitude":41.602477,
+    "geom:longitude":25.360362,
+    "iso:country":"BG",
+    "lbl:latitude":41.602521,
+    "lbl:longitude":25.361777,
+    "mps:latitude":41.602521,
+    "mps:longitude":25.361777,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u043f\u044a\u043b\u0447\u0435\u043d\u0441\u043a\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Opalchensko"
+    ],
+    "name:eng_x_preferred":[
+        "Opulchensko"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dd\u10de\u10d8\u10da\u10e9\u10d4\u10dc\u10e1\u10d9\u10dd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10de\u10d8\u10da\u10e9\u10d4\u10dc\u10e1\u10d9\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043f\u044b\u043b\u0447\u0435\u043d\u0441\u043a\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Opy\u0142czensko"
+    ],
+    "name:ron_x_preferred":[
+        "Op\u0103lcensko"
+    ],
+    "name:rum_x_preferred":[
+        "Op\u0103lcensko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043f\u044b\u043b\u0447\u0435\u043d\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Opltjensko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043f\u0438\u043b\u0447\u0435\u043d\u0441\u044c\u043a\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Khadzhi Mekhmed Olar"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0420\u0435\u0437\u0431\u0430\u0440\u0446\u0438",
+    "qs:la_lc":"*BGKRZ1662445",
+    "qs:level":"locality",
+    "qs:loc":"\u041e\u043f\u044a\u043b\u0447\u0435\u043d\u0441\u043a\u043e",
+    "qs:loc_alt":"Opalchensko",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728620,
+        "qs:id":8,
+        "wd:id":"Q2460916"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"118b970123babaa2a2f292b53b3c1c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101760573,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101760573,
+    "wof:lastmodified":1527689331,
+    "wof:name":"\u041e\u043f\u044a\u043b\u0447\u0435\u043d\u0441\u043a\u043e",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35480398051698,
+    41.60030324689171,
+    25.36548219262227,
+    41.60569592442698
+],
+  "geometry": {"coordinates":[[[25.36548219262227,41.60435555366843],[25.36534147960646,41.60380208069643],[25.364164483975,41.60398510663271],[25.36326693112039,41.6004540984402],[25.3585591419079,41.60118601498374],[25.35833483928718,41.60030324689171],[25.35480398051698,41.60085202992883],[25.35525249890901,41.60261758292029],[25.35760647464298,41.60225172916859],[25.35805509174543,41.60401726383049],[25.36040910658073,41.60365134253669],[25.36063346011844,41.60453410146471],[25.36298748218297,41.60416811873949],[25.36337589571616,41.60569592442698],[25.36548219262227,41.60435555366843]]],"type":"Polygon"}
+}

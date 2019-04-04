@@ -1,0 +1,101 @@
+{
+  "id": 101800281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":369517.987113,
+    "geom:bbox":"25.1543230114,41.3473925014,25.1648780551,41.3551829953",
+    "geom:latitude":41.351157,
+    "geom:longitude":25.159459,
+    "iso:country":"BG",
+    "lbl:latitude":41.350487,
+    "lbl:longitude":25.159819,
+    "mps:latitude":41.350487,
+    "mps:longitude":25.159819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u043e\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440"
+    ],
+    "name:eng_x_preferred":[
+        "Gorski izvor"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u0441\u043a\u0438-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "Gorski Izvor"
+    ],
+    "name:rum_x_preferred":[
+        "Gorski Izvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0441\u043a\u0438-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0441\u044c\u043a\u0438\u0439 \u0406\u0437\u0432\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Kurudzha Dere"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u043e\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440",
+    "qs:la_lc":"*BGKRZ1417138",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u043e\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440",
+    "qs:loc_alt":"Gorski izvor",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731137,
+        "qs:id":3,
+        "wd:id":"Q4145900"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"bffa6d73a7c6c475c307e1ec8d929ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800281,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101800281,
+    "wof:lastmodified":1553815511,
+    "wof:name":"\u0413\u043e\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15432301135218,
+    41.34739250139239,
+    25.16487805505471,
+    41.35518299530776
+],
+  "geometry": {"coordinates":[[[25.15872095833157,41.35500252450396],[25.15850105925534,41.35411895482235],[25.1596738952984,41.35393847323553],[25.15945398896417,41.3530549050331],[25.16179961143149,41.35269390651541],[25.16157968204033,41.35181034278924],[25.16392524888528,41.35144929515053],[25.16370529644001,41.35056573590026],[25.16487805505471,41.35038519441059],[25.16443814420421,41.34861807735058],[25.16209268416219,41.34897913456405],[25.16187277314992,41.34809556776338],[25.16070004992014,41.34827607270699],[25.16048016324913,41.34739250139239],[25.15813473037434,41.34775346395406],[25.1583545854495,41.3486370412607],[25.15718184420916,41.34881750487079],[25.15784141328976,41.35146823667407],[25.15432301135218,41.35200957179535],[25.15498251509979,41.35466031690657],[25.15732821720769,41.35429942262982],[25.15754810048105,41.35518299530776],[25.15872095833157,41.35500252450396]]],"type":"Polygon"}
+}

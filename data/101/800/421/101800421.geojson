@@ -1,0 +1,103 @@
+{
+  "id": 101800421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":319537.278,
+    "geom:bbox":"23.9197749605,41.9559714327,23.927307489,41.9628391722",
+    "geom:latitude":41.959208,
+    "geom:longitude":23.923254,
+    "iso:country":"BG",
+    "lbl:latitude":41.959089,
+    "lbl:longitude":23.923182,
+    "mps:latitude":41.959089,
+    "mps:longitude":23.923182,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u0448\u0435\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Grashevo"
+    ],
+    "name:eng_x_variant":[
+        "Graschowo",
+        "Grashovski"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u0430\u0448\u0435\u0432\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Gra\u0219evo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u0448\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u0448\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Graschowo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+    "qs:a1_alt":"Pazardzhik",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u0440\u0430\u0448\u0435\u0432\u043e",
+    "qs:la_lc":"*BGPAZ0817823",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u0440\u0430\u0448\u0435\u0432\u043e",
+    "qs:loc_alt":"Grashevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03711484-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":731036,
+        "gp:id":836663,
+        "qs:id":8,
+        "wd:id":"Q1086889"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e91aa7d6fd0e33b88736339b6eace009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800421,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":101800421,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513899825,
+    "wof:name":"\u0413\u0440\u0430\u0448\u0435\u0432\u043e",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91977496047599,
+    41.95597143272357,
+    23.92730748903102,
+    41.96283917215635
+],
+  "geometry": {"coordinates":[[[23.92730748903102,41.95918386119189],[23.92669082698927,41.95652533110587],[23.92431707863335,41.95685761780021],[23.92411157373328,41.95597143272357],[23.9205509577327,41.95646974932828],[23.92096187683461,41.95824213496866],[23.91977496047599,41.95840821812374],[23.92080231748292,41.96283917215635],[23.92436329642686,41.96234083851999],[23.92415775943726,41.96145465890442],[23.92534472451837,41.96128852250024],[23.92513917915505,41.96040234431786],[23.92632612205244,41.960236196724],[23.92612056831643,41.95935001997481],[23.92730748903102,41.95918386119189]]],"type":"Polygon"}
+}

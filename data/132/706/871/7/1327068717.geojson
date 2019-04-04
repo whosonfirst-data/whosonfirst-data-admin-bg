@@ -1,0 +1,74 @@
+{
+  "id": 1327068717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99962,41.46025,22.99962,41.46025",
+    "geom:latitude":41.46025,
+    "geom:longitude":22.99962,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG33",
+    "gn:asciiname":"Churilovo",
+    "gn:country_code":"BG",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732391,
+    "gn:latitude":41.46025,
+    "gn:longitude":22.99962,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Churilovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u0440\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tschurilowo",
+        "Churilovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732391,
+        "wk:page":"Churilovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"841212223b4875d9a8835735c52de53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327068717,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1327068717,
+    "wof:lastmodified":1537587700,
+    "wof:name":"Churilovo",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99962,
+    41.46025,
+    22.99962,
+    41.46025
+],
+  "geometry": {"coordinates":[22.99962,41.46025],"type":"Point"}
+}

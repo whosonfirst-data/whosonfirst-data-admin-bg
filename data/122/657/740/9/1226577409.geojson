@@ -1,0 +1,74 @@
+{
+  "id": 1226577409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.92786,41.3884,25.92786,41.3884",
+    "geom:latitude":41.3884,
+    "geom:longitude":25.92786,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV11",
+    "gn:asciiname":"Gnezdare",
+    "gn:country_code":"BG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731387,
+    "gn:latitude":41.3884,
+    "gn:longitude":25.92786,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gnezdare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043d\u0435\u0437\u0434\u0430\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "Yuvadzhilar",
+        "Gnesdare",
+        "Gnezdare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731387
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6c6784d9913a1953ee71ee8d3001c797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226577409,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1226577409,
+    "wof:lastmodified":1537587633,
+    "wof:name":"Gnezdare",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.92786,
+    41.3884,
+    25.92786,
+    41.3884
+],
+  "geometry": {"coordinates":[25.92786,41.3884],"type":"Point"}
+}

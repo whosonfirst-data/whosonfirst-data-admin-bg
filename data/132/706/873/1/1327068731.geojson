@@ -1,0 +1,75 @@
+{
+  "id": 1327068731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.16667,41.7,23.16667,41.7",
+    "geom:latitude":41.7,
+    "geom:longitude":23.16667,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG28",
+    "gn:admin3_code":"BLG28-05",
+    "gn:asciiname":"Slivnitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727070,
+    "gn:latitude":41.7,
+    "gn:longitude":23.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slivnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sliwniza",
+        "Slivnitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727070
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"dfd9ed13121ff55b950777453ee5ba47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327068731,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1327068731,
+    "wof:lastmodified":1537587352,
+    "wof:name":"Slivnitsa",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16667,
+    41.7,
+    23.16667,
+    41.7
+],
+  "geometry": {"coordinates":[23.16667,41.7],"type":"Point"}
+}

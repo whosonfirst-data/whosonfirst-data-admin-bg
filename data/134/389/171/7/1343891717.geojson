@@ -1,0 +1,70 @@
+{
+  "id": 1343891717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06722,42.36486,23.06722,42.36486",
+    "geom:latitude":42.36486,
+    "geom:longitude":23.06722,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL48",
+    "gn:asciiname":"Kremenik",
+    "gn:country_code":"BG",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729950,
+    "gn:latitude":42.36486,
+    "gn:longitude":23.06722,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Kremenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0435\u043c\u0435\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729950,
+        "wk:page":"Kremenik%2C_Bulgaria"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"019e41fd9126964e2303fe4c475cc554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343891717,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1343891717,
+    "wof:lastmodified":1537587536,
+    "wof:name":"Kremenik",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06722,
+    42.36486,
+    23.06722,
+    42.36486
+],
+  "geometry": {"coordinates":[23.06722,42.36486],"type":"Point"}
+}

@@ -1,0 +1,101 @@
+{
+  "id": 101799229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":868675.664454,
+    "geom:bbox":"24.2222000154,42.28412235,24.2379150436,42.294162401",
+    "geom:latitude":42.288756,
+    "geom:longitude":24.2294,
+    "iso:country":"BG",
+    "lbl:latitude":42.288755,
+    "lbl:longitude":24.227828,
+    "mps:latitude":42.288755,
+    "mps:longitude":24.227828,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u043d\u043a\u0430\u0442\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Dinkata"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0438\u043d\u043a\u0430\u0442\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Dinkata"
+    ],
+    "name:rum_x_preferred":[
+        "Dinkata"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043d\u043a\u0430\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dinkata"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0438\u043d\u043a\u0430\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Dinkata"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+    "qs:a1_alt":"Pazardzhik",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0414\u0438\u043d\u043a\u0430\u0442\u0430",
+    "qs:la_lc":"*BGPAZ1421172",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u0438\u043d\u043a\u0430\u0442\u0430",
+    "qs:loc_alt":"Dinkata",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732247,
+        "gp:id":835676,
+        "qs:id":3,
+        "wd:id":"Q1085534"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"150ae4e21b104310a88a060e16d1fca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799229,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":101799229,
+    "wof:lastmodified":1513899827,
+    "wof:name":"\u0414\u0438\u043d\u043a\u0430\u0442\u0430",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22220001543002,
+    42.2841223499513,
+    24.23791504363942,
+    42.29416240097015
+],
+  "geometry": {"coordinates":[[[24.23105102300508,42.29331302274227],[24.230415087712,42.29065777307113],[24.2351855338211,42.28997805201391],[24.23497350557278,42.28909297760208],[24.23616608560894,42.28892301506403],[24.23595404910236,42.28803794215872],[24.23714660655429,42.28786796845179],[24.23672252541445,42.28609782426076],[24.23791504363942,42.28592784228488],[24.23749096276305,42.2841576983198],[24.2315284786971,42.28500743852067],[24.23131653405272,42.2841223499513],[24.23012403607481,42.28429225288835],[24.23033596407583,42.28517734435621],[24.22437330195021,42.28602666250515],[24.2245851551076,42.28691176707025],[24.22220001543002,42.2872514016421],[24.22368298912909,42.29344713518009],[24.22487567847884,42.29327730464536],[24.22508758204287,42.29416240097015],[24.23105102300508,42.29331302274227]]],"type":"Polygon"}
+}

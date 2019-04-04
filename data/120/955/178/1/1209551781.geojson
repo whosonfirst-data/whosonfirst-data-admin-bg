@@ -1,0 +1,75 @@
+{
+  "id": 1209551781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.45805,41.85149,26.45805,41.85149",
+    "geom:latitude":41.85149,
+    "geom:longitude":26.45805,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV28",
+    "gn:asciiname":"Sladun",
+    "gn:country_code":"BG",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727125,
+    "gn:latitude":41.85149,
+    "gn:longitude":26.45805,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sladun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0430\u0434\u0443\u043d"
+    ],
+    "name:und_x_variant":[
+        "Haski\u00f6j",
+        "Oladun",
+        "Kirechdzhi Khask\u2019oy",
+        "Sladin",
+        "Khas-Kyoy",
+        "Khas-K\u2019oy",
+        "Sladun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727125,
+        "wk:page":"Sladun"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"eab32ea7783b4c31cc1f22e948806292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209551781
+        }
+    ],
+    "wof:id":1209551781,
+    "wof:lastmodified":1537587356,
+    "wof:name":"Sladun",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.45805,
+    41.85149000000001,
+    26.45805,
+    41.85149000000001
+],
+  "geometry": {"coordinates":[26.45805,41.85149000000001],"type":"Point"}
+}

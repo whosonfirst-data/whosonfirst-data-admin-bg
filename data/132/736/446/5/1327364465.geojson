@@ -1,0 +1,75 @@
+{
+  "id": 1327364465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26872,41.4622,25.26872,41.4622",
+    "geom:latitude":41.4622,
+    "geom:longitude":25.26872,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ08",
+    "gn:admin3_code":"KRZ08-15",
+    "gn:asciiname":"Mrezhichko",
+    "gn:country_code":"BG",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728942,
+    "gn:latitude":41.4622,
+    "gn:longitude":25.26872,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mrezhichko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0440\u0435\u0436\u0438\u0447\u043a\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tyule",
+        "Mreshitschko",
+        "Mrezhichko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728942
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"fb7c33bd46f95ec2c6f48a086e130d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327364465,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1327364465,
+    "wof:lastmodified":1537587473,
+    "wof:name":"Mrezhichko",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26872,
+    41.4622,
+    25.26872,
+    41.4622
+],
+  "geometry": {"coordinates":[25.26872,41.4622],"type":"Point"}
+}

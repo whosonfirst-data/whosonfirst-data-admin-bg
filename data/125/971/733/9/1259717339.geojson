@@ -1,0 +1,78 @@
+{
+  "id": 1259717339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75,42.41667,23.75,42.41667",
+    "geom:latitude":42.41667,
+    "geom:longitude":23.75,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO20",
+    "gn:admin3_code":"SFO20-16",
+    "gn:asciiname":"Chernyovo",
+    "gn:country_code":"BG",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732508,
+    "gn:latitude":42.41667,
+    "gn:longitude":23.75,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Chernyovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u044c\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Chernyovo"
+    ],
+    "name:und_x_variant":[
+        "Karalar",
+        "Tscherniowo",
+        "Chern\u2019ovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732508
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"025ce7d948bc23cc811431c7bade3a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259717339,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1259717339,
+    "wof:lastmodified":1537587706,
+    "wof:name":"Chernyovo",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75,
+    42.41667,
+    23.75,
+    42.41667
+],
+  "geometry": {"coordinates":[23.75,42.41667],"type":"Point"}
+}

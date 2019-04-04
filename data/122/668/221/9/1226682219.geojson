@@ -1,0 +1,76 @@
+{
+  "id": 1226682219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7625,43.60528,22.7625,43.60528",
+    "geom:latitude":43.60528,
+    "geom:longitude":22.7625,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Yanyovets",
+    "gn:country_code":"BG",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725568,
+    "gn:latitude":43.60528,
+    "gn:longitude":22.7625,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Yanyovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u042f\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:bul_x_variant":[
+        "Yanyovets",
+        "\u042f\u043d\u044c\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Janjowez",
+        "Yan\u2019ovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725568
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"57bd95091c61ede8577358d1385de826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226682219,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1226682219,
+    "wof:lastmodified":1537587255,
+    "wof:name":"Yanyovets",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7625,
+    43.60528,
+    22.7625,
+    43.60528
+],
+  "geometry": {"coordinates":[22.7625,43.60528],"type":"Point"}
+}

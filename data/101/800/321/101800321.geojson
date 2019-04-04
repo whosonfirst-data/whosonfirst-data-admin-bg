@@ -1,0 +1,111 @@
+{
+  "id": 101800321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":689064.397297,
+    "geom:bbox":"23.8166322925,41.5760398925,23.8276873519,41.5875684064",
+    "geom:latitude":41.581932,
+    "geom:longitude":23.822387,
+    "iso:country":"BG",
+    "lbl:latitude":41.581915,
+    "lbl:longitude":23.822387,
+    "mps:latitude":41.581915,
+    "mps:longitude":23.822387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0431\u0440\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Debren"
+    ],
+    "name:eng_x_preferred":[
+        "Debren"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u0431\u0440\u0435\u043d"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u0435\u0431\u0440\u0435\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0435\u0431\u0440\u0435\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Debren"
+    ],
+    "name:rum_x_preferred":[
+        "Debren"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0431\u0440\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Debren"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0431\u0440\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Debren"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u044a\u0440\u043c\u0435\u043d",
+    "qs:la_lc":"*BGBLG1318366",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u0435\u0431\u0440\u0435\u043d",
+    "qs:loc_alt":"Debren",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":329,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732349,
+        "qs:id":2,
+        "wd:id":"Q2456427",
+        "wk:page":"Debren"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"207c68c6c34199af607e4514c39a6aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800321,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800321,
+    "wof:lastmodified":1527715095,
+    "wof:name":"\u0414\u0435\u0431\u0440\u0435\u043d",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.81663229254042,
+    41.57603989249372,
+    23.82768735193048,
+    41.58756840642388
+],
+  "geometry": {"coordinates":[[[23.82593316785653,41.58723881781981],[23.82573119416668,41.58635202289429],[23.82691127009804,41.5861872104872],[23.8265073140023,41.58441362200244],[23.82768735193048,41.58424880120862],[23.82667751896741,41.57981481955034],[23.82549756211557,41.57997962653474],[23.82529563545245,41.57909282328274],[23.8241156892484,41.57925761359604],[23.82391378670218,41.57837080619663],[23.82273385114598,41.57853557983935],[23.82233010218761,41.57676195536078],[23.8211501934926,41.57692670957249],[23.82094834707783,41.57603989249372],[23.81976844903136,41.57620463003622],[23.81997027923387,41.5770914498753],[23.81761043402662,41.5774208887529],[23.81781223970188,41.57830771272626],[23.81663229254042,41.57847241406063],[23.81723770831906,41.58113288594751],[23.81841770412643,41.58096817633339],[23.81922510063697,41.58451544174579],[23.82040515574874,41.58435070717906],[23.82101083476198,41.58701113340874],[23.82337102559927,41.5866816059746],[23.82357296685109,41.58756840642388],[23.82593316785653,41.58723881781981]]],"type":"Polygon"}
+}

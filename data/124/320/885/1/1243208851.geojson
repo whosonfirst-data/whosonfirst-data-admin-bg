@@ -1,0 +1,74 @@
+{
+  "id": 1243208851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50747,41.30235,25.50747,41.30235",
+    "geom:latitude":41.30235,
+    "geom:longitude":25.50747,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Karshichna Mahala",
+    "gn:country_code":"BG",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335440,
+    "gn:latitude":41.30235,
+    "gn:longitude":25.50747,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Karshichna Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Karshichna Mahala"
+    ],
+    "name:bul_x_variant":[
+        "\u041a\u044a\u0440\u0448\u0438\u0447\u043d\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "K\u016drshichna Makhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335440
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e4004f4d79e053b957751fd3c9a8e7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243208851,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1243208851,
+    "wof:lastmodified":1537587789,
+    "wof:name":"Karshichna Mahala",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50747,
+    41.30235,
+    25.50747,
+    41.30235
+],
+  "geometry": {"coordinates":[25.50747,41.30235],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243019489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.36445,43.5224,28.36445,43.5224",
+    "geom:latitude":43.5224,
+    "geom:longitude":28.36445,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB17",
+    "gn:admin3_code":"DOB17-05",
+    "gn:asciiname":"Irechek",
+    "gn:country_code":"BG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730889,
+    "gn:latitude":43.5224,
+    "gn:longitude":28.36445,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Irechek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u0440\u0435\u0447\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Chioluc",
+        "K\u2019oylyuk",
+        "Kiowljuk",
+        "Mnijko",
+        "Irechek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730889,
+        "wk:page":"Irechek_%28village%29"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a00d571b5a4de9e6a1a167b35612e5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243019489,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1243019489,
+    "wof:lastmodified":1537587594,
+    "wof:name":"Irechek",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.36445,
+    43.5224,
+    28.36445,
+    43.5224
+],
+  "geometry": {"coordinates":[28.36445,43.5224],"type":"Point"}
+}

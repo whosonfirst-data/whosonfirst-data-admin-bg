@@ -1,0 +1,74 @@
+{
+  "id": 1360316225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8326,43.70808,25.8326,43.70808",
+    "geom:latitude":43.70808,
+    "geom:longitude":25.8326,
+    "gn:admin1_code":"53",
+    "gn:admin2_code":"RSE13",
+    "gn:admin3_code":"RSE13-04",
+    "gn:asciiname":"Mechka",
+    "gn:country_code":"BG",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729194,
+    "gn:latitude":43.70808,
+    "gn:longitude":25.8326,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Mechka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0447\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Metschka",
+        "Mechka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729194
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"87021d9d41852a8cc1a0dfab7e4ef45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360316225,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":1360316225,
+    "wof:lastmodified":1537587490,
+    "wof:name":"Mechka",
+    "wof:parent_id":85681861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8326,
+    43.70808,
+    25.8326,
+    43.70808
+],
+  "geometry": {"coordinates":[25.8326,43.70808],"type":"Point"}
+}

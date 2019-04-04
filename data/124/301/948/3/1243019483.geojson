@@ -1,0 +1,78 @@
+{
+  "id": 1243019483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.39372,43.71387,28.39372,43.71387",
+    "geom:latitude":43.71387,
+    "geom:longitude":28.39372,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB12",
+    "gn:asciiname":"Bezhanovo",
+    "gn:country_code":"BG",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733243,
+    "gn:latitude":43.71387,
+    "gn:longitude":28.39372,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Bezhanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Byezhanovo",
+        "Golyam Kachamak",
+        "Be\u017eanovo",
+        "Golyam Bezhanovo",
+        "Bejenri",
+        "Golem-Katschamak",
+        "Bezhanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733243
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ca545bda2326d70a88562dc57999f020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243019483,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1243019483,
+    "wof:lastmodified":1537587755,
+    "wof:name":"Bezhanovo",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.39372,
+    43.71387,
+    28.39372,
+    43.71387
+],
+  "geometry": {"coordinates":[28.39372,43.71387],"type":"Point"}
+}

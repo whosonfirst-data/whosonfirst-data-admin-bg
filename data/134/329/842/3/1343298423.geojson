@@ -1,0 +1,86 @@
+{
+  "id": 1343298423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91667,42.98333,26.91667,42.98333",
+    "geom:latitude":42.98333,
+    "geom:longitude":26.91667,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"SHU25",
+    "gn:admin3_code":"SHU25-07",
+    "gn:asciiname":"Rish",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727620,
+    "gn:latitude":42.98333,
+    "gn:longitude":26.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rish",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u0448"
+    ],
+    "name:ota_x_preferred":[
+        "\u0686\u0627\u0644\u0642 \u0642\u0648\u0627\u0642"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7al\u0131kkavak"
+    ],
+    "name:und_x_variant":[
+        "Chal\u016dkavak",
+        "Rizh",
+        "Chala Kavak",
+        "Risch",
+        "Ri\u0161",
+        "Rish"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727620,
+        "wk:page":"Rish"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"34d53a59ce60c46e04a6d0d9e0edd033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343298423,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1343298423,
+    "wof:lastmodified":1537587385,
+    "wof:name":"Rish",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91667,
+    42.98333,
+    26.91667,
+    42.98333
+],
+  "geometry": {"coordinates":[26.91667,42.98333],"type":"Point"}
+}

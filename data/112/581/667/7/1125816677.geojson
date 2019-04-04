@@ -1,0 +1,92 @@
+{
+  "id": 1125816677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98333,43.73333,25.98333,43.73333",
+    "geom:latitude":43.73333,
+    "geom:longitude":25.98333,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":43.73333,
+    "lbl:longitude":25.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0430\u0441\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Krassen"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":729975,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Krasen",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Ruse",
+    "qs_pg:photos":40,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":40,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167301,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":837420,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Ruse",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729975,
+        "gp:id":837420,
+        "qs_pg:id":1167301
+    },
+    "wof:country":"BG",
+    "wof:created":1497291872,
+    "wof:geomhash":"a77bdd2fe2b1deed93ca6ee5aca88f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125816677,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":1125816677,
+    "wof:lastmodified":1509393830,
+    "wof:name":"Krasen",
+    "wof:parent_id":85681861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98333,
+    43.73333,
+    25.98333,
+    43.73333
+],
+  "geometry": {"coordinates":[25.98333,43.73333],"type":"Point"}
+}

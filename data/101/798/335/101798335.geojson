@@ -1,0 +1,118 @@
+{
+  "id": 101798335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":708843.477328,
+    "geom:bbox":"27.6866476635,42.7460042768,27.7045393034,42.7550826529",
+    "geom:latitude":42.750418,
+    "geom:longitude":27.694294,
+    "iso:country":"BG",
+    "lbl:latitude":42.750489,
+    "lbl:longitude":27.694294,
+    "mps:latitude":42.750489,
+    "mps:longitude":27.694294,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u0440\u0438\u0446\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Koschariza"
+    ],
+    "name:eng_x_preferred":[
+        "Kosharitsa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10e8\u10d0\u10e0\u10d8\u10ea\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Koschariza"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e8\u10d0\u10e0\u10d8\u10ea\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u0440\u0438\u0446\u0430"
+    ],
+    "name:may_x_preferred":[
+        "Kosharitsa"
+    ],
+    "name:msa_x_preferred":[
+        "Kosharitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Ko\u0219ari\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Ko\u0219ari\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u0440\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0448\u0430\u0440\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "K\u0103shla-Dere"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u043e\u0448\u0430\u0440\u0438\u0446\u0430",
+    "qs:la_lc":"*BGBGS1539164",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u0448\u0430\u0440\u0438\u0446\u0430",
+    "qs:loc_alt":"Koshare",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730128,
+        "gp:id":838305,
+        "qs:id":4,
+        "wd:id":"Q1784906",
+        "wk:page":"Kosharitsa"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8b710d6c20e518ae6a65db684889f578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798335,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101798335,
+    "wof:lastmodified":1527641930,
+    "wof:name":"\u041a\u043e\u0448\u0430\u0440\u0438\u0446\u0430",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68664766353362,
+    42.7460042768314,
+    27.70453930344439,
+    42.75508265291251
+],
+  "geometry": {"coordinates":[[[27.69394432866602,42.75423831257353],[27.6936777879215,42.75336368063296],[27.69725633286669,42.75273028954371],[27.69698975399018,42.75185566670694],[27.69818257116322,42.75164451202068],[27.69791598658639,42.75076989106088],[27.70030156611375,42.75034754701204],[27.70003495962612,42.74947293154293],[27.70361322429824,42.74883932155609],[27.70334657969352,42.74796471519238],[27.70453930344439,42.74775348754383],[27.70400601336172,42.7460042768314],[27.70042791696886,42.74663789619018],[27.70069450812639,42.74751251325819],[27.69711629593354,42.74814601775768],[27.6968497534059,42.74727138984855],[27.69207876418727,42.74811585251956],[27.69181229701525,42.74724120842217],[27.68942679006523,42.74766334872777],[27.68969322481234,42.74853800004945],[27.68850044393508,42.74874905286259],[27.68903331252471,42.75049835752083],[27.68664766353362,42.75092043568969],[27.68771339708519,42.7544190530686],[27.6889062901767,42.75420800652023],[27.6891727660543,42.75508265291251],[27.69394432866602,42.75423831257353]]],"type":"Polygon"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 85901421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14453697.823615,
+    "geom:bbox":"25.637685,42.422696,25.637685,42.422696",
+    "geom:latitude":42.422696,
+    "geom:longitude":25.637685,
+    "gn:latitude":42.4,
+    "gn:longitude":25.63333,
+    "iso:country":"BG",
+    "lbl:latitude":42.422696,
+    "lbl:longitude":25.637685,
+    "mps:latitude":42.419468,
+    "mps:longitude":25.639666,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043b\u044e \u0413\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:eng_x_colloquial":[
+        "Koloeo Ganchevo",
+        "Koloo Ganchevo",
+        "Koluo Ganchevo"
+    ],
+    "name:eng_x_preferred":[
+        "Kolyu Ganchevo"
+    ],
+    "name:eng_x_variant":[
+        "Kol'o Ganchovo",
+        "Kolio Gantchevo",
+        "Kolio Gantschowo",
+        "Kol\u00f8o Ganchevo",
+        "Muratlii",
+        "Muratliy"
+    ],
+    "name:unk_x_variant":[
+        "Muratliy",
+        "Kolyu Ganchevo"
+    ],
+    "qs:gn_adm0_cc":"BG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":726848,
+    "qs:gn_namadm1":"59",
+    "qs:gn_name":"Kolyu Ganchevo",
+    "qs:local_max":280,
+    "qs:local_sum":280,
+    "qs:localhoods":1,
+    "qs:name":"Kolyu Ganchevo",
+    "qs:name_adm0":"Bulgaria",
+    "qs:name_adm1":"Stara Zagora",
+    "qs:name_adm2":"Stara Zagora",
+    "qs:name_local":"Stara Zagora",
+    "qs:photo_max":164,
+    "qs:photo_sum":280,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424771,
+    "qs:woe_adm1":20070054,
+    "qs:woe_adm2":55873812,
+    "qs:woe_lau":0,
+    "qs:woe_local":839845,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748895,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730220,
+        "gp:id":837226,
+        "qs:id":1167297,
+        "qs_pg:id":1167297
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"91700c65f41c334b747245ef132fd6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748895,
+            "neighbourhood_id":85901421,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":85901421,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531932501,
+    "wof:name":"Kolyu Ganchevo",
+    "wof:parent_id":101748895,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.637685,
+    42.422696,
+    25.637685,
+    42.422696
+],
+  "geometry": {"coordinates":[25.637685,42.422696],"type":"Point"}
+}

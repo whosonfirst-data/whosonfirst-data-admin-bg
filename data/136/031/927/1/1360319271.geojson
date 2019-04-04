@@ -1,0 +1,74 @@
+{
+  "id": 1360319271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.61567,41.4299,25.61567,41.4299",
+    "geom:latitude":41.4299,
+    "geom:longitude":25.61567,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Tranarka",
+    "gn:country_code":"BG",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726303,
+    "gn:latitude":41.4299,
+    "gn:longitude":25.61567,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tranarka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u044a\u043d\u0430\u0440\u043a\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Tranarka"
+    ],
+    "name:und_x_variant":[
+        "Tr\u016dnarka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726303
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"664c8520ca595b2b557e5289e8685b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360319271,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1360319271,
+    "wof:lastmodified":1537587303,
+    "wof:name":"Tranarka",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.61567,
+    41.4299,
+    25.61567,
+    41.4299
+],
+  "geometry": {"coordinates":[25.61567,41.4299],"type":"Point"}
+}

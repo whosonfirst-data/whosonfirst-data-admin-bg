@@ -1,0 +1,75 @@
+{
+  "id": 1242813983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0,43.08333,24.0,43.08333",
+    "geom:latitude":43.08333,
+    "geom:longitude":24.0,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"LOV38",
+    "gn:asciiname":"Batultsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733411,
+    "gn:latitude":43.08333,
+    "gn:longitude":24.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Batultsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0442\u0443\u043b\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Batulzi",
+        "Batultsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733411,
+        "wk:page":"Batultsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"55bd541bfff101243cf1aecab016d09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242813983,
+            "region_id":85681811
+        }
+    ],
+    "wof:id":1242813983,
+    "wof:lastmodified":1537587765,
+    "wof:name":"Batultsi",
+    "wof:parent_id":85681811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0,
+    43.08333,
+    24.0,
+    43.08333
+],
+  "geometry": {"coordinates":[24.0,43.08333],"type":"Point"}
+}

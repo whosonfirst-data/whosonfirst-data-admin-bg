@@ -1,0 +1,73 @@
+{
+  "id": 1209040503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33333,43.2,26.33333,43.2",
+    "geom:latitude":43.2,
+    "geom:longitude":26.33333,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"TGV02",
+    "gn:admin3_code":"TGV02-17",
+    "gn:asciiname":"Moravka",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728967,
+    "gn:latitude":43.2,
+    "gn:longitude":26.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moravka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u0432\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kara-D\u016drl\u0103",
+        "Morawka",
+        "Karad\u016drliya",
+        "Moravka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728967
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a0ca4fa5ea54fc8a328bd004fce7e47c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209040503
+        }
+    ],
+    "wof:id":1209040503,
+    "wof:lastmodified":1537587475,
+    "wof:name":"Moravka",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33333,
+    43.2,
+    26.33333,
+    43.2
+],
+  "geometry": {"coordinates":[26.33333,43.2],"type":"Point"}
+}

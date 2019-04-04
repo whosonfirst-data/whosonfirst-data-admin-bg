@@ -1,0 +1,75 @@
+{
+  "id": 1343497031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.15,43.13333,26.15,43.13333",
+    "geom:latitude":43.13333,
+    "geom:longitude":26.15,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"TGV02",
+    "gn:asciiname":"Shishkovitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727269,
+    "gn:latitude":43.13333,
+    "gn:longitude":26.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shishkovitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0428\u0438\u0448\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tyurkeshe",
+        "Schischkowiza",
+        "Shishkovitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727269
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4a2245eeca8a89779dc66ca9ce64e374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343497031,
+            "region_id":85681839
+        }
+    ],
+    "wof:id":1343497031,
+    "wof:lastmodified":1537587365,
+    "wof:name":"Shishkovitsa",
+    "wof:parent_id":85681839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.15,
+    43.13333,
+    26.15,
+    43.13333
+],
+  "geometry": {"coordinates":[26.15,43.13333],"type":"Point"}
+}

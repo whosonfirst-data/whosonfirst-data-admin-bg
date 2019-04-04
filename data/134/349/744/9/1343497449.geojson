@@ -1,0 +1,77 @@
+{
+  "id": 1343497449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.28333,43.61667,27.28333,43.61667",
+    "geom:latitude":43.61667,
+    "geom:longitude":27.28333,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"SHU21",
+    "gn:admin3_code":"SHU21-09",
+    "gn:asciiname":"Tsani-Ginchevo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726283,
+    "gn:latitude":43.61667,
+    "gn:longitude":27.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsani-Ginchevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0426\u0430\u043d\u0438-\u0413\u0438\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kyuchuk Akhmed",
+        "Zani Gintschewo",
+        "Kyuchuk Akhmet",
+        "Tsani-Ginchevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726283
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b6e8ac81bc85300f9d7d232eb7f3e262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343497449,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1343497449,
+    "wof:lastmodified":1537587302,
+    "wof:name":"Tsani-Ginchevo",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.28333,
+    43.61667,
+    27.28333,
+    43.61667
+],
+  "geometry": {"coordinates":[27.28333,43.61667],"type":"Point"}
+}

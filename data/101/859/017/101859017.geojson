@@ -1,0 +1,103 @@
+{
+  "id": 101859017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.378383,41.700166,24.378383,41.700166",
+    "geom:latitude":41.700166,
+    "geom:longitude":24.378383,
+    "iso:country":"BG",
+    "lbl:latitude":41.700166,
+    "lbl:longitude":24.378383,
+    "mps:latitude":41.700166,
+    "mps:longitude":24.378383,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Grohotno"
+    ],
+    "name:eng_x_preferred":[
+        "Grohotno"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Grohotno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Grochotno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Grakhotna"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043c\u043e\u043b\u044f\u043d",
+    "qs:a1_alt":"Smolyan",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e",
+    "qs:loc_alt":"Grohotno",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731024,
+        "gp:id":836670,
+        "qs:id":2,
+        "wd:id":"Q2014606"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d172422452a21ae927d04cc0e23d81a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101859017,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":101859017,
+    "wof:lastmodified":1544744699,
+    "wof:name":"\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.378383,
+    41.700166,
+    24.378383,
+    41.700166
+],
+  "geometry": {"coordinates":[24.378383,41.700166],"type":"Point"}
+}

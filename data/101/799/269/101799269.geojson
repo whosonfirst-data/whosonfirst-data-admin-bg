@@ -1,0 +1,115 @@
+{
+  "id": 101799269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000112,
+    "geom:area_square_m":1028462.438109,
+    "geom:bbox":"24.187537426,42.198318588,24.2098937806,42.2082639511",
+    "geom:latitude":42.203132,
+    "geom:longitude":24.198468,
+    "iso:country":"BG",
+    "lbl:latitude":42.203811,
+    "lbl:longitude":24.197536,
+    "mps:latitude":42.203811,
+    "mps:longitude":24.197536,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:eng_x_colloquial":[
+        "Kovacevo"
+    ],
+    "name:eng_x_preferred":[
+        "Kovachevo"
+    ],
+    "name:eng_x_variant":[
+        "Demirdzhiler",
+        "Kovacnevo",
+        "Kova\u010devo",
+        "Kowatschewo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10d5\u10d0\u10e9\u10d4\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Kovacevo"
+    ],
+    "name:rum_x_preferred":[
+        "Kovacevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Demirdzhiler"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+    "qs:a1_alt":"Pazardzhik",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e",
+    "qs:la_lc":"*BGPAZ2937491",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e",
+    "qs:loc_alt":"Kovachevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":109,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03717276-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730056,
+        "gp:id":837352,
+        "qs:id":404434,
+        "wd:id":"Q2016698"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b53f8b912315be5742a0047fc9b9e084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799269,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":101799269,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641685,
+    "wof:name":"\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18753742597102,
+    42.19831858803366,
+    24.20989378061842,
+    42.20826395105956
+],
+  "geometry": {"coordinates":[[[24.20078756112866,42.20792494946176],[24.20036550073542,42.2061544650785],[24.20274760610778,42.20581541882558],[24.20253655523356,42.20493018031584],[24.20730062881614,42.20425193076545],[24.20751174605255,42.20513715772796],[24.20989378061842,42.20479794288508],[24.20947148812922,42.20302749911536],[24.2082805069752,42.20319710778608],[24.20806938983026,42.20231188092237],[24.20687841936365,42.20248147265772],[24.20666732714619,42.20159624151262],[24.2054763673674,42.20176581631301],[24.2048431905078,42.19911010585258],[24.20365227459155,42.19927965794602],[24.2034412488988,42.19839441545162],[24.20225034367104,42.1985639506114],[24.20246135277739,42.19944919599186],[24.19174279110501,42.2009744062417],[24.19111023665818,42.19831858803366],[24.18753742597102,42.1988267126269],[24.18774821935625,42.19971199540555],[24.18893917873379,42.19954263170632],[24.18957165862855,42.20219846303701],[24.19076266188478,42.20202907663895],[24.19139526652134,42.20468488678443],[24.19258631365904,42.20451547768539],[24.19342996952548,42.20805652684385],[24.19819436460978,42.20737870379298],[24.19840536578812,42.20826395105956],[24.20078756112866,42.20792494946176]]],"type":"Polygon"}
+}

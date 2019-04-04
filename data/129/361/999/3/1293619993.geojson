@@ -1,0 +1,76 @@
+{
+  "id": 1293619993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.18333,43.03333,26.18333,43.03333",
+    "geom:latitude":43.03333,
+    "geom:longitude":26.18333,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"TGV02",
+    "gn:asciiname":"Krusholak",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729863,
+    "gn:latitude":43.03333,
+    "gn:longitude":26.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Krusholak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u043e\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Benli K\u2019oy",
+        "Kruscholak",
+        "Benlikioy",
+        "Krusholak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729863
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"cf0be3c59c629f216b79ed00a30a37de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293619993,
+            "region_id":85681839
+        }
+    ],
+    "wof:id":1293619993,
+    "wof:lastmodified":1537587531,
+    "wof:name":"Krusholak",
+    "wof:parent_id":85681839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.18333,
+    43.03333,
+    26.18333,
+    43.03333
+],
+  "geometry": {"coordinates":[26.18333,43.03333],"type":"Point"}
+}

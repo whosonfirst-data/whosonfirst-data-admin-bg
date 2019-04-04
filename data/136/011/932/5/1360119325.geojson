@@ -1,0 +1,77 @@
+{
+  "id": 1360119325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5,42.95,25.5,42.95",
+    "geom:latitude":42.95,
+    "geom:longitude":25.5,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB12",
+    "gn:asciiname":"Malki Balgareni",
+    "gn:country_code":"BG",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729354,
+    "gn:latitude":42.95,
+    "gn:longitude":25.5,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Malki Balgareni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u0438 \u0411\u044a\u043b\u0433\u0430\u0440\u0435\u043d\u0438"
+    ],
+    "name:bul_x_variant":[
+        "Malki Balgareni"
+    ],
+    "name:und_x_variant":[
+        "Bolgareni",
+        "Malki B\u016dlgareni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729354,
+        "wk:page":"Malki_Bulgareni"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"79e92a1cb22941ab457c781d8de37b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360119325,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1360119325,
+    "wof:lastmodified":1537587500,
+    "wof:name":"Malki Balgareni",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5,
+    42.95,
+    25.5,
+    42.95
+],
+  "geometry": {"coordinates":[25.5,42.95],"type":"Point"}
+}

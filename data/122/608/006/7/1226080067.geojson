@@ -1,0 +1,74 @@
+{
+  "id": 1226080067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96667,43.01667,25.96667,43.01667",
+    "geom:latitude":43.01667,
+    "geom:longitude":25.96667,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR14",
+    "gn:asciiname":"Dedina",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732342,
+    "gn:latitude":43.01667,
+    "gn:longitude":25.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dedina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0434\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dede Mekhle",
+        "Dedina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732342
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"89d40630fa2ec679e4bb28c548897351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226080067,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1226080067,
+    "wof:lastmodified":1537587696,
+    "wof:name":"Dedina",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96667,
+    43.01667,
+    25.96667,
+    43.01667
+],
+  "geometry": {"coordinates":[25.96667,43.01667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276802191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.80061,43.74942,22.80061,43.74942",
+    "geom:latitude":43.74942,
+    "geom:longitude":22.80061,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID16",
+    "gn:admin3_code":"VID16-09",
+    "gn:asciiname":"Izvor",
+    "gn:country_code":"BG",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730814,
+    "gn:latitude":43.74942,
+    "gn:longitude":22.80061,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Izvor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Iswor",
+        "Jzvor",
+        "Izvor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730814
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2d67555a7435bc74e90a41f7a36cac17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276802191,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1276802191,
+    "wof:lastmodified":1537587588,
+    "wof:name":"Izvor",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.80061,
+    43.74942,
+    22.80061,
+    43.74942
+],
+  "geometry": {"coordinates":[22.80061,43.74942],"type":"Point"}
+}

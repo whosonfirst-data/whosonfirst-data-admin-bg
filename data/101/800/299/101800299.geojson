@@ -1,0 +1,109 @@
+{
+  "id": 101800299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":289599.00673,
+    "geom:bbox":"23.7120675439,41.7076177422,23.7189860305,41.7152039523",
+    "geom:latitude":41.710931,
+    "geom:longitude":23.715762,
+    "iso:country":"BG",
+    "lbl:latitude":41.710726,
+    "lbl:longitude":23.716042,
+    "mps:latitude":41.710726,
+    "mps:longitude":23.716042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Bukovo"
+    ],
+    "name:eng_x_variant":[
+        "Bukowo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:mac_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Bukovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440 \u0411\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Bukowo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u0443\u043a\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBLG1107003",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0443\u043a\u043e\u0432\u043e",
+    "qs:loc_alt":"Bukovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0370540e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732811,
+        "gp:id":835282,
+        "qs:id":7,
+        "wd:id":"Q2456832"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"150093aa29d06542a64bff811ccd3ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800299,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800299,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715093,
+    "wof:name":"\u0411\u0443\u043a\u043e\u0432\u043e",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71206754390465,
+    41.70761774220631,
+    23.71898603049539,
+    41.71520395233239
+],
+  "geometry": {"coordinates":[[[23.71820558386042,41.71382631965457],[23.71780336220604,41.71205244723905],[23.71898603049539,41.71188886141914],[23.71818161657097,41.7083411111405],[23.71699901358562,41.70850468595518],[23.71679794615483,41.70761774220631],[23.71206754390465,41.70827189098077],[23.71246955605039,41.71004579911153],[23.71365219760537,41.70988227733994],[23.71425532396256,41.71254312100427],[23.71307263342453,41.71270665102776],[23.71327367499299,41.71359359892529],[23.71445638185986,41.71343006615098],[23.71485852132292,41.71520395233239],[23.716041255287,41.71504040010655],[23.71584016528067,41.71415346045239],[23.71820558386042,41.71382631965457]]],"type":"Polygon"}
+}

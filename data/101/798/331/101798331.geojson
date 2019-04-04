@@ -1,0 +1,147 @@
+{
+  "id": 101798331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00009,
+    "geom:area_square_m":818658.254727,
+    "geom:bbox":"27.5223776515,42.7662312888,27.5363001122,42.7780263988",
+    "geom:latitude":42.771333,
+    "geom:longitude":27.5298,
+    "iso:country":"BG",
+    "lbl:latitude":42.770225,
+    "lbl:longitude":27.529906,
+    "mps:latitude":42.770225,
+    "mps:longitude":27.529906,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u044a\u043b\u044a\u0431\u0435\u0446"
+    ],
+    "name:bul_x_variant":[
+        "Galabets"
+    ],
+    "name:deu_x_preferred":[
+        "Festung Golubac"
+    ],
+    "name:eng_x_colloquial":[
+        "Gaelaebez",
+        "Galabez",
+        "Gthlthbets",
+        "Gtltbets"
+    ],
+    "name:eng_x_preferred":[
+        "Gulubets"
+    ],
+    "name:eng_x_variant":[
+        "Galabec",
+        "G\u00e6l\u00e6bez",
+        "G\u00fel\u00febets",
+        "Tatar K'oy",
+        "Tatarkioy",
+        "Galabets"
+    ],
+    "name:fra_x_preferred":[
+        "Forteresse de Golubac"
+    ],
+    "name:hrv_x_preferred":[
+        "Goluba\u010dki Grad"
+    ],
+    "name:ita_x_preferred":[
+        "Fortezza di Golubac"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u044b\u043b\u044b\u0431\u0435\u0446"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u043b\u0443\u0431\u0430\u0447\u043a\u0430 \u0442\u0432\u0440\u0434\u0438\u043d\u0430"
+    ],
+    "name:nor_x_preferred":[
+        "Golubac festning"
+    ],
+    "name:ron_x_preferred":[
+        "Cetatea Golub\u0103\u021b"
+    ],
+    "name:rum_x_preferred":[
+        "G\u0103l\u0103be\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0443\u0431\u0430\u0446\u043a\u0430\u044f \u043a\u0440\u0435\u043f\u043e\u0441\u0442\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Fortaleza de Golubac"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u043e\u043b\u0443\u0431\u0430\u0447\u043a\u0438 \u0413\u0440\u0430\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0438\u043b\u0438\u0431\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Tatar K\u2019oy"
+    ],
+    "name:zho_x_preferred":[
+        "\u54e5\u9c81\u62dc\u514b\u8981\u585e"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u044a\u043b\u044a\u0431\u0435\u0446",
+    "qs:la_lc":"*BGBGS1718229",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u044a\u043b\u044a\u0431\u0435\u0446",
+    "qs:loc_alt":"Galabets",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":3018,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03711826-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730995,
+        "gp:id":836693,
+        "qs:id":9,
+        "wd:id":"Q2014876"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5a3dc08fbd9da663bc83bc8075087583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798331,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101798331,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641923,
+    "wof:name":"\u0413\u044a\u043b\u044a\u0431\u0435\u0446",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.52237765152836,
+    42.76623128877839,
+    27.53630011217206,
+    42.77802639881781
+],
+  "geometry": {"coordinates":[[[27.53629175066447,42.77739866990612],[27.53523437144759,42.77389821114042],[27.53404066400628,42.77410745375602],[27.53324778796093,42.77148208088954],[27.5344414465963,42.77127284902838],[27.53391288219217,42.76952259903095],[27.53630011217206,42.76910410769375],[27.53577152443137,42.7673538651631],[27.53338435951372,42.76777234216263],[27.5331201138203,42.76689721115127],[27.53192653651718,42.76710642509113],[27.53166231751834,42.76623128877839],[27.52688799931889,42.76706799036424],[27.52715215325406,42.76794314101022],[27.52237765152836,42.76877963317855],[27.52396240365397,42.7740305869869],[27.52515613781168,42.77382146342592],[27.52542031593339,42.7746966128027],[27.53138895698822,42.77365076729012],[27.53271041085935,42.77802639881781],[27.53629175066447,42.77739866990612]]],"type":"Polygon"}
+}

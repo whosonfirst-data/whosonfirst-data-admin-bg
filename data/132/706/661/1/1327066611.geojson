@@ -1,0 +1,130 @@
+{
+  "id": 1327066611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.34063,42.13318,23.34063,42.13318",
+    "geom:latitude":42.13318,
+    "geom:longitude":23.34063,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL38",
+    "gn:asciiname":"Rilski Manastir",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727623,
+    "gn:latitude":42.13318,
+    "gn:longitude":23.34063,
+    "gn:modification_date":"2007-08-26",
+    "gn:name":"Rilski Manastir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Rilaklooster"
+    ],
+    "name:bul_x_preferred":[
+        "Manastir Sveti Ivan Rilski"
+    ],
+    "name:bul_x_variant":[
+        "Rilski Manastir",
+        "\u0420\u0438\u043b\u0441\u043a\u0438 \u043c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Monestir de Rila"
+    ],
+    "name:dan_x_preferred":[
+        "Rila-klosteret"
+    ],
+    "name:deu_x_preferred":[
+        "Kloster Rila"
+    ],
+    "name:eng_x_preferred":[
+        "Rila Monastery"
+    ],
+    "name:epo_x_preferred":[
+        "Rila-mona\u0125ejo"
+    ],
+    "name:fin_x_preferred":[
+        "Rilan luostari"
+    ],
+    "name:fra_x_preferred":[
+        "Monast\u00e8re de Rila"
+    ],
+    "name:hun_x_preferred":[
+        "Rilai kolostor"
+    ],
+    "name:ita_x_preferred":[
+        "Monastero di Rila"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e9\u4fee\u9053\u9662"
+    ],
+    "name:nld_x_preferred":[
+        "Rilaklooster"
+    ],
+    "name:pol_x_preferred":[
+        "Rilski Monastyr"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u043c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Monasterio de Rila"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043b\u0441\u043a\u0438 \u043c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Rilaklostret"
+    ],
+    "name:und_x_variant":[
+        "Rilski-Monastir",
+        "Rilo Monastery"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727623,
+        "wk:page":"Rila_Monastery"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"36c54077b704617cc0944c6c597b8c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327066611,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1327066611,
+    "wof:lastmodified":1537587386,
+    "wof:name":"Rilski Manastir",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.34063,
+    42.13318,
+    23.34063,
+    42.13318
+],
+  "geometry": {"coordinates":[23.34063,42.13318],"type":"Point"}
+}

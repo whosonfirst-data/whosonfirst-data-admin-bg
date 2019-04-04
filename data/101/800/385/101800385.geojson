@@ -1,0 +1,140 @@
+{
+  "id": 101800385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":888840.093382,
+    "geom:bbox":"23.09896882,41.3601477838,23.1193646451,41.3677752716",
+    "geom:latitude":41.363899,
+    "geom:longitude":23.108256,
+    "iso:country":"BG",
+    "lbl:latitude":41.36478,
+    "lbl:longitude":23.109082,
+    "mps:latitude":41.36478,
+    "mps:longitude":23.109082,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0413\u043b\u0430\u0432\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Glavinitsa"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Glavinica"
+    ],
+    "name:eng_x_preferred":[
+        "Kolarovo"
+    ],
+    "name:eng_x_variant":[
+        "Kolarevo",
+        "Kolarewo"
+    ],
+    "name:fra_x_preferred":[
+        "Glavinitsa"
+    ],
+    "name:ita_x_preferred":[
+        "Glavinica"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10da\u10d0\u10d5\u10d8\u10dc\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina G\u0142awinica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Glavini\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "Kolarovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Glavinitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Kolarewo"
+    ],
+    "name:vie_x_preferred":[
+        "Glavinitsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u62c9\u7dad\u5c3c\u5bdf\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBLG3337989",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e",
+    "qs:loc_alt":"Kolarovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":235,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03715e8a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730241,
+        "gp:id":837213,
+        "qs:id":940203,
+        "wd:id":"Q2989967"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"75a3b40284ecc68cd6524f2503c42a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800385,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800385,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715087,
+    "wof:name":"\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09896882003659,
+    41.36014778379086,
+    23.11936464511575,
+    41.36777527160302
+],
+  "geometry": {"coordinates":[[[23.11188488668677,41.36715035070387],[23.11169445663762,41.36626161264098],[23.11522667687194,41.36579278391434],[23.11503620569533,41.36490405233997],[23.11739096063786,41.36459143561035],[23.11720046452757,41.3637027079173],[23.11837781795924,41.36354638132298],[23.11818731310592,41.36265765490305],[23.11936464511575,41.36250131702565],[23.11917413152025,41.36161259187884],[23.11799681569676,41.36176892714747],[23.11780632573198,41.36088019805646],[23.11662902086078,41.36103651682555],[23.11643855452513,41.36014778379086],[23.11526126060642,41.36030408606098],[23.1154517107563,41.36119282170375],[23.10721039352978,41.36228656689008],[23.10702005669049,41.36139781299772],[23.10584272092348,41.36155400413691],[23.10565240770995,41.36066524630371],[23.10094307710892,41.36128986151908],[23.10075283608438,41.36040109192925],[23.09957550655378,41.36055720839829],[23.1001462033629,41.36322352098057],[23.09896882003659,41.36337963137242],[23.09972978843655,41.3669347065599],[23.10561697661296,41.36615396356359],[23.10580731826474,41.36704271599632],[23.10698475640231,41.36688652311136],[23.10717512168532,41.36777527160302],[23.11188488668677,41.36715035070387]]],"type":"Polygon"}
+}

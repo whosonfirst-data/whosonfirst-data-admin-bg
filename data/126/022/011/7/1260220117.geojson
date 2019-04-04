@@ -1,0 +1,75 @@
+{
+  "id": 1260220117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01667,42.98333,24.01667,42.98333",
+    "geom:latitude":42.98333,
+    "geom:longitude":24.01667,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO34",
+    "gn:admin3_code":"SFO34-01",
+    "gn:asciiname":"Vidrare",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725898,
+    "gn:latitude":42.98333,
+    "gn:longitude":24.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vidrare",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0434\u0440\u0430\u0440\u0435"
+    ],
+    "name:und_x_variant":[
+        "Widrare",
+        "Vidrare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725898
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d4e27d7a9ad318b1737f3ea51e33c90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260220117,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1260220117,
+    "wof:lastmodified":1537587277,
+    "wof:name":"Vidrare",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01667,
+    42.98333,
+    24.01667,
+    42.98333
+],
+  "geometry": {"coordinates":[24.01667,42.98333],"type":"Point"}
+}

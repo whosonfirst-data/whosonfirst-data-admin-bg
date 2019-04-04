@@ -1,0 +1,68 @@
+{
+  "id": 1226373341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.23333,41.65,25.23333,41.65",
+    "geom:latitude":41.65,
+    "geom:longitude":25.23333,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Yoren",
+    "gn:country_code":"BG",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725504,
+    "gn:latitude":41.65,
+    "gn:longitude":25.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yoren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0419\u043e\u0440\u0435\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725504
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9adcfe9bff896510d3e654c2caefd712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226373341,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1226373341,
+    "wof:lastmodified":1537587250,
+    "wof:name":"Yoren",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.23333,
+    41.65,
+    25.23333,
+    41.65
+],
+  "geometry": {"coordinates":[25.23333,41.65],"type":"Point"}
+}

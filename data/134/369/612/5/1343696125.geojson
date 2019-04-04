@@ -1,0 +1,79 @@
+{
+  "id": 1343696125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88333,43.2,25.88333,43.2",
+    "geom:latitude":43.2,
+    "geom:longitude":25.88333,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR31",
+    "gn:admin3_code":"VTR31-04",
+    "gn:asciiname":"Bryagovitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732849,
+    "gn:latitude":43.2,
+    "gn:longitude":25.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bryagovitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u044f\u0433\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Lefedzhii",
+        "Bregovitsa",
+        "Lefedzhi",
+        "Bregowiza",
+        "Bryegovitsa",
+        "Bryagovitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732849
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e87f7c5c618f194d4c0601a4c6c8ac4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343696125,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1343696125,
+    "wof:lastmodified":1537587730,
+    "wof:name":"Bryagovitsa",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88333,
+    43.2,
+    25.88333,
+    43.2
+],
+  "geometry": {"coordinates":[25.88333,43.2],"type":"Point"}
+}

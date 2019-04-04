@@ -1,0 +1,74 @@
+{
+  "id": 1277110879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13333,42.35,23.13333,42.35",
+    "geom:latitude":42.35,
+    "geom:longitude":23.13333,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL48",
+    "gn:asciiname":"Topolnitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726391,
+    "gn:latitude":42.35,
+    "gn:longitude":23.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Topolnitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Topolniza",
+        "Topolnitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726391
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"22e8cc24be7102fd71bf0684eccd1a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1277110879,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1277110879,
+    "wof:lastmodified":1537587308,
+    "wof:name":"Topolnitsa",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13333,
+    42.35,
+    23.13333,
+    42.35
+],
+  "geometry": {"coordinates":[23.13333,42.35],"type":"Point"}
+}

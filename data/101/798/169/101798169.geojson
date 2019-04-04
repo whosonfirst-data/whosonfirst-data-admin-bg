@@ -1,0 +1,183 @@
+{
+  "id": 101798169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000209,
+    "geom:area_square_m":1906964.992677,
+    "geom:bbox":"25.562152788,42.5367705244,25.5958019439,42.5472563129",
+    "geom:latitude":42.542604,
+    "geom:longitude":25.577011,
+    "iso:country":"BG",
+    "lbl:latitude":42.54236,
+    "lbl:longitude":25.575649,
+    "mps:latitude":42.54236,
+    "mps:longitude":25.575649,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u063a\u064a\u0646\u0631\u064a\u062e \u064a\u0627\u063a\u0648\u062f\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0435\u043d\u0440\u044b\u0445 \u0420\u044b\u0433\u043e\u0440\u0430\u0432\u0456\u0447 \u042f\u0433\u043e\u0434\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0413\u0435\u043d\u0440\u044b\u0445 \u042f\u0433\u043e\u0434\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u042f\u0433\u043e\u0434\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Gu\u00e9nrikh Iagoda"
+    ],
+    "name:ces_x_preferred":[
+        "Genrich Jagoda"
+    ],
+    "name:dan_x_preferred":[
+        "Genrikh Jagoda"
+    ],
+    "name:deu_x_preferred":[
+        "Genrich Grigorjewitsch Jagoda"
+    ],
+    "name:eng_x_preferred":[
+        "Yagoda"
+    ],
+    "name:est_x_preferred":[
+        "Genrihh Jagoda"
+    ],
+    "name:eus_x_preferred":[
+        "Genrikh Yagoda"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u0631\u06cc\u062e \u06cc\u0627\u06af\u0648\u062f\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Genrih Jagoda"
+    ],
+    "name:fra_x_preferred":[
+        "Guenrikh Iagoda"
+    ],
+    "name:hbs_x_preferred":[
+        "Genrih Jagoda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e0\u05e8\u05d9\u05da \u05d9\u05d2\u05d5\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Genrih Grigorjevics Jagoda"
+    ],
+    "name:ita_x_preferred":[
+        "Genrich Grigor'evi\u010d Jagoda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b2\u30f3\u30ea\u30d5\u30fb\u30e4\u30b4\u30fc\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\uac90\ub9ac\ud750 \uc57c\uace0\ub2e4"
+    ],
+    "name:lit_x_preferred":[
+        "Genrichas Jagoda"
+    ],
+    "name:nld_x_preferred":[
+        "Genrich Jagoda"
+    ],
+    "name:nor_x_preferred":[
+        "Genrikh Jagoda"
+    ],
+    "name:pol_x_preferred":[
+        "Gienrich Jagoda"
+    ],
+    "name:por_x_preferred":[
+        "Guenrikh Yagoda"
+    ],
+    "name:rum_x_preferred":[
+        "Iagoda"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0433\u043e\u0434\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Genrih Grigorjevi\u010d Jagoda"
+    ],
+    "name:spa_x_preferred":[
+        "Gu\u00e9nrij Yagoda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0435\u043d\u0440\u0438\u0445 \u0408\u0430\u0433\u043e\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Genrich Jagoda"
+    ],
+    "name:tur_x_preferred":[
+        "Genrih Yagoda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0433\u043e\u0434\u0430 \u0413\u0435\u043d\u0440\u0456\u0445 \u0413\u0440\u0438\u0433\u043e\u0440\u043e\u0432\u0438\u0447"
+    ],
+    "name:unk_x_variant":[
+        "Chanakchii"
+    ],
+    "name:vie_x_preferred":[
+        "Genrikh Yagoda"
+    ],
+    "name:zho_x_preferred":[
+        "\u6839\u91cc\u514b\u00b7\u683c\u91cc\u6208\u91cc\u8036\u7ef4\u5947\u00b7\u96c5\u6208\u8fbe"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+    "qs:a1_alt":"Stara Zagora",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u0422\u0443\u043b\u043e\u0432\u043e",
+    "qs:la_lc":"*BGSZR2273420",
+    "qs:level":"locality",
+    "qs:loc":"\u042f\u0433\u043e\u0434\u0430",
+    "qs:loc_alt":"Yagoda",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":2166,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725595,
+        "gp:id":839845,
+        "wd:id":"Q2022307"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c7706faf0134323040747e31af60de2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798169,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":101798169,
+    "wof:lastmodified":1527641924,
+    "wof:name":"\u042f\u0433\u043e\u0434\u0430",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56215278798328,
+    42.53677052441088,
+    25.59580194387178,
+    42.54725631291734
+],
+  "geometry": {"coordinates":[[[25.5707196772637,42.54725631291734],[25.58385836801972,42.54521052852408],[25.58409201458596,42.54609172296824],[25.59006396727193,42.54516124280082],[25.5902977058592,42.54604241979871],[25.59149209327342,42.54585627841175],[25.59172585766487,42.54673745070778],[25.59411464591972,42.54636511939265],[25.59388084842067,42.54548395347166],[25.59507521615285,42.54529776991865],[25.59460761580493,42.54353543990601],[25.59580194387178,42.54334924867362],[25.59533434742769,42.5415869189751],[25.59294575093628,42.54195927463536],[25.59271199969072,42.54107810113817],[25.58793479420279,42.54182263105912],[25.58770111840852,42.54094144330077],[25.58411819509371,42.54149968361145],[25.58388457820041,42.54061848478182],[25.58149596298188,42.54099056834508],[25.58102882313261,42.53922815340258],[25.57983453879541,42.53941416773307],[25.57913394798658,42.53677052441088],[25.57674545895958,42.53714249180484],[25.57697894688738,42.53802371412712],[25.5733961145574,42.53858156936184],[25.57316267628403,42.5377003374897],[25.57196840229108,42.53788625794255],[25.57173498980654,42.5370050213744],[25.56934645527713,42.53737681375156],[25.56957983465674,42.53825805668458],[25.56360830097088,42.53918730757789],[25.56384160681415,42.54006856490685],[25.5626472638794,42.54025437610051],[25.56334718713651,42.5428981485569],[25.56215278798328,42.54308395523844],[25.56261941653753,42.54484646901125],[25.56381384880814,42.54466065596665],[25.5642805474177,42.54642315732787],[25.56905834347708,42.54567973912407],[25.56929177287361,42.54656097480671],[25.57048622206986,42.54637508193048],[25.5707196772637,42.54725631291734]]],"type":"Polygon"}
+}

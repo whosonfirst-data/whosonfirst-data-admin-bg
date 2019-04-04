@@ -1,0 +1,75 @@
+{
+  "id": 1343991869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65389,42.29444,22.65389,42.29444",
+    "geom:latitude":42.29444,
+    "geom:longitude":22.65389,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL29",
+    "gn:admin3_code":"KNL29-24",
+    "gn:asciiname":"Lozno",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729527,
+    "gn:latitude":42.29444,
+    "gn:longitude":22.65389,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Lozno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0437\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Losno",
+        "Lozno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729527
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8b1cb5770f94f0d3b9ad182e2991bcde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343991869,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1343991869,
+    "wof:lastmodified":1537587511,
+    "wof:name":"Lozno",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65389,
+    42.29444,
+    22.65389,
+    42.29444
+],
+  "geometry": {"coordinates":[22.65389,42.29444],"type":"Point"}
+}

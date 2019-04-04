@@ -1,0 +1,79 @@
+{
+  "id": 1293037597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38333,42.85,25.38333,42.85",
+    "geom:latitude":42.85,
+    "geom:longitude":25.38333,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB05",
+    "gn:admin3_code":"GAB05-12",
+    "gn:asciiname":"Zhaltesh",
+    "gn:country_code":"BG",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725327,
+    "gn:latitude":42.85,
+    "gn:longitude":25.38333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Zhaltesh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0416\u044a\u043b\u0442\u0435\u0448"
+    ],
+    "name:bul_x_variant":[
+        "Zhaltesh"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0103ltesch",
+        "Zheltesh",
+        "Zh\u016dltesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725327,
+        "wk:page":"Zhaltesh"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"70e826cd0f0d6a221d713a1d589cc908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293037597,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1293037597,
+    "wof:lastmodified":1537587236,
+    "wof:name":"Zhaltesh",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38333,
+    42.85,
+    25.38333,
+    42.85
+],
+  "geometry": {"coordinates":[25.38333,42.85],"type":"Point"}
+}

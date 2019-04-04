@@ -1,0 +1,75 @@
+{
+  "id": 1310239081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.03333,43.13333,26.03333,43.13333",
+    "geom:latitude":43.13333,
+    "geom:longitude":26.03333,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR31",
+    "gn:asciiname":"Vodno",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725791,
+    "gn:latitude":43.13333,
+    "gn:longitude":26.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vodno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0434\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chok Bunar",
+        "Wodno",
+        "Vodno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725791
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4495f1600de994421e0870c42f68ce8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310239081,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1310239081,
+    "wof:lastmodified":1537587270,
+    "wof:name":"Vodno",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.03333,
+    43.13333,
+    26.03333,
+    43.13333
+],
+  "geometry": {"coordinates":[26.03333,43.13333],"type":"Point"}
+}

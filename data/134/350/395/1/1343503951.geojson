@@ -1,0 +1,74 @@
+{
+  "id": 1343503951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.00921,41.41781,23.00921,41.41781",
+    "geom:latitude":41.41781,
+    "geom:longitude":23.00921,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG33",
+    "gn:asciiname":"Borovichene",
+    "gn:country_code":"BG",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733052,
+    "gn:latitude":41.41781,
+    "gn:longitude":23.00921,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Borovichene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0438\u0447\u0435\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Borawitscheni",
+        "Borovichene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733052,
+        "wk:page":"Borovichene"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"86e38d08bc6665a5e3e92d091ad90c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343503951,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1343503951,
+    "wof:lastmodified":1537587742,
+    "wof:name":"Borovichene",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.00921,
+    41.41781,
+    23.00921,
+    41.41781
+],
+  "geometry": {"coordinates":[23.00921,41.41781],"type":"Point"}
+}

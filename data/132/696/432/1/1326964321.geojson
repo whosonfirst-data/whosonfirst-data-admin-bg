@@ -1,0 +1,76 @@
+{
+  "id": 1326964321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26667,41.71667,25.26667,41.71667",
+    "geom:latitude":41.71667,
+    "geom:longitude":25.26667,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ16",
+    "gn:admin3_code":"KRZ16-42",
+    "gn:asciiname":"Martino",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729221,
+    "gn:latitude":41.71667,
+    "gn:longitude":25.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Martino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Apazlar",
+        "Martino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729221,
+        "wk:page":"Martino%2C_Kardzhali_Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e6eb1c4017606c4ecd59fb5fcdea4514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326964321,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1326964321,
+    "wof:lastmodified":1537587492,
+    "wof:name":"Martino",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26667,
+    41.71667,
+    25.26667,
+    41.71667
+],
+  "geometry": {"coordinates":[25.26667,41.71667],"type":"Point"}
+}

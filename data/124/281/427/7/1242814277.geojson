@@ -1,0 +1,68 @@
+{
+  "id": 1242814277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66821,42.18196,22.66821,42.18196",
+    "geom:latitude":42.18196,
+    "geom:longitude":22.66821,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Novo Selo",
+    "gn:country_code":"BG",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":728714,
+    "gn:latitude":42.18196,
+    "gn:longitude":22.66821,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Novo Selo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728714
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"eb01b3b0ac359d7cac9d3fce2ec217ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242814277,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1242814277,
+    "wof:lastmodified":1537587459,
+    "wof:name":"Novo Selo",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66821,
+    42.18196,
+    22.66821,
+    42.18196
+],
+  "geometry": {"coordinates":[22.66821,42.18196],"type":"Point"}
+}

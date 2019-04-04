@@ -1,0 +1,112 @@
+{
+  "id": 101797445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":728673.914807,
+    "geom:bbox":"26.4996446402,43.5986851594,26.5111331713,43.610487748",
+    "geom:latitude":43.604388,
+    "geom:longitude":26.506042,
+    "iso:country":"BG",
+    "lbl:latitude":43.603802,
+    "lbl:longitude":26.506726,
+    "mps:latitude":43.603802,
+    "mps:longitude":26.506726,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u0447\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:eng_x_colloquial":[
+        "Kicenica",
+        "Killi Kujudzuk"
+    ],
+    "name:eng_x_preferred":[
+        "Kichenitsa"
+    ],
+    "name:eng_x_variant":[
+        "Kichenica",
+        "Kili Kuydzhuk",
+        "Killi Kujud\u017euk",
+        "Killi-Kuyudzhuk",
+        "Kitscheniza",
+        "Ki\u010denica"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0447\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:rum_x_preferred":[
+        "Kiceni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0447\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0447\u0435\u043d\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Killi-Kuyudzhuk"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Razgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u0438\u0447\u0435\u043d\u0438\u0446\u0430",
+    "qs:la_lc":"*BGRAZ2637109",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0438\u0447\u0435\u043d\u0438\u0446\u0430",
+    "qs:loc_alt":"Kichenitsa",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037151e2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730372,
+        "gp:id":837111,
+        "qs:id":3,
+        "wd:id":"Q2015765"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"40376be39f31c4d9c3b725f8a94945bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797445,
+            "region_id":85681857
+        }
+    ],
+    "wof:id":101797445,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641530,
+    "wof:name":"\u041a\u0438\u0447\u0435\u043d\u0438\u0446\u0430",
+    "wof:parent_id":85681857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.49964464020059,
+    43.59868515944311,
+    26.51113317129591,
+    43.6104877479562
+],
+  "geometry": {"coordinates":[[[26.51042994730398,43.60969761579577],[26.50992006063723,43.60794263918359],[26.51113317129591,43.60774507739387],[26.50858418122482,43.59897013443282],[26.50494534135771,43.59956267282541],[26.50469055007699,43.59868515944311],[26.50226465452431,43.59908010672154],[26.5027741787892,43.60083514579026],[26.50034818544452,43.60123004984621],[26.50085768211636,43.6029850964897],[26.49964464020059,43.60318253404296],[26.50015414354709,43.60493758132202],[26.50379335017419,43.60434520501099],[26.50455783622925,43.60697773287438],[26.5033447232542,43.60717521633421],[26.50410925006213,43.60980774042378],[26.50532241445757,43.60961024655046],[26.50557729435286,43.6104877479562],[26.51042994730398,43.60969761579577]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293341529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2585,43.73027,27.2585,43.73027",
+    "geom:latitude":43.73027,
+    "geom:longitude":27.2585,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB27",
+    "gn:admin3_code":"DOB27-07",
+    "gn:asciiname":"Glavantsi",
+    "gn:country_code":"BG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731421,
+    "gn:latitude":43.73027,
+    "gn:longitude":27.2585,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Glavantsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0430\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pirli Dzhami Makhle",
+        "Borachevo",
+        "Dshami Machala",
+        "Djami-Mahle",
+        "Glavantsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731421,
+        "wk:page":"Glavantsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b7ebb5ef102e350ea3025b04810df8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293341529,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1293341529,
+    "wof:lastmodified":1537587635,
+    "wof:name":"Glavantsi",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2585,
+    43.73027,
+    27.2585,
+    43.73027
+],
+  "geometry": {"coordinates":[27.2585,43.73027],"type":"Point"}
+}

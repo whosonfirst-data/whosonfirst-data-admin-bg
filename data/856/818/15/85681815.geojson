@@ -1,0 +1,357 @@
+{
+  "id": 85681815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003146,
+    "geom:area_square_m":28290854.714113,
+    "geom:bbox":"25.9407485,43.317205,26.037181,43.370379",
+    "geom:latitude":43.344575,
+    "geom:longitude":25.979809,
+    "iso:country":"BG",
+    "label:eng_x_preferred_longname":[
+        "\u0420\u0443\u0441\u0435 Region"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "region"
+    ],
+    "lbl:latitude":43.344355,
+    "lbl:longitude":25.979802,
+    "mps:latitude":43.344355,
+    "mps:longitude":25.979802,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:alb_x_preferred":[
+        "Ruse"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0631\u0648\u0633\u0647"
+    ],
+    "name:arm_x_preferred":[
+        "\u054c\u0578\u0582\u057d\u0565\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c2\u099c \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u043b\u0430\u0441\u0442 \u0420\u0443\u0441\u0435"
+    ],
+    "name:bul_x_variant":[
+        "\u0420\u0443\u0441\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia de Ruse"
+    ],
+    "name:chi_x_preferred":[
+        "\u9b6f\u585e\u5dde"
+    ],
+    "name:cze_x_preferred":[
+        "Rusensk\u00e1 oblast"
+    ],
+    "name:dan_x_preferred":[
+        "Ruse"
+    ],
+    "name:dut_x_preferred":[
+        "Roese"
+    ],
+    "name:eng_x_preferred":[
+        "Ruse"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Ruse"
+    ],
+    "name:est_x_preferred":[
+        "Ruse piirkond"
+    ],
+    "name:fin_x_preferred":[
+        "Rusen alue"
+    ],
+    "name:fre_x_preferred":[
+        "Rouss\u00e9"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10e3\u10e1\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Oblast Russe"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a1\u03bf\u03cd\u03c3\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0ac1\u0ab0\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e8\u05d5\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0942\u091c \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hrv_x_preferred":[
+        "Oblast Ruse"
+    ],
+    "name:hun_x_preferred":[
+        "Rusze megye"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Ruse"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Ruse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30bb\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cc2\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc138 \uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Sexantaprista"
+    ],
+    "name:lav_x_preferred":[
+        "Ruses apgabals"
+    ],
+    "name:lit_x_preferred":[
+        "Rus\u0117s sritis"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0631\u0648\u0633\u0647"
+    ],
+    "name:mac_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u0941\u0938 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:may_x_preferred":[
+        "Ruse Province"
+    ],
+    "name:mon_x_preferred":[
+        "\u0420\u0443\u0441\u0435 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:nan_x_preferred":[
+        "Ruse Chiu"
+    ],
+    "name:nob_x_preferred":[
+        "Ruse oblast"
+    ],
+    "name:oci_x_preferred":[
+        "Rosse"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0648\u0633\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u0631\u0648\u0633\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "Obw\u00f3d Ruse"
+    ],
+    "name:por_x_preferred":[
+        "Ruse"
+    ],
+    "name:rum_x_preferred":[
+        "Regiunea Ruse"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Ruse Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dc3\u0dda \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slo_x_preferred":[
+        "Ruse"
+    ],
+    "name:slv_x_preferred":[
+        "Ruse"
+    ],
+    "name:spa_x_preferred":[
+        "Ruse"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Ruse"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bc1\u0bb8\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c42\u0c1c\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0420\u0443\u0441\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e34\u0e19\u0e40\u0e14\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Rus\u00e7uk ili"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Ruse"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0633\u06d2 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Ruse"
+    ],
+    "name:war_x_preferred":[
+        "Rousse"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BGR",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BGR-2262",
+    "ne:adm1_code":"BGR-2262",
+    "ne:admin":"Bulgaria",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"BG.RS",
+    "ne:code_local":"",
+    "ne:datarank":"7",
+    "ne:diss_me":"2262",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BU52",
+    "ne:fips_alt":"BU53",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Bulgaria",
+    "ne:gn_a1_code":"BG.53",
+    "ne:gn_id":"727524",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Oblast Ruse",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BU53",
+    "ne:gns_id":"-837974",
+    "ne:gns_lang":"hun",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Ruse, Oblast",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BGR",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BG-",
+    "ne:iso_a2":"BG",
+    "ne:labelrank":"7",
+    "ne:latitude":"43.62110000000",
+    "ne:longitude":"25.93050000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":1,
+    "ne:name":"Ruse",
+    "ne:name_alt":"Russe|Ru\u0161\u010duk|Rustchuk",
+    "ne:name_len":4,
+    "ne:name_local":"\u0420\u0443\u0441\u0435\u043d\u0441\u043a\u0430",
+    "ne:note":"",
+    "ne:postal":"RS",
+    "ne:provnum_ne":"20023",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"7",
+    "ne:sov_a3":"BGR",
+    "ne:sub_code":"",
+    "ne:type":"Oblast",
+    "ne:type_en":"Province",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070069,
+    "ne:woe_label":"Ruse, BG, Bulgaria",
+    "ne:woe_name":"Ruse",
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a0_lc":"BG0000000000",
+    "qs:a1":"\u0420\u0443\u0441\u0435",
+    "qs:a1_alt":"Ruse",
+    "qs:a1_lc":"BGRSE0000000",
+    "qs:adm0":"Bulgaria",
+    "qs:adm0_a3":"BGR",
+    "qs:level":"adm1",
+    "qs:source":"EuroGlobalMap",
+    "qs:type":"\u041e\u0431\u043b\u0430\u0441\u0442",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-02-01",
+    "statoids:area_km":"2,803",
+    "statoids:area_mi":"1,082",
+    "statoids:as_of_date":"2011-02-01",
+    "statoids:capital":"Ruse",
+    "statoids:country":"BG",
+    "statoids:gec":"BU53",
+    "statoids:hasc":"BG.RS",
+    "statoids:iso":"18",
+    "statoids:name":"Ruse",
+    "statoids:population":"235252",
+    "statoids:timezone":"+2~",
+    "statoids:type":"region",
+    "wof:belongsto":[
+        102191581,
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BU53",
+        "gn:id":727524,
+        "gp:id":20070069,
+        "hasc:id":"BG.RS",
+        "iso:id":"BG-18",
+        "wd:id":"Q1251933"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"68d8c7a0d42ecb74e53e213eb46a5f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "region_id":85681815
+        }
+    ],
+    "wof:id":85681815,
+    "wof:lang_x_official":[
+        "bul"
+    ],
+    "wof:lang_x_spoken":[
+        "bul"
+    ],
+    "wof:lastmodified":1553814855,
+    "wof:name":"\u0420\u0443\u0441\u0435",
+    "wof:parent_id":85633001,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"region",
+    "wof:population":235252,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:shortcode":"RS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.94074849999978,
+    43.31720499999986,
+    26.03718099999978,
+    43.37037899999984
+],
+  "geometry": {"coordinates":[[[26.00458499999976,43.31875449999984],[26.00189849999978,43.31720499999986],[25.99765749999978,43.31731649999985],[25.99296449999977,43.31843249999986],[25.97208649999976,43.32066449999984],[25.97170799999978,43.32169649999985],[25.96987449999978,43.32062649999986],[25.96886199999977,43.32240899999985],[25.96680399999977,43.32219249999986],[25.95521199999976,43.32567099999986],[25.95119199999976,43.32583249999985],[25.95001449999978,43.32628999999986],[25.95107749999977,43.32804199999984],[25.95031149999977,43.32861549999984],[25.94961649999976,43.33058099999985],[25.94522549999976,43.33340449999986],[25.94534449999978,43.33443199999985],[25.94329549999978,43.33658749999984],[25.94352099999978,43.34007449999984],[25.94074849999978,43.34808949999984],[25.94318099999978,43.34963849999985],[25.94629199999977,43.35048199999985],[25.94151599999978,43.35417949999984],[25.94413699999978,43.35491499999986],[25.94229149999978,43.35710849999983],[25.94227799999976,43.35773849999984],[25.94341699999978,43.35834799999984],[25.94086699999977,43.36071049999984],[25.94236999999978,43.36164299999984],[25.94492699999978,43.36192299999985],[25.94426199999978,43.36274999999986],[25.94508149999979,43.36273049999986],[25.94565649999978,43.36418549999985],[25.94912349999979,43.36633799999984],[25.95382949999978,43.36638999999985],[25.95706499999977,43.36743249999984],[25.95772799999977,43.36920799999984],[25.95982999999978,43.36954699999984],[25.96197099999977,43.36819749999983],[25.96717599999976,43.36843449999984],[25.96965099999977,43.36662349999985],[25.97094749999976,43.36681099999984],[25.97269249999977,43.36814599999985],[25.97425899999976,43.36827249999985],[25.97601999999978,43.36905799999985],[25.97989449999977,43.36886749999985],[25.98355499999976,43.36979599999984],[25.98366599999977,43.37035549999984],[25.98481099999978,43.37037899999984],[25.98650599999976,43.36928649999984],[25.98867699999977,43.36947699999985],[25.99117599999977,43.36772499999984],[25.99434949999977,43.36699649999986],[25.99304599999976,43.36609349999986],[25.99346899999977,43.36506199999985],[25.99679549999976,43.36304699999985],[25.99924149999978,43.36540099999985],[26.00376699999978,43.36592199999983],[26.00460449999977,43.36636149999984],[26.00543199999979,43.36613449999984],[26.00581249999976,43.36651599999985],[26.00892749999977,43.36401299999986],[26.00779899999978,43.36296749999985],[26.01165499999976,43.36134849999985],[26.01419549999977,43.35894399999984],[26.01592149999976,43.35800449999984],[26.01485349999979,43.35377649999984],[26.01281599999979,43.35222749999986],[26.01428249999978,43.34872449999986],[26.01177599999977,43.34237299999984],[26.01225749999978,43.34131899999986],[26.01425899999978,43.34030499999985],[26.01550549999976,43.33863649999984],[26.01796899999977,43.33380449999984],[26.01346899999979,43.33360799999986],[26.00888099999977,43.33385249999986],[26.00828949999976,43.33430149999984],[26.00746249999977,43.33402899999984],[26.00872849999976,43.33175249999984],[26.01006699999976,43.33220999999986],[26.01386899999977,43.33201299999985],[26.01929249999978,43.33088499999985],[26.02099499999977,43.33234899999985],[26.03637249999977,43.33671199999986],[26.03718099999978,43.33562449999985],[26.02843749999976,43.33204349999986],[26.02390999999977,43.33087499999985],[26.02031499999978,43.32866049999984],[26.01647249999976,43.32817249999985],[26.01426249999977,43.32835199999985],[26.01383599999977,43.32683999999986],[26.01275599999977,43.32681249999985],[26.01161549999978,43.32786949999985],[26.01179099999976,43.32758749999985],[26.01051949999979,43.32707249999984],[26.00710949999978,43.32617899999985],[26.00632049999976,43.32666249999986],[26.00531099999978,43.32892699999985],[26.00034399999979,43.32845149999985],[26.00104649999977,43.32656249999985],[26.00305049999977,43.32685899999984],[26.00148399999977,43.32377899999986],[26.00458499999976,43.31875449999984]]],"type":"Polygon"}
+}

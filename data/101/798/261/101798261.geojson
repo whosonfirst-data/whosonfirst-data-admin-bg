@@ -1,0 +1,233 @@
+{
+  "id": 101798261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000282,
+    "geom:bbox":"26.4017519296,42.382332802,26.420155011,42.4074348898",
+    "geom:latitude":42.395863,
+    "geom:longitude":26.411122,
+    "iso:country":"BG",
+    "lbl:latitude":42.39587,
+    "lbl:longitude":26.410947,
+    "mps:latitude":42.39587,
+    "mps:longitude":26.410947,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0632\u0627 \u0623\u0648\u062a\u0648\u0646\u0628\u0627\u064a\u064a\u0641\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u043e\u0437\u0430 \u0410\u0442\u0443\u043d\u0431\u0430\u0435\u0432\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0437\u0430 \u041e\u0442\u0443\u043d\u0431\u0430\u0435\u0432\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0420\u043e\u0437\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Roza Otunbaieva"
+    ],
+    "name:ces_x_preferred":[
+        "Roza Otunbajevov\u00e1"
+    ],
+    "name:chv_x_preferred":[
+        "\u041e\u0442\u0443\u043d\u0431\u0430\u0435\u0432\u0430 \u0420\u043e\u0437\u0430 \u0418\u0441\u0430\u043a\u043e\u0432\u043d\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Roza Otunbajeva"
+    ],
+    "name:deu_x_preferred":[
+        "Rosa Otunbajewa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03b6\u03b1 \u039f\u03c4\u03bf\u03c5\u03bd\u03bc\u03c0\u03ac\u03b3\u03b9\u03b5\u03b2\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Roza"
+    ],
+    "name:eng_x_variant":[
+        "Giuliumjanovo",
+        "Gjuljumjanovo",
+        "Gjulowo",
+        "Gyulovo",
+        "Gyulyumanovo",
+        "Gyulyumyanovo"
+    ],
+    "name:epo_x_preferred":[
+        "Roza Otunbajeva"
+    ],
+    "name:est_x_preferred":[
+        "Roza Otunbajeva"
+    ],
+    "name:eus_x_preferred":[
+        "Roza Otunbaieva"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0632\u0627 \u0627\u0648\u062a\u0648\u0646\u0628\u0627\u06cc\u0648\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Roza Otunbajeva"
+    ],
+    "name:fra_x_preferred":[
+        "Roza Otounba\u00efeva"
+    ],
+    "name:hbs_x_preferred":[
+        "Roza Otunbajeva"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d6\u05d4 \u05d0\u05d5\u05d8\u05d5\u05e0\u05d1\u05d9\u05d9\u05d1\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Roza Otunbajeva"
+    ],
+    "name:hun_x_preferred":[
+        "Roza Otunbajeva"
+    ],
+    "name:ind_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:ita_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30b6\u30fb\u30aa\u30c8\u30a5\u30f3\u30d0\u30a8\u30f4\u30a1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10d6\u10d0 \u10dd\u10e2\u10e3\u10dc\u10d1\u10d0\u10d4\u10d5\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0437\u0430 \u041e\u0442\u044b\u043d\u0431\u0430\u0435\u0432\u0430"
+    ],
+    "name:kir_x_preferred":[
+        "\u041e\u0442\u0443\u043d\u0431\u0430\u0435\u0432\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\uc790 \uc624\ud230\ubc14\uc608\ubc14"
+    ],
+    "name:msa_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:nld_x_preferred":[
+        "Roza Otoenbajeva"
+    ],
+    "name:nor_x_preferred":[
+        "Roza Otunbajeva"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a30\u0a4b\u0a1c\u0a3c\u0a3e \u0a09\u0a24\u0a28\u0a2c\u0a3e\u0a08\u0a35\u0a3e"
+    ],
+    "name:pol_x_preferred":[
+        "Roza Otunbajewa"
+    ],
+    "name:por_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0443\u043d\u0431\u0430\u0435\u0432\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:spa_x_preferred":[
+        "Rosa Otunb\u00e1eva"
+    ],
+    "name:swe_x_preferred":[
+        "Roza Otunbajeva"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bcb\u0b9a\u0bbe \u0b92\u0b9f\u0bcd\u0b9f\u0bc1\u0ba9\u0bcd\u0baa\u0bbe\u0baf\u0bc6\u0bb5\u0bbe"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0420\u043e\u0437\u0430 \u0418\u0441\u0430\u043a\u043e\u0432\u043d\u0430 \u041e\u0442\u0443\u043d\u0431\u0430\u0435\u0432\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0437\u0430 \u041e\u0442\u0443\u043d\u0431\u0430\u0454\u0432\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Gyulyumanovo"
+    ],
+    "name:uzb_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:yor_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:zho_x_preferred":[
+        "\u841d\u624e\u00b7\u5965\u901a\u5df4\u8036\u5a03"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u042f\u043c\u0431\u043e\u043b",
+    "qs:a1_alt":"Yambol",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0420\u043e\u0437\u0430",
+    "qs:la_lc":"*BGJAM2562921",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u043e\u0437\u0430",
+    "qs:loc_alt":"Roza",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":1609,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037278ba-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727574,
+        "gp:id":839296,
+        "qs:id":1273048,
+        "wd:id":"Q485136"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ed9de66f7ba622d08fb1dff085f13500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798261,
+            "region_id":85681793
+        }
+    ],
+    "wof:id":101798261,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641926,
+    "wof:name":"\u0420\u043e\u0437\u0430",
+    "wof:parent_id":85681793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.40175192956588,
+    42.38233280198722,
+    26.42015501103276,
+    42.40743488980428
+],
+  "geometry": {"coordinates":[[[26.42015501103276,42.40479354886259],[26.41819440939651,42.39776218288279],[26.41938384283378,42.39756631778056],[26.41840370852549,42.39405060957489],[26.41721434013823,42.39424646134705],[26.41549959027083,42.38809388682449],[26.41431032886982,42.38828970131215],[26.41284101684914,42.38301598338433],[26.41165184615812,42.38321176392634],[26.41140701081309,42.38233280198722],[26.41021784955154,42.38252856523866],[26.41046266864203,42.38340753050744],[26.40927348430063,42.38360328312706],[26.40951829677243,42.3844822501199],[26.40832908934976,42.3846779921077],[26.40857389520198,42.38555696082472],[26.40619542736829,42.3859484095733],[26.40644021034171,42.38682738334387],[26.40406168269277,42.38721878290181],[26.40430644278354,42.38809776172542],[26.4031171524631,42.38829344388921],[26.4038514417694,42.39093038071809],[26.40266209584013,42.39112605890574],[26.40315163770174,42.39288401542632],[26.40196225242062,42.39307968630817],[26.40220702154278,42.39395866549074],[26.40339642308783,42.39376299127952],[26.40413083707523,42.39639990921154],[26.40175192956588,42.39679126364587],[26.40224152201847,42.39854921422994],[26.40343101172095,42.39835353733605],[26.40441037737565,42.40186940593122],[26.40678946644346,42.40147798360363],[26.40703436449979,42.40235694007976],[26.40822391505776,42.40216120463555],[26.40969360355308,42.40743488980428],[26.41921054299496,42.40586834351905],[26.41896544063184,42.40498942666511],[26.42015501103276,42.40479354886259]]],"type":"Polygon"}
+}

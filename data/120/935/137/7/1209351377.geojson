@@ -1,0 +1,75 @@
+{
+  "id": 1209351377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43587,41.32728,25.43587,41.32728",
+    "geom:latitude":41.32728,
+    "geom:longitude":25.43587,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ14",
+    "gn:asciiname":"Tsarino",
+    "gn:country_code":"BG",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":726257,
+    "gn:latitude":41.32728,
+    "gn:longitude":25.43587,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tsarino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bul_x_preferred":[
+        "\u0426\u0430\u0440\u0438\u043d\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u0426\u0430\u0440\u0438\u043d\u043e\u0432\u043e",
+        "Zarinovo"
+    ],
+    "name:und_x_variant":[
+        "Khas Yurt",
+        "Zarino",
+        "Tsarino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726257,
+        "wk:page":"Tsarino"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3278c2b37b1ea2b473205ebc4e998436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209351377
+        }
+    ],
+    "wof:id":1209351377,
+    "wof:lastmodified":1537587300,
+    "wof:name":"Tsarino",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43587,
+    41.32728,
+    25.43587,
+    41.32728
+],
+  "geometry": {"coordinates":[25.43587,41.32728],"type":"Point"}
+}

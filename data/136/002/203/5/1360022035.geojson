@@ -1,0 +1,75 @@
+{
+  "id": 1360022035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.05,43.98333,27.05,43.98333",
+    "geom:latitude":43.98333,
+    "geom:longitude":27.05,
+    "gn:admin1_code":"55",
+    "gn:admin2_code":"SLS32",
+    "gn:asciiname":"Slatina",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727113,
+    "gn:latitude":43.98333,
+    "gn:longitude":27.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slatina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kapaklii",
+        "Capacli",
+        "Slatina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727113
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"dfdafbb4b8cb1d88319db33fcd324d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360022035,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1360022035,
+    "wof:lastmodified":1537587355,
+    "wof:name":"Slatina",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.05,
+    43.98333,
+    27.05,
+    43.98333
+],
+  "geometry": {"coordinates":[27.05,43.98333],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 101798117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000087,
+    "geom:bbox":"24.5943916253,42.720785389,24.60967574,42.7301348173",
+    "geom:latitude":42.725653,
+    "geom:longitude":24.602377,
+    "iso:country":"BG",
+    "lbl:latitude":42.725537,
+    "lbl:longitude":24.602377,
+    "mps:latitude":42.725537,
+    "mps:longitude":24.602377,
+    "mz:hierarchy_label":1,
+    "name:bul_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0442\u043e-\u0414\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Khristo-Danovo"
+    ],
+    "name:eng_x_variant":[
+        "Christo Danowo",
+        "Hristo-Danovo",
+        "Tekija",
+        "Tekiya"
+    ],
+    "name:unk_x_variant":[
+        "Tekiya"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+    "qs:a1_alt":"Plovdiv",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0425\u0440\u0438\u0441\u0442\u043e \u0414\u0430\u043d\u043e\u0432\u043e",
+    "qs:la_lc":"*BGPDV1377462",
+    "qs:level":"locality",
+    "qs:loc":"\u0425\u0440\u0438\u0441\u0442\u043e \u0414\u0430\u043d\u043e\u0432\u043e",
+    "qs:loc_alt":"Hristo Danovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03715016-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730395,
+        "gp:id":837094,
+        "qs:id":2
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7d702026deb7ae6350b033986fdd61e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798117,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":101798117,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501215865,
+    "wof:name":"\u0425\u0440\u0438\u0441\u0442\u043e \u0414\u0430\u043d\u043e\u0432\u043e",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59439162534744,
+    42.72078538897199,
+    24.60967574003524,
+    42.7301348172906
+],
+  "geometry": {"coordinates":[[[24.60149369028568,42.72978584875852],[24.60127354334202,42.7289021458638],[24.60967574003524,42.72768033092285],[24.60835433280715,42.72237821038129],[24.60715413903881,42.72255277979554],[24.60671377387723,42.72078538897199],[24.6031132565771,42.7213089941834],[24.60333338409936,42.72219269933123],[24.59853253967015,42.72289065338919],[24.59875260837902,42.72377436916423],[24.59635211504121,42.72412326723821],[24.59657215871925,42.7250069876211],[24.59537188582198,42.72518141842249],[24.59559192136322,42.7260651404041],[24.59439162534744,42.72623956005117],[24.59505173383673,42.7288907265638],[24.59745242103719,42.72854185505315],[24.59767250852036,42.72942556838677],[24.59887285968517,42.72925110837639],[24.59909297283082,42.7301348172906],[24.60149369028568,42.72978584875852]]],"type":"Polygon"}
+}

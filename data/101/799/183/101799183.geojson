@@ -1,0 +1,142 @@
+{
+  "id": 101799183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":838758.081926,
+    "geom:bbox":"23.1182683672,42.1185577079,23.1349065642,42.1324516834",
+    "geom:latitude":42.124767,
+    "geom:longitude":23.127705,
+    "gn:population":3002,
+    "iso:country":"BG",
+    "lbl:latitude":42.123989,
+    "lbl:longitude":23.127831,
+    "mps:latitude":42.123989,
+    "mps:longitude":23.127831,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u043b\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Rila"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0695\u06cc\u0644\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Rila"
+    ],
+    "name:eng_x_variant":[
+        "Rila Selo",
+        "Riloselo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0644\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e9"
+    ],
+    "name:por_x_preferred":[
+        "Rila"
+    ],
+    "name:ron_x_preferred":[
+        "Rila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rila"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Rila"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Riloselo"
+    ],
+    "name:war_x_preferred":[
+        "Rila"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u62c9"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b",
+    "qs:a1_alt":"Kyustendil",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0420\u0438\u043b\u0430",
+    "qs:la_lc":"*BGKNL3862671",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0438\u043b\u0430",
+    "qs:loc_alt":"Rila",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":593.0,
+    "wd:latitude":42.133333,
+    "wd:longitude":23.133333,
+    "wd:wordcount":156,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03727162-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727628,
+        "gp:id":839256,
+        "qs:id":235311,
+        "qs_pg:id":235311,
+        "wd:id":"Q406517",
+        "wk:page":"Rila, Bulgaria"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a080cfaf0e3ecd86cb2b2f94c42bdc91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799183,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":101799183,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641694,
+    "wof:name":"\u0420\u0438\u043b\u0430",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:population":3002,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.11826836716642,
+    42.11855770787884,
+    23.13490656421021,
+    42.13245168339364
+],
+  "geometry": {"coordinates":[[[23.13490656421021,42.13077972908229],[23.13334790338882,42.12367616838742],[23.13215616719572,42.12383297554351],[23.13196138601251,42.12294502192424],[23.13076966110071,42.12310181232465],[23.13057490435449,42.12221385473276],[23.1293831907247,42.12237062837767],[23.12899373380981,42.1205947039474],[23.12541866061514,42.12106492435311],[23.12522399390468,42.12017695217747],[23.12403230867596,42.12033366147335],[23.12364303181931,42.11855770787884],[23.12006804384202,42.11902773524628],[23.12026262822849,42.11991572069786],[23.11907093794906,42.12007237098402],[23.119460096355,42.12184834331714],[23.11826836716642,42.12200498485225],[23.11846294118448,42.12289297173379],[23.12084642758259,42.12257966924244],[23.12104104276665,42.12346764948717],[23.12223279453059,42.12331097444411],[23.12262208146859,42.12508692569219],[23.12500563559172,42.12477352267325],[23.12520032408247,42.12566149100735],[23.12639210970627,42.12550476569908],[23.12658682263526,42.12639273006187],[23.12777861954476,42.12623598799757],[23.12797335691323,42.127123948389],[23.12916516510791,42.12696718956835],[23.12994425858602,42.13051900743307],[23.12875238344645,42.13067577693357],[23.12914194295485,42.13245168339364],[23.1315257547339,42.13213811962333],[23.13133093764969,42.13125017238531],[23.13490656421021,42.13077972908229]]],"type":"Polygon"}
+}

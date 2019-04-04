@@ -1,0 +1,109 @@
+{
+  "id": 101857929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.392561,43.069033,23.392561,43.069033",
+    "geom:latitude":43.069033,
+    "geom:longitude":23.392561,
+    "iso:country":"BG",
+    "lbl:latitude":43.069033,
+    "lbl:longitude":23.392561,
+    "mps:latitude":43.069033,
+    "mps:longitude":23.392561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Lakatnik"
+    ],
+    "name:eng_x_preferred":[
+        "Lakatnik"
+    ],
+    "name:ron_x_preferred":[
+        "Lakatnik"
+    ],
+    "name:rum_x_preferred":[
+        "Lakatnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Lakatnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Lakatnik"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043e\u0444\u0438\u044f",
+    "qs:a1_alt":"Sofia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a",
+    "qs:loc_alt":"Lakatnik",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03719382-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":729722,
+        "gp:id":837620,
+        "qs:id":6,
+        "wd:id":"Q2017393",
+        "wk:page":"Lakatnik"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d2d8d0e9b1ead8bffbc78996b5fe444b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101857929,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":101857929,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544744150,
+    "wof:name":"\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.392561,
+    43.069033,
+    23.392561,
+    43.069033
+],
+  "geometry": {"coordinates":[23.392561,43.069033],"type":"Point"}
+}

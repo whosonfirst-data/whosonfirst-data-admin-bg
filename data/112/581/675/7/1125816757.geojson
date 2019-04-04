@@ -1,0 +1,114 @@
+{
+  "id": 1125816757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78333,43.75,26.78333,43.75",
+    "geom:latitude":43.75,
+    "geom:longitude":26.78333,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":43.75,
+    "lbl:longitude":26.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u0435\u0449\u0430\u0440\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Sveshtari"
+    ],
+    "name:fin_x_preferred":[
+        "Sve\u0161tari"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0432\u0435\u0448\u0442\u0430\u0440\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Swesztari"
+    ],
+    "name:rum_x_preferred":[
+        "Sve\u0219tari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0448\u0442\u0430\u0440\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0448\u0442\u0430\u0440\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Mumdzhular"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":726584,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Sveshtari",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Razgrad",
+    "qs_pg:photos":57,
+    "qs_pg:photos_1k":12,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":57,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167317,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":840049,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Razgrad",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726584,
+        "gp:id":840049,
+        "qs_pg:id":1167317,
+        "wd:id":"Q2654348"
+    },
+    "wof:country":"BG",
+    "wof:created":1497291876,
+    "wof:geomhash":"d611573c82a080b061af48dddbe7b8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125816757,
+            "region_id":85681857
+        }
+    ],
+    "wof:id":1125816757,
+    "wof:lastmodified":1513899771,
+    "wof:name":"Sveshtari",
+    "wof:parent_id":85681857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78333,
+    43.75,
+    26.78333,
+    43.75
+],
+  "geometry": {"coordinates":[26.78333,43.75],"type":"Point"}
+}

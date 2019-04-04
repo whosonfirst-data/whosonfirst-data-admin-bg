@@ -1,0 +1,78 @@
+{
+  "id": 1260320359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41667,42.2,26.41667,42.2",
+    "geom:latitude":42.2,
+    "geom:longitude":26.41667,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"JAM07",
+    "gn:admin3_code":"JAM07-13",
+    "gn:asciiname":"Malak Manastir",
+    "gn:country_code":"BG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729297,
+    "gn:latitude":42.2,
+    "gn:longitude":26.41667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Malak Manastir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u044a\u043a \u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
+    "name:bul_x_variant":[
+        "Malak Manastir"
+    ],
+    "name:und_x_variant":[
+        "Mal\u0103k Manastir",
+        "Mal\u016dk Manast\u016dr\u2019",
+        "Mal\u016dk Manastir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729297
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a16fd587b36b0e7fdc302c3798691295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260320359,
+            "region_id":85681793
+        }
+    ],
+    "wof:id":1260320359,
+    "wof:lastmodified":1537587495,
+    "wof:name":"Malak Manastir",
+    "wof:parent_id":85681793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41667,
+    42.2,
+    26.41667,
+    42.2
+],
+  "geometry": {"coordinates":[26.41667,42.2],"type":"Point"}
+}

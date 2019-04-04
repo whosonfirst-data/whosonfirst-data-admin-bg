@@ -1,0 +1,77 @@
+{
+  "id": 1225875657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2,43.8,27.2,43.8",
+    "geom:latitude":43.8,
+    "geom:longitude":27.2,
+    "gn:admin1_code":"55",
+    "gn:admin2_code":"SLS10",
+    "gn:admin3_code":"SLS10-08",
+    "gn:asciiname":"Kozyak",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730001,
+    "gn:latitude":43.8,
+    "gn:longitude":27.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kozyak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0437\u044f\u043a"
+    ],
+    "name:und_x_variant":[
+        "Checiler-Mahle",
+        "Kozak",
+        "Kechiler Makhle",
+        "Kozyak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730001
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"00ef4cdd99e38545d50ddd64e99077e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225875657,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1225875657,
+    "wof:lastmodified":1537587540,
+    "wof:name":"Kozyak",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2,
+    43.8,
+    27.2,
+    43.8
+],
+  "geometry": {"coordinates":[27.2,43.8],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293625327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.27564,43.68896,24.27564,43.68896",
+    "geom:latitude":43.68896,
+    "geom:longitude":24.27564,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"VRC31",
+    "gn:admin3_code":"VRC31-03",
+    "gn:asciiname":"Dolni Vadin",
+    "gn:country_code":"BG",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732079,
+    "gn:latitude":43.68896,
+    "gn:longitude":24.27564,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Dolni Vadin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438 \u0412\u0430\u0434\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Stari Vadin",
+        "Dolni-Wadin",
+        "Vadin",
+        "Dolni Vadin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732079
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8c1a53f8ceb0ee3d48708dd34399f3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293625327,
+            "region_id":85681817
+        }
+    ],
+    "wof:id":1293625327,
+    "wof:lastmodified":1537587679,
+    "wof:name":"Dolni Vadin",
+    "wof:parent_id":85681817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.27564,
+    43.68896,
+    24.27564,
+    43.68896
+],
+  "geometry": {"coordinates":[24.27564,43.68896],"type":"Point"}
+}

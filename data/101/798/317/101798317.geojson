@@ -1,0 +1,110 @@
+{
+  "id": 101798317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000073,
+    "geom:area_square_m":658909.902253,
+    "geom:bbox":"27.3845948332,42.805036216,27.3986701792,42.8134934646",
+    "geom:latitude":42.809548,
+    "geom:longitude":27.39126,
+    "iso:country":"BG",
+    "lbl:latitude":42.809536,
+    "lbl:longitude":27.391394,
+    "mps:latitude":42.809536,
+    "mps:longitude":27.391394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0437\u0431\u043e\u0439\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Razboyna"
+    ],
+    "name:eng_x_variant":[
+        "Harami-Dere",
+        "Karami Dere",
+        "Kharami Dere",
+        "Rasboina",
+        "Razbojna"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0437\u0431\u043e\u0439\u043d\u0430"
+    ],
+    "name:rum_x_preferred":[
+        "Razboina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0431\u043e\u0439\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0437\u0431\u043e\u0439\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Kharami Dere"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8332\u535a\u4f0a\u7d0d\u51b0\u5ddd"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0420\u0430\u0437\u0431\u043e\u0439\u043d\u0430",
+    "qs:la_lc":"*BGBGS1861666",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0430\u0437\u0431\u043e\u0439\u043d\u0430",
+    "qs:loc_alt":"Razboyina",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":184,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03726a00-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727707,
+        "gp:id":839200,
+        "qs:id":2,
+        "wd:id":"Q2020061"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"cbc6a3298be2035d524d0413e1bd81fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798317,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101798317,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641935,
+    "wof:name":"\u0420\u0430\u0437\u0431\u043e\u0439\u043d\u0430",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.38459483319502,
+    42.80503621598962,
+    27.39867017919079,
+    42.81349346456432
+],
+  "geometry": {"coordinates":[[[27.38750935428595,42.81349346456432],[27.39706821095945,42.81183281036635],[27.39654315107111,42.81008177140347],[27.39773794233525,42.80987413373055],[27.3974754116241,42.80899861526018],[27.39867017919079,42.80879096714551],[27.39840764252602,42.80791545053626],[27.39601813268001,42.80833072563678],[27.39549315578182,42.80657967306627],[27.39429842246204,42.80678728248711],[27.39377351970541,42.80503621598962],[27.38899464338357,42.80586648514509],[27.3892570242661,42.80674203348792],[27.38686750925945,42.80715709116328],[27.38712986785185,42.80803264492698],[27.38593508297231,42.80824015631833],[27.38619743560241,42.80911571194224],[27.38500262702752,42.80932321288896],[27.38578969813216,42.81194988024282],[27.38459483319502,42.81215737786511],[27.38485719463409,42.81303293381069],[27.38724694980971,42.81261791743958],[27.38750935428595,42.81349346456432]]],"type":"Polygon"}
+}

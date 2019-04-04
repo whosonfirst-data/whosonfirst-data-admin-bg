@@ -1,0 +1,72 @@
+{
+  "id": 1209144383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28628,41.45498,23.28628,41.45498",
+    "geom:latitude":41.45498,
+    "geom:longitude":23.28628,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"General Todorov",
+    "gn:country_code":"BG",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727962,
+    "gn:latitude":41.45498,
+    "gn:longitude":23.28628,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"General Todorov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0438\u043f\u0435\u0447\u0435\u043d\u0435"
+    ],
+    "name:bul_x_variant":[
+        "General Todorov",
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b \u0422\u043e\u0434\u043e\u0440\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Pripetschene",
+        "Pripechene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727962
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4b38e6b7717dc575b73eec13bedae791",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209144383
+        }
+    ],
+    "wof:id":1209144383,
+    "wof:lastmodified":1537587407,
+    "wof:name":"General Todorov",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28628,
+    41.45498,
+    23.28628,
+    41.45498
+],
+  "geometry": {"coordinates":[23.28628,41.45498],"type":"Point"}
+}

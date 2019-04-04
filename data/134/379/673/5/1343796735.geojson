@@ -1,0 +1,75 @@
+{
+  "id": 1343796735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.21667,42.9,27.21667,42.9",
+    "geom:latitude":42.9,
+    "geom:longitude":27.21667,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS18",
+    "gn:admin3_code":"BGS18-38",
+    "gn:asciiname":"Yasenovo",
+    "gn:country_code":"BG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725540,
+    "gn:latitude":42.9,
+    "gn:longitude":27.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yasenovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u042f\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Gerdeme",
+        "Jassenowo",
+        "Yasenovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725540
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"df212bd71c9a640dfd7a04fcd5b52fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343796735,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1343796735,
+    "wof:lastmodified":1537587253,
+    "wof:name":"Yasenovo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21667,
+    42.9,
+    27.21667,
+    42.9
+],
+  "geometry": {"coordinates":[27.21667,42.9],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310637297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.0229,42.11587,23.0229,42.11587",
+    "geom:latitude":42.11587,
+    "geom:longitude":23.0229,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL27",
+    "gn:asciiname":"Dragodan",
+    "gn:country_code":"BG",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731969,
+    "gn:latitude":42.11587,
+    "gn:longitude":23.0229,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dragodan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0434\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731969,
+        "wk:page":"Dragodan"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"68630616b4f717bd6756744d1d1f981d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310637297,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1310637297,
+    "wof:lastmodified":1537587670,
+    "wof:name":"Dragodan",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.0229,
+    42.11587,
+    23.0229,
+    42.11587
+],
+  "geometry": {"coordinates":[23.0229,42.11587],"type":"Point"}
+}

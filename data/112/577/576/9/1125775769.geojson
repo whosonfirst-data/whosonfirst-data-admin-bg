@@ -1,0 +1,97 @@
+{
+  "id": 1125775769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.55,43.4,27.55,43.4",
+    "geom:latitude":43.4,
+    "geom:longitude":27.55,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3697,
+    "gn:population":3697,
+    "iso:country":"BG",
+    "lbl:latitude":43.4,
+    "lbl:longitude":27.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u043b\u0447\u0438\u0434\u043e\u043b"
+    ],
+    "name:bul_x_variant":[
+        "Valchidol"
+    ],
+    "name:unk_x_variant":[
+        "Kurt Dere"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":725679,
+    "qs_pg:gn_pop":3697,
+    "qs_pg:name":"Vulchidol",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Varna",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":915572,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":840708,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Varna",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725679,
+        "gp:id":840708,
+        "qs_pg:id":915572
+    },
+    "wof:country":"BG",
+    "wof:created":1497290250,
+    "wof:geomhash":"521f613be85a2ad31b91e92e60997a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125775769,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1125775769,
+    "wof:lastmodified":1509391265,
+    "wof:name":"Vulchidol",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:population":3697,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55,
+    43.4,
+    27.55,
+    43.4
+],
+  "geometry": {"coordinates":[27.55,43.4],"type":"Point"}
+}

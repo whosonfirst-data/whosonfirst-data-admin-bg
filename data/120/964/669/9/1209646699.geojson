@@ -1,0 +1,74 @@
+{
+  "id": 1209646699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96667,43.35,25.96667,43.35",
+    "geom:latitude":43.35,
+    "geom:longitude":25.96667,
+    "gn:admin1_code":"53",
+    "gn:admin2_code":"RSE04",
+    "gn:admin3_code":"RSE04-12",
+    "gn:asciiname":"Lom Cherkovna",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732980,
+    "gn:latitude":43.35,
+    "gn:longitude":25.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lom Cherkovna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u043c \u0427\u0435\u0440\u043a\u043e\u0432\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Cherkovna",
+        "Lom-Tscherkowna",
+        "Boyka",
+        "Lom \u010cerkovna",
+        "Lom Cherkovna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732980
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"945f10684fdb896f6168ea79b1a08011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209646699
+        }
+    ],
+    "wof:id":1209646699,
+    "wof:lastmodified":1537587738,
+    "wof:name":"Lom Cherkovna",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96667,
+    43.35,
+    25.96667,
+    43.35
+],
+  "geometry": {"coordinates":[25.96667,43.35],"type":"Point"}
+}

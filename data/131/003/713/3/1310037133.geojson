@@ -1,0 +1,79 @@
+{
+  "id": 1310037133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63333,42.28333,24.63333,42.28333",
+    "geom:latitude":42.28333,
+    "geom:longitude":24.63333,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"PDV33",
+    "gn:admin3_code":"PDV33-04",
+    "gn:asciiname":"Malak Chardak",
+    "gn:country_code":"BG",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729302,
+    "gn:latitude":42.28333,
+    "gn:longitude":24.63333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Malak Chardak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u044a\u043a \u0427\u0430\u0440\u0434\u0430\u043a"
+    ],
+    "name:bul_x_variant":[
+        "Malak Chardak"
+    ],
+    "name:und_x_variant":[
+        "Turski Chardak",
+        "Mal\u0103k Tschardak",
+        "Mal\u016dk Cherdak",
+        "Mal\u016dk Chardak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729302
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"87293e33ed0ab1ae84979ecf16d09c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310037133,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":1310037133,
+    "wof:lastmodified":1537587496,
+    "wof:name":"Malak Chardak",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63333,
+    42.28333,
+    24.63333,
+    42.28333
+],
+  "geometry": {"coordinates":[24.63333,42.28333],"type":"Point"}
+}

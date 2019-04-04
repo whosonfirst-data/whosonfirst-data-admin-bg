@@ -1,0 +1,72 @@
+{
+  "id": 1209042623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5,42.23333,25.5,42.23333",
+    "geom:latitude":42.23333,
+    "geom:longitude":25.5,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR31",
+    "gn:asciiname":"Vodenicharovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725802,
+    "gn:latitude":42.23333,
+    "gn:longitude":25.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vodenicharovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0434\u0435\u043d\u0438\u0447\u0430\u0440\u0441\u043a\u043e"
+    ],
+    "name:und_x_variant":[
+        "Dirmen Makhle",
+        "Wodenitscharowo",
+        "Derman Makhle",
+        "Vodenicharovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725802
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2a44acb1a00acbe2592adcb3398f28f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209042623
+        }
+    ],
+    "wof:id":1209042623,
+    "wof:lastmodified":1537587271,
+    "wof:name":"Vodenicharovo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5,
+    42.23333,
+    25.5,
+    42.23333
+],
+  "geometry": {"coordinates":[25.5,42.23333],"type":"Point"}
+}

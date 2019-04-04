@@ -1,0 +1,70 @@
+{
+  "id": 1209353077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10605,43.7002,28.10605,43.7002",
+    "geom:latitude":43.7002,
+    "geom:longitude":28.10605,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB12",
+    "gn:asciiname":"Pisarovo",
+    "gn:country_code":"BG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728237,
+    "gn:latitude":43.7002,
+    "gn:longitude":28.10605,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Pisarovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0441\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Karajas\u0103dshi",
+        "Pisarava",
+        "Pisarovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728237
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d15c51900cec59fcf85e34437264a6ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209353077
+        }
+    ],
+    "wof:id":1209353077,
+    "wof:lastmodified":1537587428,
+    "wof:name":"Pisarovo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10605,
+    43.7002,
+    28.10605,
+    43.7002
+],
+  "geometry": {"coordinates":[28.10605,43.7002],"type":"Point"}
+}

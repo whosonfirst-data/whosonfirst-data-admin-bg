@@ -1,0 +1,75 @@
+{
+  "id": 1226579237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73494,43.51522,22.73494,43.51522",
+    "geom:latitude":43.51522,
+    "geom:longitude":22.73494,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID37",
+    "gn:admin3_code":"VID37-05",
+    "gn:asciiname":"Replyana",
+    "gn:country_code":"BG",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727661,
+    "gn:latitude":43.51522,
+    "gn:longitude":22.73494,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Replyana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0435\u043f\u043b\u044f\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Repljana",
+        "Replyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727661,
+        "wk:page":"Replyana"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2ae2d5ee7856b9313cdfb1cfdc7116d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226579237,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1226579237,
+    "wof:lastmodified":1537587387,
+    "wof:name":"Replyana",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73494,
+    43.51522,
+    22.73494,
+    43.51522
+],
+  "geometry": {"coordinates":[22.73494,43.51522],"type":"Point"}
+}

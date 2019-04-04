@@ -1,0 +1,77 @@
+{
+  "id": 1225796377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.02708,43.65249,28.02708,43.65249",
+    "geom:latitude":43.65249,
+    "geom:longitude":28.02708,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB12",
+    "gn:admin3_code":"DOB12-23",
+    "gn:asciiname":"Petleshkovo",
+    "gn:country_code":"BG",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728297,
+    "gn:latitude":43.65249,
+    "gn:longitude":28.02708,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Petleshkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0442\u043b\u0435\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "\u010ciflik Petleskovo",
+        "Gerzalar",
+        "Gherzalar",
+        "Petleshkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728297,
+        "wk:page":"Petleshkovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"48dae0694e19f964034760d538dffb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225796377,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1225796377,
+    "wof:lastmodified":1537587432,
+    "wof:name":"Petleshkovo",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.02708,
+    43.65249,
+    28.02708,
+    43.65249
+],
+  "geometry": {"coordinates":[28.02708,43.65249],"type":"Point"}
+}

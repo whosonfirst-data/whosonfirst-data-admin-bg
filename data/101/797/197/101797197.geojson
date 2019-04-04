@@ -1,0 +1,139 @@
+{
+  "id": 101797197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000375,
+    "geom:area_square_m":3374002.041262,
+    "geom:bbox":"24.8354406618,43.3705763985,24.8678106925,43.3891202585",
+    "geom:latitude":43.379344,
+    "geom:longitude":24.850705,
+    "gn:population":2230,
+    "iso:country":"BG",
+    "lbl:latitude":43.380066,
+    "lbl:longitude":24.848779,
+    "mps:latitude":43.380066,
+    "mps:longitude":24.848779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u041f\u043e\u0440\u0434\u0438\u043c"
+    ],
+    "name:bul_x_variant":[
+        "\u041f\u043e\u0440\u0434\u0438\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Pordim"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Pordim"
+    ],
+    "name:eng_x_preferred":[
+        "Pordim"
+    ],
+    "name:eng_x_variant":[
+        "Pordime",
+        "Porodim"
+    ],
+    "name:fra_x_preferred":[
+        "Pordim"
+    ],
+    "name:ita_x_preferred":[
+        "Pordim"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e0\u10d3\u10d8\u10db\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Pordim"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Pordim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0434\u0438\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Pordim"
+    ],
+    "name:unk_x_variant":[
+        "Porodim"
+    ],
+    "name:vie_x_preferred":[
+        "Pordim"
+    ],
+    "name:war_x_preferred":[
+        "Pordim"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u723e\u8fea\u59c6\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u0435\u0432\u0435\u043d",
+    "qs:a1_alt":"Pleven",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041f\u043e\u0440\u0434\u0438\u043c",
+    "qs:la_lc":"*BGPVN2757772",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u043e\u0440\u0434\u0438\u043c",
+    "qs:loc_alt":"Pordim",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":158,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037240de-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728056,
+        "gp:id":838910,
+        "qs:id":1081635,
+        "qs_pg:id":1081635,
+        "wd:id":"Q2721267",
+        "wk:page":"Pordim Municipality"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c338e59a4a49c886d6d43066bcc0eba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797197,
+            "region_id":85681835
+        }
+    ],
+    "wof:id":101797197,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641528,
+    "wof:name":"\u041f\u043e\u0440\u0434\u0438\u043c",
+    "wof:parent_id":85681835,
+    "wof:placetype":"locality",
+    "wof:population":2230,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83544066175801,
+    43.3705763985144,
+    24.86781069250685,
+    43.38912025850829
+],
+  "geometry": {"coordinates":[[[24.84636397871122,43.38912025850829],[24.85485449297352,43.38787595662507],[24.85462635628392,43.38699353516557],[24.85583924334617,43.38681572357098],[24.85538296281175,43.38505088266362],[24.86508554593337,43.38362792415103],[24.8641725400422,43.38009832528678],[24.86781069250685,43.37956451696516],[24.86735414062434,43.37779972779811],[24.86371609219185,43.37833351738891],[24.86234696897066,43.37303905983197],[24.8599217786375,43.37339481049889],[24.85969365822996,43.37251238972709],[24.85605587563055,43.37304589895888],[24.85559976635324,43.37128103446577],[24.85438719373172,43.37145883599555],[24.85415917018821,43.3705763985144],[24.84203325745511,43.37235359495577],[24.84180541644685,43.37147112488969],[24.8393801900836,43.37182638608436],[24.83983581191063,43.37359133727244],[24.83862315424142,43.37376895261832],[24.83907877804694,43.37553390440343],[24.83544066175801,43.37606668319853],[24.83612401011919,43.37871412835517],[24.83733677411902,43.37853654039958],[24.83802025700282,43.38118396353417],[24.83680744096642,43.381361560838],[24.83703526958141,43.38224403551601],[24.84067375010591,43.38171119128026],[24.84226917144764,43.38788840913872],[24.84469503529021,43.38753306437695],[24.84492302401219,43.38841551220054],[24.84613596346435,43.38823781521205],[24.84636397871122,43.38912025850829]]],"type":"Polygon"}
+}

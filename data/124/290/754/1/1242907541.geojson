@@ -1,0 +1,76 @@
+{
+  "id": 1242907541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.70014,43.92721,26.70014,43.92721",
+    "geom:latitude":43.92721,
+    "geom:longitude":26.70014,
+    "gn:admin1_code":"55",
+    "gn:admin2_code":"SLS34",
+    "gn:admin3_code":"SLS34-07",
+    "gn:asciiname":"Preslavtsi",
+    "gn:country_code":"BG",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727982,
+    "gn:latitude":43.92721,
+    "gn:longitude":26.70014,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Preslavtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u043b\u0430\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Endzhe K\u2019oy",
+        "Endshekioi",
+        "Engechioi",
+        "Preslavtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727982
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"cc30d37523d39b358602af1fa59aea19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242907541,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1242907541,
+    "wof:lastmodified":1537587409,
+    "wof:name":"Preslavtsi",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.70014,
+    43.92721,
+    26.70014,
+    43.92721
+],
+  "geometry": {"coordinates":[26.70014,43.92721],"type":"Point"}
+}

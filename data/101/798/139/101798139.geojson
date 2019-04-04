@@ -1,0 +1,161 @@
+{
+  "id": 101798139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000224,
+    "geom:area_square_m":2036754.380377,
+    "geom:bbox":"25.1982973343,42.5829859019,25.2192662656,42.6029649117",
+    "geom:latitude":42.594419,
+    "geom:longitude":25.207159,
+    "gn:population":3212,
+    "iso:country":"BG",
+    "lbl:latitude":42.59455,
+    "lbl:longitude":25.207317,
+    "mps:latitude":42.59455,
+    "mps:longitude":25.207317,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0432\u0435\u043b \u0431\u0430\u043d\u044f"
+    ],
+    "name:bul_x_variant":[
+        "\u041f\u0430\u0432\u0435\u043b \u0411\u0430\u043d\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Pavel Banya"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u06a4\u06ce\u0644 \u0628\u0627\u0646\u06cc\u0627"
+    ],
+    "name:eng_x_colloquial":[
+        "Ltdzha Ali",
+        "Ltdzha K'oy",
+        "Lthdzha Ali",
+        "Lthdzha K'oy",
+        "Ludzha Ali",
+        "Ludzha K'oy"
+    ],
+    "name:eng_x_preferred":[
+        "Pavel Banya"
+    ],
+    "name:eng_x_variant":[
+        "Banya",
+        "L\u00fedzha Ali",
+        "L\u00fedzha K'oy",
+        "Pavel",
+        "Pavel Banja",
+        "Pawel"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0648\u0644 \u0628\u0627\u0646\u06cc\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0432\u0435\u043b-\u0411\u0430\u043d\u044f"
+    ],
+    "name:pol_x_preferred":[
+        "Pawe\u0142 banja"
+    ],
+    "name:por_x_preferred":[
+        "Pavel banja"
+    ],
+    "name:ron_x_preferred":[
+        "Pavel Banea"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u0435\u043b-\u0411\u0430\u043d\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Pavel Banya"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u0432\u0435\u043b \u0411\u0430\u045a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pavel Banja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0432\u0435\u043b-\u0411\u0430\u043d\u044f"
+    ],
+    "name:unk_x_variant":[
+        "L\u016ddzha K\u2019oy"
+    ],
+    "name:vie_x_preferred":[
+        "Pavel Banya"
+    ],
+    "name:war_x_preferred":[
+        "Pavel Banya"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u7dad\u723e\u5df4\u5c3c\u4e9e"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+    "qs:a1_alt":"Stara Zagora",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u041f\u0430\u0432\u0435\u043b \u0431\u0430\u043d\u044f",
+    "qs:la_lc":"*BGSZR2455021",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0430\u0432\u0435\u043b \u0431\u0430\u043d\u044f",
+    "qs:loc_alt":"Pavel banya",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1203,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03721df2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728389,
+        "gp:id":838653,
+        "qs:id":915457,
+        "qs_pg:id":915457,
+        "wd:id":"Q407336",
+        "wk:page":"Pavel Banya"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7ca6dbdae116078fb99bc07dcc120d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798139,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":101798139,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641930,
+    "wof:name":"\u041f\u0430\u0432\u0435\u043b \u0431\u0430\u043d\u044f",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:population":3212,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.19829733434045,
+    42.58298590189634,
+    25.21926626562924,
+    42.60296491173415
+],
+  "geometry": {"coordinates":[[[25.20468097973588,42.60260175434803],[25.20422426740731,42.60083736000149],[25.20781343312444,42.60029253692062],[25.2080418347918,42.60117472547893],[25.21163099270137,42.60062976620458],[25.21185945345587,42.60151194393495],[25.21664497404527,42.60078512179041],[25.21687351056227,42.60166728557033],[25.21926626562924,42.60130378370116],[25.2185805832213,42.59865730665177],[25.21738425892408,42.59883905527448],[25.21715573291954,42.59795689018773],[25.21595941886642,42.59813862159899],[25.21573091859563,42.59725645191804],[25.21453461478598,42.59743816611837],[25.21270707211039,42.59038073061623],[25.21390324255987,42.59019904136107],[25.21367482381459,42.58931685840275],[25.21247867003234,42.58949854454022],[25.21202189304171,42.58773416796254],[25.2108257661688,42.58791583377541],[25.21036905872643,42.58615144506297],[25.20797685237648,42.58651472195277],[25.20706367943615,42.58298590189634],[25.20586763328834,42.58316750674322],[25.2060958962839,42.58404971708535],[25.20489982705197,42.58423131095878],[25.20535634686092,42.58599573345015],[25.2017680006532,42.58654044922554],[25.20153978622329,42.5856582293714],[25.20034367464922,42.58583977000154],[25.2008000792224,42.58760421446573],[25.19960392789397,42.5877857472355],[25.19983212708365,42.58866797037109],[25.20102829508068,42.58848643448664],[25.20194124900326,42.59201529982897],[25.20074501432555,42.59219684817441],[25.20097325875906,42.59307906394025],[25.19858073679751,42.59344212458672],[25.19949367164952,42.59697099783529],[25.19829733434045,42.59715251948114],[25.19943862317172,42.60156359346388],[25.20183145813746,42.60120050492043],[25.20228810375335,42.60296491173415],[25.20468097973588,42.60260175434803]]],"type":"Polygon"}
+}

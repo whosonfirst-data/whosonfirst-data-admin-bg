@@ -1,0 +1,130 @@
+{
+  "id": 101797219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000297,
+    "geom:bbox":"24.4374654363,43.4558709032,24.4720595943,43.4711999384",
+    "geom:latitude":43.462934,
+    "geom:longitude":24.456142,
+    "iso:country":"BG",
+    "lbl:latitude":43.463803,
+    "lbl:longitude":24.456142,
+    "mps:latitude":43.463803,
+    "mps:longitude":24.456142,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0414\u043e\u043b\u043d\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u043e\u0440\u043d\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+        "Gorna Mitropolia"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Dolna Mitropoliya"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Dolna Mitropolija"
+    ],
+    "name:eng_x_preferred":[
+        "Gorna Mitropoliya"
+    ],
+    "name:eng_x_variant":[
+        "Gorna Metropolja",
+        "Gorna Mitropolija",
+        "Gorna Netropol', Mitropoliya",
+        "Gorna-Mitropolia"
+    ],
+    "name:fra_x_preferred":[
+        "Dolna Mitropolyia"
+    ],
+    "name:ita_x_preferred":[
+        "Dolna Mitropolija"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10da\u10dc\u10d0-\u10db\u10d8\u10e2\u10e0\u10dd\u10de\u10dd\u10da\u10d8\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Do\u0142na Mitropolija"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dolna Mitropolia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Dolna Mitropolija"
+    ],
+    "name:unk_x_variant":[
+        "Mitropoliya Gorna Netropol\u2019"
+    ],
+    "name:war_x_preferred":[
+        "Dolna Mitropoliya"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u7c73\u7279\u7f85\u6ce2\u5229\u4e9e\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u0435\u0432\u0435\u043d",
+    "qs:a1_alt":"Pleven",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u043e\u0440\u043d\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+    "qs:la_lc":"*BGPVN1016345",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u043e\u0440\u043d\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+    "qs:loc_alt":"Gorna Mitropoliya",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":218,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0370fb7a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":731235,
+        "gp:id":836491,
+        "qs:id":404217,
+        "wd:id":"Q2721258"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7ddaf7c155f593d63aa4742607b102b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797219,
+            "region_id":85681835
+        }
+    ],
+    "wof:id":101797219,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641523,
+    "wof:name":"\u0413\u043e\u0440\u043d\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+    "wof:parent_id":85681835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43746543626543,
+    43.45587090322567,
+    24.47205959429039,
+    43.47119993835867
+],
+  "geometry": {"coordinates":[[[24.45925598354432,43.47068056986143],[24.45903335943837,43.46979716632785],[24.46267990141376,43.46927767762531],[24.46201192552263,43.46662748625567],[24.46808910479035,43.46576143005785],[24.46786637666196,43.46487804544461],[24.46908177578075,43.4647047941429],[24.46885903914574,43.46382141121063],[24.47128978315783,43.46347487159687],[24.47084426688457,43.46170811382569],[24.47205959429039,43.46153482856471],[24.47161407898147,43.45976807141722],[24.47039878654942,43.45994135057833],[24.47017605985758,43.45905796690101],[24.46774549072495,43.45940447601788],[24.46685481366256,43.45587090322567],[24.45713284023873,43.4572562673975],[24.45691033330655,43.45637284639605],[24.45083397909355,43.45723821678973],[24.45127882704935,43.45900508788696],[24.45006350201106,43.45917812494952],[24.45028592195609,43.46006156149298],[24.44542448778884,43.46075357822525],[24.44520213780936,43.45987012950133],[24.44398678074884,43.4600430947138],[24.44376445722963,43.45915964157876],[24.44133375888481,43.45950552280465],[24.44111147931653,43.45862206221483],[24.43989613803365,43.45879497822858],[24.43967388492223,43.45791151322931],[24.4384585547304,43.4580844118293],[24.43868079034962,43.45896787987181],[24.43746543626543,43.45914076714485],[24.43835439841462,43.46267463782891],[24.43956982247522,43.46250173838251],[24.43979210292122,43.46338519959534],[24.4446538051165,43.46269344592054],[24.44576569179117,43.46711067060346],[24.44698118880848,43.46693768103074],[24.44720361055511,43.46782111882266],[24.4496346203635,43.46747509046929],[24.45052453707308,43.47100880360261],[24.4553867597491,43.47031652568086],[24.45560933136215,43.47119993835867],[24.45925598354432,43.47068056986143]]],"type":"Polygon"}
+}

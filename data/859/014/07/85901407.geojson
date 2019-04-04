@@ -1,0 +1,143 @@
+{
+  "id": 85901407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":23718039.452144,
+    "geom:bbox":"27.469017,42.509176,27.469017,42.509176",
+    "geom:latitude":42.509176,
+    "geom:longitude":27.469017,
+    "gn:latitude":42.51667,
+    "gn:longitude":27.46667,
+    "iso:country":"BG",
+    "lbl:latitude":42.509176,
+    "lbl:longitude":27.469017,
+    "mps:latitude":42.511568,
+    "mps:longitude":27.46916,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:bul_x_preferred":[
+        "\u0410\u0442\u0430\u043d\u0430\u0441\u043e\u0432\u0441\u043a\u043e \u0435\u0437\u0435\u0440\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u0410\u0442\u0430\u043d\u0430\u0441\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Severno Atanasovsko Ezero"
+    ],
+    "name:deu_x_preferred":[
+        "Atanassow-See"
+    ],
+    "name:eng_x_preferred":[
+        "Atanasovo"
+    ],
+    "name:eng_x_variant":[
+        "Atanas K'oy",
+        "Atanaskioy",
+        "Atanassowo",
+        "Atnanas-Kioi"
+    ],
+    "name:ita_x_preferred":[
+        "Lago Atanasovsko"
+    ],
+    "name:nno_x_preferred":[
+        "Atanasovskosj\u00f8en"
+    ],
+    "name:ron_x_preferred":[
+        "Lacul Atanasovsko"
+    ],
+    "name:spa_x_preferred":[
+        "Lago Atanasovsko"
+    ],
+    "name:swe_x_preferred":[
+        "Atanasovsko ezero"
+    ],
+    "name:unk_x_variant":[
+        "Atanaskioy",
+        "Atanasovo"
+    ],
+    "qs:gn_adm0_cc":"BG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":732770,
+    "qs:gn_namadm1":"39",
+    "qs:gn_name":"Atanasovo",
+    "qs:local_max":394,
+    "qs:local_sum":394,
+    "qs:localhoods":1,
+    "qs:name":"Atanasovo",
+    "qs:name_adm0":"Bulgaria",
+    "qs:name_adm1":"Burgas",
+    "qs:name_adm2":"Burgas",
+    "qs:name_local":"Burgas",
+    "qs:photo_max":63,
+    "qs:photo_sum":394,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":41,
+    "qs:woe_adm0":23424771,
+    "qs:woe_adm1":20070075,
+    "qs:woe_adm2":55873729,
+    "qs:woe_lau":0,
+    "qs:woe_local":835315,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":304,
+    "wof:belongsto":[
+        102191581,
+        101748905,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733605,
+        "gp:id":834711,
+        "qs:id":1167280,
+        "qs_pg:id":1167280,
+        "wd:id":"Q753441"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d0f1209c6b99e4e14bd104ab812a2abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748905,
+            "neighbourhood_id":85901407,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":85901407,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531932497,
+    "wof:name":"Atanasovo",
+    "wof:parent_id":101748905,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.469017,
+    42.509176,
+    27.469017,
+    42.509176
+],
+  "geometry": {"coordinates":[27.469017,42.509176],"type":"Point"}
+}

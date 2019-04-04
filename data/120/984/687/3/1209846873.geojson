@@ -1,0 +1,77 @@
+{
+  "id": 1209846873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46667,41.58333,25.46667,41.58333",
+    "geom:latitude":41.58333,
+    "geom:longitude":25.46667,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ21",
+    "gn:admin3_code":"KRZ21-06",
+    "gn:asciiname":"Chomakovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732437,
+    "gn:latitude":41.58333,
+    "gn:longitude":25.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chomakovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u043e\u043c\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "K\u016dshla",
+        "Tschomakowo",
+        "Chomakovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732437,
+        "wk:page":"Chomakovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c0421b79387900876a33d83abcdd7bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1209846873,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1209846873,
+    "wof:lastmodified":1537587703,
+    "wof:name":"Chomakovo",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46667,
+    41.58333,
+    25.46667,
+    41.58333
+],
+  "geometry": {"coordinates":[25.46667,41.58333],"type":"Point"}
+}

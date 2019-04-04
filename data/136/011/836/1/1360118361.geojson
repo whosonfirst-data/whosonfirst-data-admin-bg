@@ -1,0 +1,74 @@
+{
+  "id": 1360118361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58318,43.54051,25.58318,43.54051",
+    "geom:latitude":43.54051,
+    "geom:longitude":25.58318,
+    "gn:admin1_code":"53",
+    "gn:admin2_code":"RSE37",
+    "gn:admin3_code":"RSE37-08",
+    "gn:asciiname":"Piperkovo",
+    "gn:country_code":"BG",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728253,
+    "gn:latitude":43.54051,
+    "gn:longitude":25.58318,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Piperkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u043f\u0435\u0440\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Piperkowo",
+        "Piperkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728253
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5e60ece3e47ddea4b1fef712100030ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360118361,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":1360118361,
+    "wof:lastmodified":1537587429,
+    "wof:name":"Piperkovo",
+    "wof:parent_id":85681861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58318,
+    43.54051,
+    25.58318,
+    43.54051
+],
+  "geometry": {"coordinates":[25.58318,43.54051],"type":"Point"}
+}

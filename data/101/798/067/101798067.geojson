@@ -1,0 +1,119 @@
+{
+  "id": 101798067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000134,
+    "geom:area_square_m":1218036.116476,
+    "geom:bbox":"23.4263271068,42.6668699631,23.442558041,42.6809738582",
+    "geom:latitude":42.674159,
+    "geom:longitude":23.434518,
+    "iso:country":"BG",
+    "lbl:latitude":42.674993,
+    "lbl:longitude":23.433842,
+    "mps:latitude":42.674993,
+    "mps:longitude":23.433842,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0441\u043c\u0430\u043d\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Busmanci"
+    ],
+    "name:dut_x_preferred":[
+        "Busmantsi"
+    ],
+    "name:eng_x_preferred":[
+        "Busmantsi"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0441\u043c\u0430\u043d\u0446\u0438"
+    ],
+    "name:may_x_preferred":[
+        "Busmantsi"
+    ],
+    "name:msa_x_preferred":[
+        "Busmantsi"
+    ],
+    "name:pol_x_preferred":[
+        "Busmanci"
+    ],
+    "name:ron_x_preferred":[
+        "Busman\u021bi"
+    ],
+    "name:rum_x_preferred":[
+        "Busman\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0441\u043c\u0430\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Busmantsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0441\u043c\u0430\u043d\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Bussmanzi"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430)",
+    "qs:a1_alt":"Sofia (stolitsa)",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u0443\u0441\u043c\u0430\u043d\u0446\u0438",
+    "qs:la_lc":"*BGSOF4607106",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0443\u0441\u043c\u0430\u043d\u0446\u0438",
+    "qs:loc_alt":"Busmantsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":42.683333,
+    "wd:longitude":23.433333,
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732745,
+        "qs:id":1,
+        "wd:id":"Q2653338",
+        "wk:page":"Busmantsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"75dfa80f1488f2283f3f4431e9573392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798067,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":101798067,
+    "wof:lastmodified":1527641934,
+    "wof:name":"\u0411\u0443\u0441\u043c\u0430\u043d\u0446\u0438",
+    "wof:parent_id":85681771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.42632710682534,
+    42.66686996312899,
+    23.44255804095309,
+    42.68097385821068
+],
+  "geometry": {"coordinates":[[[23.4391676246164,42.68065253655431],[23.43795307732984,42.67533232811269],[23.44155865712014,42.67485028896488],[23.44135620958122,42.67396359131607],[23.44255804095309,42.6738028859458],[23.44235558440698,42.67291618976708],[23.44115377012065,42.67307689236213],[23.44054650020007,42.67041678766668],[23.44174826323405,42.67025609339777],[23.44114101475054,42.66759598527807],[23.43993930296415,42.6677566712217],[23.43973692003522,42.66686996312899],[23.43493008388532,42.66751255367365],[23.43513239848664,42.66839927286333],[23.43393065803673,42.66855988773989],[23.43413296362644,42.66944660839823],[23.43293120036117,42.66960721183489],[23.43333580158765,42.671380654784],[23.42852855453498,42.67202294857321],[23.42873079891001,42.67290967918393],[23.42632710682534,42.67323074633475],[23.42754053748547,42.67855113588411],[23.42633858030632,42.67871166477278],[23.42674308757421,42.68048512306996],[23.43034904447103,42.68000347711376],[23.43014673552256,42.67911675693739],[23.43375258954416,42.67863499135086],[23.43395494976784,42.67952170320484],[23.43635885795999,42.67920044951541],[23.43676367100142,42.68097385821068],[23.4391676246164,42.68065253655431]]],"type":"Polygon"}
+}

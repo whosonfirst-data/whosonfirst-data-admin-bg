@@ -1,0 +1,69 @@
+{
+  "id": 1326765009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.13967,41.45437,25.13967,41.45437",
+    "geom:latitude":41.45437,
+    "geom:longitude":25.13967,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"SML18",
+    "gn:asciiname":"Kozarka",
+    "gn:country_code":"BG",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730029,
+    "gn:latitude":41.45437,
+    "gn:longitude":25.13967,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kozarka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730029
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"54c8017924d32111ba8dad4b57db648c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326765009,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1326765009,
+    "wof:lastmodified":1537587542,
+    "wof:name":"Kozarka",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.13967,
+    41.45437,
+    25.13967,
+    41.45437
+],
+  "geometry": {"coordinates":[25.13967,41.45437],"type":"Point"}
+}

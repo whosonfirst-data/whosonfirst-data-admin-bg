@@ -1,0 +1,71 @@
+{
+  "id": 1344108441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91338,41.96181,22.91338,41.96181",
+    "geom:latitude":41.96181,
+    "geom:longitude":22.91338,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Redzhovtsi",
+    "gn:country_code":"BG",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436672,
+    "gn:latitude":41.96181,
+    "gn:longitude":22.91338,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Redzhovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Redzhovtsi"
+    ],
+    "name:bul_x_variant":[
+        "\u0420\u0435\u0434\u0436\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436672
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4158564b02d27d6323c41d83671fcf57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1344108441,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1344108441,
+    "wof:lastmodified":1537587808,
+    "wof:name":"Redzhovtsi",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91338,
+    41.96181,
+    22.91338,
+    41.96181
+],
+  "geometry": {"coordinates":[22.91338,41.96181],"type":"Point"}
+}

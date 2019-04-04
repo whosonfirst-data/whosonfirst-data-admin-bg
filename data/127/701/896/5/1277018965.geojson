@@ -1,0 +1,76 @@
+{
+  "id": 1277018965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.26667,42.95,27.26667,42.95",
+    "geom:latitude":42.95,
+    "geom:longitude":27.26667,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Emirovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731654,
+    "gn:latitude":42.95,
+    "gn:longitude":27.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Emirovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0415\u043c\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "K\u016ds\u016dklar Emir Makhle",
+        "Emirowo",
+        "Kesik\u2019",
+        "K\u016ds\u016dklar",
+        "Emirovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731654
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d2e173a600fc818a71c3b9c9a56a866d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1277018965,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1277018965,
+    "wof:lastmodified":1537587649,
+    "wof:name":"Emirovo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.26667,
+    42.95,
+    27.26667,
+    42.95
+],
+  "geometry": {"coordinates":[27.26667,42.95],"type":"Point"}
+}

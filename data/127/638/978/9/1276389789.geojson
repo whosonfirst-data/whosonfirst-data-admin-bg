@@ -1,0 +1,75 @@
+{
+  "id": 1276389789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.67658,43.91797,27.67658,43.91797",
+    "geom:latitude":43.91797,
+    "geom:longitude":27.67658,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB20",
+    "gn:asciiname":"Gaber",
+    "gn:country_code":"BG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731570,
+    "gn:latitude":43.91797,
+    "gn:longitude":27.67658,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Gaber",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0431\u0435\u0440"
+    ],
+    "name:und_x_variant":[
+        "Gyurgenlii",
+        "Ghiurghenli",
+        "Gadev",
+        "Gaber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731570
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"83368d9190dcc5e59ea51a224b569652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276389789,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1276389789,
+    "wof:lastmodified":1537587643,
+    "wof:name":"Gaber",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.67658,
+    43.91797,
+    27.67658,
+    43.91797
+],
+  "geometry": {"coordinates":[27.67658,43.91797],"type":"Point"}
+}

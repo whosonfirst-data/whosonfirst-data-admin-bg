@@ -1,0 +1,111 @@
+{
+  "id": 1125938107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.56667,41.55,23.56667,41.55",
+    "geom:latitude":41.55,
+    "geom:longitude":23.56667,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":41.55,
+    "lbl:longitude":23.56667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Pirin"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:mac_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:rum_x_preferred":[
+        "Pirin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Perimki\u00f6j"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":728247,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pirin",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Blagoevgrad",
+    "qs_pg:photos":203,
+    "qs_pg:photos_1k":41,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":203,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":229078,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":838762,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Blagoevgrad",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728247,
+        "gp:id":838762,
+        "qs_pg:id":229078,
+        "wd:id":"Q2989237"
+    },
+    "wof:country":"BG",
+    "wof:created":1497297030,
+    "wof:geomhash":"10a675354cacd32249bf1c4f2ba6e3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125938107,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1125938107,
+    "wof:lastmodified":1513899769,
+    "wof:name":"Pirin",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.56667,
+    41.55,
+    23.56667,
+    41.55
+],
+  "geometry": {"coordinates":[23.56667,41.55],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101800367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":589144.246584,
+    "geom:bbox":"23.712115391,42.0136932149,23.7264054201,42.0207862854",
+    "geom:latitude":42.016744,
+    "geom:longitude":23.720224,
+    "iso:country":"BG",
+    "lbl:latitude":42.016759,
+    "lbl:longitude":23.720224,
+    "mps:latitude":42.016759,
+    "mps:longitude":23.720224,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Konarsko"
+    ],
+    "name:eng_x_preferred":[
+        "Konarsko"
+    ],
+    "name:ger_x_preferred":[
+        "Konarsko"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e"
+    ],
+    "name:mac_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Konarsko"
+    ],
+    "name:rum_x_preferred":[
+        "Konarsko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Konarsko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u0440\u0441\u044c\u043a\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Konarska-Makhala"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e",
+    "qs:la_lc":"*BGBLG5338220",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e",
+    "qs:loc_alt":"Konarsko",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730201,
+        "qs:id":4,
+        "wd:id":"Q2653836",
+        "wk:page":"Konarsko"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d6233f26e45013714b731214fdf1ae0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800367,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800367,
+    "wof:lastmodified":1527715089,
+    "wof:name":"\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71211539096629,
+    42.01369321485487,
+    23.72640542011504,
+    42.02078628544848
+],
+  "geometry": {"coordinates":[[[23.72562282871911,42.02013119808424],[23.72521694317152,42.01835796080366],[23.72640542011504,42.01819415944931],[23.72539076356571,42.01376105636041],[23.71944873593418,42.01457985343274],[23.71924591134683,42.01369321485487],[23.71211539096629,42.01467529181366],[23.71272359089687,42.01733525343457],[23.71628902542955,42.01684425309656],[23.71669463131406,42.01861753740263],[23.71788313128485,42.01845383701675],[23.71808596277265,42.01934047435668],[23.72046297885299,42.01901302594888],[23.72086873202022,42.02078628544848],[23.72562282871911,42.02013119808424]]],"type":"Polygon"}
+}

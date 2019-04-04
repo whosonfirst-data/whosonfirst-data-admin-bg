@@ -1,0 +1,75 @@
+{
+  "id": 1242809317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.01667,41.6,25.01667,41.6",
+    "geom:latitude":41.6,
+    "geom:longitude":25.01667,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"SML02",
+    "gn:admin3_code":"SML02-14",
+    "gn:asciiname":"Dryanka",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731892,
+    "gn:latitude":41.6,
+    "gn:longitude":25.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dryanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u044f\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Drenka",
+        "Dryanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731892
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8a4074ed7808341bbbdfd165dd94481b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242809317,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1242809317,
+    "wof:lastmodified":1537587664,
+    "wof:name":"Dryanka",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.01667,
+    41.6,
+    25.01667,
+    41.6
+],
+  "geometry": {"coordinates":[25.01667,41.6],"type":"Point"}
+}

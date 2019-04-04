@@ -1,0 +1,83 @@
+{
+  "id": 1293523277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73333,42.33333,26.73333,42.33333",
+    "geom:latitude":42.33333,
+    "geom:longitude":26.73333,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"JAM22",
+    "gn:admin3_code":"JAM22-10",
+    "gn:asciiname":"Kamenets",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730699,
+    "gn:latitude":42.33333,
+    "gn:longitude":26.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamenets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Enikioy",
+        "Jeniki\u00f6j Saranli",
+        "Telec",
+        "Saranlii Eni Kioi",
+        "Telets",
+        "Saranl\u0103-Eni-Kyoy",
+        "Telez",
+        "Saranl\u0103-Eni-K\u2019oy",
+        "Saranl\u016d Eni K\u2019oy",
+        "Kamenets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730699
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"997f9fa12f9ac5baa7f7e4de068724ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293523277,
+            "region_id":85681793
+        }
+    ],
+    "wof:id":1293523277,
+    "wof:lastmodified":1537587581,
+    "wof:name":"Kamenets",
+    "wof:parent_id":85681793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73333,
+    42.33333,
+    26.73333,
+    42.33333
+],
+  "geometry": {"coordinates":[26.73333,42.33333],"type":"Point"}
+}

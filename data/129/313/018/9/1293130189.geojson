@@ -1,0 +1,74 @@
+{
+  "id": 1293130189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83344,43.70251,24.83344,43.70251",
+    "geom:latitude":43.70251,
+    "geom:longitude":24.83344,
+    "gn:admin1_code":"50",
+    "gn:admin2_code":"PVN21",
+    "gn:admin3_code":"PVN21-13",
+    "gn:asciiname":"Cherkovitsa",
+    "gn:country_code":"BG",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732591,
+    "gn:latitude":43.70251,
+    "gn:longitude":24.83344,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Cherkovitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0440\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tscherkowiza",
+        "Cherkovitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732591
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8528bf6791936c465619c089170e2d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293130189,
+            "region_id":85681835
+        }
+    ],
+    "wof:id":1293130189,
+    "wof:lastmodified":1537587712,
+    "wof:name":"Cherkovitsa",
+    "wof:parent_id":85681835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83344,
+    43.70251,
+    24.83344,
+    43.70251
+],
+  "geometry": {"coordinates":[24.83344,43.70251],"type":"Point"}
+}

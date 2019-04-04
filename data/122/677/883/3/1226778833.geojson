@@ -1,0 +1,78 @@
+{
+  "id": 1226778833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6,43.3,25.6,43.3",
+    "geom:latitude":43.3,
+    "geom:longitude":25.6,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR26",
+    "gn:admin3_code":"VTR26-12",
+    "gn:asciiname":"Polski Senovets",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728125,
+    "gn:latitude":43.3,
+    "gn:longitude":25.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Polski Senovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u0441\u043a\u0438 \u0421\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Polski-Syenovets",
+        "Polski-S\u011bnovec",
+        "Polski-Senowez",
+        "Polski Senovetz",
+        "Polski Senovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728125
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8b396e2d4f407d4af3f1145570ebe9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226778833,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1226778833,
+    "wof:lastmodified":1537587419,
+    "wof:name":"Polski Senovets",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6,
+    43.3,
+    25.6,
+    43.3
+],
+  "geometry": {"coordinates":[25.6,43.3],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293625693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61667,43.0,26.61667,43.0",
+    "geom:latitude":43.0,
+    "geom:longitude":26.61667,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"SHU10",
+    "gn:admin3_code":"SHU10-15",
+    "gn:asciiname":"Chernookovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732513,
+    "gn:latitude":43.0,
+    "gn:longitude":26.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chernookovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u043e\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Karag\u2019ozler",
+        "Tschernookowo",
+        "Karag\u00ebzler",
+        "Chernookovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732513
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e464d09ef9ac34fc6c13ce0fb6271664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293625693,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1293625693,
+    "wof:lastmodified":1537587707,
+    "wof:name":"Chernookovo",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61667000000001,
+    43.0,
+    26.61667000000001,
+    43.0
+],
+  "geometry": {"coordinates":[26.61667000000001,43.0],"type":"Point"}
+}

@@ -1,0 +1,304 @@
+{
+  "id": 101748895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001914,
+    "geom:area_square_m":17475363.259997,
+    "geom:bbox":"25.5991165,42.3920175,25.665229,42.444809",
+    "geom:latitude":42.421209,
+    "geom:longitude":25.632999,
+    "gn:population":143431,
+    "iso:country":"BG",
+    "lbl:latitude":42.422118,
+    "lbl:longitude":25.632497,
+    "mps:latitude":42.422118,
+    "mps:longitude":25.632497,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u063a\u0648\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0442\u0430\u0440\u0430-\u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:chu_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \ua640\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Stara Sagora"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c4\u03ac\u03c1\u03b1 \u0396\u03b1\u03b3\u03cc\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:eng_x_variant":[
+        "Eski Zagra",
+        "SZR"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u06af\u0648\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:fra_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:ger_x_variant":[
+        "Stara Sagora"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05d0\u05e8\u05d4 \u05d6\u05d0\u05d2\u05d5\u05e8\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0561\u0580\u0561 \u0536\u0561\u0563\u0578\u0580\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30bf\u30e9\u30fb\u30b6\u30b4\u30e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10d0\u10e0\u10d0-\u10d6\u10d0\u10d2\u10dd\u10e0\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430-\u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ud0c0\ub77c\uc790\uace0\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430-\u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430-\u0417\u0430\u0433\u043e\u0440\u00e6"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u06af\u0648\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:por_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430-\u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Star\u00e1 Zagora"
+    ],
+    "name:spa_x_variant":[
+        "Ztara Zagora"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:tuk_x_preferred":[
+        "Stara-Zagora"
+    ],
+    "name:tur_x_preferred":[
+        "Eski Za\u011fra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Eski Zagra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u06af\u0648\u0631\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u624e\u6208\u62c9"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Bulgaria",
+    "ne:ADM0_A3":"BGR",
+    "ne:ADM1NAME":"Stara Zagora",
+    "ne:ADMIN1_COD":59,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":726848,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Stara Zagora",
+    "ne:GN_POP":143431,
+    "ne:GTOPO30":197.0,
+    "ne:ISO_A2":"BG",
+    "ne:LABELRANK":7,
+    "ne:LATITUDE":42.423133,
+    "ne:LONGITUDE":25.622715,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Stara Zagora",
+    "ne:MAX_AREAKM":22.0,
+    "ne:MAX_AREAMI":8.0,
+    "ne:MAX_BBXMAX":25.666667,
+    "ne:MAX_BBXMIN":25.583333,
+    "ne:MAX_BBYMAX":42.441667,
+    "ne:MAX_BBYMIN":42.383333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":32.0,
+    "ne:MAX_PERMI":20.0,
+    "ne:MAX_POP10":113200,
+    "ne:MAX_POP20":113200,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":25.630882,
+    "ne:MEAN_BBYC":42.417157,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":22.0,
+    "ne:MIN_AREAMI":8.0,
+    "ne:MIN_BBXMAX":25.666667,
+    "ne:MIN_BBXMIN":25.583333,
+    "ne:MIN_BBYMAX":42.441667,
+    "ne:MIN_BBYMIN":42.383333,
+    "ne:MIN_PERKM":32.0,
+    "ne:MIN_PERMI":20.0,
+    "ne:NAME":"Stara Zagora",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Stara Zagora",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":143431,
+    "ne:POP_MIN":113200,
+    "ne:POP_OTHER":113200,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Bulgaria",
+    "ne:SOV_A3":"BGR",
+    "ne:TIMEZONE":"Europe/Sofia",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+    "qs:a1_alt":"Stara Zagora",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041c\u0430\u043b\u043a\u043e \u041a\u0430\u0434\u0438\u0435\u0432\u043e",
+    "qs:la_lc":"*BGSZR3146591",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+    "qs:loc_alt":"Stara Zagora",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"urban core",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":196.0,
+    "wd:latitude":42.433333,
+    "wd:longitude":25.65,
+    "wd:wordcount":1934,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03739dd0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726848,
+        "gp:id":839845,
+        "qs:id":128928,
+        "qs_pg:id":128928,
+        "wd:id":"Q170415",
+        "wk:page":"Stara Zagora"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6011fad71912caf67709f058720ecdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748895,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":101748895,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527688465,
+    "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:population":143431,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59911649999981,
+    42.39201749999984,
+    25.6652289999999,
+    42.444809
+],
+  "geometry": {"coordinates":[[[25.64273549999984,42.3922614999999],[25.63966099999982,42.39201749999984],[25.63587099999978,42.39902499999982],[25.6315699999999,42.40374349999996],[25.61973699999976,42.40712749999983],[25.61864249999979,42.407721],[25.61038499999978,42.41220099999987],[25.60553449999992,42.41629049999983],[25.60426199999978,42.41805399999987],[25.60033349999981,42.42348849999996],[25.59911649999981,42.42782949999997],[25.60460599999982,42.4328729999998],[25.61794749999984,42.43759899999986],[25.62540949999982,42.44224949999989],[25.63123599999977,42.444809],[25.63571,42.44376499999987],[25.63630399999988,42.44362649999994],[25.64172849999983,42.43891899999983],[25.64839949999987,42.43681099999986],[25.64934449999993,42.43651949999992],[25.65834149999984,42.434967],[25.66486449999991,42.43110299999989],[25.66498649999988,42.42978599999981],[25.6652289999999,42.427166],[25.66111749999988,42.42373599999985],[25.65917499999989,42.42211550000002],[25.65364449999987,42.41843849999992],[25.65282349999984,42.41789249999988],[25.651513,42.41373049999993],[25.651616,42.40895849999981],[25.65170249999977,42.40820449999995],[25.6523049999999,42.40295399999985],[25.65240449999982,42.398928],[25.652406,42.39886499999989],[25.65132999999986,42.39609549999989],[25.64803049999989,42.39336],[25.64727449999987,42.39320299999986],[25.64727149999982,42.3932024999998],[25.64273549999984,42.3922614999999]]],"type":"Polygon"}
+}

@@ -1,0 +1,119 @@
+{
+  "id": 101798341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":628973.192836,
+    "geom:bbox":"27.1798788212,42.7301130139,27.1934289595,42.7391743113",
+    "geom:latitude":42.735165,
+    "geom:longitude":27.186608,
+    "iso:country":"BG",
+    "lbl:latitude":42.735826,
+    "lbl:longitude":27.18671,
+    "mps:latitude":42.735826,
+    "mps:longitude":27.18671,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Karageorgievo"
+    ],
+    "name:eng_x_preferred":[
+        "Karageorgievo"
+    ],
+    "name:eng_x_variant":[
+        "Bulchino",
+        "Bultschino",
+        "Chengel",
+        "Malko Chenge"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Karageorgiewo"
+    ],
+    "name:ron_x_preferred":[
+        "Karagheorghievo"
+    ],
+    "name:rum_x_preferred":[
+        "Karageorgievo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Karageorgievo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0435\u043e\u0440\u0433\u0456\u0454\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Bulchino"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u0430\u0440\u0430\u0433\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043e",
+    "qs:la_lc":"*BGBGS0136227",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0430\u0440\u0430\u0433\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043e",
+    "qs:loc_alt":"Karageorgievo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03713fb8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730618,
+        "gp:id":836966,
+        "qs:id":110239,
+        "wd:id":"Q2458492",
+        "wk:page":"Karageorgievo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"67d03f119fae505df9cdc46cc25fb191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798341,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101798341,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641928,
+    "wof:name":"\u041a\u0430\u0440\u0430\u0433\u0435\u043e\u0440\u0433\u0438\u0435\u0432\u043e",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.17987882116927,
+    42.73011301390255,
+    27.19342895950081,
+    42.73917431127063
+],
+  "geometry": {"coordinates":[[[27.18330189467747,42.73917431127063],[27.19165974022854,42.73773844824927],[27.1906241001235,42.73423349226726],[27.19181798371676,42.73402832703846],[27.19155908292987,42.73315208735818],[27.19275294294005,42.73294691164534],[27.19223513939494,42.73119443427447],[27.19342895950081,42.73098925159331],[27.19317005674327,42.73011301390255],[27.1883947980586,42.73093364657905],[27.18865363552703,42.73180989832804],[27.18745978638947,42.73201502501558],[27.18771861775645,42.73289127859908],[27.18413697782802,42.73350658520883],[27.18387819543477,42.73263032108372],[27.18149043185184,42.73304044846662],[27.18174918159332,42.73391671961826],[27.18055527259247,42.73412176582337],[27.18107277008073,42.73587431011617],[27.17987882116927,42.73607934934762],[27.18065509506812,42.73870816373602],[27.18304308360871,42.73829805019255],[27.18330189467747,42.73917431127063]]],"type":"Polygon"}
+}

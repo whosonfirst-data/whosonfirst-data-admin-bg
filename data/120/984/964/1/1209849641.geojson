@@ -1,0 +1,71 @@
+{
+  "id": 1209849641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4164,41.36773,25.4164,41.36773",
+    "geom:latitude":41.36773,
+    "geom:longitude":25.4164,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Chorbadzhiysko",
+    "gn:country_code":"BG",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11342596,
+    "gn:latitude":41.36773,
+    "gn:longitude":25.4164,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Chorbadzhiysko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Chorbadzhiysko"
+    ],
+    "name:bul_x_variant":[
+        "\u0427\u043e\u0440\u0431\u0430\u0434\u0436\u0438\u0439\u0441\u043a\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11342596
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e03b693031b37796601e0b83d1d32322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1209849641,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1209849641,
+    "wof:lastmodified":1537587800,
+    "wof:name":"Chorbadzhiysko",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4164,
+    41.36773,
+    25.4164,
+    41.36773
+],
+  "geometry": {"coordinates":[25.4164,41.36773],"type":"Point"}
+}

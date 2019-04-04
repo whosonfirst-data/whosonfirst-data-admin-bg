@@ -1,0 +1,75 @@
+{
+  "id": 1125776107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.70984,42.69392,27.70984,42.69392",
+    "geom:latitude":42.69392,
+    "geom:longitude":27.70984,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPLS",
+    "gn:gn_pop":1277,
+    "iso:country":"BG",
+    "lbl:latitude":42.69392,
+    "lbl:longitude":27.70984,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPLS",
+    "qs_pg:gn_id":8299558,
+    "qs_pg:gn_pop":1277,
+    "qs_pg:name":"Remove This. Found better candidate",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":760807,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8299558,
+        "qs_pg:id":760807
+    },
+    "wof:country":"BG",
+    "wof:created":1497290262,
+    "wof:geomhash":"9cb49260f8b673df832306cf0603d2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125776107,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1125776107,
+    "wof:lastmodified":1509391284,
+    "wof:name":"Remove This. Found better candidate",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:population":1277,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.70984,
+    42.69392,
+    27.70984,
+    42.69392
+],
+  "geometry": {"coordinates":[27.70984,42.69392],"type":"Point"}
+}

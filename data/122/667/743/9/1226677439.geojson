@@ -1,0 +1,78 @@
+{
+  "id": 1226677439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4,42.98333,27.4,42.98333",
+    "geom:latitude":42.98333,
+    "geom:longitude":27.4,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"Golyamo Delchevo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731300,
+    "gn:latitude":42.98333,
+    "gn:longitude":27.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Golyamo Delchevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Makhalesi",
+        "Deli Khyusein Makhle",
+        "Golemo Deltschewo",
+        "Deli Khyuseynmakhale",
+        "Golyemo Dyelchevo",
+        "Deli-Khyusein-Makhlesi",
+        "Golyamo Delchevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731300
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2068e1d32c6eb43b10f10ee04127dee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226677439,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1226677439,
+    "wof:lastmodified":1537587626,
+    "wof:name":"Golyamo Delchevo",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4,
+    42.98333,
+    27.4,
+    42.98333
+],
+  "geometry": {"coordinates":[27.4,42.98333],"type":"Point"}
+}

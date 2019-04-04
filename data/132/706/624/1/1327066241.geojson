@@ -1,0 +1,84 @@
+{
+  "id": 1327066241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2,42.88333,27.2,42.88333",
+    "geom:latitude":42.88333,
+    "geom:longitude":27.2,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS18",
+    "gn:admin3_code":"BGS18-08",
+    "gn:asciiname":"Daskotna",
+    "gn:country_code":"BG",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731779,
+    "gn:latitude":42.88333,
+    "gn:longitude":27.2,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Daskotna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u044a\u0441\u043a\u043e\u0442\u043d\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Daskotna"
+    ],
+    "name:und_x_variant":[
+        "Iskhodna",
+        "D\u0103skotna",
+        "Ischodna",
+        "Dskotna",
+        "Diskotija",
+        "Diskotna",
+        "Diskotja",
+        "D\u016dskotna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731779,
+        "wk:page":"Daskotna"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2abfc3eb1c6befc989b7333af18b8e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327066241,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1327066241,
+    "wof:lastmodified":1537587656,
+    "wof:name":"Daskotna",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2,
+    42.88333,
+    27.2,
+    42.88333
+],
+  "geometry": {"coordinates":[27.2,42.88333],"type":"Point"}
+}

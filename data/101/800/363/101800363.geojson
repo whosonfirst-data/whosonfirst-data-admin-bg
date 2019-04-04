@@ -1,0 +1,122 @@
+{
+  "id": 101800363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":379443.482971,
+    "geom:bbox":"23.0589950713,42.0355316905,23.0740213431,42.0433217895",
+    "geom:latitude":42.03995,
+    "geom:longitude":23.065915,
+    "iso:country":"BG",
+    "lbl:latitude":42.03982,
+    "lbl:longitude":23.065801,
+    "mps:latitude":42.03982,
+    "mps:longitude":23.065801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u043b\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Riltsi"
+    ],
+    "name:eng_x_colloquial":[
+        "Khasarlthk",
+        "Khasarltk",
+        "Khasarluk"
+    ],
+    "name:eng_x_preferred":[
+        "Riltsi"
+    ],
+    "name:eng_x_variant":[
+        "Khasarl\u00fek",
+        "Rilci"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0438\u043b\u0446\u0438"
+    ],
+    "name:mac_x_preferred":[
+        "\u0425\u0430\u0441\u0430\u0440\u043b\u0430\u043a"
+    ],
+    "name:ron_x_preferred":[
+        "Ril\u021bi"
+    ],
+    "name:rum_x_preferred":[
+        "Ril\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043b\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Riltsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u043b\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Khasarl\u016dk"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0420\u0438\u043b\u0446\u0438",
+    "qs:la_lc":"*BGBLG0362699",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0438\u043b\u0446\u0438",
+    "qs:loc_alt":"Riltsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037271d0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727622,
+        "gp:id":839258,
+        "qs:id":6,
+        "wd:id":"Q2462702",
+        "wk:page":"Riltsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"656889df1710b84fa977a118b10d3471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800363,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800363,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715083,
+    "wof:name":"\u0420\u0438\u043b\u0446\u0438",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.05899507134251,
+    42.035531690455,
+    23.07402134314339,
+    42.04332178949875
+],
+  "geometry": {"coordinates":[[[23.07402134314339,42.04285362051087],[23.07382785789866,42.04196545277898],[23.07263757447328,42.04212152052401],[23.07244411355663,42.04123334883866],[23.07125384140932,42.0413893998641],[23.07106040481938,42.04050122422564],[23.06987014395173,42.04065725853184],[23.06948332706565,42.0388808980486],[23.06710285585029,42.03919291385398],[23.06690949223292,42.03830472635883],[23.06571926520485,42.03846071051015],[23.06552592590901,42.03757251906353],[23.0619552624712,42.03804037916422],[23.06156870688079,42.03626397646906],[23.06037850829949,42.03641989640272],[23.06018525864056,42.035531690455],[23.05899507134251,42.03568759367283],[23.05976804907448,42.03924042025812],[23.06095830309783,42.03908450644343],[23.06115158330567,42.03997270718946],[23.06234184861347,42.03981677665752],[23.06253515314251,42.04070497345327],[23.06372542973446,42.04054902620351],[23.06391875858606,42.04143721904882],[23.06629932893577,42.04112527704518],[23.06668607629615,42.04290164823152],[23.07025699141087,42.04243361381072],[23.07045042660599,42.04332178949875],[23.07402134314339,42.04285362051087]]],"type":"Polygon"}
+}

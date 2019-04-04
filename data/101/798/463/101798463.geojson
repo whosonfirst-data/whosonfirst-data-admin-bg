@@ -1,0 +1,118 @@
+{
+  "id": 101798463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000097,
+    "geom:bbox":"26.7992747607,42.9996421816,26.8146985638,43.0115733746",
+    "geom:latitude":43.005815,
+    "geom:longitude":26.807138,
+    "iso:country":"BG",
+    "lbl:latitude":43.005423,
+    "lbl:longitude":26.808423,
+    "mps:latitude":43.005423,
+    "mps:longitude":26.808423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0412\u044a\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0422\u0443\u0448\u043e\u0432\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina V\u016drbitsa"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina V\u0103rbica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0628\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Varbitsa"
+    ],
+    "name:ita_x_preferred":[
+        "V\u0103rbica"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10e0\u10d1\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Wyrbica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna V\u0103rbi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Vrbitsa"
+    ],
+    "name:unk_x_variant":[
+        "Tuschowza"
+    ],
+    "name:vie_x_preferred":[
+        "Varbitsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u723e\u6bd4\u5bdf\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0428\u0443\u043c\u0435\u043d",
+    "qs:a1_alt":"Shumen",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u0422\u0443\u0448\u043e\u0432\u0438\u0446\u0430",
+    "qs:la_lc":"*BGSHU1073537",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u0443\u0448\u043e\u0432\u0438\u0446\u0430",
+    "qs:loc_alt":"Tushovitsa",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":264,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726142,
+        "wd:id":"Q2609417"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"cf1225f907db6163f7039d6539c275cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798463,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":101798463,
+    "wof:lastmodified":1527641926,
+    "wof:name":"\u0422\u0443\u0448\u043e\u0432\u0438\u0446\u0430",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.79927476068156,
+    42.99964218163257,
+    26.81469856380284,
+    43.01157337455845
+],
+  "geometry": {"coordinates":[[[26.81135291220551,43.00929083938479],[26.81109772385111,43.0084136968257],[26.81469856380284,43.00781119436994],[26.81393291004787,43.00517978814634],[26.81273268711686,43.00538062598446],[26.81171202382825,43.00187204766127],[26.8105118601311,43.00207285752617],[26.81000162252462,43.00031855165054],[26.80880148483743,43.00051934048281],[26.80854639784536,42.99964218163257],[26.80614613406459,43.00004371007668],[26.8064011878368,43.00092087586324],[26.8052010285241,43.00112162241118],[26.80545607581757,43.00199879003696],[26.80425589268549,43.00219952595768],[26.80476598444596,43.0039538632596],[26.79996504693514,43.00475669372588],[26.8004750463096,43.0065110522558],[26.79927476068156,43.00671173156627],[26.79952975894957,43.00758891185666],[26.80073006119437,43.00738822907886],[26.80124012136127,43.00914257784081],[26.80244044963183,43.00894187403009],[26.80320566574045,43.01157337455845],[26.80440603665602,43.01137264624504],[26.80415093786627,43.01049548449913],[26.81135291220551,43.00929083938479]]],"type":"Polygon"}
+}

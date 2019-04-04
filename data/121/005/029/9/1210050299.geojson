@@ -1,0 +1,75 @@
+{
+  "id": 1210050299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56684,43.54498,22.56684,43.54498",
+    "geom:latitude":43.54498,
+    "geom:longitude":22.56684,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID01",
+    "gn:admin3_code":"VID01-13",
+    "gn:asciiname":"Stakevtsi",
+    "gn:country_code":"BG",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726895,
+    "gn:latitude":43.54498,
+    "gn:longitude":22.56684,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Stakevtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u043a\u0435\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Stakevci",
+        "Stakewzi",
+        "Stakevtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726895
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"41427adc287a9fb3c472bf740e37b8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1210050299,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1210050299,
+    "wof:lastmodified":1537587340,
+    "wof:name":"Stakevtsi",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56684,
+    43.54498,
+    22.56684,
+    43.54498
+],
+  "geometry": {"coordinates":[22.56684,43.54498],"type":"Point"}
+}

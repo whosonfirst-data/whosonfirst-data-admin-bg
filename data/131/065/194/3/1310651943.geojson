@@ -1,0 +1,74 @@
+{
+  "id": 1310651943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.01667,43.65,28.01667,43.65",
+    "geom:latitude":43.65,
+    "geom:longitude":28.01667,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Gerisova",
+    "gn:country_code":"BG",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731444,
+    "gn:latitude":43.65,
+    "gn:longitude":28.01667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Gerisova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u0440\u0438\u0441\u043e\u0432\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Gerisova"
+    ],
+    "name:und_x_variant":[
+        "Gerisowa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731444
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e57a81424c3c55c1655c6b391b22ab08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310651943,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1310651943,
+    "wof:lastmodified":1537587636,
+    "wof:name":"Gerisova",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.01667,
+    43.65,
+    28.01667,
+    43.65
+],
+  "geometry": {"coordinates":[28.01667,43.65],"type":"Point"}
+}

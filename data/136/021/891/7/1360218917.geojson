@@ -1,0 +1,71 @@
+{
+  "id": 1360218917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5579,42.24284,27.5579,42.24284",
+    "geom:latitude":42.24284,
+    "geom:longitude":27.5579,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Daskoreshen Roshkovets",
+    "gn:country_code":"BG",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11314180,
+    "gn:latitude":42.24284,
+    "gn:longitude":27.5579,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Daskoreshen Roshkovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bul_x_preferred":[
+        "Daskoreshen Roshkovets"
+    ],
+    "name:bul_x_variant":[
+        "\u0414\u044a\u0441\u043a\u043e\u0440\u0435\u0448\u0435\u043d \u0420\u043e\u0448\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11314180
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d490a04e6e71b81004ffd384aab0e6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360218917,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1360218917,
+    "wof:lastmodified":1537587788,
+    "wof:name":"Daskoreshen Roshkovets",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5579,
+    42.24284,
+    27.5579,
+    42.24284
+],
+  "geometry": {"coordinates":[27.5579,42.24284],"type":"Point"}
+}

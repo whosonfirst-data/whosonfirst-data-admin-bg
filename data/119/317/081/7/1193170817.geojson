@@ -1,0 +1,80 @@
+{
+  "id": 1193170817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.8,42.61667,23.8,42.61667",
+    "geom:latitude":42.61667,
+    "geom:longitude":23.8,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO17",
+    "gn:admin3_code":"SFO17-03",
+    "gn:asciiname":"Golema Rakovitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731364,
+    "gn:latitude":42.61667,
+    "gn:longitude":23.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Golema Rakovitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u0430 \u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rakovica",
+        "Golyema-Rakovitsa",
+        "Goljema Rakovica",
+        "Golyama Rakovitsa",
+        "Golema-Rakowiza",
+        "Golema Rakovitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731364,
+        "wk:page":"Golema_Rakovitsa"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"25814af9b46b6deaab12e5daecf39e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1193170817,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1193170817,
+    "wof:lastmodified":1537587631,
+    "wof:name":"Golema Rakovitsa",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.8,
+    42.61667,
+    23.8,
+    42.61667
+],
+  "geometry": {"coordinates":[23.8,42.61667],"type":"Point"}
+}

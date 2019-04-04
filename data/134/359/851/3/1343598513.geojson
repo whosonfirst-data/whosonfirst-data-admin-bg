@@ -1,0 +1,71 @@
+{
+  "id": 1343598513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.59848,41.4952,25.59848,41.4952",
+    "geom:latitude":41.4952,
+    "geom:longitude":25.59848,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Boynovtsi",
+    "gn:country_code":"BG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335985,
+    "gn:latitude":41.4952,
+    "gn:longitude":25.59848,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Boynovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Boynovtsi"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u043e\u0439\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335985
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"fe1190ba2591164f36f046d594e44ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343598513,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1343598513,
+    "wof:lastmodified":1537587794,
+    "wof:name":"Boynovtsi",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.59848,
+    41.4952,
+    25.59848,
+    41.4952
+],
+  "geometry": {"coordinates":[25.59848,41.4952],"type":"Point"}
+}

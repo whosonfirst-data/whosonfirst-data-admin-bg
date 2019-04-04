@@ -1,0 +1,77 @@
+{
+  "id": 1310439813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.25,42.96667,26.25,42.96667",
+    "geom:latitude":42.96667,
+    "geom:longitude":26.25,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"SLV11",
+    "gn:admin3_code":"SLV11-17",
+    "gn:asciiname":"Streltsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726714,
+    "gn:latitude":42.96667,
+    "gn:longitude":26.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Streltsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0440\u0435\u043b\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Turkoklii",
+        "Strelzi",
+        "Turkukliy",
+        "Streltsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726714
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8275866586763cdd2efea72168765d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310439813,
+            "region_id":85681799
+        }
+    ],
+    "wof:id":1310439813,
+    "wof:lastmodified":1537587327,
+    "wof:name":"Streltsi",
+    "wof:parent_id":85681799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.25,
+    42.96667,
+    26.25,
+    42.96667
+],
+  "geometry": {"coordinates":[26.25,42.96667],"type":"Point"}
+}

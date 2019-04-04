@@ -1,0 +1,192 @@
+{
+  "id": 101798191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000142,
+    "geom:area_square_m":1287835.033347,
+    "geom:bbox":"23.7209185737,42.9710021767,23.7416938742,42.9849448942",
+    "geom:latitude":42.977432,
+    "geom:longitude":23.730963,
+    "iso:country":"BG",
+    "lbl:latitude":42.976033,
+    "lbl:longitude":23.729074,
+    "mps:latitude":42.976033,
+    "mps:longitude":23.729074,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u041d\u0438\u043a\u043e\u043f\u043e\u043b"
+    ],
+    "name:bul_x_variant":[
+        "\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Nic\u00f2pol"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Nikopol"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Nikopol"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0646\u06cc\u06a9\u06c6\u067e\u06c6\u0644\u060c \u0628\u0648\u0644\u06af\u0627\u0631\u06cc\u0627"
+    ],
+    "name:eng_x_colloquial":[
+        "Novacene",
+        "Novatchene"
+    ],
+    "name:eng_x_preferred":[
+        "Novachene"
+    ],
+    "name:eng_x_variant":[
+        "Novachane",
+        "Novatch\u00e9n\u00e9",
+        "Nova\u010dene",
+        "Nowatschene",
+        "Novacene"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648\u067e\u0648\u0644\u060c \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nikopol"
+    ],
+    "name:ger_x_preferred":[
+        "Novacene"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e7\u05d5\u05e4\u05d5\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Nik\u00e1poly"
+    ],
+    "name:ita_x_preferred":[
+        "Nikopol"
+    ],
+    "name:ita_x_variant":[
+        "Nicopoli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30b3\u30dd\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10d9\u10dd\u10de\u10dd\u10da\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043f\u043e\u043b"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\ucf54\ud3f4"
+    ],
+    "name:lat_x_preferred":[
+        "Nicopolis"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Nikopo\u0142"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Nikopol"
+    ],
+    "name:rum_x_preferred":[
+        "Novacene"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043f\u043e\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Novacene"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043f\u043e\u0459"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Nikopol"
+    ],
+    "name:tur_x_preferred":[
+        "Ni\u011fbolu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u043a\u043e\u043f\u043e\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Nowatschene"
+    ],
+    "name:vie_x_preferred":[
+        "Nikopol"
+    ],
+    "name:war_x_preferred":[
+        "Nikopol"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u79d1\u6ce2\u723e\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5c3c\u79d1\u6ce2\u5c14"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043e\u0444\u0438\u044f",
+    "qs:a1_alt":"Sofia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435",
+    "qs:la_lc":"*BGSFO0751946",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435",
+    "qs:loc_alt":"Novachene",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":248,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371f37c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728782,
+        "gp:id":838339,
+        "qs:id":6,
+        "qs_pg:id":1081554,
+        "wd:id":"Q4321889"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5dd0a96920cc6b8948399a3069c07a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798191,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":101798191,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815510,
+    "wof:name":"\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72091857366746,
+    42.97100217674631,
+    23.74169387424388,
+    42.98494489420017
+],
+  "geometry": {"coordinates":[[[23.73507628868009,42.9816306165697],[23.73990550078298,42.98097322503594],[23.73969679465046,42.98008754041234],[23.74090406553245,42.97992315968747],[23.74048664383758,42.97815179220368],[23.74169387424388,42.97798740292018],[23.74127645148656,42.97621603587953],[23.73524041254268,42.97703781089433],[23.7346146000221,42.97438070753799],[23.73340742616256,42.97454501112367],[23.73257319553045,42.97100217674631],[23.72533044169694,42.97198762979724],[23.72553888326888,42.97287335751719],[23.72433171956351,42.97303755257298],[23.72454015222877,42.97392328183179],[23.72091857366746,42.97441578989174],[23.72133536048761,42.97618726159578],[23.72254259380946,42.97602310080913],[23.72337633674016,42.97956601697615],[23.72458363317259,42.9794018304803],[23.7247921070566,42.98028755336981],[23.72720671661284,42.97995913181853],[23.72741523338397,42.98084484767423],[23.72862254650579,42.98068061261841],[23.72883108890017,42.98156632429755],[23.73003841333934,42.98140207210173],[23.73087273557644,42.98494489420017],[23.73208012313239,42.98478061628606],[23.73187151276505,42.98389491559828],[23.73428623548955,42.98356632264296],[23.7340775989511,42.982680626356],[23.73528493412107,42.98251631131569],[23.73507628868009,42.9816306165697]]],"type":"Polygon"}
+}

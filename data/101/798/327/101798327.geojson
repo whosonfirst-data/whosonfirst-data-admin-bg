@@ -1,0 +1,118 @@
+{
+  "id": 101798327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":648936.54403,
+    "geom:bbox":"27.1618228317,42.7732721707,27.1779728836,42.7808049959",
+    "geom:latitude":42.777363,
+    "geom:longitude":27.169803,
+    "iso:country":"BG",
+    "lbl:latitude":42.777398,
+    "lbl:longitude":27.169803,
+    "mps:latitude":42.777398,
+    "mps:longitude":27.169803,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0439\u0447\u0430\u0440"
+    ],
+    "name:eng_x_colloquial":[
+        "Gthodzhenler",
+        "Gtodzhenler",
+        "Guodzhenler"
+    ],
+    "name:eng_x_preferred":[
+        "Zaychar"
+    ],
+    "name:eng_x_variant":[
+        "Gyudzhenlar",
+        "Gyudzhenler",
+        "G\u00feodzhenler",
+        "Pedlzhenler",
+        "Saitschar",
+        "Zajchar",
+        "Zaycher"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u0439\u0447\u0430\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "Zaicear"
+    ],
+    "name:rum_x_preferred":[
+        "Zaicear"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0439\u0447\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0439\u0447\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Pedlzhenler"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0417\u0430\u0439\u0447\u0430\u0440",
+    "qs:la_lc":"*BGBGS1830243",
+    "qs:level":"locality",
+    "qs:loc":"\u0417\u0430\u0439\u0447\u0430\u0440",
+    "qs:loc_alt":"Zaychar",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03735262-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":725428,
+        "gp:id":840909,
+        "qs:id":5,
+        "wd:id":"Q1075547",
+        "wk:page":"Zaychar"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8eb19b279fdd2d8725d21f465cd3b091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798327,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101798327,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641934,
+    "wof:name":"\u0417\u0430\u0439\u0447\u0430\u0440",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.16182283168274,
+    42.77327217067102,
+    27.17797288357252,
+    42.78080499588594
+],
+  "geometry": {"coordinates":[[[27.17797288357252,42.78059997000935],[27.17719581710605,42.77797125558669],[27.17600103829739,42.77817627091247],[27.174965158433,42.774671280804],[27.17257570987823,42.77508124129162],[27.172316798216,42.77420498254071],[27.16873261995443,42.77481980764355],[27.16847376759978,42.77394353667057],[27.16727904333931,42.77414844683483],[27.16702021757368,42.77327217067102],[27.16582550240724,42.77347706330966],[27.16608431181368,42.77435334298781],[27.16369482696831,42.77476309325976],[27.16421241102904,42.77651566164513],[27.16182283168274,42.77692536992629],[27.16208160633352,42.77780165863368],[27.16327641600128,42.77759680798505],[27.16405285041952,42.78022565351188],[27.16763738309589,42.77961098586144],[27.16789626412185,42.78048725380779],[27.17387042170651,42.77946250989675],[27.17412939477919,42.78033875858796],[27.17651903964958,42.77992875590496],[27.17677805568241,42.78080499588594],[27.17797288357252,42.78059997000935]]],"type":"Polygon"}
+}

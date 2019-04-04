@@ -1,0 +1,105 @@
+{
+  "id": 1125987655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.35222,43.02083,23.35222,43.02083",
+    "geom:latitude":43.02083,
+    "geom:longitude":23.35222,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":43.02083,
+    "lbl:longitude":23.35222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0440\u0430 \u0411\u043e\u0432"
+    ],
+    "name:eng_x_preferred":[
+        "Gara Bov"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u0440\u0430-\u0411\u043e\u0432"
+    ],
+    "name:rum_x_preferred":[
+        "Bov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0430-\u0411\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0430-\u0411\u043e\u0432"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":731525,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Gara Bov",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Sofiya",
+    "qs_pg:photos":250,
+    "qs_pg:photos_1k":51,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":250,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":278011,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":836259,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Sofiya",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731525,
+        "gp:id":836259,
+        "qs_pg:id":278011,
+        "wd:id":"Q2013318"
+    },
+    "wof:country":"BG",
+    "wof:created":1497298890,
+    "wof:geomhash":"a4f4a12b87da4236e7950a6d85ae3875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125987655,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1125987655,
+    "wof:lastmodified":1553816680,
+    "wof:name":"Gara Bov",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.35222,
+    43.02083,
+    23.35222,
+    43.02083
+],
+  "geometry": {"coordinates":[23.35222,43.02083],"type":"Point"}
+}

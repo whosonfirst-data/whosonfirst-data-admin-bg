@@ -1,0 +1,77 @@
+{
+  "id": 1243588593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65551,41.37204,25.65551,41.37204",
+    "geom:latitude":41.37204,
+    "geom:longitude":25.65551,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ15",
+    "gn:admin3_code":"KRZ15-27",
+    "gn:asciiname":"Malak Devesil",
+    "gn:country_code":"BG",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":729301,
+    "gn:latitude":41.37204,
+    "gn:longitude":25.65551,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Malak Devesil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u044a\u043a \u0414\u0435\u0432\u0435\u0441\u0438\u043b"
+    ],
+    "name:bul_x_variant":[
+        "Malak Devesil"
+    ],
+    "name:und_x_variant":[
+        "Dikili Kayrak",
+        "Mal\u016dk Devesil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729301
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"972e93a26c3ca68597bfa6d77eafd2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243588593,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1243588593,
+    "wof:lastmodified":1537587496,
+    "wof:name":"Malak Devesil",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65551,
+    41.37204000000001,
+    25.65551,
+    41.37204000000001
+],
+  "geometry": {"coordinates":[25.65551,41.37204000000001],"type":"Point"}
+}

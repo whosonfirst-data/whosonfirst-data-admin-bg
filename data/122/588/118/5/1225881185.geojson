@@ -1,0 +1,75 @@
+{
+  "id": 1225881185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74167,42.23278,22.74167,42.23278",
+    "geom:latitude":42.23278,
+    "geom:longitude":22.74167,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL29",
+    "gn:asciiname":"Lelintsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729690,
+    "gn:latitude":42.23278,
+    "gn:longitude":22.74167,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Lelintsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u043b\u0438\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Lelinzi",
+        "Lelintsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729690,
+        "wk:page":"Lelintsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7e919539c18a143fa92b3223887eef1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225881185,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1225881185,
+    "wof:lastmodified":1537587522,
+    "wof:name":"Lelintsi",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74167000000001,
+    42.23278,
+    22.74167000000001,
+    42.23278
+],
+  "geometry": {"coordinates":[22.74167000000001,42.23278],"type":"Point"}
+}

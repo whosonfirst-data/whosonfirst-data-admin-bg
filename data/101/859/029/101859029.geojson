@@ -1,0 +1,106 @@
+{
+  "id": 101859029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.239044,41.600206,25.239044,41.600206",
+    "geom:latitude":41.600206,
+    "geom:longitude":25.239044,
+    "iso:country":"BG",
+    "lbl:latitude":41.600206,
+    "lbl:longitude":25.239044,
+    "mps:latitude":41.600206,
+    "mps:longitude":25.239044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Kobilyane"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10d1\u10d8\u10da\u10d8\u10d0\u10dc\u10d4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10d1\u10d8\u10da\u10d8\u10d0\u10dc\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Kobileane"
+    ],
+    "name:rum_x_preferred":[
+        "Kobileane"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Sheremetler"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435",
+    "qs:loc_alt":"Kobilyane",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730274,
+        "qs:id":6,
+        "wd:id":"Q1084594"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f5447e97ac8199679ba30ae807e2903d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101859029,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101859029,
+    "wof:lastmodified":1544744704,
+    "wof:name":"\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.239044,
+    41.600206,
+    25.239044,
+    41.600206
+],
+  "geometry": {"coordinates":[25.239044,41.600206],"type":"Point"}
+}

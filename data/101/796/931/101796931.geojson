@@ -1,0 +1,95 @@
+{
+  "id": 101796931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:bbox":"26.5159969047,42.5590822013,26.5277185216,42.568762846",
+    "geom:latitude":42.563674,
+    "geom:longitude":26.521676,
+    "iso:country":"BG",
+    "lbl:latitude":42.563779,
+    "lbl:longitude":26.521565,
+    "mps:latitude":42.563779,
+    "mps:longitude":26.521565,
+    "mz:hierarchy_label":1,
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0432\u043e\u0439"
+    ],
+    "name:eng_x_colloquial":[
+        "Kulaklt",
+        "Kulaklth",
+        "Kulaklu"
+    ],
+    "name:eng_x_preferred":[
+        "Zavoy"
+    ],
+    "name:eng_x_variant":[
+        "Kulaklii",
+        "Kulakl\u00fe",
+        "Sawoi",
+        "Zavoj"
+    ],
+    "name:unk_x_variant":[
+        "Sawoi"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u042f\u043c\u0431\u043e\u043b",
+    "qs:a1_alt":"Yambol",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0417\u0430\u0432\u043e\u0439",
+    "qs:la_lc":"*BGJAM2530096",
+    "qs:level":"locality",
+    "qs:loc":"\u0417\u0430\u0432\u043e\u0439",
+    "qs:loc_alt":"Zavoi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03735230-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":725431,
+        "gp:id":840906,
+        "qs:id":179548
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"bb23161f7d07a6a3cabbb60d393ab2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101796931,
+            "region_id":85681793
+        }
+    ],
+    "wof:id":101796931,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501215828,
+    "wof:name":"\u0417\u0430\u0432\u043e\u0439",
+    "wof:parent_id":85681793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.51599690473057,
+    42.5590822013238,
+    26.52771852160504,
+    42.56876284595376
+],
+  "geometry": {"coordinates":[[[26.52324329449226,42.56797421811211],[26.52299553081991,42.56709577249387],[26.5265727944917,42.56650416470762],[26.52607719832366,42.56474728885377],[26.52726957295681,42.56455006499675],[26.52652620297988,42.56191474923475],[26.52771852160504,42.56171752148754],[26.52697519057153,42.5590822013238],[26.51862915807709,42.56046243081062],[26.51838151511299,42.5595839639505],[26.51599690473057,42.5599781825016],[26.51748271282582,42.56524899990688],[26.51629029908133,42.56544610838898],[26.51703328600314,42.56808150544617],[26.51822574883437,42.56788438685879],[26.51847344705681,42.56876284595376],[26.52324329449226,42.56797421811211]]],"type":"Polygon"}
+}

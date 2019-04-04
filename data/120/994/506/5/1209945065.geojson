@@ -1,0 +1,76 @@
+{
+  "id": 1209945065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4,42.15,25.4,42.15",
+    "geom:latitude":42.15,
+    "geom:longitude":25.4,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR36",
+    "gn:asciiname":"Tsenovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726246,
+    "gn:latitude":42.15,
+    "gn:longitude":25.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsenovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Koymatlii",
+        "Zenewo",
+        "Koymatliy",
+        "Tsenovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726246
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"832b7f2765c8cc732f146cdf175ecafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1209945065,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1209945065,
+    "wof:lastmodified":1537587299,
+    "wof:name":"Tsenovo",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4,
+    42.15,
+    25.4,
+    42.15
+],
+  "geometry": {"coordinates":[25.4,42.15],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1327364395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.46667,42.96667,24.46667,42.96667",
+    "geom:latitude":42.96667,
+    "geom:longitude":24.46667,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"LOV34",
+    "gn:admin3_code":"LOV34-07",
+    "gn:asciiname":"Golyama Zhelyazna",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731319,
+    "gn:latitude":42.96667,
+    "gn:longitude":24.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Golyama Zhelyazna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430 \u0416\u0435\u043b\u044f\u0437\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Golyema Zhelezna",
+        "Goljema \u017delezna",
+        "Goljema \u017deljezna",
+        "Golyema Jelezna",
+        "Golena Shelesna",
+        "Golema \u017delezna",
+        "Golyema-Zhelyezna",
+        "Golyama Zhelyazna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731319,
+        "wk:page":"Golyama_Zhelyazna"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2a1454adbfd195593cebfba389bdc39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327364395,
+            "region_id":85681811
+        }
+    ],
+    "wof:id":1327364395,
+    "wof:lastmodified":1537587628,
+    "wof:name":"Golyama Zhelyazna",
+    "wof:parent_id":85681811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.46667,
+    42.96667,
+    24.46667,
+    42.96667
+],
+  "geometry": {"coordinates":[24.46667,42.96667],"type":"Point"}
+}

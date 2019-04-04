@@ -1,0 +1,75 @@
+{
+  "id": 1276159773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61667,43.01667,23.61667,43.01667",
+    "geom:latitude":43.01667,
+    "geom:longitude":23.61667,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO07",
+    "gn:asciiname":"Rashkovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727767,
+    "gn:latitude":43.01667,
+    "gn:longitude":23.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rashkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Ra\u0161kovo",
+        "Raschkowo",
+        "Rashkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727767
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"23d9cbd0ed74ad91f3b18709b4f07098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276159773,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1276159773,
+    "wof:lastmodified":1537587393,
+    "wof:name":"Rashkovo",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61667000000001,
+    43.01667,
+    23.61667000000001,
+    43.01667
+],
+  "geometry": {"coordinates":[23.61667000000001,43.01667],"type":"Point"}
+}

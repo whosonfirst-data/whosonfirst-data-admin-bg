@@ -1,0 +1,78 @@
+{
+  "id": 1343298773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45084,42.2828,22.45084,42.2828",
+    "geom:latitude":42.2828,
+    "geom:longitude":22.45084,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL29",
+    "gn:asciiname":"Tsarvendol",
+    "gn:country_code":"BG",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":726204,
+    "gn:latitude":42.2828,
+    "gn:longitude":22.45084,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tsarvendol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0426\u044a\u0440\u0432\u0435\u043d\u0434\u043e\u043b"
+    ],
+    "name:bul_x_variant":[
+        "Tsarvendol"
+    ],
+    "name:und_x_variant":[
+        "Z\u0103rweni-Dol",
+        "Ts\u016drveni Dol",
+        "Ts\u016drveni Dol\u016d",
+        "Ts\u016drvendol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726204
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"19ae8ce291fd228fc1921f76d20eb852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343298773,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1343298773,
+    "wof:lastmodified":1537587296,
+    "wof:name":"Tsarvendol",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45084,
+    42.2828,
+    22.45084,
+    42.2828
+],
+  "geometry": {"coordinates":[22.45084,42.2828],"type":"Point"}
+}

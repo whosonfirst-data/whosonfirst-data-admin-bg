@@ -1,0 +1,77 @@
+{
+  "id": 1309840633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.92402,42.19563,26.92402,42.19563",
+    "geom:latitude":42.19563,
+    "geom:longitude":26.92402,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"JAM03",
+    "gn:admin3_code":"JAM03-03",
+    "gn:asciiname":"Golyamo Krushevo",
+    "gn:country_code":"BG",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731294,
+    "gn:latitude":42.19563,
+    "gn:longitude":26.92402,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Golyamo Krushevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u043e \u041a\u0440\u0443\u0448\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Golyemo-Krushevo",
+        "Akhlatlii",
+        "Golemo Kruschewo",
+        "Golyamo Krushevo",
+        "Krushevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731294
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7a93a196ed9737808d2e27f0664530ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309840633,
+            "region_id":85681793
+        }
+    ],
+    "wof:id":1309840633,
+    "wof:lastmodified":1537587625,
+    "wof:name":"Golyamo Krushevo",
+    "wof:parent_id":85681793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.92402,
+    42.19563,
+    26.92402,
+    42.19563
+],
+  "geometry": {"coordinates":[26.92402,42.19563],"type":"Point"}
+}

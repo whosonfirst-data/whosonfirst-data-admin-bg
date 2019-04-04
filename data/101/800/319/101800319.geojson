@@ -1,0 +1,109 @@
+{
+  "id": 101800319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":359513.976223,
+    "geom:bbox":"23.8926560998,41.5849735215,23.9031108426,41.5900692805",
+    "geom:latitude":41.58757,
+    "geom:longitude":23.897992,
+    "iso:country":"BG",
+    "lbl:latitude":41.587584,
+    "lbl:longitude":23.898614,
+    "mps:latitude":41.587584,
+    "mps:longitude":23.898614,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Dolno Dryanovo"
+    ],
+    "name:eng_x_preferred":[
+        "Dolno Dryanovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0414\u0440\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Dreanovo"
+    ],
+    "name:rum_x_preferred":[
+        "Dolno Drianovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0414\u0440\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dolno Dryanovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u0414\u0440\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Dolno Drenowo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBLG1322616",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e",
+    "qs:loc_alt":"Dolno Dryanovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":222,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732068,
+        "gp:id":835837,
+        "qs:id":9,
+        "wd:id":"Q2458270",
+        "wk:page":"Dolno Dryanovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ac53c2ed048d0bf819ff3dca1d46d758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800319,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800319,
+    "wof:lastmodified":1527715094,
+    "wof:name":"\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89265609980532,
+    41.58497352147714,
+    23.90311084262078,
+    41.59006928054782
+],
+  "geometry": {"coordinates":[[[23.90311084262078,41.58924083789111],[23.90229846606809,41.58569442557405],[23.90111855795038,41.58586013081469],[23.90091549988779,41.58497352147714],[23.89265609980532,41.5861330493226],[23.89346792597746,41.58967955604129],[23.89700789692108,41.58918266567491],[23.89721092194912,41.59006928054782],[23.90311084262078,41.58924083789111]]],"type":"Polygon"}
+}

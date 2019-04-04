@@ -1,0 +1,75 @@
+{
+  "id": 1259717763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.84455,41.59338,25.84455,41.59338",
+    "geom:latitude":41.59338,
+    "geom:longitude":25.84455,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV11",
+    "gn:asciiname":"Chernichino",
+    "gn:country_code":"BG",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732556,
+    "gn:latitude":41.59338,
+    "gn:longitude":25.84455,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Chernichino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0438\u0447\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tschernitschino",
+        "Chair",
+        "Chernichino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732556,
+        "wk:page":"Chernichino"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f21dcb8fb7cf60abc641fcfe81c52def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259717763,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1259717763,
+    "wof:lastmodified":1537587710,
+    "wof:name":"Chernichino",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.84455,
+    41.59338,
+    25.84455,
+    41.59338
+],
+  "geometry": {"coordinates":[25.84455,41.59338],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276796015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99448,43.65923,25.99448,43.65923",
+    "geom:latitude":43.65923,
+    "geom:longitude":25.99448,
+    "gn:admin1_code":"53",
+    "gn:admin2_code":"RSE13",
+    "gn:admin3_code":"RSE13-02",
+    "gn:asciiname":"Koshov",
+    "gn:country_code":"BG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730122,
+    "gn:latitude":43.65923,
+    "gn:longitude":25.99448,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Koshov",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0448\u043e\u0432"
+    ],
+    "name:und_x_variant":[
+        "Koschow",
+        "Koshov"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730122
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"768a4668ab0519dbcd7dddd078a03b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276796015,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":1276796015,
+    "wof:lastmodified":1537587547,
+    "wof:name":"Koshov",
+    "wof:parent_id":85681861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99448,
+    43.65923,
+    25.99448,
+    43.65923
+],
+  "geometry": {"coordinates":[25.99448,43.65923],"type":"Point"}
+}

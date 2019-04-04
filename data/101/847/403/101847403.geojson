@@ -1,0 +1,108 @@
+{
+  "id": 101847403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":349421.677119,
+    "geom:bbox":"27.2717879676,42.8421101644,27.2810507678,42.8517446358",
+    "geom:latitude":42.846518,
+    "geom:longitude":27.277353,
+    "iso:country":"BG",
+    "lbl:latitude":42.846485,
+    "lbl:longitude":27.27781,
+    "mps:latitude":42.846485,
+    "mps:longitude":27.27781,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u043d\u044f\u0433\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Snyagovo"
+    ],
+    "name:eng_x_variant":[
+        "Resiler",
+        "Resiller",
+        "Snegovo",
+        "Snegowo",
+        "Snjagovo",
+        "Snyegovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043d\u044f\u0433\u043e\u0432\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Sneagovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043d\u044f\u0433\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043d\u044f\u0433\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Snyegovo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0421\u043d\u044f\u0433\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBGS1867767",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u043d\u044f\u0433\u043e\u0432\u043e",
+    "qs:loc_alt":"Snyagovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":205,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372b55a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727016,
+        "gp:id":839719,
+        "qs:id":8,
+        "wd:id":"Q4425695"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ab64f49773f779baea87b3fb4501d24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101847403,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101847403,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815542,
+    "wof:name":"\u0421\u043d\u044f\u0433\u043e\u0432\u043e",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.27178796760251,
+    42.84211016443061,
+    27.28105076782396,
+    42.85174463578466
+],
+  "geometry": {"coordinates":[[[27.28063812019479,42.85133209785943],[27.27985489933383,42.84870455626179],[27.28105076782396,42.84849827689703],[27.27974552434426,42.84411902488836],[27.27854973777369,42.84432528653468],[27.27828873643813,42.84344942752961],[27.27589717405601,42.8438619016714],[27.27537526788478,42.84211016443061],[27.27178796760251,42.84272874922772],[27.27230977547481,42.84448050772187],[27.27470138186311,42.84406811771015],[27.27626724983691,42.84932331022009],[27.27746314033959,42.84911707292349],[27.27824626287975,42.85174463578466],[27.28063812019479,42.85133209785943]]],"type":"Polygon"}
+}

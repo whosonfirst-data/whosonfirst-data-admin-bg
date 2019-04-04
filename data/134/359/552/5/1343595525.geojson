@@ -1,0 +1,74 @@
+{
+  "id": 1343595525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03333,42.95,24.03333,42.95",
+    "geom:latitude":42.95,
+    "geom:longitude":24.03333,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Pesha Laka",
+    "gn:country_code":"BG",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728319,
+    "gn:latitude":42.95,
+    "gn:longitude":24.03333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Pesha Laka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0448\u0430 \u041b\u044a\u043a\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Pesha Laka"
+    ],
+    "name:und_x_variant":[
+        "Pesha L\u016dka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728319
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"edd1df38be2963491afbd3fcd764aecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343595525,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1343595525,
+    "wof:lastmodified":1537587434,
+    "wof:name":"Pesha Laka",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03333,
+    42.95,
+    24.03333,
+    42.95
+],
+  "geometry": {"coordinates":[24.03333,42.95],"type":"Point"}
+}

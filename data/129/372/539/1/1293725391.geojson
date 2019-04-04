@@ -1,0 +1,77 @@
+{
+  "id": 1293725391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.57515,42.41662,22.57515,42.41662",
+    "geom:latitude":42.41662,
+    "geom:longitude":22.57515,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL29",
+    "gn:asciiname":"Dolno Uyno",
+    "gn:country_code":"BG",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732037,
+    "gn:latitude":42.41662,
+    "gn:longitude":22.57515,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dolno Uyno",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0423\u0439\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Ujno",
+        "Dolno Uyna",
+        "Dolno Ouino",
+        "Dolno Uino",
+        "Dolno Uyno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732037,
+        "wk:page":"Dolno_Uyno"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1d868c8c9a7255af4ee7a932f0943092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293725391,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1293725391,
+    "wof:lastmodified":1537587674,
+    "wof:name":"Dolno Uyno",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.57515,
+    42.41662,
+    22.57515,
+    42.41662
+],
+  "geometry": {"coordinates":[22.57515,42.41662],"type":"Point"}
+}

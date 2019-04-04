@@ -1,0 +1,75 @@
+{
+  "id": 1343292419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.70285,42.24416,26.70285,42.24416",
+    "geom:latitude":42.24416,
+    "geom:longitude":26.70285,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"JAM07",
+    "gn:admin3_code":"JAM07-18",
+    "gn:asciiname":"Zhrebino",
+    "gn:country_code":"BG",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725329,
+    "gn:latitude":42.24416,
+    "gn:longitude":26.70285,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zhrebino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0416\u0440\u0435\u0431\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bashatlii",
+        "Shrebino",
+        "Zhrebino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725329
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b9161ff0a2f603f95ef70248c19c35fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343292419,
+            "region_id":85681793
+        }
+    ],
+    "wof:id":1343292419,
+    "wof:lastmodified":1537587236,
+    "wof:name":"Zhrebino",
+    "wof:parent_id":85681793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.70285,
+    42.24416,
+    26.70285,
+    42.24416
+],
+  "geometry": {"coordinates":[26.70285,42.24416],"type":"Point"}
+}

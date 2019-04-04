@@ -1,0 +1,76 @@
+{
+  "id": 1292935115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.89273,41.69539,25.89273,41.69539",
+    "geom:latitude":41.69539,
+    "geom:longitude":25.89273,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV18",
+    "gn:asciiname":"Malko Bryagovo",
+    "gn:country_code":"BG",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729342,
+    "gn:latitude":41.69539,
+    "gn:longitude":25.89273,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Malko Bryagovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e \u0411\u0440\u044f\u0433\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Yardzhelii",
+        "Bryagovo",
+        "Bregowo",
+        "Malko Bryagovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729342,
+        "wk:page":"Malko_Bryagovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"927ca4048859c1d5ce35d335507ac0b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1292935115,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1292935115,
+    "wof:lastmodified":1537587499,
+    "wof:name":"Malko Bryagovo",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.89273,
+    41.69539,
+    25.89273,
+    41.69539
+],
+  "geometry": {"coordinates":[25.89273,41.69539],"type":"Point"}
+}

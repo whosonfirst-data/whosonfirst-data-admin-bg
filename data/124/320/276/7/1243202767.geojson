@@ -1,0 +1,76 @@
+{
+  "id": 1243202767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7,43.25,26.7,43.25",
+    "geom:latitude":43.25,
+    "geom:longitude":26.7,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"TGV35",
+    "gn:admin3_code":"TGV35-19",
+    "gn:asciiname":"Lovets",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729555,
+    "gn:latitude":43.25,
+    "gn:longitude":26.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Avdalar",
+        "Lowez",
+        "Lovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729555
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a039b0d6e1ede9a9e997241cb2388af2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243202767,
+            "region_id":85681839
+        }
+    ],
+    "wof:id":1243202767,
+    "wof:lastmodified":1537587514,
+    "wof:name":"Lovets",
+    "wof:parent_id":85681839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7,
+    43.25,
+    26.7,
+    43.25
+],
+  "geometry": {"coordinates":[26.7,43.25],"type":"Point"}
+}

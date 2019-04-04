@@ -1,0 +1,110 @@
+{
+  "id": 85901435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":21489633.975814,
+    "geom:bbox":"25.954039,43.846727,25.954039,43.846727",
+    "geom:latitude":43.846727,
+    "geom:longitude":25.954039,
+    "gn:latitude":43.83333,
+    "gn:longitude":25.95,
+    "iso:country":"BG",
+    "lbl:latitude":43.846727,
+    "lbl:longitude":25.954039,
+    "mps:latitude":43.838796,
+    "mps:longitude":25.95427,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0440\u0430\u0437\u0446\u043e\u0432 \u0427\u0438\u0444\u043b\u0438\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Obraztsov Chiflik"
+    ],
+    "name:unk_x_variant":[
+        "Obraztsov Chiflik"
+    ],
+    "qs:gn_adm0_cc":"BG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":727523,
+    "qs:gn_namadm1":"53",
+    "qs:gn_name":"Obraztsov Chiflik",
+    "qs:local_max":803,
+    "qs:local_sum":803,
+    "qs:localhoods":1,
+    "qs:name":"Obraztsov Chiflik",
+    "qs:name_adm0":"Bulgaria",
+    "qs:name_adm1":"Ruse",
+    "qs:name_adm2":"Ruse",
+    "qs:name_local":"Ruse",
+    "qs:photo_max":101,
+    "qs:photo_sum":803,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":49,
+    "qs:woe_adm0":23424771,
+    "qs:woe_adm1":20070069,
+    "qs:woe_adm2":55873777,
+    "qs:woe_lau":0,
+    "qs:woe_local":839334,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748923,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728680,
+        "gp:id":838425,
+        "qs:id":892202,
+        "qs_pg:id":892202
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0acdfdc69a8748ef900f4b06467a98c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748923,
+            "neighbourhood_id":85901435,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":85901435,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531932505,
+    "wof:name":"Obraztsov Chiflik",
+    "wof:parent_id":101748923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.954039,
+    43.846727,
+    25.954039,
+    43.846727
+],
+  "geometry": {"coordinates":[25.954039,43.846727],"type":"Point"}
+}

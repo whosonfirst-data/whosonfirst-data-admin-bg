@@ -1,0 +1,77 @@
+{
+  "id": 101798063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:bbox":"23.5250667986,42.7146645523,23.536523261,42.7244154648",
+    "geom:latitude":42.720115,
+    "geom:longitude":23.530432,
+    "iso:country":"BG",
+    "lbl:latitude":42.720883,
+    "lbl:longitude":23.530997,
+    "mps:latitude":42.720883,
+    "mps:longitude":23.530997,
+    "mz:hierarchy_label":1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438 \u0411\u043e\u0433\u0440\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Gorni-Bogrow"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430)",
+    "qs:a1_alt":"Sofia (stolitsa)",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u043e\u0440\u043d\u0438 \u0411\u043e\u0433\u0440\u043e\u0432",
+    "qs:la_lc":"*BGSOF4616448",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u043e\u0440\u043d\u0438 \u0411\u043e\u0433\u0440\u043e\u0432",
+    "qs:loc_alt":"Gorni Bogrov",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731220,
+        "gp:id":836505,
+        "qs:id":5
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"06e799125c83006c291715c1dc47a730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798063,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":101798063,
+    "wof:lastmodified":1501215872,
+    "wof:name":"\u0413\u043e\u0440\u043d\u0438 \u0411\u043e\u0433\u0440\u043e\u0432",
+    "wof:parent_id":85681771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52506679864069,
+    42.71466455226158,
+    23.53652326096545,
+    42.72441546476978
+],
+  "geometry": {"coordinates":[[[23.53652326096545,42.72150998840721],[23.5361149943119,42.7197371409444],[23.53491245497128,42.7198989772985],[23.53450425511903,42.7181261189923],[23.53330174419551,42.71828793552896],[23.53309767359258,42.71740150161054],[23.52949015740955,42.71788685749971],[23.52928614625847,42.71700041387862],[23.52808364639543,42.71716216793516],[23.52767568272884,42.7153892711662],[23.52647321128484,42.71555100540911],[23.52626925876666,42.71466455226158],[23.52506679864069,42.7148262694875],[23.52649451754542,42.72103143355702],[23.52769709739317,42.72086969675865],[23.52851318435438,42.72441546476978],[23.53452633891516,42.72360651149421],[23.53411810808149,42.72183365808581],[23.53652326096545,42.72150998840721]]],"type":"Polygon"}
+}

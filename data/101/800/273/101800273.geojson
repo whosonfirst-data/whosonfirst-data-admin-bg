@@ -1,0 +1,119 @@
+{
+  "id": 101800273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":609187.484035,
+    "geom:bbox":"25.219900582,41.4559279881,25.2369434923,41.4636725625",
+    "geom:latitude":41.459877,
+    "geom:longitude":25.227657,
+    "iso:country":"BG",
+    "lbl:latitude":41.459865,
+    "lbl:longitude":25.228367,
+    "mps:latitude":41.459865,
+    "mps:longitude":25.228367,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0423\u0441\u0442\u0440\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ustren"
+    ],
+    "name:eng_x_preferred":[
+        "Ustren"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e3\u10e1\u10e2\u10e0\u10d4\u10dc\u10d8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e1\u10e2\u10e0\u10d4\u10dc\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Ustren"
+    ],
+    "name:msa_x_preferred":[
+        "Ustren"
+    ],
+    "name:ron_x_preferred":[
+        "Ustren"
+    ],
+    "name:rum_x_preferred":[
+        "Ustren"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u0442\u0440\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Ustren"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0441\u0442\u0440\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Ustren"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0423\u0441\u0442\u0440\u0435\u043d",
+    "qs:la_lc":"*BGKRZ0875201",
+    "qs:level":"locality",
+    "qs:loc":"\u0423\u0441\u0442\u0440\u0435\u043d",
+    "qs:loc_alt":"Ustren",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":101,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03731126-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726083,
+        "gp:id":840405,
+        "qs:id":5,
+        "wd:id":"Q2462954",
+        "wk:page":"Ustren"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"dd6312eea18739b7d7de9c074f82f3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800273,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101800273,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715083,
+    "wof:name":"\u0423\u0441\u0442\u0440\u0435\u043d",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21990058198298,
+    41.45592798805092,
+    25.23694349233386,
+    41.46367256247021
+],
+  "geometry": {"coordinates":[[[25.23694349233386,41.46312827149256],[25.23650012352357,41.46136178125994],[25.23532547689649,41.46154321934654],[25.23488217431077,41.45977671699109],[25.23370755333747,41.45995813523632],[25.23348593084091,41.45907487875809],[25.23231131966122,41.45925628018227],[25.23208972164787,41.45837301916436],[25.23091512026247,41.45855440376801],[25.23069354673049,41.45767113821063],[25.22834435748541,41.45803385997721],[25.22812282429311,41.4571505868621],[25.22577364251384,41.45751324738808],[25.22555214965956,41.45662996671638],[25.22437756553609,41.4568112732598],[25.22415609715932,41.45592798805092],[25.22180694244747,41.45629055369989],[25.22202837910476,41.45717384494412],[25.22085377679798,41.45735511008462],[25.22107520621142,41.45823840282708],[25.21990058198298,41.45841965718347],[25.22078632235912,41.46195282503152],[25.22665970012423,41.46104635487853],[25.22688123607776,41.46192962795226],[25.22923057646489,41.46156693723975],[25.22945215276422,41.46245020275597],[25.23297616544249,41.46190605411533],[25.23341943908486,41.46367256247021],[25.23694349233386,41.46312827149256]]],"type":"Polygon"}
+}

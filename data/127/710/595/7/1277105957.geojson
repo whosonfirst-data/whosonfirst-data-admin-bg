@@ -1,0 +1,75 @@
+{
+  "id": 1277105957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9,43.21667,23.9,43.21667",
+    "geom:latitude":43.21667,
+    "geom:longitude":23.9,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"VRC32",
+    "gn:admin3_code":"VRC32-02",
+    "gn:asciiname":"Kameno Pole",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730677,
+    "gn:latitude":43.21667,
+    "gn:longitude":23.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kameno Pole",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u043e \u043f\u043e\u043b\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kamenno-Polje",
+        "Kameno Pole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730677
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"cdfa80b760885360aa83e13a9ca96643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1277105957,
+            "region_id":85681817
+        }
+    ],
+    "wof:id":1277105957,
+    "wof:lastmodified":1537587580,
+    "wof:name":"Kameno Pole",
+    "wof:parent_id":85681817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9,
+    43.21667,
+    23.9,
+    43.21667
+],
+  "geometry": {"coordinates":[23.9,43.21667],"type":"Point"}
+}

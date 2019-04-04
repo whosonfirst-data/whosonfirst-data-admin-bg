@@ -1,0 +1,79 @@
+{
+  "id": 1293035069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85,42.45,25.85,42.45",
+    "geom:latitude":42.45,
+    "geom:longitude":25.85,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Stamovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726883,
+    "gn:latitude":42.45,
+    "gn:longitude":25.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stamovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Car Asparuh",
+        "Stanovo",
+        "Chavla K\u2019oy",
+        "Tsar-Asparuh",
+        "Tsar-Asnarukh",
+        "Tsar Asparukh",
+        "Zar Asparuch",
+        "Stamovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726883
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4dabe1526ab72b98cc90d199b74de56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293035069,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1293035069,
+    "wof:lastmodified":1537587339,
+    "wof:name":"Stamovo",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85,
+    42.45,
+    25.85,
+    42.45
+],
+  "geometry": {"coordinates":[25.85,42.45],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310435701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15868,41.42459,25.15868,41.42459",
+    "geom:latitude":41.42459,
+    "geom:longitude":25.15868,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Duganitsa",
+    "gn:country_code":"BG",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11343141,
+    "gn:latitude":41.42459,
+    "gn:longitude":25.15868,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Duganitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Duganitsa"
+    ],
+    "name:bul_x_variant":[
+        "\u0414\u0443\u0433\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11343141
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"432f006e9573b8e7e366311705edfec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310435701,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1310435701,
+    "wof:lastmodified":1537587801,
+    "wof:name":"Duganitsa",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15868,
+    41.42459,
+    25.15868,
+    41.42459
+],
+  "geometry": {"coordinates":[25.15868,41.42459],"type":"Point"}
+}

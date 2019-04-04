@@ -1,0 +1,114 @@
+{
+  "id": 85901413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7450394.59095,
+    "geom:bbox":"25.105391,41.388551,25.105391,41.388551",
+    "geom:latitude":41.388551,
+    "geom:longitude":25.105391,
+    "gn:latitude":41.38333,
+    "gn:longitude":25.1,
+    "iso:country":"BG",
+    "lbl:latitude":41.388551,
+    "lbl:longitude":25.105391,
+    "mps:latitude":41.381901,
+    "mps:longitude":25.094765,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:bul_x_preferred":[
+        "\u0427\u0438\u0442\u0430\u043a\u043e\u0432\u0438 \u043a\u043e\u043b\u0438\u0431\u0438"
+    ],
+    "name:bul_x_variant":[
+        "Chetakovi Kolibi",
+        "\u0427\u0435\u0442\u0430\u043a\u043e\u0432\u0438 \u041a\u043e\u043b\u0438\u0431\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Chitakovi Kolibi"
+    ],
+    "name:unk_x_variant":[
+        "Chitakovi Kolibi"
+    ],
+    "qs:gn_adm0_cc":"BG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":725271,
+    "qs:gn_nam_loc":"Zlatograd, Zlatograd, Smolyan, BG",
+    "qs:gn_namadm1":"57",
+    "qs:gn_name":"Chitakovi Kolibi",
+    "qs:local_max":48,
+    "qs:local_sum":48,
+    "qs:localhoods":1,
+    "qs:name":"Chitakovi Kolibi",
+    "qs:name_adm0":"Bulgaria",
+    "qs:name_adm1":"Smolyan",
+    "qs:name_adm2":"Zlatograd",
+    "qs:name_local":"Zlatograd",
+    "qs:photo_max":37,
+    "qs:photo_sum":48,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424771,
+    "qs:woe_adm1":20070067,
+    "qs:woe_adm2":55873788,
+    "qs:woe_lau":0,
+    "qs:woe_local":841043,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732447,
+        "gp:id":835534,
+        "qs:id":983581,
+        "qs_pg:id":983581
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ed82a560045667dfdcb8b319024b624f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":-1,
+            "neighbourhood_id":85901413,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":85901413,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531932499,
+    "wof:name":"Chitakovi Kolibi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.105391,
+    41.388551,
+    25.105391,
+    41.388551
+],
+  "geometry": {"coordinates":[25.105391,41.388551],"type":"Point"}
+}

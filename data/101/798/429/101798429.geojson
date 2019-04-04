@@ -1,0 +1,111 @@
+{
+  "id": 101798429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00007,
+    "geom:area_square_m":628926.417519,
+    "geom:bbox":"26.5552470788,43.0620812907,26.5689743551,43.0706618371",
+    "geom:latitude":43.067076,
+    "geom:longitude":26.561629,
+    "iso:country":"BG",
+    "lbl:latitude":43.066739,
+    "lbl:longitude":26.56176,
+    "mps:latitude":43.066739,
+    "mps:longitude":26.56176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0438\u0442\u0435\u043b"
+    ],
+    "name:eng_x_preferred":[
+        "Obitel"
+    ],
+    "name:eng_x_variant":[
+        "Tekeler",
+        "Tekeler Kyabir"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0431\u0438\u0442\u0435\u043b"
+    ],
+    "name:rum_x_preferred":[
+        "Obitel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0438\u0442\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Obitel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0438\u0442\u0435\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Tekeler Kyabir"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u6bd4\u7279\u723e\u534a\u5cf6"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435",
+    "qs:a1_alt":"Targovishte",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u041e\u0431\u0438\u0442\u0435\u043b",
+    "qs:la_lc":"*BGTGV2253062",
+    "qs:level":"locality",
+    "qs:loc":"\u041e\u0431\u0438\u0442\u0435\u043b",
+    "qs:loc_alt":"Obitel",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":202,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371faac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728687,
+        "gp:id":838420,
+        "qs:id":404692,
+        "wd:id":"Q2019114"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f7d3344b515f36e14d9d2a3ccb13b5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798429,
+            "region_id":85681839
+        }
+    ],
+    "wof:id":101798429,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641932,
+    "wof:name":"\u041e\u0431\u0438\u0442\u0435\u043b",
+    "wof:parent_id":85681839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55524707882387,
+    43.0620812907265,
+    26.56897435507898,
+    43.07066183707002
+],
+  "geometry": {"coordinates":[[[26.56707397981398,43.07006803017975],[26.56682203633068,43.06919020571883],[26.5680241827186,43.06899224525819],[26.56777223254642,43.06811442262546],[26.56897435507898,43.06791645146421],[26.56872239821843,43.06703863065957],[26.56752029240249,43.06723659839224],[26.56726836228626,43.06635877255871],[26.56606626604912,43.06655672273462],[26.56556246932905,43.06480105941074],[26.56436039938734,43.06499898860272],[26.56385667619884,43.06324331202313],[26.56265463255215,43.06344122023256],[26.56240280270805,43.06256337611535],[26.55999872744314,43.0629591432965],[26.55974694105055,43.0620812907265],[26.55854490943409,43.0622791496989],[26.55930024853041,43.06491271288883],[26.55569396044325,43.06550623587088],[26.55644923927434,43.06813981550187],[26.55524707882387,43.06833763851569],[26.55575061471262,43.07009335712655],[26.55815499536169,43.06969768326377],[26.55840681178165,43.07057553331742],[26.56321555434243,43.06978400232487],[26.5634674476687,43.07066183707002],[26.56707397981398,43.07006803017975]]],"type":"Polygon"}
+}

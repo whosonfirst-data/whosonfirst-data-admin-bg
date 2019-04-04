@@ -1,0 +1,71 @@
+{
+  "id": 1310652179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94792,41.86453,22.94792,41.86453",
+    "geom:latitude":41.86453,
+    "geom:longitude":22.94792,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Mladentsi",
+    "gn:country_code":"BG",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436737,
+    "gn:latitude":41.86453,
+    "gn:longitude":22.94792,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Mladentsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Mladentsi"
+    ],
+    "name:bul_x_variant":[
+        "\u041c\u043b\u0430\u0434\u0435\u043d\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436737
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a926a7de65ee76d545d69c2474496023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310652179,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1310652179,
+    "wof:lastmodified":1537587810,
+    "wof:name":"Mladentsi",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94792,
+    41.86453,
+    22.94792,
+    41.86453
+],
+  "geometry": {"coordinates":[22.94792,41.86453],"type":"Point"}
+}

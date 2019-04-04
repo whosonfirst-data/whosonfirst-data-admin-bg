@@ -1,0 +1,75 @@
+{
+  "id": 1327268443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35,42.98333,26.35,42.98333",
+    "geom:latitude":42.98333,
+    "geom:longitude":26.35,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"SLV11",
+    "gn:asciiname":"Bratan",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732931,
+    "gn:latitude":42.98333,
+    "gn:longitude":26.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bratan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "S\u016dr Alan",
+        "S\u016drt Alan",
+        "Bratan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732931
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e2372ee016f73c3b3d94266107c581eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327268443,
+            "region_id":85681799
+        }
+    ],
+    "wof:id":1327268443,
+    "wof:lastmodified":1537587735,
+    "wof:name":"Bratan",
+    "wof:parent_id":85681799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35,
+    42.98333,
+    26.35,
+    42.98333
+],
+  "geometry": {"coordinates":[26.35,42.98333],"type":"Point"}
+}

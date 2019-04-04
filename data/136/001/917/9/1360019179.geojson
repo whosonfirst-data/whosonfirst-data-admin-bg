@@ -1,0 +1,80 @@
+{
+  "id": 1360019179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76667,41.43333,24.76667,41.43333",
+    "geom:latitude":41.43333,
+    "geom:longitude":24.76667,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"SML27",
+    "gn:asciiname":"Vitina",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725849,
+    "gn:latitude":41.43333,
+    "gn:longitude":24.76667,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Vitina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0442\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kichuk Dere",
+        "Witina",
+        "Bitina",
+        "Vitina",
+        "Darowiza",
+        "Darovitsa",
+        "Sheremetovo",
+        "Scheremetowo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725849
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4bdd41a637be51b8d31e36763ef352a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360019179,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1360019179,
+    "wof:lastmodified":1537587274,
+    "wof:name":"Vitina",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76667,
+    41.43333,
+    24.76667,
+    41.43333
+],
+  "geometry": {"coordinates":[24.76667,41.43333],"type":"Point"}
+}

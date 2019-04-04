@@ -1,0 +1,120 @@
+{
+  "id": 101800345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":669115.321978,
+    "geom:bbox":"23.3325062716,41.4271415004,23.347226127,41.4359955244",
+    "geom:latitude":41.431224,
+    "geom:longitude":23.339598,
+    "iso:country":"BG",
+    "lbl:latitude":41.431735,
+    "lbl:longitude":23.339709,
+    "mps:latitude":41.431735,
+    "mps:longitude":23.339709,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Marikostinovo"
+    ],
+    "name:eng_x_preferred":[
+        "Marikostinovo"
+    ],
+    "name:eng_x_variant":[
+        "Mari Kostenowo",
+        "Marikostenovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Marikostinovo"
+    ],
+    "name:rum_x_preferred":[
+        "Marikostinovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Marikostinovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Marikostenovo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBLG3347189",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e",
+    "qs:loc_alt":"Marikostinovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371c3d4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":729244,
+        "gp:id":837984,
+        "qs:id":1,
+        "wd:id":"Q2990215",
+        "wk:page":"Marikostinovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"31043f825e8e4ddfbec734e7180edd1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800345,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800345,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715094,
+    "wof:name":"\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33250627160453,
+    41.42714150041252,
+    23.3472261270125,
+    41.43599552441964
+],
+  "geometry": {"coordinates":[[[23.33641468971757,41.43583658512364],[23.33622064623069,41.43494844736671],[23.34329004635163,41.43399453565814],[23.3430959132607,41.43310641249025],[23.34427411172948,41.43294738121904],[23.34388583592539,41.43117113614431],[23.34506399666151,41.43101209629015],[23.34486985395,41.43012397438309],[23.3472261270125,41.42980585829832],[23.34664364725637,41.42714150041252],[23.339575055495,41.42809563407741],[23.33976911066054,41.42898377066513],[23.33623469414073,41.42946065786066],[23.33604068756051,41.42857251330543],[23.33250627160453,41.42904926745979],[23.33270022959658,41.42993741998077],[23.33387838977967,41.42977851317147],[23.33446035785181,41.43244295466627],[23.33328214907579,41.4326018694411],[23.33386413681927,41.43526630674836],[23.33504239419364,41.43510738400687],[23.33523642148032,41.43599552441964],[23.33641468971757,41.43583658512364]]],"type":"Polygon"}
+}

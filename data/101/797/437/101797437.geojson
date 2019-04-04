@@ -1,0 +1,113 @@
+{
+  "id": 101797437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000151,
+    "geom:bbox":"26.6931555716,43.6211183426,26.7128998751,43.6339167912",
+    "geom:latitude":43.627803,
+    "geom:longitude":26.704353,
+    "iso:country":"BG",
+    "lbl:latitude":43.626496,
+    "lbl:longitude":26.705152,
+    "mps:latitude":43.626496,
+    "mps:longitude":26.705152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0418\u0441\u043f\u0435\u0440\u0438\u0445"
+    ],
+    "name:bul_x_variant":[
+        "\u0419\u043e\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Isperikh"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Isperich"
+    ],
+    "name:fra_x_preferred":[
+        "Isperikh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10de\u10d4\u10e0\u10d8\u10ee\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Isperich"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Isperih"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043f\u0435\u0440\u0438\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Isperich"
+    ],
+    "name:unk_x_variant":[
+        "Ionkovo"
+    ],
+    "name:vie_x_preferred":[
+        "Isperih"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u4f69\u91cc\u8d6b\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Razgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0419\u043e\u043d\u043a\u043e\u0432\u043e",
+    "qs:la_lc":"*BGRAZ1434103",
+    "qs:level":"locality",
+    "qs:loc":"\u0419\u043e\u043d\u043a\u043e\u0432\u043e",
+    "qs:loc_alt":"Yonkovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":199,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725509,
+        "gp:id":840844,
+        "qs:id":2,
+        "wd:id":"Q2220241"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"48abbea8ceab59aaf5b557c666aad7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797437,
+            "region_id":85681857
+        }
+    ],
+    "wof:id":101797437,
+    "wof:lastmodified":1527641524,
+    "wof:name":"\u0419\u043e\u043d\u043a\u043e\u0432\u043e",
+    "wof:parent_id":85681857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69315557161633,
+    43.6211183426384,
+    26.71289987513984,
+    43.63391679121014
+],
+  "geometry": {"coordinates":[[[26.70051087539656,43.63371697167781],[26.69999481988395,43.63196319138365],[26.70484708606853,43.63116379864999],[26.70536327846332,43.63291755083969],[26.70657636070456,43.63271765995358],[26.70683448956754,43.63359453013737],[26.71289987513984,43.63259484408252],[26.70954389687705,43.62119563541751],[26.70469249269468,43.62199523008712],[26.70443448151002,43.6211183426384],[26.70200876918426,43.62151804734418],[26.70226674616481,43.62239494181699],[26.70105386179182,43.62259477628027],[26.7013118320329,43.62347167266688],[26.6988860068646,43.62387130581266],[26.69940191001945,43.62562510783926],[26.69697598681046,43.62602469795638],[26.69749186299168,43.62777850763871],[26.69506584173331,43.62817805472412],[26.69558169093261,43.62993187206308],[26.69315557161633,43.63033137611285],[26.69341347753908,43.6312082894093],[26.69462655801067,43.63100854100838],[26.69488449140783,43.6318854491966],[26.69731066435656,43.63148590255975],[26.69756864234097,43.63236280212743],[26.69878173481618,43.63216300389104],[26.6992977561062,43.63391679121014],[26.70051087539656,43.63371697167781]]],"type":"Polygon"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226677215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13333,42.96667,23.13333,42.96667",
+    "geom:latitude":42.96667,
+    "geom:longitude":23.13333,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO26",
+    "gn:asciiname":"Buchin Prohod",
+    "gn:country_code":"BG",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732837,
+    "gn:latitude":42.96667,
+    "gn:longitude":23.13333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Buchin Prohod",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0447\u0438\u043d \u043f\u0440\u043e\u0445\u043e\u0434"
+    ],
+    "name:bul_x_variant":[
+        "Buchin Prohod"
+    ],
+    "name:und_x_variant":[
+        "Butschin-Prochod",
+        "Bu\u010dino-Dervent",
+        "Bu\u010dino",
+        "Buchino-Dervent",
+        "Buchin-Prohod",
+        "Buchin Prokhod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732837
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b5982bf3c9ef2bff2b92d9b410ea7411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226677215,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1226677215,
+    "wof:lastmodified":1537587729,
+    "wof:name":"Buchin Prohod",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13333,
+    42.96667,
+    23.13333,
+    42.96667
+],
+  "geometry": {"coordinates":[23.13333,42.96667],"type":"Point"}
+}

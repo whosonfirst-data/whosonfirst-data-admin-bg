@@ -1,0 +1,76 @@
+{
+  "id": 1293129559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13914,42.48385,27.13914,42.48385",
+    "geom:latitude":42.48385,
+    "geom:longitude":27.13914,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS08",
+    "gn:asciiname":"Zhelyazovo",
+    "gn:country_code":"BG",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725364,
+    "gn:latitude":42.48385,
+    "gn:longitude":27.13914,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhelyazovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Shelesowo",
+        "Zhelyezovo",
+        "Demirdesh",
+        "Zhelyazovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725364,
+        "wk:page":"Zhelyazovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"225ed621fc655afd497b87b479dfa4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293129559,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1293129559,
+    "wof:lastmodified":1537587239,
+    "wof:name":"Zhelyazovo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13914,
+    42.48385,
+    27.13914,
+    42.48385
+],
+  "geometry": {"coordinates":[27.13914,42.48385],"type":"Point"}
+}

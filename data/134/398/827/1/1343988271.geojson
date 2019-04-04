@@ -1,0 +1,78 @@
+{
+  "id": 1343988271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2,42.93333,23.2,42.93333",
+    "geom:latitude":42.93333,
+    "geom:longitude":23.2,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO26",
+    "gn:asciiname":"Dramsha",
+    "gn:country_code":"BG",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731902,
+    "gn:latitude":42.93333,
+    "gn:longitude":23.2,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Dramsha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u044a\u043c\u0448\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Dramsha"
+    ],
+    "name:und_x_variant":[
+        "Dremsha",
+        "Dr\u0103mscha",
+        "Dr\u016dmsha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731902,
+        "wk:page":"Dramsha"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a2ddf33e94eab5b54181fe4d9479741b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343988271,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1343988271,
+    "wof:lastmodified":1537587665,
+    "wof:name":"Dramsha",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2,
+    42.93333,
+    23.2,
+    42.93333
+],
+  "geometry": {"coordinates":[23.2,42.93333],"type":"Point"}
+}

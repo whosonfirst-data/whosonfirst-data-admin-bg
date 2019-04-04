@@ -1,0 +1,80 @@
+{
+  "id": 1242908499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45,42.7,24.45,42.7",
+    "geom:latitude":42.7,
+    "geom:longitude":24.45,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"PDV13",
+    "gn:admin3_code":"PDV13-14",
+    "gn:asciiname":"Klisura",
+    "gn:country_code":"BG",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730301,
+    "gn:latitude":42.7,
+    "gn:longitude":24.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Klisura",
+    "gn:population":1485,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043b\u0438\u0441\u0443\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Derbend",
+        "Klissura",
+        "Klissoura",
+        "Klisura"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730301,
+        "wk:page":"Klisura_%28Bulgaria%29"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"be55111f223a9eb822a1df73ba03175d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242908499,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":1242908499,
+    "wof:lastmodified":1537587559,
+    "wof:name":"Klisura",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:population":1485,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45,
+    42.7,
+    24.45,
+    42.7
+],
+  "geometry": {"coordinates":[24.45,42.7],"type":"Point"}
+}

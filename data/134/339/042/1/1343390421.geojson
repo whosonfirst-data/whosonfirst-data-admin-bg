@@ -1,0 +1,77 @@
+{
+  "id": 1343390421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46667,42.1,25.46667,42.1",
+    "geom:latitude":42.1,
+    "geom:longitude":25.46667,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV09",
+    "gn:asciiname":"Velikan",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725999,
+    "gn:latitude":42.1,
+    "gn:longitude":25.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Velikan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Balabanlii",
+        "Welikan",
+        "Balabanli",
+        "Velikan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725999,
+        "wk:page":"Velikan"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"99d3eae3f4fd0d34409940de8794b61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343390421,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1343390421,
+    "wof:lastmodified":1537587284,
+    "wof:name":"Velikan",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46667,
+    42.1,
+    25.46667,
+    42.1
+],
+  "geometry": {"coordinates":[25.46667,42.1],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276479053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.00281,42.75917,23.00281,42.75917",
+    "geom:latitude":42.75917,
+    "geom:longitude":23.00281,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO06",
+    "gn:asciiname":"Delyan",
+    "gn:country_code":"BG",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732323,
+    "gn:latitude":42.75917,
+    "gn:longitude":23.00281,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Delyan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043b\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "K\u016drnul",
+        "Deljan",
+        "Delyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732323,
+        "wk:page":"Delyan%2C_Sofia_Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"40c3c672cfc731bf62763db2f039ee92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276479053,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1276479053,
+    "wof:lastmodified":1537587695,
+    "wof:name":"Delyan",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.00281,
+    42.75917000000001,
+    23.00281,
+    42.75917000000001
+],
+  "geometry": {"coordinates":[23.00281,42.75917000000001],"type":"Point"}
+}

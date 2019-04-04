@@ -1,0 +1,74 @@
+{
+  "id": 1276259951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.65,42.86667,25.65,42.86667",
+    "geom:latitude":42.86667,
+    "geom:longitude":25.65,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Yovchevtsi",
+    "gn:country_code":"BG",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725502,
+    "gn:latitude":42.86667,
+    "gn:longitude":25.65,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Yovchevtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0419\u043e\u0432\u0447\u0435\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Eshtevts\u016d",
+        "Yovchovtsi",
+        "Iovchovtsi",
+        "Yovchevtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725502
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2c483d9e4c83cac085736d15deb5415e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276259951,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1276259951,
+    "wof:lastmodified":1537587250,
+    "wof:name":"Yovchevtsi",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.65,
+    42.86667,
+    25.65,
+    42.86667
+],
+  "geometry": {"coordinates":[25.65,42.86667],"type":"Point"}
+}

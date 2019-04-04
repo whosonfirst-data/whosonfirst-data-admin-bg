@@ -1,0 +1,127 @@
+{
+  "id": 101800433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:area_square_m":1118351.731066,
+    "geom:bbox":"24.6561323866,42.0689753544,24.6717868568,42.0808288274",
+    "geom:latitude":42.074965,
+    "geom:longitude":24.663864,
+    "iso:country":"BG",
+    "lbl:latitude":42.074932,
+    "lbl:longitude":24.663864,
+    "mps:latitude":42.074932,
+    "mps:longitude":24.663864,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u044a\u0440\u0432\u0435\u043d\u0435\u0446"
+    ],
+    "name:bul_x_variant":[
+        "Parvenets"
+    ],
+    "name:eng_x_colloquial":[
+        "Pthrvenets",
+        "Ptrvenets"
+    ],
+    "name:eng_x_preferred":[
+        "Purvenets"
+    ],
+    "name:eng_x_variant":[
+        "Dermendere",
+        "Ferdinandovo",
+        "Ferdinandowo",
+        "Parvenec",
+        "P\u00fervenets",
+        "Parvenets"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10d8\u10e0\u10d5\u10d4\u10dc\u10d4\u10ea\u10d8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10e0\u10d5\u10d4\u10dc\u10d4\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u0435\u043d\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Pyrwenec"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103rvene\u021b"
+    ],
+    "name:rum_x_preferred":[
+        "P\u0103rvene\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u0435\u043d\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0440\u0432\u0435\u043d\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Ferdinandovo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+    "qs:a1_alt":"Plovdiv",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041f\u044a\u0440\u0432\u0435\u043d\u0435\u0446",
+    "qs:la_lc":"*BGPDV2659032",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u044a\u0440\u0432\u0435\u043d\u0435\u0446",
+    "qs:loc_alt":"Parvenets",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":238,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03725592-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727892,
+        "gp:id":839050,
+        "qs:id":1,
+        "wd:id":"Q941830"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"cde64ef1f8e019cc9b98cf99cc21ac91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800433,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":101800433,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715092,
+    "wof:name":"\u041f\u044a\u0440\u0432\u0435\u043d\u0435\u0446",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6561323866319,
+    42.06897535441323,
+    24.67178685677607,
+    42.08082882737904
+],
+  "geometry": {"coordinates":[[[24.66974455956597,42.0804788216048],[24.66952737472928,42.07959467604059],[24.67071494971287,42.07941965513419],[24.66984623024371,42.07588307031898],[24.67103373355752,42.07570804728755],[24.67059939231456,42.07393975215746],[24.67178685677607,42.07376472106898],[24.67113535982315,42.07111227645146],[24.66757309593771,42.07163730105924],[24.66735599659029,42.07075314107169],[24.66379372754739,42.0712780308906],[24.66357668595361,42.07039386056681],[24.66238926726345,42.07056879289888],[24.66217225061666,42.06968461816905],[24.66098484229104,42.06985953354882],[24.66076785058982,42.06897535441323],[24.65839304863192,42.06932513728128],[24.65861000752739,42.07020932234389],[24.65742258109003,42.07038419575883],[24.65807345981358,42.07303675118675],[24.65688597812493,42.07321161950267],[24.65731990717086,42.07497998850749],[24.6561323866319,42.07515484876035],[24.65700028160308,42.07869158132905],[24.65818786777669,42.07851670922219],[24.65840487928767,42.07940088579738],[24.66434280160308,42.07852630058244],[24.66455990370685,42.07941046089365],[24.66574748645507,42.07923549891416],[24.66596461351594,42.08011965481802],[24.66715220663031,42.0799446758827],[24.66736935864969,42.08082882737904],[24.66974455956597,42.0804788216048]]],"type":"Polygon"}
+}

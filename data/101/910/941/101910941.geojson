@@ -1,0 +1,124 @@
+{
+  "id": 101910941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":938313.983023,
+    "geom:bbox":"28.5448086368,43.4484815242,28.55735561,43.4624346166",
+    "geom:latitude":43.456138,
+    "geom:longitude":28.550737,
+    "iso:country":"BG",
+    "lbl:latitude":43.456547,
+    "lbl:longitude":28.550617,
+    "mps:latitude":43.456547,
+    "mps:longitude":28.550617,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d \u0431\u0440\u044f\u0433"
+    ],
+    "name:deu_x_preferred":[
+        "Kamen Brjag"
+    ],
+    "name:eng_x_preferred":[
+        "Kamen Bryag"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10db\u10d4\u10dc-\u10d1\u10e0\u10d8\u10d0\u10d2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Kamen Brjag"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10db\u10d4\u10dc-\u10d1\u10e0\u10d8\u10d0\u10d2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d-\u0411\u0440\u044f\u0433"
+    ],
+    "name:may_x_preferred":[
+        "Kamen Bryag"
+    ],
+    "name:msa_x_preferred":[
+        "Kamen Bryag"
+    ],
+    "name:ron_x_preferred":[
+        "Kamen Breag"
+    ],
+    "name:rum_x_preferred":[
+        "Kamen Breag"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d-\u0411\u0440\u044f\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Kamen Brjag"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d-\u0411\u0440\u044f\u0433"
+    ],
+    "name:unk_x_variant":[
+        "St\u016dnka"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0414\u043e\u0431\u0440\u0438\u0447",
+    "qs:a1_alt":"Dobrich",
+    "qs:a1r":"5",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u041a\u0430\u043c\u0435\u043d \u0431\u0440\u044f\u0433",
+    "qs:la_lc":"*BGDOB1735746",
+    "qs:level":"locality",
+    "qs:loc":"Kamen Bryag",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730704,
+        "gp:id":836905,
+        "qs:id":267074,
+        "qs_pg:id":267074,
+        "wd:id":"Q994086",
+        "wk:page":"Kamen Bryag"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6d5e1e6b78848b9cf01b7e1812442142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101910941,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":101910941,
+    "wof:lastmodified":1527715929,
+    "wof:name":"Kamen Bryag",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.54480863684796,
+    43.44848152416984,
+    28.55735560995663,
+    43.46243461662692
+],
+  "geometry": {"coordinates":[[[28.5497808017733,43.46243461662692],[28.55580218130552,43.4613264153831],[28.55523219163865,43.45958423882399],[28.5564364102579,43.45936256402047],[28.55615141593358,43.45849147686499],[28.55735560995663,43.45826979182971],[28.55593072594286,43.45391434800615],[28.55472661442798,43.45413601375964],[28.5544416881458,43.453264915673],[28.55323758504181,43.45348656348347],[28.55295268659739,43.4526154597196],[28.55174859190464,43.45283708958715],[28.55032435221881,43.44848152416984],[28.54791630356482,43.44892470309736],[28.54820109583636,43.44979582753217],[28.54699704288288,43.45001739971997],[28.54728182998753,43.45088852618778],[28.54607775244921,43.45111008814291],[28.54636253438611,43.45198121664362],[28.54515843226176,43.45220276836494],[28.54601279656589,43.45481615450512],[28.54480863684796,43.45503770370067],[28.54594788191656,43.45852220848224],[28.54715210765312,43.45830064386882],[28.54829160012667,43.4617851041005],[28.54949588380049,43.46156350997666],[28.5497808017733,43.46243461662692]]],"type":"Polygon"}
+}

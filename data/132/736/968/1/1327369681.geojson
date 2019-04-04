@@ -1,0 +1,77 @@
+{
+  "id": 1327369681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78333,43.31667,26.78333,43.31667",
+    "geom:latitude":43.31667,
+    "geom:longitude":26.78333,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"SHU30",
+    "gn:admin3_code":"SHU30-24",
+    "gn:asciiname":"Cherencha",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732613,
+    "gn:latitude":43.31667,
+    "gn:longitude":26.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cherencha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tscherentscha",
+        "Chirandzhi",
+        "Cherenche",
+        "Cherencha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732613
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"76e48ecde5d402194810394c138c311f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327369681,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1327369681,
+    "wof:lastmodified":1537587714,
+    "wof:name":"Cherencha",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78333,
+    43.31667,
+    26.78333,
+    43.31667
+],
+  "geometry": {"coordinates":[26.78333,43.31667],"type":"Point"}
+}

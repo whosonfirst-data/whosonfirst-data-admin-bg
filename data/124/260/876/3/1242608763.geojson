@@ -1,0 +1,76 @@
+{
+  "id": 1242608763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91667,41.48373,25.91667,41.48373",
+    "geom:latitude":41.48373,
+    "geom:longitude":25.91667,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV11",
+    "gn:admin3_code":"HKV11-16",
+    "gn:asciiname":"Sokolentsi",
+    "gn:country_code":"BG",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727001,
+    "gn:latitude":41.48373,
+    "gn:longitude":25.91667,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sokolentsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Duvandzhi K\u2019oy",
+        "Sokolenzi",
+        "Sokolentsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727001,
+        "wk:page":"Sokolentsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"045333804ca686f69353a574f7184ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242608763,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1242608763,
+    "wof:lastmodified":1537587348,
+    "wof:name":"Sokolentsi",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91667,
+    41.48373,
+    25.91667,
+    41.48373
+],
+  "geometry": {"coordinates":[25.91667,41.48373],"type":"Point"}
+}

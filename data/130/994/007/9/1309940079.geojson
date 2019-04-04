@@ -1,0 +1,77 @@
+{
+  "id": 1309940079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.83333,43.56667,26.83333,43.56667",
+    "geom:latitude":43.56667,
+    "geom:longitude":26.83333,
+    "gn:admin1_code":"52",
+    "gn:admin2_code":"RAZ29",
+    "gn:admin3_code":"RAZ29-04",
+    "gn:asciiname":"Golyama Voda",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731321,
+    "gn:latitude":43.56667,
+    "gn:longitude":26.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Golyama Voda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430 \u0432\u043e\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Khasan Makhla",
+        "Golema Woda",
+        "Khasan Makh",
+        "Golyama Voda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731321
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c7de79218d15118169d7001a444a9618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309940079,
+            "region_id":85681857
+        }
+    ],
+    "wof:id":1309940079,
+    "wof:lastmodified":1537587628,
+    "wof:name":"Golyama Voda",
+    "wof:parent_id":85681857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.83333,
+    43.56667,
+    26.83333,
+    43.56667
+],
+  "geometry": {"coordinates":[26.83333,43.56667],"type":"Point"}
+}

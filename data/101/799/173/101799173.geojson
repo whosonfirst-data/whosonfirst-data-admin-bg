@@ -1,0 +1,98 @@
+{
+  "id": 101799173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":589197.180722,
+    "geom:bbox":"23.7801623271,41.6048567334,23.7934078686,41.615892877",
+    "geom:latitude":41.610302,
+    "geom:longitude":23.786153,
+    "iso:country":"BG",
+    "lbl:latitude":41.609014,
+    "lbl:longitude":23.784597,
+    "mps:latitude":41.609014,
+    "mps:longitude":23.784597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Ognyanovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:mac_x_preferred":[
+        "\u0424\u043e\u0442\u043e\u0432\u0438\u0448\u0442\u0430"
+    ],
+    "name:rum_x_preferred":[
+        "Ognianovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Fotovishta"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBLG1353326",
+    "qs:level":"locality",
+    "qs:loc":"\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e",
+    "qs:loc_alt":"Ognyanovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728661,
+        "qs:id":3,
+        "wd:id":"Q2654724"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e4c271348a957aa0e9b4926b033e4584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799173,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101799173,
+    "wof:lastmodified":1527641686,
+    "wof:name":"\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78016232708092,
+    41.60485673337399,
+    23.79340786855255,
+    41.61589287703248
+],
+  "geometry": {"coordinates":[[[23.79340786855255,41.61556403553885],[23.79260127695301,41.61201663817013],[23.78905936157531,41.6125098464376],[23.7884546469794,41.60984925908559],[23.78727404612516,41.6100136257312],[23.78646793547881,41.60646614555969],[23.78764847136972,41.60630178993995],[23.78744694719995,41.60541491919935],[23.78508590233844,41.60574361100822],[23.78488441853887,41.60485673337399],[23.78016232708092,41.60551393894872],[23.7811695001709,41.60994836841644],[23.78235011257891,41.60978407412432],[23.78275306953151,41.61155783073292],[23.78393370886806,41.61139351700962],[23.78433672987677,41.6131672625819],[23.7855173961425,41.6130029294261],[23.78571893473173,41.61388979738416],[23.78689961168169,41.61372544755142],[23.78710117441051,41.6146123113715],[23.78828186204424,41.61444794486158],[23.78848344891389,41.61533480454307],[23.79084483998577,41.61500602424746],[23.79104646724267,41.61589287703248],[23.79340786855255,41.61556403553885]]],"type":"Polygon"}
+}

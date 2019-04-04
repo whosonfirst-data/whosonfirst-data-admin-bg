@@ -1,0 +1,125 @@
+{
+  "id": 101798107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":1068396.890058,
+    "geom:bbox":"25.0491233658,42.13314392,25.0658328676,42.1440998132",
+    "geom:latitude":42.138625,
+    "geom:longitude":25.057267,
+    "iso:country":"BG",
+    "lbl:latitude":42.138991,
+    "lbl:longitude":25.057426,
+    "mps:latitude":42.138991,
+    "mps:longitude":25.057426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:eng_x_colloquial":[
+        "Papaklu",
+        "Papaklue",
+        "Papazlu",
+        "Papazlue"
+    ],
+    "name:eng_x_preferred":[
+        "Popovitsa"
+    ],
+    "name:eng_x_variant":[
+        "Papakl\u00fc",
+        "Papasli",
+        "Papazli",
+        "Papazlii",
+        "Papazliy",
+        "Papazl\u00fc",
+        "Popovica",
+        "Popowiza"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Popowica"
+    ],
+    "name:rum_x_preferred":[
+        "Popovi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Popovitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Popowiza"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+    "qs:a1_alt":"Plovdiv",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0421\u0435\u043b\u0446\u0438",
+    "qs:la_lc":"*BGPDV2866127",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u043e\u043f\u043e\u0432\u0438\u0446\u0430",
+    "qs:loc_alt":"Popovitsa",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03723f44-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728077,
+        "gp:id":838895,
+        "qs:id":6,
+        "wd:id":"Q2461008"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9ee12107c20da322ee33707eca941e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798107,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":101798107,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641930,
+    "wof:name":"\u041f\u043e\u043f\u043e\u0432\u0438\u0446\u0430",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.04912336578013,
+    42.13314391997284,
+    25.06583286761622,
+    42.14409981320972
+],
+  "geometry": {"coordinates":[[[25.06583286761622,42.14230315446406],[25.06538608758154,42.14053710576388],[25.06419825385615,42.14071682846833],[25.06308153950721,42.13630166561808],[25.06426929138041,42.13612195815227],[25.06404595851711,42.13523892419641],[25.06167048129169,42.13559831905201],[25.06144718995608,42.13471527752426],[25.06025945838928,42.1348949509329],[25.0600361922111,42.13401190488094],[25.05647300933327,42.13455083207805],[25.05624980104852,42.13366777541006],[25.05387434747087,42.13402698420879],[25.05365118071006,42.13314391997284],[25.05246346097277,42.13332350035466],[25.05268661136478,42.13420656763583],[25.04912336578013,42.13474523402448],[25.05023900393905,42.13916059395444],[25.05142684053845,42.13898103724927],[25.05187319004233,42.1407471647961],[25.05306105317709,42.14056758801684],[25.05395392312914,42.14409981320972],[25.06583286761622,42.14230315446406]]],"type":"Polygon"}
+}

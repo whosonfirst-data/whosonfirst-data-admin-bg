@@ -1,0 +1,106 @@
+{
+  "id": 101797307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000146,
+    "geom:area_square_m":1297491.218526,
+    "geom:bbox":"22.8650911741,44.0299156175,22.8841588518,44.0416396725",
+    "geom:latitude":44.035943,
+    "geom:longitude":22.875162,
+    "iso:country":"BG",
+    "lbl:latitude":44.035326,
+    "lbl:longitude":22.876887,
+    "mps:latitude":44.035326,
+    "mps:longitude":22.876887,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u0442\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Kapitanovtsi"
+    ],
+    "name:eng_x_variant":[
+        "Kapitanovci",
+        "Kapitanowzi"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u0442\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:rum_x_preferred":[
+        "Kapitanov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u0442\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kapitanovtsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043f\u0456\u0442\u0430\u043d\u043e\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Kapitanovci"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0412\u0438\u0434\u0438\u043d",
+    "qs:a1_alt":"Vidin",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u0430\u043f\u0438\u0442\u0430\u043d\u043e\u0432\u0446\u0438",
+    "qs:la_lc":"*BGVID0936141",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0430\u043f\u0438\u0442\u0430\u043d\u043e\u0432\u0446\u0438",
+    "qs:loc_alt":"Kapitanovtsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03713e46-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730638,
+        "gp:id":836958,
+        "qs:id":404333,
+        "wd:id":"Q1078502"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"392756712eded1e1fc3e63175f5b76da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797307,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":101797307,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513899841,
+    "wof:name":"\u041a\u0430\u043f\u0438\u0442\u0430\u043d\u043e\u0432\u0446\u0438",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86509117411083,
+    44.0299156174629,
+    22.88415885184747,
+    44.04163967254328
+],
+  "geometry": {"coordinates":[[[22.8751183412769,44.0410216924962],[22.87491672124742,44.04013482105415],[22.882302291656,44.03920742890193],[22.88210057020137,44.03832057290811],[22.88333145961008,44.03816595914191],[22.88292800491217,44.03639224911257],[22.88415885184747,44.03623762627325],[22.88294857621787,44.03091648409389],[22.88048709571791,44.03122568185603],[22.88028544854501,44.03033881508634],[22.87659323824465,44.03080249375],[22.87639165413844,44.0299156174629],[22.87146869736927,44.03053363989255],[22.87227479090183,44.03408118222126],[22.86858229194246,44.03454457877973],[22.86878378111123,44.03543146968656],[22.86509117411083,44.03589474295399],[22.86609846944793,44.04032922112214],[22.86732943576379,44.04017479746551],[22.8675309378512,44.04106168674002],[22.86999288930883,44.04075279000909],[22.8701944362096,44.04163967254328],[22.8751183412769,44.0410216924962]]],"type":"Polygon"}
+}

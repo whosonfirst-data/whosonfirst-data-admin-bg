@@ -1,0 +1,146 @@
+{
+  "id": 101799211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":948665.493034,
+    "geom:bbox":"25.6387846938,41.7732096748,25.663753608,41.7841639827",
+    "geom:latitude":41.777956,
+    "geom:longitude":25.648565,
+    "gn:population":610,
+    "iso:country":"BG",
+    "lbl:latitude":41.776606,
+    "lbl:longitude":25.645633,
+    "mps:latitude":41.776606,
+    "mps:longitude":25.645633,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Stambolovo"
+    ],
+    "name:eng_x_variant":[
+        "Eller",
+        "Stambolowo",
+        "Stambolovo Municipality"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10d0\u10db\u10d1\u10dd\u10da\u10dd\u10d5\u10dd"
+    ],
+    "name:kat_x_variant":[
+        "\u10e1\u10e2\u10d0\u10db\u10d1\u10dd\u10da\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Stambo\u0142owo"
+    ],
+    "name:pol_x_variant":[
+        "Gmina Stambo\u0142owo"
+    ],
+    "name:ron_x_preferred":[
+        "Stambolovo"
+    ],
+    "name:ron_x_variant":[
+        "Comuna Stambolovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Eller"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Eller"
+    ],
+    "name:war_x_preferred":[
+        "Stambolovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5766\u535a\u6d1b\u6c83"
+    ],
+    "name:zho_x_variant":[
+        "\u65af\u5766\u535a\u6d1b\u6c83\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
+    "qs:a1_alt":"Haskovo",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e",
+    "qs:la_lc":"*BGHKV3068727",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e",
+    "qs:loc_alt":"Stambolovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":315.0,
+    "wd:latitude":41.766667,
+    "wd:longitude":25.65,
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372c374-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726888,
+        "gp:id":839821,
+        "qs:id":405088,
+        "qs_pg:id":405088,
+        "wd:id":"Q2598206",
+        "wk:page":"Stambolovo, Haskovo Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"788bbd1cf2b8bfc0df7c50636db5d742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799211,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":101799211,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641682,
+    "wof:name":"\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:population":610,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6387846937655,
+    41.77320967475805,
+    25.66375360797673,
+    41.78416398268473
+],
+  "geometry": {"coordinates":[[[25.64746919383691,41.78077292841147],[25.64700993547655,41.77900936831702],[25.65172829741681,41.77826348340784],[25.65218768374115,41.78002701848311],[25.65454689073272,41.77965398038191],[25.65477662934535,41.78053573933971],[25.66185419440296,41.77941627372491],[25.6613945342317,41.77765279180761],[25.66375360797673,41.77727953827764],[25.66352375937578,41.7763978012531],[25.66116471761245,41.77677104852387],[25.66093490997071,41.77588930369012],[25.65857587487244,41.77626248928368],[25.65880565053192,41.77714424037572],[25.65526700244783,41.77770392424065],[25.65503727476494,41.7768221637632],[25.65031905271098,41.77756820243013],[25.64985975220759,41.77580465180586],[25.64868021286651,41.77599112057959],[25.64799137736622,41.77334577364559],[25.64327334868028,41.7740914726711],[25.6430438187524,41.77320967475805],[25.64068479846435,41.77358243488959],[25.64091429640553,41.77446423905349],[25.63973476078684,41.7746506014617],[25.63996425169915,41.77553240720283],[25.6387846937655,41.77571875888054],[25.63901417764788,41.77660056619874],[25.6401937515771,41.77641421139589],[25.64134138545904,41.78082320914251],[25.64252103304932,41.78063682485509],[25.64343936557225,41.78416398268473],[25.64579876976961,41.78379114752681],[25.64556914118589,41.78290936664507],[25.64674881779706,41.78272293140697],[25.64628955554662,41.78095937125232],[25.64746919383691,41.78077292841147]]],"type":"Polygon"}
+}

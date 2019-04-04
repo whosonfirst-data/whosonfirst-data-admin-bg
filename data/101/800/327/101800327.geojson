@@ -1,0 +1,115 @@
+{
+  "id": 101800327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":629143.614086,
+    "geom:bbox":"23.8299515252,41.5657510384,23.8423876984,41.5751136483",
+    "geom:latitude":41.570555,
+    "geom:longitude":23.836037,
+    "iso:country":"BG",
+    "lbl:latitude":41.57046,
+    "lbl:longitude":23.835943,
+    "mps:latitude":41.57046,
+    "mps:longitude":23.835943,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u044a\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Dabnitsa"
+    ],
+    "name:ceb_x_preferred":[
+        "D\u016dbnitsa"
+    ],
+    "name:eng_x_preferred":[
+        "Dabnitsa"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u044b\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:mac_x_preferred":[
+        "\u0414\u0430\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "D\u0103bni\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "D\u0103bni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044b\u0431\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "D\u016dbnitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0438\u0431\u043d\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "D\u0103bniza"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0414\u044a\u0431\u043d\u0438\u0446\u0430",
+    "qs:la_lc":"*BGBLG1324267",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u044a\u0431\u043d\u0438\u0446\u0430",
+    "qs:loc_alt":"Dabnitsa",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":322,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731871,
+        "gp:id":836001,
+        "qs:id":404076,
+        "wd:id":"Q2653490",
+        "wk:page":"Dabnitsa"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c4926f67370e79916a3b055328e26e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800327,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800327,
+    "wof:lastmodified":1527715093,
+    "wof:name":"\u0414\u044a\u0431\u043d\u0438\u0446\u0430",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82995152516139,
+    41.56575103835098,
+    23.84238769835559,
+    41.5751136482595
+],
+  "geometry": {"coordinates":[[[23.84238769835559,41.57395900575506],[23.84178130753963,41.57129869951808],[23.84060154210852,41.57146368187807],[23.84039944386171,41.57057690759279],[23.839219689066,41.57074187328243],[23.83820939747818,41.56630796722163],[23.83585003321781,41.56663782925176],[23.83564803102541,41.56575103835098],[23.8321089914964,41.56624571881645],[23.83231094508005,41.56713251800323],[23.82995152516139,41.56746224097412],[23.83035539122199,41.56923584623269],[23.83153513637319,41.56907098617734],[23.83234302816061,41.57261816900285],[23.83352283257119,41.57245328399233],[23.83412888304218,41.5751136482595],[23.84238769835559,41.57395900575506]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293913965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.45,42.9,27.45,42.9",
+    "geom:latitude":42.9,
+    "geom:longitude":27.45,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"VAR13",
+    "gn:asciiname":"Bulair",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732809,
+    "gn:latitude":42.9,
+    "gn:longitude":27.45,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bulair",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043b\u0430\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Bjelibe",
+        "Byelibe",
+        "Belibe",
+        "Byelaya Belibe",
+        "Byala Reka",
+        "Byelovo",
+        "Bulair"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732809
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4dc7d4e3f6a7e3338ddb3bb3a3fb3630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293913965,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1293913965,
+    "wof:lastmodified":1537587727,
+    "wof:name":"Bulair",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.45,
+    42.9,
+    27.45,
+    42.9
+],
+  "geometry": {"coordinates":[27.45,42.9],"type":"Point"}
+}

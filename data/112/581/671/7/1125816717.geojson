@@ -1,0 +1,105 @@
+{
+  "id": 1125816717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71667,41.68333,24.71667,41.68333",
+    "geom:latitude":41.68333,
+    "geom:longitude":24.71667,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":41.68333,
+    "lbl:longitude":24.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
+    ],
+    "name:eng_x_preferred":[
+        "Progled"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
+    ],
+    "name:rum_x_preferred":[
+        "Progled"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":727938,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Progled",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Smolyan",
+    "qs_pg:photos":287,
+    "qs_pg:photos_1k":58,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":287,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1167307,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":839008,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Smolyan",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727938,
+        "gp:id":839008,
+        "qs_pg:id":1167307,
+        "wd:id":"Q2020163"
+    },
+    "wof:country":"BG",
+    "wof:created":1497291874,
+    "wof:geomhash":"f6a87f064b497be9d91f99f6c49737e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125816717,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1125816717,
+    "wof:lastmodified":1513899769,
+    "wof:name":"Progled",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71667,
+    41.68333,
+    24.71667,
+    41.68333
+],
+  "geometry": {"coordinates":[24.71667,41.68333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343697437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18333,41.76667,25.18333,41.76667",
+    "geom:latitude":41.76667,
+    "geom:longitude":25.18333,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ35",
+    "gn:admin3_code":"KRZ35-08",
+    "gn:asciiname":"Zhenda",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725362,
+    "gn:latitude":41.76667,
+    "gn:longitude":25.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zhenda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0416\u0435\u043d\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shenda",
+        "Yashl\u016d K\u2019oy",
+        "Zhenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725362
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9626a8fbf8281c67bfd56be86cf2ef52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343697437,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1343697437,
+    "wof:lastmodified":1537587239,
+    "wof:name":"Zhenda",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18333,
+    41.76667,
+    25.18333,
+    41.76667
+],
+  "geometry": {"coordinates":[25.18333,41.76667],"type":"Point"}
+}

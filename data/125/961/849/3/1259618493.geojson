@@ -1,0 +1,77 @@
+{
+  "id": 1259618493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.10889,43.33056,23.10889,43.33056",
+    "geom:latitude":43.33056,
+    "geom:longitude":23.10889,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"MON02",
+    "gn:admin3_code":"MON02-06",
+    "gn:asciiname":"Gaganitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731540,
+    "gn:latitude":43.33056,
+    "gn:longitude":23.10889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gaganitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0433\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gaganiza",
+        "Gaganica",
+        "Gaganitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731540,
+        "wk:page":"Gaganitsa"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e4b7b5946f9f8cbd4aec078d9639b805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259618493,
+            "region_id":85681821
+        }
+    ],
+    "wof:id":1259618493,
+    "wof:lastmodified":1537587641,
+    "wof:name":"Gaganitsa",
+    "wof:parent_id":85681821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.10889,
+    43.33056,
+    23.10889,
+    43.33056
+],
+  "geometry": {"coordinates":[23.10889,43.33056],"type":"Point"}
+}

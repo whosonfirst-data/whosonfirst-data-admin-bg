@@ -1,0 +1,122 @@
+{
+  "id": 101798373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":818606.904897,
+    "geom:bbox":"24.2749890443,43.0315239741,24.2995671153,43.039653087",
+    "geom:latitude":43.035979,
+    "geom:longitude":24.287979,
+    "iso:country":"BG",
+    "lbl:latitude":43.036102,
+    "lbl:longitude":24.28798,
+    "mps:latitude":43.036102,
+    "mps:longitude":24.28798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440"
+    ],
+    "name:bul_x_variant":[
+        "Balgarski Izvor"
+    ],
+    "name:eng_x_colloquial":[
+        "Baelgarski Iswor",
+        "Balgarski Iswor",
+        "Bthlgarski Izvor",
+        "Btlgarski Izvor"
+    ],
+    "name:eng_x_preferred":[
+        "Bulgarski Izvor"
+    ],
+    "name:eng_x_variant":[
+        "Balgarski Izvor",
+        "B\u00e6lgarski Iswor",
+        "B\u00felgarski Izvor",
+        "Turski-Izvor",
+        "Balgarski izvor"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103lgarski Izvor"
+    ],
+    "name:rum_x_preferred":[
+        "B\u0103lgarski Izvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u043b\u0433\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u0406\u0437\u0432\u043e\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Turski-Izvor"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041b\u043e\u0432\u0435\u0447",
+    "qs:a1_alt":"Lovech",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440",
+    "qs:la_lc":"*BGLOV3307357",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440",
+    "qs:loc_alt":"Balgarski izvor",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037056f2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732794,
+        "gp:id":836789,
+        "qs:id":2,
+        "qs_pg:id":1084877,
+        "wd:id":"Q1088129"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"dcbaec6f788d61c60d18640cdf578da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798373,
+            "region_id":85681811
+        }
+    ],
+    "wof:id":101798373,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641935,
+    "wof:name":"\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440",
+    "wof:parent_id":85681811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.27498904431013,
+    43.03152397414578,
+    24.29956711532606,
+    43.03965308702868
+],
+  "geometry": {"coordinates":[[[24.28793019421948,43.03931128697434],[24.28771285855782,43.03842704875569],[24.29495598636402,43.03740132409098],[24.29473855623303,43.03651710235977],[24.29956711532606,43.03583301254014],[24.29891467087521,43.03318037485536],[24.29770759197987,43.03335140977418],[24.2974901451089,43.03246719149729],[24.29507600310171,43.03280921259352],[24.2952934155897,43.0336934368234],[24.29046498842052,43.03437731976351],[24.29024764470307,43.03349308362993],[24.28783342831929,43.0338349335687],[24.28739883577191,43.03206644529661],[24.28498466337749,43.03240822628271],[24.28476741454455,43.03152397414578],[24.28356033624817,43.03169484026972],[24.28421205727255,43.03434760149958],[24.28300492119985,43.03451846228199],[24.28343941100275,43.03628696887807],[24.27981786243998,43.03679948348343],[24.27938347581625,43.03503095904489],[24.27817631496816,43.03520176277055],[24.27861066719737,43.03697029315595],[24.27498904431013,43.0374826365823],[24.27520618187793,43.03836690864324],[24.27641341289922,43.03819613879341],[24.27663057636562,43.0390804065147],[24.28145950731266,43.03839717256812],[24.28167674827813,43.03928142702796],[24.28529843303573,43.03876884285995],[24.28551573430127,43.03965308702868],[24.28793019421948,43.03931128697434]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293237265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.68333,43.11667,26.68333,43.11667",
+    "geom:latitude":43.11667,
+    "geom:longitude":26.68333,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"DOB15",
+    "gn:admin3_code":"DOB15-36",
+    "gn:asciiname":"Metodievo",
+    "gn:country_code":"BG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729139,
+    "gn:latitude":43.11667,
+    "gn:longitude":26.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Metodievo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0442\u043e\u0434\u0438\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chaushovo",
+        "Metodiewo",
+        "Chaushkioy",
+        "Metodievo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729139
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5c833523637bb065b980522236a38435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293237265,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1293237265,
+    "wof:lastmodified":1537587486,
+    "wof:name":"Metodievo",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68333,
+    43.11667,
+    26.68333,
+    43.11667
+],
+  "geometry": {"coordinates":[26.68333,43.11667],"type":"Point"}
+}

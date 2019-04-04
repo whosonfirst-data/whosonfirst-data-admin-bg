@@ -1,0 +1,75 @@
+{
+  "id": 1260221095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35,42.95,25.35,42.95",
+    "geom:latitude":42.95,
+    "geom:longitude":25.35,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB05",
+    "gn:asciiname":"Uzunite",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726074,
+    "gn:latitude":42.95,
+    "gn:longitude":25.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Uzunite",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0423\u0437\u0443\u043d\u0438\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Uzunit\u016d",
+        "Uzunite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726074,
+        "wk:page":"Uzunite"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"187bdb1d5f0483dc7883cc8223b58632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260221095,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1260221095,
+    "wof:lastmodified":1537587288,
+    "wof:name":"Uzunite",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35,
+    42.95,
+    25.35,
+    42.95
+],
+  "geometry": {"coordinates":[25.35,42.95],"type":"Point"}
+}

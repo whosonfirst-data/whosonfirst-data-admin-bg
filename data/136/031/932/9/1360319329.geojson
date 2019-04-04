@@ -1,0 +1,68 @@
+{
+  "id": 1360319329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.98333,43.35,26.98333,43.35",
+    "geom:latitude":43.35,
+    "geom:longitude":26.98333,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Kabiyuk",
+    "gn:country_code":"BG",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730797,
+    "gn:latitude":43.35,
+    "gn:longitude":26.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kabiyuk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u044e\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730797
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"27b7deffbb017a298a844f17d0a909b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360319329,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1360319329,
+    "wof:lastmodified":1537587587,
+    "wof:name":"Kabiyuk",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.98333,
+    43.35,
+    26.98333,
+    43.35
+],
+  "geometry": {"coordinates":[26.98333,43.35],"type":"Point"}
+}

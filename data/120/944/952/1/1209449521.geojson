@@ -1,0 +1,74 @@
+{
+  "id": 1209449521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25,42.66667,25.25,42.66667",
+    "geom:latitude":42.66667,
+    "geom:longitude":25.25,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR24",
+    "gn:admin3_code":"SZR24-02",
+    "gn:asciiname":"Golyamo Dryanovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731298,
+    "gn:latitude":42.66667,
+    "gn:longitude":25.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Golyamo Dryanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bicherlii",
+        "Golem-Drenowo",
+        "Bigarliy",
+        "Asen",
+        "Golyamo Dryanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731298
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9496646250d462ae4c798f88d30242ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209449521
+        }
+    ],
+    "wof:id":1209449521,
+    "wof:lastmodified":1537587626,
+    "wof:name":"Golyamo Dryanovo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25,
+    42.66667,
+    25.25,
+    42.66667
+],
+  "geometry": {"coordinates":[25.25,42.66667],"type":"Point"}
+}

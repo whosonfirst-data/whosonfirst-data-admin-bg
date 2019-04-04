@@ -1,0 +1,76 @@
+{
+  "id": 1327262739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25,42.9,23.25,42.9",
+    "geom:latitude":42.9,
+    "geom:longitude":23.25,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO26",
+    "gn:admin3_code":"SFO26-05",
+    "gn:asciiname":"Tsarichina",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726261,
+    "gn:latitude":42.9,
+    "gn:longitude":23.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsarichina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0426\u0430\u0440\u0438\u0447\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zaritschina",
+        "Tsarichina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726261,
+        "wk:page":"Tsarichina"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e889d7f437ed54b459fa6db46428f2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327262739,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1327262739,
+    "wof:lastmodified":1537587300,
+    "wof:name":"Tsarichina",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25,
+    42.9,
+    23.25,
+    42.9
+],
+  "geometry": {"coordinates":[23.25,42.9],"type":"Point"}
+}

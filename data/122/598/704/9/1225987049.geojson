@@ -1,0 +1,78 @@
+{
+  "id": 1225987049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.31781,43.74322,28.31781,43.74322",
+    "geom:latitude":43.74322,
+    "geom:longitude":28.31781,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB12",
+    "gn:asciiname":"Vichovo",
+    "gn:country_code":"BG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725914,
+    "gn:latitude":43.74322,
+    "gn:longitude":28.31781,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Vichovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0438\u0447\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khyuseinch K\u2019oy",
+        "Wi\u010dowo",
+        "Ch\u00fcsseinkioi",
+        "Vichevo",
+        "Vicevo",
+        "Vichovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725914,
+        "wk:page":"Vichovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"07e7ddc7b085165704fc793b92688777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225987049,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1225987049,
+    "wof:lastmodified":1537587278,
+    "wof:name":"Vichovo",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.31781,
+    43.74322,
+    28.31781,
+    43.74322
+],
+  "geometry": {"coordinates":[28.31781,43.74322],"type":"Point"}
+}

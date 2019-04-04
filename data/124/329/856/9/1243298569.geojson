@@ -1,0 +1,78 @@
+{
+  "id": 1243298569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.31686,42.41095,27.31686,42.41095",
+    "geom:latitude":42.41095,
+    "geom:longitude":27.31686,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS08",
+    "gn:admin3_code":"BGS08-06",
+    "gn:asciiname":"Konstantinovo",
+    "gn:country_code":"BG",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728702,
+    "gn:latitude":42.41095,
+    "gn:longitude":27.31686,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Konstantinovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u043e\u0441\u0435\u043b\u0446\u0438"
+    ],
+    "name:bul_x_variant":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mandra",
+        "Konstantinowo",
+        "Novoseltsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728702
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"84987c6c4943e7554c9c2cac8f8e523d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243298569,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1243298569,
+    "wof:lastmodified":1537587459,
+    "wof:name":"Konstantinovo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.31686,
+    42.41095,
+    27.31686,
+    42.41095
+],
+  "geometry": {"coordinates":[27.31686,42.41095],"type":"Point"}
+}

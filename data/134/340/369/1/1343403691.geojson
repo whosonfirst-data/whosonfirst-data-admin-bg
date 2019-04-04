@@ -1,0 +1,78 @@
+{
+  "id": 1343403691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.88291,43.53975,27.88291,43.53975",
+    "geom:latitude":43.53975,
+    "geom:longitude":27.88291,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB15",
+    "gn:admin3_code":"DOB15-44",
+    "gn:asciiname":"Plachidol",
+    "gn:country_code":"BG",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728227,
+    "gn:latitude":43.53975,
+    "gn:longitude":27.88291,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Plachidol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043b\u0430\u0447\u0438\u0434\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Golyam Al\u016dch K\u2019oy",
+        "Aliciul-Mare",
+        "Golem-Al\u0103tsch",
+        "Pla\u010didol",
+        "Plachidol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728227,
+        "wk:page":"Plachi_Dol"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b41b1b168a2af14c20e5a0277c16dca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343403691,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1343403691,
+    "wof:lastmodified":1537587427,
+    "wof:name":"Plachidol",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.88291,
+    43.53975,
+    27.88291,
+    43.53975
+],
+  "geometry": {"coordinates":[27.88291,43.53975],"type":"Point"}
+}

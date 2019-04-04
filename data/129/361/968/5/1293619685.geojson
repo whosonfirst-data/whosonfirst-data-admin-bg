@@ -1,0 +1,77 @@
+{
+  "id": 1293619685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.73333,43.2,24.73333,43.2",
+    "geom:latitude":43.2,
+    "geom:longitude":24.73333,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"LOV18",
+    "gn:admin3_code":"LOV18-07",
+    "gn:asciiname":"Goran",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731282,
+    "gn:latitude":43.2,
+    "gn:longitude":24.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Goran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u043d\u0441\u043a\u0430 \u043f\u0430\u0434\u0438\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dolno Pavlikene",
+        "Pavlikene Polno",
+        "Dolno Pawlikene",
+        "Goran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731282
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"91f297374e111b4f53b0b2f081b86744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293619685,
+            "region_id":85681811
+        }
+    ],
+    "wof:id":1293619685,
+    "wof:lastmodified":1537587624,
+    "wof:name":"Goran",
+    "wof:parent_id":85681811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73333,
+    43.2,
+    24.73333,
+    43.2
+],
+  "geometry": {"coordinates":[24.73333,43.2],"type":"Point"}
+}

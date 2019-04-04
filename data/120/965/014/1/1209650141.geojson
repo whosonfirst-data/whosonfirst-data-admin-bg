@@ -1,0 +1,72 @@
+{
+  "id": 1209650141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21417,43.02,23.21417,43.02",
+    "geom:latitude":43.02,
+    "geom:longitude":23.21417,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO43",
+    "gn:admin3_code":"SFO43-03",
+    "gn:asciiname":"Breze",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732890,
+    "gn:latitude":43.02,
+    "gn:longitude":23.21417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Breze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u0435"
+    ],
+    "name:und_x_variant":[
+        "Brese",
+        "Bryeze",
+        "Breze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732890
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3b8612b5cacb1f63662f7f6ede9ca549",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209650141
+        }
+    ],
+    "wof:id":1209650141,
+    "wof:lastmodified":1537587733,
+    "wof:name":"Breze",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21417000000001,
+    43.02,
+    23.21417000000001,
+    43.02
+],
+  "geometry": {"coordinates":[23.21417000000001,43.02],"type":"Point"}
+}

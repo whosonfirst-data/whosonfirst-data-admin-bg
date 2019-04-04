@@ -1,0 +1,74 @@
+{
+  "id": 1343512857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.00675,41.4745,23.00675,41.4745",
+    "geom:latitude":41.4745,
+    "geom:longitude":23.00675,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG33",
+    "gn:asciiname":"Baskaltsi",
+    "gn:country_code":"BG",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733435,
+    "gn:latitude":41.4745,
+    "gn:longitude":23.00675,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Baskaltsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u0441\u043a\u0430\u043b\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Baskalzi",
+        "Baskaltsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733435,
+        "wk:page":"Baskaltsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"37787c0cfb30ca591ed8ae22ed9d4b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343512857,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1343512857,
+    "wof:lastmodified":1537587766,
+    "wof:name":"Baskaltsi",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.00675,
+    41.4745,
+    23.00675,
+    41.4745
+],
+  "geometry": {"coordinates":[23.00675,41.4745],"type":"Point"}
+}

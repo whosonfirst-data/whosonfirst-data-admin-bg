@@ -1,0 +1,77 @@
+{
+  "id": 1344191313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30333,43.28667,23.30333,43.28667",
+    "geom:latitude":43.28667,
+    "geom:longitude":23.30333,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"MON02",
+    "gn:asciiname":"Parlichevo",
+    "gn:country_code":"BG",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727897,
+    "gn:latitude":43.28667,
+    "gn:longitude":23.30333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Parlichevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u044a\u0440\u043b\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Parlichevo"
+    ],
+    "name:und_x_variant":[
+        "Mechit Makhala",
+        "P\u0103rlitschewo",
+        "P\u016drlichevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727897
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c7df4f9037c809b4dee535ee9e564191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1344191313,
+            "region_id":85681821
+        }
+    ],
+    "wof:id":1344191313,
+    "wof:lastmodified":1537587402,
+    "wof:name":"Parlichevo",
+    "wof:parent_id":85681821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30333,
+    43.28667,
+    23.30333,
+    43.28667
+],
+  "geometry": {"coordinates":[23.30333,43.28667],"type":"Point"}
+}

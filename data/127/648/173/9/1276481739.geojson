@@ -1,0 +1,74 @@
+{
+  "id": 1276481739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.34194,43.19417,23.34194,43.19417",
+    "geom:latitude":43.19417,
+    "geom:longitude":23.34194,
+    "gn:admin1_code":"47",
+    "gn:asciiname":"Dolna Bela Rechka",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732143,
+    "gn:latitude":43.19417,
+    "gn:longitude":23.34194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dolna Bela Rechka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0411\u0435\u043b\u0430 \u0420\u0435\u0447\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dolna Bela Retschka",
+        "Dolna Bela Rechka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732143,
+        "wk:page":"Dolna_Bela_Rechka"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1ab3c7e0066905ea93c81c0a6f2a1830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276481739,
+            "region_id":85681821
+        }
+    ],
+    "wof:id":1276481739,
+    "wof:lastmodified":1537587683,
+    "wof:name":"Dolna Bela Rechka",
+    "wof:parent_id":85681821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.34194,
+    43.19417,
+    23.34194,
+    43.19417
+],
+  "geometry": {"coordinates":[23.34194,43.19417],"type":"Point"}
+}

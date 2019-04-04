@@ -1,0 +1,74 @@
+{
+  "id": 1209243167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83333,41.96667,25.83333,41.96667",
+    "geom:latitude":41.96667,
+    "geom:longitude":25.83333,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV33",
+    "gn:admin3_code":"HKV33-16",
+    "gn:asciiname":"Polyanovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728114,
+    "gn:latitude":41.96667,
+    "gn:longitude":25.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Polyanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "B\u016dlgarsko Ovadzhik",
+        "Polyankovo",
+        "Ferdinandovo",
+        "Ferdinandowo",
+        "Polyanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728114
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"14217e9ee931bd320fc45d0e3ae81f35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209243167
+        }
+    ],
+    "wof:id":1209243167,
+    "wof:lastmodified":1537587418,
+    "wof:name":"Polyanovo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83333,
+    41.96667,
+    25.83333,
+    41.96667
+],
+  "geometry": {"coordinates":[25.83333,41.96667],"type":"Point"}
+}

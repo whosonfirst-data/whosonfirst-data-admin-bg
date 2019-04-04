@@ -1,0 +1,68 @@
+{
+  "id": 1360219367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35,41.4,25.35,41.4",
+    "geom:latitude":41.4,
+    "geom:longitude":25.35,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Dranderitsa",
+    "gn:country_code":"BG",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731932,
+    "gn:latitude":41.4,
+    "gn:longitude":25.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dranderitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0430\u043d\u0434\u0435\u0440\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731932
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"06f457ec452d8bc907cb867146ca9403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360219367,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1360219367,
+    "wof:lastmodified":1537587668,
+    "wof:name":"Dranderitsa",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35,
+    41.4,
+    25.35,
+    41.4
+],
+  "geometry": {"coordinates":[25.35,41.4],"type":"Point"}
+}

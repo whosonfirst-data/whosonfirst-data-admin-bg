@@ -1,0 +1,79 @@
+{
+  "id": 1327364355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35,42.81667,25.35,42.81667",
+    "geom:latitude":42.81667,
+    "geom:longitude":25.35,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Etara",
+    "gn:country_code":"BG",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731622,
+    "gn:latitude":42.81667,
+    "gn:longitude":25.35,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Etara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0415\u0442\u044a\u0440\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Etara"
+    ],
+    "name:und_x_variant":[
+        "J\u00e9tr",
+        "Eter",
+        "Et\u016dr",
+        "Et\u016dr\u016dt",
+        "Et\u0103r\u0103t",
+        "Et\u016dra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731622
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9eaa9158cfa42d5bed1a007b182f7497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327364355,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1327364355,
+    "wof:lastmodified":1537587647,
+    "wof:name":"Etara",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35,
+    42.81667,
+    25.35,
+    42.81667
+],
+  "geometry": {"coordinates":[25.35,42.81667],"type":"Point"}
+}

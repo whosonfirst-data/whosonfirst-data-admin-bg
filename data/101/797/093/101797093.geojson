@@ -1,0 +1,150 @@
+{
+  "id": 101797093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":818541.842114,
+    "geom:bbox":"23.0152603657,43.3740533639,23.0359009743,43.3907024613",
+    "geom:latitude":43.383601,
+    "geom:longitude":23.026545,
+    "gn:population":748,
+    "iso:country":"BG",
+    "lbl:latitude":43.382989,
+    "lbl:longitude":23.023965,
+    "mps:latitude":43.382989,
+    "mps:longitude":23.023965,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u043e\u0440\u0433\u0438 \u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u0435\u043e\u0440\u0433\u0438-\u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e",
+        "Georgi Damyanovo"
+    ],
+    "name:ceb_x_preferred":[
+        "Georgi-Damyanovo"
+    ],
+    "name:eng_x_colloquial":[
+        "Lopusna"
+    ],
+    "name:eng_x_preferred":[
+        "Georgi-Damyanovo"
+    ],
+    "name:eng_x_variant":[
+        "Georgi Damjanovo",
+        "Lopouchna",
+        "Lopuschna",
+        "Lopushna",
+        "Lopushnya",
+        "Lopu\u00b5na"
+    ],
+    "name:fra_x_preferred":[
+        "Gu\u00e9orgui Damyanovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b2\u30aa\u30eb\u30ae\u30fb\u30c0\u30df\u30e3\u30ce\u30f4\u30a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0435\u043e\u0440\u0433\u0438-\u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Georgi Damyanovo"
+    ],
+    "name:ron_x_preferred":[
+        "Gheorghi Dameanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043e\u0440\u0433\u0438-\u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Georgi-Damjanovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043e\u0440\u0433\u0456\u0439-\u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Georgi Damyanovo"
+    ],
+    "name:unk_x_variant":[
+        "Lopu\u0161na"
+    ],
+    "name:war_x_preferred":[
+        "Georgi Damyanovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5967\u723e\u57fa\u9054\u7c73\u4e9e\u6d1b\u6c83"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041c\u043e\u043d\u0442\u0430\u043d\u0430",
+    "qs:a1_alt":"Montana",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u0435\u043e\u0440\u0433\u0438 \u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e",
+    "qs:la_lc":"*BGMON1414773",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u0435\u043e\u0440\u0433\u0438 \u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e",
+    "qs:loc_alt":"Georgi Damyanovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":464.0,
+    "wd:latitude":43.383333,
+    "wd:longitude":23.033333,
+    "wd:wordcount":174,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0370e3ba-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":731458,
+        "gp:id":836318,
+        "qs:id":940194,
+        "qs_pg:id":940194,
+        "wd:id":"Q2597274",
+        "wk:page":"Georgi Damyanovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b8cae9328a5c837ee5542a1e5fe235e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797093,
+            "region_id":85681821
+        }
+    ],
+    "wof:id":101797093,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641532,
+    "wof:name":"\u0413\u0435\u043e\u0440\u0433\u0438 \u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e",
+    "wof:parent_id":85681821,
+    "wof:placetype":"locality",
+    "wof:population":748,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01526036570914,
+    43.37405336389617,
+    23.03590097431118,
+    43.39070246127119
+],
+  "geometry": {"coordinates":[[[23.03366715400097,43.39039019960506],[23.03346681030268,43.38950315819534],[23.03590097431118,43.38919084430609],[23.03529988551344,43.38652972915793],[23.03408285955607,43.3866858850613],[23.03388253054493,43.38579884144866],[23.03266551652308,43.38595498016912],[23.03226491823506,43.38418088372373],[23.03104793386524,43.38433700251039],[23.03084766458619,43.38344994967815],[23.02963069215247,43.38360605128304],[23.02943044868636,43.38271899446124],[23.02821348818918,43.38287507888504],[23.02801327053555,43.38198801807391],[23.02679632197533,43.38214408531718],[23.0265961301323,43.38125702051741],[23.02537919350937,43.38141307058021],[23.02477871968773,43.37875186050093],[23.02356183043082,43.37890788788496],[23.02336170638904,43.37802081263243],[23.02214482907016,43.3781768228381],[23.02154455862774,43.37551558140427],[23.0203277286713,43.37567156893454],[23.02012767241422,43.37478448323191],[23.01891085439576,43.37494045358517],[23.01871082393797,43.37405336389617],[23.01749401785844,43.37420931707311],[23.01769403060541,43.37509640950992],[23.01526036570914,43.37540827807345],[23.01546035111852,43.37629537476766],[23.01789405143927,43.37598350070886],[23.01809408036036,43.37687059066997],[23.01931093957518,43.37671462924914],[23.01951099429726,43.37760171522427],[23.02072786545187,43.3774457366257],[23.0215282360931,43.38099405715201],[23.02031129408141,43.38115004674518],[23.02111172331826,43.38469835846075],[23.02232873619823,43.38454235787066],[23.02252888145665,43.38542942995582],[23.02617993858883,43.38496133335025],[23.02638014509694,43.38584839594728],[23.0275971703025,43.38569233213298],[23.02859841289484,43.39012761279128],[23.03103262316267,43.38981541435743],[23.0312329314192,43.39070246127119],[23.03366715400097,43.39039019960506]]],"type":"Polygon"}
+}

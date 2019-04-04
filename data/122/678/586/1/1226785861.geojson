@@ -1,0 +1,80 @@
+{
+  "id": 1226785861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55,43.05,26.55,43.05",
+    "geom:latitude":43.05,
+    "geom:longitude":26.55,
+    "gn:admin1_code":"60",
+    "gn:admin2_code":"TGV22",
+    "gn:admin3_code":"TGV22-43",
+    "gn:asciiname":"Golyamo Tsarkvishte",
+    "gn:country_code":"BG",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731290,
+    "gn:latitude":43.05,
+    "gn:longitude":26.55,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Golyamo Tsarkvishte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u043e \u0426\u044a\u0440\u043a\u0432\u0438\u0449\u0435"
+    ],
+    "name:bul_x_variant":[
+        "Golyamo Tsarkvishte"
+    ],
+    "name:und_x_variant":[
+        "Golyemo Ts\u016drkvishte",
+        "Tekeler Sag\u016dr",
+        "Golemo Z\u0103rkwischte",
+        "Golyamo Tsurkovishte",
+        "Golyamo Ts\u016drkvishte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731290
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"37a8d071c2a98717c550bfaf8b597d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226785861,
+            "region_id":85681839
+        }
+    ],
+    "wof:id":1226785861,
+    "wof:lastmodified":1537587625,
+    "wof:name":"Golyamo Tsarkvishte",
+    "wof:parent_id":85681839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55,
+    43.05,
+    26.55,
+    43.05
+],
+  "geometry": {"coordinates":[26.55,43.05],"type":"Point"}
+}

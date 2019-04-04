@@ -1,0 +1,118 @@
+{
+  "id": 101800303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":269629.232934,
+    "geom:bbox":"23.8251391717,41.6494140656,23.8355684985,41.6558885159",
+    "geom:latitude":41.652724,
+    "geom:longitude":23.829606,
+    "iso:country":"BG",
+    "lbl:latitude":41.652318,
+    "lbl:longitude":23.829961,
+    "mps:latitude":41.652318,
+    "mps:longitude":23.829961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Gorno Dryanovo"
+    ],
+    "name:dut_x_preferred":[
+        "Gorno Dryanovo"
+    ],
+    "name:eng_x_preferred":[
+        "Gorno Dryanovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0414\u0440\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u0414\u0440\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Gorno Dreanovo"
+    ],
+    "name:rum_x_preferred":[
+        "Gorno Drianovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0414\u0440\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Gorno Dryanovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u0454 \u0414\u0440\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Gorno-Drenowo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u043e\u0440\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBLG1316763",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u043e\u0440\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e",
+    "qs:loc_alt":"Gorno Dryanovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":1225.0,
+    "wd:latitude":41.65,
+    "wd:longitude":23.833333,
+    "wd:wordcount":235,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731186,
+        "gp:id":836535,
+        "qs:id":1167292,
+        "qs_pg:id":1167292,
+        "wd:id":"Q2456316",
+        "wk:page":"Gorno Dryanovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"aa04e701edc9ef6dcc7f7a9dbf828fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800303,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800303,
+    "wof:lastmodified":1527715089,
+    "wof:name":"\u0413\u043e\u0440\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82513917171428,
+    41.64941406560155,
+    23.83556849847366,
+    41.65588851590974
+],
+  "geometry": {"coordinates":[[[23.83556849847366,41.65085762342949],[23.83536602739053,41.64997091577357],[23.83300350806121,41.65030078017958],[23.8328010774357,41.64941406560155],[23.83161982564866,41.64957897414564],[23.83182224001234,41.65046569149195],[23.82827840233216,41.65096034186558],[23.82848077583731,41.65184706613275],[23.8261181569153,41.65217676894622],[23.82632050582197,41.65306349736528],[23.82513917171428,41.65322833064761],[23.82574621721614,41.65588851590974],[23.82929034917191,41.65539394936803],[23.82908794394046,41.65450723063407],[23.83145063809832,41.65417745550008],[23.83124820826845,41.65329074091954],[23.83242953069765,41.65312583522888],[23.83222709253613,41.65223912203356],[23.83340839311154,41.65207420518379],[23.83320594661978,41.65118749337347],[23.83556849847366,41.65085762342949]]],"type":"Polygon"}
+}

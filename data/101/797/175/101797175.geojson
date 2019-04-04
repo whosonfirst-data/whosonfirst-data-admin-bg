@@ -1,0 +1,138 @@
+{
+  "id": 101797175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000215,
+    "geom:bbox":"25.1837964804,43.2298107951,25.2087236717,43.2485886159",
+    "geom:latitude":43.239732,
+    "geom:longitude":25.199089,
+    "iso:country":"BG",
+    "lbl:latitude":43.239546,
+    "lbl:longitude":25.201166,
+    "mps:latitude":43.239546,
+    "mps:longitude":25.201166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u041f\u0430\u0432\u043b\u0438\u043a\u0435\u043d\u0438"
+    ],
+    "name:bul_x_variant":[
+        "\u0412\u044a\u0440\u0431\u043e\u0432\u043a\u0430",
+        "Varbovka"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Pavlikeni"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Pavlikeni"
+    ],
+    "name:eng_x_colloquial":[
+        "Vthrbovka",
+        "Vtrbovka",
+        "Waerbowka",
+        "Warbowka"
+    ],
+    "name:eng_x_preferred":[
+        "Vurbovka"
+    ],
+    "name:eng_x_variant":[
+        "Varbovka",
+        "Verbovka",
+        "Vrbovka",
+        "V\u00ferbovka",
+        "W\u00e6rbowka"
+    ],
+    "name:fra_x_preferred":[
+        "Pavlikeni"
+    ],
+    "name:ita_x_preferred":[
+        "Pavlikeni"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10d5\u10da\u10d8\u10d9\u10d4\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Pawlikeni"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Pavlikeni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u0438\u043a\u0435\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Pavlikeni"
+    ],
+    "name:unk_x_variant":[
+        "Vrbovka"
+    ],
+    "name:vie_x_preferred":[
+        "Pavlikeni"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u592b\u5229\u51f1\u5c3c\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+    "qs:a1_alt":"Veliko Tarnovo",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u0412\u044a\u0440\u0431\u043e\u0432\u043a\u0430",
+    "qs:la_lc":"*BGVTR2212783",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u044a\u0440\u0431\u043e\u0432\u043a\u0430",
+    "qs:loc_alt":"Varbovka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":206,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03738520-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":725641,
+        "gp:id":840738,
+        "qs:id":405363,
+        "wd:id":"Q2715489"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"914f6fae1ca02886a307f2cb4a827ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797175,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":101797175,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641526,
+    "wof:name":"\u0412\u044a\u0440\u0431\u043e\u0432\u043a\u0430",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18379648040633,
+    43.22981079511487,
+    25.2087236717403,
+    43.24858861592105
+],
+  "geometry": {"coordinates":[[[25.18956257026952,43.24840690656964],[25.18933024901855,43.24752527352649],[25.19174874255162,43.24716181837215],[25.19151639628495,43.24628019022919],[25.19998079426767,43.24500767003121],[25.20021326068229,43.24588927594726],[25.20746830280154,43.24479796894178],[25.20653808121415,43.24127161281575],[25.20774716300139,43.24108969109682],[25.20751461375647,43.24020810161579],[25.2087236717403,43.2400261688104],[25.20686347614242,43.23297342614978],[25.20565455539258,43.23315533354202],[25.20542209003912,43.2322737310044],[25.20421317979861,43.23245562095923],[25.20351589110015,43.22981079511487],[25.20109815360252,43.23017451318793],[25.20133053955016,43.2310561296037],[25.19770383205332,43.23160160927762],[25.19793617586009,43.23248323376691],[25.19672724292997,43.23266503497587],[25.19742427877628,43.23530990926719],[25.19258827481133,43.23603700956716],[25.19305287469632,43.23780027723944],[25.19184382279343,43.23798202300384],[25.19254074099803,43.2406269231646],[25.19133163097683,43.24080866418649],[25.1920285815296,43.24345356082722],[25.19081941338283,43.24363529710638],[25.19105173170101,43.24451692959622],[25.18379648040633,43.24560706673236],[25.18402870504781,43.24648871681472],[25.18523794736029,43.24630705978433],[25.18570245891522,43.24807034925823],[25.18812099229092,43.24770697970388],[25.18835329637477,43.24858861592105],[25.18956257026952,43.24840690656964]]],"type":"Polygon"}
+}

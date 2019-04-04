@@ -1,0 +1,83 @@
+{
+  "id": 1226074551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.79497,44.06099,26.79497,44.06099",
+    "geom:latitude":44.06099,
+    "geom:longitude":26.79497,
+    "gn:admin1_code":"55",
+    "gn:admin2_code":"SLS07",
+    "gn:admin3_code":"SLS07-24",
+    "gn:asciiname":"Dolno Ryahovo",
+    "gn:country_code":"BG",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732049,
+    "gn:latitude":44.06099,
+    "gn:longitude":26.79497,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Dolno Ryahovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0420\u044f\u0445\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Dolno Ryahovo"
+    ],
+    "name:und_x_variant":[
+        "Rjachowo",
+        "Dolno Oryekhovo",
+        "Rakhun Oryekhovo",
+        "Dolino Ryakovo",
+        "Ryakhovo",
+        "Rachun Orechowo",
+        "Rahova de Jos",
+        "Dolno Ryakhovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732049
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7abda2151c79dbec58ab602b2b0c042c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226074551,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1226074551,
+    "wof:lastmodified":1537587676,
+    "wof:name":"Dolno Ryahovo",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.79497000000001,
+    44.06099,
+    26.79497000000001,
+    44.06099
+],
+  "geometry": {"coordinates":[26.79497000000001,44.06099],"type":"Point"}
+}

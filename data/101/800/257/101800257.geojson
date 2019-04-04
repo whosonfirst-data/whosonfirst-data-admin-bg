@@ -1,0 +1,107 @@
+{
+  "id": 101800257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":359505.016744,
+    "geom:bbox":"25.503796706,41.6687002553,25.51340398,41.6766407459",
+    "geom:latitude":41.67273,
+    "geom:longitude":25.509023,
+    "iso:country":"BG",
+    "lbl:latitude":41.672667,
+    "lbl:longitude":25.509096,
+    "mps:latitude":41.672667,
+    "mps:longitude":25.509096,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0425\u0438\u0442\u0440\u0438\u043d\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Chitrino"
+    ],
+    "name:fra_x_preferred":[
+        "Khitrino"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d8\u10e2\u10e0\u10d8\u10dc\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Chitrino"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Hitrino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u0442\u0440\u0438\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Wissoko Poljana"
+    ],
+    "name:vie_x_preferred":[
+        "Hitrino"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u7279\u91cc\u8afe\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u0412\u0438\u0441\u043e\u043a\u0430 \u043f\u043e\u043b\u044f\u043d\u0430",
+    "qs:la_lc":"*BGKRZ1611243",
+    "qs:level":"locality",
+    "qs:loc":"\u0412\u0438\u0441\u043e\u043a\u0430 \u043f\u043e\u043b\u044f\u043d\u0430",
+    "qs:loc_alt":"Visoka polyana",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":223,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725858,
+        "gp:id":840569
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1ed189ee4642ec6b718b44549d2367f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800257,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101800257,
+    "wof:lastmodified":1527715085,
+    "wof:name":"\u0412\u0438\u0441\u043e\u043a\u0430 \u043f\u043e\u043b\u044f\u043d\u0430",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50379670598795,
+    41.66870025527868,
+    25.51340398004891,
+    41.67664074594239
+],
+  "geometry": {"coordinates":[[[25.51340398004891,41.67520408984717],[25.51226899954554,41.67079276021104],[25.50991319196805,41.67116233347423],[25.50968625433154,41.670280056747],[25.50850835713561,41.67046481953179],[25.50805454031911,41.66870025527868],[25.50687666878372,41.6688849980452],[25.50710355681741,41.66976728403165],[25.5047477631424,41.67013673423349],[25.50497462812893,41.67101902486161],[25.50379670598795,41.67120373229619],[25.50402356387531,41.67208602447579],[25.50520150196655,41.67190131395103],[25.50588217659094,41.67454817198831],[25.50823812977279,41.67417869088177],[25.50846507092439,41.67506096763549],[25.50964305411037,41.67487620323368],[25.51009699488299,41.67664074594239],[25.5124530063473,41.67627116325741],[25.51222599962847,41.6753888988556],[25.51340398004891,41.67520408984717]]],"type":"Polygon"}
+}

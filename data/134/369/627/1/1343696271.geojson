@@ -1,0 +1,75 @@
+{
+  "id": 1343696271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41667,42.05,24.41667,42.05",
+    "geom:latitude":42.05,
+    "geom:longitude":24.41667,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"PAZ06",
+    "gn:admin3_code":"PAZ06-04",
+    "gn:asciiname":"Kozarsko",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730028,
+    "gn:latitude":42.05,
+    "gn:longitude":24.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kozarsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0437\u0430\u0440\u0441\u043a\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kosarsko",
+        "Kozarsko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730028
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0b391be9533ec1009f9ee1a69888c97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343696271,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":1343696271,
+    "wof:lastmodified":1537587542,
+    "wof:name":"Kozarsko",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41667,
+    42.05,
+    24.41667,
+    42.05
+],
+  "geometry": {"coordinates":[24.41667,42.05],"type":"Point"}
+}

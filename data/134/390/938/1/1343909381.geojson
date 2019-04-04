@@ -1,0 +1,71 @@
+{
+  "id": 1343909381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68333,41.75,23.68333,41.75",
+    "geom:latitude":41.75,
+    "geom:longitude":23.68333,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG01",
+    "gn:admin3_code":"BLG01-04",
+    "gn:asciiname":"Mesta",
+    "gn:country_code":"BG",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729145,
+    "gn:latitude":41.75,
+    "gn:longitude":23.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mesta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0441\u0442\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729145,
+        "wk:page":"Mesta%2C_Bulgaria"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"58ed600f9aa28e24fea0480604659bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343909381,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1343909381,
+    "wof:lastmodified":1537587487,
+    "wof:name":"Mesta",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68333,
+    41.75,
+    23.68333,
+    41.75
+],
+  "geometry": {"coordinates":[23.68333,41.75],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101796277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:area_square_m":668749.170649,
+    "geom:bbox":"27.4750280087,43.7370190095,27.4894555066,43.7465612265",
+    "geom:latitude":43.741537,
+    "geom:longitude":27.481774,
+    "iso:country":"BG",
+    "lbl:latitude":43.741282,
+    "lbl:longitude":27.481774,
+    "mps:latitude":43.741282,
+    "mps:longitude":27.481774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043f\u0433\u0440\u0443\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Popgruevo"
+    ],
+    "name:eng_x_preferred":[
+        "Popgruevo"
+    ],
+    "name:eng_x_variant":[
+        "Cogcolar",
+        "Kodzha Olar",
+        "Popgruewo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043f\u0433\u0440\u0443\u0435\u0432\u043e"
+    ],
+    "name:por_x_preferred":[
+        "Popgruevo"
+    ],
+    "name:ron_x_preferred":[
+        "Popgruevo"
+    ],
+    "name:rum_x_preferred":[
+        "Popgruevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0433\u0440\u0443\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Popgruevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u0433\u0440\u0443\u0454\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Kodzha Olar"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0414\u043e\u0431\u0440\u0438\u0447",
+    "qs:a1_alt":"Dobrich",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041f\u043e\u043f\u0433\u0440\u0443\u0435\u0432\u043e",
+    "qs:la_lc":"*BGDOB2757563",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u043e\u043f\u0433\u0440\u0443\u0435\u0432\u043e",
+    "qs:loc_alt":"Popgruevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03723e0e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728089,
+        "gp:id":838887,
+        "qs:id":8,
+        "wd:id":"Q1081741",
+        "wk:page":"Popgruevo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"cddeda176cb6d5e7092bb349887991d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101796277,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":101796277,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642035,
+    "wof:name":"\u041f\u043e\u043f\u0433\u0440\u0443\u0435\u0432\u043e",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.47502800867022,
+    43.73701900954046,
+    27.48945550658516,
+    43.74656122652732
+],
+  "geometry": {"coordinates":[[[27.47907891711338,43.74635212695893],[27.47880810778838,43.7454777722142],[27.48002128892205,43.74526866207896],[27.47975047347006,43.74439430932875],[27.48945550658516,43.74272094485923],[27.48837180959396,43.73922363475015],[27.48715877565809,43.73943284044469],[27.48688789559645,43.73855850502406],[27.48567487087877,43.73876769279588],[27.48513317736706,43.73701900954046],[27.48270717258401,43.73743732763882],[27.48297797991489,43.73831167746658],[27.47569967703453,43.73956631198888],[27.47624112035066,43.74131505072745],[27.47502800867022,43.74152411398194],[27.47638172219547,43.74589594974788],[27.47759491887956,43.74568686810414],[27.47786571120236,43.74656122652732],[27.47907891711338,43.74635212695893]]],"type":"Polygon"}
+}

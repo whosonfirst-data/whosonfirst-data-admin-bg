@@ -1,0 +1,74 @@
+{
+  "id": 1226683351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.64177,43.29305,27.64177,43.29305",
+    "geom:latitude":43.29305,
+    "geom:longitude":27.64177,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"VAR26",
+    "gn:asciiname":"Prosechen",
+    "gn:country_code":"BG",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727927,
+    "gn:latitude":43.29305,
+    "gn:longitude":27.64177,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Prosechen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u043e\u0441\u0435\u0447\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Boaz Kesen",
+        "Prossetschen",
+        "Prosechen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727927
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6f227eabbd6f38de306bc35188befded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226683351,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1226683351,
+    "wof:lastmodified":1537587404,
+    "wof:name":"Prosechen",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.64177,
+    43.29305,
+    27.64177,
+    43.29305
+],
+  "geometry": {"coordinates":[27.64177,43.29305],"type":"Point"}
+}

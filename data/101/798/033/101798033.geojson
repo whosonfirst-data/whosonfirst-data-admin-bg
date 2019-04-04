@@ -1,0 +1,140 @@
+{
+  "id": 101798033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:bbox":"23.3612929843,42.5271909811,23.3728965021,42.5424299219",
+    "geom:latitude":42.535551,
+    "geom:longitude":23.367422,
+    "iso:country":"BG",
+    "lbl:latitude":42.535488,
+    "lbl:longitude":23.367818,
+    "mps:latitude":42.535488,
+    "mps:longitude":23.367818,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kratovo Op\u0161tina"
+    ],
+    "name:fra_x_preferred":[
+        "Kratovo"
+    ],
+    "name:hbs_x_preferred":[
+        "Op\u0161tina Kratovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Op\u0107ina Kratovo"
+    ],
+    "name:ita_x_preferred":[
+        "Kratovo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d0\u10e2\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub77c\ud1a0\ubcf4 \uc2dc"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Kratowo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Kratovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Komuna e Kratov\u00ebs"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kratovo Op\u0161tina"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041a\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Kratova Belediyesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Shelesniza"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0631\u062a\u0648\u0648 \u0628\u0644\u062f\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u6258\u6c83\u5340"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430)",
+    "qs:a1_alt":"Sofia (stolitsa)",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u0446\u0430",
+    "qs:la_lc":"*BGSOF4629150",
+    "qs:level":"locality",
+    "qs:loc":"\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u0446\u0430",
+    "qs:loc_alt":"Zheleznitsa",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725374,
+        "gp:id":840953,
+        "qs:id":894020,
+        "wd:id":"Q1992716"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"00b7c2f93f0590aa971943da5be9f069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798033,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":101798033,
+    "wof:lastmodified":1527641933,
+    "wof:name":"\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u0446\u0430",
+    "wof:parent_id":85681771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36129298433201,
+    42.52719098110953,
+    23.372896502054,
+    42.54242992190922
+],
+  "geometry": {"coordinates":[[[23.3668995839667,42.54227017013284],[23.3666990030431,42.54138316945119],[23.37149648085028,42.54074403151145],[23.3716971297718,42.54163102119173],[23.372896502054,42.54147119849802],[23.37189325234971,42.5370362507997],[23.37069396505444,42.53719605973998],[23.370092162079,42.53453506720808],[23.37129139839016,42.53437526651874],[23.37089020235248,42.53260127047179],[23.36969100002784,42.53276106566113],[23.36928986991899,42.53098705889352],[23.36809069591408,42.53114683440282],[23.36789015982839,42.53025982631181],[23.36669099715203,42.53041958489132],[23.36628998291155,42.52864555929597],[23.36509084855459,42.52880529819754],[23.36489037039803,42.5279182806936],[23.36369124737013,42.52807800266669],[23.3634907941842,42.52719098110953],[23.3622916824857,42.52735068615459],[23.36249211868119,42.52823771045962],[23.36129298433201,42.52839740407262],[23.36149341151605,42.52928442982062],[23.36269256285658,42.52912473346009],[23.36289301501205,42.53001175515567],[23.36409217768289,42.52985204186632],[23.36469363301325,42.53251309087983],[23.36349441936363,42.53267281241449],[23.36389539550674,42.53444684406372],[23.36509464314486,42.53428711703157],[23.365896759213,42.53783515367849],[23.36469744359016,42.53799489170694],[23.36509851553666,42.53976890770133],[23.3638991602528,42.53992863704536],[23.36430023014157,42.54170265332061],[23.36549961942507,42.54154291847766],[23.36570018334822,42.54242992190922],[23.3668995839667,42.54227017013284]]],"type":"Polygon"}
+}

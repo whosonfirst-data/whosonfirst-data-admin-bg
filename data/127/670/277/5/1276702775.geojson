@@ -1,0 +1,89 @@
+{
+  "id": 1276702775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.83837,43.86472,27.83837,43.86472",
+    "geom:latitude":43.86472,
+    "geom:longitude":27.83837,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB20",
+    "gn:asciiname":"Dobrin",
+    "gn:country_code":"BG",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732207,
+    "gn:latitude":43.86472,
+    "gn:longitude":27.83837,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Dobrin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0438\u043d"
+    ],
+    "name:ota_x_preferred":[
+        "\u062f\u0648\u0647 \u062c\u06cc"
+    ],
+    "name:tur_x_preferred":[
+        "Deveci"
+    ],
+    "name:und_x_variant":[
+        "Kamilare",
+        "Devedzhi K\u2019oy",
+        "Camilarul",
+        "Camilaru",
+        "Dobrin",
+        "Dewedshikioi",
+        "Khadzhi K\u2019oy",
+        "Hagichioi",
+        "Chadshikioi",
+        "Blagovets",
+        "Blagovec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732207,
+        "wk:page":"Dobrin%2C_Bulgaria"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0ce1909e122a49758f33c8412f1ea365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276702775,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1276702775,
+    "wof:lastmodified":1537587687,
+    "wof:name":"Dobrin",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.83837,
+    43.86472,
+    27.83837,
+    43.86472
+],
+  "geometry": {"coordinates":[27.83837,43.86472],"type":"Point"}
+}

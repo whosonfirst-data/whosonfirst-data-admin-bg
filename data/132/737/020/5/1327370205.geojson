@@ -1,0 +1,76 @@
+{
+  "id": 1327370205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.31667,42.15,26.31667,42.15",
+    "geom:latitude":42.15,
+    "geom:longitude":26.31667,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV32",
+    "gn:asciiname":"Dobroselets",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732191,
+    "gn:latitude":42.15,
+    "gn:longitude":26.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dobroselets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0441\u0435\u043b\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Yavuz Dere",
+        "Dobrosselez",
+        "Dobroselets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732191,
+        "wk:page":"Dobroselets"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3f11ca14d73fa68406a90286119d6a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327370205,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1327370205,
+    "wof:lastmodified":1537587686,
+    "wof:name":"Dobroselets",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.31667,
+    42.15,
+    26.31667,
+    42.15
+],
+  "geometry": {"coordinates":[26.31667,42.15],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309940663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38333,42.83333,25.38333,42.83333",
+    "geom:latitude":42.83333,
+    "geom:longitude":25.38333,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Genchovtsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731481,
+    "gn:latitude":42.83333,
+    "gn:longitude":25.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Genchovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u043d\u0447\u043e\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Genchevtsi",
+        "Genchevts\u016d",
+        "Gentschowzi",
+        "Genchovtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731481,
+        "wk:page":"Genchovtsi%2C_Gabrovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9368bed6d53d84d4fc87642575e9eb91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309940663,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1309940663,
+    "wof:lastmodified":1537587638,
+    "wof:name":"Genchovtsi",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38333,
+    42.83333,
+    25.38333,
+    42.83333
+],
+  "geometry": {"coordinates":[25.38333,42.83333],"type":"Point"}
+}

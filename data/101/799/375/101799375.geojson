@@ -1,0 +1,113 @@
+{
+  "id": 101799375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000142,
+    "geom:area_square_m":1298088.9555,
+    "geom:bbox":"24.4759882358,42.1005546402,24.492181838,42.1161113732",
+    "geom:latitude":42.107186,
+    "geom:longitude":24.484474,
+    "iso:country":"BG",
+    "lbl:latitude":42.107071,
+    "lbl:longitude":24.484351,
+    "mps:latitude":42.107071,
+    "mps:longitude":24.484351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bos_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:eng_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:eng_x_variant":[
+        "Eni K'oy",
+        "Nowosselo",
+        "Vzemen Orman"
+    ],
+    "name:fra_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:hbs_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Novo Selo"
+    ],
+    "name:unk_x_variant":[
+        "Eni K\u2019oy"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+    "qs:a1_alt":"Plovdiv",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e",
+    "qs:la_lc":"*BGPDV4152221",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e",
+    "qs:loc_alt":"Novo selo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371f746-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728715,
+        "gp:id":838397,
+        "qs:id":5
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f108b121af2bac2dbbceeae3914dafc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799375,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":101799375,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641694,
+    "wof:name":"\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47598823581802,
+    42.10055464017256,
+    24.4921818380061,
+    42.11611137316731
+],
+  "geometry": {"coordinates":[[[24.49011927900392,42.11593847581452],[24.48883087750056,42.11063095857781],[24.49120802606086,42.11028515705652],[24.49099328916668,42.1094005717344],[24.4921818380061,42.10922765289547],[24.49132290920016,42.10568930909977],[24.49013442621504,42.10586221620224],[24.48991973163169,42.10497762375832],[24.48873125912712,42.10515051392008],[24.48808727552358,42.10249671924203],[24.48927569864406,42.10232383788019],[24.48884638561731,42.10055464017256],[24.478150658586,42.1021100154058],[24.47836516272116,42.10299464136085],[24.47598823581802,42.1033401320895],[24.47706071865974,42.10776326982648],[24.47824926742368,42.10759051680992],[24.47889290798355,42.1102443735802],[24.48008150017074,42.11007159775988],[24.48029608040486,42.11095621090476],[24.48148468308068,42.11078341814311],[24.4819139018598,42.11255263429842],[24.48547977281243,42.11203415436228],[24.4861238126515,42.11468794152137],[24.48731247374496,42.11451507805668],[24.48752718708556,42.11539966799501],[24.4887158586647,42.11522678758672],[24.48893059693899,42.11611137316731],[24.49011927900392,42.11593847581452]]],"type":"Polygon"}
+}

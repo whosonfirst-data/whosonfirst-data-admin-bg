@@ -1,0 +1,76 @@
+{
+  "id": 1327270965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71667,41.66667,25.71667,41.66667",
+    "geom:latitude":41.66667,
+    "geom:longitude":25.71667,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV30",
+    "gn:admin3_code":"HKV30-26",
+    "gn:asciiname":"Madzhari",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729429,
+    "gn:latitude":41.66667,
+    "gn:longitude":25.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Madzhari",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0434\u0436\u0430\u0440\u0438"
+    ],
+    "name:und_x_variant":[
+        "Madshari",
+        "Madzharlar",
+        "Madzhari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729429
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a7e3d71899926b60a0339dd62080ce52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327270965,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1327270965,
+    "wof:lastmodified":1537587505,
+    "wof:name":"Madzhari",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71667,
+    41.66667,
+    25.71667,
+    41.66667
+],
+  "geometry": {"coordinates":[25.71667,41.66667],"type":"Point"}
+}

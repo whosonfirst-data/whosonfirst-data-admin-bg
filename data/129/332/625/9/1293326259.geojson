@@ -1,0 +1,79 @@
+{
+  "id": 1293326259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.61667,42.56667,25.61667,42.56667",
+    "geom:latitude":42.56667,
+    "geom:longitude":25.61667,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR22",
+    "gn:admin3_code":"SZR22-18",
+    "gn:asciiname":"Yulievo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725493,
+    "gn:latitude":42.56667,
+    "gn:longitude":25.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yulievo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u042e\u043b\u0438\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Dolno Sofulare",
+        "Yuliev",
+        "Dolni Sofilari",
+        "Dolni Maderzi",
+        "Dolni M\u016ddretsi",
+        "Yulievo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725493
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"36be4559121e3c8bce8390693d211110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293326259,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1293326259,
+    "wof:lastmodified":1537587249,
+    "wof:name":"Yulievo",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.61667000000001,
+    42.56667,
+    25.61667000000001,
+    42.56667
+],
+  "geometry": {"coordinates":[25.61667000000001,42.56667],"type":"Point"}
+}

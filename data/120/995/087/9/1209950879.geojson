@@ -1,0 +1,81 @@
+{
+  "id": 1209950879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3479,43.51373,23.3479,43.51373",
+    "geom:latitude":43.51373,
+    "geom:longitude":23.3479,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"MON04",
+    "gn:admin3_code":"MON04-09",
+    "gn:asciiname":"Marchevo",
+    "gn:country_code":"BG",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728920,
+    "gn:latitude":43.51373,
+    "gn:longitude":23.3479,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Marchevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u044a\u0440\u0447\u0435\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Marchevo"
+    ],
+    "name:und_x_variant":[
+        "Golemo M\u0103rtschewo",
+        "M\u0103r\u0107evo",
+        "Malko M\u0103rtschewo",
+        "Merchevo",
+        "Martchevo",
+        "M\u016drchevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728920
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"dad0ad63443088892cecb28bbdb33ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1209950879,
+            "region_id":85681821
+        }
+    ],
+    "wof:id":1209950879,
+    "wof:lastmodified":1537587472,
+    "wof:name":"Marchevo",
+    "wof:parent_id":85681821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3479,
+    43.51373,
+    23.3479,
+    43.51373
+],
+  "geometry": {"coordinates":[23.3479,43.51373],"type":"Point"}
+}

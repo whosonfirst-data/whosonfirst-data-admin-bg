@@ -1,0 +1,84 @@
+{
+  "id": 1193189099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.69235,43.95431,27.69235,43.95431",
+    "geom:latitude":43.95431,
+    "geom:longitude":27.69235,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB20",
+    "gn:asciiname":"Kapitan Dimitrovo",
+    "gn:country_code":"BG",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730639,
+    "gn:latitude":43.95431,
+    "gn:longitude":27.69235,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Kapitan Dimitrovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u0442\u0430\u043d-\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Kapitan Dimitrovo",
+        "\u041a\u0430\u043f\u0438\u0442\u0430\u043d \u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Cadiul",
+        "Korna Kadieva",
+        "Kapitan",
+        "Kadievo",
+        "Kapitan Dimilrovo",
+        "Gorno Kadievo",
+        "Kapitan Dmitrowo",
+        "Kad\u0103kioi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730639,
+        "wk:page":"Kapitan_Dimitrovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b3053f508329fefae9d54e20b23c160d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1193189099,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1193189099,
+    "wof:lastmodified":1537587577,
+    "wof:name":"Kapitan Dimitrovo",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.69235,
+    43.95431,
+    27.69235,
+    43.95431
+],
+  "geometry": {"coordinates":[27.69235,43.95431],"type":"Point"}
+}

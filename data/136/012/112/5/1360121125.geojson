@@ -1,0 +1,75 @@
+{
+  "id": 1360121125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48739,42.32485,22.48739,42.32485",
+    "geom:latitude":42.32485,
+    "geom:longitude":22.48739,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL29",
+    "gn:asciiname":"Kutugertsi",
+    "gn:country_code":"BG",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729743,
+    "gn:latitude":42.32485,
+    "gn:longitude":22.48739,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kutugertsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0442\u0443\u0433\u0435\u0440\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kutugeron",
+        "Kutugerzi",
+        "Kutugertsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729743,
+        "wk:page":"Kutugertsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5e8973793a13331fe882f1e69ed82875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360121125,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1360121125,
+    "wof:lastmodified":1537587524,
+    "wof:name":"Kutugertsi",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48739,
+    42.32485,
+    22.48739,
+    42.32485
+],
+  "geometry": {"coordinates":[22.48739,42.32485],"type":"Point"}
+}

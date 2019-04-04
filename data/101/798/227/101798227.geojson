@@ -1,0 +1,111 @@
+{
+  "id": 101798227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000113,
+    "geom:area_square_m":1028345.355641,
+    "geom:bbox":"24.0422113316,42.6557446879,24.0618385504,42.6679239882",
+    "geom:latitude":42.660989,
+    "geom:longitude":24.053275,
+    "gn:population":1398,
+    "iso:country":"BG",
+    "lbl:latitude":42.660812,
+    "lbl:longitude":24.05558,
+    "mps:latitude":42.660812,
+    "mps:longitude":24.05558,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0424\u041a \u0427\u0430\u0432\u0434\u0430\u0440"
+    ],
+    "name:bul_x_variant":[
+        "\u0427\u0430\u0432\u0434\u0430\u0440"
+    ],
+    "name:eng_x_preferred":[
+        "Chavdar"
+    ],
+    "name:eng_x_variant":[
+        "Kolanlare",
+        "Kolanlari",
+        "Radoslavo",
+        "Radoslavovo",
+        "Radoslawowo"
+    ],
+    "name:lit_x_preferred":[
+        "PFK \u010cavdar Etropole"
+    ],
+    "name:nld_x_preferred":[
+        "FC Chavdar Etropole"
+    ],
+    "name:unk_x_variant":[
+        "Kolanlare"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043e\u0444\u0438\u044f",
+    "qs:a1_alt":"Sofia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0427\u0430\u0432\u0434\u0430\u0440",
+    "qs:la_lc":"*BGSFO5780011",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u0430\u0432\u0434\u0430\u0440",
+    "qs:loc_alt":"Chavdar",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":301,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037062d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732655,
+        "gp:id":835384,
+        "qs:id":1272279,
+        "qs_pg:id":1272279,
+        "wd:id":"Q2301724"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a7ed8fcdc006d470eaf3eaadf34fb231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798227,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":101798227,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641924,
+    "wof:name":"\u0427\u0430\u0432\u0434\u0430\u0440",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:population":1398,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04221133160314,
+    42.65574468794364,
+    24.06183855036755,
+    42.66792398819513
+],
+  "geometry": {"coordinates":[[[24.05986134036704,42.66337526554702],[24.0594380762185,42.661604924431],[24.06183855036755,42.66126882685546],[24.06078036793144,42.65684297920404],[24.05838006333477,42.65717904780917],[24.05816848603774,42.65629386839925],[24.05576819142135,42.65662987450787],[24.05555665645687,42.65574468794364],[24.054356517131,42.65591266683822],[24.05456803514141,42.65679785629811],[24.0521677046417,42.65713377735017],[24.05237919716564,42.65801897123987],[24.04397773338854,42.6591942686232],[24.04418911563357,42.66007948141447],[24.04298886565311,42.66024732722582],[24.0434116214808,42.66201775451486],[24.04221133160314,42.66218559193601],[24.04242270518472,42.66307080643395],[24.04482331288403,42.66273511162512],[24.04503472880754,42.66362031897449],[24.05223651017434,42.66261287690321],[24.05350579321089,42.66792398819513],[24.05590654268462,42.66758802599134],[24.05527176147922,42.66493249384939],[24.05887268815979,42.66442847027611],[24.05866106040077,42.66354329886349],[24.05986134036704,42.66337526554702]]],"type":"Polygon"}
+}

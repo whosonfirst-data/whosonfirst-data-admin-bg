@@ -1,0 +1,123 @@
+{
+  "id": 101800285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":749029.31923,
+    "geom:bbox":"25.492066094,41.2996213953,25.50228415,41.3157337954",
+    "geom:latitude":41.30793,
+    "geom:longitude":25.497198,
+    "iso:country":"BG",
+    "lbl:latitude":41.312391,
+    "lbl:longitude":25.497276,
+    "mps:latitude":41.312391,
+    "mps:longitude":25.497276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043c\u0438\u0440 \u0417\u0430\u0432\u0438\u0434\u043e\u0432\u0438\u0447"
+    ],
+    "name:bul_x_variant":[
+        "\u0422\u0438\u0445\u043e\u043c\u0438\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Tihomir"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03c7\u03bf\u03bc\u03af\u03c1 \u0396\u03b1\u03b2\u03b9\u03bd\u03c4\u03cc\u03b2\u03b9\u03c4\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Tihomir"
+    ],
+    "name:fra_x_preferred":[
+        "Tihomir"
+    ],
+    "name:ita_x_preferred":[
+        "Tihomir Zavidovi\u0107"
+    ],
+    "name:nld_x_preferred":[
+        "Tihomir"
+    ],
+    "name:pol_x_preferred":[
+        "Tihomir"
+    ],
+    "name:por_x_preferred":[
+        "Est\u00eav\u00e3o Tihomir"
+    ],
+    "name:rum_x_preferred":[
+        "Tihomir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043c\u0438\u0440"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043c\u0438\u0440 \u0417\u0430\u0432\u0438\u0434\u043e\u0432\u0438\u045b"
+    ],
+    "name:swe_x_preferred":[
+        "Tichomir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0445\u043e\u043c\u0438\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Tischomir"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u0422\u0438\u0445\u043e\u043c\u0438\u0440",
+    "qs:la_lc":"*BGKRZ1472463",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u0438\u0445\u043e\u043c\u0438\u0440",
+    "qs:loc_alt":"Tihomir",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":472,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726455,
+        "gp:id":837930,
+        "wd:id":"Q4458548"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"90afdffa02adfdb2d85776c3d6473d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800285,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101800285,
+    "wof:lastmodified":1553815511,
+    "wof:name":"\u0422\u0438\u0445\u043e\u043c\u0438\u0440",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49206609395867,
+    41.29962139527277,
+    25.50228414998946,
+    41.31573379538219
+],
+  "geometry": {"coordinates":[[[25.50228414998946,41.30701214106716],[25.5016105248576,41.30436410639385],[25.50043938961818,41.30454860518734],[25.50021488102442,41.30366592080219],[25.49787262359496,41.30403487103507],[25.49719924425085,41.30138679023298],[25.49837032892594,41.30120233115758],[25.49814587085677,41.30031963750889],[25.49697480187984,41.30050409352879],[25.49675036821338,41.29962139527277],[25.49206609395867,41.30035906966793],[25.49251484440629,41.30212448906798],[25.49368595353849,41.30194008497949],[25.49480806046813,41.3063535910569],[25.49715041739773,41.30598471108522],[25.49804838526347,41.30951546357505],[25.49453465225565,41.31006879958051],[25.49498359420716,41.3118341848533],[25.49381230622623,41.31201860880248],[25.49403677455638,41.31290130216803],[25.49286546475167,41.31308571542354],[25.49353887486654,41.31573379538219],[25.49939559832353,41.31481154576369],[25.49917104103821,41.31392886927779],[25.50034235166504,41.31374438116131],[25.49989323181421,41.31197902964885],[25.50106450490995,41.3117945338974],[25.50016630691329,41.30826382447975],[25.50133751107518,41.30807932720751],[25.50111296764777,41.3071966490304],[25.50228414998946,41.30701214106716]]],"type":"Polygon"}
+}

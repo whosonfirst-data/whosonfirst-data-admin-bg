@@ -1,0 +1,76 @@
+{
+  "id": 1276265581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.03587,43.70222,23.03587,43.70222",
+    "geom:latitude":43.70222,
+    "geom:longitude":23.03587,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"VID33",
+    "gn:asciiname":"Dinkovo",
+    "gn:country_code":"BG",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732245,
+    "gn:latitude":43.70222,
+    "gn:longitude":23.03587,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dinkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khasanova Makhala",
+        "Borissowo",
+        "Khasan Makhala",
+        "Borisovo",
+        "Dinkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732245
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0a1a22e260f30d99af081792d4ed142a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276265581,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1276265581,
+    "wof:lastmodified":1537587691,
+    "wof:name":"Dinkovo",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.03587000000001,
+    43.70222,
+    23.03587000000001,
+    43.70222
+],
+  "geometry": {"coordinates":[23.03587000000001,43.70222],"type":"Point"}
+}

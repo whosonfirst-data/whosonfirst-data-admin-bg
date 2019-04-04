@@ -1,0 +1,75 @@
+{
+  "id": 1360121005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5346,41.34134,25.5346,41.34134",
+    "geom:latitude":41.34134,
+    "geom:longitude":25.5346,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ14",
+    "gn:admin3_code":"KRZ14-24",
+    "gn:asciiname":"Malkoch",
+    "gn:country_code":"BG",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729341,
+    "gn:latitude":41.34134,
+    "gn:longitude":25.5346,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Malkoch",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e\u0447"
+    ],
+    "name:und_x_variant":[
+        "Malkotsch",
+        "M\u016dlkoch Dere",
+        "Malkoch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729341
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"75a523795c87497e16ba8c8787097084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360121005,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1360121005,
+    "wof:lastmodified":1537587499,
+    "wof:name":"Malkoch",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5346,
+    41.34134,
+    25.5346,
+    41.34134
+],
+  "geometry": {"coordinates":[25.5346,41.34134],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293718855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.47289,42.95067,25.47289,42.95067",
+    "geom:latitude":42.95067,
+    "geom:longitude":25.47289,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB12",
+    "gn:asciiname":"Gorni Dragoycha",
+    "gn:country_code":"BG",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731214,
+    "gn:latitude":42.95067,
+    "gn:longitude":25.47289,
+    "gn:modification_date":"2013-02-11",
+    "gn:name":"Gorni Dragoycha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438 \u0414\u0440\u0430\u0433\u043e\u0439\u0447\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731214,
+        "wk:page":"Gorni_Dragoycha"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"011d4d47febebba7bae57d33581b7bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293718855,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1293718855,
+    "wof:lastmodified":1537587619,
+    "wof:name":"Gorni Dragoycha",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.47289,
+    42.95067,
+    25.47289,
+    42.95067
+],
+  "geometry": {"coordinates":[25.47289,42.95067],"type":"Point"}
+}

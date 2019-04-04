@@ -1,0 +1,74 @@
+{
+  "id": 1276689741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55507,43.58381,22.55507,43.58381",
+    "geom:latitude":43.58381,
+    "geom:longitude":22.55507,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID01",
+    "gn:asciiname":"Krachimir",
+    "gn:country_code":"BG",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729998,
+    "gn:latitude":43.58381,
+    "gn:longitude":22.55507,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Krachimir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0430\u0447\u0438\u043c\u0438\u0440"
+    ],
+    "name:und_x_variant":[
+        "Krachemir",
+        "Krachimir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729998,
+        "wk:page":"Krachimir"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9bd0d64f39073a98b4e755466a5a58d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276689741,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1276689741,
+    "wof:lastmodified":1537587540,
+    "wof:name":"Krachimir",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55507,
+    43.58381,
+    22.55507,
+    43.58381
+],
+  "geometry": {"coordinates":[22.55507,43.58381],"type":"Point"}
+}

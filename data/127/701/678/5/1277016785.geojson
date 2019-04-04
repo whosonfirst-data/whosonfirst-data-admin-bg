@@ -1,0 +1,76 @@
+{
+  "id": 1277016785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5,42.61667,22.5,42.61667",
+    "geom:latitude":42.61667,
+    "geom:longitude":22.5,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL50",
+    "gn:asciiname":"Dragoychintsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731945,
+    "gn:latitude":42.61667,
+    "gn:longitude":22.5,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dragoychintsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0439\u0447\u0438\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dragoichintsi",
+        "Dragoitschinzi",
+        "Dragoychintsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731945,
+        "wk:page":"Dragoychintsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4cfeb8209b435bb70098f9ab56b2f46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1277016785,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1277016785,
+    "wof:lastmodified":1537587668,
+    "wof:name":"Dragoychintsi",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5,
+    42.61667,
+    22.5,
+    42.61667
+],
+  "geometry": {"coordinates":[22.5,42.61667],"type":"Point"}
+}

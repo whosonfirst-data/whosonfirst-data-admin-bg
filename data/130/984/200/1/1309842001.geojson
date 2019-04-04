@@ -1,0 +1,74 @@
+{
+  "id": 1309842001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43409,41.4534,25.43409,41.4534",
+    "geom:latitude":41.4534,
+    "geom:longitude":25.43409,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Lehchevo",
+    "gn:country_code":"BG",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11340241,
+    "gn:latitude":41.4534,
+    "gn:longitude":25.43409,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lehchevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Lehchevo"
+    ],
+    "name:bul_x_variant":[
+        "\u041b\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Lekhchevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11340241
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"de8b1477c8320449f189ca010c18b23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309842001,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1309842001,
+    "wof:lastmodified":1537587797,
+    "wof:name":"Lehchevo",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43409,
+    41.4534,
+    25.43409,
+    41.4534
+],
+  "geometry": {"coordinates":[25.43409,41.4534],"type":"Point"}
+}

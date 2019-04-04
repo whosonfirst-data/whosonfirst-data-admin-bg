@@ -1,0 +1,108 @@
+{
+  "id": 101800265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":389469.362323,
+    "geom:bbox":"25.2704557073,41.597518984,25.2852509168,41.6035179414",
+    "geom:latitude":41.601014,
+    "geom:longitude":25.277794,
+    "iso:country":"BG",
+    "lbl:latitude":41.601052,
+    "lbl:longitude":25.276561,
+    "mps:latitude":41.601052,
+    "mps:longitude":25.276561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0439\u043d\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Boyno"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10dd\u10d8\u10dc\u10dd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d8\u10dc\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0439\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Bojno"
+    ],
+    "name:ron_x_preferred":[
+        "Boino"
+    ],
+    "name:rum_x_preferred":[
+        "Boino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0439\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0439\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Ismailer"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u043e\u0439\u043d\u043e",
+    "qs:la_lc":"*BGKRZ1605205",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u043e\u0439\u043d\u043e",
+    "qs:loc_alt":"Boyino",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732971,
+        "gp:id":837209,
+        "qs:id":7,
+        "wd:id":"Q1082142"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"cf7e6360bf9e829cf9a6b652685bf997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800265,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101800265,
+    "wof:lastmodified":1527715092,
+    "wof:name":"\u0411\u043e\u0439\u043d\u043e",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27045570732093,
+    41.59751898403408,
+    25.28525091678756,
+    41.60351794137989
+],
+  "geometry": {"coordinates":[[[25.27841113916276,41.60351794137989],[25.28429701106921,41.60260774315839],[25.28407377674222,41.60172477232243],[25.28525091678756,41.60154269421889],[25.28480444235538,41.59977675407185],[25.27891884030998,41.60068697583898],[25.27869569588387,41.59980398827929],[25.27751857303861,41.59998598809187],[25.27729545326105,41.59910299597226],[25.27611834023656,41.59928497891121],[25.27567215867515,41.59751898403408],[25.27331797803737,41.59788289625249],[25.27376409580995,41.59964890328877],[25.27140982688331,41.60001277233243],[25.27163286692024,41.60089577965164],[25.27045570732093,41.60107769646214],[25.27067874010623,41.60196070530259],[25.27303308507942,41.60159685176859],[25.27325615846303,41.60247985301123],[25.27561051083296,41.60211593806076],[25.27583362481641,41.60299893170429],[25.27818798457866,41.6026349553365],[25.27841113916276,41.60351794137989]]],"type":"Polygon"}
+}

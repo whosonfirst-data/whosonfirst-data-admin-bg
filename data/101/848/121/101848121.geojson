@@ -1,0 +1,123 @@
+{
+  "id": 101848121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000057,
+    "geom:area_square_m":529303.172335,
+    "geom:bbox":"25.667837205,41.461169096,25.6776158011,41.4733309094",
+    "geom:latitude":41.46661,
+    "geom:longitude":25.673032,
+    "iso:country":"BG",
+    "lbl:latitude":41.466079,
+    "lbl:longitude":25.673514,
+    "mps:latitude":41.466079,
+    "mps:longitude":25.673514,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a \u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Polkovnik Zhelyazovo"
+    ],
+    "name:eng_x_variant":[
+        "Kara Demirler",
+        "Polkovnik Zheljazovo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10dd\u10da\u10d9\u10dd\u10d5\u10dc\u10d8\u10d9-\u10df\u10d4\u10da\u10d8\u10d0\u10d6\u10dd\u10d5\u10dd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10da\u10d9\u10dd\u10d5\u10dc\u10d8\u10d9-\u10df\u10d4\u10da\u10d8\u10d0\u10d6\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a-\u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e"
+    ],
+    "name:may_x_preferred":[
+        "Polkovnik Zhelyazovo"
+    ],
+    "name:msa_x_preferred":[
+        "Polkovnik Zhelyazovo"
+    ],
+    "name:ron_x_preferred":[
+        "Polkovnik Jeleazovo"
+    ],
+    "name:rum_x_preferred":[
+        "Polkovnik Jeleazovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a-\u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "K\u0131ylak\u00fc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a-\u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Kara Demirler"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u0430\u043c\u0435\u043d\u043a\u0430",
+    "qs:la_lc":"*BGKRZ1535849",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a \u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e",
+    "qs:loc_alt":"Polkovnik Zhelyazovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037238aa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728130,
+        "gp:id":838852,
+        "qs:id":4,
+        "wd:id":"Q2654267",
+        "wk:page":"Polkovnik Zhelyazovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2473716f76ef476f1b8e1ea1d17d9ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101848121,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101848121,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527714814,
+    "wof:name":"\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a \u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66783720496869,
+    41.46116909604262,
+    25.67761580110522,
+    41.47333090935319
+],
+  "geometry": {"coordinates":[[[25.67761580110522,41.47207559455688],[25.67533508571694,41.46325538621119],[25.67298776620999,41.46362862048187],[25.6725317925787,41.46186454764347],[25.67135815502252,41.46205113790882],[25.67113019726867,41.46116909604262],[25.66878293500804,41.46154222904124],[25.66901086121715,41.46242427711229],[25.66783720496869,41.46261082604985],[25.66874893529513,41.46613901511853],[25.66992265464046,41.46595245377137],[25.67037860451103,41.46771653272629],[25.6715523491759,41.46752995139633],[25.67223638777125,41.47017604880068],[25.67341017353283,41.46998944438303],[25.67386627513321,41.47175349529908],[25.67504008621586,41.47156687089603],[25.67549625483127,41.47333090935319],[25.67667009123517,41.47314426496314],[25.6764419867161,41.47226224962037],[25.67761580110522,41.47207559455688]]],"type":"Polygon"}
+}

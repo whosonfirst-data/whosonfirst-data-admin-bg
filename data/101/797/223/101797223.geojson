@@ -1,0 +1,92 @@
+{
+  "id": 101797223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:bbox":"24.5694891312,43.4427072244,24.584832554,43.4508090445",
+    "geom:latitude":43.446933,
+    "geom:longitude":24.577133,
+    "iso:country":"BG",
+    "lbl:latitude":43.447285,
+    "lbl:longitude":24.577249,
+    "mps:latitude":43.447285,
+    "mps:longitude":24.577249,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u043f\u0430\u043d\u0435\u0446"
+    ],
+    "name:eng_x_preferred":[
+        "Opanets"
+    ],
+    "name:eng_x_variant":[
+        "Opanec",
+        "Opanez",
+        "Opantez"
+    ],
+    "name:unk_x_variant":[
+        "Opanez"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u0435\u0432\u0435\u043d",
+    "qs:a1_alt":"Pleven",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041f\u043b\u0435\u0432\u0435\u043d",
+    "qs:la_lc":"*BGPVN2456722",
+    "qs:level":"locality",
+    "qs:loc":"\u041e\u043f\u0430\u043d\u0435\u0446",
+    "qs:loc_alt":"Opanets",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":182,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037201c8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728625,
+        "gp:id":838465,
+        "qs:id":7,
+        "wd:id":"Q2657334"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f24a6ea6e7bc84af9d6cc416e465b281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797223,
+            "region_id":85681835
+        }
+    ],
+    "wof:id":101797223,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641529,
+    "wof:name":"\u041e\u043f\u0430\u043d\u0435\u0446",
+    "wof:parent_id":85681835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56948913123261,
+    43.44270722435658,
+    24.58483255404155,
+    43.45080904448855
+],
+  "geometry": {"coordinates":[[[24.57623600821273,43.4502855321258],[24.57601172491985,43.44940241984511],[24.57965618473605,43.44887878745647],[24.57920754054709,43.44711257717745],[24.58042231266626,43.44693801047094],[24.58019798668266,43.4460549063316],[24.58384221194592,43.44553112927451],[24.58361784265105,43.44464803296751],[24.58483255404155,43.44447341497028],[24.58438380768376,43.44270722435658],[24.57952506298619,43.44340558563187],[24.57974936184297,43.44428869391226],[24.57610518319314,43.44481232332407],[24.57632943873597,43.44569543943413],[24.57389991912862,43.44604446005684],[24.57412414880434,43.44692758092606],[24.57169456847646,43.44727655025235],[24.57191877228166,43.44815967588067],[24.56948913123261,43.44850859390795],[24.56993749613213,43.45027485330195],[24.57236720700854,43.44992592299866],[24.5725914379309,43.45080904448855],[24.57623600821273,43.4502855321258]]],"type":"Polygon"}
+}

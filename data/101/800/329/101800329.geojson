@@ -1,0 +1,127 @@
+{
+  "id": 101800329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000096,
+    "geom:area_square_m":888799.240496,
+    "geom:bbox":"23.7395564648,41.5486450193,23.7557184431,41.5587978667",
+    "geom:latitude":41.553442,
+    "geom:longitude":23.74807,
+    "iso:country":"BG",
+    "lbl:latitude":41.554146,
+    "lbl:longitude":23.748866,
+    "mps:latitude":41.554146,
+    "mps:longitude":23.748866,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043c\u0438\u0449\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Musomishta"
+    ],
+    "name:eng_x_colloquial":[
+        "Musomista"
+    ],
+    "name:eng_x_preferred":[
+        "Musomishta"
+    ],
+    "name:eng_x_variant":[
+        "Musomishte",
+        "Musomi\u00b5ta",
+        "Mussomischta"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043c\u0438\u0448\u0442\u0430"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043c\u0438\u0448\u0442\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043c\u0438\u0448\u0442\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Musomiszta"
+    ],
+    "name:ron_x_preferred":[
+        "Musomi\u0219ta"
+    ],
+    "name:rum_x_preferred":[
+        "Musomi\u0219ta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043c\u0438\u0448\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Musomishta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0441\u043e\u043c\u0438\u0448\u0442\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Musomi\u0161ta"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041c\u0443\u0441\u043e\u043c\u0438\u0449\u0430",
+    "qs:la_lc":"*BGBLG1149432",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0443\u0441\u043e\u043c\u0438\u0449\u0430",
+    "qs:loc_alt":"Musomishta",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":405,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371e63e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728895,
+        "gp:id":838248,
+        "qs:id":7,
+        "wd:id":"Q2654740",
+        "wk:page":"Musomishta"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3a543b811d7e2fffd7e5fbf5e3ab4b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800329,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800329,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715094,
+    "wof:name":"\u041c\u0443\u0441\u043e\u043c\u0438\u0449\u0430",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73955646482693,
+    41.54864501934594,
+    23.75571844307655,
+    41.55879786667236
+],
+  "geometry": {"coordinates":[[[23.7500207338345,41.55847010061171],[23.74982002331359,41.55758308924993],[23.75571844307655,41.55676344443356],[23.7545138586072,41.55144142963275],[23.75333428297091,41.55160536993657],[23.75313356259619,41.55071835989037],[23.75195399763692,41.55088228354282],[23.75175330132276,41.54999526937047],[23.7482146218897,41.55048694865582],[23.74801398204897,41.5495999248688],[23.74565486720024,41.54992763603951],[23.74545426762421,41.54904060538382],[23.74191560252279,41.54953205961175],[23.74171505941729,41.54864501934594],[23.74053550953982,41.54880880686625],[23.74073603643745,41.54969584987521],[23.73955646482693,41.54985962623164],[23.74015804397823,41.55252075520588],[23.74133766421619,41.55235697062085],[23.74153822250543,41.55324400810946],[23.74271785342728,41.5530802068738],[23.74311902597577,41.55485427222408],[23.74429868379201,41.5546904515939],[23.74469992016537,41.55646450593645],[23.7458796048769,41.55630066591027],[23.74628090508276,41.55807470924367],[23.74746061668992,41.55791084982059],[23.74766129478593,41.55879786667236],[23.7500207338345,41.55847010061171]]],"type":"Polygon"}
+}

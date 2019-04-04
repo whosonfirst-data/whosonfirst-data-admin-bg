@@ -1,0 +1,74 @@
+{
+  "id": 1293143563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.71985,41.4198,23.71985,41.4198",
+    "geom:latitude":41.4198,
+    "geom:longitude":23.71985,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG52",
+    "gn:asciiname":"Nova Lovcha",
+    "gn:country_code":"BG",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728754,
+    "gn:latitude":41.4198,
+    "gn:longitude":23.71985,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Nova Lovcha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u041b\u043e\u0432\u0447\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nowa Lowtscha",
+        "Nova Lovcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728754,
+        "wk:page":"Nova_Lovcha"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2f2ee54568a11e8e0487a314aef29c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293143563,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1293143563,
+    "wof:lastmodified":1537587462,
+    "wof:name":"Nova Lovcha",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.71985,
+    41.4198,
+    23.71985,
+    41.4198
+],
+  "geometry": {"coordinates":[23.71985,41.4198],"type":"Point"}
+}

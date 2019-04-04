@@ -1,0 +1,108 @@
+{
+  "id": 101798297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":628990.753282,
+    "geom:bbox":"26.2284268124,42.6435081081,26.2420569609,42.6520025432",
+    "geom:latitude":42.647759,
+    "geom:longitude":26.234533,
+    "iso:country":"BG",
+    "lbl:latitude":42.647562,
+    "lbl:longitude":26.233721,
+    "mps:latitude":42.647562,
+    "mps:longitude":26.233721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e"
+    ],
+    "name:eng_x_colloquial":[
+        "Kasthmovo",
+        "Kastmovo",
+        "Kasumovo"
+    ],
+    "name:eng_x_preferred":[
+        "Chintulovo"
+    ],
+    "name:eng_x_variant":[
+        "Kas\u00femovo",
+        "Tschintulowo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Cintulovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Kas\u016dmovo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043b\u0438\u0432\u0435\u043d",
+    "qs:a1_alt":"Sliven",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e",
+    "qs:la_lc":"*BGSLV2081387",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e",
+    "qs:loc_alt":"Chintulovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0370765a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732459,
+        "gp:id":835529,
+        "qs:id":1,
+        "wd:id":"Q2022546"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0aa3393e56ef4061cc7e4c7bfe60a0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798297,
+            "region_id":85681799
+        }
+    ],
+    "wof:id":101798297,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513899965,
+    "wof:name":"\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e",
+    "wof:parent_id":85681799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22842681239246,
+    42.64350810808986,
+    26.24205696088535,
+    42.65200254319933
+],
+  "geometry": {"coordinates":[[[26.23705956083694,42.65161488836628],[26.23681548171771,42.65073567671345],[26.23801027659778,42.65054183155684],[26.23776619064864,42.64966262164802],[26.24015572687762,42.64927489585648],[26.23991161761364,42.64839569101491],[26.24110635896375,42.64820181038039],[26.24086224287265,42.64732260728266],[26.24205696088535,42.64712871593099],[26.24181283796867,42.64624951457728],[26.24061813643914,42.64644340260611],[26.24037403966202,42.64556419635079],[26.23678994340986,42.64614576622853],[26.23605785935337,42.64350810808986],[26.23008447584647,42.64447706059138],[26.23032841179503,42.64535629815521],[26.22913369806423,42.64555004985544],[26.22962156594264,42.64730852689087],[26.22842681239246,42.64750227119146],[26.22891468590012,42.64926074855788],[26.23010947242403,42.64906699761582],[26.23084140453665,42.65170469187046],[26.23442587140028,42.65112332490185],[26.2346699175439,42.65200254319933],[26.23705956083694,42.65161488836628]]],"type":"Polygon"}
+}

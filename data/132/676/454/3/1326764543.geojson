@@ -1,0 +1,73 @@
+{
+  "id": 1326764543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.67997,42.8628,22.67997,42.8628",
+    "geom:latitude":42.8628,
+    "geom:longitude":22.67997,
+    "gn:admin1_code":"49",
+    "gn:admin2_code":"PER51",
+    "gn:asciiname":"Bankya",
+    "gn:country_code":"BG",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733467,
+    "gn:latitude":42.8628,
+    "gn:longitude":22.67997,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Bankya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043d\u043a\u044f"
+    ],
+    "name:und_x_variant":[
+        "Bankja",
+        "Bankya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733467
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"bb55ee8d1445747e1f062097356a6029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326764543,
+            "region_id":85681767
+        }
+    ],
+    "wof:id":1326764543,
+    "wof:lastmodified":1537587767,
+    "wof:name":"Bankya",
+    "wof:parent_id":85681767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.67997,
+    42.8628,
+    22.67997,
+    42.8628
+],
+  "geometry": {"coordinates":[22.67997,42.8628],"type":"Point"}
+}

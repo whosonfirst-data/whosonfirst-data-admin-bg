@@ -1,0 +1,75 @@
+{
+  "id": 1276371473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45,42.93333,25.45,42.93333",
+    "geom:latitude":42.93333,
+    "geom:longitude":25.45,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB12",
+    "gn:asciiname":"Suholoevtsi",
+    "gn:country_code":"BG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726637,
+    "gn:latitude":42.93333,
+    "gn:longitude":25.45,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Suholoevtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u0445\u043e\u043b\u043e\u0435\u0432\u0446\u0438"
+    ],
+    "name:bul_x_variant":[
+        "Suholoevtsi"
+    ],
+    "name:und_x_variant":[
+        "Sukholoevtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726637
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d96c7ccf5f1cfeb4cc69da1e409afbaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276371473,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1276371473,
+    "wof:lastmodified":1537587322,
+    "wof:name":"Suholoevtsi",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45,
+    42.93333,
+    25.45,
+    42.93333
+],
+  "geometry": {"coordinates":[25.45,42.93333],"type":"Point"}
+}

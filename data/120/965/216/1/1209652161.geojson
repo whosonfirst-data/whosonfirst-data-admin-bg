@@ -1,0 +1,67 @@
+{
+  "id": 1209652161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58356,41.40652,25.58356,41.40652",
+    "geom:latitude":41.40652,
+    "geom:longitude":25.58356,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Gligan",
+    "gn:country_code":"BG",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335965,
+    "gn:latitude":41.40652,
+    "gn:longitude":25.58356,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gligan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Gligan"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u043b\u0438\u0433\u0430\u043d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335965
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"98c049e82d966a23b3aab26a95c33580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209652161
+        }
+    ],
+    "wof:id":1209652161,
+    "wof:lastmodified":1537587793,
+    "wof:name":"Gligan",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58356,
+    41.40652,
+    25.58356,
+    41.40652
+],
+  "geometry": {"coordinates":[25.58356,41.40652],"type":"Point"}
+}

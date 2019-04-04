@@ -1,0 +1,72 @@
+{
+  "id": 1209035723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1,43.2,27.1,43.2",
+    "geom:latitude":43.2,
+    "geom:longitude":27.1,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"SHU30",
+    "gn:asciiname":"Ovcharovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728490,
+    "gn:latitude":43.2,
+    "gn:longitude":27.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ovcharovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0432\u0447\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chovan",
+        "Owtscharowo",
+        "Ov\u010darovo",
+        "Ovcharovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728490
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6909f4bfac8f8bd37ff0dba4ff9f457d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209035723
+        }
+    ],
+    "wof:id":1209035723,
+    "wof:lastmodified":1537587444,
+    "wof:name":"Ovcharovo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1,
+    43.2,
+    27.1,
+    43.2
+],
+  "geometry": {"coordinates":[27.1,43.2],"type":"Point"}
+}

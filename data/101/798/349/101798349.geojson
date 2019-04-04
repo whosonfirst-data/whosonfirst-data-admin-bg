@@ -1,0 +1,114 @@
+{
+  "id": 101798349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":609015.775322,
+    "geom:bbox":"27.6441890579,42.6891727107,27.6563726757,42.6989739463",
+    "geom:latitude":42.694043,
+    "geom:longitude":27.650623,
+    "iso:country":"BG",
+    "lbl:latitude":42.694318,
+    "lbl:longitude":27.650531,
+    "mps:latitude":42.694318,
+    "mps:longitude":27.650531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054f\u0561\u0576\u056f\u0578\u057e\u0578"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u044a\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Tankovo"
+    ],
+    "name:eng_x_preferred":[
+        "Tankovo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e2\u10d8\u10dc\u10d9\u10dd\u10d5\u10dd"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0576\u056f\u0578\u057e\u0578"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10dc\u10d9\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u044b\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "T\u0103nkovo"
+    ],
+    "name:rum_x_preferred":[
+        "T\u0103nkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044b\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Indzhe K\u2019oy"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0422\u044a\u043d\u043a\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBGS1573571",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u044a\u043d\u043a\u043e\u0432\u043e",
+    "qs:loc_alt":"Tankovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726178,
+        "gp:id":840338,
+        "qs:id":9,
+        "wd:id":"Q2654866"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"591edf2cb83cf395543b43bb5ea9d98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798349,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101798349,
+    "wof:lastmodified":1527641928,
+    "wof:name":"\u0422\u044a\u043d\u043a\u043e\u0432\u043e",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.64418905788682,
+    42.68917271073133,
+    27.65637267570457,
+    42.69897394632687
+],
+  "geometry": {"coordinates":[[[27.65319842309287,42.69876335083705],[27.65266739407923,42.69701371219543],[27.6538592734783,42.69680310994744],[27.65332825394631,42.6950534715707],[27.65571192573003,42.69463223960224],[27.65518088331555,42.69288260868854],[27.65637267570457,42.69267197896897],[27.65531065169574,42.68917271073133],[27.65173544642846,42.68980451483174],[27.65200088819745,42.69067934528903],[27.64842556758543,42.69131103458403],[27.6486909712674,42.69218587410313],[27.64511553531122,42.6928174485858],[27.6453809008994,42.69369229716568],[27.64418905788682,42.69390279767742],[27.6452505600729,42.69740218905997],[27.64763436816531,42.69698114529513],[27.64789980223293,42.69785598161229],[27.65028361300517,42.69743487481912],[27.65054908990788,42.69830970220551],[27.6517410003438,42.69809912427314],[27.65200650389556,42.69897394632687],[27.65319842309287,42.69876335083705]]],"type":"Polygon"}
+}

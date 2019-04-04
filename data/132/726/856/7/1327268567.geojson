@@ -1,0 +1,89 @@
+{
+  "id": 1327268567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.15,43.15,24.15,43.15",
+    "geom:latitude":43.15,
+    "geom:longitude":24.15,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"LOV19",
+    "gn:admin3_code":"LOV19-07",
+    "gn:asciiname":"Petrevene",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728289,
+    "gn:latitude":43.15,
+    "gn:longitude":24.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Petrevene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0435\u0432\u0435\u043d\u0435"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10e2\u10e0\u10d4\u10d5\u10d4\u10dc\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0435\u0432\u0435\u043d\u0435"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0435\u0432\u0435\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0435\u0432\u0435\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Petriowene",
+        "Petr\u2019ovene",
+        "Petrevene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728289,
+        "wk:page":"Petrevene"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8ed0ab05fa97b6507ddb59f5c1071a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327268567,
+            "region_id":85681811
+        }
+    ],
+    "wof:id":1327268567,
+    "wof:lastmodified":1537587431,
+    "wof:name":"Petrevene",
+    "wof:parent_id":85681811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.15,
+    43.15,
+    24.15,
+    43.15
+],
+  "geometry": {"coordinates":[24.15,43.15],"type":"Point"}
+}

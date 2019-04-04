@@ -1,0 +1,74 @@
+{
+  "id": 1259518439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.87844,44.118,22.87844,44.118",
+    "geom:latitude":44.118,
+    "geom:longitude":22.87844,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID30",
+    "gn:admin3_code":"VID30-04",
+    "gn:asciiname":"Yasen",
+    "gn:country_code":"BG",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725546,
+    "gn:latitude":44.118,
+    "gn:longitude":22.87844,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Yasen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u042f\u0441\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Jassen",
+        "Yasen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725546
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"779768715b74bc3c9224b9208b43d015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259518439,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1259518439,
+    "wof:lastmodified":1537587253,
+    "wof:name":"Yasen",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87844,
+    44.118,
+    22.87844,
+    44.118
+],
+  "geometry": {"coordinates":[22.87844,44.118],"type":"Point"}
+}

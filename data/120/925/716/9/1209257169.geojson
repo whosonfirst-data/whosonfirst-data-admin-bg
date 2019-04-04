@@ -1,0 +1,71 @@
+{
+  "id": 1209257169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9156,43.47677,27.9156,43.47677",
+    "geom:latitude":43.47677,
+    "geom:longitude":27.9156,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB15",
+    "gn:asciiname":"Slaveevo",
+    "gn:country_code":"BG",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727107,
+    "gn:latitude":43.47677,
+    "gn:longitude":27.9156,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Slaveevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0435\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tokchilar",
+        "Slawewo",
+        "Toktschilar",
+        "Slaveevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727107
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b68085b94f1fca337432c7093fdd2b0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209257169
+        }
+    ],
+    "wof:id":1209257169,
+    "wof:lastmodified":1537587355,
+    "wof:name":"Slaveevo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9156,
+    43.47677,
+    27.9156,
+    43.47677
+],
+  "geometry": {"coordinates":[27.9156,43.47677],"type":"Point"}
+}

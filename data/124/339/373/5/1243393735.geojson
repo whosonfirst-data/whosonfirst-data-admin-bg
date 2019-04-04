@@ -1,0 +1,70 @@
+{
+  "id": 1243393735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44766,42.79408,23.44766,42.79408",
+    "geom:latitude":42.79408,
+    "geom:longitude":23.44766,
+    "gn:admin1_code":"42",
+    "gn:admin2_code":"SOF46",
+    "gn:admin3_code":"SOF46-42",
+    "gn:asciiname":"Lokorsko",
+    "gn:country_code":"BG",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729584,
+    "gn:latitude":42.79408,
+    "gn:longitude":23.44766,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Lokorsko",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u043a\u043e\u0440\u0441\u043a\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729584
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2b867662ff1853a278fb3b72fdc15d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243393735,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":1243393735,
+    "wof:lastmodified":1537587515,
+    "wof:name":"Lokorsko",
+    "wof:parent_id":85681771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44766,
+    42.79408,
+    23.44766,
+    42.79408
+],
+  "geometry": {"coordinates":[23.44766,42.79408],"type":"Point"}
+}

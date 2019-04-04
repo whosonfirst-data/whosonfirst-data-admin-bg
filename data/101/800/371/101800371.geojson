@@ -1,0 +1,125 @@
+{
+  "id": 101800371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":259624.231183,
+    "geom:bbox":"23.2380229742,41.9523815897,23.2437534511,41.9615761785",
+    "geom:latitude":41.956706,
+    "geom:longitude":23.24125,
+    "iso:country":"BG",
+    "lbl:latitude":41.956189,
+    "lbl:longitude":23.241532,
+    "mps:latitude":41.956189,
+    "mps:longitude":23.241532,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Dolno Osenovo"
+    ],
+    "name:eng_x_preferred":[
+        "Dolno Osenovo"
+    ],
+    "name:eng_x_variant":[
+        "Dolno Ossenowo",
+        "Osenovo",
+        "Osenowo",
+        "Osyenovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Do\u0142no Osenowo"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Osenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dolno Osenovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Osenowo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0414\u043e\u043b\u043d\u043e \u041e\u0441\u0435\u043d\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBLG4422753",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u043e\u043b\u043d\u043e \u041e\u0441\u0435\u043d\u043e\u0432\u043e",
+    "qs:loc_alt":"Dolno Osenovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0370a530-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728550,
+        "gp:id":838530,
+        "qs:id":3,
+        "qs_pg:id":1083323,
+        "wd:id":"Q2456289",
+        "wk:page":"Dolno Osenovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ed9296ad1a7e4f9dc09a40dbb4b509fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800371,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800371,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715087,
+    "wof:name":"\u0414\u043e\u043b\u043d\u043e \u041e\u0441\u0435\u043d\u043e\u0432\u043e",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23802297419763,
+    41.95238158965935,
+    23.24375345106898,
+    41.96157617854305
+],
+  "geometry": {"coordinates":[[[23.24375345106898,41.95739264038679],[23.24277594144513,41.95295338899541],[23.24039946871136,41.9532694492525],[23.24020402309378,41.95238158965935],[23.23901579514666,41.95253959605645],[23.23921122417693,41.95342745832727],[23.23802297419763,41.95358545336586],[23.23821839434794,41.95447331699523],[23.23940666091556,41.95431531927898],[23.24057944325097,41.95964245728578],[23.23939107713898,41.95980047107025],[23.23978203308479,41.96157617854305],[23.24215882623304,41.96126012622182],[23.24196331121823,41.9603722785024],[23.24315168302769,41.96021423396371],[23.24256513448108,41.95755069092604],[23.24375345106898,41.95739264038679]]],"type":"Polygon"}
+}

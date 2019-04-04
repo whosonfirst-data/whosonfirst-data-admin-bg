@@ -1,0 +1,72 @@
+{
+  "id": 1209243561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9,43.21667,24.9,43.21667",
+    "geom:latitude":43.21667,
+    "geom:longitude":24.9,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"LOV18",
+    "gn:asciiname":"Devetaki",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732291,
+    "gn:latitude":43.21667,
+    "gn:longitude":24.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Devetaki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0432\u0435\u0442\u0430\u043a\u0438"
+    ],
+    "name:und_x_variant":[
+        "Devetak",
+        "Dewetaki",
+        "Devetaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732291,
+        "wk:page":"Devetaki"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"330f30ec0d36eb6a22922604d6a3c838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209243561
+        }
+    ],
+    "wof:id":1209243561,
+    "wof:lastmodified":1537587693,
+    "wof:name":"Devetaki",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9,
+    43.21667,
+    24.9,
+    43.21667
+],
+  "geometry": {"coordinates":[24.9,43.21667],"type":"Point"}
+}

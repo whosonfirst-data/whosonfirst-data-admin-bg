@@ -1,0 +1,85 @@
+{
+  "id": 1327171223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.25,42.43333,26.25,42.43333",
+    "geom:latitude":42.43333,
+    "geom:longitude":26.25,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"JAM25",
+    "gn:admin3_code":"JAM25-09",
+    "gn:asciiname":"Galabintsi",
+    "gn:country_code":"BG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730993,
+    "gn:latitude":42.43333,
+    "gn:longitude":26.25,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Galabintsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u044a\u043b\u044a\u0431\u0438\u043d\u0446\u0438"
+    ],
+    "name:bul_x_variant":[
+        "Galabintsi"
+    ],
+    "name:und_x_variant":[
+        "Glebnitsi",
+        "Moslukodzhaliy",
+        "G\u0103l\u0103bnizi",
+        "Musukodzhalii",
+        "Gelebnitsi",
+        "G\u016dl\u016dbitsi",
+        "G\u016dl\u016dbnitsi",
+        "G\u016dl\u0103bnitsi",
+        "G\u016dl\u0103bintsi",
+        "G\u016dl\u016dbintsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730993
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7cd0e55bc1500834e4e6a2e347bb0355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327171223,
+            "region_id":85681793
+        }
+    ],
+    "wof:id":1327171223,
+    "wof:lastmodified":1537587602,
+    "wof:name":"Galabintsi",
+    "wof:parent_id":85681793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.25,
+    42.43333,
+    26.25,
+    42.43333
+],
+  "geometry": {"coordinates":[26.25,42.43333],"type":"Point"}
+}

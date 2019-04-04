@@ -1,0 +1,74 @@
+{
+  "id": 1292934459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8009,42.13605,22.8009,42.13605",
+    "geom:latitude":42.13605,
+    "geom:longitude":22.8009,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL31",
+    "gn:asciiname":"Smolichano",
+    "gn:country_code":"BG",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727034,
+    "gn:latitude":42.13605,
+    "gn:longitude":22.8009,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Smolichano",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u0438\u0447\u0430\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "Smolitschano",
+        "Smolichano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727034,
+        "wk:page":"Smolichano"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1db9fb6d2911901ec28dafbdbed3b4f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1292934459,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1292934459,
+    "wof:lastmodified":1537587349,
+    "wof:name":"Smolichano",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8009,
+    42.13605,
+    22.8009,
+    42.13605
+],
+  "geometry": {"coordinates":[22.8009,42.13605],"type":"Point"}
+}

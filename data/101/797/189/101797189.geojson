@@ -1,0 +1,153 @@
+{
+  "id": 101797189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000406,
+    "geom:area_square_m":3643438.813907,
+    "geom:bbox":"24.5114199765,43.4595568165,24.5480063264,43.478465177",
+    "geom:latitude":43.468089,
+    "geom:longitude":24.53079,
+    "gn:population":3479,
+    "iso:country":"BG",
+    "lbl:latitude":43.46942,
+    "lbl:longitude":24.535363,
+    "mps:latitude":43.46942,
+    "mps:longitude":24.535363,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0627 \u0645\u06cc\u062a\u0631\u0648\u067e\u0648\u0644\u06cc\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Dolna Mitropoliya"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06c6\u0644\u0646\u0627 \u0645\u06cc\u062a\u0631\u06c6\u067e\u06c6\u0644\u06cc\u06cc\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Dolna Mitropoliya"
+    ],
+    "name:eng_x_variant":[
+        "Dolna Metropolja",
+        "Dolna Mitropolia",
+        "Dolna Mitropolija",
+        "Dolna Netropol Mitropoliya"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0627 \u0645\u06cc\u062a\u0631\u0648\u067e\u0648\u0644\u06cc\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30eb\u30ca\u30fb\u30df\u30c8\u30ed\u30dd\u30ea\u30e4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f"
+    ],
+    "name:pol_x_preferred":[
+        "Do\u0142na Mitropolija"
+    ],
+    "name:por_x_preferred":[
+        "Dolna Mitropolija"
+    ],
+    "name:ron_x_preferred":[
+        "Dolna Mitropolia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Dolna Mitropolia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u045a\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dolna Mitropolija"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u044f \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0456\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Dolna Netropol Mitropoliya"
+    ],
+    "name:vie_x_preferred":[
+        "Dolna Mitropolia"
+    ],
+    "name:war_x_preferred":[
+        "Dolna Mitropoliya"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u7c73\u7279\u7f85\u6ce2\u5229\u4e9e"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u0435\u0432\u0435\u043d",
+    "qs:a1_alt":"Pleven",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041e\u043f\u0430\u043d\u0435\u0446",
+    "qs:la_lc":"*BGPVN2453583",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u043e\u043b\u043d\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+    "qs:loc_alt":"Dolna Mitropolya",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":112,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03709cde-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732122,
+        "gp:id":835786,
+        "qs:id":128995,
+        "qs_pg:id":128995,
+        "wd:id":"Q405829",
+        "wk:page":"Dolna Mitropoliya"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"88f70dc1f02b687e7340dbcdf0808018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797189,
+            "region_id":85681835
+        }
+    ],
+    "wof:id":101797189,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641526,
+    "wof:name":"\u0414\u043e\u043b\u043d\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+    "wof:parent_id":85681835,
+    "wof:placetype":"locality",
+    "wof:population":3479,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51141997647363,
+    43.45955681650531,
+    24.54800632637796,
+    43.47846517696064
+],
+  "geometry": {"coordinates":[[[24.54272969442007,43.47705963751048],[24.54250575327569,43.47617646011793],[24.54372120543098,43.47600231636659],[24.54349725583592,43.47511914066445],[24.54592810582903,43.47477081618814],[24.54525620635093,43.4721212992232],[24.544040837024,43.47229545944742],[24.54336907127964,43.46964592090256],[24.54701500259949,43.46912342471956],[24.54679104631344,43.46824025164995],[24.54800632637796,43.46806606058817],[24.54755840594936,43.46629971645183],[24.54634316083718,43.46647390138179],[24.54567140035476,43.46382436565813],[24.5444562012184,43.46399852702615],[24.54423231659115,43.46311534263401],[24.54180193392693,43.46346361614434],[24.54157809327478,43.46258042424694],[24.53914771977747,43.46292863416738],[24.53892392309962,43.46204543476597],[24.53649355877468,43.46239358109779],[24.53626980606907,43.46151037419355],[24.5338394509219,43.46185845693753],[24.53339204247368,43.46009202675231],[24.53096173145792,43.46044003978511],[24.53073807571212,43.45955681650531],[24.52466227285856,43.46042658238684],[24.52488584123057,43.46130982097333],[24.51880979006415,43.46217924301538],[24.51858630907617,43.46129598912796],[24.51615587851586,43.46164365126168],[24.5163793245477,43.46252691126784],[24.51273357801637,43.46304830589628],[24.51318039223577,43.46481484014225],[24.51196509556337,43.46498861573474],[24.51263533202757,43.46763841598295],[24.51141997647363,43.4678121863837],[24.51231368131795,43.47134524639733],[24.51839074442597,43.47047618952035],[24.51861428059851,43.47135943579275],[24.52712202092937,43.4701421312522],[24.52801674537733,43.47367501688586],[24.52923218102512,43.47350104651389],[24.52967963235801,43.47526747496022],[24.53089509653279,43.47509348409318],[24.53156639368029,43.47774310726561],[24.53885935811121,43.47669880515787],[24.53930714452167,43.47846517696064],[24.54173815102246,43.47811694904146],[24.54151421833001,43.4772337699585],[24.54272969442007,43.47705963751048]]],"type":"Polygon"}
+}

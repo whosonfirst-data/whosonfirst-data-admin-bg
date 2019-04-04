@@ -1,0 +1,71 @@
+{
+  "id": 1209649565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96667,42.53333,23.96667,42.53333",
+    "geom:latitude":42.53333,
+    "geom:longitude":23.96667,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Kayryaka",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730501,
+    "gn:latitude":42.53333,
+    "gn:longitude":23.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kayryaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0439\u0440\u044f\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kolibi Levadeki-R\u016dt",
+        "Kayraka",
+        "Kairaka",
+        "Kayryaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730501
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"95f62f6103b4560a3974e82a35e4e55e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209649565
+        }
+    ],
+    "wof:id":1209649565,
+    "wof:lastmodified":1537587572,
+    "wof:name":"Kayryaka",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96667,
+    42.53333,
+    23.96667,
+    42.53333
+],
+  "geometry": {"coordinates":[23.96667,42.53333],"type":"Point"}
+}

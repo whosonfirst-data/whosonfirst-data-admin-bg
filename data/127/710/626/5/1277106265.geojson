@@ -1,0 +1,77 @@
+{
+  "id": 1277106265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.37522,42.68758,27.37522,42.68758",
+    "geom:latitude":42.68758,
+    "geom:longitude":27.37522,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS01",
+    "gn:asciiname":"Dryankovets",
+    "gn:country_code":"BG",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731891,
+    "gn:latitude":42.68758,
+    "gn:longitude":27.37522,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Dryankovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u044f\u043d\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "K\u016dz\u016dldzhik",
+        "Drenkovets",
+        "Dryenkovets",
+        "Drenkowez",
+        "Dryankovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731891,
+        "wk:page":"Dryankovets"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"bab1e10d8b46c0ebc3cce576742f9ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1277106265,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1277106265,
+    "wof:lastmodified":1537587664,
+    "wof:name":"Dryankovets",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.37522,
+    42.68758,
+    27.37522,
+    42.68758
+],
+  "geometry": {"coordinates":[27.37522,42.68758],"type":"Point"}
+}

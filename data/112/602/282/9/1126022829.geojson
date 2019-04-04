@@ -1,0 +1,157 @@
+{
+  "id": 1126022829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0418,43.285,28.0418,43.285",
+    "geom:latitude":43.285,
+    "geom:longitude":28.0418,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9760,
+    "gn:population":9760,
+    "iso:country":"BG",
+    "lbl:latitude":43.285,
+    "lbl:longitude":28.0418,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0548\u057d\u056f\u0565 \u0531\u057e\u0561\u0566\u0576\u0565\u0580"
+    ],
+    "name:bul_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u043d\u0438 \u043f\u044f\u0441\u044a\u0446\u0438"
+    ],
+    "name:chi_x_preferred":[
+        "\u91d1\u6c99"
+    ],
+    "name:cze_x_preferred":[
+        "Zlat\u00e9 P\u00edsky"
+    ],
+    "name:dan_x_preferred":[
+        "Golden Sands"
+    ],
+    "name:deu_x_preferred":[
+        "Goldstrand"
+    ],
+    "name:dut_x_preferred":[
+        "Zlatni pjasatsi"
+    ],
+    "name:eng_x_preferred":[
+        "Golden Sands"
+    ],
+    "name:epo_x_preferred":[
+        "Zlatni pjasaci"
+    ],
+    "name:fre_x_preferred":[
+        "Sables d'or"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dd\u10e5\u10e0\u10dd\u10e1 \u10e5\u10d5\u10d8\u10e8\u10d4\u10d1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Slatni pjasazi"
+    ],
+    "name:ita_x_preferred":[
+        "Sabbie d'oro"
+    ],
+    "name:lit_x_preferred":[
+        "Auksin\u0117s Smiltys"
+    ],
+    "name:mac_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u043d\u0438 \u041f\u0435\u0441\u043e\u0446\u0438"
+    ],
+    "name:nor_x_preferred":[
+        "Golden Sands"
+    ],
+    "name:pol_x_preferred":[
+        "Z\u0142ote Piaski"
+    ],
+    "name:rum_x_preferred":[
+        "Nisipurile de Aur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043b\u043e\u0442\u044b\u0435 \u041f\u0435\u0441\u043a\u0438"
+    ],
+    "name:slo_x_preferred":[
+        "Zlat\u00e9 Piesky"
+    ],
+    "name:swe_x_preferred":[
+        "Golden Sands"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043e\u043b\u043e\u0442\u0456 \u043f\u0456\u0441\u043a\u0438"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":6355004,
+    "qs_pg:gn_pop":9760,
+    "qs_pg:name":"Zlatni Pyassatsi",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Dobrich",
+    "qs_pg:photos":227,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":227,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":313401,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":841042,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Dobrich",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6355004,
+        "gp:id":841042,
+        "qs_pg:id":313401,
+        "wd:id":"Q1026748"
+    },
+    "wof:country":"BG",
+    "wof:created":1497300937,
+    "wof:geomhash":"a8892565a2ccea521117b7483694701d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1126022829,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1126022829,
+    "wof:lastmodified":1553816707,
+    "wof:name":"Zlatni Pyassatsi",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:population":9760,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0418,
+    43.285,
+    28.0418,
+    43.285
+],
+  "geometry": {"coordinates":[28.0418,43.285],"type":"Point"}
+}

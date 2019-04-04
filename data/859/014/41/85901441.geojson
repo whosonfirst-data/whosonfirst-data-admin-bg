@@ -1,0 +1,105 @@
+{
+  "id": 85901441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9930405.704534,
+    "geom:bbox":"25.313049,42.879787,25.313049,42.879787",
+    "geom:latitude":42.879787,
+    "geom:longitude":25.313049,
+    "iso:country":"BG",
+    "lbl:latitude":42.879787,
+    "lbl:longitude":25.313049,
+    "mps:latitude":42.877977,
+    "mps:longitude":25.32056,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Tonchevtsi"
+    ],
+    "name:eng_x_variant":[
+        "Tonchovtsi"
+    ],
+    "name:unk_x_variant":[
+        "Tonchevtsi"
+    ],
+    "qs:gn_adm0_cc":"BG",
+    "qs:gn_id":0,
+    "qs:gn_local":731549,
+    "qs:gn_nam_loc":"Gabrovo, Gabrovo, Gabrovo, Oblast Gabrovo, BG",
+    "qs:gn_namadm1":"41",
+    "qs:id":0,
+    "qs:local_max":20,
+    "qs:local_sum":20,
+    "qs:localhoods":1,
+    "qs:name":"Tonchevtsi",
+    "qs:name_adm0":"Bulgaria",
+    "qs:name_adm1":"Gabrovo",
+    "qs:name_adm2":"Gabrovo",
+    "qs:name_local":"Gabrovo",
+    "qs:photo_max":10,
+    "qs:photo_sum":20,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424771,
+    "qs:woe_adm1":20070062,
+    "qs:woe_adm2":55873926,
+    "qs:woe_lau":0,
+    "qs:woe_local":836237,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748901,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":840160
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d92e8f3ebe227e7c7c6bc472b0341c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748901,
+            "neighbourhood_id":85901441,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":85901441,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531932507,
+    "wof:name":"Tonchevtsi",
+    "wof:parent_id":101748901,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.313049,
+    42.879787,
+    25.313049,
+    42.879787
+],
+  "geometry": {"coordinates":[25.313049,42.879787],"type":"Point"}
+}

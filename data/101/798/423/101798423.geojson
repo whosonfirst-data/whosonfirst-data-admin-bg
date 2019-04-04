@@ -1,0 +1,83 @@
+{
+  "id": 101798423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:bbox":"26.5656563841,43.1389575468,26.5755385874,43.1493191851",
+    "geom:latitude":43.144836,
+    "geom:longitude":26.570696,
+    "iso:country":"BG",
+    "lbl:latitude":43.145495,
+    "lbl:longitude":26.57077,
+    "mps:latitude":43.145495,
+    "mps:longitude":26.57077,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0440\u043a\u043e\u0432\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Tscherkowna"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435",
+    "qs:a1_alt":"Targovishte",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0427\u0435\u0440\u043a\u043e\u0432\u043d\u0430",
+    "qs:la_lc":"*BGTGV3580741",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u0435\u0440\u043a\u043e\u0432\u043d\u0430",
+    "qs:loc_alt":"Cherkovna",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:elevation":170.0,
+    "wd:latitude":43.259167,
+    "wd:longitude":26.589167,
+    "wd:wordcount":1027,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732590,
+        "gp:id":840341,
+        "qs:id":1,
+        "wd:id":"Q185114"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1e6598c37ccc9ca64bfaeb280efe770e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798423,
+            "region_id":85681839
+        }
+    ],
+    "wof:id":101798423,
+    "wof:lastmodified":1527641926,
+    "wof:name":"\u0427\u0435\u0440\u043a\u043e\u0432\u043d\u0430",
+    "wof:parent_id":85681839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.56565638411234,
+    43.1389575467764,
+    26.57553858738407,
+    43.14931918505181
+],
+  "geometry": {"coordinates":[[[26.57553858738407,43.14773486543993],[26.57478074720979,43.14510168662719],[26.57357710837266,43.14529976578984],[26.57256686283529,43.14178882457566],[26.57377043458621,43.14159075916177],[26.57301280580566,43.1389575467764],[26.56940221998121,43.13955166964485],[26.56990719515204,43.14130716678574],[26.56870361867163,43.14150518631874],[26.56920860055106,43.14326068393927],[26.56800498336042,43.14345869619638],[26.56825747262172,43.14433644604571],[26.56705383149153,43.14453444758993],[26.56730631404213,43.14541219927742],[26.5661026489712,43.14561019010864],[26.56686010667806,43.14824344589306],[26.56565638411234,43.14844143288292],[26.56590887336569,43.14931918505181],[26.57553858738407,43.14773486543993]]],"type":"Polygon"}
+}

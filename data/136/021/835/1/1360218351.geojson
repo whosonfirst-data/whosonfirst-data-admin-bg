@@ -1,0 +1,74 @@
+{
+  "id": 1360218351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93516,43.67064,22.93516,43.67064",
+    "geom:latitude":43.67064,
+    "geom:longitude":22.93516,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID33",
+    "gn:admin3_code":"VID33-06",
+    "gn:asciiname":"Roglets",
+    "gn:country_code":"BG",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727609,
+    "gn:latitude":43.67064,
+    "gn:longitude":22.93516,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Roglets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0433\u043b\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Roglez",
+        "Roglets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727609
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"334592da104986ad1c79777efa68204e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360218351,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1360218351,
+    "wof:lastmodified":1537587384,
+    "wof:name":"Roglets",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93516,
+    43.67064,
+    22.93516,
+    43.67064
+],
+  "geometry": {"coordinates":[22.93516,43.67064],"type":"Point"}
+}

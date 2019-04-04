@@ -1,0 +1,76 @@
+{
+  "id": 1260116467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.66667,43.11667,24.66667,43.11667",
+    "geom:latitude":43.11667,
+    "geom:longitude":24.66667,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"LOV18",
+    "gn:asciiname":"Izvorche",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730812,
+    "gn:latitude":43.11667,
+    "gn:longitude":24.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Izvorche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440\u0447\u0435"
+    ],
+    "name:und_x_variant":[
+        "Izvordzhik",
+        "Izvor\u010de",
+        "Izvorche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730812,
+        "wk:page":"Izvorche"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4734d85729bb490503f9cc43f377fb3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260116467,
+            "region_id":85681811
+        }
+    ],
+    "wof:id":1260116467,
+    "wof:lastmodified":1537587588,
+    "wof:name":"Izvorche",
+    "wof:parent_id":85681811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.66667,
+    43.11667,
+    24.66667,
+    43.11667
+],
+  "geometry": {"coordinates":[24.66667,43.11667],"type":"Point"}
+}

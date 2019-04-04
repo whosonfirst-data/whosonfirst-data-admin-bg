@@ -1,0 +1,75 @@
+{
+  "id": 1225879195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8743,41.48817,25.8743,41.48817",
+    "geom:latitude":41.48817,
+    "geom:longitude":25.8743,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV11",
+    "gn:asciiname":"Konnitsi",
+    "gn:country_code":"BG",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730188,
+    "gn:latitude":41.48817,
+    "gn:longitude":25.8743,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Konnitsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043d\u043d\u0438\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Spakhalar",
+        "Konnizi",
+        "Konnitsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730188,
+        "wk:page":"Konnitsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f992d308c7d808493e53dafe46123af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225879195,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1225879195,
+    "wof:lastmodified":1537587552,
+    "wof:name":"Konnitsi",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8743,
+    41.48817,
+    25.8743,
+    41.48817
+],
+  "geometry": {"coordinates":[25.8743,41.48817],"type":"Point"}
+}

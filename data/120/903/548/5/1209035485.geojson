@@ -1,0 +1,75 @@
+{
+  "id": 1209035485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3,42.9,27.3,42.9",
+    "geom:latitude":42.9,
+    "geom:longitude":27.3,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS18",
+    "gn:admin3_code":"BGS18-09",
+    "gn:asciiname":"Zaimchevo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725458,
+    "gn:latitude":42.9,
+    "gn:longitude":27.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zaimchevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0438\u043c\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Saimtschewo",
+        "Ichme",
+        "Ichmey Ziamet",
+        "Ichmey-Ziyamet",
+        "Zaimchevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725458,
+        "wk:page":"Zaimchevo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0d92f3cef03a8405010a8c6493011d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209035485
+        }
+    ],
+    "wof:id":1209035485,
+    "wof:lastmodified":1537587246,
+    "wof:name":"Zaimchevo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3,
+    42.9,
+    27.3,
+    42.9
+],
+  "geometry": {"coordinates":[27.3,42.9],"type":"Point"}
+}

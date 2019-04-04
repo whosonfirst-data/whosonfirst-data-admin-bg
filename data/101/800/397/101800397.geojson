@@ -1,0 +1,125 @@
+{
+  "id": 101800397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000094,
+    "geom:area_square_m":868772.01773,
+    "geom:bbox":"25.324914094,41.8259820331,25.3355466046,41.8417483422",
+    "geom:latitude":41.834354,
+    "geom:longitude":25.330944,
+    "iso:country":"BG",
+    "lbl:latitude":41.835853,
+    "lbl:longitude":25.33042,
+    "mps:latitude":41.835853,
+    "mps:longitude":25.33042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Karamanci"
+    ],
+    "name:dut_x_preferred":[
+        "Karamantsi"
+    ],
+    "name:eng_x_preferred":[
+        "Karamantsi"
+    ],
+    "name:eng_x_variant":[
+        "Karamanci",
+        "Karamanitsa",
+        "Karamanzi",
+        "Olu-Dere-Karamanlar",
+        "Ulu-Dere-Karamanli"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Karamanci"
+    ],
+    "name:ron_x_preferred":[
+        "Karaman\u021bi"
+    ],
+    "name:rum_x_preferred":[
+        "Karaman\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Karamantsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Ulu-Dere-Karamanli"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
+    "qs:a1_alt":"Haskovo",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u0446\u0438",
+    "qs:la_lc":"*BGHKV1936325",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u0446\u0438",
+    "qs:loc_alt":"Karamantsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":41.834444,
+    "wd:longitude":25.329444,
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371408a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730601,
+        "gp:id":836974,
+        "qs:id":404339,
+        "wd:id":"Q2653788",
+        "wk:page":"Karamantsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7ba5135f3ccc67743d4164285dfa441b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800397,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":101800397,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715083,
+    "wof:name":"\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u0446\u0438",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32491409397676,
+    41.82598203312267,
+    25.33554660458771,
+    41.84174834216373
+],
+  "geometry": {"coordinates":[[[25.33144272382538,41.84120018146984],[25.33099191905444,41.83943498432922],[25.33335488618718,41.83906948670239],[25.33312946483005,41.83818689200388],[25.33549237486125,41.83782134496221],[25.33436523940816,41.83340837946179],[25.33554660458771,41.83322560046952],[25.33419423657938,41.82793001028284],[25.33537549895834,41.82774723583503],[25.33492474799607,41.82598203312267],[25.33019978991103,41.82671302301952],[25.33110106959498,41.83024347152394],[25.32991975014079,41.83042619656419],[25.33037041069855,41.83219141786611],[25.32564494189296,41.83292220371163],[25.32609550892909,41.83468744352052],[25.32491409397676,41.83487011140068],[25.32536466408027,41.83663535129182],[25.32654611123638,41.83645267726996],[25.32744742167955,41.83998312659145],[25.32626591010904,41.84016581289774],[25.32649124366509,41.84104842451262],[25.32767277134064,41.84086573513503],[25.3278981298227,41.84174834216373],[25.33144272382538,41.84120018146984]]],"type":"Polygon"}
+}

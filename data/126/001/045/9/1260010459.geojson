@@ -1,0 +1,75 @@
+{
+  "id": 1260010459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0,43.08333,26.0,43.08333",
+    "geom:latitude":43.08333,
+    "geom:longitude":26.0,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR14",
+    "gn:asciiname":"Slivovitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727064,
+    "gn:latitude":43.08333,
+    "gn:longitude":26.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slivovitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kozlubik",
+        "Sliwowiza",
+        "Slivovitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727064
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e046d0f32d2b971fda16c8132a09b4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260010459,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1260010459,
+    "wof:lastmodified":1537587352,
+    "wof:name":"Slivovitsa",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0,
+    43.08333,
+    26.0,
+    43.08333
+],
+  "geometry": {"coordinates":[26.0,43.08333],"type":"Point"}
+}

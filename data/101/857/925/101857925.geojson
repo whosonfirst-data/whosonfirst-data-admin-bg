@@ -1,0 +1,141 @@
+{
+  "id": 101857925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.943628,42.134266,23.943628,42.134266",
+    "geom:latitude":42.134266,
+    "geom:longitude":23.943628,
+    "gn:population":4155,
+    "iso:country":"BG",
+    "lbl:latitude":42.134266,
+    "lbl:longitude":23.943628,
+    "mps:latitude":42.134266,
+    "mps:longitude":23.943628,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Belovo"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u06ce\u0644\u06c6\u06a4\u06c6"
+    ],
+    "name:eng_x_preferred":[
+        "Belovo"
+    ],
+    "name:eng_x_variant":[
+        "Beljovo",
+        "Gara Bel'oro",
+        "Gara Byelovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u0648\u0648\u060c \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ed\u30f4\u30a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:por_x_preferred":[
+        "Belovo"
+    ],
+    "name:ron_x_preferred":[
+        "Belovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Belovo"
+    ],
+    "name:spa_x_preferred":[
+        "Belovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Gara Byelovo"
+    ],
+    "name:vie_x_preferred":[
+        "Belovo"
+    ],
+    "name:war_x_preferred":[
+        "Belovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5225\u6d1b\u6c83"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+    "qs:a1_alt":"Pazardzhik",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0435\u043b\u043e\u0432\u043e",
+    "qs:loc_alt":"Belovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":320.0,
+    "wd:latitude":42.216667,
+    "wd:longitude":24.016667,
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03701f52-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":733286,
+        "gp:id":834916,
+        "qs:id":6,
+        "wd:id":"Q407705"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"20c08cf7adddbe37e10ffacec5f3e915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101857925,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":101857925,
+    "wof:lastmodified":1544744148,
+    "wof:name":"\u0411\u0435\u043b\u043e\u0432\u043e",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:population":4155,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.943628,
+    42.134266,
+    23.943628,
+    42.134266
+],
+  "geometry": {"coordinates":[23.943628,42.134266],"type":"Point"}
+}

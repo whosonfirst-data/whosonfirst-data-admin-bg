@@ -1,0 +1,84 @@
+{
+  "id": 1310039439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13333,43.73333,27.13333,43.73333",
+    "geom:latitude":43.73333,
+    "geom:longitude":27.13333,
+    "gn:admin1_code":"55",
+    "gn:admin2_code":"SLS10",
+    "gn:admin3_code":"SLS10-05",
+    "gn:asciiname":"Grancharovo",
+    "gn:country_code":"BG",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731010,
+    "gn:latitude":43.73333,
+    "gn:longitude":27.13333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Grancharovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u044a\u043d\u0447\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Grancharovo"
+    ],
+    "name:und_x_variant":[
+        "Dimit\u0103r Petkowo",
+        "Gr\u016dncharovd",
+        "Dimit\u016dr Petkov",
+        "Khasan Fak\u016d",
+        "Dimit\u016dr-Petkovo",
+        "Khasanfak\u0103",
+        "Dimt\u016dr Petkovo",
+        "Hasanfac\u00e2",
+        "Gr\u016dncharovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731010
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1c1962d004b683f8a45293d35104b7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310039439,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1310039439,
+    "wof:lastmodified":1537587604,
+    "wof:name":"Grancharovo",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13333,
+    43.73333,
+    27.13333,
+    43.73333
+],
+  "geometry": {"coordinates":[27.13333,43.73333],"type":"Point"}
+}

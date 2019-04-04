@@ -1,0 +1,112 @@
+{
+  "id": 101798041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000119,
+    "geom:area_square_m":1078225.292646,
+    "geom:bbox":"23.2746168529,42.8173126695,23.2904840678,42.8308684573",
+    "geom:latitude":42.822837,
+    "geom:longitude":23.283041,
+    "iso:country":"BG",
+    "lbl:latitude":42.8232,
+    "lbl:longitude":23.283582,
+    "mps:latitude":42.8232,
+    "mps:longitude":23.283582,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0441\u043b\u0430\u0432\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Dobroslavci"
+    ],
+    "name:eng_x_preferred":[
+        "Dobroslavtsi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30d6\u30ed\u30b9\u30e9\u30f4\u30c4\u30a3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0441\u043b\u0430\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Dobros\u0142awci"
+    ],
+    "name:ron_x_preferred":[
+        "Dobroslav\u021bi"
+    ],
+    "name:rum_x_preferred":[
+        "Dobroslav\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0441\u043b\u0430\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dobroslavtsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0441\u043b\u0430\u0432\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Dobroslawzi"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430)",
+    "qs:a1_alt":"Sofia (stolitsa)",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u0414\u043e\u0431\u0440\u043e\u0441\u043b\u0430\u0432\u0446\u0438",
+    "qs:la_lc":"*BGSOF4621662",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u043e\u0431\u0440\u043e\u0441\u043b\u0430\u0432\u0446\u0438",
+    "qs:loc_alt":"Dobroslavtsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":75,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732190,
+        "gp:id":835729,
+        "wd:id":"Q2653464",
+        "wk:page":"Dobroslavtsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"272a3640d790ddd8cfce6e73b5b7289e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798041,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":101798041,
+    "wof:lastmodified":1527641924,
+    "wof:name":"\u0414\u043e\u0431\u0440\u043e\u0441\u043b\u0430\u0432\u0446\u0438",
+    "wof:parent_id":85681771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.27461685290268,
+    42.81731266946372,
+    23.2904840677794,
+    42.8308684572516
+],
+  "geometry": {"coordinates":[[[23.28606622084243,42.83070954687128],[23.28566423299799,42.82893568158994],[23.2868694688762,42.82877676245914],[23.28626649574221,42.82611596317105],[23.28988201397351,42.82563914500849],[23.28927895816145,42.82297835896861],[23.2904840677794,42.82281939932653],[23.28947904950121,42.81838474400058],[23.28345387491424,42.81917933065978],[23.28325298151452,42.81829238195508],[23.27963785986151,42.81876895453718],[23.27943702617898,42.81788199628102],[23.27702695096457,42.81819963451443],[23.27682615977147,42.81731266946372],[23.27562113082303,42.81747146443251],[23.27582190478938,42.81835843223769],[23.27461685290268,42.81851721569836],[23.27562075711523,42.82295204922775],[23.27682589514779,42.82279325199443],[23.277026717328,42.82368021209231],[23.27823186687795,42.8235213978403],[23.27863356981373,42.82529530867163],[23.27983874811258,42.82513647464503],[23.28024051766801,42.82691037482698],[23.28144572471609,42.82675152102433],[23.28184756089979,42.82852541055541],[23.28305279669843,42.82836653697569],[23.2834546995179,42.83014041585449],[23.28465996406703,42.82998152249627],[23.28486094477665,42.8308684572516],[23.28606622084243,42.83070954687128]]],"type":"Polygon"}
+}

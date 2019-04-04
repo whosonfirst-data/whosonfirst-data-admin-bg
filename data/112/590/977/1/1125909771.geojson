@@ -1,0 +1,108 @@
+{
+  "id": 1125909771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90278,42.20333,22.90278,42.20333",
+    "geom:latitude":42.20333,
+    "geom:longitude":22.90278,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":42.20333,
+    "lbl:longitude":22.90278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0443\u0445"
+    ],
+    "name:eng_x_preferred":[
+        "Pastuh"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0443\u0445"
+    ],
+    "name:rum_x_preferred":[
+        "Pastuh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0443\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0443\u0445"
+    ],
+    "name:unk_x_variant":[
+        "Pastuch"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":728399,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pastukh",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Kyustendil",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":57463,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":838643,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Kyustendil",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728399,
+        "gp:id":838643,
+        "qs_pg:id":57463,
+        "wd:id":"Q4346710"
+    },
+    "wof:country":"BG",
+    "wof:created":1497296103,
+    "wof:geomhash":"56d6ad50ad1cc2f90df9c2d7e9af618e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125909771,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1125909771,
+    "wof:lastmodified":1553816619,
+    "wof:name":"Pastukh",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90278,
+    42.20333,
+    22.90278,
+    42.20333
+],
+  "geometry": {"coordinates":[22.90278,42.20333],"type":"Point"}
+}

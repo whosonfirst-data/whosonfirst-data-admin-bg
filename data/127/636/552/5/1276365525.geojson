@@ -1,0 +1,77 @@
+{
+  "id": 1276365525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.44138,42.69569,27.44138,42.69569",
+    "geom:latitude":42.69569,
+    "geom:longitude":27.44138,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS04",
+    "gn:admin3_code":"BGS04-05",
+    "gn:asciiname":"Draganovo",
+    "gn:country_code":"BG",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731987,
+    "gn:latitude":42.69569,
+    "gn:longitude":27.44138,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Draganovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Arnaut K\u2019oy",
+        "Draganowo",
+        "Arnautkioy",
+        "Draganovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731987,
+        "wk:page":"Draganovo%2C_Burgas_Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3dc530a0a657e7fb7837d6fda268f595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276365525,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1276365525,
+    "wof:lastmodified":1537587671,
+    "wof:name":"Draganovo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.44138,
+    42.69569,
+    27.44138,
+    42.69569
+],
+  "geometry": {"coordinates":[27.44138,42.69569],"type":"Point"}
+}

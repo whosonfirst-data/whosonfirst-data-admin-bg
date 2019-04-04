@@ -1,0 +1,75 @@
+{
+  "id": 1226378293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43198,42.29933,22.43198,42.29933",
+    "geom:latitude":42.29933,
+    "geom:longitude":22.43198,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Shiroki Del Mahala",
+    "gn:country_code":"BG",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862038,
+    "gn:latitude":42.29933,
+    "gn:longitude":22.43198,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Shiroki Del Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0428\u0438\u0440\u043e\u043a\u0438 \u0434\u0435\u043b"
+    ],
+    "name:bul_x_variant":[
+        "Shiroki Del Mahala",
+        "\u0428\u0438\u0440\u043e\u043a\u0438 \u0414\u0435\u043b \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Shiroki Del Makhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862038
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"26aab8cf8be2cb996d9dbccb5af42e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226378293,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1226378293,
+    "wof:lastmodified":1537587783,
+    "wof:name":"Shiroki Del Mahala",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43198,
+    42.29933,
+    22.43198,
+    42.29933
+],
+  "geometry": {"coordinates":[22.43198,42.29933],"type":"Point"}
+}

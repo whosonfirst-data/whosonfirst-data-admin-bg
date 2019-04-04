@@ -1,0 +1,95 @@
+{
+  "id": 1125901319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01667,41.7,26.01667,41.7",
+    "geom:latitude":41.7,
+    "geom:longitude":26.01667,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":41.7,
+    "lbl:longitude":26.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u043b\u0447\u0435 \u041f\u043e\u043b\u0435"
+    ],
+    "name:bul_x_variant":[
+        "Valche Pole"
+    ],
+    "name:unk_x_variant":[
+        "Kurtolen"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":725680,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Vulche Pole",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Khaskovo",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":57505,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":840704,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Khaskovo",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725680,
+        "gp:id":840704,
+        "qs_pg:id":57505
+    },
+    "wof:country":"BG",
+    "wof:created":1497295819,
+    "wof:geomhash":"2b561465a7f0f79ee7c611bc4e43f682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125901319,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1125901319,
+    "wof:lastmodified":1509399434,
+    "wof:name":"Vulche Pole",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01667,
+    41.7,
+    26.01667,
+    41.7
+],
+  "geometry": {"coordinates":[26.01667,41.7],"type":"Point"}
+}

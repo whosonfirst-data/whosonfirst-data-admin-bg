@@ -1,0 +1,69 @@
+{
+  "id": 1310040149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49712,42.48718,23.49712,42.48718",
+    "geom:latitude":42.48718,
+    "geom:longitude":23.49712,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO39",
+    "gn:asciiname":"Dolni Okol",
+    "gn:country_code":"BG",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732088,
+    "gn:latitude":42.48718,
+    "gn:longitude":23.49712,
+    "gn:modification_date":"2015-05-28",
+    "gn:name":"Dolni Okol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438 \u041e\u043a\u043e\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732088
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6b307c6684b39e146d914ce5c07d7537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310040149,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1310040149,
+    "wof:lastmodified":1537587679,
+    "wof:name":"Dolni Okol",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49712,
+    42.48718,
+    23.49712,
+    42.48718
+],
+  "geometry": {"coordinates":[23.49712,42.48718],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1226378723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93333,43.38333,26.93333,43.38333",
+    "geom:latitude":43.38333,
+    "geom:longitude":26.93333,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"SHU11",
+    "gn:admin3_code":"SHU11-05",
+    "gn:asciiname":"Varbak",
+    "gn:country_code":"BG",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725660,
+    "gn:latitude":43.38333,
+    "gn:longitude":26.93333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Varbak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u0440\u0431\u0430\u043a"
+    ],
+    "name:bul_x_variant":[
+        "Varbak"
+    ],
+    "name:und_x_variant":[
+        "Kabijuk Siujutliu",
+        "W\u0103rbak",
+        "Kabiyuk Syuyutlie",
+        "Sjujutli",
+        "Kabiyuk-Syuyutlyu",
+        "Syuyutlyu",
+        "V\u016drbak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725660
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"34fed7b7d7caf3848942e9e9e0d092d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226378723,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1226378723,
+    "wof:lastmodified":1537587261,
+    "wof:name":"Varbak",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93333,
+    43.38333,
+    26.93333,
+    43.38333
+],
+  "geometry": {"coordinates":[26.93333,43.38333],"type":"Point"}
+}

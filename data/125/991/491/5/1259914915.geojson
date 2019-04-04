@@ -1,0 +1,79 @@
+{
+  "id": 1259914915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.83737,42.9866,27.83737,42.9866",
+    "geom:latitude":42.9866,
+    "geom:longitude":27.83737,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"VAR13",
+    "gn:asciiname":"Novo Oryahovo",
+    "gn:country_code":"BG",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728724,
+    "gn:latitude":42.9866,
+    "gn:longitude":27.83737,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Novo Oryahovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u041e\u0440\u044f\u0445\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Novo Oryahovo"
+    ],
+    "name:und_x_variant":[
+        "Dervish Ivan",
+        "Novo Oryekhovo",
+        "Eni Dervish Yuvan",
+        "Nowo Orechowo",
+        "Novo Oryakhovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728724
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"75b2fcbaf4fd1cf39cede8d878f2c758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259914915,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1259914915,
+    "wof:lastmodified":1537587460,
+    "wof:name":"Novo Oryahovo",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.83737,
+    42.9866,
+    27.83737,
+    42.9866
+],
+  "geometry": {"coordinates":[27.83737,42.9866],"type":"Point"}
+}

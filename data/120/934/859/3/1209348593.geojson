@@ -1,0 +1,72 @@
+{
+  "id": 1209348593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.18659,42.15752,27.18659,42.15752",
+    "geom:latitude":42.15752,
+    "geom:longitude":27.18659,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS06",
+    "gn:asciiname":"Kirovo",
+    "gn:country_code":"BG",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730351,
+    "gn:latitude":42.15752,
+    "gn:longitude":27.18659,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kirovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Karovo",
+        "Madlesh",
+        "Madlesch",
+        "Kirovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730351,
+        "wk:page":"Kirovo%2C_Bulgaria"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"039a02e4a4d3d8b079ea7b56a9f69206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209348593
+        }
+    ],
+    "wof:id":1209348593,
+    "wof:lastmodified":1537587562,
+    "wof:name":"Kirovo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.18659,
+    42.15752,
+    27.18659,
+    42.15752
+],
+  "geometry": {"coordinates":[27.18659,42.15752],"type":"Point"}
+}

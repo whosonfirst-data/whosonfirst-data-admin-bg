@@ -1,0 +1,75 @@
+{
+  "id": 1326766665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2,42.88333,23.2,42.88333",
+    "geom:latitude":42.88333,
+    "geom:longitude":23.2,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO26",
+    "gn:admin3_code":"SFO26-05",
+    "gn:asciiname":"Gradets",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731090,
+    "gn:latitude":42.88333,
+    "gn:longitude":23.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gradets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u0430\u0434\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Gradez",
+        "Gradets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731090
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"cc66d02c78378b9ec6a0fa3cae755931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326766665,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1326766665,
+    "wof:lastmodified":1537587608,
+    "wof:name":"Gradets",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2,
+    42.88333,
+    23.2,
+    42.88333
+],
+  "geometry": {"coordinates":[23.2,42.88333],"type":"Point"}
+}

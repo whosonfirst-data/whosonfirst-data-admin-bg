@@ -1,0 +1,77 @@
+{
+  "id": 1225876067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.32282,41.34819,25.32282,41.34819",
+    "geom:latitude":41.34819,
+    "geom:longitude":25.32282,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Barzia",
+    "gn:country_code":"BG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732749,
+    "gn:latitude":41.34819,
+    "gn:longitude":25.32282,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Barzia",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u044a\u0440\u0437\u0438\u044f"
+    ],
+    "name:bul_x_variant":[
+        "Barzia"
+    ],
+    "name:und_x_variant":[
+        "Sap Dere",
+        "Barsija",
+        "B\u016drziya",
+        "B\u016drzeya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732749
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b22e35094592f58410b4b2bd28943d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225876067,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1225876067,
+    "wof:lastmodified":1537587722,
+    "wof:name":"Barzia",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.32282,
+    41.34819,
+    25.32282,
+    41.34819
+],
+  "geometry": {"coordinates":[25.32282,41.34819],"type":"Point"}
+}

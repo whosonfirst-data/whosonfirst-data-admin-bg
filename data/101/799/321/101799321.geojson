@@ -1,0 +1,107 @@
+{
+  "id": 101799321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000054,
+    "geom:area_square_m":489223.754468,
+    "geom:bbox":"24.7173499183,42.6532668814,24.7326196603,42.6585638838",
+    "geom:latitude":42.656044,
+    "geom:longitude":24.725595,
+    "iso:country":"BG",
+    "lbl:latitude":42.656047,
+    "lbl:longitude":24.726976,
+    "mps:latitude":42.656047,
+    "mps:longitude":24.726976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0435\u0432\u0441\u043a\u043e \u043a\u0430\u043b\u0435"
+    ],
+    "name:bul_x_variant":[
+        "\u0410\u043d\u0435\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Anevo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043d\u0435\u0432\u0441\u043a\u0430 \u0442\u0432\u0440\u0434\u0438\u043d\u0430"
+    ],
+    "name:rum_x_preferred":[
+        "Anevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0435\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Fortaleza de Anevo"
+    ],
+    "name:swe_x_preferred":[
+        "Anevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Anewo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+    "qs:a1_alt":"Plovdiv",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0421\u043e\u043f\u043e\u0442",
+    "qs:la_lc":"*BGPDV4368080",
+    "qs:level":"locality",
+    "qs:loc":"\u0410\u043d\u0435\u0432\u043e",
+    "qs:loc_alt":"Anevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":656,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733669,
+        "qs:id":4,
+        "wd:id":"Q2011071"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ecd28f4a5094cd409c2d846dcec730ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799321,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":101799321,
+    "wof:lastmodified":1527641694,
+    "wof:name":"\u0410\u043d\u0435\u0432\u043e",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71734991828077,
+    42.65326688144194,
+    24.7326196602624,
+    42.65856388383918
+],
+  "geometry": {"coordinates":[[[24.72542779220964,42.65856388383918],[24.7326196602624,42.65750801035597],[24.73173307214233,42.65397431078691],[24.73053451036856,42.65415031292707],[24.73031290217773,42.65326688144194],[24.71832710879437,42.65502609505745],[24.71854854880968,42.65590955681932],[24.71734991828077,42.65608540345488],[24.71779279107733,42.65785232875908],[24.72138876484001,42.65732472827915],[24.72161026490505,42.65820817971382],[24.72520623287772,42.65768044291241],[24.72542779220964,42.65856388383918]]],"type":"Polygon"}
+}

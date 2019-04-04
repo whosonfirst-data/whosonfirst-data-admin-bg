@@ -1,0 +1,75 @@
+{
+  "id": 1242608865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.19611,43.27667,23.19611,43.27667",
+    "geom:latitude":43.27667,
+    "geom:longitude":23.19611,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"MON02",
+    "gn:asciiname":"Bokilovtsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733100,
+    "gn:latitude":43.27667,
+    "gn:longitude":23.19611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bokilovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u043a\u0438\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bokilowzi",
+        "Bokilovtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733100,
+        "wk:page":"Bokilovtsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"482b3fdd01b153a9fe9a1ac09a76fa7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242608865,
+            "region_id":85681821
+        }
+    ],
+    "wof:id":1242608865,
+    "wof:lastmodified":1537587745,
+    "wof:name":"Bokilovtsi",
+    "wof:parent_id":85681821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.19611,
+    43.27667,
+    23.19611,
+    43.27667
+],
+  "geometry": {"coordinates":[23.19611,43.27667],"type":"Point"}
+}

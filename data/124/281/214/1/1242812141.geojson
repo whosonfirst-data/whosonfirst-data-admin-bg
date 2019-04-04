@@ -1,0 +1,80 @@
+{
+  "id": 1242812141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.51667,42.26667,23.51667,42.26667",
+    "geom:latitude":42.26667,
+    "geom:longitude":23.51667,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO39",
+    "gn:admin3_code":"SFO39-15",
+    "gn:asciiname":"Mala Tsarkva",
+    "gn:country_code":"BG",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729394,
+    "gn:latitude":42.26667,
+    "gn:longitude":23.51667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Mala Tsarkva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u0430 \u0426\u044a\u0440\u043a\u0432\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Mala Tsarkva"
+    ],
+    "name:und_x_variant":[
+        "Sr\u016dbsko Selo",
+        "Mala Tsrkva",
+        "Mala Tserkva",
+        "Mala Ts\u016drkva",
+        "Mala Z\u0103rkwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729394
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7366e2f61b6022eb1b81d7cce2968af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242812141,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1242812141,
+    "wof:lastmodified":1537587503,
+    "wof:name":"Mala Tsarkva",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.51667,
+    42.26667,
+    23.51667,
+    42.26667
+],
+  "geometry": {"coordinates":[23.51667,42.26667],"type":"Point"}
+}

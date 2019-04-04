@@ -1,0 +1,127 @@
+{
+  "id": 101799275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000123,
+    "geom:area_square_m":1128307.254468,
+    "geom:bbox":"24.1719761582,42.1796494929,24.193554447,42.1908202575",
+    "geom:latitude":42.185438,
+    "geom:longitude":24.181698,
+    "iso:country":"BG",
+    "lbl:latitude":42.185494,
+    "lbl:longitude":24.181535,
+    "mps:latitude":42.185494,
+    "mps:longitude":24.181535,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0421\u0442\u0440\u0430\u0436\u0438\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u041b\u043e\u0437\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Strazhitsa"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Stra\u017eica"
+    ],
+    "name:eng_x_preferred":[
+        "Lozen"
+    ],
+    "name:eng_x_variant":[
+        "Ishikashliy",
+        "Losen"
+    ],
+    "name:fra_x_preferred":[
+        "Strajitsa"
+    ],
+    "name:ita_x_preferred":[
+        "Stra\u017eica"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e2\u10e0\u10d0\u10df\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Stra\u017cica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Straji\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Strazjitsa"
+    ],
+    "name:unk_x_variant":[
+        "Ishikashliy"
+    ],
+    "name:vie_x_preferred":[
+        "Strazhitsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7279\u62c9\u65e5\u5bdf\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+    "qs:a1_alt":"Pazardzhik",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041b\u043e\u0437\u0435\u043d",
+    "qs:la_lc":"*BGPAZ2944053",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u043e\u0437\u0435\u043d",
+    "qs:loc_alt":"Lozen",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":216,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371a66a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":729544,
+        "gp:id":837756,
+        "qs:id":110352
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"fdac617f8097262d14bdd7a76fd8a4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799275,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":101799275,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641684,
+    "wof:name":"\u041b\u043e\u0437\u0435\u043d",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.17197615821755,
+    42.17964949288387,
+    24.19355444695651,
+    42.19082025751328
+],
+  "geometry": {"coordinates":[[[24.18066678345497,42.19065099575295],[24.18045614797825,42.18976568613033],[24.18402848199088,42.18925782521291],[24.18423916721957,42.19014312619231],[24.18662072695889,42.18980447625324],[24.18641000856377,42.18891918103691],[24.19355444695651,42.18790291141113],[24.19292204325819,42.1852470692852],[24.18815930684724,42.18592460396189],[24.18773787863637,42.184154012519],[24.18654721297196,42.1843233553127],[24.18591518280118,42.18166744905528],[24.1835339332838,42.1820060752222],[24.18332330635474,42.18112076458851],[24.17737016247736,42.18196706982877],[24.17715962675624,42.18108174340279],[24.17596899691102,42.1812509594381],[24.17575848608288,42.18036562874062],[24.17456786693469,42.18053482785274],[24.17435738099846,42.17964949288387],[24.17197615821755,42.17998784321759],[24.17302850523527,42.18441453292661],[24.17421920246602,42.18424535038889],[24.17464023262949,42.18601601077148],[24.1758309571419,42.18584680842991],[24.17667318358781,42.18938810097359],[24.17786396855035,42.18921887306726],[24.17807456253934,42.19010418984305],[24.17926535820123,42.18993494500995],[24.17947597709372,42.19082025751328],[24.18066678345497,42.19065099575295]]],"type":"Polygon"}
+}

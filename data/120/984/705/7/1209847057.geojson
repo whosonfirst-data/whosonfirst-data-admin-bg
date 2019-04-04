@@ -1,0 +1,73 @@
+{
+  "id": 1209847057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39278,42.30556,22.39278,42.30556",
+    "geom:latitude":42.30556,
+    "geom:longitude":22.39278,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Dyulgerska",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862022,
+    "gn:latitude":42.30556,
+    "gn:longitude":22.39278,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dyulgerska",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u044e\u043b\u0433\u0435\u0440\u0441\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dyulgerska Makhala",
+        "Dyulgerska"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862022
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3a8bd622eec26013c3a92e5058334d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1209847057,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1209847057,
+    "wof:lastmodified":1537587782,
+    "wof:name":"Dyulgerska",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39278,
+    42.30556,
+    22.39278,
+    42.30556
+],
+  "geometry": {"coordinates":[22.39278,42.30556],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 101800409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000106,
+    "geom:area_square_m":968567.756944,
+    "geom:bbox":"24.4200846142,42.0789748138,24.4395236338,42.0875784096",
+    "geom:latitude":42.083862,
+    "geom:longitude":24.430106,
+    "iso:country":"BG",
+    "lbl:latitude":42.0839,
+    "lbl:longitude":24.430106,
+    "mps:latitude":42.0839,
+    "mps:longitude":24.430106,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0418\u0441\u043f\u0435\u0440\u0438\u0445\u043e\u0432\u043e"
+    ],
+    "name:eng_x_colloquial":[
+        "Adthnkioy",
+        "Adtnkioy",
+        "Adunkioy"
+    ],
+    "name:eng_x_preferred":[
+        "Isperikhovo"
+    ],
+    "name:eng_x_variant":[
+        "Ad\u00fenkioy",
+        "Aidinevo",
+        "Ajdinovo",
+        "Aydinevo",
+        "Aydinovo",
+        "Isperichowo",
+        "Isperihovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0441\u043f\u0435\u0440\u0438\u0445\u043e\u0432\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Isperihovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043f\u0435\u0440\u0438\u0445\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Isperichovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0441\u043f\u0435\u0440\u0438\u0445\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Aydinovo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+    "qs:a1_alt":"Pazardzhik",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u043e\u0437\u0430\u0440\u0441\u043a\u043e",
+    "qs:la_lc":"*BGPAZ0637705",
+    "qs:level":"locality",
+    "qs:loc":"\u0418\u0441\u043f\u0435\u0440\u0438\u0445\u043e\u0432\u043e",
+    "qs:loc_alt":"Isperihovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03712564-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730864,
+        "gp:id":836788,
+        "qs:id":1272551,
+        "wd:id":"Q1085403"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3b0c4d612fec8b9bff91c81db9c734eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800409,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":101800409,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513899840,
+    "wof:name":"\u0418\u0441\u043f\u0435\u0440\u0438\u0445\u043e\u0432\u043e",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.42008461421659,
+    42.07897481384526,
+    24.43952363375269,
+    42.08757840956343
+],
+  "geometry": {"coordinates":[[[24.42051172675963,42.08757840956343],[24.42764137044287,42.08654575531932],[24.42785503811206,42.08743052797996],[24.43617280016451,42.0862251069853],[24.43638659147803,42.08710985778077],[24.43876307425325,42.08676531988925],[24.43833543421516,42.08499582856598],[24.43952363375269,42.08482354445636],[24.43930980991354,42.08393879958589],[24.43812162683327,42.08411108077348],[24.43705271627744,42.07968732050529],[24.4358646095219,42.07985957308142],[24.43565086913259,42.07897481384526],[24.4344627728787,42.07914704949678],[24.43467649681378,42.08003181165361],[24.42873584399717,42.0808927944567],[24.42852220233971,42.08000801769907],[24.42733407038088,42.08018016932766],[24.42754769558161,42.08106494900494],[24.42160686426672,42.08192551167639],[24.4222475434907,42.08457988597684],[24.4210593100031,42.08475196525194],[24.42127287011385,42.08563675676612],[24.42008461421659,42.08580882495392],[24.42051172675963,42.08757840956343]]],"type":"Polygon"}
+}

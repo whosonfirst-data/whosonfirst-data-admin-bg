@@ -1,0 +1,79 @@
+{
+  "id": 1209851537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.6,43.35,24.6,43.35",
+    "geom:latitude":43.35,
+    "geom:longitude":24.6,
+    "gn:admin1_code":"50",
+    "gn:admin2_code":"PVN24",
+    "gn:admin3_code":"PVN24-03",
+    "gn:asciiname":"Brestovets",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732899,
+    "gn:latitude":43.35,
+    "gn:longitude":24.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Brestovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Bryestovets",
+        "Bryastovets",
+        "Brestowez",
+        "Brjestovec",
+        "Br\u011bstovec",
+        "Brestovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732899
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"07ecb05dd2d3e1cc3980c5f703c085d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1209851537,
+            "region_id":85681835
+        }
+    ],
+    "wof:id":1209851537,
+    "wof:lastmodified":1537587734,
+    "wof:name":"Brestovets",
+    "wof:parent_id":85681835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.6,
+    43.35,
+    24.6,
+    43.35
+],
+  "geometry": {"coordinates":[24.6,43.35],"type":"Point"}
+}

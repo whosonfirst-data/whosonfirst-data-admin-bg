@@ -1,0 +1,78 @@
+{
+  "id": 1226373701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90699,43.01822,22.90699,43.01822",
+    "geom:latitude":43.01822,
+    "geom:longitude":22.90699,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO16",
+    "gn:admin3_code":"SFO16-08",
+    "gn:asciiname":"Cheparlintsi",
+    "gn:country_code":"BG",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732614,
+    "gn:latitude":43.01822,
+    "gn:longitude":22.90699,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Cheparlintsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u043f\u044a\u0440\u043b\u0438\u043d\u0446\u0438"
+    ],
+    "name:bul_x_variant":[
+        "Cheparlintsi"
+    ],
+    "name:und_x_variant":[
+        "Tschep\u0103rlinzi",
+        "Chep\u016drlints\u016d",
+        "Chep\u016drlintsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732614
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"114828859f87027c1664e596bea8c0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226373701,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1226373701,
+    "wof:lastmodified":1537587714,
+    "wof:name":"Cheparlintsi",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90699,
+    43.01822,
+    22.90699,
+    43.01822
+],
+  "geometry": {"coordinates":[22.90699,43.01822],"type":"Point"}
+}

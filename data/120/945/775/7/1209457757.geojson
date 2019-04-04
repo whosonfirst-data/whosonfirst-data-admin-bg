@@ -1,0 +1,67 @@
+{
+  "id": 1209457757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09528,41.83527,23.09528,41.83527",
+    "geom:latitude":41.83527,
+    "geom:longitude":23.09528,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Potoka",
+    "gn:country_code":"BG",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436614,
+    "gn:latitude":41.83527,
+    "gn:longitude":23.09528,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Potoka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Potoka"
+    ],
+    "name:bul_x_variant":[
+        "\u041f\u043e\u0442\u043e\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436614
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1292e7403ea49abc7b21d3030b048c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209457757
+        }
+    ],
+    "wof:id":1209457757,
+    "wof:lastmodified":1537587805,
+    "wof:name":"Potoka",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09528,
+    41.83527,
+    23.09528,
+    41.83527
+],
+  "geometry": {"coordinates":[23.09528,41.83527],"type":"Point"}
+}

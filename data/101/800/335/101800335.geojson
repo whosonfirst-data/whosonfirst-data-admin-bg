@@ -1,0 +1,112 @@
+{
+  "id": 101800335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":659114.62664,
+    "geom:bbox":"23.3110478359,41.5164097515,23.3234154035,41.5264317983",
+    "geom:latitude":41.521557,
+    "geom:longitude":23.317286,
+    "iso:country":"BG",
+    "lbl:latitude":41.52153,
+    "lbl:longitude":23.317286,
+    "mps:latitude":41.52153,
+    "mps:longitude":23.317286,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u043a\u043b\u0430\u0432\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Sklave"
+    ],
+    "name:eng_x_preferred":[
+        "Sklave"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043a\u043b\u0430\u0432\u0435"
+    ],
+    "name:mac_x_preferred":[
+        "\u0421\u043a\u043b\u0430\u0432\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043a\u043b\u0430\u0432\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Sklave"
+    ],
+    "name:rum_x_preferred":[
+        "Sklave"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u043b\u0430\u0432\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Sklave"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u043b\u0430\u0432\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Sklawe"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0421\u043a\u043b\u0430\u0432\u0435",
+    "qs:la_lc":"*BGBLG4066785",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u043a\u043b\u0430\u0432\u0435",
+    "qs:loc_alt":"Sklave",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727150,
+        "gp:id":837085,
+        "qs:id":3,
+        "wd:id":"Q2989945",
+        "wk:page":"Sklave"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"57de57fa1dc374bcdb14757aff1237ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800335,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800335,
+    "wof:lastmodified":1527715089,
+    "wof:name":"\u0421\u043a\u043b\u0430\u0432\u0435",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.31104783590683,
+    41.51640975152685,
+    23.32341540350836,
+    41.5264317982859
+],
+  "geometry": {"coordinates":[[[23.32341540350836,41.52627297672717],[23.32263807998157,41.52272065352088],[23.32145815776312,41.5228794644384],[23.3204867558714,41.51843901685896],[23.31930690961252,41.51859780055679],[23.31911266831673,41.51770970434563],[23.31793283296503,41.51786847146349],[23.31773861553586,41.51698037124771],[23.3153789612964,41.51729785840485],[23.31518478399369,41.51640975152685],[23.31400496510651,41.51656847156642],[23.31419912614786,41.51745658110275],[23.3118394397963,41.51777398473644],[23.31222771963604,41.51955021040646],[23.31104783590683,41.51970889665762],[23.31124197096597,41.52059701013354],[23.3124218709595,41.52043832122439],[23.31300437054801,41.52310264561021],[23.31418431398447,41.52294393480486],[23.31457271759558,41.52472013902178],[23.31575268821138,41.52456140897669],[23.31594691769209,41.52544950640925],[23.31712689922023,41.52529075978259],[23.31732115257421,41.52617885321104],[23.32204109019739,41.52554371684198],[23.32223541622801,41.5264317982859],[23.32341540350836,41.52627297672717]]],"type":"Polygon"}
+}

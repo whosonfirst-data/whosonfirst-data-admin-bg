@@ -1,0 +1,75 @@
+{
+  "id": 1276152177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9427,41.4811,24.9427,41.4811",
+    "geom:latitude":41.4811,
+    "geom:longitude":24.9427,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"SML16",
+    "gn:admin3_code":"SML16-19",
+    "gn:asciiname":"Borinovo",
+    "gn:country_code":"BG",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733065,
+    "gn:latitude":41.4811,
+    "gn:longitude":24.9427,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Borinovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Borievo",
+        "Borinowo",
+        "Borinovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733065
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2988579c78dd71ff9c3641a240baadd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276152177,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1276152177,
+    "wof:lastmodified":1537587743,
+    "wof:name":"Borinovo",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9427,
+    41.4811,
+    24.9427,
+    41.4811
+],
+  "geometry": {"coordinates":[24.9427,41.4811],"type":"Point"}
+}

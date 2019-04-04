@@ -1,0 +1,101 @@
+{
+  "id": 101836631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000199,
+    "geom:area_square_m":1827210.386141,
+    "geom:bbox":"24.4455655583,42.1318170386,24.4623910383,42.1501182093",
+    "geom:latitude":42.141161,
+    "geom:longitude":24.453685,
+    "iso:country":"BG",
+    "lbl:latitude":42.140218,
+    "lbl:longitude":24.455207,
+    "mps:latitude":42.140218,
+    "mps:longitude":24.455207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0434\u0436\u0438\u0435\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Hadzhievo"
+    ],
+    "name:eng_x_preferred":[
+        "Hadzhievo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0430\u0434\u0436\u0438\u0435\u0432\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Hadjievo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0434\u0436\u0438\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Chadzjievo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0434\u0436\u0456\u0454\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Adzhievo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+    "qs:a1_alt":"Pazardzhik",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0422\u0440\u0438\u0432\u043e\u0434\u0438\u0446\u0438",
+    "qs:la_lc":"*BGPDV4173081",
+    "qs:level":"locality",
+    "qs:loc":"\u0425\u0430\u0434\u0436\u0438\u0435\u0432\u043e",
+    "qs:loc_alt":"Hadzhievo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730462,
+        "gp:id":837052,
+        "qs:id":404367,
+        "wd:id":"Q1085503"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"84e09215d8aca97e7be9152b241f3bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101836631,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":101836631,
+    "wof:lastmodified":1513899956,
+    "wof:name":"\u0425\u0430\u0434\u0436\u0438\u0435\u0432\u043e",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4455655583439,
+    42.13181703864302,
+    24.46239103828015,
+    42.15011820933501
+],
+  "geometry": {"coordinates":[[[24.46239103828015,42.14286184852693],[24.45646302884074,42.13181703864302],[24.44870446013806,42.13294252853314],[24.44913297841759,42.13471187235837],[24.4455655583439,42.1352290899805],[24.44620825069711,42.13788312142594],[24.44858663567976,42.13753830612717],[24.44880091634997,42.1384229745812],[24.44999011637196,42.13825054297638],[24.45063305857258,42.14090453103699],[24.44587602468368,42.14159420848921],[24.44737605704881,42.1477868796365],[24.44856543997963,42.14761446080047],[24.44899412973126,42.14938377678698],[24.45494111970498,42.14852144300448],[24.45515555977101,42.14940608421932],[24.45634495632328,42.14923357247062],[24.45655942134857,42.15011820933501],[24.46012762461299,42.1496005811739],[24.45862620058273,42.14340815486293],[24.46239103828015,42.14286184852693]]],"type":"Polygon"}
+}

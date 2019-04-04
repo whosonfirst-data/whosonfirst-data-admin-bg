@@ -1,0 +1,74 @@
+{
+  "id": 1243008051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7,42.31667,26.7,42.31667",
+    "geom:latitude":42.31667,
+    "geom:longitude":26.7,
+    "gn:admin1_code":"65",
+    "gn:admin2_code":"JAM25",
+    "gn:asciiname":"Robovo",
+    "gn:country_code":"BG",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727615,
+    "gn:latitude":42.31667,
+    "gn:longitude":26.7,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Robovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0431\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kul K\u2019oy",
+        "Robowo",
+        "Robovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727615
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3bf7a3ba7796cce0d4bb633b2c3512da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243008051,
+            "region_id":85681793
+        }
+    ],
+    "wof:id":1243008051,
+    "wof:lastmodified":1537587385,
+    "wof:name":"Robovo",
+    "wof:parent_id":85681793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7,
+    42.31667,
+    26.7,
+    42.31667
+],
+  "geometry": {"coordinates":[26.7,42.31667],"type":"Point"}
+}

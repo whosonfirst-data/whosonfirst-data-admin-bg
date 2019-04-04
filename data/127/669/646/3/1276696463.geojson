@@ -1,0 +1,74 @@
+{
+  "id": 1276696463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16667,43.11667,25.16667,43.11667",
+    "geom:latitude":43.11667,
+    "geom:longitude":25.16667,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"VTR32",
+    "gn:asciiname":"Gorsko Kosovo",
+    "gn:country_code":"BG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731129,
+    "gn:latitude":43.11667,
+    "gn:longitude":25.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorsko Kosovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u0441\u043a\u043e \u041a\u043e\u0441\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Gorsko-Kossowo",
+        "Gorsko-Kosov",
+        "Gorsko Kosovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731129
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"124ca6de8e25541dd214c0916c89ab40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276696463,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1276696463,
+    "wof:lastmodified":1537587612,
+    "wof:name":"Gorsko Kosovo",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16667,
+    43.11667,
+    25.16667,
+    43.11667
+],
+  "geometry": {"coordinates":[25.16667,43.11667],"type":"Point"}
+}

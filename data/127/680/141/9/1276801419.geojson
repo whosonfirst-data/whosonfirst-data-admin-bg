@@ -1,0 +1,73 @@
+{
+  "id": 1276801419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68333,42.55,23.68333,42.55",
+    "geom:latitude":42.55,
+    "geom:longitude":23.68333,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Poliovtsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728140,
+    "gn:latitude":42.55,
+    "gn:longitude":23.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poliovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u043e\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pul\u2019ovtsi",
+        "Poliovtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728140
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"942fd05c05aa977f4bbb2309d56e6660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276801419,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1276801419,
+    "wof:lastmodified":1537587421,
+    "wof:name":"Poliovtsi",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68333,
+    42.55,
+    23.68333,
+    42.55
+],
+  "geometry": {"coordinates":[23.68333,42.55],"type":"Point"}
+}

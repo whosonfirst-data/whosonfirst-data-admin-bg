@@ -1,0 +1,101 @@
+{
+  "id": 101798173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":868620.851707,
+    "geom:bbox":"25.4877571044,42.5292539875,25.5037487055,42.5404299369",
+    "geom:latitude":42.534565,
+    "geom:longitude":25.495869,
+    "iso:country":"BG",
+    "lbl:latitude":42.534289,
+    "lbl:longitude":25.496414,
+    "mps:latitude":42.534289,
+    "mps:longitude":25.496414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u044a\u0436\u0435\u043d\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Razhena"
+    ],
+    "name:eng_x_preferred":[
+        "Razhena"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u044b\u0436\u0435\u043d\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Ry\u017cena"
+    ],
+    "name:rum_x_preferred":[
+        "R\u0103jena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0436\u0435\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0436\u0435\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Khamurzus"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+    "qs:a1_alt":"Stara Zagora",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0420\u044a\u0436\u0435\u043d\u0430",
+    "qs:la_lc":"*BGSZR1263570",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u044a\u0436\u0435\u043d\u0430",
+    "qs:loc_alt":"Razhena",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727499,
+        "gp:id":839351,
+        "qs:id":5,
+        "wd:id":"Q2020332"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"849215aacece3af3416c8c5b28435ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798173,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":101798173,
+    "wof:lastmodified":1513899911,
+    "wof:name":"\u0420\u044a\u0436\u0435\u043d\u0430",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48775710437377,
+    42.52925398745356,
+    25.50374870552213,
+    42.54042993687102
+],
+  "geometry": {"coordinates":[[[25.49250139782896,42.53829709308201],[25.50205703046186,42.5368168632084],[25.50182466510006,42.53593542917207],[25.50301907326991,42.53575034034174],[25.50255433700374,42.53398747408824],[25.50374870552213,42.53380237753771],[25.50305162039973,42.5311580763659],[25.50066297622323,42.53152823639761],[25.50043066603115,42.53064679332419],[25.49923635072656,42.53083184908587],[25.49900406628973,42.52995040133817],[25.49780976102932,42.53013543987504],[25.49757750234681,42.52925398745356],[25.49399459714994,42.52980900921955],[25.49422680614367,42.53069047114218],[25.49303247481487,42.53087545344988],[25.49349688724305,42.53263837911243],[25.4923025162683,42.53282335369562],[25.49253471970133,42.53370481743548],[25.48775710437377,42.53444458785054],[25.4886857449178,42.53797047842312],[25.48988022479921,42.53778554424224],[25.49057685140895,42.54042993687102],[25.49296589104245,42.54006000732767],[25.49250139782896,42.53829709308201]]],"type":"Polygon"}
+}

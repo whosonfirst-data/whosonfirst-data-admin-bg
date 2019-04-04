@@ -1,0 +1,75 @@
+{
+  "id": 1225975803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.61632,41.49547,25.61632,41.49547",
+    "geom:latitude":41.49547,
+    "geom:longitude":25.61632,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Rudnitsi",
+    "gn:country_code":"BG",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727553,
+    "gn:latitude":41.49547,
+    "gn:longitude":25.61632,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rudnitsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u0434\u043d\u0438\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Rudnitsi",
+        "\u0420\u0443\u0434\u043d\u0438\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Rudnitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727553
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ecdc92e0e54ba6c1dfdcd83b316ab54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225975803,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1225975803,
+    "wof:lastmodified":1537587380,
+    "wof:name":"Rudnitsi",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.61632,
+    41.49547000000001,
+    25.61632,
+    41.49547000000001
+],
+  "geometry": {"coordinates":[25.61632,41.49547000000001],"type":"Point"}
+}

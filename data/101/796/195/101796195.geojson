@@ -1,0 +1,136 @@
+{
+  "id": 101796195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000244,
+    "geom:area_square_m":2186015.281988,
+    "geom:bbox":"27.2155796501,43.5659886265,27.2413542455,43.5834436597",
+    "geom:latitude":43.57506,
+    "geom:longitude":27.228862,
+    "gn:population":988,
+    "iso:country":"BG",
+    "lbl:latitude":43.574178,
+    "lbl:longitude":27.229057,
+    "mps:latitude":43.574178,
+    "mps:longitude":27.229057,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430 \u041a\u043e\u0437\u043b\u0435\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430-\u041a\u043e\u0437\u043b\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Nikola-Kozlevo"
+    ],
+    "name:eng_x_colloquial":[
+        "Dzivel"
+    ],
+    "name:eng_x_preferred":[
+        "Nikola-Kozlevo"
+    ],
+    "name:eng_x_variant":[
+        "Dzhivel",
+        "Dzhuvel",
+        "D\u017eivel",
+        "Nikola Koslewo",
+        "Nikola Kozlovo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10d9\u10dd\u10da\u10d0-\u10d9\u10dd\u10d6\u10da\u10d4\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430-\u041a\u043e\u0437\u043b\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Nikola Kozlevo"
+    ],
+    "name:ron_x_preferred":[
+        "Nikola Kozlevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430-\u041a\u043e\u0437\u043b\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Nikola-Kozlevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u0430-\u041a\u043e\u0437\u043b\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Dzhuvel"
+    ],
+    "name:war_x_preferred":[
+        "Nikola Kozlevo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u53e4\u62c9\u79d1\u8332\u840a\u6c83"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0428\u0443\u043c\u0435\u043d",
+    "qs:a1_alt":"Shumen",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041d\u0438\u043a\u043e\u043b\u0430 \u041a\u043e\u0437\u043b\u0435\u0432\u043e",
+    "qs:la_lc":"*BGSHU2151651",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u0438\u043a\u043e\u043b\u0430 \u041a\u043e\u0437\u043b\u0435\u0432\u043e",
+    "qs:loc_alt":"Nikola Kozlevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":80,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371ee36-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728791,
+        "gp:id":838323,
+        "qs:id":404672,
+        "wd:id":"Q2021578",
+        "wk:page":"Nikola Kozlevo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9e57b1ca564c5052c69c1e708129e20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101796195,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":101796195,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642027,
+    "wof:name":"\u041d\u0438\u043a\u043e\u043b\u0430 \u041a\u043e\u0437\u043b\u0435\u0432\u043e",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:population":988,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21557965014944,
+    43.56598862647684,
+    27.24135424546739,
+    43.58344365971254
+],
+  "geometry": {"coordinates":[[[27.23140368807032,43.58344365971254],[27.23987776807729,43.58200069773841],[27.24014367611011,43.58287596339272],[27.24135424546739,43.58266976547708],[27.24082240618139,43.58091923973598],[27.23961187069972,43.58112543042364],[27.23854838772763,43.57762434455674],[27.23975885546434,43.57741816832311],[27.23949299441847,43.57654289631751],[27.23828254361632,43.57674906893817],[27.23801671015633,43.57587379165886],[27.23680626868111,43.57607994644917],[27.23521159316488,43.57082822622607],[27.23400124568025,43.57103434512686],[27.23267272685797,43.5666578478872],[27.23146245641982,43.56686393451639],[27.23119680151621,43.56598862647684],[27.2251454199664,43.56701882833966],[27.22567657111665,43.5687694788586],[27.21841445931994,43.5700052952721],[27.218945449827,43.57175598246215],[27.21773503739837,43.57196190932171],[27.21800053167226,43.57283725403738],[27.21557965014944,43.57324907231941],[27.21637609517228,43.57587511816683],[27.21758659054768,43.57566920530962],[27.21785211043749,43.57654454700031],[27.21906261515295,43.57633861631535],[27.21932816262233,43.57721395273859],[27.22174918313152,43.57680204149358],[27.22201477512067,43.57767736903929],[27.22322529091241,43.5774713884785],[27.22349091048392,43.5783467107554],[27.22470143561276,43.57814071236567],[27.22576408810357,43.5816419704413],[27.22697467338998,43.58143594338935],[27.22724038006942,43.58231125014942],[27.22966156170821,43.58189914616366],[27.22992731291822,43.58277444404104],[27.23113790926942,43.58256836710683],[27.23140368807032,43.58344365971254]]],"type":"Polygon"}
+}

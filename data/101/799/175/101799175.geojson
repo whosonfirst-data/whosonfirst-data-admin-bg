@@ -1,0 +1,122 @@
+{
+  "id": 101799175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000164,
+    "geom:area_square_m":1497711.764955,
+    "geom:bbox":"23.1614927748,42.3054202858,23.184971695,42.3173758088",
+    "geom:latitude":42.311214,
+    "geom:longitude":23.173817,
+    "iso:country":"BG",
+    "lbl:latitude":42.312223,
+    "lbl:longitude":23.175774,
+    "mps:latitude":42.312223,
+    "mps:longitude":23.175774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d \u0431\u0440\u0435\u0433"
+    ],
+    "name:bul_x_variant":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d \u0431\u0440\u044f\u0433"
+    ],
+    "name:eng_x_colloquial":[
+        "Cerven Breg",
+        "Cerven-Brjeg",
+        "Cerveni Breg"
+    ],
+    "name:eng_x_preferred":[
+        "Cherven Breg"
+    ],
+    "name:eng_x_variant":[
+        "Cherven-Bryeg",
+        "Cherveni Breg",
+        "Cherveni Bryag",
+        "Cherveni Bryeg",
+        "Tcherven Breg",
+        "Tscherweni Breg",
+        "\u010cerven Breg",
+        "\u010cerven-Brjeg",
+        "\u010cerveni Br\u011bg"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d-\u0411\u0440\u0435\u0433"
+    ],
+    "name:ron_x_preferred":[
+        "Cerven Breg"
+    ],
+    "name:rum_x_preferred":[
+        "Cerven Breg"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d-\u0411\u0440\u0435\u0433"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d-\u0411\u0440\u0435\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Tscherweni Breg"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b",
+    "qs:a1_alt":"Kyustendil",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u0427\u0435\u0440\u0432\u0435\u043d \u0431\u0440\u0435\u0433",
+    "qs:la_lc":"*BGKNL4880491",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u0435\u0440\u0432\u0435\u043d \u0431\u0440\u0435\u0433",
+    "qs:loc_alt":"Cherven bryag",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037072c2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732492,
+        "gp:id":835500,
+        "wd:id":"Q1086793"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"defd790438f4badf9ba9bdf9943bf7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799175,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":101799175,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641687,
+    "wof:name":"\u0427\u0435\u0440\u0432\u0435\u043d \u0431\u0440\u0435\u0433",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16149277483271,
+    42.30542028576093,
+    23.18497169499477,
+    42.31737580875028
+],
+  "geometry": {"coordinates":[[[23.17838933179712,42.31690359077447],[23.17819281007098,42.3160159286744],[23.1841695800095,42.31522862950931],[23.18377639131029,42.31345332836361],[23.18497169499477,42.31329583152115],[23.18418534376673,42.30974522442676],[23.18299010752889,42.30990271048847],[23.18279355608445,42.30901505277279],[23.1792078648092,42.30948741808112],[23.17861840900645,42.30682441289298],[23.17264239934866,42.30761136536239],[23.17244601397186,42.30672368090347],[23.17125081234104,42.30688102630916],[23.17105445161712,42.30599333786],[23.16866406552145,42.30630798089203],[23.16846774630886,42.30542028576093],[23.16488217636834,42.3058921362458],[23.16507844499921,42.30677983945117],[23.16149277483271,42.30725157082088],[23.16208147569375,42.3099146968712],[23.16327675518744,42.30975745914134],[23.16347302124774,42.31064516254014],[23.16466831208936,42.31048790798604],[23.1648646028035,42.31137560739637],[23.16605990499266,42.3112183360177],[23.16625622036196,42.31210603143927],[23.16745153389809,42.31194874323563],[23.16764787392395,42.31283643466799],[23.16884319880637,42.3126791296387],[23.16962870430365,42.31622987162592],[23.17321484822452,42.3157578394231],[23.17341129468628,42.31664551359722],[23.1746066818169,42.31648813856759],[23.17480315294301,42.31737580875028],[23.17838933179712,42.31690359077447]]],"type":"Polygon"}
+}

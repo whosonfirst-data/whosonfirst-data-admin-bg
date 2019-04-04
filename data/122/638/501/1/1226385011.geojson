@@ -1,0 +1,80 @@
+{
+  "id": 1226385011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.51667,43.63333,27.51667,43.63333",
+    "geom:latitude":43.63333,
+    "geom:longitude":27.51667,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB15",
+    "gn:admin3_code":"DOB15-23",
+    "gn:asciiname":"Enevo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731648,
+    "gn:latitude":43.63333,
+    "gn:longitude":27.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Enevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0415\u043d\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Jas\u0103dshi",
+        "Yanevo",
+        "Essirdshe",
+        "Ez\u0103rdge",
+        "Esirdzha",
+        "Enewo",
+        "Enevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731648
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ed6c97b7da37c062d9413953f5233188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226385011,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1226385011,
+    "wof:lastmodified":1537587648,
+    "wof:name":"Enevo",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51667,
+    43.63333,
+    27.51667,
+    43.63333
+],
+  "geometry": {"coordinates":[27.51667,43.63333],"type":"Point"}
+}

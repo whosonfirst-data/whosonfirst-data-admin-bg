@@ -1,0 +1,77 @@
+{
+  "id": 1309740765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.78333,41.8,25.78333,41.8",
+    "geom:latitude":41.8,
+    "geom:longitude":25.78333,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Slavyanovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727089,
+    "gn:latitude":41.8,
+    "gn:longitude":25.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Slavyanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u044f\u0432\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Korashlii",
+        "Slavyanoya",
+        "Knyaz Borisovo",
+        "Knjas Borissowo",
+        "Kniaz-Borissovo",
+        "Slavyanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727089
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"bcadd666510496c40554b99ce1b39647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309740765,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1309740765,
+    "wof:lastmodified":1537587354,
+    "wof:name":"Slavyanovo",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.78333,
+    41.8,
+    25.78333,
+    41.8
+],
+  "geometry": {"coordinates":[25.78333,41.8],"type":"Point"}
+}

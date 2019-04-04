@@ -1,0 +1,78 @@
+{
+  "id": 1343592019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3,41.7,25.3,41.7",
+    "geom:latitude":41.7,
+    "geom:longitude":25.3,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ16",
+    "gn:admin3_code":"KRZ16-16",
+    "gn:asciiname":"Zvanche",
+    "gn:country_code":"BG",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725217,
+    "gn:latitude":41.7,
+    "gn:longitude":25.3,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Zvanche",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u0432\u044a\u043d\u0447\u0435"
+    ],
+    "name:bul_x_variant":[
+        "Zvanche"
+    ],
+    "name:und_x_variant":[
+        "Imamlar",
+        "Zv\u016dnche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725217,
+        "wk:page":"Zvunche"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5bf9915dbfaf52b4e0ab4e65cfa74bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343592019,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1343592019,
+    "wof:lastmodified":1537587227,
+    "wof:name":"Zvanche",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3,
+    41.7,
+    25.3,
+    41.7
+],
+  "geometry": {"coordinates":[25.3,41.7],"type":"Point"}
+}

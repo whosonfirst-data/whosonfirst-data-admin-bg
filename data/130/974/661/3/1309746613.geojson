@@ -1,0 +1,77 @@
+{
+  "id": 1309746613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87612,41.4114,25.87612,41.4114",
+    "geom:latitude":41.4114,
+    "geom:longitude":25.87612,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV11",
+    "gn:admin3_code":"HKV11-04",
+    "gn:asciiname":"Kazak",
+    "gn:country_code":"BG",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730499,
+    "gn:latitude":41.4114,
+    "gn:longitude":25.87612,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kazak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Kasak",
+        "Kazakl\u016d",
+        "Kazak",
+        "Kasaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730499,
+        "wk:page":"Kazak%2C_Bulgaria"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1a6548564ed354666199ae10aec3573a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309746613,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1309746613,
+    "wof:lastmodified":1537587571,
+    "wof:name":"Kazak",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87612,
+    41.4114,
+    25.87612,
+    41.4114
+],
+  "geometry": {"coordinates":[25.87612,41.4114],"type":"Point"}
+}

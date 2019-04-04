@@ -1,0 +1,74 @@
+{
+  "id": 1276908699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22076,41.31625,25.22076,41.31625",
+    "geom:latitude":41.31625,
+    "geom:longitude":25.22076,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Balabanska Mahala",
+    "gn:country_code":"BG",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11342209,
+    "gn:latitude":41.31625,
+    "gn:longitude":25.22076,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Balabanska Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Balabanska Mahala"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0441\u043a\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Balabanska Makhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11342209
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3580723edfb0a0882925267eff25fef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276908699,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1276908699,
+    "wof:lastmodified":1537587799,
+    "wof:name":"Balabanska Mahala",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22076,
+    41.31625,
+    25.22076,
+    41.31625
+],
+  "geometry": {"coordinates":[25.22076,41.31625],"type":"Point"}
+}

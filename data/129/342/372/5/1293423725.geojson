@@ -1,0 +1,76 @@
+{
+  "id": 1293423725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79937,43.92347,22.79937,43.92347",
+    "geom:latitude":43.92347,
+    "geom:longitude":22.79937,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID09",
+    "gn:asciiname":"Tarnyane",
+    "gn:country_code":"BG",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726149,
+    "gn:latitude":43.92347,
+    "gn:longitude":22.79937,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Tarnyane",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u044a\u0440\u043d\u044f\u043d\u0435"
+    ],
+    "name:bul_x_variant":[
+        "Tarnyane"
+    ],
+    "name:und_x_variant":[
+        "T\u0103rnjane",
+        "T\u016drnyane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726149
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0c431af13fae256275dcf3848e6241d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293423725,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1293423725,
+    "wof:lastmodified":1537587292,
+    "wof:name":"Tarnyane",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79937,
+    43.92347,
+    22.79937,
+    43.92347
+],
+  "geometry": {"coordinates":[22.79937,43.92347],"type":"Point"}
+}

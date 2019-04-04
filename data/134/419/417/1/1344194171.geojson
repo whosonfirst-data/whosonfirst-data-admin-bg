@@ -1,0 +1,78 @@
+{
+  "id": 1344194171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75722,43.97655,22.75722,43.97655",
+    "geom:latitude":43.97655,
+    "geom:longitude":22.75722,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID09",
+    "gn:admin3_code":"VID09-03",
+    "gn:asciiname":"Bela Rada",
+    "gn:country_code":"BG",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733370,
+    "gn:latitude":43.97655,
+    "gn:longitude":22.75722,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bela Rada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u0430 \u0440\u0430\u0434\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u0435\u043b\u0430 \u0420\u0430\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Byala Rada",
+        "Byela Rada",
+        "Bela Rada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733370
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f10bc7db51bdc39af63e2459fbe9d889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1344194171,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1344194171,
+    "wof:lastmodified":1537587762,
+    "wof:name":"Bela Rada",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75722,
+    43.97655,
+    22.75722,
+    43.97655
+],
+  "geometry": {"coordinates":[22.75722,43.97655],"type":"Point"}
+}

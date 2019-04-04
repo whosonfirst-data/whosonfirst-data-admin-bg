@@ -1,0 +1,126 @@
+{
+  "id": 101798119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000153,
+    "geom:area_square_m":1387726.60983,
+    "geom:bbox":"24.5375124254,42.7084714167,24.5690512778,42.7162376367",
+    "geom:latitude":42.712573,
+    "geom:longitude":24.551038,
+    "iso:country":"BG",
+    "lbl:latitude":42.712341,
+    "lbl:longitude":24.548184,
+    "mps:latitude":42.712341,
+    "mps:longitude":24.548184,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0437\u0438\u043d\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Rozino"
+    ],
+    "name:eng_x_colloquial":[
+        "Bozi-Dar",
+        "Bozi-Dir",
+        "Rachmanlu",
+        "Rachmanlue",
+        "Rackmanlu",
+        "Rackmanlue"
+    ],
+    "name:eng_x_preferred":[
+        "Rozino"
+    ],
+    "name:eng_x_variant":[
+        "Boshi-Dar",
+        "Bozhidar",
+        "Bo\u017ei-Dar",
+        "Bo\u017ei-Dir",
+        "Rachmanlar",
+        "Rachmanl\u00fc",
+        "Rackmanl\u00fc",
+        "Rahmanclare",
+        "Rahmanlare",
+        "Rahmanli",
+        "Rakhmanlare"
+    ],
+    "name:ger_x_preferred":[
+        "Rozino"
+    ],
+    "name:rum_x_preferred":[
+        "Rozino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Rozino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0437\u0438\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Bo\u017ei-Dar"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+    "qs:a1_alt":"Plovdiv",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0420\u043e\u0437\u0438\u043d\u043e",
+    "qs:la_lc":"*BGPDV1362949",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u043e\u0437\u0438\u043d\u043e",
+    "qs:loc_alt":"Rozino",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03738e12-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727568,
+        "gp:id":839300,
+        "qs:id":3,
+        "wd:id":"Q4396619"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3a9970957e2f0045886cbc61914567d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798119,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":101798119,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815510,
+    "wof:name":"\u0420\u043e\u0437\u0438\u043d\u043e",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53751242539226,
+    42.70847141667377,
+    24.56905127775735,
+    42.71623763668379
+],
+  "geometry": {"coordinates":[[[24.54340889788563,42.71623763668379],[24.55301046114425,42.71484675839338],[24.55322979854083,42.71573060184375],[24.56763160201825,42.71364254889079],[24.56785115090418,42.71452635492574],[24.56905127775735,42.71435225545792],[24.56817306707416,42.71081703488062],[24.55977252181549,42.71203534971596],[24.5593337053985,42.71026768896718],[24.55813363647832,42.7104416712981],[24.55791425826283,42.70955783581331],[24.55191390511993,42.71042752004956],[24.55169462010315,42.70954366816244],[24.55049454777077,42.70971755952684],[24.55027528837684,42.70883370323526],[24.54667508487711,42.70935528336491],[24.54645588489251,42.70847141667377],[24.53925541197611,42.70951417658455],[24.53969361791735,42.71128194452336],[24.53849348362337,42.71145569426716],[24.53871258277889,42.7123395791258],[24.53751242539226,42.71251331770276],[24.53838884163798,42.71604885507372],[24.54318970441216,42.71535376784061],[24.54340889788563,42.71623763668379]]],"type":"Polygon"}
+}

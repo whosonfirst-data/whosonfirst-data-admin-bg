@@ -1,0 +1,76 @@
+{
+  "id": 1360218305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.51667,43.0,26.51667,43.0",
+    "geom:latitude":43.0,
+    "geom:longitude":26.51667,
+    "gn:admin1_code":"56",
+    "gn:admin2_code":"SLV11",
+    "gn:admin3_code":"SLV11-16",
+    "gn:asciiname":"Sokolartsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727002,
+    "gn:latitude":43.0,
+    "gn:longitude":26.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sokolartsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u0430\u0440\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Duvandzhilar",
+        "Sokolarzi",
+        "Sokolartsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727002
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2930aae28efb21a8fa533d3ddd56c288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360218305,
+            "region_id":85681799
+        }
+    ],
+    "wof:id":1360218305,
+    "wof:lastmodified":1537587348,
+    "wof:name":"Sokolartsi",
+    "wof:parent_id":85681799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.51667,
+    43.0,
+    26.51667,
+    43.0
+],
+  "geometry": {"coordinates":[26.51667,43.0],"type":"Point"}
+}

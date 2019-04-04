@@ -1,0 +1,78 @@
+{
+  "id": 1327061319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6688,43.04607,27.6688,43.04607",
+    "geom:latitude":43.04607,
+    "geom:longitude":27.6688,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"VAR13",
+    "gn:admin3_code":"VAR13-03",
+    "gn:asciiname":"Venelin",
+    "gn:country_code":"BG",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725970,
+    "gn:latitude":43.04607,
+    "gn:longitude":27.6688,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Venelin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0435\u043d\u0435\u043b\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0103d\u016dr",
+        "Wenelin",
+        "Sardyr",
+        "Sareder",
+        "Sar\u016dd\u016dr",
+        "Venelin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725970
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1284e52ae494d461191b119ca9f82914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327061319,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1327061319,
+    "wof:lastmodified":1537587281,
+    "wof:name":"Venelin",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6688,
+    43.04607,
+    27.6688,
+    43.04607
+],
+  "geometry": {"coordinates":[27.6688,43.04607],"type":"Point"}
+}

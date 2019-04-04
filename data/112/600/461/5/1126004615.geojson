@@ -1,0 +1,114 @@
+{
+  "id": 1126004615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15,41.71667,25.15,41.71667",
+    "geom:latitude":41.71667,
+    "geom:longitude":25.15,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":41.71667,
+    "lbl:longitude":25.15,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u0441\u0430\u043b\u0441\u043a\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Rusalsko"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10e3\u10e1\u10d0\u10da\u10e1\u10d9\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0443\u0441\u0430\u043b\u0441\u043a\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Rusalsko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0430\u043b\u0441\u043a\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Hota\u015fl\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0441\u0430\u043b\u044c\u0441\u044c\u043a\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Duralar"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":727526,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Rusalsko",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Kurdzhali",
+    "qs_pg:photos":12,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1321914,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":839332,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Kurdzhali",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727526,
+        "gp:id":839332,
+        "qs_pg:id":1321914,
+        "wd:id":"Q2461317"
+    },
+    "wof:country":"BG",
+    "wof:created":1497299862,
+    "wof:geomhash":"ff78a1fe8f390d160a3640e975d25bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1126004615,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1126004615,
+    "wof:lastmodified":1513899769,
+    "wof:name":"Rusalsko",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15,
+    41.71667,
+    25.15,
+    41.71667
+],
+  "geometry": {"coordinates":[25.15,41.71667],"type":"Point"}
+}

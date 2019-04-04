@@ -1,0 +1,114 @@
+{
+  "id": 101800349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:area_square_m":519304.91443,
+    "geom:bbox":"23.2800354091,41.5007714372,23.2902648612,41.5088272015",
+    "geom:latitude":41.504954,
+    "geom:longitude":23.28557,
+    "iso:country":"BG",
+    "lbl:latitude":41.505084,
+    "lbl:longitude":23.285985,
+    "mps:latitude":41.505084,
+    "mps:longitude":23.285985,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Novo Delchevo"
+    ],
+    "name:eng_x_variant":[
+        "Deltschewo",
+        "Gara Delchevo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0414\u0435\u043b\u0447\u0435\u0432\u043e"
+    ],
+    "name:mac_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Novo Delcevo"
+    ],
+    "name:rum_x_preferred":[
+        "Novo Delcevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0414\u0435\u043b\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u0414\u0435\u043b\u0447\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Deltschewo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e",
+    "qs:la_lc":"*BGBLG4052074",
+    "qs:level":"locality",
+    "qs:loc":"\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e",
+    "qs:loc_alt":"Novo Delchevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371f548-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":728730,
+        "gp:id":838383,
+        "qs:id":4,
+        "wd:id":"Q2990199",
+        "wk:page":"Novo Delchevo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"fef6f7982b7e433fa187eff7d21f1c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800349,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800349,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715087,
+    "wof:name":"\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28003540909003,
+    41.50077143721256,
+    23.29026486123621,
+    41.50882720149809
+],
+  "geometry": {"coordinates":[[[23.28906800440018,41.50803530508938],[23.28887425862501,41.50714712628422],[23.29005395143776,41.50698870789631],[23.28908525504852,41.50254780698242],[23.29026486123621,41.5023893879378],[23.2900711284567,41.50150120637682],[23.28889153852447,41.50165962276913],[23.2886978295835,41.50077143721256],[23.28279988114258,41.50156329714628],[23.2831871440477,41.50333969343131],[23.28200750583784,41.50349802896551],[23.2822011324036,41.50438622774453],[23.28102147260017,41.50454455201094],[23.2812150904881,41.50543275209833],[23.28003540909003,41.50559106509621],[23.28042263508871,41.50736746654439],[23.2816023490069,41.50720914824456],[23.28179598963806,41.50809734430368],[23.28297571448013,41.50793900943296],[23.28316937895448,41.50882720149809],[23.28906800440018,41.50803530508938]]],"type":"Polygon"}
+}

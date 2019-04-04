@@ -1,0 +1,75 @@
+{
+  "id": 1293625973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33333,43.46667,26.33333,43.46667",
+    "geom:latitude":43.46667,
+    "geom:longitude":26.33333,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Pomoshtitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728099,
+    "gn:latitude":43.46667,
+    "gn:longitude":26.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pomoshtitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043c\u043e\u0449\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Yard\u016dm",
+        "Pomoshitsa",
+        "Pomoschtiza",
+        "Pomoshtitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728099
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d2562616f9cdf36d5f9a75b15e6a8560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293625973,
+            "region_id":85681839
+        }
+    ],
+    "wof:id":1293625973,
+    "wof:lastmodified":1537587418,
+    "wof:name":"Pomoshtitsa",
+    "wof:parent_id":85681839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33333,
+    43.46667,
+    26.33333,
+    43.46667
+],
+  "geometry": {"coordinates":[26.33333,43.46667],"type":"Point"}
+}

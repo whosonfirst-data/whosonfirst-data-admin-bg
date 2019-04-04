@@ -1,0 +1,119 @@
+{
+  "id": 101799107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000074,
+    "geom:area_square_m":679056.792593,
+    "geom:bbox":"24.2820333982,41.6781822461,24.3014812277,41.6894228343",
+    "geom:latitude":41.684625,
+    "geom:longitude":24.293421,
+    "gn:population":3084,
+    "iso:country":"BG",
+    "lbl:latitude":41.684719,
+    "lbl:longitude":24.293421,
+    "mps:latitude":41.684719,
+    "mps:longitude":24.293421,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Borino"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Borino"
+    ],
+    "name:ron_x_preferred":[
+        "Borino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Borino"
+    ],
+    "name:tur_x_preferred":[
+        "Karabulak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043d\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Kara-Bulak"
+    ],
+    "name:vie_x_preferred":[
+        "Borino"
+    ],
+    "name:war_x_preferred":[
+        "Borino"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u91cc\u8afe"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043c\u043e\u043b\u044f\u043d",
+    "qs:a1_alt":"Smolyan",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u043e\u0440\u0438\u043d\u043e",
+    "qs:la_lc":"*BGSML0505462",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u043e\u0440\u0438\u043d\u043e",
+    "qs:loc_alt":"Borino",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1778,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733067,
+        "gp:id":56023093,
+        "qs:id":539278,
+        "wd:id":"Q2469110",
+        "wk:page":"Borino"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b2f90267165977252464490d6475cd04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799107,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":101799107,
+    "wof:lastmodified":1527641689,
+    "wof:name":"\u0411\u043e\u0440\u0438\u043d\u043e",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:population":3084,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.28203339816696,
+    41.67818224612097,
+    24.30148122772601,
+    41.68942283428044
+],
+  "geometry": {"coordinates":[[[24.28974716785967,41.68891186245145],[24.28953786833154,41.68802633921734],[24.2907188631396,41.68785599030991],[24.29050955560513,41.68697046851236],[24.29995717645875,41.68560719932236],[24.29974774751469,41.6847216989853],[24.30092865791761,41.68455123059852],[24.30030037169598,41.68189472962592],[24.30148122772601,41.68172425591308],[24.30064356278217,41.67818224612097],[24.29946277153499,41.67835270838998],[24.29967215927627,41.67923821583526],[24.29849134605644,41.67940866705607],[24.2987007258011,41.68029417593777],[24.29633904963731,41.68063504237239],[24.29654840518748,41.68152055555106],[24.29536754224279,41.68169097076407],[24.29557688979276,41.68257648537895],[24.29085331545417,41.68325801856969],[24.29064403269876,41.68237249251558],[24.28946314087392,41.68254283817799],[24.29009096512567,41.68519942064808],[24.28536714566849,41.68588069849716],[24.28557637200112,41.68676623457679],[24.28203339816696,41.6872770554678],[24.28224258408159,41.68816259869999],[24.28342359733784,41.6879923361235],[24.28363280765006,41.68887787507521],[24.28599484924899,41.6885373024686],[24.28620410016458,41.68942283428044],[24.28974716785967,41.68891186245145]]],"type":"Polygon"}
+}

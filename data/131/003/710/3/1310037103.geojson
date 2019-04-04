@@ -1,0 +1,75 @@
+{
+  "id": 1310037103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4,41.75,25.4,41.75",
+    "geom:latitude":41.75,
+    "geom:longitude":25.4,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ16",
+    "gn:admin3_code":"KRZ16-46",
+    "gn:asciiname":"Tri Mogili",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726330,
+    "gn:latitude":41.75,
+    "gn:longitude":25.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tri Mogili",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0438 \u043c\u043e\u0433\u0438\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Yuch Tepe",
+        "Tri Mogili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726330
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"dd4e6bb6484cbf82bcbc2c1680672fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310037103,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1310037103,
+    "wof:lastmodified":1537587304,
+    "wof:name":"Tri Mogili",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4,
+    41.75,
+    25.4,
+    41.75
+],
+  "geometry": {"coordinates":[25.4,41.75],"type":"Point"}
+}

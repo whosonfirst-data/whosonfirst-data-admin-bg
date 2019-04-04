@@ -1,0 +1,79 @@
+{
+  "id": 1277105817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5,43.35,25.5,43.35",
+    "geom:latitude":43.35,
+    "geom:longitude":25.5,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR26",
+    "gn:admin3_code":"VTR26-09",
+    "gn:asciiname":"Obedinenie",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728693,
+    "gn:latitude":43.35,
+    "gn:longitude":25.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Obedinenie",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435"
+    ],
+    "name:und_x_variant":[
+        "Knyaz Simeonovo",
+        "Tencha",
+        "Mekisch",
+        "Mekish",
+        "Meki\u0161",
+        "Obedinenie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728693
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f4dc8bdb18aed828f1441671eca5bb99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1277105817,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1277105817,
+    "wof:lastmodified":1537587458,
+    "wof:name":"Obedinenie",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5,
+    43.35,
+    25.5,
+    43.35
+],
+  "geometry": {"coordinates":[25.5,43.35],"type":"Point"}
+}

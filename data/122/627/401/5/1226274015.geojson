@@ -1,0 +1,80 @@
+{
+  "id": 1226274015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2,43.68333,27.2,43.68333",
+    "geom:latitude":43.68333,
+    "geom:longitude":27.2,
+    "gn:admin1_code":"55",
+    "gn:admin2_code":"SLS10",
+    "gn:admin3_code":"SLS10-22",
+    "gn:asciiname":"Skala",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727164,
+    "gn:latitude":43.68333,
+    "gn:longitude":27.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Skala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043a\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Nedino",
+        "Ceid-Ali-Fac\u00e2",
+        "Seid-Ali-Faki",
+        "Seid Ali Faka",
+        "Seid Ali Fac\u00e2",
+        "Seid Ali Fak\u016d",
+        "Skala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727164
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b7a819b18469f24b539960494584585b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226274015,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1226274015,
+    "wof:lastmodified":1537587359,
+    "wof:name":"Skala",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2,
+    43.68333,
+    27.2,
+    43.68333
+],
+  "geometry": {"coordinates":[27.2,43.68333],"type":"Point"}
+}

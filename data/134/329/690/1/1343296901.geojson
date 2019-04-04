@@ -1,0 +1,75 @@
+{
+  "id": 1343296901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43884,41.431,25.43884,41.431",
+    "geom:latitude":41.431,
+    "geom:longitude":25.43884,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ14",
+    "gn:asciiname":"Metlichka",
+    "gn:country_code":"BG",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729141,
+    "gn:latitude":41.431,
+    "gn:longitude":25.43884,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Metlichka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0442\u043b\u0438\u0447\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Metlitschka",
+        "Mukhare Moglar",
+        "Metlichka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729141,
+        "wk:page":"Metlichka"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3d4561aa6daffb34338fe0e2cd4e32c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343296901,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1343296901,
+    "wof:lastmodified":1537587487,
+    "wof:name":"Metlichka",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43884,
+    41.431,
+    25.43884,
+    41.431
+],
+  "geometry": {"coordinates":[25.43884,41.431],"type":"Point"}
+}

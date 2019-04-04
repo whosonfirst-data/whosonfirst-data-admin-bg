@@ -1,0 +1,75 @@
+{
+  "id": 1260221053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.36667,43.51667,27.36667,43.51667",
+    "geom:latitude":43.51667,
+    "geom:longitude":27.36667,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"General-Kolevo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731473,
+    "gn:latitude":43.51667,
+    "gn:longitude":27.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"General-Kolevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b-\u041a\u043e\u043b\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Arablar",
+        "General Kolewo",
+        "Araplar",
+        "General-Kolevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731473
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5f4a191a38421f0ee2e97a0e8a4d4f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260221053,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1260221053,
+    "wof:lastmodified":1537587637,
+    "wof:name":"General-Kolevo",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.36667000000001,
+    43.51667,
+    27.36667000000001,
+    43.51667
+],
+  "geometry": {"coordinates":[27.36667000000001,43.51667],"type":"Point"}
+}

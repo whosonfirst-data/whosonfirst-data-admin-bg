@@ -1,0 +1,76 @@
+{
+  "id": 1242712685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9003,42.12038,27.9003,42.12038",
+    "geom:latitude":42.12038,
+    "geom:longitude":27.9003,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS13",
+    "gn:admin3_code":"BGS13-04",
+    "gn:asciiname":"Varvara",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726041,
+    "gn:latitude":42.12038,
+    "gn:longitude":27.9003,
+    "gn:modification_date":"2012-12-01",
+    "gn:name":"Varvara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u0440\u0432\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Warwara",
+        "Varvara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726041,
+        "wk:page":"Varvara%2C_Burgas_Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"881d93c78194eba7fb152f43c3823f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242712685,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1242712685,
+    "wof:lastmodified":1537587287,
+    "wof:name":"Varvara",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9003,
+    42.12038,
+    27.9003,
+    42.12038
+],
+  "geometry": {"coordinates":[27.9003,42.12038],"type":"Point"}
+}

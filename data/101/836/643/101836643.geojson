@@ -1,0 +1,109 @@
+{
+  "id": 101836643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000158,
+    "geom:area_square_m":1447928.935552,
+    "geom:bbox":"24.4564630288,42.1298152346,24.4772244308,42.1450264959",
+    "geom:latitude":42.136962,
+    "geom:longitude":24.465762,
+    "iso:country":"BG",
+    "lbl:latitude":42.137754,
+    "lbl:longitude":24.465762,
+    "mps:latitude":42.137754,
+    "mps:longitude":24.465762,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0438\u0432\u043e\u0434\u0438\u0446\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Trivoditsi"
+    ],
+    "name:eng_x_variant":[
+        "Tekira",
+        "Tekirya",
+        "Trivodici",
+        "Trivoditsa",
+        "Triwodiza"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0440\u0438\u0432\u043e\u0434\u0438\u0446\u0438"
+    ],
+    "name:rum_x_preferred":[
+        "Trivodi\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0438\u0432\u043e\u0434\u0438\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Trivoditsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0438\u0432\u043e\u0434\u0438\u0446\u0456"
+    ],
+    "name:unk_x_variant":[
+        "Tekira"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+    "qs:a1_alt":"Plovdiv",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0422\u0440\u0438\u0432\u043e\u0434\u0438\u0446\u0438",
+    "qs:la_lc":"*BGPDV4173081",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u0440\u0438\u0432\u043e\u0434\u0438\u0446\u0438",
+    "qs:loc_alt":"Trivoditsi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372f920-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726325,
+        "gp:id":840216,
+        "qs:id":405220,
+        "wd:id":"Q2021557"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"227a4056e5c674cc8d22031588f3b433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101836643,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":101836643,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513899948,
+    "wof:name":"\u0422\u0440\u0438\u0432\u043e\u0434\u0438\u0446\u0438",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45646302884074,
+    42.12981523464509,
+    24.47722443078413,
+    42.14502649587632
+],
+  "geometry": {"coordinates":[[[24.45646302884074,42.13181703864302],[24.46239103828015,42.14286184852693],[24.46338325923233,42.14271786978566],[24.46359778898466,42.14360249465005],[24.46597631540283,42.14325726213724],[24.46640546627162,42.14502649587632],[24.46997330998329,42.14450852437386],[24.46932944792502,42.14185469802811],[24.4717078815097,42.14150933120021],[24.47127861648721,42.13974011826315],[24.47722443078413,42.13887648522518],[24.47700972851999,42.13799189129213],[24.47344230736826,42.13851010436406],[24.47215456832561,42.13320245810684],[24.47096551489761,42.13337515016747],[24.47053636921805,42.13160591751125],[24.46578022757132,42.13229652214289],[24.46556573336403,42.13141189195579],[24.46437669948591,42.13158450514425],[24.46394776941401,42.12981523464509],[24.46038073081991,42.13033297253497],[24.46059514216995,42.13121761728638],[24.45646302884074,42.13181703864302]]],"type":"Polygon"}
+}

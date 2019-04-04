@@ -1,0 +1,117 @@
+{
+  "id": 101799411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":798721.955038,
+    "geom:bbox":"25.1093382922,42.6152991356,25.1222783941,42.6255474164",
+    "geom:latitude":42.620229,
+    "geom:longitude":25.115522,
+    "iso:country":"BG",
+    "lbl:latitude":42.620016,
+    "lbl:longitude":25.114998,
+    "mps:latitude":42.620016,
+    "mps:longitude":25.114998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u044a\u0440\u043d\u0438\u0447\u0435\u043d\u0438"
+    ],
+    "name:bul_x_variant":[
+        "Tarnicheni"
+    ],
+    "name:eng_x_colloquial":[
+        "Tthrnichene",
+        "Tthrnicheni",
+        "Ttrnichene",
+        "Ttrnicheni",
+        "Turnichene"
+    ],
+    "name:eng_x_preferred":[
+        "Turnicheni"
+    ],
+    "name:eng_x_variant":[
+        "Tarnichene",
+        "Ternicheni",
+        "Ternitscheni",
+        "T\u00fernichene",
+        "T\u00fernicheni",
+        "Tarnicheni"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u044b\u0440\u043d\u0438\u0447\u0435\u043d\u0438"
+    ],
+    "name:rum_x_preferred":[
+        "T\u0103rniceni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044b\u0440\u043d\u0438\u0447\u0435\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0440\u043d\u0438\u0447\u0435\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Ternicheni"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+    "qs:a1_alt":"Stara Zagora",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0422\u044a\u0440\u043d\u0438\u0447\u0435\u043d\u0438",
+    "qs:la_lc":"*BGSZR2473688",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u044a\u0440\u043d\u0438\u0447\u0435\u043d\u0438",
+    "qs:loc_alt":"Tarnicheni",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03730a82-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726159,
+        "gp:id":840353,
+        "qs:id":915540,
+        "wd:id":"Q2021923"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9b3cc3c9eb393766e17353718cceeaf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799411,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":101799411,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513899955,
+    "wof:name":"\u0422\u044a\u0440\u043d\u0438\u0447\u0435\u043d\u0438",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.10933829223853,
+    42.61529913563453,
+    25.12227839411617,
+    42.62554741644448
+],
+  "geometry": {"coordinates":[[[25.11720215262824,42.62500578070569],[25.11697495375643,42.6241233657488],[25.11817201326375,42.62394279539387],[25.11771760914195,42.62217796729067],[25.12130864900479,42.62163619021038],[25.12108141033531,42.62075378326836],[25.12227839411617,42.62057316580234],[25.12136946276468,42.61704353579341],[25.12017254581633,42.61722414085023],[25.11971816764606,42.61545931085089],[25.11493056954799,42.61618156523627],[25.1147034608091,42.61529913563453],[25.11230965680801,42.61566017200778],[25.11253673213173,42.6165426078104],[25.111339803833,42.61672310794262],[25.11179394809284,42.61848798135588],[25.11059697998223,42.61866847358488],[25.11082404891675,42.61955091119569],[25.1096270577018,42.61973139242082],[25.11053535669726,42.62326114062552],[25.10933829223853,42.62344162014693],[25.10956537280032,42.62432405663901],[25.11076245397356,42.62414357401707],[25.11098956026183,42.62502600594496],[25.11338373684964,42.6246649921826],[25.11361088557987,42.62554741644448],[25.11720215262824,42.62500578070569]]],"type":"Polygon"}
+}

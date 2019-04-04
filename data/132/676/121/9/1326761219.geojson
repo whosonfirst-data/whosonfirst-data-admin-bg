@@ -1,0 +1,75 @@
+{
+  "id": 1326761219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91667,42.88333,25.91667,42.88333",
+    "geom:latitude":42.88333,
+    "geom:longitude":25.91667,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR13",
+    "gn:asciiname":"Trankovtsi",
+    "gn:country_code":"BG",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726296,
+    "gn:latitude":42.88333,
+    "gn:longitude":25.91667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Trankovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u044a\u043d\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:bul_x_variant":[
+        "Trankovtsi"
+    ],
+    "name:und_x_variant":[
+        "Tr\u016dnkovtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726296
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9202ff0805409bb96350a3965e0ecf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326761219,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1326761219,
+    "wof:lastmodified":1537587302,
+    "wof:name":"Trankovtsi",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91667,
+    42.88333,
+    25.91667,
+    42.88333
+],
+  "geometry": {"coordinates":[25.91667,42.88333],"type":"Point"}
+}

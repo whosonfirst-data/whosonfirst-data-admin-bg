@@ -1,0 +1,77 @@
+{
+  "id": 1326459801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.88333,43.4,25.88333,43.4",
+    "geom:latitude":43.4,
+    "geom:longitude":25.88333,
+    "gn:admin1_code":"53",
+    "gn:admin2_code":"RSE04",
+    "gn:admin3_code":"RSE04-06",
+    "gn:asciiname":"Koprivets",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730162,
+    "gn:latitude":43.4,
+    "gn:longitude":25.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Koprivets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043f\u0440\u0438\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Koprivec",
+        "Kopriwez",
+        "Koprivca",
+        "Koprivets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730162
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9f45edea0b438bf8f50b1d5e7b8d67c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326459801,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":1326459801,
+    "wof:lastmodified":1537587550,
+    "wof:name":"Koprivets",
+    "wof:parent_id":85681861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.88333,
+    43.4,
+    25.88333,
+    43.4
+],
+  "geometry": {"coordinates":[25.88333,43.4],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360321655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26667,42.38333,25.26667,42.38333",
+    "geom:latitude":42.38333,
+    "geom:longitude":25.26667,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR04",
+    "gn:asciiname":"Naydenovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728857,
+    "gn:latitude":42.38333,
+    "gn:longitude":25.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naydenovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0439\u0434\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Nova Makhla",
+        "Nowa Machla",
+        "Naydenovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728857
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0c99b778d32d9906228e3d15734ca078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360321655,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1360321655,
+    "wof:lastmodified":1537587468,
+    "wof:name":"Naydenovo",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26667,
+    42.38333,
+    25.26667,
+    42.38333
+],
+  "geometry": {"coordinates":[25.26667,42.38333],"type":"Point"}
+}

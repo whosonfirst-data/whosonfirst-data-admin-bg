@@ -1,0 +1,176 @@
+{
+  "id": 101847405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000192,
+    "geom:area_square_m":1747192.654712,
+    "geom:bbox":"27.2877037144,42.6134199723,27.316816024,42.6266155639",
+    "geom:latitude":42.62034,
+    "geom:longitude":27.304082,
+    "iso:country":"BG",
+    "lbl:latitude":42.619557,
+    "lbl:longitude":27.305516,
+    "mps:latitude":42.619557,
+    "mps:longitude":27.305516,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u044a\u043b\u0433\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u016dlgarovo"
+    ],
+    "name:chi_x_preferred":[
+        "\u4fdd\u52a0\u7f85\u6c83"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u0627\u0644\u06af\u0627\u0631\u06c6\u06a4\u06c6"
+    ],
+    "name:deu_x_preferred":[
+        "Balgarowo"
+    ],
+    "name:dut_x_preferred":[
+        "Balgarovo"
+    ],
+    "name:eng_x_colloquial":[
+        "Baelgarowo",
+        "Balgarowo",
+        "Bthlgarovo",
+        "Btlgarovo",
+        "Urum Jeni Koei",
+        "Urum Jeni Koi",
+        "Urum Jenikioej",
+        "Urum Jenikioj"
+    ],
+    "name:eng_x_preferred":[
+        "Bulgarovo"
+    ],
+    "name:eng_x_variant":[
+        "Balgarovo",
+        "Blgarovo",
+        "B\u00e6lgarowo",
+        "B\u00felgarovo",
+        "Urum Eni Kioi",
+        "Urum Jeni K\u00f6i",
+        "Urum Jeniki\u00f6j",
+        "Urum-Eni-K'oy",
+        "Urum-Eni-Kjoj",
+        "Urum-Eni-Kyoy",
+        "Urum-Enikioy",
+        "Urum-Jenikeui"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06af\u0627\u0631\u0648\u0641\u0648"
+    ],
+    "name:ger_x_preferred":[
+        "Balgarowo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0627\u0644\u06af\u0627\u0631\u0648\u0641\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "By\u0142garowo"
+    ],
+    "name:por_x_preferred":[
+        "B\u01celgarovo"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103lgarovo"
+    ],
+    "name:rum_x_preferred":[
+        "B\u0103lgarovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Balgarovo"
+    ],
+    "name:swe_x_preferred":[
+        "B\u016dlgarovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u044b\u043b\u0433\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u043b\u0433\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Urum-Eni-K\u2019oy"
+    ],
+    "name:vie_x_preferred":[
+        "Bulgarovo"
+    ],
+    "name:war_x_preferred":[
+        "Balgarovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u52a0\u7f85\u6c83"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u044a\u043b\u0433\u0430\u0440\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBGS0407332",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u044a\u043b\u0433\u0430\u0440\u043e\u0432\u043e",
+    "qs:loc_alt":"Balgarovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03705670-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732796,
+        "gp:id":835297,
+        "qs:id":915313,
+        "wd:id":"Q405862",
+        "wk:page":"Balgarovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f456b29f3951c8e7b6bb10a5c346fe9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101847405,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101847405,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527714978,
+    "wof:name":"\u0411\u044a\u043b\u0433\u0430\u0440\u043e\u0432\u043e",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.28770371442874,
+    42.61341997234183,
+    27.31681602395025,
+    42.62661556393135
+],
+  "geometry": {"coordinates":[[[27.29998455268782,42.62512042745237],[27.31189891131817,42.6230557973887],[27.31215880442431,42.62393177130286],[27.31454162142279,42.62351867068497],[27.3142816958848,42.62264270382485],[27.31666445139166,42.62222955441314],[27.31562472194651,42.61872569821645],[27.31681602395025,42.61851911667725],[27.31655610098124,42.61764315191141],[27.31536481518907,42.61784972992393],[27.31510491867164,42.61697375993367],[27.31391364182679,42.617180320459],[27.31365377176002,42.616304345245],[27.31127122870544,42.61671741736126],[27.31049177719569,42.61408946038068],[27.30930054340854,42.61429596492144],[27.30904076292074,42.61341997234183],[27.30546706663267,42.61403939162784],[27.30572679848842,42.61491539478175],[27.30215298823873,42.61553469899712],[27.3024126816909,42.6164107110277],[27.29645610505651,42.61744262311606],[27.29697536050776,42.61919467732662],[27.29578399097812,42.61940102490564],[27.29630325491752,42.62115307938171],[27.29272900548051,42.62177205948126],[27.29220983885136,42.62001998386722],[27.28863562142516,42.62063881716381],[27.28889515096716,42.62151486638493],[27.28770371442874,42.62172111974598],[27.28796323797735,42.62259717079507],[27.28915469073638,42.62239091391189],[27.28941424073389,42.62326695974457],[27.29179715692732,42.62285439704266],[27.29231635249403,42.62460646953423],[27.29469930454468,42.62419383688564],[27.29495895011706,42.62506986354288],[27.29615043147669,42.62486352274937],[27.29666978576233,42.62661556393135],[27.30024428361099,42.62599643662304],[27.29998455268782,42.62512042745237]]],"type":"Polygon"}
+}

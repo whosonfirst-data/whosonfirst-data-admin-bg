@@ -1,0 +1,71 @@
+{
+  "id": 1276273033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18333,41.86667,23.18333,41.86667",
+    "geom:latitude":41.86667,
+    "geom:longitude":23.18333,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG44",
+    "gn:admin3_code":"BLG44-08",
+    "gn:asciiname":"Poleto",
+    "gn:country_code":"BG",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728143,
+    "gn:latitude":41.86667,
+    "gn:longitude":23.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Poleto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u0442\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728143,
+        "wk:page":"Poleto"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c0db5cecd3efea0478130c2cc2504ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276273033,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1276273033,
+    "wof:lastmodified":1537587421,
+    "wof:name":"Poleto",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18333,
+    41.86667,
+    23.18333,
+    41.86667
+],
+  "geometry": {"coordinates":[23.18333,41.86667],"type":"Point"}
+}

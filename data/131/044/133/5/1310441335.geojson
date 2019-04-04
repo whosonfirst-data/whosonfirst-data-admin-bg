@@ -1,0 +1,71 @@
+{
+  "id": 1310441335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.72504,41.40779,25.72504,41.40779",
+    "geom:latitude":41.40779,
+    "geom:longitude":25.72504,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Koshtryava",
+    "gn:country_code":"BG",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11336045,
+    "gn:latitude":41.40779,
+    "gn:longitude":25.72504,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Koshtryava",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Koshtryava"
+    ],
+    "name:bul_x_variant":[
+        "\u041a\u043e\u0449\u0440\u044f\u0432\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11336045
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"32c851225b3350c591643e5bfaa7003c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310441335,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1310441335,
+    "wof:lastmodified":1537587796,
+    "wof:name":"Koshtryava",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.72504,
+    41.40779000000001,
+    25.72504,
+    41.40779000000001
+],
+  "geometry": {"coordinates":[25.72504,41.40779000000001],"type":"Point"}
+}

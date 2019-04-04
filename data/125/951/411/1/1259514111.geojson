@@ -1,0 +1,79 @@
+{
+  "id": 1259514111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48333,42.43333,25.48333,42.43333",
+    "geom:latitude":42.43333,
+    "geom:longitude":25.48333,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR31",
+    "gn:asciiname":"Sulitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726633,
+    "gn:latitude":42.43333,
+    "gn:longitude":25.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sulitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u043b\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Songulare",
+        "Sungurlari",
+        "Songurlare",
+        "Sulica",
+        "Sulishki Bani",
+        "Ssuliza",
+        "Sulitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726633
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c1687d0ab5ea63c867dc32cba30f88b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259514111,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1259514111,
+    "wof:lastmodified":1537587322,
+    "wof:name":"Sulitsa",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48333,
+    42.43333,
+    25.48333,
+    42.43333
+],
+  "geometry": {"coordinates":[25.48333,42.43333],"type":"Point"}
+}

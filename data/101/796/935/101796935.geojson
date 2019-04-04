@@ -1,0 +1,126 @@
+{
+  "id": 101796935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000168,
+    "geom:area_square_m":1527604.681574,
+    "geom:bbox":"26.3877765723,42.4686752579,26.4044848502,42.4863528009",
+    "geom:latitude":42.477876,
+    "geom:longitude":26.396975,
+    "iso:country":"BG",
+    "lbl:latitude":42.477848,
+    "lbl:longitude":26.397102,
+    "mps:latitude":42.477848,
+    "mps:longitude":26.397102,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0437\u043c\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Bezmer"
+    ],
+    "name:eng_x_preferred":[
+        "Bezmer"
+    ],
+    "name:eng_x_variant":[
+        "Besmer",
+        "Bezmyer",
+        "Bezner",
+        "Hamozoren",
+        "Hamzoren",
+        "Khamrozen",
+        "Khamzoren",
+        "Vezmyer"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30ba\u30e1\u30eb"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0437\u043c\u0435\u0440"
+    ],
+    "name:pol_x_preferred":[
+        "Bezmer"
+    ],
+    "name:ron_x_preferred":[
+        "Bezmer"
+    ],
+    "name:rum_x_preferred":[
+        "Bezmer"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0437\u043c\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Bezmer"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0437\u043c\u0435\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Khamrozen"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u042f\u043c\u0431\u043e\u043b",
+    "qs:a1_alt":"Yambol",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u0435\u0437\u043c\u0435\u0440",
+    "qs:la_lc":"*BGJAM2503229",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0435\u0437\u043c\u0435\u0440",
+    "qs:loc_alt":"Bezmer",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037023d0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":733240,
+        "gp:id":834947,
+        "qs:id":179019,
+        "wd:id":"Q2454030",
+        "wk:page":"Bezmer, Yambol Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e90f7b2ab0be9eb40d40a703ca15e514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101796935,
+            "region_id":85681793
+        }
+    ],
+    "wof:id":101796935,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815510,
+    "wof:name":"\u0411\u0435\u0437\u043c\u0435\u0440",
+    "wof:parent_id":85681793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.38777657229195,
+    42.46867525785882,
+    26.40448485024103,
+    42.48635280089815
+],
+  "geometry": {"coordinates":[[[26.40171945356707,42.48596141468704],[26.4012286781624,42.48420363529817],[26.40241982047962,42.48400792788647],[26.40192905111974,42.48225014876795],[26.40312015392209,42.48205443404458],[26.40238402346449,42.47941776336847],[26.40357507042972,42.47922204467193],[26.40259363329091,42.47570647469672],[26.40378460810336,42.47551075536461],[26.40329391492764,42.47375296744065],[26.40448485024103,42.47355724079813],[26.4039941631126,42.47179945314082],[26.40280326044086,42.47199517310889],[26.40255794770451,42.47111627354013],[26.4013670544993,42.47131197618677],[26.40063122326956,42.46867525785882],[26.39944037216986,42.46887093651202],[26.39993088401508,42.47062875700504],[26.39754909598304,42.4710200857034],[26.39803958121996,42.47277791313456],[26.39208482802223,42.47375602350183],[26.39134935950204,42.47111922992156],[26.38777657229195,42.47170589830318],[26.38949245800796,42.47785846427826],[26.39068350820418,42.47766289879377],[26.39092868972409,42.4785418270535],[26.3921197493965,42.47834624424706],[26.3933458836633,42.48274084486007],[26.39215474234584,42.48293644434546],[26.39289048995516,42.48557319551503],[26.39527286372294,42.48518196253747],[26.39551816493304,42.48606086971972],[26.3990917231605,42.48547390532866],[26.39933708303937,42.48635280089815],[26.40171945356707,42.48596141468704]]],"type":"Polygon"}
+}

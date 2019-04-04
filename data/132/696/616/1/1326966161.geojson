@@ -1,0 +1,70 @@
+{
+  "id": 1326966161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.34944,41.67882,24.34944,41.67882",
+    "geom:latitude":41.67882,
+    "geom:longitude":24.34944,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"SML09",
+    "gn:admin3_code":"SML09-03",
+    "gn:asciiname":"Teshel",
+    "gn:country_code":"BG",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726466,
+    "gn:latitude":41.67882,
+    "gn:longitude":24.34944,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Teshel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u0448\u0435\u043b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726466
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f6cede3fe40044dfd0c4c052a225b164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326966161,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1326966161,
+    "wof:lastmodified":1537587312,
+    "wof:name":"Teshel",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.34944,
+    41.67882,
+    24.34944,
+    41.67882
+],
+  "geometry": {"coordinates":[24.34944,41.67882],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 101800267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":439403.257143,
+    "geom:bbox":"25.3910621076,41.5863143468,25.3995765709,41.5985226365",
+    "geom:latitude":41.592481,
+    "geom:longitude":25.394521,
+    "iso:country":"BG",
+    "lbl:latitude":41.592835,
+    "lbl:longitude":25.393747,
+    "mps:latitude":41.592835,
+    "mps:longitude":25.393747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u043b\u0443\u0445\u0430\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Glukhar"
+    ],
+    "name:eng_x_preferred":[
+        "Gluhar"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10da\u10e3\u10ee\u10d0\u10e0\u10d8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10da\u10e3\u10ee\u10d0\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043b\u0443\u0445\u0430\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "Gluhar"
+    ],
+    "name:rum_x_preferred":[
+        "Gluhar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0443\u0445\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Gluchar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0443\u0445\u0430\u0440"
+    ],
+    "name:unk_x_variant":[
+        "Sarlar"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u0413\u043b\u0443\u0445\u0430\u0440",
+    "qs:la_lc":"*BGKRZ1615216",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u043b\u0443\u0445\u0430\u0440",
+    "qs:loc_alt":"Gluhar",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731395,
+        "wd:id":"Q1082821"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"16b89a5042b07568894bd03bbace728d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800267,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101800267,
+    "wof:lastmodified":1527715086,
+    "wof:name":"\u0413\u043b\u0443\u0445\u0430\u0440",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39106210764953,
+    41.58631434681269,
+    25.39957657094072,
+    41.59852263647434
+],
+  "geometry": {"coordinates":[[[25.39666834564406,41.59708982368647],[25.39531949846469,41.59179379792261],[25.39649619407834,41.59161040931446],[25.39604661661315,41.58984506127109],[25.39957657094072,41.58929483087684],[25.39912693302733,41.58752949508323],[25.3955970741917,41.58807970710387],[25.39514756681052,41.58631434681269],[25.39397096669313,41.58649771704938],[25.39442044224427,41.58826308346386],[25.39324380412972,41.58844644600021],[25.39346853912815,41.58932912997284],[25.39229187893022,41.58951248174697],[25.39251660677121,41.59039516725034],[25.3913399244891,41.59057850826167],[25.39223885977515,41.59410924721607],[25.39106210764953,41.59429258664909],[25.39173635333475,41.59694063398075],[25.39291315322356,41.59675728536234],[25.39336272599849,41.59852263647434],[25.39571637095599,41.59815588551055],[25.39549154834287,41.59727321684477],[25.39666834564406,41.59708982368647]]],"type":"Polygon"}
+}

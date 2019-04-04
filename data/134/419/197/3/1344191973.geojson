@@ -1,0 +1,77 @@
+{
+  "id": 1344191973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58256,42.26127,22.58256,42.26127",
+    "geom:latitude":42.26127,
+    "geom:longitude":22.58256,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Vrattsa",
+    "gn:country_code":"BG",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":729058,
+    "gn:latitude":42.26127,
+    "gn:longitude":22.58256,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Vrattsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0430\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0412\u0440\u0430\u0442\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Mirovo",
+        "Vratsa",
+        "Wratza",
+        "Vrattsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729058
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c5791da540076245174ccfaffdd200dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1344191973,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1344191973,
+    "wof:lastmodified":1537587481,
+    "wof:name":"Vrattsa",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58256,
+    42.26127,
+    22.58256,
+    42.26127
+],
+  "geometry": {"coordinates":[22.58256,42.26127],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276913815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94834,42.02244,22.94834,42.02244",
+    "geom:latitude":42.02244,
+    "geom:longitude":22.94834,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG03",
+    "gn:asciiname":"Drenkovo",
+    "gn:country_code":"BG",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":731921,
+    "gn:latitude":42.02244,
+    "gn:longitude":22.94834,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Drenkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Drenovo",
+        "Dryenovo",
+        "Drenkovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731921,
+        "wk:page":"Drenkovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"98c5a974424c2d932f99a782b3059771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276913815,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1276913815,
+    "wof:lastmodified":1537587667,
+    "wof:name":"Drenkovo",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94834,
+    42.02244,
+    22.94834,
+    42.02244
+],
+  "geometry": {"coordinates":[22.94834,42.02244],"type":"Point"}
+}

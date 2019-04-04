@@ -1,0 +1,76 @@
+{
+  "id": 1276263097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96389,43.32306,22.96389,43.32306",
+    "geom:latitude":43.32306,
+    "geom:longitude":22.96389,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"MON14",
+    "gn:asciiname":"Glavanovtsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731422,
+    "gn:latitude":43.32306,
+    "gn:longitude":22.96389,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Glavanovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Glavanovts\u016d",
+        "Glawanowzi",
+        "Glavanovtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731422,
+        "wk:page":"Glavanovtsi%2C_Montana_Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"dc712e478fb964e6548399f2c7d65de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276263097,
+            "region_id":85681821
+        }
+    ],
+    "wof:id":1276263097,
+    "wof:lastmodified":1537587635,
+    "wof:name":"Glavanovtsi",
+    "wof:parent_id":85681821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96389,
+    43.32306,
+    22.96389,
+    43.32306
+],
+  "geometry": {"coordinates":[22.96389,43.32306],"type":"Point"}
+}

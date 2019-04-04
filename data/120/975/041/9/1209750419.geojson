@@ -1,0 +1,71 @@
+{
+  "id": 1209750419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58072,41.39336,25.58072,41.39336",
+    "geom:latitude":41.39336,
+    "geom:longitude":25.58072,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Gagovtsi",
+    "gn:country_code":"BG",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335964,
+    "gn:latitude":41.39336,
+    "gn:longitude":25.58072,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Gagovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Gagovtsi"
+    ],
+    "name:bul_x_variant":[
+        "\u0413\u0430\u0433\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335964
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e5c059db9d70c0e0f87f0442b6baa9d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1209750419,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1209750419,
+    "wof:lastmodified":1537587793,
+    "wof:name":"Gagovtsi",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58072,
+    41.39336,
+    25.58072,
+    41.39336
+],
+  "geometry": {"coordinates":[25.58072,41.39336],"type":"Point"}
+}

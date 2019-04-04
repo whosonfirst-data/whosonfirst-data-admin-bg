@@ -1,0 +1,74 @@
+{
+  "id": 1343299025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.03292,42.25611,23.03292,42.25611",
+    "geom:latitude":42.25611,
+    "geom:longitude":23.03292,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL48",
+    "gn:asciiname":"Palatovo",
+    "gn:country_code":"BG",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728458,
+    "gn:latitude":42.25611,
+    "gn:longitude":23.03292,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Palatovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Palatowo",
+        "Palatovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728458,
+        "wk:page":"Palatovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"907ffe392d423906422055b87ca777df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343299025,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1343299025,
+    "wof:lastmodified":1537587442,
+    "wof:name":"Palatovo",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.03292,
+    42.25611,
+    23.03292,
+    42.25611
+],
+  "geometry": {"coordinates":[23.03292,42.25611],"type":"Point"}
+}

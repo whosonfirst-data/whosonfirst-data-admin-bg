@@ -1,0 +1,92 @@
+{
+  "id": 1125788223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63333,43.56667,25.63333,43.56667",
+    "geom:latitude":43.56667,
+    "geom:longitude":25.63333,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":43.56667,
+    "lbl:longitude":25.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u0446\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Byeltsovo"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":733282,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Beltsov",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Ruse",
+    "qs_pg:photos":9,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":9,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":42493,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":834918,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Ruse",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733282,
+        "gp:id":834918,
+        "qs_pg:id":42493
+    },
+    "wof:country":"BG",
+    "wof:created":1497290761,
+    "wof:geomhash":"62731978622e34dfc2ba07fd5da354b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125788223,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":1125788223,
+    "wof:lastmodified":1509392103,
+    "wof:name":"Beltsov",
+    "wof:parent_id":85681861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63333,
+    43.56667,
+    25.63333,
+    43.56667
+],
+  "geometry": {"coordinates":[25.63333,43.56667],"type":"Point"}
+}

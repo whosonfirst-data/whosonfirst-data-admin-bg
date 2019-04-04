@@ -1,0 +1,75 @@
+{
+  "id": 1310341623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.65216,43.43399,27.65216,43.43399",
+    "geom:latitude":43.43399,
+    "geom:longitude":27.65216,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"VAR09",
+    "gn:admin3_code":"VAR09-01",
+    "gn:asciiname":"Boyana",
+    "gn:country_code":"BG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732996,
+    "gn:latitude":43.43399,
+    "gn:longitude":27.65216,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Boyana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u044f\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kokardzha",
+        "Bojana",
+        "Boyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732996
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6fcc937c0db8d6c7eebe393f4eff6f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310341623,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1310341623,
+    "wof:lastmodified":1537587739,
+    "wof:name":"Boyana",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.65216,
+    43.43399,
+    27.65216,
+    43.43399
+],
+  "geometry": {"coordinates":[27.65216,43.43399],"type":"Point"}
+}

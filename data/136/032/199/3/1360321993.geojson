@@ -1,0 +1,76 @@
+{
+  "id": 1360321993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93333,43.78333,26.93333,43.78333",
+    "geom:latitude":43.78333,
+    "geom:longitude":26.93333,
+    "gn:admin1_code":"55",
+    "gn:admin2_code":"SLS10",
+    "gn:admin3_code":"SLS10-13",
+    "gn:asciiname":"Oreshene",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728607,
+    "gn:latitude":43.78333,
+    "gn:longitude":26.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oreshene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u0435\u0448\u0435\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Kerimler",
+        "Ore\u0161ene",
+        "Oreshene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728607
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d51fb5583f7f87d5d470b2df8e506f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360321993,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1360321993,
+    "wof:lastmodified":1537587453,
+    "wof:name":"Oreshene",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93333,
+    43.78333,
+    26.93333,
+    43.78333
+],
+  "geometry": {"coordinates":[26.93333,43.78333],"type":"Point"}
+}

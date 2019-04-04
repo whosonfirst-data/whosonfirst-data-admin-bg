@@ -1,0 +1,75 @@
+{
+  "id": 1293129543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.73333,41.85,25.73333,41.85",
+    "geom:latitude":41.85,
+    "geom:longitude":25.73333,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV34",
+    "gn:admin3_code":"HKV34-19",
+    "gn:asciiname":"Momino",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728982,
+    "gn:latitude":41.85,
+    "gn:longitude":25.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Momino",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u043c\u0438\u043d\u043e"
+    ],
+    "name:und_x_variant":[
+        "K\u016dz Makhle",
+        "Momino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728982
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3ae437829cbc0c3126fb00946a66133b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293129543,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1293129543,
+    "wof:lastmodified":1537587476,
+    "wof:name":"Momino",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73333,
+    41.85,
+    25.73333,
+    41.85
+],
+  "geometry": {"coordinates":[25.73333,41.85],"type":"Point"}
+}

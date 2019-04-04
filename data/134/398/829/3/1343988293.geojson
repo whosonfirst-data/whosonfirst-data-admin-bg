@@ -1,0 +1,75 @@
+{
+  "id": 1343988293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28333,42.85,25.28333,42.85",
+    "geom:latitude":42.85,
+    "geom:longitude":25.28333,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB05",
+    "gn:asciiname":"Chukilite",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732414,
+    "gn:latitude":42.85,
+    "gn:longitude":25.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chukilite",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0443\u043a\u0438\u043b\u0438\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Chukili",
+        "Chukilite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732414,
+        "wk:page":"Chukilite"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6a0943b1d4d68110b058df9e1a3cef31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343988293,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1343988293,
+    "wof:lastmodified":1537587701,
+    "wof:name":"Chukilite",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28333,
+    42.85,
+    25.28333,
+    42.85
+],
+  "geometry": {"coordinates":[25.28333,42.85],"type":"Point"}
+}

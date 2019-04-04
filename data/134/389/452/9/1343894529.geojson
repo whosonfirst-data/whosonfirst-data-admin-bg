@@ -1,0 +1,74 @@
+{
+  "id": 1343894529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59902,42.4865,22.59902,42.4865",
+    "geom:latitude":42.4865,
+    "geom:longitude":22.59902,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL50",
+    "gn:asciiname":"Dolni Koriten",
+    "gn:country_code":"BG",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732095,
+    "gn:latitude":42.4865,
+    "gn:longitude":22.59902,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dolni Koriten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438 \u041a\u043e\u0440\u0438\u0442\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Koriten Dolni",
+        "Dolni Koriten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732095,
+        "wk:page":"Dolni_Koriten"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8c26c5103cf280e4ee2e5c1b3392b4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343894529,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1343894529,
+    "wof:lastmodified":1537587680,
+    "wof:name":"Dolni Koriten",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59902,
+    42.4865,
+    22.59902,
+    42.4865
+],
+  "geometry": {"coordinates":[22.59902,42.4865],"type":"Point"}
+}

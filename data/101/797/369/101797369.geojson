@@ -1,0 +1,112 @@
+{
+  "id": 101797369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":608876.11533,
+    "geom:bbox":"27.0489826816,43.6629773788,27.0613742475,43.6714119449",
+    "geom:latitude":43.667333,
+    "geom:longitude":27.055722,
+    "iso:country":"BG",
+    "lbl:latitude":43.667916,
+    "lbl:longitude":27.05584,
+    "mps:latitude":43.667916,
+    "mps:longitude":27.05584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0441\u043b\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Gusla"
+    ],
+    "name:eng_x_variant":[
+        "Dauldzhilar"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0443\u0441\u043b\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "Gusla Peak"
+    ],
+    "name:rum_x_preferred":[
+        "Gusla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0441\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gusla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0441\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Dauldzhilar"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u65af\u62c9\u5cf0"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0428\u0443\u043c\u0435\u043d",
+    "qs:a1_alt":"Shumen",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u0443\u0441\u043b\u0430",
+    "qs:la_lc":"*BGSHU1818188",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u0443\u0441\u043b\u0430",
+    "qs:loc_alt":"Gusla",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":220,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03711c68-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730953,
+        "gp:id":836728,
+        "qs:id":404273,
+        "wd:id":"Q1086561"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ea83f49fbe0de0723997be446a291412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797369,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":101797369,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641528,
+    "wof:name":"\u0413\u0443\u0441\u043b\u0430",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04898268160275,
+    43.66297737877312,
+    27.06137424747322,
+    43.67141194485339
+],
+  "geometry": {"coordinates":[[[27.05420330408407,43.67141194485339],[27.06026768219681,43.67039158496931],[27.06000386851429,43.66951583821867],[27.06121670437182,43.66931172706256],[27.06016148738053,43.66580873803593],[27.06137424747322,43.66560462697561],[27.06058289481086,43.66297737877312],[27.05694474524012,43.66358963690766],[27.05720846773141,43.66446539870691],[27.05235742749471,43.66528155767486],[27.05209377319329,43.66440578153117],[27.04966824176904,43.66481376831666],[27.05019549276284,43.66656533330928],[27.04898268160275,43.66676931249003],[27.04977358634142,43.66939665846297],[27.05219930340206,43.66898866433189],[27.05272669437687,43.67074020578849],[27.05393957565883,43.67053618016649],[27.05420330408407,43.67141194485339]]],"type":"Polygon"}
+}

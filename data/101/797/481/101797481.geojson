@@ -1,0 +1,123 @@
+{
+  "id": 101797481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00022,
+    "geom:area_square_m":1966327.978257,
+    "geom:bbox":"26.2862936233,43.753026021,26.3080391829,43.7717564249",
+    "geom:latitude":43.763698,
+    "geom:longitude":26.297234,
+    "iso:country":"BG",
+    "lbl:latitude":43.765515,
+    "lbl:longitude":26.297975,
+    "mps:latitude":43.765515,
+    "mps:longitude":26.297975,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438"
+    ],
+    "name:eng_x_colloquial":[
+        "Knjazeva-Poljana"
+    ],
+    "name:eng_x_preferred":[
+        "Smirnenski"
+    ],
+    "name:eng_x_variant":[
+        "Bei Alan",
+        "Bej Alan",
+        "Bey-Alan",
+        "Beyolan",
+        "Kneajevo Poleana",
+        "Knjashewa-Poljana",
+        "Knja\u017eeva-Poljana",
+        "Knyazheva Polyana",
+        "Smirenski",
+        "Smirienski"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Smirnenski"
+    ],
+    "name:ron_x_preferred":[
+        "Smirnenski"
+    ],
+    "name:rum_x_preferred":[
+        "Smirnenski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u044c\u043a\u0438\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Knyazheva Polyana"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0420\u0443\u0441\u0435",
+    "qs:a1_alt":"Ruse",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438",
+    "qs:la_lc":"*BGRSE0567578",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438",
+    "qs:loc_alt":"Smirnenski",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":43.633333,
+    "wd:longitude":23.033333,
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372b15e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727046,
+        "gp:id":839695,
+        "qs:id":405044,
+        "wd:id":"Q2021282"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7440f4ab3e27fbdc09e2bd931640fb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797481,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":101797481,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641529,
+    "wof:name":"\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438",
+    "wof:parent_id":85681861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28629362333083,
+    43.75302602102209,
+    26.30803918287609,
+    43.77175642494507
+],
+  "geometry": {"coordinates":[[[26.30027922621821,43.77136614853492],[26.30002633669784,43.7704881793274],[26.30367731062387,43.76990266753387],[26.30342437936019,43.76902470712048],[26.30464133876279,43.76882951129937],[26.30438840038715,43.76795155278461],[26.30803918287609,43.76736588965491],[26.30778620276794,43.76648793993559],[26.30656929987924,43.76668317186522],[26.3063163472824,43.76580521714811],[26.30509945440724,43.7660004312952],[26.30383493096076,43.7616106172311],[26.30505173729341,43.76141542032178],[26.30454596468564,43.75965949074549],[26.30332919296546,43.7598546807609],[26.3020650263951,43.75546481247267],[26.30328171159442,43.75526963969037],[26.30302889155968,43.75439166483113],[26.30059554847531,43.75478198917199],[26.30009000819081,43.75302602102209],[26.29400669594753,43.75400154661713],[26.29577565964803,43.7601475286217],[26.29455885419554,43.76034261485847],[26.29481158674901,43.76122060953935],[26.28629362333083,43.7625858359612],[26.28705151860061,43.76521988305262],[26.28826844432007,43.76502488337786],[26.28978461386805,43.77029291511639],[26.28856758425479,43.77048793545902],[26.28882029753333,43.77136593877793],[26.29247141645112,43.77078082440391],[26.29272419187623,43.77165881583903],[26.2975923176017,43.77087844884329],[26.29784517249072,43.77175642494507],[26.30027922621821,43.77136614853492]]],"type":"Polygon"}
+}

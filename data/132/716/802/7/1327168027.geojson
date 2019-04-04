@@ -1,0 +1,84 @@
+{
+  "id": 1327168027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35,42.05,25.35,42.05",
+    "geom:latitude":42.05,
+    "geom:longitude":25.35,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV09",
+    "gn:admin3_code":"HKV09-24",
+    "gn:asciiname":"Varbitsa",
+    "gn:country_code":"BG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731602,
+    "gn:latitude":42.05,
+    "gn:longitude":25.35,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Varbitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u044a\u0440\u0431\u0438\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Varbitsa"
+    ],
+    "name:und_x_variant":[
+        "Kayaliy",
+        "Filovo",
+        "Kayalii",
+        "Vrbica",
+        "Filevo",
+        "W\u0103rbiza",
+        "V\u0103rbitsa",
+        "Verbitsa",
+        "V\u016drbitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731602
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"373d91044d345cae225826bc6e12d10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327168027,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1327168027,
+    "wof:lastmodified":1537587645,
+    "wof:name":"Varbitsa",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35,
+    42.05,
+    25.35,
+    42.05
+],
+  "geometry": {"coordinates":[25.35,42.05],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243009535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92382,42.67717,22.92382,42.67717",
+    "geom:latitude":42.67717,
+    "geom:longitude":22.92382,
+    "gn:admin1_code":"49",
+    "gn:admin2_code":"PER08",
+    "gn:asciiname":"Sopitsa",
+    "gn:country_code":"BG",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726977,
+    "gn:latitude":42.67717,
+    "gn:longitude":22.92382,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Sopitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043f\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Sopiza",
+        "Sopitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726977
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"54254f96ddca57ffee70be19c9255ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243009535,
+            "region_id":85681767
+        }
+    ],
+    "wof:id":1243009535,
+    "wof:lastmodified":1537587346,
+    "wof:name":"Sopitsa",
+    "wof:parent_id":85681767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92382000000001,
+    42.67717,
+    22.92382000000001,
+    42.67717
+],
+  "geometry": {"coordinates":[22.92382000000001,42.67717],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 101794503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":609214.129785,
+    "geom:bbox":"25.3002121518,41.2891843719,25.3092984438,41.3013951029",
+    "geom:latitude":41.29443,
+    "geom:longitude":25.305194,
+    "iso:country":"BG",
+    "lbl:latitude":41.293022,
+    "lbl:longitude":25.305735,
+    "mps:latitude":41.293022,
+    "mps:longitude":25.305735,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u043a\u0430\u043b\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u0427\u0430\u043a\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Chakalarovo"
+    ],
+    "name:eng_x_variant":[
+        "Chaka Yarovo",
+        "Chakal K'oy",
+        "Chekalarovo",
+        "Tschakalarowo"
+    ],
+    "name:ron_x_preferred":[
+        "Ceakalarovo"
+    ],
+    "name:rum_x_preferred":[
+        "Ceakalarovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043a\u0430\u043b\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Tjakalarovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043a\u0430\u043b\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Tschakalarowo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0427\u0430\u043a\u0430\u043b\u0430\u0440\u043e\u0432\u043e",
+    "qs:la_lc":"*BGKRZ1480090",
+    "qs:level":"locality",
+    "qs:loc":"\u0427\u0430\u043a\u0430\u043b\u0430\u0440\u043e\u0432\u043e",
+    "qs:loc_alt":"Chakalarovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037060fc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732677,
+        "gp:id":835370,
+        "qs:id":6,
+        "wd:id":"Q4506867"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"60827e921bfb43ac8306ddf6ed76a9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101794503,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101794503,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527689315,
+    "wof:name":"\u0427\u0430\u043a\u0430\u043b\u0430\u0440\u043e\u0432\u043e",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.30021215178903,
+    41.28918437187986,
+    25.30929844382297,
+    41.30139510285642
+],
+  "geometry": {"coordinates":[[[25.30929844382297,41.29500256559191],[25.30796836998047,41.28970321290404],[25.30562573688991,41.29006760873403],[25.30540411947572,41.28918437187986],[25.30071884373837,41.28991298640682],[25.30138353301322,41.29256272858572],[25.30021215178903,41.29274485688251],[25.30065528949262,41.29451135003819],[25.30299810883201,41.29414706761656],[25.30432791711917,41.29944647406711],[25.30315641606245,41.2996286402676],[25.30359972282531,41.30139510285642],[25.30594278184304,41.30103074462096],[25.30572109268712,41.30014752013165],[25.30806409605924,41.29978311290495],[25.30762068061318,41.29801667140396],[25.30879214176423,41.29783445319424],[25.30812703591471,41.29518478849928],[25.30929844382297,41.29500256559191]]],"type":"Polygon"}
+}

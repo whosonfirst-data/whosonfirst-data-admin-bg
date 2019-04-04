@@ -1,0 +1,76 @@
+{
+  "id": 1293622631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60028,43.71722,22.60028,43.71722",
+    "geom:latitude":43.71722,
+    "geom:longitude":22.60028,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID01",
+    "gn:admin3_code":"VID01-10",
+    "gn:asciiname":"Rabisha",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727869,
+    "gn:latitude":43.71722,
+    "gn:longitude":22.60028,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Rabisha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0431\u0438\u0448\u0430"
+    ],
+    "name:und_x_variant":[
+        "Rabi\u0161a",
+        "Rabischa",
+        "Rabisha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727869
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f2fedc2e46929f9c129ed7f1397ff2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293622631,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1293622631,
+    "wof:lastmodified":1537587400,
+    "wof:name":"Rabisha",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60028,
+    43.71722000000001,
+    22.60028,
+    43.71722000000001
+],
+  "geometry": {"coordinates":[22.60028,43.71722000000001],"type":"Point"}
+}

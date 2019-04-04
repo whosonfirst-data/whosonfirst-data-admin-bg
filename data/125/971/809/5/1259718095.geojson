@@ -1,0 +1,74 @@
+{
+  "id": 1259718095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31595,41.72036,24.31595,41.72036",
+    "geom:latitude":41.72036,
+    "geom:longitude":24.31595,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Kashtakli",
+    "gn:country_code":"BG",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11403039,
+    "gn:latitude":41.72036,
+    "gn:longitude":24.31595,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Kashtakli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bul_x_preferred":[
+        "Kashtakli"
+    ],
+    "name:bul_x_variant":[
+        "\u041a\u0430\u0449\u0430\u043a\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kashtakl\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11403039
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"92a9fc6058c12e55779d931e3a0364d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259718095,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1259718095,
+    "wof:lastmodified":1537587803,
+    "wof:name":"Kashtakli",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31595,
+    41.72036,
+    24.31595,
+    41.72036
+],
+  "geometry": {"coordinates":[24.31595,41.72036],"type":"Point"}
+}

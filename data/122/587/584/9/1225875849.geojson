@@ -1,0 +1,75 @@
+{
+  "id": 1225875849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46667,43.03333,25.46667,43.03333",
+    "geom:latitude":43.03333,
+    "geom:longitude":25.46667,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB12",
+    "gn:asciiname":"Kereka",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730481,
+    "gn:latitude":43.03333,
+    "gn:longitude":25.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kereka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Koreka",
+        "Kereka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730481,
+        "wk:page":"Kereka"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d09ee211abe15cc5873b17f1f6cc3744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225875849,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1225875849,
+    "wof:lastmodified":1537587570,
+    "wof:name":"Kereka",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46667,
+    43.03333,
+    25.46667,
+    43.03333
+],
+  "geometry": {"coordinates":[25.46667,43.03333],"type":"Point"}
+}

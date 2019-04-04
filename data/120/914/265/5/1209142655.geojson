@@ -1,0 +1,71 @@
+{
+  "id": 1209142655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68333,41.91667,25.68333,41.91667",
+    "geom:latitude":41.91667,
+    "geom:longitude":25.68333,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV34",
+    "gn:asciiname":"Podkrepa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728166,
+    "gn:latitude":41.91667,
+    "gn:longitude":25.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Podkrepa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u043a\u0440\u0435\u043f\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gyuvendiklii",
+        "Podkrepa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728166,
+        "wk:page":"Podkrepa_%28village%29"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"656f3ae0f835b9656ce4cf6dfb71e98a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209142655
+        }
+    ],
+    "wof:id":1209142655,
+    "wof:lastmodified":1537587422,
+    "wof:name":"Podkrepa",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68333,
+    41.91667,
+    25.68333,
+    41.91667
+],
+  "geometry": {"coordinates":[25.68333,41.91667],"type":"Point"}
+}

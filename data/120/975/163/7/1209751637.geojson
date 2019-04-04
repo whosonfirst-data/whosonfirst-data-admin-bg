@@ -1,0 +1,74 @@
+{
+  "id": 1209751637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49983,42.54752,22.49983,42.54752",
+    "geom:latitude":42.54752,
+    "geom:longitude":22.49983,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL50",
+    "gn:asciiname":"Kiselitsa",
+    "gn:country_code":"BG",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730347,
+    "gn:latitude":42.54752,
+    "gn:longitude":22.49983,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kiselitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Belgrade",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u0441\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Kisseliza",
+        "Kiselitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730347,
+        "wk:page":"Kiselitsa"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b857ccc68dea2662e64ee3d9fe1167fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1209751637,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1209751637,
+    "wof:lastmodified":1537587562,
+    "wof:name":"Kiselitsa",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49983,
+    42.54752,
+    22.49983,
+    42.54752
+],
+  "geometry": {"coordinates":[22.49983,42.54752],"type":"Point"}
+}

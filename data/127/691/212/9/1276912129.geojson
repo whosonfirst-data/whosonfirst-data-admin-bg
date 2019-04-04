@@ -1,0 +1,68 @@
+{
+  "id": 1276912129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88333,42.03333,23.88333,42.03333",
+    "geom:latitude":42.03333,
+    "geom:longitude":23.88333,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Dalovi",
+    "gn:country_code":"BG",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732384,
+    "gn:latitude":42.03333,
+    "gn:longitude":23.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dalovi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0430\u043b\u043e\u0432\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732384
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3d820381e3f806034e88148a748dd693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276912129,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":1276912129,
+    "wof:lastmodified":1537587699,
+    "wof:name":"Dalovi",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88333,
+    42.03333,
+    23.88333,
+    42.03333
+],
+  "geometry": {"coordinates":[23.88333,42.03333],"type":"Point"}
+}

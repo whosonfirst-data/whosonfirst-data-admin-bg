@@ -1,0 +1,77 @@
+{
+  "id": 1276373671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51667,43.4,24.51667,43.4",
+    "geom:latitude":43.4,
+    "geom:longitude":24.51667,
+    "gn:admin1_code":"50",
+    "gn:admin2_code":"PVN24",
+    "gn:admin3_code":"PVN24-23",
+    "gn:asciiname":"Tarnene",
+    "gn:country_code":"BG",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726161,
+    "gn:latitude":43.4,
+    "gn:longitude":24.51667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Tarnene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u044a\u0440\u043d\u0435\u043d\u0435"
+    ],
+    "name:bul_x_variant":[
+        "Tarnene"
+    ],
+    "name:und_x_variant":[
+        "T\u0103rnene",
+        "T\u016drnene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726161
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5d161f6b75f09307c20970216a78764a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276373671,
+            "region_id":85681835
+        }
+    ],
+    "wof:id":1276373671,
+    "wof:lastmodified":1537587293,
+    "wof:name":"Tarnene",
+    "wof:parent_id":85681835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51667,
+    43.4,
+    24.51667,
+    43.4
+],
+  "geometry": {"coordinates":[24.51667,43.4],"type":"Point"}
+}

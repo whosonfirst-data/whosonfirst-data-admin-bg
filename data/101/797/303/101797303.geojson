@@ -1,0 +1,111 @@
+{
+  "id": 101797303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000089,
+    "geom:area_square_m":808622.89139,
+    "geom:bbox":"26.5784161744,43.0477578504,26.5945432836,43.057243359",
+    "geom:latitude":43.052286,
+    "geom:longitude":26.585894,
+    "iso:country":"BG",
+    "lbl:latitude":43.052703,
+    "lbl:longitude":26.583756,
+    "mps:latitude":43.052703,
+    "mps:longitude":26.583756,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u0440\u043e\u0432\u0438\u0449\u0435"
+    ],
+    "name:eng_x_colloquial":[
+        "Sarsthplii",
+        "Sarstplii",
+        "Sarsuplii"
+    ],
+    "name:eng_x_preferred":[
+        "Tserovishte"
+    ],
+    "name:eng_x_variant":[
+        "Cerovishte",
+        "Sarsanli",
+        "Sars\u00feplii",
+        "Zerowischte"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0426\u0435\u0440\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "name:rum_x_preferred":[
+        "\u021aerovi\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0440\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0440\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Zerowischte"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435",
+    "qs:a1_alt":"Targovishte",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0426\u0435\u0440\u043e\u0432\u0438\u0449\u0435",
+    "qs:la_lc":"*BGTGV2278450",
+    "qs:level":"locality",
+    "qs:loc":"\u0426\u0435\u0440\u043e\u0432\u0438\u0449\u0435",
+    "qs:loc_alt":"Tserovishte",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":988,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03730410-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726233,
+        "gp:id":840292,
+        "qs:id":1273222,
+        "wd:id":"Q2022054"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c1257f5047b31171da65f146f317b398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797303,
+            "region_id":85681839
+        }
+    ],
+    "wof:id":101797303,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641527,
+    "wof:name":"\u0426\u0435\u0440\u043e\u0432\u0438\u0449\u0435",
+    "wof:parent_id":85681839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.57841617443944,
+    43.04775785040431,
+    26.59454328357805,
+    43.05724335901027
+],
+  "geometry": {"coordinates":[[[26.58713953821996,43.05664886004166],[26.58663524695589,43.05489330461137],[26.58783705717508,43.05469511690103],[26.58758490989067,43.05381734021239],[26.59359377036191,43.05282620696227],[26.59334154960868,43.05194844582701],[26.59454328357805,43.05175018023908],[26.59378663143553,43.04911689750656],[26.59258494755954,43.04931515279947],[26.59233276694505,43.0484373852496],[26.59113109262535,43.04863562298891],[26.59087893874056,43.04775785040431],[26.58847560207698,43.04815427665528],[26.58872772256734,43.0490320561014],[26.58512261393849,43.04962659985125],[26.58487054354265,43.04874881011472],[26.58006369890973,43.04954132367686],[26.58056771612985,43.05129692898333],[26.579365953729,43.05149502892425],[26.57961796067889,43.05237283260323],[26.57841617443944,43.05257092184939],[26.57942423570699,43.05608213426069],[26.5806260887623,43.0558840312973],[26.58087814585696,43.0567618269655],[26.5832818639617,43.05636557180452],[26.58353396449752,43.05724335901027],[26.58713953821996,43.05664886004166]]],"type":"Polygon"}
+}

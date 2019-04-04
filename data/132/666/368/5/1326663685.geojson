@@ -1,0 +1,71 @@
+{
+  "id": 1326663685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53684,41.38074,25.53684,41.38074",
+    "geom:latitude":41.38074,
+    "geom:longitude":25.53684,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Radevitsa",
+    "gn:country_code":"BG",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335498,
+    "gn:latitude":41.38074,
+    "gn:longitude":25.53684,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Radevitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Radevitsa"
+    ],
+    "name:bul_x_variant":[
+        "\u0420\u0430\u0434\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335498
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"47eedbc272a9bfe17a2b35f00e9358e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326663685,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1326663685,
+    "wof:lastmodified":1537587791,
+    "wof:name":"Radevitsa",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53684,
+    41.38074,
+    25.53684,
+    41.38074
+],
+  "geometry": {"coordinates":[25.53684,41.38074],"type":"Point"}
+}

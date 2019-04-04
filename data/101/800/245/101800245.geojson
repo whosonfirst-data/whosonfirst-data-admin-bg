@@ -1,0 +1,107 @@
+{
+  "id": 101800245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:area_square_m":549274.355118,
+    "geom:bbox":"25.0418199307,41.4267277226,25.0574455366,41.4355655391",
+    "geom:latitude":41.430518,
+    "geom:longitude":25.050284,
+    "iso:country":"BG",
+    "lbl:latitude":41.431067,
+    "lbl:longitude":25.052119,
+    "mps:latitude":41.431067,
+    "mps:longitude":25.052119,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0446\u0435\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Startsevo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10e2\u10d0\u10e0\u10ea\u10d4\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0446\u0435\u0432\u043e_"
+    ],
+    "name:may_x_preferred":[
+        "Startsevo"
+    ],
+    "name:pol_x_preferred":[
+        "Starcewo"
+    ],
+    "name:rum_x_preferred":[
+        "Star\u021bevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0446\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Startsevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0446\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Elekhche"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043c\u043e\u043b\u044f\u043d",
+    "qs:a1_alt":"Smolyan",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0421\u0442\u0430\u0440\u0446\u0435\u0432\u043e",
+    "qs:la_lc":"*BGSML1169105",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0430\u0440\u0446\u0435\u0432\u043e",
+    "qs:loc_alt":"Startsevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":266,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726816,
+        "qs:id":7,
+        "wd:id":"Q2654260"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"398ba766b2f78f93a8405d0e2d939cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800245,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":101800245,
+    "wof:lastmodified":1527715084,
+    "wof:name":"\u0421\u0442\u0430\u0440\u0446\u0435\u0432\u043e",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.0418199307087,
+    41.42672772255702,
+    25.05744553660446,
+    41.43556553913675
+],
+  "geometry": {"coordinates":[[[25.05531536101228,41.43414395337794],[25.05509647310129,41.4332601859345],[25.05744553660446,41.4329015822978],[25.05722662545872,41.43201781931765],[25.0560521125787,41.4321971250543],[25.05583322582748,41.43131335758568],[25.05465872283304,41.43149264653414],[25.05378332450147,41.42795754968211],[25.0526088790171,41.42813681289334],[25.05239006659775,41.42725303193663],[25.05004118941412,41.42761151098307],[25.04982241725622,41.42672772255702],[25.04512465454957,41.42744450307674],[25.04534336320893,41.42832830343002],[25.0418199307087,41.42886575282182],[25.04225727830112,41.43063336690523],[25.04578080606171,41.43009589962583],[25.04599954025588,41.43097969546852],[25.04834856058699,41.43062130896192],[25.04856733504812,41.4315050973367],[25.04974185210966,41.4313258803939],[25.05039827421268,41.43397722754833],[25.05157283291913,41.4337979878527],[25.05201052199095,41.43556553913675],[25.05435968494902,41.43520700639579],[25.05414080439743,41.43432323747271],[25.05531536101228,41.43414395337794]]],"type":"Polygon"}
+}

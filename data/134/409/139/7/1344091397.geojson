@@ -1,0 +1,76 @@
+{
+  "id": 1344091397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.98333,43.11667,23.98333,43.11667",
+    "geom:latitude":43.11667,
+    "geom:longitude":23.98333,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Mishkarete",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729049,
+    "gn:latitude":43.11667,
+    "gn:longitude":23.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mishkarete",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0448\u043a\u0430\u0440\u0435\u0442\u0435"
+    ],
+    "name:und_x_variant":[
+        "Tr\u016dneto",
+        "Mishkaretye",
+        "Mischkarete",
+        "Mishkarite",
+        "Mishkarete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729049
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a733af1d7c2dda44d952cbe5440635aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1344091397,
+            "region_id":85681817
+        }
+    ],
+    "wof:id":1344091397,
+    "wof:lastmodified":1537587480,
+    "wof:name":"Mishkarete",
+    "wof:parent_id":85681817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.98333,
+    43.11667,
+    23.98333,
+    43.11667
+],
+  "geometry": {"coordinates":[23.98333,43.11667],"type":"Point"}
+}

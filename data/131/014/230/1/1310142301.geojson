@@ -1,0 +1,81 @@
+{
+  "id": 1310142301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.86667,42.75,23.86667,42.75",
+    "geom:latitude":42.75,
+    "geom:longitude":23.86667,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO10",
+    "gn:admin3_code":"SFO10-12",
+    "gn:asciiname":"Stargel",
+    "gn:country_code":"BG",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726671,
+    "gn:latitude":42.75,
+    "gn:longitude":23.86667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Stargel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u044a\u0440\u0433\u0435\u043b"
+    ],
+    "name:bul_x_variant":[
+        "Stargel"
+    ],
+    "name:und_x_variant":[
+        "Str\u0103gel",
+        "St\u0103rgel",
+        "Str\u016dgel",
+        "Strogel",
+        "Stregel",
+        "St\u016drgel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726671
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"512a02373511de255e1aaf9a4c004d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310142301,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1310142301,
+    "wof:lastmodified":1537587325,
+    "wof:name":"Stargel",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.86667000000001,
+    42.75,
+    23.86667000000001,
+    42.75
+],
+  "geometry": {"coordinates":[23.86667000000001,42.75],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209040619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39124,42.3132,22.39124,42.3132",
+    "geom:latitude":42.3132,
+    "geom:longitude":22.39124,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Radevska Mahala",
+    "gn:country_code":"BG",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":861942,
+    "gn:latitude":42.3132,
+    "gn:longitude":22.39124,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Radevska Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0434\u0435\u0432\u0441\u043a\u0430 \u043c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Radevska Mahala",
+        "\u0420\u0430\u0434\u0435\u0432\u0441\u043a\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Radevska Makhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":861942
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"77b3c5c328eaa7316e8ecb528a598a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209040619
+        }
+    ],
+    "wof:id":1209040619,
+    "wof:lastmodified":1537587782,
+    "wof:name":"Radevska Mahala",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39124,
+    42.3132,
+    22.39124,
+    42.3132
+],
+  "geometry": {"coordinates":[22.39124,42.3132],"type":"Point"}
+}

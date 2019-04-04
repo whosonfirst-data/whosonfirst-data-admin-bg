@@ -1,0 +1,77 @@
+{
+  "id": 1260218611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.48098,42.27517,27.48098,42.27517",
+    "geom:latitude":42.27517,
+    "geom:longitude":27.48098,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS21",
+    "gn:admin3_code":"BGS21-08",
+    "gn:asciiname":"Krushevets",
+    "gn:country_code":"BG",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729875,
+    "gn:latitude":42.27517,
+    "gn:longitude":27.48098,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Krushevets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0435\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Kruschewez",
+        "Kayryak-Kyoi",
+        "Kayryak-K\u2019oy",
+        "Krushevets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729875,
+        "wk:page":"Krushevets"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a89919e701de791c3016b03005b980cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260218611,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1260218611,
+    "wof:lastmodified":1537587532,
+    "wof:name":"Krushevets",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.48098,
+    42.27517,
+    27.48098,
+    42.27517
+],
+  "geometry": {"coordinates":[27.48098,42.27517],"type":"Point"}
+}

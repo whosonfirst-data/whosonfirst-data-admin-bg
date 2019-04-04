@@ -1,0 +1,68 @@
+{
+  "id": 1310439983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.3,41.36667,25.3,41.36667",
+    "geom:latitude":41.36667,
+    "geom:longitude":25.3,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Mezarluk Dere",
+    "gn:country_code":"BG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729135,
+    "gn:latitude":41.36667,
+    "gn:longitude":25.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mezarluk Dere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440\u043b\u044a\u043a \u0434\u0435\u0440\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729135
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4fb07571cc1ab38290d2b7ca8678f725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310439983,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1310439983,
+    "wof:lastmodified":1537587486,
+    "wof:name":"Mezarluk Dere",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3,
+    41.36667,
+    25.3,
+    41.36667
+],
+  "geometry": {"coordinates":[25.3,41.36667],"type":"Point"}
+}

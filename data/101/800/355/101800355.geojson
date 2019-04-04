@@ -1,0 +1,113 @@
+{
+  "id": 101800355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000071,
+    "geom:area_square_m":659126.125762,
+    "geom:bbox":"23.1877189928,41.4487480736,23.1967397926,41.4606125533",
+    "geom:latitude":41.455099,
+    "geom:longitude":23.192401,
+    "iso:country":"BG",
+    "lbl:latitude":41.455251,
+    "lbl:longitude":23.192487,
+    "mps:latitude":41.455251,
+    "mps:longitude":23.192487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0445\u043d\u0435\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Mihnevo"
+    ],
+    "name:eng_x_preferred":[
+        "Mikhnevo"
+    ],
+    "name:eng_x_variant":[
+        "Michnewo",
+        "Mihnevo",
+        "Mikhnovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0445\u043d\u0435\u0432\u043e"
+    ],
+    "name:mac_x_preferred":[
+        "\u041c\u0438\u0445\u043d\u043e\u0432\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Mihnevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u043d\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Michnevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0445\u043d\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Michnewo"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041c\u0438\u0445\u043d\u0435\u0432\u043e",
+    "qs:la_lc":"*BGBLG3348578",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0438\u0445\u043d\u0435\u0432\u043e",
+    "qs:loc_alt":"Mihnevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371d090-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":729106,
+        "gp:id":838088,
+        "qs:id":8,
+        "wd:id":"Q2654761"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"725b73cf01ee609978fd8fd3e4e4bb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800355,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800355,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815511,
+    "wof:name":"\u041c\u0438\u0445\u043d\u0435\u0432\u043e",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18771899275669,
+    41.44874807362828,
+    23.19673979258164,
+    41.46061255326953
+],
+  "geometry": {"coordinates":[[[23.19613724765514,41.46014073553476],[23.19556084334135,41.45747539078451],[23.19673979258164,41.45731809827464],[23.19539499862083,41.45109893211696],[23.19421616304732,41.45125620621383],[23.19383203631867,41.4494792842961],[23.1926532279291,41.4496365392236],[23.19246119207133,41.44874807362828],[23.19128239463049,41.44890531201679],[23.19147441425326,41.44979378024152],[23.19029559529156,41.44995100734963],[23.19048760619137,41.45083947686572],[23.18930876570727,41.45099669269308],[23.1895007678832,41.45188516350078],[23.18832190587625,41.45204236804688],[23.18889790876523,41.45470778033297],[23.18771899275669,41.45486497885526],[23.18829501454286,41.45753038699371],[23.18947397927315,41.45737318058372],[23.1900501174112,41.46003856879963],[23.19240812846056,41.45972409846519],[23.19260022202349,41.46061255326953],[23.19613724765514,41.46014073553476]]],"type":"Polygon"}
+}

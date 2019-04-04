@@ -1,0 +1,75 @@
+{
+  "id": 1276588705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.5,42.93333,25.5,42.93333",
+    "geom:latitude":42.93333,
+    "geom:longitude":25.5,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB12",
+    "gn:asciiname":"Radancheto",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727860,
+    "gn:latitude":42.93333,
+    "gn:longitude":25.5,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Radancheto",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0434\u0430\u043d\u0447\u0435\u0442\u043e"
+    ],
+    "name:und_x_variant":[
+        "Radancha",
+        "Radancheto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727860,
+        "wk:page":"Radancheto"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"fc4c2217b1898646b1ee6874b2efebba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276588705,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1276588705,
+    "wof:lastmodified":1537587399,
+    "wof:name":"Radancheto",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.5,
+    42.93333,
+    25.5,
+    42.93333
+],
+  "geometry": {"coordinates":[25.5,42.93333],"type":"Point"}
+}

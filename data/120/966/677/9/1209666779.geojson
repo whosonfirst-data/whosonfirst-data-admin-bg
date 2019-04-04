@@ -1,0 +1,70 @@
+{
+  "id": 1209666779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.38016,41.42213,23.38016,41.42213",
+    "geom:latitude":41.42213,
+    "geom:longitude":23.38016,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG33",
+    "gn:asciiname":"Dolno Spanchevo",
+    "gn:country_code":"BG",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732041,
+    "gn:latitude":41.42213,
+    "gn:longitude":23.38016,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Dolno Spanchevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0421\u043f\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Dolno Spantschewo",
+        "Dolno Spanchevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732041,
+        "wk:page":"Dolno_Spanchevo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"646235a13179aebc0dcaf9520ff6d81d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209666779
+        }
+    ],
+    "wof:id":1209666779,
+    "wof:lastmodified":1537587675,
+    "wof:name":"Dolno Spanchevo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.38016,
+    41.42213,
+    23.38016,
+    41.42213
+],
+  "geometry": {"coordinates":[23.38016,41.42213],"type":"Point"}
+}

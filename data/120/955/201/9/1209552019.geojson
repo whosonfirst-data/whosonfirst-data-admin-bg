@@ -1,0 +1,71 @@
+{
+  "id": 1209552019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.74672,43.58138,23.74672,43.58138",
+    "geom:latitude":43.58138,
+    "geom:longitude":23.74672,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"VRC35",
+    "gn:asciiname":"Botevo",
+    "gn:country_code":"BG",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733009,
+    "gn:latitude":43.58138,
+    "gn:longitude":23.74672,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Botevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bot\u2019ovo",
+        "B\u016drzinski Cherkezi",
+        "Botiowo",
+        "Botevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733009
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3c191e10b627ca4b55653b4502d6f8ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209552019
+        }
+    ],
+    "wof:id":1209552019,
+    "wof:lastmodified":1537587740,
+    "wof:name":"Botevo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.74672,
+    43.58138,
+    23.74672,
+    43.58138
+],
+  "geometry": {"coordinates":[23.74672,43.58138],"type":"Point"}
+}

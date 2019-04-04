@@ -1,0 +1,75 @@
+{
+  "id": 1226379449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53333,43.46667,25.53333,43.46667",
+    "geom:latitude":43.46667,
+    "geom:longitude":25.53333,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR26",
+    "gn:admin3_code":"VTR26-11",
+    "gn:asciiname":"Pavel",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728390,
+    "gn:latitude":43.46667,
+    "gn:longitude":25.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pavel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u0432\u0435\u043b"
+    ],
+    "name:und_x_variant":[
+        "Pawel",
+        "Pavel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728390
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ef331c95a3f100e4df00b9a2a967ed80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226379449,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1226379449,
+    "wof:lastmodified":1537587438,
+    "wof:name":"Pavel",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53333,
+    43.46667,
+    25.53333,
+    43.46667
+],
+  "geometry": {"coordinates":[25.53333,43.46667],"type":"Point"}
+}

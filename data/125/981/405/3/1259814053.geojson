@@ -1,0 +1,78 @@
+{
+  "id": 1259814053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41667,42.15,24.41667,42.15",
+    "geom:latitude":42.15,
+    "geom:longitude":24.41667,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"PAZ19",
+    "gn:admin3_code":"PAZ19-19",
+    "gn:asciiname":"Ognyanovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728660,
+    "gn:latitude":42.15,
+    "gn:longitude":24.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ognyanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Mariza",
+        "Saladinovo",
+        "Maritsa",
+        "Ognyanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728660,
+        "wk:page":"Ognyanovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7c84b351bb155a7d3a340dda519983e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259814053,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":1259814053,
+    "wof:lastmodified":1537587456,
+    "wof:name":"Ognyanovo",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41667,
+    42.15,
+    24.41667,
+    42.15
+],
+  "geometry": {"coordinates":[24.41667,42.15],"type":"Point"}
+}

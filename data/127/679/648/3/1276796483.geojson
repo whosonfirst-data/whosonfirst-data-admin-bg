@@ -1,0 +1,71 @@
+{
+  "id": 1276796483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.54584,42.06648,27.54584,42.06648",
+    "geom:latitude":42.06648,
+    "geom:longitude":27.54584,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Veleka",
+    "gn:country_code":"BG",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11314382,
+    "gn:latitude":42.06648,
+    "gn:longitude":27.54584,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Veleka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Veleka"
+    ],
+    "name:bul_x_variant":[
+        "\u0412\u0435\u043b\u0435\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11314382
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"56df185b9a564db21bd3baa18ac9cfaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276796483,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1276796483,
+    "wof:lastmodified":1537587789,
+    "wof:name":"Veleka",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.54584,
+    42.06648,
+    27.54584,
+    42.06648
+],
+  "geometry": {"coordinates":[27.54584,42.06648],"type":"Point"}
+}

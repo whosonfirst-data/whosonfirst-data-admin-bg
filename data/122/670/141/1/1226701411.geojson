@@ -1,0 +1,78 @@
+{
+  "id": 1226701411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.74298,43.63128,27.74298,43.63128",
+    "geom:latitude":43.63128,
+    "geom:longitude":27.74298,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB15",
+    "gn:admin3_code":"DOB15-28",
+    "gn:asciiname":"Kozloduytsi",
+    "gn:country_code":"BG",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730010,
+    "gn:latitude":43.63128,
+    "gn:longitude":27.74298,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kozloduytsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u043e\u0434\u0443\u0439\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Osman Fak\u016d",
+        "Koslodujci",
+        "Osman-Faki",
+        "Osman Fac\u00e2",
+        "Kozloduytsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730010,
+        "wk:page":"Kozloduytsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a283026a9eae9595d752856852bea9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226701411,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1226701411,
+    "wof:lastmodified":1537587541,
+    "wof:name":"Kozloduytsi",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.74298,
+    43.63128,
+    27.74298,
+    43.63128
+],
+  "geometry": {"coordinates":[27.74298,43.63128],"type":"Point"}
+}

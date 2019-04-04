@@ -1,0 +1,116 @@
+{
+  "id": 101800247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":329564.914707,
+    "geom:bbox":"25.1241639448,41.4203156738,25.1403077555,41.424948688",
+    "geom:latitude":41.422865,
+    "geom:longitude":25.132728,
+    "iso:country":"BG",
+    "lbl:latitude":41.423148,
+    "lbl:longitude":25.13016,
+    "mps:latitude":41.423148,
+    "mps:longitude":25.13016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Dolen"
+    ],
+    "name:fra_x_preferred":[
+        "Dolen"
+    ],
+    "name:fre_x_preferred":[
+        "Dolen"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10dd\u10da\u10d4\u10dc\u10d8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10da\u10d4\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Dolen"
+    ],
+    "name:rum_x_preferred":[
+        "Dolen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Dolen"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043c\u043e\u043b\u044f\u043d",
+    "qs:a1_alt":"Smolyan",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0414\u043e\u043b\u0435\u043d",
+    "qs:la_lc":"*BGSML1121871",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u043e\u043b\u0435\u043d",
+    "qs:loc_alt":"Dolen",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0370975c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732164,
+        "gp:id":835751,
+        "qs:id":6,
+        "wd:id":"Q2459456",
+        "wk:page":"Dolen, Smolyan Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"68e3a6b3ad1dc2c86c3b4f39880697ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800247,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":101800247,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815511,
+    "wof:name":"\u0414\u043e\u043b\u0435\u043d",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.12416394482625,
+    41.42031567377546,
+    25.14030775546354,
+    41.42494868804317
+],
+  "geometry": {"coordinates":[[[25.12739170852666,41.42494868804317],[25.13326272920904,41.42404782111259],[25.133482689917,41.42493138663929],[25.13583108778431,41.42457093728376],[25.13561109536607,41.42368737775297],[25.14030775546354,41.42296632546118],[25.13964763931904,41.42031567377546],[25.13729941642288,41.42067620952514],[25.13751941487436,41.42155976759688],[25.13164867306875,41.42246088051058],[25.13142875388348,41.42157730745032],[25.12673211557041,41.42229793743502],[25.12651226835726,41.42141435087603],[25.12416394482625,41.42177457708863],[25.12438376032839,41.42265816963993],[25.12555794095613,41.4224780604365],[25.12577778086614,41.4233616484803],[25.12695197133598,41.42318152248259],[25.12739170852666,41.42494868804317]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259822177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96287,41.99232,22.96287,41.99232",
+    "geom:latitude":41.99232,
+    "geom:longitude":22.96287,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Yazvaliyte",
+    "gn:country_code":"BG",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436647,
+    "gn:latitude":41.99232,
+    "gn:longitude":22.96287,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Yazvaliyte",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Yazvaliyte"
+    ],
+    "name:bul_x_variant":[
+        "\u042f\u0437\u0432\u0430\u043b\u0438\u0439\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436647
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e0c66501204f6a18ef7d7dcefcbe1d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259822177,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1259822177,
+    "wof:lastmodified":1537587806,
+    "wof:name":"Yazvaliyte",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96287,
+    41.99232,
+    22.96287,
+    41.99232
+],
+  "geometry": {"coordinates":[22.96287,41.99232],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343892315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.6,41.78333,25.6,41.78333",
+    "geom:latitude":41.78333,
+    "geom:longitude":25.6,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV30",
+    "gn:admin3_code":"HKV30-24",
+    "gn:asciiname":"Tsareva Polyana",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726273,
+    "gn:latitude":41.78333,
+    "gn:longitude":25.6,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsareva Polyana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0426\u0430\u0440\u0435\u0432\u0430 \u043f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zarewa Poljana",
+        "Khasobas",
+        "Tsareva Polyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726273,
+        "wk:page":"Tsareva_Polyana"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1ebef0a15b27ed5cd0b7382e62212cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343892315,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1343892315,
+    "wof:lastmodified":1537587301,
+    "wof:name":"Tsareva Polyana",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6,
+    41.78333,
+    25.6,
+    41.78333
+],
+  "geometry": {"coordinates":[25.6,41.78333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326464749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.72503,41.47349,24.72503,41.47349",
+    "geom:latitude":41.47349,
+    "geom:longitude":24.72503,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Bukatsite",
+    "gn:country_code":"BG",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11345996,
+    "gn:latitude":41.47349,
+    "gn:longitude":24.72503,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bukatsite",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Bukatsite"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u0443\u043a\u0430\u0446\u0438\u0442\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11345996
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"707702c99747f0243f6b7ed5e8607452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326464749,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1326464749,
+    "wof:lastmodified":1537587802,
+    "wof:name":"Bukatsite",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.72503,
+    41.47349000000001,
+    24.72503,
+    41.47349000000001
+],
+  "geometry": {"coordinates":[24.72503,41.47349000000001],"type":"Point"}
+}

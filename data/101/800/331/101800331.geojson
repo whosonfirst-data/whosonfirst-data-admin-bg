@@ -1,0 +1,111 @@
+{
+  "id": 101800331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":419438.855166,
+    "geom:bbox":"23.8436048504,41.541889532,23.8559703746,41.5499127985",
+    "geom:latitude":41.545927,
+    "geom:longitude":23.848402,
+    "iso:country":"BG",
+    "lbl:latitude":41.546464,
+    "lbl:longitude":23.84798,
+    "mps:latitude":41.546464,
+    "mps:longitude":23.84798,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0425\u0432\u043e\u0441\u0442\u044f\u043d\u0435"
+    ],
+    "name:bul_x_variant":[
+        "Hvostyane"
+    ],
+    "name:ceb_x_preferred":[
+        "Khvostjane"
+    ],
+    "name:eng_x_preferred":[
+        "Hvostyane"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0432\u043e\u0441\u0442\u044f\u043d\u0435"
+    ],
+    "name:mac_x_preferred":[
+        "\u0424\u0443\u0441\u0442\u0430\u043d\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Hvosteane"
+    ],
+    "name:rum_x_preferred":[
+        "Hvostiane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0432\u043e\u0441\u0442\u044f\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Chvostiane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0432\u043e\u0441\u0442\u044f\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Fustanya"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0425\u0432\u043e\u0441\u0442\u044f\u043d\u0435",
+    "qs:la_lc":"*BGBLG1377222",
+    "qs:level":"locality",
+    "qs:loc":"\u0425\u0432\u043e\u0441\u0442\u044f\u043d\u0435",
+    "qs:loc_alt":"Hvostene",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730376,
+        "gp:id":837108,
+        "qs:id":2,
+        "wd:id":"Q2654497"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0ae1d92928bdacae673ea1566a715c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800331,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800331,
+    "wof:lastmodified":1527715082,
+    "wof:name":"\u0425\u0432\u043e\u0441\u0442\u044f\u043d\u0435",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.84360485036319,
+    41.54188953195086,
+    23.85597037464646,
+    41.5499127984682
+],
+  "geometry": {"coordinates":[[[23.85597037464646,41.54277629676994],[23.85576821426685,41.54188953195086],[23.84633457867488,41.54321022906555],[23.84653660958901,41.54409701599229],[23.84535736391439,41.54426204334834],[23.84555938654694,41.54514883164768],[23.84438011912277,41.54531384786634],[23.84478415572414,41.54708742582227],[23.84360485036319,41.54725243366579],[23.84421091597636,41.5499127984682],[23.85010762995017,41.54908757880258],[23.84990551923448,41.54820080573995],[23.85108482914285,41.54803572286852],[23.85047849587534,41.54537540363339],[23.85165775166013,41.54521031515293],[23.85145564019848,41.54432354205846],[23.85263487423265,41.54415844244221],[23.85243275449375,41.54327167072142],[23.85597037464646,41.54277629676994]]],"type":"Polygon"}
+}

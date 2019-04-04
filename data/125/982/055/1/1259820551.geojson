@@ -1,0 +1,74 @@
+{
+  "id": 1259820551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.95,43.81667,26.95,43.81667",
+    "geom:latitude":43.81667,
+    "geom:longitude":26.95,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Tarkan",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726510,
+    "gn:latitude":43.81667,
+    "gn:longitude":26.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tarkan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0440\u043a\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kufalchalar",
+        "Kofaldcialar",
+        "Tarkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726510
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"67fd40cb02d3cfd70f7a61406f46bf65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259820551,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1259820551,
+    "wof:lastmodified":1537587314,
+    "wof:name":"Tarkan",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.95,
+    43.81667,
+    26.95,
+    43.81667
+],
+  "geometry": {"coordinates":[26.95,43.81667],"type":"Point"}
+}

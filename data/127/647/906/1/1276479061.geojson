@@ -1,0 +1,78 @@
+{
+  "id": 1276479061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.93333,43.13333,26.93333,43.13333",
+    "geom:latitude":43.13333,
+    "geom:longitude":26.93333,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"SHU23",
+    "gn:asciiname":"Suha Reka",
+    "gn:country_code":"BG",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726646,
+    "gn:latitude":43.13333,
+    "gn:longitude":26.93333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Suha Reka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0443\u0445\u0430 \u0420\u0435\u043a\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Suha Reka"
+    ],
+    "name:und_x_variant":[
+        "Kuru Dere",
+        "Sukha-Ryeka",
+        "Sucha-Reka",
+        "Sukha Reka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726646
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"87af69601dddfe843f7c7b1360e85733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276479061,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1276479061,
+    "wof:lastmodified":1537587323,
+    "wof:name":"Suha Reka",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.93333,
+    43.13333,
+    26.93333,
+    43.13333
+],
+  "geometry": {"coordinates":[26.93333,43.13333],"type":"Point"}
+}

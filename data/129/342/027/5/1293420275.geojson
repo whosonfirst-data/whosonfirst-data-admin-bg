@@ -1,0 +1,75 @@
+{
+  "id": 1293420275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62267,43.98705,22.62267,43.98705",
+    "geom:latitude":43.98705,
+    "geom:longitude":22.62267,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID22",
+    "gn:admin3_code":"VID22-06",
+    "gn:asciiname":"Topolovets",
+    "gn:country_code":"BG",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726387,
+    "gn:latitude":43.98705,
+    "gn:longitude":22.62267,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Topolovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Gorni Boshnyak",
+        "Topolowez",
+        "Topolovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726387
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"40c6775a5e08b75d57f413d0a74a48de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293420275,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1293420275,
+    "wof:lastmodified":1537587308,
+    "wof:name":"Topolovets",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62267,
+    43.98705,
+    22.62267,
+    43.98705
+],
+  "geometry": {"coordinates":[22.62267,43.98705],"type":"Point"}
+}

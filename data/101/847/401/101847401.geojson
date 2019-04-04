@@ -1,0 +1,115 @@
+{
+  "id": 101847401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":429290.958867,
+    "geom:bbox":"27.3387855848,42.8460948317,27.3488758033,42.8552179145",
+    "geom:latitude":42.851105,
+    "geom:longitude":27.34472,
+    "iso:country":"BG",
+    "lbl:latitude":42.851376,
+    "lbl:longitude":27.345638,
+    "mps:latitude":42.851376,
+    "mps:longitude":27.345638,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u043f\u0447\u0438\u0439\u0441\u043a\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Topchiysko"
+    ],
+    "name:eng_x_variant":[
+        "Topchijsko",
+        "Topchu Magale",
+        "Topchu Mahala",
+        "Topchu Makhle",
+        "Topchu-Makhala",
+        "Toptschiisko"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u043e\u043f\u0447\u0438\u0439\u0441\u043a\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Topciisko"
+    ],
+    "name:rum_x_preferred":[
+        "Topciisko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u0447\u0438\u0439\u0441\u043a\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Top\u00e7uk\u00f6y"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u0447\u0456\u0439\u0441\u044c\u043a\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Topchu Makhle"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0422\u043e\u043f\u0447\u0438\u0439\u0441\u043a\u043e",
+    "qs:la_lc":"*BGBGS1872864",
+    "qs:level":"locality",
+    "qs:loc":"\u0422\u043e\u043f\u0447\u0438\u0439\u0441\u043a\u043e",
+    "qs:loc_alt":"Topchiisko",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372f1fa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726404,
+        "gp:id":840164,
+        "qs:id":3,
+        "wd:id":"Q1075227",
+        "wk:page":"Topchiysko"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"950dede8b4786f573a68f93271055892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101847401,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101847401,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527714970,
+    "wof:name":"\u0422\u043e\u043f\u0447\u0438\u0439\u0441\u043a\u043e",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.33878558479262,
+    42.84609483167583,
+    27.34887580330292,
+    42.85521791448718
+],
+  "geometry": {"coordinates":[[[27.34461685680651,42.85501088062585],[27.3443547882693,42.85413523968811],[27.3479421533408,42.8535140646585],[27.34768004605081,42.85263843269848],[27.34887580330292,42.85243134987451],[27.34756534049711,42.84805318244844],[27.34876100853353,42.8478461033925],[27.34823686323318,42.84609483167583],[27.34464993524051,42.8467160054505],[27.34491195360414,42.84759165282571],[27.34371627984484,42.84779868627174],[27.34424031492279,42.84954998305329],[27.34304460106046,42.84975700959376],[27.34330661777386,42.85063265900004],[27.34091513521588,42.85104667713773],[27.34117712954861,42.85192233196278],[27.33878558479262,42.85233630113623],[27.33930953905144,42.85408761993023],[27.34050534785933,42.8538806352413],[27.34076735690826,42.85475628854226],[27.34315898518059,42.85434226999251],[27.34342103734332,42.85521791448718],[27.34461685680651,42.85501088062585]]],"type":"Polygon"}
+}

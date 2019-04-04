@@ -1,0 +1,68 @@
+{
+  "id": 1293032285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.75,41.51667,25.75,41.51667",
+    "geom:latitude":41.51667,
+    "geom:longitude":25.75,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Toskova Makhala",
+    "gn:country_code":"BG",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726369,
+    "gn:latitude":41.51667,
+    "gn:longitude":25.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Toskova Makhala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u0448\u043a\u043e\u0432\u0430 \u043c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726369
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a38fb5563c1a9b2a647922fc7c722373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293032285,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1293032285,
+    "wof:lastmodified":1537587307,
+    "wof:name":"Toskova Makhala",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75,
+    41.51667,
+    25.75,
+    41.51667
+],
+  "geometry": {"coordinates":[25.75,41.51667],"type":"Point"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 85901451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4298764.924878,
+    "geom:bbox":"27.832301,43.573223,27.832301,43.573223",
+    "geom:latitude":43.573223,
+    "geom:longitude":27.832301,
+    "gn:latitude":43.56667,
+    "gn:longitude":27.83333,
+    "iso:country":"BG",
+    "lbl:latitude":43.573223,
+    "lbl:longitude":27.832301,
+    "mps:latitude":43.571,
+    "mps:longitude":27.829575,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:bul_x_preferred":[
+        "\u0419\u043e\u0440\u0434\u0430\u043d \u0419\u043e\u0432\u043a\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Yordan Yovkovo"
+    ],
+    "name:eng_x_variant":[
+        "Iordan Iovkovo",
+        "Stan Poetazh",
+        "Yordan Yovkov"
+    ],
+    "name:unk_x_variant":[
+        "Iordan Iovkovo",
+        "Yordan Yovkovo"
+    ],
+    "qs:gn_adm0_cc":"BG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":726418,
+    "qs:gn_nam_loc":"Dobrich, Dobrich, Tolbukhin, BG",
+    "qs:gn_namadm1":"40",
+    "qs:gn_name":"Yordan Yovkovo",
+    "qs:local_max":117,
+    "qs:local_sum":117,
+    "qs:localhoods":1,
+    "qs:name":"Yordan Yovkovo",
+    "qs:name_adm0":"Bulgaria",
+    "qs:name_adm1":"Dobrich",
+    "qs:name_adm2":"Dobrich",
+    "qs:name_local":"Tolbukhin",
+    "qs:photo_max":109,
+    "qs:photo_sum":117,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424771,
+    "qs:woe_adm1":20070050,
+    "qs:woe_adm2":55873754,
+    "qs:woe_lau":0,
+    "qs:woe_local":840155,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101748925,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725505,
+        "gp:id":840845,
+        "qs:id":491828,
+        "qs_pg:id":491828
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"20f0025cb284c27786651b8265298033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748925,
+            "neighbourhood_id":85901451,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":85901451,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531932510,
+    "wof:name":"Yordan Yovkovo",
+    "wof:parent_id":101748925,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.832301,
+    43.573223,
+    27.832301,
+    43.573223
+],
+  "geometry": {"coordinates":[27.832301,43.573223],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193047205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.67525,42.21805,27.67525,42.21805",
+    "geom:latitude":42.21805,
+    "geom:longitude":27.67525,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS27",
+    "gn:asciiname":"Pismenovo",
+    "gn:country_code":"BG",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728233,
+    "gn:latitude":42.21805,
+    "gn:longitude":27.67525,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pismenovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0438\u0441\u043c\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Chiflik-Uruziya",
+        "Uzun Chair",
+        "Pismenowo",
+        "Pismonovo",
+        "Pismenovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728233,
+        "wk:page":"Pismenovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"256998e89415d0a752a5b83e8b88c366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1193047205,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1193047205,
+    "wof:lastmodified":1537587427,
+    "wof:name":"Pismenovo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.67525,
+    42.21805,
+    27.67525,
+    42.21805
+],
+  "geometry": {"coordinates":[27.67525,42.21805],"type":"Point"}
+}

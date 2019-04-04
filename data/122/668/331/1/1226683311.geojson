@@ -1,0 +1,76 @@
+{
+  "id": 1226683311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.68333,43.06667,25.68333,43.06667",
+    "geom:latitude":43.06667,
+    "geom:longitude":25.68333,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR04",
+    "gn:admin3_code":"VTR04-19",
+    "gn:asciiname":"Malki Chiflik",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729353,
+    "gn:latitude":43.06667,
+    "gn:longitude":25.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Malki Chiflik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u0438 \u0427\u0438\u0444\u043b\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Malki Tschiflik",
+        "Malki Chiftlik",
+        "Malki Chiflik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729353
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"bb348bcb81688fb0d89bd04f7bd03f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226683311,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1226683311,
+    "wof:lastmodified":1537587500,
+    "wof:name":"Malki Chiflik",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.68333,
+    43.06667,
+    25.68333,
+    43.06667
+],
+  "geometry": {"coordinates":[25.68333,43.06667],"type":"Point"}
+}

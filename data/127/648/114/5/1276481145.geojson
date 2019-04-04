@@ -1,0 +1,76 @@
+{
+  "id": 1276481145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26667,42.68333,24.26667,42.68333",
+    "geom:latitude":42.68333,
+    "geom:longitude":24.26667,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO55",
+    "gn:admin3_code":"SFO55-01",
+    "gn:asciiname":"Dushantsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731787,
+    "gn:latitude":42.68333,
+    "gn:longitude":24.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dushantsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0443\u0448\u0430\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Duschanzi",
+        "Dushants\u016d",
+        "Dushantsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731787
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1fe22a043cf319c02b548e9a7451ae68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276481145,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1276481145,
+    "wof:lastmodified":1537587656,
+    "wof:name":"Dushantsi",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26667,
+    42.68333,
+    24.26667,
+    42.68333
+],
+  "geometry": {"coordinates":[24.26667,42.68333],"type":"Point"}
+}

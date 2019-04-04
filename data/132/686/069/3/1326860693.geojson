@@ -1,0 +1,74 @@
+{
+  "id": 1326860693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55446,41.34575,25.55446,41.34575",
+    "geom:latitude":41.34575,
+    "geom:longitude":25.55446,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ15",
+    "gn:admin3_code":"KRZ15-03",
+    "gn:asciiname":"Buk",
+    "gn:country_code":"BG",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732829,
+    "gn:latitude":41.34575,
+    "gn:longitude":25.55446,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Buk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043a"
+    ],
+    "name:und_x_variant":[
+        "Almal\u016d Dere",
+        "Buk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732829
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"821e23d955dd06bdc0aca93181ba27bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326860693,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1326860693,
+    "wof:lastmodified":1537587728,
+    "wof:name":"Buk",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55446,
+    41.34575,
+    25.55446,
+    41.34575
+],
+  "geometry": {"coordinates":[25.55446,41.34575],"type":"Point"}
+}

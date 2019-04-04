@@ -1,0 +1,156 @@
+{
+  "id": 101797513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00018,
+    "geom:area_square_m":1607033.241764,
+    "geom:bbox":"27.2959718207,43.6220779605,27.3209823639,43.6375742372",
+    "geom:latitude":43.629986,
+    "geom:longitude":27.306832,
+    "iso:country":"BG",
+    "lbl:latitude":43.630628,
+    "lbl:longitude":27.305601,
+    "mps:latitude":43.630628,
+    "mps:longitude":27.305601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0432\u0440\u043e\u043a\u043e\u043f"
+    ],
+    "name:bul_x_variant":[
+        "\u0417\u0443\u0440\u043d\u0435\u0432\u043e",
+        "Zarnevo",
+        "\u0417\u044a\u0440\u043d\u0435\u0432\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Nevrokopi"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u039d\u03b5\u03c5\u03c1\u03bf\u03ba\u03bf\u03c0\u03af\u03bf\u03c5"
+    ],
+    "name:eng_x_colloquial":[
+        "Zthrnevo",
+        "Ztrnevo"
+    ],
+    "name:eng_x_preferred":[
+        "Zurnevo"
+    ],
+    "name:eng_x_variant":[
+        "Kili Kada",
+        "Kilicadi",
+        "Kilikadi",
+        "Zarnevo",
+        "Zrnevo",
+        "Z\u00fernevo"
+    ],
+    "name:fin_x_preferred":[
+        "K\u00e1to Nevrok\u00f3pi"
+    ],
+    "name:fra_x_preferred":[
+        "Kato Nevrokopi"
+    ],
+    "name:ita_x_preferred":[
+        "Kato Nevrokopi"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u044b\u0440\u043d\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0435\u0432\u0440\u043e\u043a\u043e\u043f"
+    ],
+    "name:nld_x_preferred":[
+        "Kato Nevrokopi"
+    ],
+    "name:nno_x_preferred":[
+        "K\u00e1to Nevrok\u00f3pi"
+    ],
+    "name:pol_x_preferred":[
+        "Kato Newrokopi"
+    ],
+    "name:rum_x_preferred":[
+        "Z\u0103rnevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u044b\u0440\u043d\u0435\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Kato Nevrokopi"
+    ],
+    "name:swe_x_preferred":[
+        "Dimos Kato Nevrokopi"
+    ],
+    "name:tur_x_preferred":[
+        "Kilikad\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0438\u0440\u043d\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Kilicadi"
+    ],
+    "name:vie_x_preferred":[
+        "Kato Nevrokopi"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0414\u043e\u0431\u0440\u0438\u0447",
+    "qs:a1_alt":"Dobrich",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:id":0,
+    "qs:la":"\u0417\u044a\u0440\u043d\u0435\u0432\u043e",
+    "qs:la_lc":"*BGDOB2731396",
+    "qs:level":"locality",
+    "qs:loc":"\u0417\u044a\u0440\u043d\u0435\u0432\u043e",
+    "qs:loc_alt":"Zarnevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":300,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037369d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":725233,
+        "gp:id":841077,
+        "wd:id":"Q1081791"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"dc9d18dcbb817b112e6f07a2cef5d744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797513,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":101797513,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641533,
+    "wof:name":"\u0417\u044a\u0440\u043d\u0435\u0432\u043e",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.29597182071194,
+    43.62207796050126,
+    27.32098236386133,
+    43.63757423721182
+],
+  "geometry": {"coordinates":[[[27.30509243220217,43.63716028852514],[27.30482512124053,43.63628527867832],[27.30603658700028,43.63607828662407],[27.3055019633095,43.63432826919495],[27.31761586036936,43.63225763877051],[27.31788333644784,43.63313261198334],[27.32030605783223,43.63271830790268],[27.31977104857611,43.63096837434762],[27.32098236386133,43.63076120823689],[27.32044736359666,43.62901127527675],[27.31923608221956,43.6292184341176],[27.31843371311294,43.62659351125791],[27.31358871443371,43.62742196075516],[27.31332134732094,43.62654696859715],[27.30726501141811,43.62758219222411],[27.30699773979546,43.62670718023577],[27.30215260107627,43.6275350885391],[27.30135105396084,43.62490999899671],[27.30256229925584,43.62470305415292],[27.30229512135327,43.62382802460257],[27.30350634204041,43.62362106916385],[27.30323915789552,43.62274604157727],[27.30202795416199,43.6229529933853],[27.30176079768137,43.62207796050126],[27.29933840116371,43.62249181418076],[27.29960552373666,43.62336685432513],[27.29597182071194,43.62398753904154],[27.29784162252577,43.63011284962317],[27.29663025417545,43.63031974148481],[27.29716454574253,43.63206982248835],[27.29837594801432,43.63186292336559],[27.29864312682815,43.63273795773785],[27.29985453840686,43.63253104075619],[27.30119067800865,43.63690616946792],[27.30240216674429,43.63669922010041],[27.30266944377843,43.63757423721182],[27.30509243220217,43.63716028852514]]],"type":"Polygon"}
+}

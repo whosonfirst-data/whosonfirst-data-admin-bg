@@ -1,0 +1,73 @@
+{
+  "id": 1309943087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64353,42.65237,22.64353,42.65237",
+    "geom:latitude":42.65237,
+    "geom:longitude":22.64353,
+    "gn:admin1_code":"49",
+    "gn:admin2_code":"PER19",
+    "gn:asciiname":"Odranitsa",
+    "gn:country_code":"BG",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728668,
+    "gn:latitude":42.65237,
+    "gn:longitude":22.64353,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Odranitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0434\u0440\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Odraniza",
+        "Odranitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728668
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"dfac9f084621fda6d02edc5da2aeb308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309943087,
+            "region_id":85681767
+        }
+    ],
+    "wof:id":1309943087,
+    "wof:lastmodified":1537587457,
+    "wof:name":"Odranitsa",
+    "wof:parent_id":85681767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64353,
+    42.65237,
+    22.64353,
+    42.65237
+],
+  "geometry": {"coordinates":[22.64353,42.65237],"type":"Point"}
+}

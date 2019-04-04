@@ -1,0 +1,73 @@
+{
+  "id": 1209357507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49994,41.50079,23.49994,41.50079",
+    "geom:latitude":41.50079,
+    "geom:longitude":23.49994,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG40",
+    "gn:asciiname":"Gorno Spanchevo",
+    "gn:country_code":"BG",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731161,
+    "gn:latitude":41.50079,
+    "gn:longitude":23.49994,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Gorno Spanchevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u0421\u043f\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Span\u010devo",
+        "Gorno Spantschewo",
+        "Gorno-Spanchovo",
+        "Gorno Span\u010devo",
+        "Gorno Spanchevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731161,
+        "wk:page":"Gorno_Spanchevo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e80f2ccc792824181b177d1c99d00b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209357507
+        }
+    ],
+    "wof:id":1209357507,
+    "wof:lastmodified":1537587615,
+    "wof:name":"Gorno Spanchevo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49994,
+    41.50079,
+    23.49994,
+    41.50079
+],
+  "geometry": {"coordinates":[23.49994,41.50079],"type":"Point"}
+}

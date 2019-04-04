@@ -1,0 +1,124 @@
+{
+  "id": 101800311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":269632.593801,
+    "geom:bbox":"23.6719111009,41.61604147,23.680977911,41.6216903665",
+    "geom:latitude":41.618686,
+    "geom:longitude":23.67645,
+    "iso:country":"BG",
+    "lbl:latitude":41.618526,
+    "lbl:longitude":23.676382,
+    "mps:latitude":41.618526,
+    "mps:longitude":23.676382,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u044a\u0436\u043d\u0438\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Lazhnitsa"
+    ],
+    "name:eng_x_colloquial":[
+        "Laeshniza",
+        "Lashniza",
+        "Lthzhnitsa",
+        "Ltzhnitsa"
+    ],
+    "name:eng_x_preferred":[
+        "Luzhnitsa"
+    ],
+    "name:eng_x_variant":[
+        "Lazhnica",
+        "L\u00e6shniza",
+        "L\u00fezhnitsa",
+        "Lazhnitsa"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u044b\u0436\u043d\u0438\u0446\u0430"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u2019\u0436\u043d\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u2019\u0436\u043d\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "L\u0103jni\u021ba"
+    ],
+    "name:rum_x_preferred":[
+        "L\u0103jni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044b\u0436\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u0436\u043d\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "L\u0103shniza"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041b\u044a\u0436\u043d\u0438\u0446\u0430",
+    "qs:la_lc":"*BGBLG1144416",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u044a\u0436\u043d\u0438\u0446\u0430",
+    "qs:loc_alt":"Lazhnitsa",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":634,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371ab42-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":729495,
+        "gp:id":837795,
+        "qs:id":9,
+        "wd:id":"Q2462025"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e560b1fdf5c6ebc73c943328a18890c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800311,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800311,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715094,
+    "wof:name":"\u041b\u044a\u0436\u043d\u0438\u0446\u0430",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.67191110094024,
+    41.61604146997541,
+    23.68097791095022,
+    41.62169036646964
+],
+  "geometry": {"coordinates":[[[23.67901595106196,41.62136423103414],[23.67861590138841,41.61958998283461],[23.68097791095022,41.61926380263424],[23.68077786533331,41.61837668195028],[23.67959687958131,41.61853977627732],[23.67919684439607,41.61676552532049],[23.67801588565777,41.61692860024777],[23.67781589608694,41.61604146997541],[23.67191110094024,41.61685662202899],[23.67211100917314,41.61774376597896],[23.67329199550761,41.61758076068719],[23.67409177185323,41.62112931183378],[23.67645385812079,41.62080323758283],[23.67665385433645,41.62169036646964],[23.67901595106196,41.62136423103414]]],"type":"Polygon"}
+}

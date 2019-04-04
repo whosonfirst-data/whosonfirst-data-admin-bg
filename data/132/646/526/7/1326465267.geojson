@@ -1,0 +1,77 @@
+{
+  "id": 1326465267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86667,43.75,26.86667,43.75",
+    "geom:latitude":43.75,
+    "geom:longitude":26.86667,
+    "gn:admin1_code":"52",
+    "gn:admin2_code":"RAZ14",
+    "gn:admin3_code":"RAZ14-22",
+    "gn:asciiname":"Yakim Gruevo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725589,
+    "gn:latitude":43.75,
+    "gn:longitude":26.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yakim Gruevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0419\u043e\u0430\u043a\u0438\u043c \u0413\u0440\u0443\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Sallad\u016dn",
+        "Jakim Gruewo",
+        "Saladinkioy",
+        "Yakim Gruevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725589
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7303997888e07a3b798c7c8a0eda0ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326465267,
+            "region_id":85681857
+        }
+    ],
+    "wof:id":1326465267,
+    "wof:lastmodified":1537587256,
+    "wof:name":"Yakim Gruevo",
+    "wof:parent_id":85681857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86667000000001,
+    43.75,
+    26.86667000000001,
+    43.75
+],
+  "geometry": {"coordinates":[26.86667000000001,43.75],"type":"Point"}
+}

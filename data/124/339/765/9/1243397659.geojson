@@ -1,0 +1,76 @@
+{
+  "id": 1243397659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86925,42.45852,22.86925,42.45852",
+    "geom:latitude":42.45852,
+    "geom:longitude":22.86925,
+    "gn:admin1_code":"49",
+    "gn:admin2_code":"PER36",
+    "gn:asciiname":"Debeli Lag",
+    "gn:country_code":"BG",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732358,
+    "gn:latitude":42.45852,
+    "gn:longitude":22.86925,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Debeli Lag",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u043b\u0438 \u043b\u0430\u0433"
+    ],
+    "name:bul_x_variant":[
+        "\u0414\u0435\u0431\u0435\u043b\u0438 \u041b\u0430\u0433"
+    ],
+    "name:und_x_variant":[
+        "Debeli Lak",
+        "Debeli Lag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732358
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"1a543d17931ef59a0d9961f7e2e67dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243397659,
+            "region_id":85681767
+        }
+    ],
+    "wof:id":1243397659,
+    "wof:lastmodified":1537587698,
+    "wof:name":"Debeli Lag",
+    "wof:parent_id":85681767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86925,
+    42.45852,
+    22.86925,
+    42.45852
+],
+  "geometry": {"coordinates":[22.86925,42.45852],"type":"Point"}
+}

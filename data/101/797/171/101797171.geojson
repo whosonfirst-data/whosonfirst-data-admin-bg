@@ -1,0 +1,116 @@
+{
+  "id": 101797171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000199,
+    "geom:bbox":"25.6393519517,43.292862064,25.6572175233,43.3100176752",
+    "geom:latitude":43.301457,
+    "geom:longitude":25.647874,
+    "iso:country":"BG",
+    "lbl:latitude":43.302419,
+    "lbl:longitude":25.648044,
+    "mps:latitude":43.302419,
+    "mps:longitude":25.648044,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u041f\u043e\u043b\u0441\u043a\u0438 \u0422\u0440\u044a\u043c\u0431\u0435\u0448"
+    ],
+    "name:bul_x_variant":[
+        "\u0421\u0430\u0448\u0435\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Polski Tr\u016dmbesh"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Polski Tr\u0103mbe\u0161"
+    ],
+    "name:fra_x_preferred":[
+        "Polski Trambech"
+    ],
+    "name:ita_x_preferred":[
+        "Polski Tr\u0103mbe\u0161"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10da\u10e1\u10d9\u10d8-\u10e2\u10e0\u10d8\u10db\u10d1\u10d4\u10e8\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Po\u0142ski Trymbesz"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Polski Tr\u0103mbe\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0441\u043a\u0438-\u0422\u0440\u044b\u043c\u0431\u0435\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Polski Trmbesj"
+    ],
+    "name:unk_x_variant":[
+        "Odaitye"
+    ],
+    "name:vie_x_preferred":[
+        "Polski Trambesh"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u723e\u65af\u57fa\u7279\u502b\u8c9d\u4ec0\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+    "qs:a1_alt":"Veliko Tarnovo",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041f\u0435\u0442\u043a\u043e \u041a\u0430\u0440\u0430\u0432\u0435\u043b\u043e\u0432\u043e",
+    "qs:la_lc":"*BGVTR2665471",
+    "qs:level":"locality",
+    "qs:loc":"\u041f\u0435\u0442\u043a\u043e \u041a\u0430\u0440\u0430\u0432\u0435\u043b\u043e\u0432\u043e",
+    "qs:loc_alt":"Petko Karavelovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727424,
+        "gp:id":839408,
+        "qs:id":2,
+        "wd:id":"Q2609698"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"544443f1cac8b2c700100885a378f2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797171,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":101797171,
+    "wof:lastmodified":1527641534,
+    "wof:name":"\u041f\u0435\u0442\u043a\u043e \u041a\u0430\u0440\u0430\u0432\u0435\u043b\u043e\u0432\u043e",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.6393519517469,
+    43.2928620639621,
+    25.65721752331001,
+    43.31001767516818
+],
+  "geometry": {"coordinates":[[[25.64778274154969,43.30964333802893],[25.64754305115383,43.30876304649632],[25.6535896476525,43.30782697056077],[25.65382942360111,43.30870724573498],[25.65624804844572,43.30833270904174],[25.65600823827879,43.30745244041236],[25.65721752331001,43.30726515395867],[25.65649809916147,43.3046243489211],[25.65528886545206,43.30481162555725],[25.65432983623441,43.30129051815885],[25.65674815996073,43.30091597681212],[25.65602888632668,43.2982751501998],[25.65361066521655,43.29864967191639],[25.65337096075905,43.29776938684631],[25.65216185703025,43.29795662305719],[25.65192217928131,43.29707633322153],[25.6507130858044,43.29726355191093],[25.6495149266338,43.2928620639621],[25.63984261637739,43.29435916966725],[25.64056107263758,43.29700014538184],[25.6393519517469,43.2971872292735],[25.64102856593377,43.30334947655643],[25.64223780656812,43.30316236978229],[25.64391501103199,43.30932452101104],[25.64512436459006,43.30913737709375],[25.64536402076197,43.31001767516818],[25.64778274154969,43.30964333802893]]],"type":"Polygon"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 101798411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:bbox":"26.0561785755,42.9447040845,26.082862336,42.9510520248",
+    "geom:latitude":42.948071,
+    "geom:longitude":26.068317,
+    "iso:country":"BG",
+    "lbl:latitude":42.948107,
+    "lbl:longitude":26.067237,
+    "mps:latitude":42.948107,
+    "mps:longitude":26.067237,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d"
+    ],
+    "name:eng_x_preferred":[
+        "Konstantin"
+    ],
+    "name:eng_x_variant":[
+        "Akhmedlii"
+    ],
+    "name:est_x_preferred":[
+        "Konstantin Preobra\u017eenski"
+    ],
+    "name:pol_x_preferred":[
+        "Konstantin Prieobra\u017ce\u0144ski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:unk_x_variant":[
+        "Akhmedlii"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+    "qs:a1_alt":"Veliko Tarnovo",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d",
+    "qs:la_lc":"*BGVTR1338337",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d",
+    "qs:loc_alt":"Konstantin",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":575,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037164b6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":730182,
+        "gp:id":837259,
+        "qs:id":966542,
+        "wd:id":"Q2046011"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"602bc9677512f1d9466450e8443b8447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798411,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":101798411,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641932,
+    "wof:name":"\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0561785754997,
+    42.94470408446523,
+    26.0828623360029,
+    42.95105202479721
+],
+  "geometry": {"coordinates":[[[26.06604721215956,42.95105202479721],[26.07325385929636,42.94989998144212],[26.07349753892004,42.95077938270589],[26.07950297230548,42.94981894138266],[26.07974674534438,42.95069832449224],[26.08094782807279,42.95050619051528],[26.08046025820863,42.94874742938742],[26.0828623360029,42.94836313232975],[26.08261853213713,42.94748375608117],[26.08021648782449,42.94786804649596],[26.0797289761494,42.946109276058],[26.07252287859251,42.94726176834558],[26.07227923774474,42.94638236087837],[26.06987718355521,42.94676640529775],[26.06938999790412,42.94500757243441],[26.06578696538145,42.94558351317767],[26.06554343731671,42.94470408446523],[26.05713623748636,42.94604742842665],[26.05737964834441,42.94692688035997],[26.0561785754997,42.94711873343527],[26.05690881594381,42.94975708988949],[26.05810993902872,42.94956522686425],[26.05835338862801,42.95044467260038],[26.064358984443,42.94948512891716],[26.06460252746484,42.95036455651564],[26.06580364270127,42.9501726020672],[26.06604721215956,42.95105202479721]]],"type":"Polygon"}
+}

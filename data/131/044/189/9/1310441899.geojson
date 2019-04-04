@@ -1,0 +1,73 @@
+{
+  "id": 1310441899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41004,41.48455,25.41004,41.48455",
+    "geom:latitude":41.48455,
+    "geom:longitude":25.41004,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Knezovo",
+    "gn:country_code":"BG",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":730284,
+    "gn:latitude":41.48455,
+    "gn:longitude":25.41004,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Knezovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bul_x_preferred":[
+        "\u041a\u043d\u0435\u0437\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Emirler",
+        "Knesowo",
+        "Knezovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730284
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b10db80718e29696a72a74f88407f415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310441899,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1310441899,
+    "wof:lastmodified":1537587558,
+    "wof:name":"Knezovo",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41004,
+    41.48455,
+    25.41004,
+    41.48455
+],
+  "geometry": {"coordinates":[25.41004,41.48455],"type":"Point"}
+}

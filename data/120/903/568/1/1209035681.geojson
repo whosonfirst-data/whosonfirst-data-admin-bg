@@ -1,0 +1,71 @@
+{
+  "id": 1209035681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56667,42.86667,25.56667,42.86667",
+    "geom:latitude":42.86667,
+    "geom:longitude":25.56667,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB35",
+    "gn:asciiname":"Raynushkovtsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727712,
+    "gn:latitude":42.86667,
+    "gn:longitude":25.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Raynushkovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0439\u043d\u0443\u0448\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Rainushkovts\u016d",
+        "Raynushkovtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727712,
+        "wk:page":"Raynushkovtsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4414143a0cf5cfa5a3226a145e9460f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209035681
+        }
+    ],
+    "wof:id":1209035681,
+    "wof:lastmodified":1537587390,
+    "wof:name":"Raynushkovtsi",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56667,
+    42.86667,
+    25.56667,
+    42.86667
+],
+  "geometry": {"coordinates":[25.56667,42.86667],"type":"Point"}
+}

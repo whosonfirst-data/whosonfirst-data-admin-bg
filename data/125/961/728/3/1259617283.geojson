@@ -1,0 +1,75 @@
+{
+  "id": 1259617283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.90197,41.53418,25.90197,41.53418",
+    "geom:latitude":41.53418,
+    "geom:longitude":25.90197,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV11",
+    "gn:asciiname":"Glumovo",
+    "gn:country_code":"BG",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731392,
+    "gn:latitude":41.53418,
+    "gn:longitude":25.90197,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Glumovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043b\u0443\u043c\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Soluklar",
+        "Glumowa",
+        "Glumovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731392,
+        "wk:page":"Glumovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2615d0353313b83dc735313c4b4b0f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259617283,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1259617283,
+    "wof:lastmodified":1537587633,
+    "wof:name":"Glumovo",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.90197,
+    41.53418,
+    25.90197,
+    41.53418
+],
+  "geometry": {"coordinates":[25.90197,41.53418],"type":"Point"}
+}

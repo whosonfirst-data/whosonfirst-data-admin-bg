@@ -1,0 +1,76 @@
+{
+  "id": 1276160111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.93762,43.27087,27.93762,43.27087",
+    "geom:latitude":43.27087,
+    "geom:longitude":27.93762,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"VAR02",
+    "gn:asciiname":"Kumanovo",
+    "gn:country_code":"BG",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729813,
+    "gn:latitude":43.27087,
+    "gn:longitude":27.93762,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Kumanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Eni K\u2019oi",
+        "Kumanowo",
+        "Eni Kioi",
+        "Eni-K\u2019oy",
+        "Kumanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729813
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9a747acdb9c62324d0df3bfc9022146d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276160111,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1276160111,
+    "wof:lastmodified":1537587528,
+    "wof:name":"Kumanovo",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93762000000001,
+    43.27087,
+    27.93762000000001,
+    43.27087
+],
+  "geometry": {"coordinates":[27.93762000000001,43.27087],"type":"Point"}
+}

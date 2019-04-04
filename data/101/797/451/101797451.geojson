@@ -1,0 +1,105 @@
+{
+  "id": 101797451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000086,
+    "geom:area_square_m":768602.557273,
+    "geom:bbox":"26.5099506361,43.5466682731,26.5197083157,43.5614990126",
+    "geom:latitude":43.554899,
+    "geom:longitude":26.514154,
+    "iso:country":"BG",
+    "lbl:latitude":43.554887,
+    "lbl:longitude":26.514247,
+    "mps:latitude":43.554887,
+    "mps:longitude":26.514247,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u0435\u0446"
+    ],
+    "name:eng_x_preferred":[
+        "Strazhets"
+    ],
+    "name:eng_x_variant":[
+        "Inebekchi",
+        "Strashez",
+        "Strazhec",
+        "Straznets"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u0435\u0446"
+    ],
+    "name:ron_x_preferred":[
+        "Straje\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Inebekchi"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Razgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u0435\u0446\u043e\u0432\u043e",
+    "qs:la_lc":"*BGRAZ2618589",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0442\u0440\u0430\u0436\u0435\u0446",
+    "qs:loc_alt":"Strazhets",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372d3a0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726729,
+        "gp:id":839944,
+        "qs:id":2
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6ec921acd198f74c3fa4a8c80cc34d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797451,
+            "region_id":85681857
+        }
+    ],
+    "wof:id":101797451,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641531,
+    "wof:name":"\u0421\u0442\u0440\u0430\u0436\u0435\u0446",
+    "wof:parent_id":85681857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.50995063614238,
+    43.5466682730941,
+    26.51970831565671,
+    43.56149901263558
+],
+  "geometry": {"coordinates":[[[26.51536925206454,43.56110385078233],[26.51511457907429,43.56022633326609],[26.51632670696711,43.56002873441162],[26.51607202710238,43.5591512187849],[26.51970831565671,43.55855834704562],[26.51818014344167,43.55329328255334],[26.51696815714098,43.55349089991813],[26.51569504693123,43.54910328539665],[26.51448313879717,43.54930087116145],[26.51371944659883,43.5466682730941],[26.51129571098448,43.54706338103989],[26.51205930063145,43.54969599990773],[26.5108473706008,43.54989354288881],[26.51135644727088,43.55164862117238],[26.51014447575324,43.55184615682526],[26.51116268334579,43.55535630831315],[26.50995063614238,43.55555384357081],[26.51122354011358,43.55994151474601],[26.5100114001101,43.56013905307623],[26.51026599446993,43.56101658604285],[26.51269030137803,43.56062148818319],[26.5129449401656,43.56149901263558],[26.51536925206454,43.56110385078233]]],"type":"Polygon"}
+}

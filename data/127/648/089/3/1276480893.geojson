@@ -1,0 +1,77 @@
+{
+  "id": 1276480893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66667,41.55,25.66667,41.55",
+    "geom:latitude":41.55,
+    "geom:longitude":25.66667,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ15",
+    "gn:admin3_code":"KRZ15-15",
+    "gn:asciiname":"Dzhanka",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731742,
+    "gn:latitude":41.55,
+    "gn:longitude":25.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dzhanka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dere K\u2019oy",
+        "Dshanka",
+        "Dzhanka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731742,
+        "wk:page":"Dzhanka"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"86cfd1ce66c85a8bec7a63df2eeab213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276480893,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1276480893,
+    "wof:lastmodified":1537587653,
+    "wof:name":"Dzhanka",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66667,
+    41.55,
+    25.66667,
+    41.55
+],
+  "geometry": {"coordinates":[25.66667,41.55],"type":"Point"}
+}

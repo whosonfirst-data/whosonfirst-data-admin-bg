@@ -1,0 +1,69 @@
+{
+  "id": 1209248931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79262,42.29908,22.79262,42.29908",
+    "geom:latitude":42.29908,
+    "geom:longitude":22.79262,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL29",
+    "gn:asciiname":"Dolna Grashtitsa",
+    "gn:country_code":"BG",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732137,
+    "gn:latitude":42.29908,
+    "gn:longitude":22.79262,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dolna Grashtitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0413\u0440\u0430\u0449\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dolna Graschtiza",
+        "Dolna Grashtitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732137
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d229bdfcbd143e9d819fc88acb33674d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209248931
+        }
+    ],
+    "wof:id":1209248931,
+    "wof:lastmodified":1537587682,
+    "wof:name":"Dolna Grashtitsa",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79262,
+    42.29908,
+    22.79262,
+    42.29908
+],
+  "geometry": {"coordinates":[22.79262,42.29908],"type":"Point"}
+}

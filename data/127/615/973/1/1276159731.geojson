@@ -1,0 +1,75 @@
+{
+  "id": 1276159731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76667,41.55,24.76667,41.55",
+    "geom:latitude":41.55,
+    "geom:longitude":24.76667,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"SML31",
+    "gn:asciiname":"Gabritsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731561,
+    "gn:latitude":41.55,
+    "gn:longitude":24.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gabritsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0431\u0440\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Gabrovo",
+        "Gabriza",
+        "Gabritsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731561
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ec91b8bafed4620af485dba0510623a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276159731,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1276159731,
+    "wof:lastmodified":1537587643,
+    "wof:name":"Gabritsa",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76667,
+    41.55,
+    24.76667,
+    41.55
+],
+  "geometry": {"coordinates":[24.76667,41.55],"type":"Point"}
+}

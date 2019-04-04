@@ -1,0 +1,71 @@
+{
+  "id": 1225981033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.80646,41.44217,25.80646,41.44217",
+    "geom:latitude":41.44217,
+    "geom:longitude":25.80646,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Orlovo",
+    "gn:country_code":"BG",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11333493,
+    "gn:latitude":41.44217,
+    "gn:longitude":25.80646,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Orlovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bul_x_preferred":[
+        "Orlovo"
+    ],
+    "name:bul_x_variant":[
+        "\u041e\u0440\u043b\u043e\u0432\u043e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11333493
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"57659841a1f60edb5dce03ce6b6ff1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225981033,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1225981033,
+    "wof:lastmodified":1537587789,
+    "wof:name":"Orlovo",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80646,
+    41.44217,
+    25.80646,
+    41.44217
+],
+  "geometry": {"coordinates":[25.80646,41.44217],"type":"Point"}
+}

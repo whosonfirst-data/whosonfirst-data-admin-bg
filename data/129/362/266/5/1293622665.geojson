@@ -1,0 +1,77 @@
+{
+  "id": 1293622665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33333,42.38333,24.33333,42.38333",
+    "geom:latitude":42.38333,
+    "geom:longitude":24.33333,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"PAZ32",
+    "gn:asciiname":"Svoboda",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726531,
+    "gn:latitude":42.38333,
+    "gn:longitude":24.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Svoboda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u043e\u0431\u043e\u0434\u0430"
+    ],
+    "name:und_x_variant":[
+        "Zar Boris",
+        "Tsar Boris",
+        "Kepelie",
+        "Svoboda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726531,
+        "wk:page":"Svoboda%2C_Pazardzhik_Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"bac6a115fd2c095ac80de40d58327b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293622665,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":1293622665,
+    "wof:lastmodified":1537587316,
+    "wof:name":"Svoboda",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33333,
+    42.38333,
+    24.33333,
+    42.38333
+],
+  "geometry": {"coordinates":[24.33333,42.38333],"type":"Point"}
+}

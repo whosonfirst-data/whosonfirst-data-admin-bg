@@ -1,0 +1,75 @@
+{
+  "id": 1225875377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3803,41.55169,24.3803,41.55169",
+    "geom:latitude":41.55169,
+    "geom:longitude":24.3803,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"SML09",
+    "gn:admin3_code":"SML09-13",
+    "gn:asciiname":"Vodni Pad",
+    "gn:country_code":"BG",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725792,
+    "gn:latitude":41.55169,
+    "gn:longitude":24.3803,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Vodni Pad",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u043e\u0434\u043d\u0438 \u041f\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Dyushuk Dere",
+        "Wodni Pad",
+        "Vodni Pad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725792
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"bb91e6f4935d02fdbff331606f0b44d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225875377,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1225875377,
+    "wof:lastmodified":1537587270,
+    "wof:name":"Vodni Pad",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3803,
+    41.55169,
+    24.3803,
+    41.55169
+],
+  "geometry": {"coordinates":[24.3803,41.55169],"type":"Point"}
+}

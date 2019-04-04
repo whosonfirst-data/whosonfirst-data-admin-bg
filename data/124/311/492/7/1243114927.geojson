@@ -1,0 +1,74 @@
+{
+  "id": 1243114927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75,41.95,23.75,41.95",
+    "geom:latitude":41.95,
+    "geom:longitude":23.75,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Sarkovo Mahala",
+    "gn:country_code":"BG",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727428,
+    "gn:latitude":41.95,
+    "gn:longitude":23.75,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Sarkovo Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0440\u043a\u043e\u0432\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Sarkovo Mahala"
+    ],
+    "name:und_x_variant":[
+        "Sarkovo Makhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727428
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3d448ef8eb22813a98130e1d6625c199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243114927,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1243114927,
+    "wof:lastmodified":1537587373,
+    "wof:name":"Sarkovo Mahala",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75,
+    41.95,
+    23.75,
+    41.95
+],
+  "geometry": {"coordinates":[23.75,41.95],"type":"Point"}
+}

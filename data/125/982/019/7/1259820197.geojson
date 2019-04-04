@@ -1,0 +1,77 @@
+{
+  "id": 1259820197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.14398,41.49154,25.14398,41.49154",
+    "geom:latitude":41.49154,
+    "geom:longitude":25.14398,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"SML18",
+    "gn:admin3_code":"SML18-04",
+    "gn:asciiname":"Garnati",
+    "gn:country_code":"BG",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730958,
+    "gn:latitude":41.49154,
+    "gn:longitude":25.14398,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Garnati",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0433\u044a\u0440\u043d\u0430\u0442\u0438"
+    ],
+    "name:bul_x_variant":[
+        "Garnati",
+        "\u0413\u044a\u0440\u043d\u0430\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "G\u016drnati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730958
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"730034d45a3adb8904495e5151b488ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259820197,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1259820197,
+    "wof:lastmodified":1537587599,
+    "wof:name":"Garnati",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.14398,
+    41.49154,
+    25.14398,
+    41.49154
+],
+  "geometry": {"coordinates":[25.14398,41.49154],"type":"Point"}
+}

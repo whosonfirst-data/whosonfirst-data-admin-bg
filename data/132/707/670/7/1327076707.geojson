@@ -1,0 +1,80 @@
+{
+  "id": 1327076707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.13584,43.64239,28.13584,43.64239",
+    "geom:latitude":43.64239,
+    "geom:longitude":28.13584,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB12",
+    "gn:admin3_code":"DOB12-26",
+    "gn:asciiname":"Preselentsi",
+    "gn:country_code":"BG",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727991,
+    "gn:latitude":43.64239,
+    "gn:longitude":28.13584,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Preselentsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Bash Khas\u016drl\u016dk",
+        "Panta-Machala",
+        "Esla Cerkez Mahle",
+        "Preselen\u0163i",
+        "Preselni\u0163i",
+        "Pveselenci",
+        "Preselentsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727991,
+        "wk:page":"Preselentsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"870b253a5119b6f590de679c496aac2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327076707,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1327076707,
+    "wof:lastmodified":1537587410,
+    "wof:name":"Preselentsi",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13584,
+    43.64239,
+    28.13584,
+    43.64239
+],
+  "geometry": {"coordinates":[28.13584,43.64239],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226676809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50289,41.37091,25.50289,41.37091",
+    "geom:latitude":41.37091,
+    "geom:longitude":25.50289,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Brachkovtsi",
+    "gn:country_code":"BG",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335494,
+    "gn:latitude":41.37091,
+    "gn:longitude":25.50289,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Brachkovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Brachkovtsi"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u0440\u0430\u0447\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335494
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8934556679374042d6ea13522bf3f191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226676809,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1226676809,
+    "wof:lastmodified":1537587791,
+    "wof:name":"Brachkovtsi",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50289,
+    41.37091,
+    25.50289,
+    41.37091
+],
+  "geometry": {"coordinates":[25.50289,41.37091],"type":"Point"}
+}

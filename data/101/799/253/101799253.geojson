@@ -1,0 +1,112 @@
+{
+  "id": 101799253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":868693.366753,
+    "geom:bbox":"23.9170501168,42.2106059053,23.9299532194,42.2235076852",
+    "geom:latitude":42.216094,
+    "geom:longitude":23.922995,
+    "iso:country":"BG",
+    "lbl:latitude":42.217097,
+    "lbl:longitude":23.922017,
+    "mps:latitude":42.217097,
+    "mps:longitude":23.922017,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0441\u0442\u0440\u0438\u043c\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Sestrimo Glacier"
+    ],
+    "name:eng_x_preferred":[
+        "Sestrimo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u0441\u0442\u0440\u0438\u043c\u043e"
+    ],
+    "name:nno_x_preferred":[
+        "Sestrimobreen"
+    ],
+    "name:rum_x_preferred":[
+        "Sestrimo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0441\u0442\u0440\u0438\u043c\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Sestrimo Glacier"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0441\u0442\u0440\u0438\u043c\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Sestrimo"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u65af\u7279\u91cc\u83ab\u51b0\u5ddd"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+    "qs:a1_alt":"Pazardzhik",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0421\u0435\u0441\u0442\u0440\u0438\u043c\u043e",
+    "qs:la_lc":"*BGPAZ0466319",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0435\u0441\u0442\u0440\u0438\u043c\u043e",
+    "qs:loc_alt":"Sestrimo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":183,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372914c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727345,
+        "gp:id":839467,
+        "qs:id":6,
+        "wd:id":"Q1086676"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"92729ecbbad3f14ebfe482854bbb78bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101799253,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":101799253,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641692,
+    "wof:name":"\u0421\u0435\u0441\u0442\u0440\u0438\u043c\u043e",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.91705011677726,
+    42.21060590525195,
+    23.92995321938298,
+    42.22350768522006
+],
+  "geometry": {"coordinates":[[[23.92466544351799,42.2221230751536],[23.9242513769766,42.22035121790691],[23.9266352391042,42.22001870889869],[23.92560004947791,42.2155890701776],[23.92917554941084,42.21509024365741],[23.92876143096055,42.21331839559235],[23.92995321938298,42.21315209761894],[23.92953910038312,42.21138024974715],[23.92834734525883,42.21154654205344],[23.92814031468765,42.21066061323125],[23.92218153542956,42.21149184960535],[23.92197459628727,42.21060590525195],[23.91959107734914,42.2109382956736],[23.92000489721551,42.21271019433999],[23.91881309576138,42.2128763741141],[23.91922691505169,42.21464827297336],[23.91803507450328,42.21481444434357],[23.91824197976882,42.21570039455366],[23.91705011677726,42.21586655468781],[23.91787775304346,42.21941035318105],[23.91906968265499,42.21924418171977],[23.91969054574872,42.22190200773736],[23.92088251953948,42.22173581371027],[23.92129650251076,42.22350768522006],[23.92248850382498,42.22334147145801],[23.92228149158791,42.22245553921971],[23.92466544351799,42.2221230751536]]],"type":"Polygon"}
+}

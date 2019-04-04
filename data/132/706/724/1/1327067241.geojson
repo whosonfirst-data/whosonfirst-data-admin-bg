@@ -1,0 +1,78 @@
+{
+  "id": 1327067241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.51667,43.76667,26.51667,43.76667",
+    "geom:latitude":43.76667,
+    "geom:longitude":26.51667,
+    "gn:admin1_code":"52",
+    "gn:admin2_code":"RAZ16",
+    "gn:admin3_code":"RAZ16-07",
+    "gn:asciiname":"Medovene",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":729170,
+    "gn:latitude":43.76667,
+    "gn:longitude":26.51667,
+    "gn:modification_date":"2011-07-31",
+    "gn:name":"Medovene",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0434\u043e\u0432\u0435\u043d\u0435"
+    ],
+    "name:und_x_variant":[
+        "Enidzhe Balbunar",
+        "Indzhekioy",
+        "Balbunar Endzhe",
+        "Mediowene",
+        "Medovene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729170
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5cb68f02702ee9e34c67af019fe30db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327067241,
+            "region_id":85681857
+        }
+    ],
+    "wof:id":1327067241,
+    "wof:lastmodified":1537587488,
+    "wof:name":"Medovene",
+    "wof:parent_id":85681857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.51667,
+    43.76667,
+    26.51667,
+    43.76667
+],
+  "geometry": {"coordinates":[26.51667,43.76667],"type":"Point"}
+}

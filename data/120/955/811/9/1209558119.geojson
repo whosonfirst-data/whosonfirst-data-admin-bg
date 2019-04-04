@@ -1,0 +1,67 @@
+{
+  "id": 1209558119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97811,41.90204,22.97811,41.90204",
+    "geom:latitude":41.90204,
+    "geom:longitude":22.97811,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Mizhovtsi",
+    "gn:country_code":"BG",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436753,
+    "gn:latitude":41.90204,
+    "gn:longitude":22.97811,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Mizhovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Mizhovtsi"
+    ],
+    "name:bul_x_variant":[
+        "\u041c\u0438\u0436\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436753
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f01ca01515bc7a647e2b49c58ef2fa4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209558119
+        }
+    ],
+    "wof:id":1209558119,
+    "wof:lastmodified":1537587811,
+    "wof:name":"Mizhovtsi",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97811,
+    41.90204,
+    22.97811,
+    41.90204
+],
+  "geometry": {"coordinates":[22.97811,41.90204],"type":"Point"}
+}

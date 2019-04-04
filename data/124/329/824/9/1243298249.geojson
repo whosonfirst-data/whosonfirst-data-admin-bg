@@ -1,0 +1,75 @@
+{
+  "id": 1243298249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45167,42.28778,22.45167,42.28778",
+    "geom:latitude":42.28778,
+    "geom:longitude":22.45167,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Ridare Mahala",
+    "gn:country_code":"BG",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862042,
+    "gn:latitude":42.28778,
+    "gn:longitude":22.45167,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ridare Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u0434\u0430\u0440\u0435"
+    ],
+    "name:bul_x_variant":[
+        "Ridare Mahala",
+        "\u0420\u0438\u0434\u0430\u0440\u0435 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ridare Makhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862042
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"62713eac29778af7de9b08d03d4a9511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243298249,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1243298249,
+    "wof:lastmodified":1537587784,
+    "wof:name":"Ridare Mahala",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45167,
+    42.28778,
+    22.45167,
+    42.28778
+],
+  "geometry": {"coordinates":[22.45167,42.28778],"type":"Point"}
+}

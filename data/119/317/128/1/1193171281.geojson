@@ -1,0 +1,83 @@
+{
+  "id": 1193171281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.78444,42.325,22.78444,42.325",
+    "geom:latitude":42.325,
+    "geom:longitude":22.78444,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL29",
+    "gn:admin3_code":"KNL29-22",
+    "gn:asciiname":"Konyavo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730174,
+    "gn:latitude":42.325,
+    "gn:longitude":22.78444,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Konyavo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043d\u044f\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Konjavo",
+        "Konvovo",
+        "Konjovo",
+        "Konyovo",
+        "Kon\u2019avo",
+        "Kon\u2019ovo",
+        "Konjevo",
+        "Koniawo",
+        "Konyavo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730174,
+        "wk:page":"Konyavo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"04215211f637fb8f124773f5a83ebc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1193171281,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1193171281,
+    "wof:lastmodified":1537587551,
+    "wof:name":"Konyavo",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.78444,
+    42.325,
+    22.78444,
+    42.325
+],
+  "geometry": {"coordinates":[22.78444,42.325],"type":"Point"}
+}

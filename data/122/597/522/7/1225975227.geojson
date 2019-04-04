@@ -1,0 +1,78 @@
+{
+  "id": 1225975227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85,43.21667,25.85,43.21667",
+    "geom:latitude":43.21667,
+    "geom:longitude":25.85,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR06",
+    "gn:asciiname":"Gorski Goren Trambesh",
+    "gn:country_code":"BG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731138,
+    "gn:latitude":43.21667,
+    "gn:longitude":25.85,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Gorski Goren Trambesh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u0441\u043a\u0438 \u0413\u043e\u0440\u0435\u043d \u0422\u0440\u044a\u043c\u0431\u0435\u0448"
+    ],
+    "name:bul_x_variant":[
+        "Gorski Goren Trambesh"
+    ],
+    "name:und_x_variant":[
+        "Trembesh",
+        "Gorski-Goren-Trembesch",
+        "Trembesh Goren",
+        "Gorski Goren Tr\u016dmbesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731138
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f01187a7c633ba5a15ff97d731ee472f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1225975227,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1225975227,
+    "wof:lastmodified":1537587613,
+    "wof:name":"Gorski Goren Trambesh",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85,
+    43.21667,
+    25.85,
+    43.21667
+],
+  "geometry": {"coordinates":[25.85,43.21667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276693489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.11667,42.78333,23.11667,42.78333",
+    "geom:latitude":42.78333,
+    "geom:longitude":23.11667,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO06",
+    "gn:admin3_code":"SFO06-06",
+    "gn:asciiname":"Herakovo",
+    "gn:country_code":"BG",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730424,
+    "gn:latitude":42.78333,
+    "gn:longitude":23.11667,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Herakovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0425\u0435\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Cherakowo",
+        "Herakovo",
+        "Kherakovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730424
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6930d89fea99364ca79fc57ccb67a11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276693489,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1276693489,
+    "wof:lastmodified":1537587568,
+    "wof:name":"Herakovo",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.11667000000001,
+    42.78333,
+    23.11667000000001,
+    42.78333
+],
+  "geometry": {"coordinates":[23.11667000000001,42.78333],"type":"Point"}
+}

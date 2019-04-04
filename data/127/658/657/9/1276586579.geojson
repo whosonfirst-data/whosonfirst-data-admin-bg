@@ -1,0 +1,66 @@
+{
+  "id": 1276586579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.52478,42.04595,23.52478,42.04595",
+    "geom:latitude":42.04595,
+    "geom:longitude":23.52478,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Semkovo",
+    "gn:country_code":"BG",
+    "gn:dem":1612,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11054755,
+    "gn:latitude":42.04595,
+    "gn:longitude":23.52478,
+    "gn:modification_date":"2016-02-03",
+    "gn:name":"Semkovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11054755
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c6d2cb64677e317ee8d84a7d287cce4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276586579,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1276586579,
+    "wof:lastmodified":1536937660,
+    "wof:name":"Semkovo",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52478,
+    42.04595,
+    23.52478,
+    42.04595
+],
+  "geometry": {"coordinates":[23.52478,42.04595],"type":"Point"}
+}

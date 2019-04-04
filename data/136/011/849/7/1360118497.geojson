@@ -1,0 +1,77 @@
+{
+  "id": 1360118497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18333,43.08333,25.18333,43.08333",
+    "geom:latitude":43.08333,
+    "geom:longitude":25.18333,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB29",
+    "gn:asciiname":"Mladen",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729035,
+    "gn:latitude":43.08333,
+    "gn:longitude":25.18333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mladen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u043b\u0430\u0434\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Bukurovo",
+        "Bukudrovo",
+        "Bukurowo",
+        "Mladen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729035,
+        "wk:page":"Mladen_%28village%29"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"937437ee683f01bc2e14a0594446071e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360118497,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1360118497,
+    "wof:lastmodified":1537587479,
+    "wof:name":"Mladen",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18333,
+    43.08333,
+    25.18333,
+    43.08333
+],
+  "geometry": {"coordinates":[25.18333,43.08333],"type":"Point"}
+}

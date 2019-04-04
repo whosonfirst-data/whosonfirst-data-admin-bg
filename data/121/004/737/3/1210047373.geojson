@@ -1,0 +1,77 @@
+{
+  "id": 1210047373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9,42.56667,24.9,42.56667",
+    "geom:latitude":42.56667,
+    "geom:longitude":24.9,
+    "gn:admin1_code":"51",
+    "gn:admin2_code":"PDV13",
+    "gn:admin3_code":"PDV13-07",
+    "gn:asciiname":"Gorni Domlyan",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731215,
+    "gn:latitude":42.56667,
+    "gn:longitude":24.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorni Domlyan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438 \u0414\u043e\u043c\u043b\u044f\u043d"
+    ],
+    "name:und_x_variant":[
+        "Gorni Omarbas",
+        "Gorni Domljan",
+        "Gorni Omarobasu",
+        "Gorni Domlyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731215
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6b3d94bfb5cb0c9f7c93dc563f28d90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1210047373,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":1210047373,
+    "wof:lastmodified":1537587619,
+    "wof:name":"Gorni Domlyan",
+    "wof:parent_id":85681779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9,
+    42.56667,
+    24.9,
+    42.56667
+],
+  "geometry": {"coordinates":[24.9,42.56667],"type":"Point"}
+}

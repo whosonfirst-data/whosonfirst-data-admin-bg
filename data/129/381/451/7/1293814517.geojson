@@ -1,0 +1,70 @@
+{
+  "id": 1293814517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66667,42.68333,23.66667,42.68333",
+    "geom:latitude":42.68333,
+    "geom:longitude":23.66667,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO10",
+    "gn:admin3_code":"SFO10-06",
+    "gn:asciiname":"Dolna Malina",
+    "gn:country_code":"BG",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732125,
+    "gn:latitude":42.68333,
+    "gn:longitude":23.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dolna Malina",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u041c\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732125
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f2ce9b3d7c4e4cebdc8bd4b2d52a0829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293814517,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1293814517,
+    "wof:lastmodified":1537587681,
+    "wof:name":"Dolna Malina",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66667,
+    42.68333,
+    23.66667,
+    42.68333
+],
+  "geometry": {"coordinates":[23.66667,42.68333],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 101800301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000075,
+    "geom:bbox":"23.6573152214,41.6667171514,23.6693353325,41.6776159095",
+    "geom:latitude":41.67227,
+    "geom:longitude":23.663208,
+    "iso:country":"BG",
+    "lbl:latitude":41.672393,
+    "lbl:longitude":23.663208,
+    "mps:latitude":41.672393,
+    "mps:longitude":23.663208,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Breznitsa"
+    ],
+    "name:eng_x_preferred":[
+        "Breznitsa"
+    ],
+    "name:eng_x_variant":[
+        "Bresniza",
+        "Breznica",
+        "Bryeznitsa"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Brezni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Breznitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u044f"
+    ],
+    "name:unk_x_variant":[
+        "Breznica"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "qs:a1_alt":"Blagoevgrad",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u0430",
+    "qs:la_lc":"*BGBLG1106306",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u0430",
+    "qs:loc_alt":"Breznitsa",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":704,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"037387d2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732878,
+        "gp:id":835227,
+        "qs:id":2,
+        "wd:id":"Q2653353",
+        "wk:page":"Breznitsa"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"88ff45e13c6f937aff9d9c82a7aadad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800301,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":101800301,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715082,
+    "wof:name":"\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u0430",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65731522142471,
+    41.66671715135828,
+    23.66933533249988,
+    41.67761590948061
+],
+  "geometry": {"coordinates":[[[23.66364398318916,41.67745299381545],[23.66344386636183,41.67656588825599],[23.66580808496815,41.67624002057306],[23.66560794336675,41.67535291912247],[23.66679002806052,41.67518996710578],[23.66618960142284,41.67252866275982],[23.66737163165601,41.67236570501638],[23.66717148883333,41.67147860356948],[23.66835349722658,41.67131563462306],[23.6681533459456,41.67042853454626],[23.66933533249988,41.67026555439725],[23.66853474064237,41.66671715135828],[23.66735281931022,41.6668801205538],[23.66755293919675,41.66776722610473],[23.6604611972466,41.66874476495605],[23.66086126488392,41.67051900480385],[23.65731522142471,41.67100760244745],[23.65851531904616,41.67633033842958],[23.65969743692585,41.67616747006866],[23.65989749696746,41.67705458520891],[23.66226174876141,41.67672880118323],[23.66246184927587,41.67761590948061],[23.66364398318916,41.67745299381545]]],"type":"Polygon"}
+}

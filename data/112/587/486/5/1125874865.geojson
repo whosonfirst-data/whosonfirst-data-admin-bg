@@ -1,0 +1,108 @@
+{
+  "id": 1125874865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.8,42.96667,22.8,42.96667",
+    "geom:latitude":42.96667,
+    "geom:longitude":22.8,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":42.96667,
+    "lbl:longitude":22.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Dolno Novo Selo"
+    ],
+    "name:pol_x_preferred":[
+        "Do\u0142no Nowo se\u0142o"
+    ],
+    "name:rum_x_preferred":[
+        "Dolno Novo Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u041d\u043e\u0432\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u041d\u043e\u0432\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Nowossel-Tschiflik"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":732056,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Dolno Novo Selo",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Sofiya",
+    "qs_pg:photos":10,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":10,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":42501,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":835849,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Sofiya",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732056,
+        "gp:id":835849,
+        "qs_pg:id":42501,
+        "wd:id":"Q9210514"
+    },
+    "wof:country":"BG",
+    "wof:created":1497294483,
+    "wof:geomhash":"a51ba138612594c1c7a823761cbb7a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125874865,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":1125874865,
+    "wof:lastmodified":1553816590,
+    "wof:name":"Dolno Novo Selo",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.8,
+    42.96667,
+    22.8,
+    42.96667
+],
+  "geometry": {"coordinates":[22.8,42.96667],"type":"Point"}
+}

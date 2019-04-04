@@ -1,0 +1,115 @@
+{
+  "id": 85901417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6021349.073498,
+    "geom:bbox":"23.399822,42.666435,23.399822,42.666435",
+    "geom:latitude":42.666435,
+    "geom:longitude":23.399822,
+    "iso:country":"BG",
+    "lbl:latitude":42.666435,
+    "lbl:longitude":23.399822,
+    "mps:latitude":42.670278,
+    "mps:longitude":23.405903,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:note":"rr stn",
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0440\u0430 \u0418\u0441\u043a\u044a\u0440"
+    ],
+    "name:bul_x_variant":[
+        "Gara Isk\u00fer"
+    ],
+    "name:eng_x_colloquial":[
+        "Gara Isktr",
+        "Gara Iskthr",
+        "Gara Iskur"
+    ],
+    "name:eng_x_preferred":[
+        "Gara Isk\u00fer"
+    ],
+    "name:unk_x_variant":[
+        "Gara Isk\u00fer"
+    ],
+    "qs:gn_adm0_cc":"BG",
+    "qs:gn_id":0,
+    "qs:gn_local":727011,
+    "qs:gn_nam_loc":"Sofiya, Sofia, Sofiya-Grad, BG",
+    "qs:gn_namadm1":"42",
+    "qs:id":0,
+    "qs:local_max":4184,
+    "qs:local_sum":18613,
+    "qs:localhoods":26,
+    "qs:name":"Gara Isk\u00fer",
+    "qs:name_adm0":"Bulgaria",
+    "qs:name_adm1":"Sofiya-Grad",
+    "qs:name_adm2":"Sofiya",
+    "qs:name_local":"Sofia",
+    "qs:photo_max":10,
+    "qs:photo_sum":24,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424771,
+    "qs:woe_adm1":20069794,
+    "qs:woe_adm2":55873710,
+    "qs:woe_lau":0,
+    "qs:woe_local":839722,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101748887,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":836262
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"15038e5431eac0ba9cb542dc92f8047d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748887,
+            "neighbourhood_id":85901417,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":85901417,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531932500,
+    "wof:name":"Gara Iskar",
+    "wof:parent_id":101748887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.399822,
+    42.666435,
+    23.399822,
+    42.666435
+],
+  "geometry": {"coordinates":[23.399822,42.666435],"type":"Point"}
+}

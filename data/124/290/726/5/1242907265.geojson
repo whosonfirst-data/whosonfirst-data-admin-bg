@@ -1,0 +1,75 @@
+{
+  "id": 1242907265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61667,43.21667,23.61667,43.21667",
+    "geom:latitude":43.21667,
+    "geom:longitude":23.61667,
+    "gn:admin1_code":"64",
+    "gn:admin2_code":"VRC10",
+    "gn:admin3_code":"VRC10-10",
+    "gn:asciiname":"Kostelevo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730099,
+    "gn:latitude":43.21667,
+    "gn:longitude":23.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kostelevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043b\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kostelewo",
+        "Kostelevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730099
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6a8a3d97b3404ad3ba6a9aa7696872e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242907265,
+            "region_id":85681817
+        }
+    ],
+    "wof:id":1242907265,
+    "wof:lastmodified":1537587546,
+    "wof:name":"Kostelevo",
+    "wof:parent_id":85681817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61667000000001,
+    43.21667,
+    23.61667000000001,
+    43.21667
+],
+  "geometry": {"coordinates":[23.61667000000001,43.21667],"type":"Point"}
+}

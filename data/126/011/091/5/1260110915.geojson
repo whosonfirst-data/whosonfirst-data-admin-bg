@@ -1,0 +1,74 @@
+{
+  "id": 1260110915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49314,43.83119,22.49314,43.83119",
+    "geom:latitude":43.83119,
+    "geom:longitude":22.49314,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID22",
+    "gn:admin3_code":"VID22-05",
+    "gn:asciiname":"Staropatitsa",
+    "gn:country_code":"BG",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726833,
+    "gn:latitude":43.83119,
+    "gn:longitude":22.49314,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Staropatitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u043f\u0430\u0442\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Staropatiza",
+        "Staropatitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726833
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"888bd47c9dba813b7c29b9f1985bba9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260110915,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1260110915,
+    "wof:lastmodified":1537587336,
+    "wof:name":"Staropatitsa",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49314,
+    43.83119,
+    22.49314,
+    43.83119
+],
+  "geometry": {"coordinates":[22.49314,43.83119],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1125792607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93333,43.58333,25.93333,43.58333",
+    "geom:latitude":43.58333,
+    "geom:longitude":25.93333,
+    "gn:gn_country":"BG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"BG",
+    "lbl:latitude":43.58333,
+    "lbl:longitude":25.93333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u043f\u0435\u043b\u0438\u043d\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Pepelina"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u043f\u0435\u043b\u0438\u043d\u0430"
+    ],
+    "name:rum_x_preferred":[
+        "Pepelina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043f\u0435\u043b\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043f\u0435\u043b\u0438\u043d\u0430"
+    ],
+    "qs_pg:aaroncc":"BG",
+    "qs_pg:gn_country":"BG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":728341,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pepelina",
+    "qs_pg:name_adm0":"Bulgaria",
+    "qs_pg:name_adm1":"Ruse",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":57465,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424771,
+    "qs_pg:woe_id":838692,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424771,
+    "woe:name_adm0":"Bulgaria",
+    "woe:name_adm1":"Ruse",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728341,
+        "gp:id":838692,
+        "qs_pg:id":57465,
+        "wd:id":"Q2019355"
+    },
+    "wof:country":"BG",
+    "wof:created":1497290922,
+    "wof:geomhash":"88ff62a2571ca94fb4cc249acea13421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1125792607,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":1125792607,
+    "wof:lastmodified":1513899769,
+    "wof:name":"Pepelina",
+    "wof:parent_id":85681861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93333,
+    43.58333,
+    25.93333,
+    43.58333
+],
+  "geometry": {"coordinates":[25.93333,43.58333],"type":"Point"}
+}

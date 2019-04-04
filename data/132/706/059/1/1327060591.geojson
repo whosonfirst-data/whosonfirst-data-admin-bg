@@ -1,0 +1,68 @@
+{
+  "id": 1327060591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.455,42.26361,22.455,42.26361",
+    "geom:latitude":42.26361,
+    "geom:longitude":22.455,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Chergarska Makhala",
+    "gn:country_code":"BG",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":862056,
+    "gn:latitude":42.26361,
+    "gn:longitude":22.455,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chergarska Makhala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0435\u0440\u0433\u0430\u0440\u0441\u043a\u0430 \u043c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":862056
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d7b4b1cd84a60ed24b6c57476d6f7429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327060591,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1327060591,
+    "wof:lastmodified":1537587784,
+    "wof:name":"Chergarska Makhala",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.455,
+    42.26361,
+    22.455,
+    42.26361
+],
+  "geometry": {"coordinates":[22.455,42.26361],"type":"Point"}
+}

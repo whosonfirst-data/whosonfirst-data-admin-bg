@@ -1,0 +1,115 @@
+{
+  "id": 101800417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":419387.779265,
+    "geom:bbox":"23.8708751924,42.0341100769,23.883743567,42.0426903439",
+    "geom:latitude":42.037909,
+    "geom:longitude":23.876452,
+    "iso:country":"BG",
+    "lbl:latitude":42.039305,
+    "lbl:longitude":23.874405,
+    "mps:latitude":42.039305,
+    "mps:longitude":23.874405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u0430 \u041f\u0430\u0440\u0430\u0441\u043a\u0435\u0432\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0421\u0432\u0435\u0442\u0430 \u041f\u0435\u0442\u043a\u0430",
+        "\u041b\u044e\u0442\u043e\u0432\u043e"
+    ],
+    "name:eng_x_preferred":[
+        "Sveta Petka"
+    ],
+    "name:eng_x_variant":[
+        "Kolibi Sveta Petka",
+        "Lyutovo",
+        "Petko"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u044e\u0442\u043e\u0432\u043e"
+    ],
+    "name:mac_x_preferred":[
+        "\u0409\u0443\u0442\u043e\u0432\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Liutovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0442\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Lyutovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0442\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Kolibi Sveta Petka"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+    "qs:a1_alt":"Pazardzhik",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0421\u0432\u0435\u0442\u0430 \u041f\u0435\u0442\u043a\u0430",
+    "qs:la_lc":"*BGPAZ0865534",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0432\u0435\u0442\u0430 \u041f\u0435\u0442\u043a\u0430",
+    "qs:loc_alt":"Sveta Petka",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":322,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372e2aa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726581,
+        "gp:id":840050,
+        "qs:id":7,
+        "wd:id":"Q2461503"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"789453f342879f620c33e274f1e8ab04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800417,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":101800417,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715090,
+    "wof:name":"\u0421\u0432\u0435\u0442\u0430 \u041f\u0435\u0442\u043a\u0430",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.87087519239395,
+    42.03411007692375,
+    23.88374356698688,
+    42.04269034388898
+],
+  "geometry": {"coordinates":[[[23.87743374600512,42.04025556014278],[23.87702316644027,42.03848311611802],[23.87821170509409,42.03831750599079],[23.87800641092235,42.03743128473047],[23.88157194296338,42.03693437863359],[23.88136660729452,42.03604816442987],[23.88374356698688,42.03571682920079],[23.88353820635655,42.03483061924504],[23.88234974590029,42.03499629106125],[23.88214440989537,42.03411007692375],[23.87501362619514,42.03510379648304],[23.87521886302301,42.03599002747421],[23.87403036252391,42.03615560112786],[23.87423559091343,42.03704183355626],[23.87185853969623,42.03737294440839],[23.87206374311313,42.03825918108214],[23.87087519239395,42.03842471827977],[23.87108038736966,42.03931095639058],[23.87226895462243,42.03914541638505],[23.87308988158691,42.04269034388898],[23.87665574744301,42.04219360602212],[23.87624516856403,42.04042116186355],[23.87743374600512,42.04025556014278]]],"type":"Polygon"}
+}

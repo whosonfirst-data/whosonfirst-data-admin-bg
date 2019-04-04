@@ -1,0 +1,120 @@
+{
+  "id": 101798125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000122,
+    "geom:bbox":"25.3411657416,42.66528069,25.3592731282,42.6767781986",
+    "geom:latitude":42.67076,
+    "geom:longitude":25.350714,
+    "iso:country":"BG",
+    "lbl:latitude":42.670571,
+    "lbl:longitude":25.351606,
+    "mps:latitude":42.670571,
+    "mps:longitude":25.351606,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0421\u0432\u0438\u0449\u043e\u0432"
+    ],
+    "name:bul_x_variant":[
+        "\u0425\u0430\u0434\u0436\u0438\u0434\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u043e",
+        "Hadzhidimitrovo"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Svishtov"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Svi\u0161tov"
+    ],
+    "name:fra_x_preferred":[
+        "Svichtov"
+    ],
+    "name:ita_x_preferred":[
+        "Svi\u0161tov"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d5\u10d8\u10e8\u10e2\u10dd\u10d5\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Swisztow"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Svi\u0219tov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u0448\u0442\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Svisjtov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0456\u0448\u0442\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Chadshi-Dimitrowo"
+    ],
+    "name:vie_x_preferred":[
+        "Svishtov"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u7dad\u4ec0\u6258\u592b\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+    "qs:a1_alt":"Stara Zagora",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0425\u0430\u0434\u0436\u0438\u0434\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u043e",
+    "qs:la_lc":"*BGSZR1277027",
+    "qs:level":"locality",
+    "qs:loc":"\u0425\u0430\u0434\u0436\u0438\u0434\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u043e",
+    "qs:loc_alt":"Hadzhidimitrovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730469,
+        "gp:id":837048,
+        "qs:id":110246,
+        "wd:id":"Q600639"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ae63ce7a4d978d92fd0a66716666f52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798125,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":101798125,
+    "wof:lastmodified":1527641935,
+    "wof:name":"\u0425\u0430\u0434\u0436\u0438\u0434\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u043e",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.3411657416051,
+    42.66528069004698,
+    25.35927312819223,
+    42.67677819864656
+],
+  "geometry": {"coordinates":[[[25.34969308949138,42.67677819864656],[25.35927312819223,42.67531097957283],[25.35904199142544,42.67442928033728],[25.35784452607453,42.67461272893172],[25.35576485815665,42.66667734052828],[25.35456753656172,42.66686074664221],[25.35433652488774,42.66597902623386],[25.35313921347915,42.66616241509405],[25.35290822766524,42.66528069004698],[25.3421322825015,42.66693052683911],[25.34236311805978,42.6678122802445],[25.3411657416051,42.66799552808243],[25.34162740680824,42.66975903673745],[25.34282481665878,42.66957578259934],[25.34305567970091,42.67045753154872],[25.34425309974631,42.6702742601571],[25.3444839886497,42.67115600447073],[25.34568141888946,42.67097271582497],[25.34614325758565,42.67273619369428],[25.34734071471854,42.67255288464264],[25.34826456889783,42.67607980994859],[25.34946208632687,42.67589647418617],[25.34969308949138,42.67677819864656]]],"type":"Polygon"}
+}

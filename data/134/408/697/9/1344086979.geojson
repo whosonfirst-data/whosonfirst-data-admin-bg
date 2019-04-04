@@ -1,0 +1,77 @@
+{
+  "id": 1344086979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46667,42.2,25.46667,42.2",
+    "geom:latitude":42.2,
+    "geom:longitude":25.46667,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR36",
+    "gn:admin3_code":"SZR36-02",
+    "gn:asciiname":"Gita",
+    "gn:country_code":"BG",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731428,
+    "gn:latitude":42.2,
+    "gn:longitude":25.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gita",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0438\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Malko Shivachevo",
+        "Zapadno Shivachevo",
+        "Kara Terzileri",
+        "Malko Schiwatschewo",
+        "Gita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731428
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5cf3d7af260ba334a428f8e3c64b19ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1344086979,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1344086979,
+    "wof:lastmodified":1537587635,
+    "wof:name":"Gita",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46667,
+    42.2,
+    25.46667,
+    42.2
+],
+  "geometry": {"coordinates":[25.46667,42.2],"type":"Point"}
+}

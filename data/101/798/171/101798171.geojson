@@ -1,0 +1,101 @@
+{
+  "id": 101798171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000085,
+    "geom:area_square_m":778771.11029,
+    "geom:bbox":"25.4423645633,42.5371564868,25.4583581211,42.5467101334",
+    "geom:latitude":42.54129,
+    "geom:longitude":25.450177,
+    "iso:country":"BG",
+    "lbl:latitude":42.541344,
+    "lbl:longitude":25.450298,
+    "mps:latitude":42.541344,
+    "mps:longitude":25.450298,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u044a\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Kanchevo"
+    ],
+    "name:eng_x_preferred":[
+        "Kanchevo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u044b\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Kynczewo"
+    ],
+    "name:rum_x_preferred":[
+        "K\u0103ncevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Ishikliy"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+    "qs:a1_alt":"Stara Zagora",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041a\u044a\u043d\u0447\u0435\u0432\u043e",
+    "qs:la_lc":"*BGSZR1240868",
+    "qs:level":"locality",
+    "qs:loc":"\u041a\u044a\u043d\u0447\u0435\u0432\u043e",
+    "qs:loc_alt":"Kanchevo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729809,
+        "gp:id":837560,
+        "qs:id":9,
+        "wd:id":"Q2015731"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"acedcda5bb5ed02cf12fa3ab994b3144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798171,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":101798171,
+    "wof:lastmodified":1513899849,
+    "wof:name":"\u041a\u044a\u043d\u0447\u0435\u0432\u043e",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.44236456333334,
+    42.53715648680463,
+    25.45835812107481,
+    42.54671013341249
+],
+  "geometry": {"coordinates":[[[25.45450640918421,42.54509057291631],[25.45381130199621,42.54244589105593],[25.45500595411636,42.54226136781801],[25.45477425348417,42.5413798073559],[25.45835812107481,42.54082616274644],[25.45812637987683,42.5399446102644],[25.45693178043064,42.54012916936927],[25.45623666160731,42.53748449343186],[25.45265297344707,42.53803805793291],[25.45242133524721,42.53715648680463],[25.44525388284353,42.53826321717634],[25.44548542156917,42.53914480725678],[25.44309618560527,42.53951361119755],[25.44355922422869,42.54127679948982],[25.44236456333334,42.54146118668154],[25.44259607981041,42.54234278173521],[25.44379075728864,42.54215839138584],[25.44425385090699,42.54392157067764],[25.44664325269491,42.54355273515409],[25.44687484642293,42.54443431623247],[25.44806955414748,42.54424987421595],[25.44830117362841,42.54513145063493],[25.4494958914338,42.54494699139525],[25.44995919107532,42.54671013341249],[25.45234867351121,42.54634116010175],[25.45211698593613,42.54545959616331],[25.45450640918421,42.54509057291631]]],"type":"Polygon"}
+}

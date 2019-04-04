@@ -1,0 +1,74 @@
+{
+  "id": 1310140213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.98333,41.43333,24.98333,41.43333",
+    "geom:latitude":41.43333,
+    "geom:longitude":24.98333,
+    "gn:admin1_code":"57",
+    "gn:admin2_code":"SML11",
+    "gn:asciiname":"Fabrika",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731609,
+    "gn:latitude":41.43333,
+    "gn:longitude":24.98333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fabrika",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0424\u0430\u0431\u0440\u0438\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Promishleno Selo Fabrika",
+        "Fabrika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731609
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e7410e1382e31983f85ba03427b6d66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310140213,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1310140213,
+    "wof:lastmodified":1537587646,
+    "wof:name":"Fabrika",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.98333,
+    41.43333,
+    24.98333,
+    41.43333
+],
+  "geometry": {"coordinates":[24.98333,41.43333],"type":"Point"}
+}

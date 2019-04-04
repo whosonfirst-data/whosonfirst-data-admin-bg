@@ -1,0 +1,74 @@
+{
+  "id": 1276263645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.85,43.21667,26.85,43.21667",
+    "geom:latitude":43.21667,
+    "geom:longitude":26.85,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"SHU23",
+    "gn:asciiname":"Osmar",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728532,
+    "gn:latitude":43.21667,
+    "gn:longitude":26.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Osmar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u043c\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Osman",
+        "Osmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728532
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9ed96541094492b89b8f22e7cb9f2c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276263645,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1276263645,
+    "wof:lastmodified":1537587447,
+    "wof:name":"Osmar",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.85,
+    43.21667,
+    26.85,
+    43.21667
+],
+  "geometry": {"coordinates":[26.85,43.21667],"type":"Point"}
+}

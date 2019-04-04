@@ -1,0 +1,72 @@
+{
+  "id": 1242612161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83395,41.43025,24.83395,41.43025",
+    "geom:latitude":41.43025,
+    "geom:longitude":24.83395,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Osikata",
+    "gn:country_code":"BG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":728544,
+    "gn:latitude":41.43025,
+    "gn:longitude":24.83395,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Osikata",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u0438\u043a\u0430\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ossikata",
+        "Osikata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728544
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4d63e80ab04fd9aea2ea6fb749332045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242612161,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1242612161,
+    "wof:lastmodified":1537587448,
+    "wof:name":"Osikata",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83395,
+    41.43025,
+    24.83395,
+    41.43025
+],
+  "geometry": {"coordinates":[24.83395,41.43025],"type":"Point"}
+}

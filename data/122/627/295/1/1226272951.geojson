@@ -1,0 +1,74 @@
+{
+  "id": 1226272951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.49883,43.99952,22.49883,43.99952",
+    "geom:latitude":43.99952,
+    "geom:longitude":22.49883,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID03",
+    "gn:admin3_code":"VID03-05",
+    "gn:asciiname":"Borilovets",
+    "gn:country_code":"BG",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733071,
+    "gn:latitude":43.99952,
+    "gn:longitude":22.49883,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Borilovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043b\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Borilowez",
+        "Borilovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733071
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e6b37b10ecd574e2995764eb09236a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226272951,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1226272951,
+    "wof:lastmodified":1537587743,
+    "wof:name":"Borilovets",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.49883,
+    43.99952,
+    22.49883,
+    43.99952
+],
+  "geometry": {"coordinates":[22.49883,43.99952],"type":"Point"}
+}

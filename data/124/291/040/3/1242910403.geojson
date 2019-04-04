@@ -1,0 +1,75 @@
+{
+  "id": 1242910403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49064,43.52456,23.49064,43.52456",
+    "geom:latitude":43.52456,
+    "geom:longitude":23.49064,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"MON04",
+    "gn:admin3_code":"MON04-04",
+    "gn:asciiname":"Gromshin",
+    "gn:country_code":"BG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731023,
+    "gn:latitude":43.52456,
+    "gn:longitude":23.49064,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Gromshin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0440\u043e\u043c\u0448\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Gromschin",
+        "Gromshin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731023,
+        "wk:page":"Gromshin"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e529d592f0217970ae2e1dba34e31a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242910403,
+            "region_id":85681821
+        }
+    ],
+    "wof:id":1242910403,
+    "wof:lastmodified":1537587605,
+    "wof:name":"Gromshin",
+    "wof:parent_id":85681821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49064,
+    43.52456,
+    23.49064,
+    43.52456
+],
+  "geometry": {"coordinates":[23.49064,43.52456],"type":"Point"}
+}

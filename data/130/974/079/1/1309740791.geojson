@@ -1,0 +1,81 @@
+{
+  "id": 1309740791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13333,43.71667,27.13333,43.71667",
+    "geom:latitude":43.71667,
+    "geom:longitude":27.13333,
+    "gn:admin1_code":"55",
+    "gn:admin2_code":"SLS10",
+    "gn:admin3_code":"SLS10-18",
+    "gn:asciiname":"Prohlada",
+    "gn:country_code":"BG",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727937,
+    "gn:latitude":43.71667,
+    "gn:longitude":27.13333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Prohlada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u043e\u0445\u043b\u0430\u0434\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Prohlada"
+    ],
+    "name:und_x_variant":[
+        "Cirecci",
+        "Tschirektschi",
+        "Desislava",
+        "Chiyrekchii",
+        "Desislawa",
+        "Prokhlada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727937
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"153b13c7a0afe53fe5e32877a3954b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309740791,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1309740791,
+    "wof:lastmodified":1537587406,
+    "wof:name":"Prohlada",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13333,
+    43.71667,
+    27.13333,
+    43.71667
+],
+  "geometry": {"coordinates":[27.13333,43.71667],"type":"Point"}
+}

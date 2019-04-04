@@ -1,0 +1,128 @@
+{
+  "id": 101797403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000163,
+    "geom:area_square_m":1467411.542887,
+    "geom:bbox":"27.0056690845,43.322077327,27.0231736373,43.3357053088",
+    "geom:latitude":43.329058,
+    "geom:longitude":27.014936,
+    "iso:country":"BG",
+    "lbl:latitude":43.3284,
+    "lbl:longitude":27.014769,
+    "mps:latitude":43.3284,
+    "mps:longitude":27.014769,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0426\u0430\u0440\u0435\u0432 \u0431\u0440\u043e\u0434"
+    ],
+    "name:eng_x_colloquial":[
+        "Endze"
+    ],
+    "name:eng_x_preferred":[
+        "Tsarev Brod"
+    ],
+    "name:eng_x_variant":[
+        "Carev Brod",
+        "Endzhe",
+        "End\u017ee",
+        "Zarew-Brod"
+    ],
+    "name:geo_x_preferred":[
+        "\u10ea\u10d0\u10e0\u10d4\u10d5-\u10d1\u10e0\u10dd\u10d3\u10d8"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d0\u10e0\u10d4\u10d5-\u10d1\u10e0\u10dd\u10d3\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0426\u0430\u0440\u0435\u0432-\u0411\u0440\u043e\u0434"
+    ],
+    "name:may_x_preferred":[
+        "Tsarev Brod"
+    ],
+    "name:msa_x_preferred":[
+        "Tsarev Brod"
+    ],
+    "name:pol_x_preferred":[
+        "Carew brod"
+    ],
+    "name:ron_x_preferred":[
+        "\u021aarev Brod"
+    ],
+    "name:rum_x_preferred":[
+        "\u021aarev Brod"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0440\u0435\u0432-\u0411\u0440\u043e\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0430\u0440\u0435\u0432-\u0411\u0440\u043e\u0434"
+    ],
+    "name:unk_x_variant":[
+        "Zarew-Brod"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0428\u0443\u043c\u0435\u043d",
+    "qs:a1_alt":"Shumen",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0426\u0430\u0440\u0435\u0432 \u0431\u0440\u043e\u0434",
+    "qs:la_lc":"*BGSHU3078104",
+    "qs:level":"locality",
+    "qs:loc":"\u0426\u0430\u0440\u0435\u0432 \u0431\u0440\u043e\u0434",
+    "qs:loc_alt":"Tsarev Brod",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":315,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372ff24-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":726272,
+        "gp:id":840260,
+        "qs:id":3,
+        "wd:id":"Q2990476",
+        "wk:page":"Tsarev Brod"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"8516144690331a3b006ee59f29a0e88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797403,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":101797403,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641532,
+    "wof:name":"\u0426\u0430\u0440\u0435\u0432 \u0431\u0440\u043e\u0434",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.00566908449946,
+    43.3220773270416,
+    27.023173637301,
+    43.33570530882463
+],
+  "geometry": {"coordinates":[[[27.01085083411709,43.3355019696196],[27.01059025935996,43.33462575394537],[27.01541510115982,43.33381226960648],[27.01567574315033,43.33468847110839],[27.01808815314263,43.33428163684027],[27.01834883915603,43.33515782961246],[27.023173637301,43.33434397687847],[27.02213068681112,43.33083925264282],[27.02092456562832,43.33104272290052],[27.02014251246561,43.32841415183964],[27.02134858324081,43.32821069221416],[27.0210879028661,43.32733450211856],[27.02229394941918,43.32713103187041],[27.02177258628961,43.3253786538379],[27.02297859182278,43.32517517651166],[27.02245723672144,43.32342279899376],[27.02125126478529,43.32362626923265],[27.02099061964088,43.3227500744652],[27.01978465708385,43.32295352699526],[27.01952403914169,43.3220773270416],[27.0110822111543,43.32350107332121],[27.01134271150181,43.32437729807089],[27.0089306603071,43.32478396231272],[27.00919113745096,43.32566019250316],[27.00798508392955,43.32586350691554],[27.00876652734729,43.32849219826124],[27.00635429723525,43.32889880583161],[27.00687524429105,43.33065127268662],[27.00566908449946,43.33085456230248],[27.00619003954068,43.33260702967516],[27.00739623294788,43.33240373297639],[27.00817779394532,43.33503241110134],[27.00938403036184,43.33482908960798],[27.0096445883097,43.33570530882463],[27.01085083411709,43.3355019696196]]],"type":"Polygon"}
+}

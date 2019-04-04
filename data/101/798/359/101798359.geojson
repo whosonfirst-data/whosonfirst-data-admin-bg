@@ -1,0 +1,128 @@
+{
+  "id": 101798359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":728879.318301,
+    "geom:bbox":"27.5334322939,42.3554537523,27.5476613903,42.3671755148",
+    "geom:latitude":42.361479,
+    "geom:longitude":27.540958,
+    "iso:country":"BG",
+    "lbl:latitude":42.361808,
+    "lbl:longitude":27.540365,
+    "mps:latitude":42.361808,
+    "mps:longitude":27.540365,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Ravna Gora"
+    ],
+    "name:eng_x_variant":[
+        "Makhala Ravna Gora",
+        "Rawna-Gora"
+    ],
+    "name:fra_x_preferred":[
+        "Ravna Gora"
+    ],
+    "name:ger_x_preferred":[
+        "Rawna Gora"
+    ],
+    "name:hbs_x_preferred":[
+        "Ravna Gora"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0430-\u0413\u043e\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Ravna Gora"
+    ],
+    "name:por_x_preferred":[
+        "Ravna Gora"
+    ],
+    "name:rum_x_preferred":[
+        "Ravna Gora"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0430-\u0413\u043e\u0440\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Ravna Gora"
+    ],
+    "name:spa_x_preferred":[
+        "Ravna Gora"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Makhala Ravna Gora"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0420\u0430\u0432\u043d\u0430 \u0433\u043e\u0440\u0430",
+    "qs:la_lc":"*BGBGS2161114",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u0430\u0432\u043d\u0430 \u0433\u043e\u0440\u0430",
+    "qs:loc_alt":"Ravna Gora",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0372656e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727749,
+        "gp:id":839166,
+        "qs:id":915487,
+        "wd:id":"Q988472"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e06a45cd4bbd256d326d73dba8f546db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798359,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101798359,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815510,
+    "wof:name":"\u0420\u0430\u0432\u043d\u0430 \u0433\u043e\u0440\u0430",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.53343229391629,
+    42.35545375234318,
+    27.54766139027635,
+    42.36717551478887
+],
+  "geometry": {"coordinates":[[[27.54277836496709,42.36525454617515],[27.54225552552157,42.36350352366827],[27.54344130462596,42.36329440066527],[27.54317988429864,42.36241889035961],[27.54673713015063,42.36179144870255],[27.54647567214499,42.36091594729766],[27.54766139027635,42.36070677586355],[27.54609276161472,42.35545375234318],[27.54372150977059,42.35587203880823],[27.54398289031906,42.35674755414294],[27.54161157752014,42.35716579218058],[27.54187293636829,42.35804131287045],[27.53950156261283,42.35845950247858],[27.53976289975765,42.35933502852328],[27.53739146504398,42.35975316969922],[27.53765278048206,42.36062870109856],[27.5340955260952,42.36125581939046],[27.53461809183801,42.36300689825208],[27.53343229391629,42.36321591700607],[27.53369357617368,42.36409145738418],[27.53487939007476,42.36388243508839],[27.53514069855521,42.36475797019483],[27.53632652118358,42.36454893047579],[27.53711055603628,42.36717551478887],[27.54066812421837,42.3665482804588],[27.54040672108084,42.36567276471391],[27.54277836496709,42.36525454617515]]],"type":"Polygon"}
+}

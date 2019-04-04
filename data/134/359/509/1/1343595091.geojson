@@ -1,0 +1,76 @@
+{
+  "id": 1343595091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33333,42.81667,25.33333,42.81667",
+    "geom:latitude":42.81667,
+    "geom:longitude":25.33333,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB35",
+    "gn:admin3_code":"GAB35-04",
+    "gn:asciiname":"Gorni Radkovtsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731201,
+    "gn:latitude":42.81667,
+    "gn:longitude":25.33333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gorni Radkovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438 \u0420\u0430\u0434\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Gorni Ratkovtsi",
+        "Gorni Radkovtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731201,
+        "wk:page":"Gorni_Radkovtsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"fa3ac700991fb6b4dcb65f981a6ac852",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343595091,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1343595091,
+    "wof:lastmodified":1537587619,
+    "wof:name":"Gorni Radkovtsi",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33333,
+    42.81667,
+    25.33333,
+    42.81667
+],
+  "geometry": {"coordinates":[25.33333,42.81667],"type":"Point"}
+}

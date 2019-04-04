@@ -1,0 +1,75 @@
+{
+  "id": 1343595279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.37237,43.9836,27.37237,43.9836",
+    "geom:latitude":43.9836,
+    "geom:longitude":27.37237,
+    "gn:admin1_code":"55",
+    "gn:admin2_code":"SLS31",
+    "gn:asciiname":"Popkralevo",
+    "gn:country_code":"BG",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728084,
+    "gn:latitude":43.9836,
+    "gn:longitude":27.37237,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Popkralevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043f\u043a\u0440\u0430\u043b\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Gyurgendzhik",
+        "Ghiurghengic",
+        "Pop-Kralewo",
+        "Popkralevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728084
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a8740909145c2be81310ca2ef5478e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343595279,
+            "region_id":85681871
+        }
+    ],
+    "wof:id":1343595279,
+    "wof:lastmodified":1537587417,
+    "wof:name":"Popkralevo",
+    "wof:parent_id":85681871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.37237,
+    43.9836,
+    27.37237,
+    43.9836
+],
+  "geometry": {"coordinates":[27.37237,43.9836],"type":"Point"}
+}

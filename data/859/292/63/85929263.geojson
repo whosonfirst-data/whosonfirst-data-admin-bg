@@ -1,0 +1,120 @@
+{
+  "id": 85929263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9305346.111361,
+    "geom:bbox":"23.36997,42.706185,23.36997,42.706185",
+    "geom:latitude":42.706185,
+    "geom:longitude":23.36997,
+    "gn:id":"",
+    "iso:country":"BG",
+    "lbl:latitude":42.706185,
+    "lbl:longitude":23.36997,
+    "mps:latitude":42.704843,
+    "mps:longitude":23.362986,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0434\u0443\u044f\u043d\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Rayon Poduene"
+    ],
+    "name:eng_x_preferred":[
+        "Poduyane"
+    ],
+    "name:pol_x_preferred":[
+        "Rejon Podujane"
+    ],
+    "name:swe_x_preferred":[
+        "Rajon Poduene"
+    ],
+    "name:unk_x_variant":[
+        "Poduyane"
+    ],
+    "qs:gn_adm0_cc":"BG",
+    "qs:gn_id":0,
+    "qs:gn_local":727011,
+    "qs:gn_nam_loc":"Sofiya, Sofia, Sofiya-Grad, BG",
+    "qs:gn_namadm1":"42",
+    "qs:local_max":4184,
+    "qs:local_sum":18613,
+    "qs:localhoods":26,
+    "qs:name":"Poduyane",
+    "qs:name_adm0":"Bulgaria",
+    "qs:name_adm1":"Sofiya-Grad",
+    "qs:name_adm2":"Sofiya",
+    "qs:name_local":"Sofia",
+    "qs:photo_max":43,
+    "qs:photo_sum":181,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":28,
+    "qs:woe_adm0":23424771,
+    "qs:woe_adm1":20069794,
+    "qs:woe_adm2":55873710,
+    "qs:woe_lau":0,
+    "qs:woe_local":839722,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mz",
+    "wd:wordcount":544,
+    "wof:belongsto":[
+        102191581,
+        101748887,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55855471,
+        "qs:id":893068,
+        "qs_pg:id":893068,
+        "wd:id":"Q7207186"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"027f8b1602214e90ad77b4243d11216d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748887,
+            "neighbourhood_id":85929263,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":85929263,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531939125,
+    "wof:name":"Poduyane",
+    "wof:parent_id":101748887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36997,
+    42.706185,
+    23.36997,
+    42.706185
+],
+  "geometry": {"coordinates":[23.36997,42.706185],"type":"Point"}
+}

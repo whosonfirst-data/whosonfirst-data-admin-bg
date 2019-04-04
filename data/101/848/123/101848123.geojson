@@ -1,0 +1,100 @@
+{
+  "id": 101848123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000044,
+    "geom:area_square_m":409411.638656,
+    "geom:bbox":"25.7514259303,41.9156957856,25.7620636226,41.9224285088",
+    "geom:latitude":41.919148,
+    "geom:longitude":25.757304,
+    "iso:country":"BG",
+    "lbl:latitude":41.91928,
+    "lbl:longitude":25.757405,
+    "mps:latitude":41.91928,
+    "mps:longitude":25.757405,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0434\u043e\u043f\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "Rodopi"
+    ],
+    "name:pol_x_preferred":[
+        "Rodopi"
+    ],
+    "name:ron_x_preferred":[
+        "Rodopi"
+    ],
+    "name:rum_x_preferred":[
+        "Rodopi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434\u043e\u043f\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0434\u043e\u043f\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Rodopi"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
+    "qs:a1_alt":"Haskovo",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0420\u043e\u0434\u043e\u043f\u0438",
+    "qs:la_lc":"*BGHKV3462880",
+    "qs:level":"locality",
+    "qs:loc":"\u0420\u043e\u0434\u043e\u043f\u0438",
+    "qs:loc_alt":"Rodopi",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727613,
+        "gp:id":839266,
+        "qs:id":8,
+        "wd:id":"Q2020772",
+        "wk:page":"Rodopi (village)"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a0fb41f545e436821f729aec5fee5f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101848123,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":101848123,
+    "wof:lastmodified":1527714821,
+    "wof:name":"\u0420\u043e\u0434\u043e\u043f\u0438",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.75142593031899,
+    41.91569578563326,
+    25.76206362263162,
+    41.92242850879558
+],
+  "geometry": {"coordinates":[[[25.7606284409992,41.92167720496946],[25.76039625109172,41.92079588906302],[25.76157824587466,41.92060803155493],[25.76088168247162,41.91796408399165],[25.76206362263162,41.91777622208377],[25.76159926033279,41.91601358892325],[25.75805351702081,41.91657711402843],[25.7578213977049,41.91569578563326],[25.75545756890375,41.91607139329597],[25.75568965608306,41.91695272801206],[25.75450771599628,41.91714051417756],[25.75473979619045,41.91802185049931],[25.75355783362266,41.91820962594056],[25.7537899068306,41.91909096386837],[25.75142593031899,41.91946647941609],[25.75189003970047,41.92122916324911],[25.75425408050006,41.92085363506158],[25.75448618096209,41.92173496832692],[25.7556682078154,41.92154718024477],[25.75590033343582,41.92242850879558],[25.7606284409992,41.92167720496946]]],"type":"Polygon"}
+}

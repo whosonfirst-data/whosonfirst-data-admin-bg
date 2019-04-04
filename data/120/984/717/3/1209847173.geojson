@@ -1,0 +1,81 @@
+{
+  "id": 1209847173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35,43.2,25.35,43.2",
+    "geom:latitude":43.2,
+    "geom:longitude":25.35,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR22",
+    "gn:admin3_code":"VTR22-11",
+    "gn:asciiname":"Mihaltsi",
+    "gn:country_code":"BG",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729115,
+    "gn:latitude":43.2,
+    "gn:longitude":25.35,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Mihaltsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u0446\u0438"
+    ],
+    "name:bul_x_variant":[
+        "Mihaltsi"
+    ],
+    "name:und_x_variant":[
+        "Mihalsti",
+        "Michalzi",
+        "Mihalci",
+        "Michalci",
+        "Mikhaltsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729115,
+        "wk:page":"Mihaltsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ed8521db7e13221da51f46914f00cfcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1209847173,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1209847173,
+    "wof:lastmodified":1537587485,
+    "wof:name":"Mihaltsi",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35,
+    43.2,
+    25.35,
+    43.2
+],
+  "geometry": {"coordinates":[25.35,43.2],"type":"Point"}
+}

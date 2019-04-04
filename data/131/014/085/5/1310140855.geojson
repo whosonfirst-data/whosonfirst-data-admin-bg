@@ -1,0 +1,76 @@
+{
+  "id": 1310140855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.71667,42.33333,25.71667,42.33333",
+    "geom:latitude":42.33333,
+    "geom:longitude":25.71667,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Kolarovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730239,
+    "gn:latitude":42.33333,
+    "gn:longitude":25.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kolarovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Arbadzhievo",
+        "Kolarowo",
+        "Arabadzhievo",
+        "Kolarevo",
+        "Kolarovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730239
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"228d0fad4417e014ee88aefd6f5793d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310140855,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1310140855,
+    "wof:lastmodified":1537587556,
+    "wof:name":"Kolarovo",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.71667,
+    42.33333,
+    25.71667,
+    42.33333
+],
+  "geometry": {"coordinates":[25.71667,42.33333],"type":"Point"}
+}

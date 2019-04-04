@@ -1,0 +1,76 @@
+{
+  "id": 1226676925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97385,42.25148,22.97385,42.25148",
+    "geom:latitude":42.25148,
+    "geom:longitude":22.97385,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Golem Varbovnik",
+    "gn:country_code":"BG",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731350,
+    "gn:latitude":42.25148,
+    "gn:longitude":22.97385,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Golem Varbovnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c \u0412\u044a\u0440\u0431\u043e\u0432\u043d\u0438\u043a"
+    ],
+    "name:bul_x_variant":[
+        "Golem Varbovnik"
+    ],
+    "name:und_x_variant":[
+        "Golemi W\u0103rbownik",
+        "Golemi V\u016drbovnik",
+        "Golem V\u016drbovnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731350
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3ce7c127a20e271f08e49bff66492333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226676925,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1226676925,
+    "wof:lastmodified":1537587630,
+    "wof:name":"Golem Varbovnik",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97385,
+    42.25148,
+    22.97385,
+    42.25148
+],
+  "geometry": {"coordinates":[22.97385,42.25148],"type":"Point"}
+}

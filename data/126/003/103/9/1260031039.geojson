@@ -1,0 +1,76 @@
+{
+  "id": 1260031039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.53333,43.56667,27.53333,43.56667",
+    "geom:latitude":43.56667,
+    "geom:longitude":27.53333,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB15",
+    "gn:admin3_code":"DOB15-10",
+    "gn:asciiname":"Vladimirovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725833,
+    "gn:latitude":43.56667,
+    "gn:longitude":27.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vladimirovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Vladimire\u015fti",
+        "Wladimirowo",
+        "Vladimirovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725833
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ce5a30a20b03be6a2561f1d7e24da55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260031039,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1260031039,
+    "wof:lastmodified":1537587273,
+    "wof:name":"Vladimirovo",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.53333,
+    43.56667,
+    27.53333,
+    43.56667
+],
+  "geometry": {"coordinates":[27.53333,43.56667],"type":"Point"}
+}

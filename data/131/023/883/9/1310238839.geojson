@@ -1,0 +1,76 @@
+{
+  "id": 1310238839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4,42.91667,25.4,42.91667",
+    "geom:latitude":42.91667,
+    "geom:longitude":25.4,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB05",
+    "gn:asciiname":"Todorcheta",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732420,
+    "gn:latitude":42.91667,
+    "gn:longitude":25.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Todorcheta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u0434\u043e\u0440\u0447\u0435\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "Chukarite",
+        "Todorchetata",
+        "Todorcheta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732420,
+        "wk:page":"Todorcheta"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7db053e4c7b60be3d419b2cfc94e0cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310238839,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1310238839,
+    "wof:lastmodified":1537587702,
+    "wof:name":"Todorcheta",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4,
+    42.91667,
+    25.4,
+    42.91667
+],
+  "geometry": {"coordinates":[25.4,42.91667],"type":"Point"}
+}

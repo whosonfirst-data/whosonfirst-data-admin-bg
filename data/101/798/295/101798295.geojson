@@ -1,0 +1,112 @@
+{
+  "id": 101798295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000155,
+    "geom:area_square_m":1407728.106397,
+    "geom:bbox":"26.1423133467,42.6410182839,26.1633740622,42.6525359231",
+    "geom:latitude":42.646538,
+    "geom:longitude":26.151998,
+    "iso:country":"BG",
+    "lbl:latitude":42.646884,
+    "lbl:longitude":26.149892,
+    "mps:latitude":42.646884,
+    "mps:longitude":26.149892,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u043c\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:eng_x_colloquial":[
+        "Karasarlt",
+        "Karasarlth",
+        "Karasarlu"
+    ],
+    "name:eng_x_preferred":[
+        "Seliminovo"
+    ],
+    "name:eng_x_variant":[
+        "Kara Sarlii",
+        "Karasarl\u00fe",
+        "Seliminowo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u043c\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:rum_x_preferred":[
+        "Seliminovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u043c\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Seliminovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u043c\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Kara Sarlii"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043b\u0438\u0432\u0435\u043d",
+    "qs:a1_alt":"Sliven",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u0430\u0432\u0440\u0430\u0438\u043b\u043e\u0432\u043e",
+    "qs:la_lc":"*BGSLV2014275",
+    "qs:level":"locality",
+    "qs:loc":"\u0421\u0435\u043b\u0438\u043c\u0438\u043d\u043e\u0432\u043e",
+    "qs:loc_alt":"Seliminovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03728cb0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":727391,
+        "gp:id":839435,
+        "qs:id":1273077,
+        "wd:id":"Q2020343"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c7060e1077f7075108068d26609b61e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798295,
+            "region_id":85681799
+        }
+    ],
+    "wof:id":101798295,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513899913,
+    "wof:name":"\u0421\u0435\u043b\u0438\u043c\u0438\u043d\u043e\u0432\u043e",
+    "wof:parent_id":85681799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.14231334672564,
+    42.64101828391301,
+    26.16337406216837,
+    42.65253592307153
+],
+  "geometry": {"coordinates":[[[26.16242208642853,42.64807695244019],[26.16217914428228,42.64719751842927],[26.16337406216837,42.64700455819445],[26.16288817371355,42.64524569207629],[26.16169328882899,42.64543864569572],[26.1612074718239,42.64367976668018],[26.16001261311806,42.64387269964044],[26.15976973553154,42.64299325446967],[26.15618516799668,42.6435719591617],[26.15594234951737,42.64269250250146],[26.15474749653566,42.6428853726697],[26.15450470416368,42.64200591113354],[26.15211501074879,42.64239160272439],[26.15187226098237,42.64151213300761],[26.14948257330406,42.64189776180905],[26.14923986614178,42.64101828391301],[26.14446047501394,42.64178935975883],[26.14470311617248,42.64266885087164],[26.14231334672564,42.6430543111311],[26.14352653151025,42.6474517762021],[26.14472150216068,42.64725903657609],[26.14617773984259,42.65253592307153],[26.15573805194083,42.65099334172953],[26.15549518959176,42.65011389101568],[26.16147008047602,42.64914933768517],[26.1612271452189,42.64826990193711],[26.16242208642853,42.64807695244019]]],"type":"Polygon"}
+}

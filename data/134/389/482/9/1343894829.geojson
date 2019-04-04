@@ -1,0 +1,75 @@
+{
+  "id": 1343894829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01667,42.95,26.01667,42.95",
+    "geom:latitude":42.95,
+    "geom:longitude":26.01667,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR13",
+    "gn:admin3_code":"VTR13-01",
+    "gn:asciiname":"Bebrovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733393,
+    "gn:latitude":42.95,
+    "gn:longitude":26.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bebrovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0431\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bebrowo",
+        "Bebrovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733393
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ded946430f56bf7cef042b3613dce017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343894829,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1343894829,
+    "wof:lastmodified":1537587763,
+    "wof:name":"Bebrovo",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01667,
+    42.95,
+    26.01667,
+    42.95
+],
+  "geometry": {"coordinates":[26.01667,42.95],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343397539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.85,41.88333,25.85,41.88333",
+    "geom:latitude":41.88333,
+    "geom:longitude":25.85,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV33",
+    "gn:asciiname":"Ostar Kamak",
+    "gn:country_code":"BG",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728508,
+    "gn:latitude":41.88333,
+    "gn:longitude":25.85,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ostar Kamak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0441\u0442\u044a\u0440 \u041a\u0430\u043c\u044a\u043a"
+    ],
+    "name:bul_x_variant":[
+        "Ostar Kamak"
+    ],
+    "name:und_x_variant":[
+        "Sivri Kaya",
+        "Ostai-Kam\u0103k",
+        "Ostri Kam\u016dk",
+        "Ost\u016dr Kam\u016dk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728508
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f425f0820720483f044abef5a2b9e7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343397539,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1343397539,
+    "wof:lastmodified":1537587445,
+    "wof:name":"Ostar Kamak",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.85,
+    41.88333,
+    25.85,
+    41.88333
+],
+  "geometry": {"coordinates":[25.85,41.88333],"type":"Point"}
+}

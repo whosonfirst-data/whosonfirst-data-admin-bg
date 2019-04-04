@@ -1,0 +1,77 @@
+{
+  "id": 1326964201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39899,41.29578,25.39899,41.29578",
+    "geom:latitude":41.29578,
+    "geom:longitude":25.39899,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ14",
+    "gn:admin3_code":"KRZ14-23",
+    "gn:asciiname":"Lozengradtsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729538,
+    "gn:latitude":41.29578,
+    "gn:longitude":25.39899,
+    "gn:modification_date":"2015-05-09",
+    "gn:name":"Lozengradtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0437\u0435\u043d\u0433\u0440\u0430\u0434\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Karakash",
+        "Losengradzi",
+        "Lozengradtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729538,
+        "wk:page":"Lozengradtsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d78d98016d8e248892d53afa62fcc89f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326964201,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1326964201,
+    "wof:lastmodified":1537587512,
+    "wof:name":"Lozengradtsi",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39899,
+    41.29578,
+    25.39899,
+    41.29578
+],
+  "geometry": {"coordinates":[25.39899,41.29578],"type":"Point"}
+}

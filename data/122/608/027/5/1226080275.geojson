@@ -1,0 +1,78 @@
+{
+  "id": 1226080275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.21895,41.44362,25.21895,41.44362",
+    "geom:latitude":41.44362,
+    "geom:longitude":25.21895,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ08",
+    "gn:admin3_code":"KRZ08-06",
+    "gn:asciiname":"Zheladovo",
+    "gn:country_code":"BG",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725371,
+    "gn:latitude":41.44362,
+    "gn:longitude":25.21895,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zheladovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0416\u0435\u043b\u044a\u0434\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Zheladovo"
+    ],
+    "name:und_x_variant":[
+        "Ali Fak\u016d",
+        "Shel\u0103dowo",
+        "Zhel\u016ddovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725371
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"90d529a3259bb2a012ae0de424078d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226080275,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1226080275,
+    "wof:lastmodified":1537587240,
+    "wof:name":"Zheladovo",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21895,
+    41.44362,
+    25.21895,
+    41.44362
+],
+  "geometry": {"coordinates":[25.21895,41.44362],"type":"Point"}
+}

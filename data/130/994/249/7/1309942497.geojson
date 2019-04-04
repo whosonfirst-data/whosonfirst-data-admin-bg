@@ -1,0 +1,77 @@
+{
+  "id": 1309942497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76288,41.40701,25.76288,41.40701",
+    "geom:latitude":41.40701,
+    "geom:longitude":25.76288,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ15",
+    "gn:admin3_code":"KRZ15-38",
+    "gn:asciiname":"Kalaydzhievo",
+    "gn:country_code":"BG",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":730780,
+    "gn:latitude":41.40701,
+    "gn:longitude":25.76288,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalaydzhievo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0439\u0434\u0436\u0438\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kalajdshiewo",
+        "Kalaydzhilar",
+        "Kalaijievo",
+        "Kalaydzhievo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730780,
+        "wk:page":"Kalaydzhievo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ff05ac8a273dae739596c500b1d6c130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309942497,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1309942497,
+    "wof:lastmodified":1537587586,
+    "wof:name":"Kalaydzhievo",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76288,
+    41.40701,
+    25.76288,
+    41.40701
+],
+  "geometry": {"coordinates":[25.76288,41.40701],"type":"Point"}
+}

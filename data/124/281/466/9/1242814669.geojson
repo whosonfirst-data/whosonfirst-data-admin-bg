@@ -1,0 +1,77 @@
+{
+  "id": 1242814669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.60853,43.51427,27.60853,43.51427",
+    "geom:latitude":43.51427,
+    "geom:longitude":27.60853,
+    "gn:admin1_code":"61",
+    "gn:admin2_code":"VAR09",
+    "gn:asciiname":"Strahil",
+    "gn:country_code":"BG",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726752,
+    "gn:latitude":43.51427,
+    "gn:longitude":27.60853,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Strahil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0445\u0438\u043b"
+    ],
+    "name:bul_x_variant":[
+        "Strahil"
+    ],
+    "name:und_x_variant":[
+        "Korkut",
+        "Strachil",
+        "Strakhil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726752
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"448349c130de71cc3a64f470dbbaa2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242814669,
+            "region_id":85681847
+        }
+    ],
+    "wof:id":1242814669,
+    "wof:lastmodified":1537587330,
+    "wof:name":"Strahil",
+    "wof:parent_id":85681847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60853,
+    43.51427,
+    27.60853,
+    43.51427
+],
+  "geometry": {"coordinates":[27.60853,43.51427],"type":"Point"}
+}

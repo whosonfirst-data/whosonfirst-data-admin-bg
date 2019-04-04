@@ -1,0 +1,80 @@
+{
+  "id": 1326458917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03139,41.98528,28.03139,41.98528",
+    "geom:latitude":41.98528,
+    "geom:longitude":28.03139,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS13",
+    "gn:asciiname":"Rezovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727649,
+    "gn:latitude":41.98528,
+    "gn:longitude":28.03139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rezovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0435\u0437\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Eni K\u2019oy",
+        "Ryazovo",
+        "Ryezovo",
+        "Rezvoi",
+        "Resovo",
+        "Resowo",
+        "Rezovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727649,
+        "wk:page":"Rezovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"4149d10f6f973f6124ab5bef46ddbc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326458917,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1326458917,
+    "wof:lastmodified":1537587387,
+    "wof:name":"Rezovo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03139,
+    41.98528,
+    28.03139,
+    41.98528
+],
+  "geometry": {"coordinates":[28.03139,41.98528],"type":"Point"}
+}

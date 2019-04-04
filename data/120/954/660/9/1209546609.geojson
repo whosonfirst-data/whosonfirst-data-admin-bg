@@ -1,0 +1,69 @@
+{
+  "id": 1209546609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.52778,42.67356,22.52778,42.67356",
+    "geom:latitude":42.67356,
+    "geom:longitude":22.52778,
+    "gn:admin1_code":"49",
+    "gn:admin2_code":"PER51",
+    "gn:asciiname":"Dolna Melna",
+    "gn:country_code":"BG",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732123,
+    "gn:latitude":42.67356,
+    "gn:longitude":22.52778,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dolna Melna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u041c\u0435\u043b\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dolna Melnya",
+        "Dolna Melna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732123
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d5bd834d34da07c6279a32d34c31838c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209546609
+        }
+    ],
+    "wof:id":1209546609,
+    "wof:lastmodified":1537587681,
+    "wof:name":"Dolna Melna",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.52778,
+    42.67356,
+    22.52778,
+    42.67356
+],
+  "geometry": {"coordinates":[22.52778,42.67356],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326664103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.44841,41.72503,24.44841,41.72503",
+    "geom:latitude":41.72503,
+    "geom:longitude":24.44841,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Beadnos",
+    "gn:country_code":"BG",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11402933,
+    "gn:latitude":41.72503,
+    "gn:longitude":24.44841,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Beadnos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bul_x_preferred":[
+        "Beadnos"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u0435\u0430\u0434\u043d\u043e\u0441"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402933
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b32c966bb4008f69e5efbdc92ccb000d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1326664103,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1326664103,
+    "wof:lastmodified":1537587803,
+    "wof:name":"Beadnos",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.44841,
+    41.72503,
+    24.44841,
+    41.72503
+],
+  "geometry": {"coordinates":[24.44841,41.72503],"type":"Point"}
+}

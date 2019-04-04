@@ -1,0 +1,78 @@
+{
+  "id": 1343599865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.97178,43.52002,27.97178,43.52002",
+    "geom:latitude":43.52002,
+    "geom:longitude":27.97178,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB03",
+    "gn:admin3_code":"DOB03-01",
+    "gn:asciiname":"Bezvoditsa",
+    "gn:country_code":"BG",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733238,
+    "gn:latitude":43.52002,
+    "gn:longitude":27.97178,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Bezvoditsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0437\u0432\u043e\u0434\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Susuz K\u2019oy",
+        "Bezwodica",
+        "Sususchioi",
+        "Sususkioi Orman",
+        "Bezvoditsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733238,
+        "wk:page":"Bezvoditsa"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"db87f2c55ad44517674251bce190ab3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343599865,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1343599865,
+    "wof:lastmodified":1537587755,
+    "wof:name":"Bezvoditsa",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97178,
+    43.52002,
+    27.97178,
+    43.52002
+],
+  "geometry": {"coordinates":[27.97178,43.52002],"type":"Point"}
+}

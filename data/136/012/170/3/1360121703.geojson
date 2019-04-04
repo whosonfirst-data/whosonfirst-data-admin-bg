@@ -1,0 +1,79 @@
+{
+  "id": 1360121703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76667,43.15,24.76667,43.15",
+    "geom:latitude":43.15,
+    "geom:longitude":24.76667,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"LOV18",
+    "gn:asciiname":"Presyaka",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727974,
+    "gn:latitude":43.15,
+    "gn:longitude":24.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Presyaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u044f\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Prisyeka",
+        "Prisjaka",
+        "Priseka",
+        "Presyeka",
+        "Prisseka",
+        "Presyaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727974,
+        "wk:page":"Presyaka"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"50bb6509d4e7dc9e52534af342c97c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360121703,
+            "region_id":85681811
+        }
+    ],
+    "wof:id":1360121703,
+    "wof:lastmodified":1537587408,
+    "wof:name":"Presyaka",
+    "wof:parent_id":85681811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76667,
+    43.15,
+    24.76667,
+    43.15
+],
+  "geometry": {"coordinates":[24.76667,43.15],"type":"Point"}
+}

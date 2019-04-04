@@ -1,0 +1,76 @@
+{
+  "id": 1226377105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.1398,42.46391,24.1398,42.46391",
+    "geom:latitude":42.46391,
+    "geom:longitude":24.1398,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"PAZ20",
+    "gn:admin3_code":"PAZ20-01",
+    "gn:asciiname":"Banya",
+    "gn:country_code":"BG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733458,
+    "gn:latitude":42.46391,
+    "gn:longitude":24.1398,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Banya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043d\u044f"
+    ],
+    "name:und_x_variant":[
+        "Banja",
+        "Bania",
+        "Banya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733458,
+        "wk:page":"Banya%2C_Pazardzhik_Province"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f4ada7be8101b0224e8daa975b985d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226377105,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":1226377105,
+    "wof:lastmodified":1537587767,
+    "wof:name":"Banya",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.1398,
+    42.46391,
+    24.1398,
+    42.46391
+],
+  "geometry": {"coordinates":[24.1398,42.46391],"type":"Point"}
+}

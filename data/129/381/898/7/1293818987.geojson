@@ -1,0 +1,70 @@
+{
+  "id": 1293818987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.56667,42.96667,24.56667,42.96667",
+    "geom:latitude":42.96667,
+    "geom:longitude":24.56667,
+    "gn:admin1_code":"46",
+    "gn:admin2_code":"LOV34",
+    "gn:admin3_code":"LOV34-05",
+    "gn:asciiname":"Borima",
+    "gn:country_code":"BG",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733069,
+    "gn:latitude":42.96667,
+    "gn:longitude":24.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borima",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043c\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733069
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"971e85f2ede4d41bd18631834817ce6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293818987,
+            "region_id":85681811
+        }
+    ],
+    "wof:id":1293818987,
+    "wof:lastmodified":1537587743,
+    "wof:name":"Borima",
+    "wof:parent_id":85681811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.56667,
+    42.96667,
+    24.56667,
+    42.96667
+],
+  "geometry": {"coordinates":[24.56667,42.96667],"type":"Point"}
+}

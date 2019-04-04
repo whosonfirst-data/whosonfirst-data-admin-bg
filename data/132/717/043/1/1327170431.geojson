@@ -1,0 +1,70 @@
+{
+  "id": 1327170431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.55,43.08333,25.55,43.08333",
+    "geom:latitude":43.08333,
+    "geom:longitude":25.55,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR04",
+    "gn:admin3_code":"VTR04-18",
+    "gn:asciiname":"Ledenik",
+    "gn:country_code":"BG",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729698,
+    "gn:latitude":43.08333,
+    "gn:longitude":25.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ledenik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0434\u0435\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729698
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"98d3c76d22be770e18bc31f4f8cefebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327170431,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1327170431,
+    "wof:lastmodified":1537587522,
+    "wof:name":"Ledenik",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.55,
+    43.08333,
+    25.55,
+    43.08333
+],
+  "geometry": {"coordinates":[25.55,43.08333],"type":"Point"}
+}

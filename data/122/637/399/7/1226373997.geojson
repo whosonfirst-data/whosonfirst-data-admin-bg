@@ -1,0 +1,74 @@
+{
+  "id": 1226373997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.17251,43.86475,26.17251,43.86475",
+    "geom:latitude":43.86475,
+    "geom:longitude":26.17251,
+    "gn:admin1_code":"53",
+    "gn:admin2_code":"RSE27",
+    "gn:admin3_code":"RSE27-06",
+    "gn:asciiname":"Prosena",
+    "gn:country_code":"BG",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727926,
+    "gn:latitude":43.86475,
+    "gn:longitude":26.17251,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Prosena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u043e\u0441\u0435\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Prossena",
+        "Prosena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727926
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"43cc4bf3ded91aaa9c6511408730ba32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226373997,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":1226373997,
+    "wof:lastmodified":1537587404,
+    "wof:name":"Prosena",
+    "wof:parent_id":85681861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.17251,
+    43.86475,
+    26.17251,
+    43.86475
+],
+  "geometry": {"coordinates":[26.17251,43.86475],"type":"Point"}
+}

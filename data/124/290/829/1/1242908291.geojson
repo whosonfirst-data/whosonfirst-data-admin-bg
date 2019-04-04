@@ -1,0 +1,75 @@
+{
+  "id": 1242908291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.28333,42.93333,26.28333,42.93333",
+    "geom:latitude":42.93333,
+    "geom:longitude":26.28333,
+    "gn:admin1_code":"56",
+    "gn:asciiname":"Kamenna",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730683,
+    "gn:latitude":42.93333,
+    "gn:longitude":26.28333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamenna",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u0430"
+    ],
+    "name:und_x_variant":[
+        "Arkar Makhle",
+        "Kamena",
+        "Erkekeri Makhalesi",
+        "Kamenna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730683
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"5b887b1b3accc86ce215fa4dfbd1028c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1242908291,
+            "region_id":85681799
+        }
+    ],
+    "wof:id":1242908291,
+    "wof:lastmodified":1537587580,
+    "wof:name":"Kamenna",
+    "wof:parent_id":85681799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.28333,
+    42.93333,
+    26.28333,
+    42.93333
+],
+  "geometry": {"coordinates":[26.28333,42.93333],"type":"Point"}
+}

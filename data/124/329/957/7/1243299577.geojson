@@ -1,0 +1,77 @@
+{
+  "id": 1243299577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.87184,42.20702,22.87184,42.20702",
+    "geom:latitude":42.20702,
+    "geom:longitude":22.87184,
+    "gn:admin1_code":"45",
+    "gn:admin2_code":"KNL31",
+    "gn:asciiname":"Drumohar",
+    "gn:country_code":"BG",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731903,
+    "gn:latitude":42.20702,
+    "gn:longitude":22.87184,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Drumohar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0443\u043c\u043e\u0445\u0430\u0440"
+    ],
+    "name:bul_x_variant":[
+        "Drumohar"
+    ],
+    "name:und_x_variant":[
+        "Drumochar",
+        "Drumokhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731903,
+        "wk:page":"Drumohar"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"192e034157627d7c28c341da2d2cd939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243299577,
+            "region_id":85681753
+        }
+    ],
+    "wof:id":1243299577,
+    "wof:lastmodified":1537587665,
+    "wof:name":"Drumohar",
+    "wof:parent_id":85681753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87184,
+    42.20702,
+    22.87184,
+    42.20702
+],
+  "geometry": {"coordinates":[22.87184,42.20702],"type":"Point"}
+}

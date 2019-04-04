@@ -1,0 +1,143 @@
+{
+  "id": 101798303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:area_square_m":449248.729755,
+    "geom:bbox":"27.2840047558,42.9477232546,27.2959830465,42.956636967",
+    "geom:latitude":42.952153,
+    "geom:longitude":27.28998,
+    "iso:country":"BG",
+    "lbl:latitude":42.952487,
+    "lbl:longitude":27.290071,
+    "mps:latitude":42.952487,
+    "mps:longitude":27.290071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u0431\u0440\u0430\u043c\u0456\u0440 \u0425\u0440\u044b\u0437"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440 \u0425\u0440\u0438\u0437"
+    ],
+    "name:bul_x_variant":[
+        "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440"
+    ],
+    "name:deu_x_preferred":[
+        "Dobromir Chrysos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bc\u03c0\u03c1\u03bf\u03bc\u03b9\u03c1 \u03a7\u03c1\u03c5\u03c3\u03cc\u03c2"
+    ],
+    "name:eng_x_colloquial":[
+        "Kthsthklar Kayryak Makhle",
+        "Ktstklar Kayryak Makhle",
+        "Kusuklar Kayryak Makhle"
+    ],
+    "name:eng_x_preferred":[
+        "Dobromir"
+    ],
+    "name:eng_x_variant":[
+        "Kayrak Makhlesi",
+        "Kayrak-Makhlesk",
+        "K\u00fes\u00feklar Kayryak Makhle"
+    ],
+    "name:hbs_x_preferred":[
+        "Dobromir Hrs"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440"
+    ],
+    "name:lat_x_preferred":[
+        "Dobromirus Chrysus"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440 \u0425\u0440\u0441"
+    ],
+    "name:por_x_preferred":[
+        "Dobromir Crisos"
+    ],
+    "name:ron_x_preferred":[
+        "Dobromir Hriz"
+    ],
+    "name:rum_x_preferred":[
+        "Dobromir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440 \u0425\u0440\u0438\u0437"
+    ],
+    "name:spa_x_preferred":[
+        "Dobromir Crys\u00f3s"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440 \u0425\u0440\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440"
+    ],
+    "name:unk_x_variant":[
+        "K\u016ds\u016dklar Kayryak Makhle"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440",
+    "qs:la_lc":"*BGBGS1821614",
+    "qs:level":"locality",
+    "qs:loc":"\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440",
+    "qs:loc_alt":"Dobromir",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":191,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03709338-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":732196,
+        "gp:id":835723,
+        "qs:id":6,
+        "wd:id":"Q2456336"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"212591705ed9c23d9a0da8a04520ad16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798303,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101798303,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641929,
+    "wof:name":"\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.28400475576495,
+    42.94772325459621,
+    27.29598304648516,
+    42.9566369669879
+],
+  "geometry": {"coordinates":[[[27.29062998502849,42.9564305177517],[27.29010598328779,42.95467909537319],[27.29250180601593,42.95426616898072],[27.29223978780152,42.95339046237893],[27.29583341714016,42.95277097809515],[27.29557135993667,42.95189528048098],[27.29437350733144,42.95210178573319],[27.29358744739341,42.94947467210642],[27.29598304648516,42.94906166889916],[27.29572101436202,42.94818596810109],[27.29332544817947,42.94859896419405],[27.29306345934742,42.94772325459621],[27.29186568163766,42.94792972801451],[27.29212765401536,42.9488054411691],[27.29092985246956,42.94901190409655],[27.29119181877263,42.94988761912259],[27.28400475576495,42.95112612301244],[27.28479042071194,42.95375332199541],[27.2859883323751,42.95354692913475],[27.28651219382425,42.95529837959089],[27.28771013102795,42.95509196556793],[27.28797209378519,42.9559676847133],[27.28917004006729,42.95576125308384],[27.28943202966815,42.9566369669879],[27.29062998502849,42.9564305177517]]],"type":"Polygon"}
+}

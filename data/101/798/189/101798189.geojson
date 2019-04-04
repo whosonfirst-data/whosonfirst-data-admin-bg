@@ -1,0 +1,105 @@
+{
+  "id": 101798189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:bbox":"23.3730229392,43.0298890775,23.3859284042,43.0360088122",
+    "geom:latitude":43.032776,
+    "geom:longitude":23.379625,
+    "iso:country":"BG",
+    "lbl:latitude":43.033078,
+    "lbl:longitude":23.379103,
+    "mps:latitude":43.033078,
+    "mps:longitude":23.379103,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u0440\u0430 \u0411\u043e\u0432"
+    ],
+    "name:bul_x_variant":[
+        "\u0411\u043e\u0432"
+    ],
+    "name:eng_x_preferred":[
+        "Bov"
+    ],
+    "name:eng_x_variant":[
+        "Bow"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u0440\u0430-\u0411\u043e\u0432"
+    ],
+    "name:ron_x_preferred":[
+        "Bov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0430-\u0411\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0430-\u0411\u043e\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Bow"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043e\u0444\u0438\u044f",
+    "qs:a1_alt":"Sofia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0411\u043e\u0432",
+    "qs:la_lc":"*BGSFO4304546",
+    "qs:level":"locality",
+    "qs:loc":"\u0411\u043e\u0432",
+    "qs:loc_alt":"Bov",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03703ed8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":733001,
+        "gp:id":835131,
+        "qs:id":940180,
+        "wd:id":"Q2013318"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b4a425569b2f3a7c5e84eff7f7fe3302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798189,
+            "region_id":85681785
+        }
+    ],
+    "wof:id":101798189,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641928,
+    "wof:name":"\u0411\u043e\u0432",
+    "wof:parent_id":85681785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.37302293922369,
+    43.02988907747761,
+    23.38592840418511,
+    43.03600881216585
+],
+  "geometry": {"coordinates":[[[23.38129545638691,43.03552847047661],[23.38109185337385,43.034641952497],[23.38592840418511,43.03400130766971],[23.38531743572668,43.03134177954576],[23.3841083588726,43.03150195384342],[23.38390473644489,43.03061543910462],[23.38269567114082,43.03077559629452],[23.38249207425923,43.02988907747761],[23.37402857579701,43.03100975745787],[23.37423205107575,43.0318962958217],[23.37302293922369,43.03205633849552],[23.37322640529862,43.03294287836673],[23.37443553452471,43.03278283290149],[23.37484252593629,43.0345559032088],[23.37605168409408,43.03439583784427],[23.37625520943288,43.03528236827947],[23.37746437914745,43.03512228580723],[23.37766793003505,43.03600881216585],[23.38129545638691,43.03552847047661]]],"type":"Polygon"}
+}

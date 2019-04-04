@@ -1,0 +1,77 @@
+{
+  "id": 1276806007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68676,43.71769,27.68676,43.71769",
+    "geom:latitude":43.71769,
+    "geom:longitude":27.68676,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Lyaskovo",
+    "gn:country_code":"BG",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729654,
+    "gn:latitude":43.71769,
+    "gn:longitude":27.68676,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lyaskovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Lyaskovo",
+        "\u041b\u044f\u0441\u043a\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "F\u00e2ndacli",
+        "F\u016dndaklii",
+        "Leskovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729654
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"6afa8e08f879cc558cd970d9855ad519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276806007,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1276806007,
+    "wof:lastmodified":1537587519,
+    "wof:name":"Lyaskovo",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68676,
+    43.71769000000001,
+    27.68676,
+    43.71769000000001
+],
+  "geometry": {"coordinates":[27.68676,43.71769000000001],"type":"Point"}
+}

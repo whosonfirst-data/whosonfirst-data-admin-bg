@@ -1,0 +1,74 @@
+{
+  "id": 1360017111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03478,42.32227,24.03478,42.32227",
+    "geom:latitude":42.32227,
+    "geom:longitude":24.03478,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"PAZ29",
+    "gn:admin3_code":"PAZ29-14",
+    "gn:asciiname":"Slavovitsa",
+    "gn:country_code":"BG",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727098,
+    "gn:latitude":42.32227,
+    "gn:longitude":24.03478,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Slavovitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Slawowiza",
+        "Slavovitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727098
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e9480883444e503bba17bbb855d1ba74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360017111,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":1360017111,
+    "wof:lastmodified":1537587354,
+    "wof:name":"Slavovitsa",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03478,
+    42.32227,
+    24.03478,
+    42.32227
+],
+  "geometry": {"coordinates":[24.03478,42.32227],"type":"Point"}
+}

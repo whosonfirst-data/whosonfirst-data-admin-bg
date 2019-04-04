@@ -1,0 +1,70 @@
+{
+  "id": 1276370925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01618,43.54674,23.01618,43.54674",
+    "geom:latitude":43.54674,
+    "geom:longitude":23.01618,
+    "gn:admin1_code":"47",
+    "gn:admin2_code":"MON29",
+    "gn:asciiname":"Dolna Riksa",
+    "gn:country_code":"BG",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732116,
+    "gn:latitude":43.54674,
+    "gn:longitude":23.01618,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dolna Riksa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0420\u0438\u043a\u0441\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732116,
+        "wk:page":"Dolna_Riksa"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ebc22608a2897317f38df05ff3be6cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276370925,
+            "region_id":85681821
+        }
+    ],
+    "wof:id":1276370925,
+    "wof:lastmodified":1537587681,
+    "wof:name":"Dolna Riksa",
+    "wof:parent_id":85681821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01618,
+    43.54674,
+    23.01618,
+    43.54674
+],
+  "geometry": {"coordinates":[23.01618,43.54674],"type":"Point"}
+}

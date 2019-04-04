@@ -1,0 +1,75 @@
+{
+  "id": 1327066237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.31667,42.01667,25.31667,42.01667",
+    "geom:latitude":42.01667,
+    "geom:longitude":25.31667,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV09",
+    "gn:admin3_code":"HKV09-01",
+    "gn:asciiname":"Bodrovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733145,
+    "gn:latitude":42.01667,
+    "gn:longitude":25.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bodrovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0434\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Bodrowo",
+        "Bodrovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733145
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b2249b1b2ad3bdf7af7bb1e4889814ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327066237,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1327066237,
+    "wof:lastmodified":1537587748,
+    "wof:name":"Bodrovo",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.31667,
+    42.01667,
+    25.31667,
+    42.01667
+],
+  "geometry": {"coordinates":[25.31667,42.01667],"type":"Point"}
+}

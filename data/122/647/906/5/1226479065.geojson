@@ -1,0 +1,78 @@
+{
+  "id": 1226479065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.23188,42.15401,24.23188,42.15401",
+    "geom:latitude":42.15401,
+    "geom:longitude":24.23188,
+    "gn:admin1_code":"48",
+    "gn:admin2_code":"PAZ19",
+    "gn:admin3_code":"PAZ19-14",
+    "gn:asciiname":"Lyahovo",
+    "gn:country_code":"BG",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729494,
+    "gn:latitude":42.15401,
+    "gn:longitude":24.23188,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Lyahovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u044f\u0445\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Lyahovo"
+    ],
+    "name:und_x_variant":[
+        "Yas\u016ddzha",
+        "Ljachowo",
+        "Lyakhovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729494
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"9be8b92200ce4a00986990121740a7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226479065,
+            "region_id":85681763
+        }
+    ],
+    "wof:id":1226479065,
+    "wof:lastmodified":1537587510,
+    "wof:name":"Lyahovo",
+    "wof:parent_id":85681763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.23188,
+    42.15401,
+    24.23188,
+    42.15401
+],
+  "geometry": {"coordinates":[24.23188,42.15401],"type":"Point"}
+}

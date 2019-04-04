@@ -1,0 +1,77 @@
+{
+  "id": 1260116443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26667,41.61667,25.26667,41.61667",
+    "geom:latitude":41.61667,
+    "geom:longitude":25.26667,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ16",
+    "gn:admin3_code":"KRZ16-03",
+    "gn:asciiname":"Yarebitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725555,
+    "gn:latitude":41.61667,
+    "gn:longitude":25.26667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yarebitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u042f\u0440\u0435\u0431\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Makhmud Oglular",
+        "Jarebiza",
+        "Yarebitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725555,
+        "wk:page":"Yarebitsa"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"62a981f6d939e9d4cb129990523ac914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260116443,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1260116443,
+    "wof:lastmodified":1537587254,
+    "wof:name":"Yarebitsa",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26667,
+    41.61667,
+    25.26667,
+    41.61667
+],
+  "geometry": {"coordinates":[25.26667,41.61667],"type":"Point"}
+}

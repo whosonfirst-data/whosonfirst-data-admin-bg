@@ -1,0 +1,74 @@
+{
+  "id": 1277025385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98394,41.89751,22.98394,41.89751",
+    "geom:latitude":41.89751,
+    "geom:longitude":22.98394,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Stoilovska Mahala",
+    "gn:country_code":"BG",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436752,
+    "gn:latitude":41.89751,
+    "gn:longitude":22.98394,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Stoilovska Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Stoilovska Mahala"
+    ],
+    "name:bul_x_variant":[
+        "\u0421\u0442\u043e\u0438\u043b\u043e\u0432\u0441\u043a\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Stoilovska Makhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436752
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"770c65eccf9c4930bab79b32bc05337b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1277025385,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1277025385,
+    "wof:lastmodified":1537587811,
+    "wof:name":"Stoilovska Mahala",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98394,
+    41.89751,
+    22.98394,
+    41.89751
+],
+  "geometry": {"coordinates":[22.98394,41.89751],"type":"Point"}
+}

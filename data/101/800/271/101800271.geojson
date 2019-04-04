@@ -1,0 +1,116 @@
+{
+  "id": 101800271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000083,
+    "geom:area_square_m":768973.351449,
+    "geom:bbox":"25.5164737078,41.4674327369,25.5270420613,41.4807110647",
+    "geom:latitude":41.47459,
+    "geom:longitude":25.521498,
+    "iso:country":"BG",
+    "lbl:latitude":41.475251,
+    "lbl:longitude":25.521926,
+    "mps:latitude":41.475251,
+    "mps:longitude":25.521926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0417\u0432\u0435\u0437\u0434\u0435\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Zvezdel"
+    ],
+    "name:eng_x_preferred":[
+        "Zvezdel"
+    ],
+    "name:eng_x_variant":[
+        "G'ok-Viran",
+        "Swesdel"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0432\u0435\u0437\u0434\u0435\u043b"
+    ],
+    "name:ron_x_preferred":[
+        "Zvezdel"
+    ],
+    "name:rum_x_preferred":[
+        "Zvezdel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0432\u0435\u0437\u0434\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Zvezdel"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00fcren"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0432\u0435\u0437\u0434\u0435\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Swesdel"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "qs:a1_alt":"Kardzhali",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0417\u0432\u0435\u0437\u0434\u0435\u043b",
+    "qs:la_lc":"*BGKRZ2130452",
+    "qs:level":"locality",
+    "qs:loc":"\u0417\u0432\u0435\u0437\u0434\u0435\u043b",
+    "qs:loc_alt":"Zvezdel",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"03736b08-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":725227,
+        "gp:id":841083,
+        "qs:id":9,
+        "wd:id":"Q2457895"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"e7144668a7e6fbb80d81d002342babdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800271,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":101800271,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715091,
+    "wof:name":"\u0417\u0432\u0435\u0437\u0434\u0435\u043b",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51647370776675,
+    41.46743273689947,
+    25.5270420613034,
+    41.48071106469871
+],
+  "geometry": {"coordinates":[[[25.52654570607115,41.4785347905883],[25.52586782451937,41.47588749685758],[25.5270420613034,41.47570261887159],[25.52613827900711,41.4721728845314],[25.52496410546405,41.47235775021221],[25.52473819766402,41.4714753096809],[25.52356403375052,41.47166015849871],[25.52333815054362,41.47077771334375],[25.52216399626087,41.47096254529919],[25.52126061449485,41.46743273689947],[25.51773830428084,41.46798711314625],[25.51886731631475,41.47239941589908],[25.51769312151202,41.4725841957806],[25.51814475617203,41.47434911219983],[25.51697052356911,41.47453388444325],[25.51764799398723,41.47718125669229],[25.51647370776675,41.47736602437186],[25.51669953299034,41.47824848176913],[25.51787383502517,41.4780637110145],[25.51855141084144,41.48071106469871],[25.52090009126596,41.48034146336977],[25.52067419224505,41.47945901983996],[25.52654570607115,41.4785347905883]]],"type":"Polygon"}
+}

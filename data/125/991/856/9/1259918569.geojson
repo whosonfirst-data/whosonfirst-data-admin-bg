@@ -1,0 +1,79 @@
+{
+  "id": 1259918569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30392,41.48782,23.30392,41.48782",
+    "geom:latitude":41.48782,
+    "geom:longitude":23.30392,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG40",
+    "gn:admin3_code":"BLG40-21",
+    "gn:asciiname":"Levunovo",
+    "gn:country_code":"BG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729634,
+    "gn:latitude":41.48782,
+    "gn:longitude":23.30392,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Levunovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u0432\u0443\u043d\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Delchevo",
+        "Livanovon",
+        "L\u00e9vounovo",
+        "Lewunovo",
+        "Lewunowo",
+        "Levunovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729634,
+        "wk:page":"Levunovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"33014b1fd37b1bd6b725b88faabbbfc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259918569,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1259918569,
+    "wof:lastmodified":1537587518,
+    "wof:name":"Levunovo",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30392,
+    41.48782,
+    23.30392,
+    41.48782
+],
+  "geometry": {"coordinates":[23.30392,41.48782],"type":"Point"}
+}

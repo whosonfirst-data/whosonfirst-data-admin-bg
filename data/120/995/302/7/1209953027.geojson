@@ -1,0 +1,76 @@
+{
+  "id": 1209953027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58333,43.1,25.58333,43.1",
+    "geom:latitude":43.1,
+    "geom:longitude":25.58333,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR04",
+    "gn:admin3_code":"VTR04-03",
+    "gn:asciiname":"Belyakovets",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733281,
+    "gn:latitude":43.1,
+    "gn:longitude":25.58333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Belyakovets",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u044f\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:und_x_variant":[
+        "Byelyakovets",
+        "Beljakowez",
+        "Belyakovets"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733281
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"40ab214da32c1ca0ad3613d1d7091643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1209953027,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1209953027,
+    "wof:lastmodified":1537587757,
+    "wof:name":"Belyakovets",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58333,
+    43.1,
+    25.58333,
+    43.1
+],
+  "geometry": {"coordinates":[25.58333,43.1],"type":"Point"}
+}

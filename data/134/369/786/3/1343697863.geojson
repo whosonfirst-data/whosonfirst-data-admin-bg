@@ -1,0 +1,73 @@
+{
+  "id": 1343697863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50378,42.65175,22.50378,42.65175",
+    "geom:latitude":42.65175,
+    "geom:longitude":22.50378,
+    "gn:admin1_code":"49",
+    "gn:admin2_code":"PER51",
+    "gn:asciiname":"Shipkovitsa",
+    "gn:country_code":"BG",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727290,
+    "gn:latitude":42.65175,
+    "gn:longitude":22.50378,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Shipkovitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0428\u0438\u043f\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Schipkowiz",
+        "Shipkovitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727290
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"bd915eb0ba53f436f9f83c5d860216bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343697863,
+            "region_id":85681767
+        }
+    ],
+    "wof:id":1343697863,
+    "wof:lastmodified":1537587366,
+    "wof:name":"Shipkovitsa",
+    "wof:parent_id":85681767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50378,
+    42.65175,
+    22.50378,
+    42.65175
+],
+  "geometry": {"coordinates":[22.50378,42.65175],"type":"Point"}
+}

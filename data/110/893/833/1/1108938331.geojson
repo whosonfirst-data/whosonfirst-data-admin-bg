@@ -1,0 +1,64 @@
+{
+  "id": 1108938331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3331435231,42.728817148,23.3331435231,42.728817148",
+    "geom:latitude":42.728817,
+    "geom:longitude":23.333144,
+    "iso:country":"BG",
+    "lbl:latitude":42.728817,
+    "lbl:longitude":23.333144,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u0421\u0435\u0440\u0434\u0438\u043a\u0430"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101748887,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"BG",
+    "wof:created":1491360295,
+    "wof:geomhash":"00156e1f87d78e1ec24f99e3271e7c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748887,
+            "neighbourhood_id":1108938331,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":1108938331,
+    "wof:lastmodified":1492123465,
+    "wof:name":"Serdika",
+    "wof:parent_id":101748887,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33314352310651,
+    42.72881714800262,
+    23.33314352310651,
+    42.72881714800262
+],
+  "geometry": {"coordinates":[23.33314352310651,42.72881714800262],"type":"Point"}
+}

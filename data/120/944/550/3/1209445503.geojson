@@ -1,0 +1,71 @@
+{
+  "id": 1209445503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.90337,41.60048,25.90337,41.60048",
+    "geom:latitude":41.60048,
+    "geom:longitude":25.90337,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV18",
+    "gn:asciiname":"Malko Popovo",
+    "gn:country_code":"BG",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729330,
+    "gn:latitude":41.60048,
+    "gn:longitude":25.90337,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Malko Popovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e \u041f\u043e\u043f\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khodzha K\u2019oy",
+        "Malko-Popowo",
+        "Malko Popovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729330,
+        "wk:page":"Malko_Popovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"80f1797f2d8dc0ed4ac7f7d895241bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209445503
+        }
+    ],
+    "wof:id":1209445503,
+    "wof:lastmodified":1537587498,
+    "wof:name":"Malko Popovo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.90337,
+    41.60048,
+    25.90337,
+    41.60048
+],
+  "geometry": {"coordinates":[25.90337,41.60048],"type":"Point"}
+}

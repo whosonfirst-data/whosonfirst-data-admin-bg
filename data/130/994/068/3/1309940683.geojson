@@ -1,0 +1,78 @@
+{
+  "id": 1309940683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.92206,41.41683,25.92206,41.41683",
+    "geom:latitude":41.41683,
+    "geom:longitude":25.92206,
+    "gn:admin1_code":"43",
+    "gn:admin2_code":"HKV11",
+    "gn:admin3_code":"HKV11-04",
+    "gn:asciiname":"Gugutka",
+    "gn:country_code":"BG",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731001,
+    "gn:latitude":41.41683,
+    "gn:longitude":25.92206,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gugutka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0413\u0443\u0433\u0443\u0442\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Arnaut-Kjoj",
+        "Anaut-K\u2019oy",
+        "Arnaut-K\u2019oy",
+        "Gugutka",
+        "Gukutka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731001,
+        "wk:page":"Gugutka"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"064dbb8a854af9a79993e6e442f7360b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309940683,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":1309940683,
+    "wof:lastmodified":1537587603,
+    "wof:name":"Gugutka",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.92206,
+    41.41683,
+    25.92206,
+    41.41683
+],
+  "geometry": {"coordinates":[25.92206,41.41683],"type":"Point"}
+}

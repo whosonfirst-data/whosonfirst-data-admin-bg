@@ -1,0 +1,74 @@
+{
+  "id": 1360316647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.08762,41.42696,25.08762,41.42696",
+    "geom:latitude":41.42696,
+    "geom:longitude":25.08762,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Pehlivanovi Kolibi",
+    "gn:country_code":"BG",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11343146,
+    "gn:latitude":41.42696,
+    "gn:longitude":25.08762,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pehlivanovi Kolibi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Pehlivanovi Kolibi"
+    ],
+    "name:bul_x_variant":[
+        "\u041f\u0435\u0445\u043b\u0438\u0432\u0430\u043d\u043e\u0432\u0438 \u041a\u043e\u043b\u0438\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Pekhlivanovi Kolibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11343146
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"54486db7c83e2621e3075f4659c1a857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1360316647,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1360316647,
+    "wof:lastmodified":1537587802,
+    "wof:name":"Pehlivanovi Kolibi",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.08762,
+    41.42696,
+    25.08762,
+    41.42696
+],
+  "geometry": {"coordinates":[25.08762,41.42696],"type":"Point"}
+}

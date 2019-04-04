@@ -1,0 +1,78 @@
+{
+  "id": 1193168541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.78333,42.61667,25.78333,42.61667",
+    "geom:latitude":42.61667,
+    "geom:longitude":25.78333,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR38",
+    "gn:admin3_code":"SZR38-03",
+    "gn:asciiname":"Nova Mahala",
+    "gn:country_code":"BG",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":728752,
+    "gn:latitude":42.61667,
+    "gn:longitude":25.78333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Nova Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041d\u043e\u0432\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:bul_x_variant":[
+        "Nova Mahala"
+    ],
+    "name:und_x_variant":[
+        "Nowa Machla",
+        "Nova Makhla",
+        "Nova Makhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":728752
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"53b59ea7d6d0fa8143fb502b783130ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1193168541,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1193168541,
+    "wof:lastmodified":1537587462,
+    "wof:name":"Nova Mahala",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.78333,
+    42.61667,
+    25.78333,
+    42.61667
+],
+  "geometry": {"coordinates":[25.78333,42.61667],"type":"Point"}
+}

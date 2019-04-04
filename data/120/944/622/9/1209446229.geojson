@@ -1,0 +1,70 @@
+{
+  "id": 1209446229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.89702,42.86031,22.89702,42.86031",
+    "geom:latitude":42.86031,
+    "geom:longitude":22.89702,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO45",
+    "gn:asciiname":"Dragotintsi",
+    "gn:country_code":"BG",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731952,
+    "gn:latitude":42.86031,
+    "gn:longitude":22.89702,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Dragotintsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dragotinzi",
+        "Dragotintsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731952,
+        "wk:page":"Dragotintsi"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ed4b12a0e9e9189328abde48d25975f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209446229
+        }
+    ],
+    "wof:id":1209446229,
+    "wof:lastmodified":1537587669,
+    "wof:name":"Dragotintsi",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.89702,
+    42.86031,
+    22.89702,
+    42.86031
+],
+  "geometry": {"coordinates":[22.89702,42.86031],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276473693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78333,42.78333,26.78333,42.78333",
+    "geom:latitude":42.78333,
+    "geom:longitude":26.78333,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS23",
+    "gn:asciiname":"Balabanchevo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733525,
+    "gn:latitude":42.78333,
+    "gn:longitude":26.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Balabanchevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Balabash",
+        "Balabantschewo",
+        "Balabanchevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733525,
+        "wk:page":"Balabanchevo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"54310d14461ea32a05f0e2cc9537ec58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276473693,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1276473693,
+    "wof:lastmodified":1537587771,
+    "wof:name":"Balabanchevo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78333,
+    42.78333,
+    26.78333,
+    42.78333
+],
+  "geometry": {"coordinates":[26.78333,42.78333],"type":"Point"}
+}

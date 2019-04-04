@@ -1,0 +1,79 @@
+{
+  "id": 1243397391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58333,42.35,25.58333,42.35",
+    "geom:latitude":42.35,
+    "geom:longitude":25.58333,
+    "gn:admin1_code":"59",
+    "gn:admin2_code":"SZR31",
+    "gn:admin3_code":"SZR31-48",
+    "gn:asciiname":"Hristiyanovo",
+    "gn:country_code":"BG",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730397,
+    "gn:latitude":42.35,
+    "gn:longitude":25.58333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Hristiyanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0442\u0438\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Hristiyanovo"
+    ],
+    "name:und_x_variant":[
+        "Christijanowo",
+        "Misilimi",
+        "Misilimito",
+        "Khristiyanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730397
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"95ba6c2fc3d7bdc5e21ae811fe9e9588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243397391,
+            "region_id":85681783
+        }
+    ],
+    "wof:id":1243397391,
+    "wof:lastmodified":1537587565,
+    "wof:name":"Hristiyanovo",
+    "wof:parent_id":85681783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58333,
+    42.35,
+    25.58333,
+    42.35
+],
+  "geometry": {"coordinates":[25.58333,42.35],"type":"Point"}
+}

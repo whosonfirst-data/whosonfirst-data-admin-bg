@@ -1,0 +1,75 @@
+{
+  "id": 1259534823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91157,43.4009,27.91157,43.4009",
+    "geom:latitude":43.4009,
+    "geom:longitude":27.91157,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB15",
+    "gn:asciiname":"Prilep",
+    "gn:country_code":"BG",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727966,
+    "gn:latitude":43.4009,
+    "gn:longitude":27.91157,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Prilep",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f"
+    ],
+    "name:und_x_variant":[
+        "Ciucurova",
+        "Tschukurowo",
+        "Chukurovo",
+        "Prilep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727966
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"faee7bd4941f2613ff56de24a2ec01ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259534823,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1259534823,
+    "wof:lastmodified":1537587408,
+    "wof:name":"Prilep",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91157,
+    43.4009,
+    27.91157,
+    43.4009
+],
+  "geometry": {"coordinates":[27.91157,43.4009],"type":"Point"}
+}

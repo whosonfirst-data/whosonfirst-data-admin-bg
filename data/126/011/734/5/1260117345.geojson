@@ -1,0 +1,71 @@
+{
+  "id": 1260117345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51251,41.33592,25.51251,41.33592",
+    "geom:latitude":41.33592,
+    "geom:longitude":25.51251,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Vrana Polyana",
+    "gn:country_code":"BG",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11335443,
+    "gn:latitude":41.33592,
+    "gn:longitude":25.51251,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Vrana Polyana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Vrana Polyana"
+    ],
+    "name:bul_x_variant":[
+        "\u0412\u0440\u0430\u043d\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11335443
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0138e4955f8dac53658ebc5f5d48782a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260117345,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1260117345,
+    "wof:lastmodified":1537587789,
+    "wof:name":"Vrana Polyana",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51251,
+    41.33592,
+    25.51251,
+    41.33592
+],
+  "geometry": {"coordinates":[25.51251,41.33592],"type":"Point"}
+}

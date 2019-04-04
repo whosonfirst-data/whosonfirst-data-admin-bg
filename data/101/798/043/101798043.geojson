@@ -1,0 +1,111 @@
+{
+  "id": 101798043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000117,
+    "geom:area_square_m":1058262.892868,
+    "geom:bbox":"23.2971042402,42.7848890468,23.3145699431,42.7971232002",
+    "geom:latitude":42.791477,
+    "geom:longitude":23.305176,
+    "iso:country":"BG",
+    "lbl:latitude":42.791529,
+    "lbl:longitude":23.305176,
+    "mps:latitude":42.791529,
+    "mps:longitude":23.305176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u0432\u044f\u043d\u0435"
+    ],
+    "name:eng_x_preferred":[
+        "Mirovyane"
+    ],
+    "name:fre_x_preferred":[
+        "Mirovyane"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e8\u05d5\u05d1\u05d9\u05d0\u05e0\u05d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u0432\u044f\u043d\u0435"
+    ],
+    "name:nno_x_preferred":[
+        "Mirovyane Peak"
+    ],
+    "name:pol_x_preferred":[
+        "Mirowjane"
+    ],
+    "name:rum_x_preferred":[
+        "Miroveane"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u0432\u044f\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0440\u043e\u0432\u044f\u043d\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Mirowjane"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u7f85\u5f17\u4e9e\u5167\u5cf0"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430)",
+    "qs:a1_alt":"Sofia (stolitsa)",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041c\u0438\u0440\u043e\u0432\u044f\u043d\u0435",
+    "qs:la_lc":"*BGSOF4648393",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0438\u0440\u043e\u0432\u044f\u043d\u0435",
+    "qs:loc_alt":"Mirovyane",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729053,
+        "gp:id":838129,
+        "qs:id":404629,
+        "wd:id":"Q937301"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"71eb2dc056a1f48f79e636b88893cc79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101798043,
+            "region_id":85681771
+        }
+    ],
+    "wof:id":101798043,
+    "wof:lastmodified":1527641932,
+    "wof:name":"\u041c\u0438\u0440\u043e\u0432\u044f\u043d\u0435",
+    "wof:parent_id":85681771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.29710424023568,
+    42.784889046768,
+    23.31456994308502,
+    42.79712320019007
+],
+  "geometry": {"coordinates":[[[23.30051819180409,42.79591814593937],[23.30533634756131,42.7952817321821],[23.3055374427903,42.7961686485379],[23.30794652077896,42.7958503506137],[23.30774539114157,42.79496343977507],[23.30894990435587,42.79480427218965],[23.30874876555993,42.7939173628215],[23.31115774042894,42.79359899040634],[23.31095657527436,42.79271208526762],[23.31456994308502,42.79223442802004],[23.31396634109637,42.78957372970592],[23.31276194247641,42.78973295476305],[23.31256077510443,42.78884604998711],[23.31135638796491,42.78900525803226],[23.31115524583561,42.78811834920799],[23.30995087017686,42.78827754024172],[23.30954864444431,42.7865037132089],[23.30834429746398,42.78666288447295],[23.30794213829415,42.784889046768],[23.30673781999093,42.78504819826389],[23.30693887835929,42.78593512051879],[23.30453019021775,42.78625338627],[23.30493226228617,42.78802723794479],[23.29891026996359,42.78882268047602],[23.29911123205875,42.78970961816657],[23.29790679925549,42.7898686666698],[23.29830871315551,42.79164254370033],[23.29710424023568,42.79180158346287],[23.29831007163062,42.79712320019007],[23.30071921821275,42.79680507332705],[23.30051819180409,42.79591814593937]]],"type":"Polygon"}
+}

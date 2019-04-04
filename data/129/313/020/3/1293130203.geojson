@@ -1,0 +1,74 @@
+{
+  "id": 1293130203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56708,44.01703,22.56708,44.01703",
+    "geom:latitude":44.01703,
+    "geom:longitude":22.56708,
+    "gn:admin1_code":"63",
+    "gn:admin2_code":"VID03",
+    "gn:admin3_code":"VID03-04",
+    "gn:asciiname":"Rabrovo",
+    "gn:country_code":"BG",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727865,
+    "gn:latitude":44.01703,
+    "gn:longitude":22.56708,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Rabrovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u0431\u0440\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Rabrowo",
+        "Rabrovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727865
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"d3c96962aca78a440691ac335d0f1115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293130203,
+            "region_id":85681841
+        }
+    ],
+    "wof:id":1293130203,
+    "wof:lastmodified":1537587400,
+    "wof:name":"Rabrovo",
+    "wof:parent_id":85681841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56708,
+    44.01703,
+    22.56708,
+    44.01703
+],
+  "geometry": {"coordinates":[22.56708,44.01703],"type":"Point"}
+}

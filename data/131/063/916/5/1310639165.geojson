@@ -1,0 +1,82 @@
+{
+  "id": 1310639165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.06209,43.74985,28.06209,43.74985",
+    "geom:latitude":43.74985,
+    "geom:longitude":28.06209,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB12",
+    "gn:admin3_code":"DOB12-35",
+    "gn:asciiname":"Snyagovo",
+    "gn:country_code":"BG",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727015,
+    "gn:latitude":43.74985,
+    "gn:longitude":28.06209,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Snyagovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u043d\u044f\u0433\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kara Agach",
+        "Caragaci",
+        "Bai\u010devo",
+        "Baychevo",
+        "Snyagovo",
+        "Snyegovo",
+        "Snegovo",
+        "Kara Durmush",
+        "Caradurumu\u015f",
+        "Caraduramus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727015
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"bd3e96922166bb4abced6c9ad00f7754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1310639165,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1310639165,
+    "wof:lastmodified":1537587348,
+    "wof:name":"Snyagovo",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.06209,
+    43.74985,
+    28.06209,
+    43.74985
+],
+  "geometry": {"coordinates":[28.06209,43.74985],"type":"Point"}
+}

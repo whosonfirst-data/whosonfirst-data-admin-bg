@@ -1,0 +1,71 @@
+{
+  "id": 1210052303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.48333,42.93333,25.48333,42.93333",
+    "geom:latitude":42.93333,
+    "geom:longitude":25.48333,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"GAB12",
+    "gn:admin3_code":"GAB12-02",
+    "gn:asciiname":"Kosilka",
+    "gn:country_code":"BG",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":730119,
+    "gn:latitude":42.93333,
+    "gn:longitude":25.48333,
+    "gn:modification_date":"2016-08-01",
+    "gn:name":"Kosilka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0441\u0438\u043b\u043a\u0430"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730119,
+        "wk:page":"Kosilka"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"0d7531ffb1c2f7029bf94a11f63ab504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1210052303,
+            "region_id":85681797
+        }
+    ],
+    "wof:id":1210052303,
+    "wof:lastmodified":1537587547,
+    "wof:name":"Kosilka",
+    "wof:parent_id":85681797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.48333,
+    42.93333,
+    25.48333,
+    42.93333
+],
+  "geometry": {"coordinates":[25.48333,42.93333],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276166131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.79408,43.90803,27.79408,43.90803",
+    "geom:latitude":43.90803,
+    "geom:longitude":27.79408,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"DOB20",
+    "gn:admin3_code":"DOB20-01",
+    "gn:asciiname":"Abrit",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733736,
+    "gn:latitude":43.90803,
+    "gn:longitude":27.79408,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Abrit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0431\u0440\u0438\u0442"
+    ],
+    "name:und_x_variant":[
+        "Abrid",
+        "Aptat",
+        "Aptaat",
+        "Abrit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733736,
+        "wk:page":"Abrit"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"a72dd992c7fda452725341bd02c7bb6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276166131,
+            "region_id":85681865
+        }
+    ],
+    "wof:id":1276166131,
+    "wof:lastmodified":1537587781,
+    "wof:name":"Abrit",
+    "wof:parent_id":85681865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.79408,
+    43.90803,
+    27.79408,
+    43.90803
+],
+  "geometry": {"coordinates":[27.79408,43.90803],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226680293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.0,42.95,26.0,42.95",
+    "geom:latitude":42.95,
+    "geom:longitude":26.0,
+    "gn:admin1_code":"62",
+    "gn:admin2_code":"VTR13",
+    "gn:admin3_code":"VTR13-01",
+    "gn:asciiname":"Byalkovtsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732691,
+    "gn:latitude":42.95,
+    "gn:longitude":26.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Byalkovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u044f\u043b\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Byalkovska Makhala",
+        "Byalkovtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732691
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"003f58b283c45ea558f75449cd1654e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1226680293,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":1226680293,
+    "wof:lastmodified":1537587718,
+    "wof:name":"Byalkovtsi",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.0,
+    42.95,
+    26.0,
+    42.95
+],
+  "geometry": {"coordinates":[26.0,42.95],"type":"Point"}
+}

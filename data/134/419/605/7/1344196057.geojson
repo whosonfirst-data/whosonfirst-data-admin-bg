@@ -1,0 +1,77 @@
+{
+  "id": 1344196057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23333,41.73333,23.23333,41.73333",
+    "geom:latitude":41.73333,
+    "geom:longitude":23.23333,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG28",
+    "gn:asciiname":"Vlahi",
+    "gn:country_code":"BG",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725821,
+    "gn:latitude":41.73333,
+    "gn:longitude":23.23333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Vlahi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u043b\u0430\u0445\u0438"
+    ],
+    "name:bul_x_variant":[
+        "Vlahi"
+    ],
+    "name:und_x_variant":[
+        "Wlachi",
+        "Vlakhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725821,
+        "wk:page":"Vlahi_%28village%29"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"b98407654236bab2205d3998c5fdaf17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1344196057,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1344196057,
+    "wof:lastmodified":1537587273,
+    "wof:name":"Vlahi",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23333,
+    41.73333,
+    23.23333,
+    41.73333
+],
+  "geometry": {"coordinates":[23.23333,41.73333],"type":"Point"}
+}

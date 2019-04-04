@@ -1,0 +1,75 @@
+{
+  "id": 1343394635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.41991,41.42117,25.41991,41.42117",
+    "geom:latitude":41.42117,
+    "geom:longitude":25.41991,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ14",
+    "gn:asciiname":"Svetlen",
+    "gn:country_code":"BG",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726562,
+    "gn:latitude":41.42117,
+    "gn:longitude":25.41991,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Svetlen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u0435\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kabiller",
+        "Kabile",
+        "Svetlen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726562,
+        "wk:page":"Svetlen"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"feb3ef107b77af774fdb5db5e29b445a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1343394635,
+            "region_id":85681745
+        }
+    ],
+    "wof:id":1343394635,
+    "wof:lastmodified":1537587318,
+    "wof:name":"Svetlen",
+    "wof:parent_id":85681745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.41991,
+    41.42117,
+    25.41991,
+    41.42117
+],
+  "geometry": {"coordinates":[25.41991,41.42117],"type":"Point"}
+}

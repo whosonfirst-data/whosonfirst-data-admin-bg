@@ -1,0 +1,116 @@
+{
+  "id": 101847409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:bbox":"26.1375692761,42.9240912843,26.1553545895,42.9303308142",
+    "geom:latitude":42.927802,
+    "geom:longitude":26.145089,
+    "iso:country":"BG",
+    "lbl:latitude":42.927122,
+    "lbl:longitude":26.143741,
+    "mps:latitude":42.927122,
+    "mps:longitude":26.143741,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u041c\u0430\u0439\u0441\u043a\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Elena"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Elena"
+    ],
+    "name:fra_x_preferred":[
+        "Elena"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d4\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Elena"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Elena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Elena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u043c\u0430\u0434\u0430 \u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Slalan"
+    ],
+    "name:vie_x_preferred":[
+        "Elena"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u502b\u5a1c\u5e02"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+    "qs:a1_alt":"Veliko Tarnovo",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041c\u0430\u0439\u0441\u043a\u043e",
+    "qs:la_lc":"*BGVTR1346125",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0430\u0439\u0441\u043a\u043e",
+    "qs:loc_alt":"Maysko",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":221,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729204,
+        "gp:id":837660,
+        "qs:id":4,
+        "wd:id":"Q2653757"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"953e211a7ddcb361f7bf28c581dbe1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101847409,
+            "region_id":85681829
+        }
+    ],
+    "wof:id":101847409,
+    "wof:lastmodified":1527714971,
+    "wof:name":"\u041c\u0430\u0439\u0441\u043a\u043e",
+    "wof:parent_id":85681829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13756927611587,
+    42.92409128426038,
+    26.15535458952132,
+    42.93033081416274
+],
+  "geometry": {"coordinates":[[[26.13805828574118,42.93033081416274],[26.14406086540777,42.92936660059064],[26.1443054683748,42.93024581452221],[26.14550598027392,42.93005292611383],[26.14526136059419,42.9291737155142],[26.14886280465294,42.92859497556333],[26.14910747446851,42.9294741761658],[26.15150843600742,42.9290882722658],[26.15175314897522,42.92996746464269],[26.15535458952132,42.92938849289283],[26.15510982642246,42.92850931051686],[26.15390936987052,42.92870231188624],[26.15366463321311,42.92782312461645],[26.15126373277002,42.9282090783293],[26.15101903926228,42.92732988283285],[26.14741768684064,42.92790869750581],[26.14668381507283,42.92527107166524],[26.14548340056194,42.92546397165404],[26.14523881280019,42.9245847565897],[26.14283799645159,42.92497050754639],[26.1425934518324,42.92409128426038],[26.14139304999651,42.92428413522867],[26.1416375779059,42.9251633618457],[26.14043715244657,42.9253562020254],[26.14117074438008,42.92799388251581],[26.13756927611587,42.92857234831126],[26.13805828574118,42.93033081416274]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260214197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.32699,42.29627,27.32699,42.29627",
+    "geom:latitude":42.29627,
+    "geom:longitude":27.32699,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Rakov Dol",
+    "gn:country_code":"BG",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":727797,
+    "gn:latitude":42.29627,
+    "gn:longitude":27.32699,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Rakov Dol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432 \u0414\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "Yan\u0103ch Dere",
+        "Razvalini Rakydol",
+        "Yan\u016dch Dere",
+        "Rakow-Dol",
+        "Raki Dol",
+        "Rakov Dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":727797
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3acdc4cfd06908ac5bde1e3b6331d0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1260214197,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1260214197,
+    "wof:lastmodified":1537587395,
+    "wof:name":"Rakov Dol",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.32699,
+    42.29627,
+    27.32699,
+    42.29627
+],
+  "geometry": {"coordinates":[27.32699,42.29627],"type":"Point"}
+}

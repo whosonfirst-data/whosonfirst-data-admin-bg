@@ -1,0 +1,79 @@
+{
+  "id": 1293137677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9,43.33333,26.9,43.33333",
+    "geom:latitude":43.33333,
+    "geom:longitude":26.9,
+    "gn:admin1_code":"54",
+    "gn:admin2_code":"SHU30",
+    "gn:asciiname":"Belokopitovo",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":733303,
+    "gn:latitude":43.33333,
+    "gn:longitude":26.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Belokopitovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u043a\u043e\u043f\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kauklii",
+        "Byalo Kopitovo",
+        "Bjalo-Kopitovo",
+        "Byelokopitovo",
+        "Belo Kopitowo",
+        "Biela Kopitovo",
+        "Belokopitovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":733303
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c9628828160d571a227232cdbd0bbdd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293137677,
+            "region_id":85681853
+        }
+    ],
+    "wof:id":1293137677,
+    "wof:lastmodified":1537587758,
+    "wof:name":"Belokopitovo",
+    "wof:parent_id":85681853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9,
+    43.33333,
+    26.9,
+    43.33333
+],
+  "geometry": {"coordinates":[26.9,43.33333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259514755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.53349,42.1259,27.53349,42.1259",
+    "geom:latitude":42.1259,
+    "geom:longitude":27.53349,
+    "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS12",
+    "gn:asciiname":"Kalovo",
+    "gn:country_code":"BG",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":730738,
+    "gn:latitude":42.1259,
+    "gn:longitude":27.53349,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Kalowo",
+        "Kalova",
+        "Kalovoo",
+        "Kalovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":730738
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f4961a08c59987c40837cb6989567390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1259514755,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":1259514755,
+    "wof:lastmodified":1537587583,
+    "wof:name":"Kalovo",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.53349,
+    42.1259,
+    27.53349,
+    42.1259
+],
+  "geometry": {"coordinates":[27.53349,42.1259],"type":"Point"}
+}

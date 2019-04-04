@@ -1,0 +1,74 @@
+{
+  "id": 1210050713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21667,42.98333,26.21667,42.98333",
+    "geom:latitude":42.98333,
+    "geom:longitude":26.21667,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Stroynovtsi",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726706,
+    "gn:latitude":42.98333,
+    "gn:longitude":26.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Stroynovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u043e\u0439\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:und_x_variant":[
+        "Kemanlari",
+        "Stroinowzi",
+        "Stroynovtsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726706
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f01a62d54a0b3d007db7754b5395ed76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1210050713,
+            "region_id":85681839
+        }
+    ],
+    "wof:id":1210050713,
+    "wof:lastmodified":1537587327,
+    "wof:name":"Stroynovtsi",
+    "wof:parent_id":85681839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21667,
+    42.98333,
+    26.21667,
+    42.98333
+],
+  "geometry": {"coordinates":[26.21667,42.98333],"type":"Point"}
+}

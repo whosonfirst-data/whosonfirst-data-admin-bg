@@ -1,0 +1,74 @@
+{
+  "id": 1293735551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94495,41.88288,22.94495,41.88288",
+    "geom:latitude":41.88288,
+    "geom:longitude":22.94495,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Stopanska Mahala",
+    "gn:country_code":"BG",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436725,
+    "gn:latitude":41.88288,
+    "gn:longitude":22.94495,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Stopanska Mahala",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Stopanska Mahala"
+    ],
+    "name:bul_x_variant":[
+        "\u0421\u0442\u043e\u043f\u0430\u043d\u0441\u043a\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Stopanska Makhala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436725
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3f59183ee0badb338c40f4100b206072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1293735551,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1293735551,
+    "wof:lastmodified":1537587810,
+    "wof:name":"Stopanska Mahala",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94495,
+    41.88288,
+    22.94495,
+    41.88288
+],
+  "geometry": {"coordinates":[22.94495,41.88288],"type":"Point"}
+}

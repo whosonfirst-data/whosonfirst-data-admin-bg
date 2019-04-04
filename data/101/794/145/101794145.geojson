@@ -1,0 +1,172 @@
+{
+  "id": 101794145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000161,
+    "geom:area_square_m":1477857.887484,
+    "geom:bbox":"27.5147032043,41.9726396471,27.5362901232,41.9876574902",
+    "geom:latitude":41.980215,
+    "geom:longitude":27.524705,
+    "gn:population":3336,
+    "iso:country":"BG",
+    "lbl:latitude":41.981206,
+    "lbl:longitude":27.52307,
+    "mps:latitude":41.981206,
+    "mps:longitude":27.52307,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Malko T\u016drnovo"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u0627\u0644\u06a9\u06c6 \u062a\u0627\u0631\u0646\u06c6\u06a4\u06c6"
+    ],
+    "name:deu_x_preferred":[
+        "Malko Tarnowo"
+    ],
+    "name:eng_x_colloquial":[
+        "Malko Tthrnovo",
+        "Malko Ttrnovo",
+        "Malko-Taernov",
+        "Malko-Tarnov"
+    ],
+    "name:eng_x_preferred":[
+        "Malko Turnovo"
+    ],
+    "name:eng_x_variant":[
+        "Malko Tarnovo",
+        "Malko Tarnowo",
+        "Malko T\u00fernovo",
+        "Malko-Tirnovo",
+        "Malko-Trnovo",
+        "Malko-T\u00e6rnov",
+        "Malkotirnova",
+        "Tirnovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u06a9\u0648 \u062a\u0627\u0631\u0646\u0648\u0641\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Malko Tarnovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b3\u30fb\u30bf\u30eb\u30ce\u30f4\u30a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e-\u0422\u044b\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043b\u043e \u0422\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u0142ko Tyrnowo"
+    ],
+    "name:por_x_preferred":[
+        "Malko T\u0103rnovo"
+    ],
+    "name:ron_x_preferred":[
+        "Malko T\u0103rnovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e-\u0422\u044b\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Malko T\u0103rnovo"
+    ],
+    "name:spa_x_preferred":[
+        "Malko Tarnovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u043e \u0422\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Malko Trnovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e-\u0422\u0438\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Tirnovo"
+    ],
+    "name:vie_x_preferred":[
+        "Malko Tarnovo"
+    ],
+    "name:war_x_preferred":[
+        "Malko Tarnovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u7279\u723e\u8afe\u6c83"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
+    "qs:a1_alt":"Burgas",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041c\u0430\u043b\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+    "qs:la_lc":"*BGBGS1246663",
+    "qs:level":"locality",
+    "qs:loc":"\u041c\u0430\u043b\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+    "qs:loc_alt":"Malko Tarnovo",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":240,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371bb6e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":729322,
+        "gp:id":837928,
+        "qs:id":1028735,
+        "qs_pg:id":1028735,
+        "wd:id":"Q406488",
+        "wk:page":"Malko Tarnovo"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f804e0b60ad3cb2a16c1cf9c74a94992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101794145,
+            "region_id":85681805
+        }
+    ],
+    "wof:id":101794145,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527689318,
+    "wof:name":"\u041c\u0430\u043b\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+    "wof:parent_id":85681805,
+    "wof:placetype":"locality",
+    "wof:population":3336,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51470320434942,
+    41.972639647101,
+    27.53629012319533,
+    41.987657490223
+],
+  "geometry": {"coordinates":[[[27.52711950319576,41.98552932194372],[27.52660262270126,41.98377740866101],[27.52778126502278,41.98356866853641],[27.52726439336476,41.98181675529634],[27.53080018337931,41.98119047321734],[27.53131714934108,41.98294236544632],[27.53249576323026,41.9827335701778],[27.53275427703369,41.98360951017884],[27.53629012319533,41.98298303115075],[27.53577301136283,41.98123117042456],[27.53459443451715,41.98144000354694],[27.53433590942387,41.98056406706922],[27.53315734118411,41.98077288290392],[27.53238187347057,41.97814505251773],[27.53473890855696,41.97772742807797],[27.53448040803147,41.97685148813855],[27.53565889920083,41.97664265874459],[27.53540039303272,41.97576672056607],[27.52950794467802,41.97681071218386],[27.52924952713965,41.97593475475514],[27.52807103186387,41.97614350822477],[27.52703752521472,41.972639647101],[27.52585908568335,41.97284837278363],[27.52611743153756,41.97372434417576],[27.52258202319069,41.97435044902107],[27.52232372447406,41.97347446712905],[27.52114525653337,41.97368313767606],[27.52166183260169,41.97543510671983],[27.52048332613208,41.9756437704815],[27.5209999110175,41.97739573956562],[27.51510711498486,41.97843888659196],[27.5158818320167,41.9810668796631],[27.51470320434942,41.98127547820815],[27.51496144776206,41.98215147591986],[27.5161400911494,41.9819428738756],[27.51691492891933,41.98457084607918],[27.51927228870863,41.9841535796325],[27.52030567240388,41.987657490223],[27.52384184745819,41.98703144514218],[27.52358343926983,41.98615548060639],[27.52711950319576,41.98552932194372]]],"type":"Polygon"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209040465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88119,42.94278,22.88119,42.94278",
+    "geom:latitude":42.94278,
+    "geom:longitude":22.88119,
+    "gn:admin1_code":"58",
+    "gn:admin2_code":"SFO16",
+    "gn:asciiname":"Dragoil",
+    "gn:country_code":"BG",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":731965,
+    "gn:latitude":42.94278,
+    "gn:longitude":22.88119,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Dragoil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0438\u043b"
+    ],
+    "name:und_x_variant":[
+        "Dragbil",
+        "Draguil",
+        "Dragoil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":731965,
+        "wk:page":"Dragoil"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f592cdfca54f84a123b2bcc948506a77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209040465
+        }
+    ],
+    "wof:id":1209040465,
+    "wof:lastmodified":1537587670,
+    "wof:name":"Dragoil",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88119,
+    42.94278,
+    22.88119,
+    42.94278
+],
+  "geometry": {"coordinates":[22.88119,42.94278],"type":"Point"}
+}

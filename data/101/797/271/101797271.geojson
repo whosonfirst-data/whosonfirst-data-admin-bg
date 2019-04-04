@@ -1,0 +1,109 @@
+{
+  "id": 101797271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000116,
+    "geom:area_square_m":1048161.505328,
+    "geom:bbox":"24.0331598067,43.2821567318,24.0562019063,43.2912951473",
+    "geom:latitude":43.286202,
+    "geom:longitude":24.043153,
+    "iso:country":"BG",
+    "lbl:latitude":43.285457,
+    "lbl:longitude":24.042018,
+    "mps:latitude":43.285457,
+    "mps:longitude":24.042018,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u043a"
+    ],
+    "name:chv_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u043a"
+    ],
+    "name:eng_x_preferred":[
+        "Gornik"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u043a"
+    ],
+    "name:nno_x_preferred":[
+        "Gornik Knoll"
+    ],
+    "name:rum_x_preferred":[
+        "Gornik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0438\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Gornik"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u723e\u5c3c\u514b\u7a79\u4e18"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u041f\u043b\u0435\u0432\u0435\u043d",
+    "qs:a1_alt":"Pleven",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u0413\u043e\u0440\u043d\u0438\u043a",
+    "qs:la_lc":"*BGPVN3716540",
+    "qs:level":"locality",
+    "qs:loc":"\u0413\u043e\u0440\u043d\u0438\u043a",
+    "qs:loc_alt":"Gornik",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":158,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0370ff80-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":731209,
+        "gp:id":836529,
+        "qs:id":7,
+        "wd:id":"Q2013801"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"babff11d15de59e8fcb25eff95251ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101797271,
+            "region_id":85681835
+        }
+    ],
+    "wof:id":101797271,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527641530,
+    "wof:name":"\u0413\u043e\u0440\u043d\u0438\u043a",
+    "wof:parent_id":85681835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03315980671476,
+    43.28215673181211,
+    24.05620190625092,
+    43.29129514732455
+],
+  "geometry": {"coordinates":[[[24.0402992252545,43.29079096426642],[24.04008410954299,43.28990631475688],[24.04250977648172,43.28957012687454],[24.04229463454709,43.28868548192651],[24.04714582452567,43.28801294578841],[24.04736103622446,43.288897578942],[24.05099941614822,43.28839301734911],[24.05078415213109,43.28750839304394],[24.05199691563939,43.28734018010277],[24.05156637872733,43.28557093338475],[24.0552045275424,43.28506622618551],[24.05498921977721,43.28418160967283],[24.05620190625092,43.28401334819927],[24.05598658971849,43.28312873330083],[24.04992318271962,43.28396988246675],[24.04949275000189,43.28220061916414],[24.04342936289373,43.2830413802086],[24.04321424670684,43.28215673181211],[24.03836349559975,43.28282907063885],[24.03857854203818,43.28371373082445],[24.03494036156678,43.28421784315344],[24.03558539587078,43.28687184222389],[24.03315980671476,43.28720786305513],[24.03380481427627,43.28986186779713],[24.0350176642695,43.28969385571594],[24.03523270154761,43.29057851834887],[24.03644556280989,43.29041048897267],[24.03666062619106,43.29129514732455],[24.0402992252545,43.29079096426642]]],"type":"Polygon"}
+}

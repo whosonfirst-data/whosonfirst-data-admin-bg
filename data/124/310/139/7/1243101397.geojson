@@ -1,0 +1,76 @@
+{
+  "id": 1243101397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.25,43.53333,26.25,43.53333",
+    "geom:latitude":43.53333,
+    "geom:longitude":26.25,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Zahari-Stoyanovo",
+    "gn:country_code":"BG",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":725456,
+    "gn:latitude":43.53333,
+    "gn:longitude":26.25,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Zahari-Stoyanovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0417\u0430\u0445\u0430\u0440\u0438-\u0421\u0442\u043e\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Zahari-Stoyanovo"
+    ],
+    "name:und_x_variant":[
+        "Omur Bey",
+        "Sachari-Stojanowo",
+        "Zakhari-Stoyanovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":725456
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"ca51f223b3a1c1b87a3dbdb686c799f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1243101397,
+            "region_id":85681839
+        }
+    ],
+    "wof:id":1243101397,
+    "wof:lastmodified":1537587246,
+    "wof:name":"Zahari-Stoyanovo",
+    "wof:parent_id":85681839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.25,
+    43.53333,
+    26.25,
+    43.53333
+],
+  "geometry": {"coordinates":[26.25,43.53333],"type":"Point"}
+}

@@ -1,0 +1,113 @@
+{
+  "id": 101800399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":469347.476489,
+    "geom:bbox":"25.693179477,41.7048801314,25.7020878594,41.714952959",
+    "geom:latitude":41.709855,
+    "geom:longitude":25.698137,
+    "iso:country":"BG",
+    "lbl:latitude":41.709898,
+    "lbl:longitude":25.698204,
+    "mps:latitude":41.709898,
+    "mps:longitude":25.698204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u044f\u0441\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:eng_x_colloquial":[
+        "Pthndthdzhik",
+        "Ptndtdzhik",
+        "Pundudzhik"
+    ],
+    "name:eng_x_preferred":[
+        "Lyaskovets"
+    ],
+    "name:eng_x_variant":[
+        "Leskovets",
+        "Leskowez",
+        "Ljaskovec",
+        "P\u00fend\u00fedzhik"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u044f\u0441\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:rum_x_preferred":[
+        "Leaskove\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0441\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044f\u0441\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
+    "name:unk_x_variant":[
+        "P\u016dnd\u016ddzhik"
+    ],
+    "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:a1":"*\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
+    "qs:a1_alt":"Haskovo",
+    "qs:a1r":"0",
+    "qs:adm0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "qs:la":"\u041b\u044f\u0441\u043a\u043e\u0432\u0435\u0446",
+    "qs:la_lc":"*BGHKV3044803",
+    "qs:level":"locality",
+    "qs:loc":"\u041b\u044f\u0441\u043a\u043e\u0432\u0435\u0446",
+    "qs:loc_alt":"Lyaskovets",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":43.110833,
+    "wd:longitude":25.728056,
+    "wd:wordcount":492,
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"0371abd8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":729490,
+        "gp:id":837799,
+        "qs:id":4,
+        "wd:id":"Q3343385"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"7104e647d95540f84e361f42ba25864e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101800399,
+            "region_id":85681759
+        }
+    ],
+    "wof:id":101800399,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715082,
+    "wof:name":"\u041b\u044f\u0441\u043a\u043e\u0432\u0435\u0446",
+    "wof:parent_id":85681759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69317947699994,
+    41.70488013135008,
+    25.70208785936171,
+    41.7149529589754
+],
+  "geometry": {"coordinates":[[[25.70136961218725,41.71439185403409],[25.70090963210299,41.7126284613023],[25.70208785936171,41.71244140491081],[25.70070803883345,41.70715120814674],[25.69952990719321,41.70733824575387],[25.69907007065831,41.70557482811972],[25.69789196456617,41.7057618456318],[25.69766207568688,41.70488013135008],[25.695305876411,41.70525411861064],[25.69553573342159,41.70613583915133],[25.69317947699994,41.70650977733095],[25.69340931110725,41.70739150257396],[25.69458745841303,41.70720453727262],[25.69619665983669,41.7133765485043],[25.69737491238681,41.71318954745868],[25.69783479683446,41.7149529589754],[25.70136961218725,41.71439185403409]]],"type":"Polygon"}
+}

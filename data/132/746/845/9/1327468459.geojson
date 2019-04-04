@@ -1,0 +1,76 @@
+{
+  "id": 1327468459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30024,43.89944,26.30024,43.89944",
+    "geom:latitude":43.89944,
+    "geom:longitude":26.30024,
+    "gn:admin1_code":"53",
+    "gn:admin2_code":"RSE33",
+    "gn:admin3_code":"RSE33-09",
+    "gn:asciiname":"Stambolovo",
+    "gn:country_code":"BG",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":726886,
+    "gn:latitude":43.89944,
+    "gn:longitude":26.30024,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Stambolovo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Garvan",
+        "Stefan-Stambolowo",
+        "Stefan Stambolovo",
+        "Stambolovo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":726886
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"f2904dde523ce757e9213c5e21b00e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1327468459,
+            "region_id":85681861
+        }
+    ],
+    "wof:id":1327468459,
+    "wof:lastmodified":1537587340,
+    "wof:name":"Stambolovo",
+    "wof:parent_id":85681861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30024,
+    43.89944000000001,
+    26.30024,
+    43.89944000000001
+],
+  "geometry": {"coordinates":[26.30024,43.89944000000001],"type":"Point"}
+}

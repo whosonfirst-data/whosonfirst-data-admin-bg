@@ -1,0 +1,73 @@
+{
+  "id": 1209251161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.27757,41.34729,25.27757,41.34729",
+    "geom:latitude":41.34729,
+    "geom:longitude":25.27757,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ14",
+    "gn:admin3_code":"KRZ14-43",
+    "gn:asciiname":"Chichevo",
+    "gn:country_code":"BG",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":732475,
+    "gn:latitude":41.34729,
+    "gn:longitude":25.27757,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Chichevo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0427\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:und_x_variant":[
+        "Malko",
+        "Tschitschewo",
+        "Kyuchuk",
+        "Ip Dere",
+        "Chichevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":732475
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"3aa1bc9351accebe4aeb282d25b294f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633001,
+            "locality_id":1209251161
+        }
+    ],
+    "wof:id":1209251161,
+    "wof:lastmodified":1537587704,
+    "wof:name":"Chichevo",
+    "wof:parent_id":85633001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27757,
+    41.34729,
+    25.27757,
+    41.34729
+],
+  "geometry": {"coordinates":[25.27757,41.34729],"type":"Point"}
+}

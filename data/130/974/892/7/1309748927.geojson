@@ -1,0 +1,71 @@
+{
+  "id": 1309748927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.67047,41.47963,24.67047,41.47963",
+    "geom:latitude":41.47963,
+    "geom:longitude":24.67047,
+    "gn:admin1_code":"57",
+    "gn:asciiname":"Meshovtsi",
+    "gn:country_code":"BG",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11346002,
+    "gn:latitude":41.47963,
+    "gn:longitude":24.67047,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Meshovtsi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Meshovtsi"
+    ],
+    "name:bul_x_variant":[
+        "\u041c\u0435\u0448\u043e\u0432\u0446\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11346002
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"2570ded6300f5e073683b29ab76e1872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1309748927,
+            "region_id":85681739
+        }
+    ],
+    "wof:id":1309748927,
+    "wof:lastmodified":1537587803,
+    "wof:name":"Meshovtsi",
+    "wof:parent_id":85681739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.67047,
+    41.47963,
+    24.67047,
+    41.47963
+],
+  "geometry": {"coordinates":[24.67047,41.47963],"type":"Point"}
+}

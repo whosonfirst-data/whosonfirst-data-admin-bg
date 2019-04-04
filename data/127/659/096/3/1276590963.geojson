@@ -1,0 +1,77 @@
+{
+  "id": 1276590963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.38333,41.5,23.38333,41.5",
+    "geom:latitude":41.5,
+    "geom:longitude":23.38333,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"BLG40",
+    "gn:asciiname":"Lozenitsa",
+    "gn:cc2":"BG",
+    "gn:country_code":"BG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":729537,
+    "gn:latitude":41.5,
+    "gn:longitude":23.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lozenitsa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Sofia",
+    "iso:country":"BG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0437\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:und_x_variant":[
+        "Dere Mislim",
+        "Loseniza",
+        "Lozenets",
+        "Lozenitsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":729537,
+        "wk:page":"Lozenitsa"
+    },
+    "wof:country":"BG",
+    "wof:geomhash":"c83d92dee698c502e8f29d817b3a2f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":1276590963,
+            "region_id":85681749
+        }
+    ],
+    "wof:id":1276590963,
+    "wof:lastmodified":1537587512,
+    "wof:name":"Lozenitsa",
+    "wof:parent_id":85681749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.38333,
+    41.5,
+    23.38333,
+    41.5
+],
+  "geometry": {"coordinates":[23.38333,41.5],"type":"Point"}
+}
