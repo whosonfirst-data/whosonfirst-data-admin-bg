@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-06-18",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -16,7 +17,7 @@
     "lbl:latitude":42.69392,
     "lbl:longitude":27.70984,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1125776107,
-    "wof:lastmodified":1509391284,
+    "wof:lastmodified":1560899551,
     "wof:name":"Remove This. Found better candidate",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",
