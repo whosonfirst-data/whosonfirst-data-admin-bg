@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
-    "geom:area_square_m":1278270.058592,
+    "geom:area_square_m":1278270.058593,
     "geom:bbox":"25.38975621,41.550754632,25.4059978669,41.5667116627",
     "geom:latitude":41.559184,
     "geom:longitude":25.398188,
@@ -36,9 +36,6 @@
         "Gruewo"
     ],
     "name:ron_x_preferred":[
-        "Gruevo"
-    ],
-    "name:rum_x_preferred":[
         "Gruevo"
     ],
     "name:rus_x_preferred":[
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714814,
+    "wof:lastmodified":1561837454,
     "wof:name":"\u0413\u0440\u0443\u0435\u0432\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

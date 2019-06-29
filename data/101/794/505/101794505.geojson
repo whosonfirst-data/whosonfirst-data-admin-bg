@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
-    "geom:area_square_m":689068.732138,
+    "geom:area_square_m":689068.732139,
     "geom:bbox":"23.7862503984,41.5165556902,23.8019509744,41.5266754527",
     "geom:latitude":41.521649,
     "geom:longitude":23.79502,
@@ -25,7 +25,7 @@
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043f\u0440\u0438\u0432\u043b\u0435\u043d"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u043e\u043f\u0440\u0438\u0432\u043b\u0435\u043d"
     ],
     "name:nno_x_preferred":[
@@ -35,9 +35,6 @@
         "Koprivlen"
     ],
     "name:ron_x_preferred":[
-        "Koprivlen"
-    ],
-    "name:rum_x_preferred":[
         "Koprivlen"
     ],
     "name:rus_x_preferred":[
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":101794505,
-    "wof:lastmodified":1527689315,
+    "wof:lastmodified":1561837453,
     "wof:name":"\u041a\u043e\u043f\u0440\u0438\u0432\u043b\u0435\u043d",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

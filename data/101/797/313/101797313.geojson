@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000333,
-    "geom:area_square_m":2964334.953438,
+    "geom:area_square_m":2964334.953436,
     "geom:bbox":"22.7948965925,43.897973688,22.8291182507,43.927603888",
     "geom:latitude":43.913082,
     "geom:longitude":22.813738,
@@ -23,17 +23,11 @@
     "name:ceb_x_preferred":[
         "Dunavtsi"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u7459\u592b\u9f4a"
-    ],
     "name:ckb_x_preferred":[
         "\u062f\u0648\u0646\u0627\u06a4\u062a\u0633\u06cc"
     ],
     "name:deu_x_preferred":[
         "Dunawzi"
-    ],
-    "name:dut_x_preferred":[
-        "Dunavtsi"
     ],
     "name:eng_x_preferred":[
         "Dunavtsi"
@@ -44,14 +38,11 @@
     "name:fas_x_preferred":[
         "\u062f\u0648\u0646\u0627\u0648\u062a\u0633\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "Dunawzi"
-    ],
     "name:kaz_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0432\u0446\u0438"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0646\u0627\u0648\u062a\u0633\u06cc"
+    "name:nld_x_preferred":[
+        "Dunavtsi"
     ],
     "name:pol_x_preferred":[
         "Dunawci"
@@ -60,9 +51,6 @@
         "Dunavci"
     ],
     "name:ron_x_preferred":[
-        "Dunav\u021bi"
-    ],
-    "name:rum_x_preferred":[
         "Dunav\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641526,
+    "wof:lastmodified":1561837439,
     "wof:name":"\u0414\u0443\u043d\u0430\u0432\u0446\u0438",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

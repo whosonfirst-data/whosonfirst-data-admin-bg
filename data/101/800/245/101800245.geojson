@@ -22,19 +22,19 @@
     "name:eng_x_preferred":[
         "Startsevo"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10e1\u10e2\u10d0\u10e0\u10ea\u10d4\u10d5\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0446\u0435\u0432\u043e_"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Startsevo"
     ],
     "name:pol_x_preferred":[
         "Starcewo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Star\u021bevo"
     ],
     "name:rus_x_preferred":[
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":101800245,
-    "wof:lastmodified":1527715084,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u0421\u0442\u0430\u0440\u0446\u0435\u0432\u043e",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

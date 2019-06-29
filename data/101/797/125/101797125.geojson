@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Zamfirovo"
     ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03bc\u03c6\u03af\u03c1\u03bf\u03b2\u03bf"
+    ],
     "name:eng_x_colloquial":[
         "Gusanci"
     ],
@@ -33,22 +36,13 @@
         "Gushantsi",
         "Gu\u00b5anci"
     ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03bc\u03c6\u03af\u03c1\u03bf\u03b2\u03bf"
-    ],
     "name:kaz_x_preferred":[
         "\u0417\u0430\u043c\u0444\u0438\u0440\u043e\u0432\u043e"
-    ],
-    "name:may_x_preferred":[
-        "Zamfirovo"
     ],
     "name:msa_x_preferred":[
         "Zamfirovo"
     ],
     "name:ron_x_preferred":[
-        "Zamfirovo"
-    ],
-    "name:rum_x_preferred":[
         "Zamfirovo"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837441,
     "wof:name":"\u0417\u0430\u043c\u0444\u0438\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

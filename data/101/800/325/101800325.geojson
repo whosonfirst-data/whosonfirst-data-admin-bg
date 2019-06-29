@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":988656.468761,
+    "geom:area_square_m":988656.46876,
     "geom:bbox":"24.0206126528,41.5804590311,24.0365629264,41.5943717775",
     "geom:latitude":41.58745,
     "geom:longitude":24.028012,
@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Kotschan"
     ],
-    "name:dut_x_preferred":[
-        "Kochan"
-    ],
     "name:eng_x_preferred":[
         "Kochan"
     ],
@@ -40,23 +37,8 @@
     "name:fra_x_preferred":[
         "Kotchan"
     ],
-    "name:fre_x_preferred":[
-        "Kotchan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e9\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kotschan"
-    ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10e9\u10d0\u10dc\u10d8"
-    ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u0447\u0430\u043d"
-    ],
-    "name:may_x_preferred":[
-        "Kochan"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0447\u0430\u043d"
@@ -80,9 +62,6 @@
         "Ko\u010dan"
     ],
     "name:ron_x_preferred":[
-        "Kocean"
-    ],
-    "name:rum_x_preferred":[
         "Kocean"
     ],
     "name:rus_x_preferred":[
@@ -148,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715088,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u041a\u043e\u0447\u0430\u043d",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

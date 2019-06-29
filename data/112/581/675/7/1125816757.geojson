@@ -33,7 +33,7 @@
     "name:pol_x_preferred":[
         "Swesztari"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sve\u0219tari"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125816757,
-    "wof:lastmodified":1513899771,
+    "wof:lastmodified":1561837459,
     "wof:name":"Sveshtari",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

@@ -34,9 +34,6 @@
     "name:ron_x_preferred":[
         "Kitna"
     ],
-    "name:rum_x_preferred":[
-        "Kitna"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0442\u043d\u0430"
     ],
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744716,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u041a\u0438\u0442\u043d\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

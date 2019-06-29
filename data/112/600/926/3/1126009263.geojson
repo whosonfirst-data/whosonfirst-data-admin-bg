@@ -22,16 +22,16 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0435\u0446"
     ],
+    "name:deu_x_preferred":[
+        "Borovec"
+    ],
     "name:eng_x_preferred":[
         "Borovets"
-    ],
-    "name:ger_x_preferred":[
-        "Borovec"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0435\u0446"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Borove\u021b"
     ],
     "name:rus_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1126009263,
-    "wof:lastmodified":1513899765,
+    "wof:lastmodified":1561837460,
     "wof:name":"Borovets",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":1807275.410487,
+    "geom:area_square_m":1807275.410488,
     "geom:bbox":"24.8096648167,42.2267479634,24.8280472221,42.2444215088",
     "geom:latitude":42.23604,
     "geom:longitude":24.819574,
@@ -32,20 +32,11 @@
         "Kalekovec",
         "Kalekowez"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10da\u10d4\u10d9\u10dd\u10d5\u10d4\u10ea\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kalekowez"
-    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10da\u10d4\u10d9\u10dd\u10d5\u10d4\u10ea\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043b\u0435\u043a\u043e\u0432\u0435\u0446"
-    ],
-    "name:may_x_preferred":[
-        "Kalekovets"
     ],
     "name:msa_x_preferred":[
         "Kalekovets"
@@ -54,9 +45,6 @@
         "Kalekowec"
     ],
     "name:ron_x_preferred":[
-        "Kalekove\u021b"
-    ],
-    "name:rum_x_preferred":[
         "Kalekove\u021b"
     ],
     "name:rus_x_preferred":[
@@ -116,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641687,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u041a\u0430\u043b\u0435\u043a\u043e\u0432\u0435\u0446",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Sipey"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10de\u10d4\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10de\u10d4\u10d8"
     ],
@@ -35,9 +32,6 @@
         "Sipej"
     ],
     "name:ron_x_preferred":[
-        "Sipei"
-    ],
-    "name:rum_x_preferred":[
         "Sipei"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":101859025,
-    "wof:lastmodified":1544744702,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0421\u0438\u043f\u0435\u0439",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

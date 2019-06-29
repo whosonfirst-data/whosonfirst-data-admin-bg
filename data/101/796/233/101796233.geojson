@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000507,
-    "geom:area_square_m":4511332.08842,
+    "geom:area_square_m":4511332.088421,
     "geom:bbox":"26.2211111627,43.9803890414,26.2735780041,44.0025441173",
     "geom:latitude":43.991708,
     "geom:longitude":26.245978,
@@ -45,9 +45,6 @@
         "\u0420\u044f\u0445\u043e\u0432\u043e"
     ],
     "name:ron_x_preferred":[
-        "Reahovo"
-    ],
-    "name:rum_x_preferred":[
         "Reahovo"
     ],
     "name:rus_x_preferred":[
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642031,
+    "wof:lastmodified":1561837451,
     "wof:name":"\u0420\u044f\u0445\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

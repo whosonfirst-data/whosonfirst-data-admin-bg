@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
-    "geom:area_square_m":1976483.191581,
+    "geom:area_square_m":1976483.191582,
     "geom:bbox":"24.0479820291,43.3728463144,24.0725182432,43.392474182",
     "geom:latitude":43.382357,
     "geom:longitude":24.060857,
@@ -28,7 +28,7 @@
     "name:pol_x_preferred":[
         "Enica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Eni\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101797241,
-    "wof:lastmodified":1527641529,
+    "wof:lastmodified":1561837440,
     "wof:name":"\u0415\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

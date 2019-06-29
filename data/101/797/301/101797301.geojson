@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000194,
-    "geom:area_square_m":1747003.107126,
+    "geom:area_square_m":1747003.107125,
     "geom:bbox":"26.3163726102,43.1067414256,26.347248271,43.1165998505",
     "geom:latitude":43.111403,
     "geom:longitude":26.330788,
@@ -43,7 +43,7 @@
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043c\u0431\u0443\u0440\u043e\u0432\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kamburovo"
     ],
     "name:rus_x_preferred":[
@@ -102,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641521,
+    "wof:lastmodified":1561837437,
     "wof:name":"\u041a\u0430\u043c\u0431\u0443\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

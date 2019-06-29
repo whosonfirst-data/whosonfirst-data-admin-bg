@@ -35,16 +35,10 @@
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043c\u043e\u0448\u0442\u0438\u0446\u0430"
     ],
-    "name:may_x_preferred":[
-        "Komoshtitsa"
-    ],
     "name:msa_x_preferred":[
         "Komoshtitsa"
     ],
     "name:ron_x_preferred":[
-        "Komo\u0219ti\u021ba"
-    ],
-    "name:rum_x_preferred":[
         "Komo\u0219ti\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -101,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641528,
+    "wof:lastmodified":1561837439,
     "wof:name":"\u041a\u043e\u043c\u043e\u0449\u0438\u0446\u0430",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

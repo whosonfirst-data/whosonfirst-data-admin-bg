@@ -25,7 +25,7 @@
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0441\u0435\u043b\u0446\u0438"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Starosel\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101797207,
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837440,
     "wof:name":"\u0421\u0442\u0430\u0440\u043e\u0441\u0435\u043b\u0446\u0438",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

@@ -33,17 +33,11 @@
         "Tschernogorowo",
         "\u010cernogorovo"
     ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d4\u10e0\u10dc\u10dd\u10d2\u10dd\u10e0\u10dd\u10d5\u10dd"
-    ],
     "name:kat_x_preferred":[
         "\u10e9\u10d4\u10e0\u10dc\u10dd\u10d2\u10dd\u10e0\u10dd\u10d5\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u043e\u0432\u043e"
-    ],
-    "name:may_x_preferred":[
-        "Chernogorovo"
     ],
     "name:msa_x_preferred":[
         "Chernogorovo"
@@ -104,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641686,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

@@ -28,7 +28,7 @@
     "name:pol_x_preferred":[
         "Owosztnik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ovo\u0219tnik"
     ],
     "name:rus_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101798159,
-    "wof:lastmodified":1513899873,
+    "wof:lastmodified":1561837445,
     "wof:name":"\u041e\u0432\u043e\u0449\u043d\u0438\u043a",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

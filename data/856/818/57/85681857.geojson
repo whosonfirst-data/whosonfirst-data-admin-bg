@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.269291,
-    "geom:area_square_m":2409542576.981011,
+    "geom:area_square_m":2409542576.981098,
     "geom:bbox":"26.1533285,43.326412,27.0352505,43.952601",
     "geom:latitude":43.645534,
     "geom:longitude":26.595714,
@@ -24,17 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
-    "name:alb_x_preferred":[
-        "Razgrad"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0631\u0627\u0632\u063a\u0631\u0627\u062f"
-    ],
-    "name:arm_x_preferred":[
-        "\u054c\u0561\u0566\u0563\u0580\u0561\u0564\u056b \u0574\u0561\u0580\u0566"
-    ],
-    "name:baq_x_preferred":[
-        "Razgrad probintzia"
     ],
     "name:bel_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -57,14 +48,8 @@
     "name:ces_x_preferred":[
         "Razgradsk\u00e1 oblast"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5179\u683c\u52d2\u5dde"
-    ],
     "name:ckb_x_preferred":[
         "\u0695\u0627\u0632\u06af\u0631\u0627\u062f"
-    ],
-    "name:cze_x_preferred":[
-        "Razgradsk\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Razgrad"
@@ -72,8 +57,8 @@
     "name:deu_x_preferred":[
         "Oblast Rasgrad"
     ],
-    "name:dut_x_preferred":[
-        "Razgrad"
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03b6\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Razgrad"
@@ -95,18 +80,6 @@
     ],
     "name:fra_x_preferred":[
         "Razgrad"
-    ],
-    "name:fre_x_preferred":[
-        "Razgrad"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10d6\u10d2\u10e0\u10d0\u10d3\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oblast Rasgrad"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03ac\u03b6\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0a9d\u0a97\u0acd\u0ab0\u0ac7\u0aa1 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -156,20 +129,17 @@
     "name:lrc_x_preferred":[
         "\u0631\u0627\u0632\u06af\u0631\u0627\u062f"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0430\u0437\u0433\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u0947\u091c\u0917\u094d\u0930\u0945\u0921 \u092a\u094d\u0930\u093e\u0902\u0924"
-    ],
-    "name:may_x_preferred":[
-        "Razgrad Province"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0440\u0430\u0434 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Razgrad Province"
     ],
     "name:nan_x_preferred":[
         "Razgrad Chiu"
@@ -189,9 +159,6 @@
     "name:oss_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0440\u0430\u0434\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0631\u0627\u0632\u06af\u0631\u0627\u062f"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0631\u0627\u0632\u06af\u0631\u0627\u062f"
     ],
@@ -202,9 +169,6 @@
         "Razgrad"
     ],
     "name:ron_x_preferred":[
-        "Regiunea Razgrad"
-    ],
-    "name:rum_x_preferred":[
         "Regiunea Razgrad"
     ],
     "name:rus_x_preferred":[
@@ -219,9 +183,6 @@
     "name:slk_x_preferred":[
         "Razgrad"
     ],
-    "name:slo_x_preferred":[
-        "Razgrad"
-    ],
     "name:slv_x_preferred":[
         "Razgrad"
     ],
@@ -230,6 +191,9 @@
     ],
     "name:sqi_x_preferred":[
         "Provinca Razgrad"
+    ],
+    "name:sqi_x_variant":[
+        "Razgrad"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
@@ -390,7 +354,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1553814855,
+    "wof:lastmodified":1561837426,
     "wof:name":"\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

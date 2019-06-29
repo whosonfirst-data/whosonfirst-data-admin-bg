@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":658940.423872,
+    "geom:area_square_m":658940.423871,
     "geom:bbox":"27.6433744061,42.64220631,27.6535627745,42.6528826341",
     "geom:latitude":42.647701,
     "geom:longitude":27.648555,
@@ -23,23 +23,20 @@
     "name:bul_x_preferred":[
         "\u0410\u0445\u0435\u043b\u043e\u0439"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u8d6b\u6d1b\u4f0a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aheloy"
     ],
     "name:eng_x_preferred":[
         "Aheloy"
     ],
-    "name:fre_x_preferred":[
-        "Aheloy"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Aheloy"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0445\u0435\u043b\u043e\u0439"
+    ],
+    "name:nld_x_preferred":[
+        "Aheloy"
     ],
     "name:pol_x_preferred":[
         "Ache\u0142oj"
@@ -47,7 +44,7 @@
     "name:por_x_preferred":[
         "Rio Aheloy"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Aheloi"
     ],
     "name:rus_x_preferred":[
@@ -64,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Aheloy"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8d6b\u6d1b\u4f0a"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101798355,
-    "wof:lastmodified":1527641924,
+    "wof:lastmodified":1561837445,
     "wof:name":"\u0410\u0445\u0435\u043b\u043e\u0439",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

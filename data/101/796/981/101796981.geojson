@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1507620.704863,
+    "geom:area_square_m":1507620.704864,
     "geom:bbox":"26.9731140408,42.5167294197,26.9862084373,42.5383876033",
     "geom:latitude":42.526806,
     "geom:longitude":26.979728,
@@ -18,9 +18,6 @@
     "mz:is_current":1,
     "name:bul_x_preferred":[
         "\u0415\u043a\u0437\u0430\u0440\u0445-\u0410\u043d\u0442\u0438\u043c\u043e\u0432\u043e"
-    ],
-    "name:dut_x_preferred":[
-        "Ekzarh Antimovo"
     ],
     "name:eng_x_colloquial":[
         "Aclare",
@@ -44,7 +41,10 @@
     "name:kaz_x_preferred":[
         "\u0415\u043a\u0437\u0430\u0440\u0445-\u0410\u043d\u0442\u0438\u043c\u043e\u0432\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Ekzarh Antimovo"
+    ],
+    "name:ron_x_preferred":[
         "Ekzarh Antimovo"
     ],
     "name:rus_x_preferred":[
@@ -102,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899836,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0415\u043a\u0437\u0430\u0440\u0445 \u0410\u043d\u0442\u0438\u043c\u043e\u0432\u043e",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

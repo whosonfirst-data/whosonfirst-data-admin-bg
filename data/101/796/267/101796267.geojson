@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00022,
-    "geom:area_square_m":1966314.534627,
+    "geom:area_square_m":1966314.534626,
     "geom:bbox":"27.406279781,43.7872751082,27.4240888753,43.8097630166",
     "geom:latitude":43.79836,
     "geom:longitude":27.414561,
@@ -37,9 +37,6 @@
         "Bezmer"
     ],
     "name:ron_x_preferred":[
-        "Bezmer"
-    ],
-    "name:rum_x_preferred":[
         "Bezmer"
     ],
     "name:rus_x_preferred":[
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642031,
+    "wof:lastmodified":1561837451,
     "wof:name":"\u0411\u0435\u0437\u043c\u0435\u0440",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

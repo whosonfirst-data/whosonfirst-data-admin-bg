@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000318,
-    "geom:area_square_m":2844803.876725,
+    "geom:area_square_m":2844803.876724,
     "geom:bbox":"24.6140371992,43.5675750014,24.6434956518,43.5993575935",
     "geom:latitude":43.584241,
     "geom:longitude":24.629333,
@@ -26,16 +26,13 @@
         "Komarewo",
         "Komarovo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Komarevo"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043c\u0430\u0440\u0435\u0432\u043e"
     ],
     "name:ron_x_preferred":[
-        "Komarevo"
-    ],
-    "name:rum_x_preferred":[
         "Komarevo"
     ],
     "name:rus_x_preferred":[
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641524,
+    "wof:lastmodified":1561837438,
     "wof:name":"\u041a\u043e\u043c\u0430\u0440\u0435\u0432\u043e",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

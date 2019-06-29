@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":2406402.30368,
+    "geom:area_square_m":2406402.303681,
     "geom:bbox":"24.8502872912,42.1692959632,24.8751688621,42.1853802471",
     "geom:latitude":42.176761,
     "geom:longitude":24.863017,
@@ -31,7 +31,7 @@
     "name:pol_x_preferred":[
         "Rogosz"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rogo\u0219"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641687,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u0420\u043e\u0433\u043e\u0448",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

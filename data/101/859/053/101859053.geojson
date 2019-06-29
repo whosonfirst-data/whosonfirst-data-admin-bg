@@ -32,9 +32,6 @@
     "name:ron_x_preferred":[
         "Moghileane"
     ],
-    "name:rum_x_preferred":[
-        "Moghileane"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435"
     ],
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744717,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

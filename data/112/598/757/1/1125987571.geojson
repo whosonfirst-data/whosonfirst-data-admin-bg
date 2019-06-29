@@ -27,7 +27,7 @@
     "name:kaz_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0443\u043d\u0430"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kru\u0219una"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125987571,
-    "wof:lastmodified":1513899767,
+    "wof:lastmodified":1561837460,
     "wof:name":"Krushuna",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

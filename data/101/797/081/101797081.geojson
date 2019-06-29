@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000355,
-    "geom:area_square_m":3164060.779104,
+    "geom:area_square_m":3164060.779105,
     "geom:bbox":"23.3382659338,43.7888972475,23.3848767162,43.8075941867",
     "geom:latitude":43.799876,
     "geom:longitude":23.360634,
@@ -26,16 +26,10 @@
         "Kova\u010dica",
         "Kovachitsa"
     ],
-    "name:may_x_preferred":[
-        "Kovachitsa"
-    ],
     "name:msa_x_preferred":[
         "Kovachitsa"
     ],
     "name:ron_x_preferred":[
-        "Kovaci\u021ba"
-    ],
-    "name:rum_x_preferred":[
         "Kovaci\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641529,
+    "wof:lastmodified":1561837440,
     "wof:name":"\u041a\u043e\u0432\u0430\u0447\u0438\u0446\u0430",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

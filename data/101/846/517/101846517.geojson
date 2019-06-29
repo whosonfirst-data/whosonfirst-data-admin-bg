@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1736721.178663,
+    "geom:area_square_m":1736721.178662,
     "geom:bbox":"27.6606416854,43.8374002056,27.6823901665,43.8520685871",
     "geom:latitude":43.845605,
     "geom:longitude":27.670861,
@@ -39,9 +39,6 @@
         "\u0422\u0435\u043b\u0435\u0440\u0438\u0433"
     ],
     "name:ron_x_preferred":[
-        "Telerig"
-    ],
-    "name:rum_x_preferred":[
         "Telerig"
     ],
     "name:rus_x_preferred":[
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714709,
+    "wof:lastmodified":1561837454,
     "wof:name":"\u0422\u0435\u043b\u0435\u0440\u0438\u0433",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

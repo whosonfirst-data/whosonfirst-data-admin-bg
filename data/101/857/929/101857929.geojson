@@ -28,9 +28,6 @@
     "name:ron_x_preferred":[
         "Lakatnik"
     ],
-    "name:rum_x_preferred":[
-        "Lakatnik"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a"
     ],
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744150,
+    "wof:lastmodified":1561837453,
     "wof:name":"\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

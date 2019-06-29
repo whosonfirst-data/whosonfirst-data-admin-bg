@@ -22,28 +22,19 @@
     "name:bul_x_variant":[
         "Mihaylovo"
     ],
-    "name:dut_x_preferred":[
-        "Mihaylovo"
-    ],
     "name:eng_x_preferred":[
         "Mihaylovo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d8\u10ee\u10d0\u10d8\u10da\u10dd\u10d5\u10dd"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10ee\u10d0\u10d8\u10da\u10dd\u10d5\u10dd"
     ],
-    "name:may_x_preferred":[
-        "Mihaylovo"
-    ],
     "name:msa_x_preferred":[
         "Mihaylovo"
     ],
-    "name:ron_x_preferred":[
-        "Mihailovo"
+    "name:nld_x_preferred":[
+        "Mihaylovo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mihailovo"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +89,7 @@
         }
     ],
     "wof:id":101797051,
-    "wof:lastmodified":1527641532,
+    "wof:lastmodified":1561837441,
     "wof:name":"\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

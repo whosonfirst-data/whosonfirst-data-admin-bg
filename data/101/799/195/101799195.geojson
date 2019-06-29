@@ -55,9 +55,6 @@
     "name:ron_x_preferred":[
         "Iab\u0103lkovo"
     ],
-    "name:rum_x_preferred":[
-        "Iab\u0103lkovo"
-    ],
     "name:rus_x_preferred":[
         "\u042f\u0431\u044b\u043b\u043a\u043e\u0432\u043e"
     ],
@@ -115,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641681,
+    "wof:lastmodified":1561837442,
     "wof:name":"\u042f\u0431\u044a\u043b\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

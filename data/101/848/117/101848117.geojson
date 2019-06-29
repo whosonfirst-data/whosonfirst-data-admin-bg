@@ -25,9 +25,6 @@
     "name:eng_x_preferred":[
         "Stremtsi"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e2\u10e0\u10d4\u10db\u10ea\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10e1\u10e2\u10e0\u10d4\u10db\u10ea\u10d8"
     ],
@@ -35,9 +32,6 @@
         "\u0421\u0442\u0440\u0435\u043c\u0446\u0438"
     ],
     "name:ron_x_preferred":[
-        "Strem\u021bi"
-    ],
-    "name:rum_x_preferred":[
         "Strem\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":101848117,
-    "wof:lastmodified":1527714814,
+    "wof:lastmodified":1561837454,
     "wof:name":"\u0421\u0442\u0440\u0435\u043c\u0446\u0438",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

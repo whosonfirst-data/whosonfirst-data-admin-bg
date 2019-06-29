@@ -30,7 +30,7 @@
     "name:pol_x_preferred":[
         "Gorno pole"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gorno Pole"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125962805,
-    "wof:lastmodified":1513899766,
+    "wof:lastmodified":1561837459,
     "wof:name":"Gorno Pole",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

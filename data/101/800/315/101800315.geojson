@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
-    "geom:area_square_m":319564.393956,
+    "geom:area_square_m":319564.393957,
     "geom:bbox":"24.060876381,41.5908366881,24.0685180856,41.6007043894",
     "geom:latitude":41.595468,
     "geom:longitude":24.06433,
@@ -29,20 +29,11 @@
         "Marulevo",
         "Marulewo"
     ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10d9\u10da\u10d8\u10dc\u10dd\u10d5\u10dd"
-    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10d9\u10da\u10d8\u10dc\u10dd\u10d5\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u0412\u0430\u043a\u043b\u0438\u043d\u043e\u0432\u043e"
-    ],
-    "name:mac_x_preferred":[
-        "\u0412\u0430\u043a\u043b\u0438\u043d\u043e\u0432\u043e"
-    ],
-    "name:may_x_preferred":[
-        "Vaklinovo"
     ],
     "name:mkd_x_preferred":[
         "\u0412\u0430\u043a\u043b\u0438\u043d\u043e\u0432\u043e"
@@ -51,9 +42,6 @@
         "Vaklinovo"
     ],
     "name:ron_x_preferred":[
-        "Vaklinovo"
-    ],
-    "name:rum_x_preferred":[
         "Vaklinovo"
     ],
     "name:rus_x_preferred":[
@@ -113,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715087,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u0412\u0430\u043a\u043b\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

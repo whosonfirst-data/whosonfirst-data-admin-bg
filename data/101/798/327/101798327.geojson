@@ -42,9 +42,6 @@
     "name:ron_x_preferred":[
         "Zaicear"
     ],
-    "name:rum_x_preferred":[
-        "Zaicear"
-    ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0439\u0447\u0430\u0440"
     ],
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641934,
+    "wof:lastmodified":1561837450,
     "wof:name":"\u0417\u0430\u0439\u0447\u0430\u0440",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

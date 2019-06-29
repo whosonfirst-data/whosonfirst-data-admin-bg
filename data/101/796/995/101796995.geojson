@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000711,
-    "geom:area_square_m":6489960.250875,
+    "geom:area_square_m":6489960.250866,
     "geom:bbox":"27.255814353,42.3711294218,27.3289458977,42.4054572785",
     "geom:latitude":42.387138,
     "geom:longitude":27.286571,
@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Debelt"
     ],
-    "name:dut_x_preferred":[
-        "Debelt"
-    ],
     "name:eng_x_colloquial":[
         "Jakezlu",
         "Jakezlue"
@@ -44,13 +41,7 @@
         "Yakezlii",
         "Yakezliy"
     ],
-    "name:fre_x_preferred":[
-        "Debelt"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10d1\u10d4\u10da\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Debelt"
     ],
     "name:kat_x_preferred":[
@@ -59,19 +50,16 @@
     "name:kaz_x_preferred":[
         "\u0414\u0435\u0431\u0435\u043b\u0442"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Debelt"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Debelt"
     ],
     "name:por_x_preferred":[
         "Debelt"
     ],
     "name:ron_x_preferred":[
-        "Debelt"
-    ],
-    "name:rum_x_preferred":[
         "Debelt"
     ],
     "name:rus_x_preferred":[
@@ -135,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642033,
+    "wof:lastmodified":1561837451,
     "wof:name":"\u0414\u0435\u0431\u0435\u043b\u0442",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

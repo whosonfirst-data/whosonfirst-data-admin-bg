@@ -24,25 +24,25 @@
     "name:eng_x_preferred":[
         "Shiroka luka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chiroka laka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d8\u10e0\u10dd\u10d9\u10d0-\u10da\u10d8\u10d9\u10d0"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d9\u05e8\u05d5\u05e7\u05d4 \u05dc\u05e7\u05d4"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10e0\u10dd\u10d9\u10d0-\u10da\u10d8\u10d9\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u0428\u0438\u0440\u043e\u043a\u0430-\u041b\u044b\u043a\u0430"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0428\u0438\u0440\u043e\u043a\u0430 \u041b\u0430\u043a\u0430"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Shiroka Laka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0218iroka L\u0103ka"
     ],
     "name:rus_x_preferred":[
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125912745,
-    "wof:lastmodified":1553816623,
+    "wof:lastmodified":1561837460,
     "wof:name":"Shiroka Luka",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

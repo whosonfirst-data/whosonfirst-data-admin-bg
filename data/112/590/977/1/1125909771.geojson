@@ -27,7 +27,7 @@
     "name:kaz_x_preferred":[
         "\u041f\u0430\u0441\u0442\u0443\u0445"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pastuh"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125909771,
-    "wof:lastmodified":1553816619,
+    "wof:lastmodified":1561837459,
     "wof:name":"Pastukh",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

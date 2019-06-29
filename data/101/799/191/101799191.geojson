@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000062,
-    "geom:area_square_m":569143.310446,
+    "geom:area_square_m":569143.310447,
     "geom:bbox":"23.0792538411,42.2151297465,23.0926051853,42.2300122221",
     "geom:latitude":42.223254,
     "geom:longitude":23.08551,
@@ -26,9 +26,6 @@
         "\u0414\u0436\u0435\u0440\u043c\u0430\u043d"
     ],
     "name:ron_x_preferred":[
-        "Djerman"
-    ],
-    "name:rum_x_preferred":[
         "Djerman"
     ],
     "name:rus_x_preferred":[
@@ -84,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641688,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u0414\u0436\u0435\u0440\u043c\u0430\u043d",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

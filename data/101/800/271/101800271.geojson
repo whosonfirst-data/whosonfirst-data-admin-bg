@@ -35,9 +35,6 @@
     "name:ron_x_preferred":[
         "Zvezdel"
     ],
-    "name:rum_x_preferred":[
-        "Zvezdel"
-    ],
     "name:rus_x_preferred":[
         "\u0417\u0432\u0435\u0437\u0434\u0435\u043b"
     ],
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715091,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0417\u0432\u0435\u0437\u0434\u0435\u043b",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

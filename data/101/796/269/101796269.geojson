@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000189,
-    "geom:area_square_m":1686850.703151,
+    "geom:area_square_m":1686850.703153,
     "geom:bbox":"27.7176937311,43.7481115866,27.7341225987,43.7751152729",
     "geom:latitude":43.760476,
     "geom:longitude":27.72537,
@@ -46,9 +46,6 @@
         "\u0141ozenec"
     ],
     "name:ron_x_preferred":[
-        "Lozene\u021b"
-    ],
-    "name:rum_x_preferred":[
         "Lozene\u021b"
     ],
     "name:rus_x_preferred":[
@@ -113,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642031,
+    "wof:lastmodified":1561837451,
     "wof:name":"\u041b\u043e\u0437\u0435\u043d\u0435\u0446",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

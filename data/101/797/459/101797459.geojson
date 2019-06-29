@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000162,
-    "geom:area_square_m":1457381.618414,
+    "geom:area_square_m":1457381.618413,
     "geom:bbox":"26.6696737908,43.4521688125,26.6964304983,43.4638500293",
     "geom:latitude":43.457314,
     "geom:longitude":26.683799,
@@ -35,7 +35,7 @@
     "name:pol_x_preferred":[
         "Weselina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Veselina"
     ],
     "name:rus_x_preferred":[
@@ -91,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837441,
     "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0438\u043d\u0430",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

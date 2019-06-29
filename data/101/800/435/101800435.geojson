@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000181,
-    "geom:area_square_m":1657570.058821,
+    "geom:area_square_m":1657570.058823,
     "geom:bbox":"24.6972569661,42.0554350837,24.7159155024,42.0738047389",
     "geom:latitude":42.06345,
     "geom:longitude":24.704658,
@@ -28,7 +28,7 @@
     "name:pol_x_preferred":[
         "Markowo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Markovo"
     ],
     "name:rus_x_preferred":[
@@ -84,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715093,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u041c\u0430\u0440\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

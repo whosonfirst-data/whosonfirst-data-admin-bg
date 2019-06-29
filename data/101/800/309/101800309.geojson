@@ -25,20 +25,11 @@
     "name:eng_x_preferred":[
         "Pletena"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10da\u10d4\u10e2\u10d4\u10dc\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10de\u10da\u10d4\u10e2\u10d4\u10dc\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u043b\u0435\u0442\u0435\u043d\u0430"
-    ],
-    "name:mac_x_preferred":[
-        "\u041f\u043b\u0435\u0442\u0435\u043d\u0430"
-    ],
-    "name:may_x_preferred":[
-        "Pletena"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u043b\u0435\u0442\u0435\u043d\u0430"
@@ -47,9 +38,6 @@
         "Pletena"
     ],
     "name:ron_x_preferred":[
-        "Pletena"
-    ],
-    "name:rum_x_preferred":[
         "Pletena"
     ],
     "name:rus_x_preferred":[
@@ -109,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715081,
+    "wof:lastmodified":1561837454,
     "wof:name":"\u041f\u043b\u0435\u0442\u0435\u043d\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

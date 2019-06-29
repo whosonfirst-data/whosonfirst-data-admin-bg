@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
-    "geom:area_square_m":449360.50536,
+    "geom:area_square_m":449360.505361,
     "geom:bbox":"23.1226628521,41.8556833259,23.1317698661,41.8644604313",
     "geom:latitude":41.859839,
     "geom:longitude":23.12691,
@@ -28,9 +28,6 @@
     "name:kaz_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0438\u0447\u0435"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u0435\u0440\u043d\u0438\u0447\u0435"
-    ],
     "name:mkd_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0438\u0447\u0435"
     ],
@@ -38,9 +35,6 @@
         "Czernicze"
     ],
     "name:ron_x_preferred":[
-        "Cernice"
-    ],
-    "name:rum_x_preferred":[
         "Cernice"
     ],
     "name:rus_x_preferred":[
@@ -97,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715092,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0427\u0435\u0440\u043d\u0438\u0447\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

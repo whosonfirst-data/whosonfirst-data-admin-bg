@@ -22,22 +22,19 @@
     "name:ceb_x_preferred":[
         "Kokalyane"
     ],
-    "name:dut_x_preferred":[
-        "Kokalyane"
-    ],
     "name:eng_x_preferred":[
         "Kokalyane"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043a\u0430\u043b\u044f\u043d\u0435"
     ],
+    "name:nld_x_preferred":[
+        "Kokalyane"
+    ],
     "name:pol_x_preferred":[
         "Kokalane"
     ],
     "name:ron_x_preferred":[
-        "Kokaleane"
-    ],
-    "name:rum_x_preferred":[
         "Kokaleane"
     ],
     "name:rus_x_preferred":[
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":101799313,
-    "wof:lastmodified":1527641687,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u041a\u043e\u043a\u0430\u043b\u044f\u043d\u0435",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

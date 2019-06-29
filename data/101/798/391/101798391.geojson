@@ -23,14 +23,8 @@
     "name:ceb_x_preferred":[
         "Byala Cherkva"
     ],
-    "name:chi_x_preferred":[
-        "\u767d\u5207\u723e\u514b\u74e6"
-    ],
     "name:ckb_x_preferred":[
         "\u0628\u06cc\u0627\u0644\u0627 \u0686\u06ce\u0631\u06a9\u06a4\u0627"
-    ],
-    "name:dut_x_preferred":[
-        "Byala Cherkva"
     ],
     "name:eng_x_colloquial":[
         "Bela Cerkva",
@@ -61,8 +55,8 @@
     "name:kaz_x_preferred":[
         "\u0411\u044f\u043b\u0430-\u0427\u0435\u0440\u043a\u0432\u0430"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0627\u0644\u0627 \u0686\u0631\u06a9\u0648\u0627"
+    "name:nld_x_preferred":[
+        "Byala Cherkva"
     ],
     "name:por_x_preferred":[
         "Bjala \u010derkva"
@@ -70,16 +64,13 @@
     "name:ron_x_preferred":[
         "Beala Cerkva"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Biala Cerkva"
     ],
     "name:rus_x_preferred":[
         "\u0411\u044f\u043b\u0430-\u0427\u0435\u0440\u043a\u0432\u0430"
     ],
     "name:slk_x_preferred":[
-        "Biala \u010cerkva"
-    ],
-    "name:slo_x_preferred":[
         "Biala \u010cerkva"
     ],
     "name:spa_x_preferred":[
@@ -158,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641923,
+    "wof:lastmodified":1561837445,
     "wof:name":"\u0411\u044f\u043b\u0430 \u0447\u0435\u0440\u043a\u0432\u0430",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

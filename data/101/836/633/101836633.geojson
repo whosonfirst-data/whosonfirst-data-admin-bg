@@ -19,9 +19,6 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0432\u0435\u0434\u0430\u0440\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Govedare"
-    ],
     "name:eng_x_colloquial":[
         "Stgtrdzhik",
         "Sthgthrdzhik",
@@ -38,7 +35,10 @@
     "name:kaz_x_preferred":[
         "\u0413\u043e\u0432\u0435\u0434\u0430\u0440\u0435"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Govedare"
+    ],
+    "name:ron_x_preferred":[
         "Govedare"
     ],
     "name:rus_x_preferred":[
@@ -100,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715151,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u0413\u043e\u0432\u0435\u0434\u0430\u0440\u0435",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

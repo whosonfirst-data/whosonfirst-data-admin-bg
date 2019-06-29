@@ -27,7 +27,7 @@
     "name:kaz_x_preferred":[
         "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Progled"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1125816717,
-    "wof:lastmodified":1513899769,
+    "wof:lastmodified":1561837459,
     "wof:name":"Progled",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

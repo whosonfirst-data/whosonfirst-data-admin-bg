@@ -25,9 +25,6 @@
     "name:eng_x_preferred":[
         "Rezbartsi"
     ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d4\u10d6\u10d1\u10d0\u10e0\u10ea\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d4\u10d6\u10d1\u10d0\u10e0\u10ea\u10d8"
     ],
@@ -35,9 +32,6 @@
         "\u0420\u0435\u0437\u0431\u0430\u0440\u0446\u0438"
     ],
     "name:ron_x_preferred":[
-        "Rezbar\u021bi"
-    ],
-    "name:rum_x_preferred":[
         "Rezbar\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":101859027,
-    "wof:lastmodified":1544744703,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0420\u0435\u0437\u0431\u0430\u0440\u0446\u0438",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

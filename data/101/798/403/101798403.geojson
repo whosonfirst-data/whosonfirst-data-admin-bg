@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":2465762.500731,
+    "geom:area_square_m":2465762.500732,
     "geom:bbox":"25.5923064463,43.1328090614,25.6154580405,43.150845948",
     "geom:latitude":43.140949,
     "geom:longitude":25.604181,
@@ -22,16 +22,10 @@
     "name:ceb_x_preferred":[
         "Samovodene"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u83ab\u6c83\u4ee3\u5167"
-    ],
     "name:eng_x_preferred":[
         "Samovodene"
     ],
     "name:fra_x_preferred":[
-        "Samovodene"
-    ],
-    "name:fre_x_preferred":[
         "Samovodene"
     ],
     "name:hun_x_preferred":[
@@ -41,9 +35,6 @@
         "\u0421\u0430\u043c\u043e\u0432\u043e\u0434\u0435\u043d\u0435"
     ],
     "name:ron_x_preferred":[
-        "Samovodene"
-    ],
-    "name:rum_x_preferred":[
         "Samovodene"
     ],
     "name:rus_x_preferred":[
@@ -104,7 +95,7 @@
         }
     ],
     "wof:id":101798403,
-    "wof:lastmodified":1527641934,
+    "wof:lastmodified":1561837450,
     "wof:name":"\u0421\u0430\u043c\u043e\u0432\u043e\u0434\u0435\u043d\u0435",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

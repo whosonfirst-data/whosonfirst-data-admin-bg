@@ -36,9 +36,6 @@
     "name:ron_x_preferred":[
         "Goleama Cinka"
     ],
-    "name:rum_x_preferred":[
-        "Goleama Cinka"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u043b\u044f\u043c\u0430-\u0427\u0438\u043d\u043a\u0430"
     ],
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744713,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0413\u043e\u043b\u044f\u043c\u0430 \u0447\u0438\u043d\u043a\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

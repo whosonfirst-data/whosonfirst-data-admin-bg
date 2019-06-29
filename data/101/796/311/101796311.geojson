@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000294,
-    "geom:area_square_m":2614964.344459,
+    "geom:area_square_m":2614964.344461,
     "geom:bbox":"26.8127605105,43.9851614315,26.8411036396,44.0059885908",
     "geom:latitude":43.996434,
     "geom:longitude":26.82539,
@@ -36,7 +36,7 @@
     "name:kaz_x_preferred":[
         "\u0417\u0430\u0444\u0438\u0440\u043e\u0432\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zafirovo"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642038,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0417\u0430\u0444\u0438\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

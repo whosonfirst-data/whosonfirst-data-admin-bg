@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00032,
-    "geom:area_square_m":2885038.987943,
+    "geom:area_square_m":2885038.987944,
     "geom:bbox":"27.0189124814,43.1245680161,27.0464740242,43.1605927726",
     "geom:latitude":43.141617,
     "geom:longitude":27.033465,
@@ -47,7 +47,7 @@
     "name:pol_x_preferred":[
         "Iwanski"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ivanski"
     ],
     "name:rus_x_preferred":[
@@ -102,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899839,
+    "wof:lastmodified":1561837449,
     "wof:name":"\u0418\u0432\u0430\u043d\u0441\u043a\u0438",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

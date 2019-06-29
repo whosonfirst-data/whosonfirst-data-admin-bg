@@ -44,9 +44,6 @@
     "name:ron_x_preferred":[
         "B\u0103lgarski Izvor"
     ],
-    "name:rum_x_preferred":[
-        "B\u0103lgarski Izvor"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438-\u0418\u0437\u0432\u043e\u0440"
     ],
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641935,
+    "wof:lastmodified":1561837450,
     "wof:name":"\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

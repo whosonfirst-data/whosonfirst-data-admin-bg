@@ -31,17 +31,11 @@
         "End\u017ee",
         "Zarew-Brod"
     ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d0\u10e0\u10d4\u10d5-\u10d1\u10e0\u10dd\u10d3\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10ea\u10d0\u10e0\u10d4\u10d5-\u10d1\u10e0\u10dd\u10d3\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0426\u0430\u0440\u0435\u0432-\u0411\u0440\u043e\u0434"
-    ],
-    "name:may_x_preferred":[
-        "Tsarev Brod"
     ],
     "name:msa_x_preferred":[
         "Tsarev Brod"
@@ -50,9 +44,6 @@
         "Carew brod"
     ],
     "name:ron_x_preferred":[
-        "\u021aarev Brod"
-    ],
-    "name:rum_x_preferred":[
         "\u021aarev Brod"
     ],
     "name:rus_x_preferred":[
@@ -109,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641532,
+    "wof:lastmodified":1561837441,
     "wof:name":"\u0426\u0430\u0440\u0435\u0432 \u0431\u0440\u043e\u0434",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

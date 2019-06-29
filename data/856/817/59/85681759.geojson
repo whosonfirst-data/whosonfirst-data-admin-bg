@@ -24,17 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
-    "name:alb_x_preferred":[
-        "Haskovo"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062e\u0627\u0633\u0643\u0648\u0641\u0648"
-    ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u057d\u056f\u0578\u057e\u0578\u0575\u056b \u0574\u0561\u0580\u0566"
-    ],
-    "name:baq_x_preferred":[
-        "Haskovo probintzia"
     ],
     "name:bel_x_preferred":[
         "\u0425\u0430\u0441\u043a\u0430\u045e\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -53,17 +44,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Kh\u00e0skovo"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u65af\u79d1\u6c83\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chaskovsk\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Haskovo"
     ],
-    "name:dut_x_preferred":[
-        "Chaskovo"
+    "name:deu_x_preferred":[
+        "Oblast Chaskowo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03ac\u03c3\u03ba\u03bf\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
         "Khaskovo"
@@ -74,20 +65,17 @@
     "name:est_x_preferred":[
         "Haskovo piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Haskovo probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0627\u0633\u06a9\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Haskovon alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Khaskovo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10e1\u10d9\u10dd\u10d5\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oblast Chaskowo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03ac\u03c3\u03ba\u03bf\u03b2\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ab8\u0acd\u0a95\u0acb\u0ab5\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -104,6 +92,9 @@
     "name:hun_x_preferred":[
         "Haszkovo megye"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u057d\u056f\u0578\u057e\u0578\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Haskovo"
     ],
@@ -115,6 +106,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb9\u0cb8\u0ccd\u0c95\u0cca\u0cb5\u0cca \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10e1\u10d9\u10dd\u10d5\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud558\uc2a4\ucf54\ubcf4 \uc8fc"
@@ -131,20 +125,23 @@
     "name:lrc_x_preferred":[
         "\u062e\u0627\u0633\u06a9\u0648\u0648"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0430\u0441\u043a\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0938\u094d\u0938\u094d\u0915\u094b\u0935\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Haskovo Province"
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0441\u043a\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u043e \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Haskovo Province"
+    ],
     "name:nan_x_preferred":[
         "Haskovo Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Chaskovo"
     ],
     "name:nob_x_preferred":[
         "Haskovo oblast"
@@ -155,9 +152,6 @@
     "name:oss_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u043e\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0627\u0633\u06a9\u0648\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06c1\u0633\u06a9\u0648\u0648\u0627"
     ],
@@ -167,7 +161,7 @@
     "name:por_x_preferred":[
         "Haskovo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Haskovo"
     ],
     "name:rus_x_preferred":[
@@ -179,13 +173,16 @@
     "name:sin_x_preferred":[
         "\u0dc4\u0dc3\u0dca\u0d9a\u0ddc\u0dc0\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Chaskovo"
     ],
     "name:slv_x_preferred":[
         "Haskovo"
     ],
     "name:spa_x_preferred":[
+        "Haskovo"
+    ],
+    "name:sqi_x_preferred":[
         "Haskovo"
     ],
     "name:srp_x_preferred":[
@@ -223,6 +220,9 @@
     ],
     "name:war_x_preferred":[
         "Haskovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u65af\u79d1\u6c83\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BGR",
@@ -340,7 +340,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1553550674,
+    "wof:lastmodified":1561837428,
     "wof:name":"\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

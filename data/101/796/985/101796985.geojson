@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000186,
-    "geom:area_square_m":1697326.509819,
+    "geom:area_square_m":1697326.509818,
     "geom:bbox":"27.2323276608,42.5063720167,27.2528082117,42.5206964023",
     "geom:latitude":42.513946,
     "geom:longitude":27.241247,
@@ -38,9 +38,6 @@
         "Ravnec",
         "Rawnez"
     ],
-    "name:ger_x_preferred":[
-        "Rawnez"
-    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30f4\u30cd\u30c4"
     ],
@@ -51,9 +48,6 @@
         "Rawnec"
     ],
     "name:ron_x_preferred":[
-        "Ravne\u021b"
-    ],
-    "name:rum_x_preferred":[
         "Ravne\u021b"
     ],
     "name:rus_x_preferred":[
@@ -110,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837451,
     "wof:name":"\u0420\u0430\u0432\u043d\u0435\u0446",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -32,9 +32,6 @@
     "name:fra_x_preferred":[
         "Iskrets"
     ],
-    "name:fre_x_preferred":[
-        "Iskrets"
-    ],
     "name:jpn_x_preferred":[
         "\u30a4\u30b9\u30af\u30ec\u30c4"
     ],
@@ -45,9 +42,6 @@
         "Iskrec"
     ],
     "name:ron_x_preferred":[
-        "Iskre\u021b"
-    ],
-    "name:rum_x_preferred":[
         "Iskre\u021b"
     ],
     "name:rus_x_preferred":[
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":101857931,
-    "wof:lastmodified":1544744151,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0418\u0441\u043a\u0440\u0435\u0446",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

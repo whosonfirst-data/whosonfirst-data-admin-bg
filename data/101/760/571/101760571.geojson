@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":1752568.522922,
+    "geom:area_square_m":1752568.522921,
     "geom:bbox":"25.3633758957,41.5975242198,25.3909031147,41.6183428165",
     "geom:latitude":41.609071,
     "geom:longitude":25.37625,
@@ -19,14 +19,8 @@
     "name:bul_x_preferred":[
         "\u0410\u0439\u0440\u043e\u0432\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Ayrovo"
-    ],
     "name:eng_x_preferred":[
         "Ayrovo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d8\u10e0\u10dd\u10d5\u10dd"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10d8\u10e0\u10dd\u10d5\u10dd"
@@ -41,9 +35,6 @@
         "Ajrowo"
     ],
     "name:ron_x_preferred":[
-        "Airovo"
-    ],
-    "name:rum_x_preferred":[
         "Airovo"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +86,7 @@
         }
     ],
     "wof:id":101760571,
-    "wof:lastmodified":1527689337,
+    "wof:lastmodified":1561837453,
     "wof:name":"\u0410\u0439\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

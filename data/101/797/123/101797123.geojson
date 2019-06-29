@@ -33,16 +33,10 @@
         "Smoljanowzi",
         "Smolyanovci"
     ],
-    "name:may_x_preferred":[
-        "Smolyanovtsi"
-    ],
     "name:msa_x_preferred":[
         "Smolyanovtsi"
     ],
     "name:ron_x_preferred":[
-        "Smoleanov\u021bi"
-    ],
-    "name:rum_x_preferred":[
         "Smoleanov\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -101,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641532,
+    "wof:lastmodified":1561837441,
     "wof:name":"\u0421\u043c\u043e\u043b\u044f\u043d\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

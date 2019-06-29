@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.516073,
-    "geom:area_square_m":4652657477.869254,
+    "geom:area_square_m":4652657477.869188,
     "geom:bbox":"25.074075,42.7772275,26.1741785,43.655672",
     "geom:latitude":43.188375,
     "geom:longitude":25.63072,
@@ -24,17 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
-    "name:alb_x_preferred":[
-        "Veliko T\u0103rnovo"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0648\u0644\u064a\u0643\u0648 \u062a\u0627\u0631\u0646\u0648\u0648"
-    ],
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u056c\u056b\u056f\u0578 \u054f\u056b\u0580\u0576\u0578\u057e\u0578\u0575\u056b \u0574\u0561\u0580\u0566"
-    ],
-    "name:baq_x_preferred":[
-        "Veliko Tarnovo probintzia"
     ],
     "name:bel_x_preferred":[
         "\u0412\u044f\u043b\u0456\u043a\u0430\u0442\u044b\u0440\u043d\u043e\u045e\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -54,20 +45,20 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Veliko Tarnovo"
     ],
-    "name:chi_x_preferred":[
-        "\u5927\u7279\u723e\u8afe\u6c83\u5dde"
+    "name:ces_x_preferred":[
+        "Velikotarnovsk\u00e1 oblast"
     ],
     "name:chv_x_preferred":[
         "\u0410\u0441\u043b\u0103 \u0422\u044b\u0440\u043d\u043e\u0432\u043e \u043e\u0431\u043b\u0430\u00e7\u0115"
     ],
-    "name:cze_x_preferred":[
-        "Velikotarnovsk\u00e1 oblast"
-    ],
     "name:dan_x_preferred":[
         "Veliko Tarnovo"
     ],
-    "name:dut_x_preferred":[
-        "Veliko Tarnovo"
+    "name:deu_x_preferred":[
+        "Oblast Weliko Tarnowo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0392\u03ad\u03bb\u03b9\u03ba\u03bf \u03a4\u03ac\u03c1\u03bd\u03bf\u03b2\u03bf"
     ],
     "name:eng_x_preferred":[
         "Veliko Turnovo"
@@ -78,20 +69,17 @@
     "name:est_x_preferred":[
         "Veliko T\u0103rnovo piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Veliko Tarnovo probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0644\u06cc\u06a9\u0648 \u062a\u0631\u0646\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Veliko T\u0103rnovon alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Veliko Tarnovo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10da\u10d8\u10d9\u10dd-\u10e2\u10d8\u10e0\u10dc\u10dd\u10d5\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oblast Weliko Tarnowo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0392\u03ad\u03bb\u03b9\u03ba\u03bf \u03a4\u03ac\u03c1\u03bd\u03bf\u03b2\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab2\u0abf\u0a95\u0acb \u0a9f\u0ab0\u0acd\u0aa8\u0acb\u0ab5\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -105,6 +93,9 @@
     "name:hrv_x_preferred":[
         "Oblast Veliko Trnovo"
     ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u056c\u056b\u056f\u0578 \u054f\u056b\u0580\u0576\u0578\u057e\u0578\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Veliko Tarnovo"
     ],
@@ -116,6 +107,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb5\u0cc6\u0cb2\u0cbf\u0c95\u0cca \u0c9f\u0cb0\u0ccd\u0ca8\u0ccb\u0cb5\u0cca \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10da\u10d8\u10d9\u10dd-\u10e2\u10d8\u10e0\u10dc\u10dd\u10d5\u10dd\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ubca8\ub9ac\ucf54\ud130\ub974\ub178\ubcf4 \uc8fc"
@@ -132,20 +126,23 @@
     "name:lrc_x_preferred":[
         "\u0648\u0644\u06cc\u06a9\u0648\u062a\u0631\u0646\u0648\u0648"
     ],
-    "name:mac_x_preferred":[
-        "\u0412\u0435\u043b\u0438\u043a\u043e\u0442\u0440\u043d\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0932\u093f\u0915\u094b \u091f\u093e\u0930\u0928\u094b\u0935\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Veliko Tarnovo Province"
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e\u0442\u0440\u043d\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e-\u0422\u044b\u0440\u043d\u043e\u0432\u043e \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Veliko Tarnovo Province"
+    ],
     "name:nan_x_preferred":[
         "Veliko Tarnovo Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Veliko Tarnovo"
     ],
     "name:nob_x_preferred":[
         "Veliko Tarnovo oblast"
@@ -156,9 +153,6 @@
     "name:oss_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e-\u0422\u044b\u0440\u043d\u043e\u0432\u043e\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0648\u0644\u06cc\u06a9\u0648 \u062a\u0631\u0646\u0648\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0648\u06cc\u0644\u06cc\u06a9\u0648 \u062a\u0631\u0646\u0648\u0648\u0627"
     ],
@@ -168,7 +162,7 @@
     "name:por_x_preferred":[
         "Veliko Tarnovo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Veliko T\u0103rnovo"
     ],
     "name:rus_x_preferred":[
@@ -180,7 +174,7 @@
     "name:sin_x_preferred":[
         "\u0dc0\u0dd9\u0dbd\u0dd2\u0d9a\u0ddd \u0da7\u0dbb\u0dca\u0db1\u0ddc\u0dc0\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Veliko T\u0103rnovo"
     ],
     "name:slv_x_preferred":[
@@ -188,6 +182,9 @@
     ],
     "name:spa_x_preferred":[
         "Veliko Tarnovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Veliko T\u0103rnovo"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u043d\u043e\u0432\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
@@ -224,6 +221,9 @@
     ],
     "name:war_x_preferred":[
         "Veliko Tarnovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u7279\u723e\u8afe\u6c83\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BGR",
@@ -342,7 +342,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1553814855,
+    "wof:lastmodified":1561837427,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

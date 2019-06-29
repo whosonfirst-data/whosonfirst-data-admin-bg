@@ -28,7 +28,7 @@
     "name:kaz_x_preferred":[
         "\u041f\u0435\u0442\u044b\u0440\u043d\u0438\u0446\u0430"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pet\u0103rni\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101797259,
-    "wof:lastmodified":1527641524,
+    "wof:lastmodified":1561837438,
     "wof:name":"\u041f\u0435\u0442\u044a\u0440\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

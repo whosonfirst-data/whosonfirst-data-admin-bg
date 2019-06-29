@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000391,
-    "geom:area_square_m":3493552.916225,
+    "geom:area_square_m":3493552.916224,
     "geom:bbox":"25.8463589677,43.6437876054,25.8714241289,43.6723269835",
     "geom:latitude":43.66087,
     "geom:longitude":25.859597,
@@ -21,9 +21,6 @@
     ],
     "name:bul_x_variant":[
         "Trastenik"
-    ],
-    "name:dut_x_preferred":[
-        "Tristenik"
     ],
     "name:eng_x_colloquial":[
         "Traestenik",
@@ -45,7 +42,10 @@
     "name:kaz_x_preferred":[
         "\u0422\u0440\u044b\u0441\u0442\u0435\u043d\u0438\u043a"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Tristenik"
+    ],
+    "name:ron_x_preferred":[
         "Tr\u0103stenik"
     ],
     "name:rus_x_preferred":[
@@ -101,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837438,
     "wof:name":"\u0422\u0440\u044a\u0441\u0442\u0435\u043d\u0438\u043a",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

@@ -22,25 +22,19 @@
     "name:ceb_x_preferred":[
         "Konarsko"
     ],
+    "name:deu_x_preferred":[
+        "Konarsko"
+    ],
     "name:eng_x_preferred":[
         "Konarsko"
     ],
-    "name:ger_x_preferred":[
-        "Konarsko"
-    ],
     "name:kaz_x_preferred":[
-        "\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e"
-    ],
-    "name:mac_x_preferred":[
         "\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e"
     ],
     "name:ron_x_preferred":[
-        "Konarsko"
-    ],
-    "name:rum_x_preferred":[
         "Konarsko"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":101800367,
-    "wof:lastmodified":1527715089,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u041a\u043e\u043d\u0430\u0440\u0441\u043a\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

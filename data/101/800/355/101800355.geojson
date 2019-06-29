@@ -33,10 +33,10 @@
     "name:kaz_x_preferred":[
         "\u041c\u0438\u0445\u043d\u0435\u0432\u043e"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u0438\u0445\u043d\u043e\u0432\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mihnevo"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815511,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u041c\u0438\u0445\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

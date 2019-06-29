@@ -21,16 +21,16 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u043a\u0430\u043d"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Balkan"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Balkan"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043b\u043a\u0430\u043d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Balkan"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1126023437,
-    "wof:lastmodified":1513899765,
+    "wof:lastmodified":1561837458,
     "wof:name":"Balkan",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000263,
-    "geom:area_square_m":2376016.953606,
+    "geom:area_square_m":2376016.953604,
     "geom:bbox":"23.2329427885,42.9756948679,23.2883288981,42.9995282275",
     "geom:latitude":42.986291,
     "geom:longitude":23.25527,
@@ -26,7 +26,7 @@
         "Iskrec",
         "Isskrez"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Iskrets"
     ],
     "name:jpn_x_preferred":[
@@ -38,7 +38,7 @@
     "name:pol_x_preferred":[
         "Iskrec"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Iskre\u021b"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714716,
+    "wof:lastmodified":1561837454,
     "wof:name":"\u0418\u0441\u043a\u0440\u0435\u0446",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

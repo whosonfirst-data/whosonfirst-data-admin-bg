@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000172,
-    "geom:area_square_m":1547260.845504,
+    "geom:area_square_m":1547260.845505,
     "geom:bbox":"27.7611361492,43.3364174568,27.7884048385,43.3563934127",
     "geom:latitude":43.344508,
     "geom:longitude":27.773687,
@@ -40,9 +40,6 @@
         "\u041b\u044e\u0431\u0435\u043d-\u041a\u0430\u0440\u0430\u0432\u0435\u043b\u043e\u0432\u043e"
     ],
     "name:ron_x_preferred":[
-        "Liuben Karavelovo"
-    ],
-    "name:rum_x_preferred":[
         "Liuben Karavelovo"
     ],
     "name:rus_x_preferred":[
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641521,
+    "wof:lastmodified":1561837437,
     "wof:name":"\u041b\u044e\u0431\u0435\u043d \u041a\u0430\u0440\u0430\u0432\u0435\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

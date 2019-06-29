@@ -30,7 +30,7 @@
     "name:pol_x_preferred":[
         "Gara \u0141akatnik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gara Lakatnik"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1126030389,
-    "wof:lastmodified":1513899766,
+    "wof:lastmodified":1561837459,
     "wof:name":"Gara Lakatnik",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

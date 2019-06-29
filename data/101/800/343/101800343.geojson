@@ -30,16 +30,16 @@
     "name:kaz_x_preferred":[
         "\u0414\u0430\u043c\u044f\u043d\u0438\u0446\u0430"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0440\u043c\u0430\u043d \u0427\u0438\u0444\u043b\u0438\u043a"
-    ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u043c\u0458\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u041e\u0440\u043c\u0430\u043d \u0427\u0438\u0444\u043b\u0438\u043a"
     ],
     "name:ron_x_preferred":[
         "Dameani\u021ba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Damiani\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715095,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u0414\u0430\u043c\u044f\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

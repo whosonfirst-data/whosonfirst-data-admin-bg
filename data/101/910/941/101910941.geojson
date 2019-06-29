@@ -25,28 +25,16 @@
     "name:eng_x_preferred":[
         "Kamen Bryag"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10db\u10d4\u10dc-\u10d1\u10e0\u10d8\u10d0\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kamen Brjag"
-    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10db\u10d4\u10dc-\u10d1\u10e0\u10d8\u10d0\u10d2\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d-\u0411\u0440\u044f\u0433"
     ],
-    "name:may_x_preferred":[
-        "Kamen Bryag"
-    ],
     "name:msa_x_preferred":[
         "Kamen Bryag"
     ],
     "name:ron_x_preferred":[
-        "Kamen Breag"
-    ],
-    "name:rum_x_preferred":[
         "Kamen Breag"
     ],
     "name:rus_x_preferred":[
@@ -105,7 +93,7 @@
         }
     ],
     "wof:id":101910941,
-    "wof:lastmodified":1527715929,
+    "wof:lastmodified":1561837458,
     "wof:name":"Kamen Bryag",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

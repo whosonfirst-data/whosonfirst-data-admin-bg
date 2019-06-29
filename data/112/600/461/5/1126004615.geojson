@@ -24,13 +24,13 @@
     "name:eng_x_preferred":[
         "Rusalsko"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10e0\u10e3\u10e1\u10d0\u10da\u10e1\u10d9\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u0443\u0441\u0430\u043b\u0441\u043a\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rusalsko"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1126004615,
-    "wof:lastmodified":1513899769,
+    "wof:lastmodified":1561837460,
     "wof:name":"Rusalsko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

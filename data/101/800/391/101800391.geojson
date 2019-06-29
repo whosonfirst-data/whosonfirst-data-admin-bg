@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u0441\u0438\u043b\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Resilowo"
+    ],
     "name:eng_x_preferred":[
         "Resilovo"
     ],
@@ -26,13 +29,10 @@
         "Ressilowo",
         "Ryesilovo"
     ],
-    "name:ger_x_preferred":[
-        "Resilowo"
-    ],
     "name:kaz_x_preferred":[
         "\u0420\u0435\u0441\u0438\u043b\u043e\u0432\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Resilovo"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899908,
+    "wof:lastmodified":1561837454,
     "wof:name":"\u0420\u0435\u0441\u0438\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "mps:longitude":23.975908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0544\u0578\u0574\u056b\u0576\u0561 \u053f\u056c\u056b\u057d\u0578\u0582\u0580\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u043c\u0438\u043d\u0430 \u041a\u043b\u0438\u0441\u0443\u0440\u0430"
     ],
@@ -29,13 +26,16 @@
         "Kus Derbent",
         "Momina Klissura"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Momina Klisura"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0574\u056b\u0576\u0561 \u053f\u056c\u056b\u057d\u0578\u0582\u0580\u0561"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u043c\u0438\u043d\u0430-\u041a\u043b\u0438\u0441\u0443\u0440\u0430"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Momina Klisura"
     ],
     "name:rus_x_preferred":[
@@ -91,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641691,
+    "wof:lastmodified":1561837444,
     "wof:name":"\u041c\u043e\u043c\u0438\u043d\u0430 \u041a\u043b\u0438\u0441\u0443\u0440\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

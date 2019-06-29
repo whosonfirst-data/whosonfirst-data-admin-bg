@@ -22,14 +22,14 @@
     "name:bul_x_variant":[
         "\u0420\u043e\u0441\u0435\u043d"
     ],
+    "name:deu_x_preferred":[
+        "Rossen"
+    ],
     "name:eng_x_preferred":[
         "Rosen"
     ],
     "name:fra_x_preferred":[
         "Rosen Bar\u010dovski"
-    ],
-    "name:ger_x_preferred":[
-        "Rossen"
     ],
     "name:ita_x_preferred":[
         "Rosen Bar\u010dovski"
@@ -37,7 +37,7 @@
     "name:kaz_x_preferred":[
         "\u0420\u043e\u0441\u0435\u043d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rosen"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":101796997,
-    "wof:lastmodified":1527642028,
+    "wof:lastmodified":1561837450,
     "wof:name":"\u0420\u043e\u0441\u0435\u043d",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

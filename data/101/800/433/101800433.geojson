@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000122,
-    "geom:area_square_m":1118351.731066,
+    "geom:area_square_m":1118351.731065,
     "geom:bbox":"24.6561323866,42.0689753544,24.6717868568,42.0808288274",
     "geom:latitude":42.074965,
     "geom:longitude":24.663864,
@@ -37,9 +37,6 @@
         "P\u00fervenets",
         "Parvenets"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10e0\u10d5\u10d4\u10dc\u10d4\u10ea\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10de\u10d8\u10e0\u10d5\u10d4\u10dc\u10d4\u10ea\u10d8"
     ],
@@ -50,9 +47,6 @@
         "Pyrwenec"
     ],
     "name:ron_x_preferred":[
-        "P\u0103rvene\u021b"
-    ],
-    "name:rum_x_preferred":[
         "P\u0103rvene\u021b"
     ],
     "name:rus_x_preferred":[
@@ -108,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715092,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u041f\u044a\u0440\u0432\u0435\u043d\u0435\u0446",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

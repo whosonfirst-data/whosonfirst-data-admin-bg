@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000231,
-    "geom:area_square_m":2076302.473457,
+    "geom:area_square_m":2076302.473458,
     "geom:bbox":"28.0338791555,43.3813695954,28.0579028444,43.4116415138",
     "geom:latitude":43.399332,
     "geom:longitude":28.049374,
@@ -34,9 +34,6 @@
         "\u041e\u0431\u0440\u043e\u0447\u0438\u0448\u0442\u0435"
     ],
     "name:ron_x_preferred":[
-        "Obroci\u0219te"
-    ],
-    "name:rum_x_preferred":[
         "Obroci\u0219te"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641533,
+    "wof:lastmodified":1561837441,
     "wof:name":"\u041e\u0431\u0440\u043e\u0447\u0438\u0449\u0435",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

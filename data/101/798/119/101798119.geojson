@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000153,
-    "geom:area_square_m":1387726.60983,
+    "geom:area_square_m":1387726.609829,
     "geom:bbox":"24.5375124254,42.7084714167,24.5690512778,42.7162376367",
     "geom:latitude":42.712573,
     "geom:longitude":24.551038,
@@ -19,7 +19,7 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0437\u0438\u043d\u043e"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Rozino"
     ],
     "name:eng_x_colloquial":[
@@ -46,10 +46,10 @@
         "Rahmanli",
         "Rakhmanlare"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Rozino"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rozino"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837447,
     "wof:name":"\u0420\u043e\u0437\u0438\u043d\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

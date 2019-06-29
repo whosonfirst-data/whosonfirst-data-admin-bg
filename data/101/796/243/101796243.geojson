@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0005,
-    "geom:area_square_m":4451525.599459,
+    "geom:area_square_m":4451525.599458,
     "geom:bbox":"26.0499652377,43.8974242174,26.095778681,43.9253930264",
     "geom:latitude":43.911999,
     "geom:longitude":26.073418,
@@ -22,14 +22,8 @@
     "name:ceb_x_preferred":[
         "Marten"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u723e\u6ed5"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u0627\u0631\u062a\u06ce\u0646"
-    ],
-    "name:dut_x_preferred":[
-        "Marten"
     ],
     "name:eng_x_preferred":[
         "Marten"
@@ -41,7 +35,7 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u0631\u062a\u0646\u060c \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Marten"
     ],
     "name:ita_x_preferred":[
@@ -50,8 +44,8 @@
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0435\u043d"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0631\u062a\u0646\u060c \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Marten"
     ],
     "name:pol_x_preferred":[
         "Marten"
@@ -60,9 +54,6 @@
         "Marten"
     ],
     "name:ron_x_preferred":[
-        "Marten"
-    ],
-    "name:rum_x_preferred":[
         "Marten"
     ],
     "name:rus_x_preferred":[
@@ -134,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642030,
+    "wof:lastmodified":1561837451,
     "wof:name":"\u041c\u0430\u0440\u0442\u0435\u043d",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

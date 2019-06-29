@@ -34,7 +34,7 @@
     "name:pol_x_preferred":[
         "Koprinka"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Koprinka"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":101799409,
-    "wof:lastmodified":1527641685,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u041a\u043e\u043f\u0440\u0438\u043d\u043a\u0430",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

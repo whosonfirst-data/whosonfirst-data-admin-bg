@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.517419,
-    "geom:area_square_m":4642640417.491903,
+    "geom:area_square_m":4642640417.491795,
     "geom:bbox":"23.9515105,43.2015355,25.2938155,43.764858",
     "geom:latitude":43.477607,
     "geom:longitude":24.599957,
@@ -24,17 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
-    "name:alb_x_preferred":[
-        "Pleven"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0644\u0641\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u056c\u0587\u0565\u0576\u056b \u0574\u0561\u0580\u0566"
-    ],
-    "name:baq_x_preferred":[
-        "Pleven probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u043b\u0435\u0432\u0435\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -54,17 +45,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Pleven"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u5217\u6587\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Plevensk\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Pleven"
     ],
-    "name:dut_x_preferred":[
-        "Pleven"
+    "name:deu_x_preferred":[
+        "Oblast Plewen"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03ad\u03b2\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Pleven"
@@ -75,20 +66,17 @@
     "name:est_x_preferred":[
         "Pleveni piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Pleven probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0644\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Plevenin alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pleven"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10da\u10d4\u10d5\u10d4\u10dc\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oblast Plewen"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bb\u03ad\u03b2\u03b5\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0ab2\u0ac7\u0ab5\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -102,6 +90,9 @@
     "name:hrv_x_preferred":[
         "Oblast Pleven"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u056c\u0587\u0565\u0576\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Pleven"
     ],
@@ -113,6 +104,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0ccd\u0cb2\u0cc6\u0cb5\u0cc6\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10da\u10d4\u10d5\u10d4\u10dc\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud50c\ub808\ubca4 \uc8fc"
@@ -129,20 +123,23 @@
     "name:lrc_x_preferred":[
         "\u067e\u0644\u0648\u0646"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u043b\u0435\u0432\u0435\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u094d\u0932\u0947\u0935\u094d\u0939\u0947\u0902 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Pleven Province"
+    "name:mkd_x_preferred":[
+        "\u041f\u043b\u0435\u0432\u0435\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:mon_x_preferred":[
         "\u041f\u043b\u0435\u0432\u0435\u043d \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Pleven Province"
+    ],
     "name:nan_x_preferred":[
         "Pleven Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Pleven"
     ],
     "name:nob_x_preferred":[
         "Pleven oblast"
@@ -153,9 +150,6 @@
     "name:oss_x_preferred":[
         "\u041f\u043b\u0435\u0432\u0435\u043d\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0644\u0648\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u0644\u06cc\u0648\u06cc\u0646"
     ],
@@ -165,7 +159,7 @@
     "name:por_x_preferred":[
         "Pleven"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Plevna"
     ],
     "name:rus_x_preferred":[
@@ -177,13 +171,16 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dca\u0dbd\u0dd9\u0dc0\u0dd9\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pleven"
     ],
     "name:slv_x_preferred":[
         "Pleven"
     ],
     "name:spa_x_preferred":[
+        "Pleven"
+    ],
+    "name:sqi_x_preferred":[
         "Pleven"
     ],
     "name:srp_x_preferred":[
@@ -221,6 +218,9 @@
     ],
     "name:war_x_preferred":[
         "Pleven"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5217\u6587\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BGR",
@@ -338,7 +338,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1553814855,
+    "wof:lastmodified":1561837426,
     "wof:name":"\u041f\u043b\u0435\u0432\u0435\u043d",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

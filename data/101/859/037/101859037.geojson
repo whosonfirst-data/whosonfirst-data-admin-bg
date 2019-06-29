@@ -32,7 +32,7 @@
     "name:pol_x_preferred":[
         "Koncze"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Konce"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815551,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u041a\u043e\u043d\u0447\u0435",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

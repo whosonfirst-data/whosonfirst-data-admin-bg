@@ -29,25 +29,16 @@
         "Mechka",
         "Metschka"
     ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d1\u10dd\u10e0\u10d8\u10e8\u10e2\u10d4"
-    ],
     "name:kat_x_preferred":[
         "\u10dd\u10d1\u10dd\u10e0\u10d8\u10e8\u10e2\u10d4"
     ],
     "name:kaz_x_preferred":[
         "\u041e\u0431\u043e\u0440\u0438\u0448\u0442\u0435"
     ],
-    "name:may_x_preferred":[
-        "Oborishte"
-    ],
     "name:msa_x_preferred":[
         "Oborishte"
     ],
     "name:ron_x_preferred":[
-        "Obori\u0219te"
-    ],
-    "name:rum_x_preferred":[
         "Obori\u0219te"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899873,
+    "wof:lastmodified":1561837446,
     "wof:name":"\u041e\u0431\u043e\u0440\u0438\u0449\u0435",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

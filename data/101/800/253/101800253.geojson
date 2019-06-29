@@ -28,9 +28,6 @@
     "name:eng_x_preferred":[
         "Rani list"
     ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10dc\u10d8-\u10da\u10d8\u10e1\u10e2\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10dc\u10d8-\u10da\u10d8\u10e1\u10e2\u10d8"
     ],
@@ -38,9 +35,6 @@
         "\u0420\u0430\u043d\u0438-\u041b\u0438\u0441\u0442"
     ],
     "name:ron_x_preferred":[
-        "Rani List"
-    ],
-    "name:rum_x_preferred":[
         "Rani List"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +89,7 @@
         }
     ],
     "wof:id":101800253,
-    "wof:lastmodified":1527715092,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0420\u0430\u043d\u0438 \u043b\u0438\u0441\u0442",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

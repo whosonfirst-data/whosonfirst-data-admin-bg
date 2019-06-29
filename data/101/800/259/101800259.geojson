@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
-    "geom:area_square_m":679064.110758,
+    "geom:area_square_m":679064.110759,
     "geom:bbox":"25.4801013471,41.6573524671,25.4942352421,41.6677962707",
     "geom:latitude":41.6625,
     "geom:longitude":25.486641,
@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Zhinzifovo"
     ],
-    "name:geo_x_preferred":[
-        "\u10df\u10d8\u10dc\u10d6\u10d8\u10e4\u10dd\u10d5\u10dd"
-    ],
     "name:kat_x_preferred":[
         "\u10df\u10d8\u10dc\u10d6\u10d8\u10e4\u10dd\u10d5\u10dd"
     ],
@@ -35,9 +32,6 @@
         "\u017binzifowo"
     ],
     "name:ron_x_preferred":[
-        "Jinzifovo"
-    ],
-    "name:rum_x_preferred":[
         "Jinzifovo"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +86,7 @@
         }
     ],
     "wof:id":101800259,
-    "wof:lastmodified":1527715085,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u0416\u0438\u043d\u0437\u0438\u0444\u043e\u0432\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

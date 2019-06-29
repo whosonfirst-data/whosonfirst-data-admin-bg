@@ -25,9 +25,6 @@
     "name:eng_x_preferred":[
         "Opulchensko"
     ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10de\u10d8\u10da\u10e9\u10d4\u10dc\u10e1\u10d9\u10dd"
-    ],
     "name:kat_x_preferred":[
         "\u10dd\u10de\u10d8\u10da\u10e9\u10d4\u10dc\u10e1\u10d9\u10dd"
     ],
@@ -38,9 +35,6 @@
         "Opy\u0142czensko"
     ],
     "name:ron_x_preferred":[
-        "Op\u0103lcensko"
-    ],
-    "name:rum_x_preferred":[
         "Op\u0103lcensko"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +88,7 @@
         }
     ],
     "wof:id":101760573,
-    "wof:lastmodified":1527689331,
+    "wof:lastmodified":1561837453,
     "wof:name":"\u041e\u043f\u044a\u043b\u0447\u0435\u043d\u0441\u043a\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

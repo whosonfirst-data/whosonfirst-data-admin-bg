@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000338,
-    "geom:area_square_m":3044623.590099,
+    "geom:area_square_m":3044623.590101,
     "geom:bbox":"24.243825803,43.319414476,24.2718055493,43.3378703244",
     "geom:latitude":43.328747,
     "geom:longitude":24.257596,
@@ -43,7 +43,7 @@
     "name:por_x_preferred":[
         "Rochedo Telish"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Teli\u0219"
     ],
     "name:rus_x_preferred":[
@@ -105,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641531,
+    "wof:lastmodified":1561837440,
     "wof:name":"\u0422\u0435\u043b\u0438\u0448",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

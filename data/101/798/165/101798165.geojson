@@ -28,7 +28,7 @@
     "name:pol_x_preferred":[
         "Tu\u0142owo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tulovo"
     ],
     "name:rus_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":101798165,
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837447,
     "wof:name":"\u0422\u0443\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

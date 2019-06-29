@@ -27,7 +27,7 @@
     "name:kaz_x_preferred":[
         "\u0415\u0437\u0435\u0440\u0435\u0446"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ezere\u021b"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125962755,
-    "wof:lastmodified":1513899766,
+    "wof:lastmodified":1561837459,
     "wof:name":"Ezerets",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

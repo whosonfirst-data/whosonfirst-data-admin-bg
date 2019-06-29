@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000173,
-    "geom:area_square_m":1567349.223886,
+    "geom:area_square_m":1567349.223888,
     "geom:bbox":"24.996185063,43.0180846302,25.0215940123,43.0327252178",
     "geom:latitude":43.024227,
     "geom:longitude":25.008998,
@@ -33,7 +33,7 @@
         "Ryekhovtsitye",
         "Ryahovtsite"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ryahovtsite"
     ],
     "name:kaz_x_preferred":[
@@ -42,7 +42,7 @@
     "name:pol_x_preferred":[
         "Rjachowcite"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Reahov\u021bite"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641933,
+    "wof:lastmodified":1561837449,
     "wof:name":"\u0420\u044f\u0445\u043e\u0432\u0446\u0438\u0442\u0435",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

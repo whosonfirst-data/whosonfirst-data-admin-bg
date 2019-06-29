@@ -32,20 +32,11 @@
         "Slaschten",
         "Sla\u00b5ten"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10da\u10d0\u10e8\u10e2\u10d4\u10dc\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10e1\u10da\u10d0\u10e8\u10e2\u10d4\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u043b\u0430\u0448\u0442\u0435\u043d"
-    ],
-    "name:mac_x_preferred":[
-        "\u0421\u043b\u0430\u0448\u0442\u0435\u043d"
-    ],
-    "name:may_x_preferred":[
-        "Slashten"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043b\u0430\u0448\u0442\u0435\u043d"
@@ -54,9 +45,6 @@
         "Slashten"
     ],
     "name:ron_x_preferred":[
-        "Sla\u0219ten"
-    ],
-    "name:rum_x_preferred":[
         "Sla\u0219ten"
     ],
     "name:rus_x_preferred":[
@@ -116,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715089,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0421\u043b\u0430\u0449\u0435\u043d",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000299,
-    "geom:area_square_m":2735875.757228,
+    "geom:area_square_m":2735875.757227,
     "geom:bbox":"24.7163135966,42.2237139816,24.7494530027,42.2390908094",
     "geom:latitude":42.231447,
     "geom:longitude":24.730543,
@@ -61,7 +61,7 @@
     "name:pol_x_preferred":[
         "Trud"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Trud"
     ],
     "name:rus_x_preferred":[
@@ -126,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815511,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u0422\u0440\u0443\u0434",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

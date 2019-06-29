@@ -30,25 +30,16 @@
         "Smeiza",
         "Zmeica"
     ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10db\u10d4\u10d8\u10ea\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10d6\u10db\u10d4\u10d8\u10ea\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0417\u043c\u0435\u0438\u0446\u0430"
     ],
-    "name:may_x_preferred":[
-        "Zmeitsa"
-    ],
     "name:msa_x_preferred":[
         "Zmeitsa"
     ],
     "name:ron_x_preferred":[
-        "Zmei\u021ba"
-    ],
-    "name:rum_x_preferred":[
         "Zmei\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -108,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715092,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0417\u043c\u0435\u0438\u0446\u0430",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

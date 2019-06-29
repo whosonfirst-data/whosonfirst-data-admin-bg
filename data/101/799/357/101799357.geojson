@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":3245136.8593,
+    "geom:area_square_m":3245136.859299,
     "geom:bbox":"24.9138501467,42.1763012291,24.9480919398,42.1971602134",
     "geom:latitude":42.187462,
     "geom:longitude":24.931789,
@@ -28,7 +28,7 @@
     "name:pol_x_preferred":[
         "Manole"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Manole"
     ],
     "name:rus_x_preferred":[
@@ -87,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641688,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u041c\u0430\u043d\u043e\u043b\u0435",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

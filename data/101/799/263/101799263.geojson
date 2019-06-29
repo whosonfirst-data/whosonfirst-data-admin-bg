@@ -26,25 +26,16 @@
         "Mokrischte",
         "Yamurchovo"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10d9\u10e0\u10d8\u10e8\u10e2\u10d4"
-    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10d9\u10e0\u10d8\u10e8\u10e2\u10d4"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u043a\u0440\u0438\u0448\u0442\u0435"
     ],
-    "name:may_x_preferred":[
-        "Mokrishte"
-    ],
     "name:msa_x_preferred":[
         "Mokrishte"
     ],
     "name:ron_x_preferred":[
-        "Mokri\u0219te"
-    ],
-    "name:rum_x_preferred":[
         "Mokri\u0219te"
     ],
     "name:rus_x_preferred":[
@@ -101,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641693,
+    "wof:lastmodified":1561837444,
     "wof:name":"\u041c\u043e\u043a\u0440\u0438\u0449\u0435",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

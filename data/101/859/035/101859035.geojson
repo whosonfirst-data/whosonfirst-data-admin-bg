@@ -32,9 +32,6 @@
     "name:ron_x_preferred":[
         "Rogaci"
     ],
-    "name:rum_x_preferred":[
-        "Rogaci"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447"
     ],
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744708,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0420\u043e\u0433\u0430\u0447",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

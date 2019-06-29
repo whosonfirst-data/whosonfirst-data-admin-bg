@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000149,
-    "geom:area_square_m":1367981.856199,
+    "geom:area_square_m":1367981.856198,
     "geom:bbox":"24.8095485497,42.0793488648,24.827102152,42.1007359543",
     "geom:latitude":42.088983,
     "geom:longitude":24.818835,
@@ -34,17 +34,11 @@
         "Pasha Makhla",
         "Pasha-Makhle"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e0\u10e3\u10db\u10dd\u10d5\u10dd"
-    ],
     "name:jpn_x_preferred":[
         "\u30af\u30eb\u30e2\u30f4\u30a9"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10e0\u10e3\u10db\u10dd\u10d5\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "Krumovo"
     ],
     "name:msa_x_preferred":[
         "Krumovo"
@@ -53,9 +47,6 @@
         "Krumowo"
     ],
     "name:ron_x_preferred":[
-        "Krumovo"
-    ],
-    "name:rum_x_preferred":[
         "Krumovo"
     ],
     "name:rus_x_preferred":[
@@ -117,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641686,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u041a\u0440\u0443\u043c\u043e\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

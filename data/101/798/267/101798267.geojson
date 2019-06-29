@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
-    "geom:area_square_m":1447569.053574,
+    "geom:area_square_m":1447569.053575,
     "geom:bbox":"25.016142159,42.9528937671,25.0318918547,42.9716028069",
     "geom:latitude":42.963204,
     "geom:longitude":25.023039,
@@ -18,9 +18,6 @@
     "mz:is_current":1,
     "name:bul_x_preferred":[
         "\u0414\u0443\u0448\u0435\u0432\u043e"
-    ],
-    "name:dut_x_preferred":[
-        "Dushevo"
     ],
     "name:eng_x_colloquial":[
         "Dusovo"
@@ -37,13 +34,13 @@
     "name:kaz_x_preferred":[
         "\u0414\u0443\u0448\u0435\u0432\u043e"
     ],
+    "name:nld_x_preferred":[
+        "Dushevo"
+    ],
     "name:pol_x_preferred":[
         "Duszewo"
     ],
     "name:ron_x_preferred":[
-        "Du\u0219evo"
-    ],
-    "name:rum_x_preferred":[
         "Du\u0219evo"
     ],
     "name:rus_x_preferred":[
@@ -102,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641927,
+    "wof:lastmodified":1561837446,
     "wof:name":"\u0414\u0443\u0448\u0435\u0432\u043e",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

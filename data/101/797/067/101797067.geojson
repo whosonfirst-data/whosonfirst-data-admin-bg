@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
-    "geom:area_square_m":2894819.072582,
+    "geom:area_square_m":2894819.072581,
     "geom:bbox":"23.9377110168,43.4183515386,23.9637449696,43.441472859",
     "geom:latitude":43.429505,
     "geom:longitude":23.950619,
@@ -29,7 +29,7 @@
     "name:kaz_x_preferred":[
         "\u041f\u043e\u043f\u0438\u0446\u0430"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Popi\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -87,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899900,
+    "wof:lastmodified":1561837441,
     "wof:name":"\u041f\u043e\u043f\u0438\u0446\u0430",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

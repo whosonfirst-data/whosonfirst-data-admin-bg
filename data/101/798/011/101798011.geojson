@@ -39,25 +39,16 @@
         "Popintzi",
         "Popinzi"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10de\u10d8\u10dc\u10ea\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10de\u10d8\u10dc\u10ea\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u043e\u043f\u0438\u043d\u0446\u0438"
     ],
-    "name:may_x_preferred":[
-        "Popintsi"
-    ],
     "name:msa_x_preferred":[
         "Popintsi"
     ],
     "name:ron_x_preferred":[
-        "Popin\u021bi"
-    ],
-    "name:rum_x_preferred":[
         "Popin\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -117,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641931,
+    "wof:lastmodified":1561837448,
     "wof:name":"\u041f\u043e\u043f\u0438\u043d\u0446\u0438",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

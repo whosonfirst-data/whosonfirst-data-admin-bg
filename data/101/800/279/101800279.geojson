@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":439424.52167,
+    "geom:area_square_m":439424.521671,
     "geom:bbox":"25.4004837938,41.3698409542,25.4118773367,41.3786696388",
     "geom:latitude":41.373999,
     "geom:longitude":25.40568,
@@ -23,9 +23,6 @@
         "Chorbadzhiysko"
     ],
     "name:ron_x_preferred":[
-        "Ciorbadjiisko"
-    ],
-    "name:rum_x_preferred":[
         "Ciorbadjiisko"
     ],
     "name:rus_x_preferred":[
@@ -77,7 +74,7 @@
         }
     ],
     "wof:id":101800279,
-    "wof:lastmodified":1527715090,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0427\u043e\u0440\u0431\u0430\u0434\u0436\u0438\u0439\u0441\u043a\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

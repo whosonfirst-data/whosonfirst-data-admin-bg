@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000198,
-    "geom:area_square_m":1776771.607412,
+    "geom:area_square_m":1776771.607413,
     "geom:bbox":"23.6329487095,43.5670955829,23.6594008693,43.5808670488",
     "geom:latitude":43.573332,
     "geom:longitude":23.646694,
@@ -29,9 +29,6 @@
         "Manastiriszte"
     ],
     "name:ron_x_preferred":[
-        "Manastiri\u0219te"
-    ],
-    "name:rum_x_preferred":[
         "Manastiri\u0219te"
     ],
     "name:rus_x_preferred":[
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":101797053,
-    "wof:lastmodified":1527641524,
+    "wof:lastmodified":1561837438,
     "wof:name":"\u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440\u0438\u0449\u0435",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

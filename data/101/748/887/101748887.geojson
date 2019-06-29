@@ -27,9 +27,6 @@
     "name:afr_x_preferred":[
         "Sofia"
     ],
-    "name:alb_x_preferred":[
-        "Sofja"
-    ],
     "name:amh_x_preferred":[
         "\u1236\u134a\u12eb"
     ],
@@ -38,9 +35,6 @@
     ],
     "name:arg_x_preferred":[
         "Sofiya"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u0586\u056b\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0635\u0648\u0641\u064a\u0627"
@@ -57,14 +51,14 @@
     "name:bak_x_preferred":[
         "\u0421\u043e\u0444\u0438\u044f"
     ],
-    "name:baq_x_preferred":[
-        "Sofia"
-    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u0444\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09ab\u09bf\u09af\u09bc\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f66\u0f7c\u0f0b\u0f67\u0fa5\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Sofija"
@@ -84,11 +78,11 @@
     "name:cdo_x_preferred":[
         "Sofia"
     ],
+    "name:ces_x_preferred":[
+        "Sofie"
+    ],
     "name:che_x_preferred":[
         "\u0421\u043e\u0444\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u7d22\u83f2\u4e9e"
     ],
     "name:chu_x_preferred":[
         "\u0421\u043e\u0444\u0457\ua657"
@@ -105,10 +99,13 @@
     "name:cos_x_preferred":[
         "Sofia"
     ],
-    "name:cze_x_preferred":[
-        "Sofie"
+    "name:cym_x_preferred":[
+        "Sofia"
     ],
     "name:dan_x_preferred":[
+        "Sofia"
+    ],
+    "name:deu_x_preferred":[
         "Sofia"
     ],
     "name:diq_x_preferred":[
@@ -117,8 +114,8 @@
     "name:dsb_x_preferred":[
         "Sofija"
     ],
-    "name:dut_x_preferred":[
-        "Sofia"
+    "name:ell_x_preferred":[
+        "\u03a3\u03cc\u03c6\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sofia"
@@ -135,16 +132,22 @@
     "name:est_x_preferred":[
         "Sofia"
     ],
+    "name:eus_x_preferred":[
+        "Sofia"
+    ],
     "name:ext_x_preferred":[
         "Sofia"
     ],
     "name:fao_x_preferred":[
         "Sofia"
     ],
+    "name:fas_x_preferred":[
+        "\u0635\u0648\u0641\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Sofia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sofia"
     ],
     "name:frp_x_preferred":[
@@ -162,12 +165,6 @@
     "name:gag_x_preferred":[
         "Sofiya"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10e4\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Sofia"
-    ],
     "name:gla_x_preferred":[
         "Sofia"
     ],
@@ -182,9 +179,6 @@
     ],
     "name:got_x_preferred":[
         "\ud800\udf43\ud800\udf49\ud800\udf46\ud800\udf39\ud800\udf30"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03cc\u03c6\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aab\u0abf\u0aaf\u0abe"
@@ -219,8 +213,8 @@
     "name:hun_x_preferred":[
         "Sz\u00f3fia"
     ],
-    "name:ice_x_preferred":[
-        "S\u00f3f\u00eda"
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0586\u056b\u0561"
     ],
     "name:ido_x_preferred":[
         "Sofiya"
@@ -236,6 +230,9 @@
     ],
     "name:ind_x_preferred":[
         "Sofia"
+    ],
+    "name:isl_x_preferred":[
+        "S\u00f3f\u00eda"
     ],
     "name:ita_x_preferred":[
         "Sofia"
@@ -260,6 +257,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0ccb\u0cab\u0cbf\u0caf\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10e4\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u043e\u0444\u0438\u044f"
@@ -315,29 +315,29 @@
     "name:lzh_x_preferred":[
         "\u7d22\u83f2\u4e9e"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u043e\u0444\u0438\u0458\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d38\u0d4b\u0d2b\u0d3f\u0d2f"
-    ],
-    "name:mao_x_preferred":[
-        "Sofia"
     ],
     "name:mar_x_preferred":[
         "\u0938\u094b\u092b\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Sofia"
-    ],
     "name:mhr_x_preferred":[
         "\u0421\u043e\u0444\u0438\u0439"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043e\u0444\u0438\u0458\u0430"
     ],
     "name:mlg_x_preferred":[
         "Sofia"
     ],
     "name:mon_x_preferred":[
         "\u0421\u043e\u0444\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "Sofia"
+    ],
+    "name:msa_x_preferred":[
+        "Sofia"
     ],
     "name:myv_x_preferred":[
         "\u0421\u043e\u0444\u0438\u044f \u043e\u0448"
@@ -353,6 +353,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0938\u094b\u092b\u093f\u092f\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Sofia"
     ],
     "name:nno_x_preferred":[
         "Sofia"
@@ -378,9 +381,6 @@
     "name:pap_x_preferred":[
         "Sofia"
     ],
-    "name:per_x_preferred":[
-        "\u0635\u0648\u0641\u06cc\u0647"
-    ],
     "name:pih_x_preferred":[
         "Sofia"
     ],
@@ -405,11 +405,11 @@
     "name:roh_x_preferred":[
         "Sofia"
     ],
+    "name:ron_x_preferred":[
+        "Sofia"
+    ],
     "name:rue_x_preferred":[
         "\u0421\u043e\u0444\u0456\u044f"
-    ],
-    "name:rum_x_preferred":[
-        "Sofia"
     ],
     "name:rup_x_preferred":[
         "Sofia"
@@ -432,7 +432,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0ddc\u0dc6\u0dd2\u0dba\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sofia"
     ],
     "name:slv_x_preferred":[
@@ -449,6 +449,9 @@
     ],
     "name:spa_x_preferred":[
         "Sof\u00eda"
+    ],
+    "name:sqi_x_preferred":[
+        "Sofja"
     ],
     "name:srd_x_preferred":[
         "Sofia"
@@ -485,9 +488,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e0b\u0e40\u0e1f\u0e35\u0e22"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f66\u0f7c\u0f0b\u0f67\u0fa5\u0f72\u0f0b\u0f61\u0f0d"
     ],
     "name:tpi_x_preferred":[
         "Sofia"
@@ -535,9 +535,6 @@
         "Sofia"
     ],
     "name:war_x_preferred":[
-        "Sofia"
-    ],
-    "name:wel_x_preferred":[
         "Sofia"
     ],
     "name:wol_x_preferred":[
@@ -712,7 +709,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1536881194,
+    "wof:lastmodified":1561837453,
     "wof:name":"Sofia",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

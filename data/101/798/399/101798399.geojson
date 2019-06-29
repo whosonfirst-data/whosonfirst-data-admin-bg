@@ -25,7 +25,7 @@
     "name:kaz_x_preferred":[
         "\u041f\u0438\u0441\u0430\u0440\u0435\u0432\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pisarevo"
     ],
     "name:rus_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101798399,
-    "wof:lastmodified":1527641923,
+    "wof:lastmodified":1561837445,
     "wof:name":"\u041f\u0438\u0441\u0430\u0440\u0435\u0432\u043e",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

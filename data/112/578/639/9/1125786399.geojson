@@ -30,7 +30,7 @@
     "name:kaz_x_preferred":[
         "\u0421\u043e\u043c\u043e\u0432\u0438\u0442"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Somovit"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125786399,
-    "wof:lastmodified":1513899770,
+    "wof:lastmodified":1561837460,
     "wof:name":"Somovit",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

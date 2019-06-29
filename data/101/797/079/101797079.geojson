@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00017,
-    "geom:area_square_m":1517143.796906,
+    "geom:area_square_m":1517143.796907,
     "geom:bbox":"23.4960740873,43.8095891422,23.5226373704,43.8266624615",
     "geom:latitude":43.819314,
     "geom:longitude":23.511094,
@@ -28,16 +28,10 @@
     "name:kaz_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438-\u0426\u0438\u0431\u044b\u0440"
     ],
-    "name:may_x_preferred":[
-        "Dolni Tsibar"
-    ],
     "name:msa_x_preferred":[
         "Dolni Tsibar"
     ],
     "name:ron_x_preferred":[
-        "Dolni \u021aib\u0103r"
-    ],
-    "name:rum_x_preferred":[
         "Dolni \u021aib\u0103r"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +83,7 @@
         }
     ],
     "wof:id":101797079,
-    "wof:lastmodified":1527641522,
+    "wof:lastmodified":1561837437,
     "wof:name":"\u0414\u043e\u043b\u043d\u0438 \u0426\u0438\u0431\u044a\u0440",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

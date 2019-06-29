@@ -21,16 +21,16 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u0431"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Stob"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Stob"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0442\u043e\u0431"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Stob"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125887317,
-    "wof:lastmodified":1513899770,
+    "wof:lastmodified":1561837459,
     "wof:name":"Stob",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

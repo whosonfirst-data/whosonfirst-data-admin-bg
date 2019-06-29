@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000288,
-    "geom:area_square_m":2615714.20333,
+    "geom:area_square_m":2615714.203333,
     "geom:bbox":"27.8723324237,42.7964718448,27.8923829996,42.8485936949",
     "geom:latitude":42.820222,
     "geom:longitude":27.882045,
@@ -17,9 +17,6 @@
     "mps:longitude":27.880526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0555\u0562\u0566\u0578\u0580"
-    ],
     "name:bul_x_preferred":[
         "\u041e\u0431\u0437\u043e\u0440"
     ],
@@ -29,20 +26,11 @@
     "name:ces_x_preferred":[
         "Obzor"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u5e03\u4f50\u723e"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u06c6\u0628\u0632\u06c6\u0631"
     ],
-    "name:cze_x_preferred":[
-        "Obzor"
-    ],
     "name:deu_x_preferred":[
         "Obsor"
-    ],
-    "name:dut_x_preferred":[
-        "Obzor"
     ],
     "name:eng_x_preferred":[
         "Obzor"
@@ -56,12 +44,6 @@
     "name:fra_x_preferred":[
         "Obzor"
     ],
-    "name:fre_x_preferred":[
-        "Obzor"
-    ],
-    "name:ger_x_preferred":[
-        "Obsor"
-    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d1\u05d6\u05d5\u05e8"
     ],
@@ -70,6 +52,9 @@
     ],
     "name:hun_x_preferred":[
         "Obzor"
+    ],
+    "name:hye_x_preferred":[
+        "\u0555\u0562\u0566\u0578\u0580"
     ],
     "name:kaz_x_preferred":[
         "\u041e\u0431\u0437\u043e\u0440"
@@ -80,9 +65,6 @@
     "name:oss_x_preferred":[
         "\u041e\u0431\u0437\u043e\u0440"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0632\u0648\u0631"
-    ],
     "name:pol_x_preferred":[
         "Obzor"
     ],
@@ -90,9 +72,6 @@
         "Obzor"
     ],
     "name:ron_x_preferred":[
-        "Obzor"
-    ],
-    "name:rum_x_preferred":[
         "Obzor"
     ],
     "name:rus_x_preferred":[
@@ -173,7 +152,7 @@
         }
     ],
     "wof:id":101798313,
-    "wof:lastmodified":1527641929,
+    "wof:lastmodified":1561837447,
     "wof:name":"\u041e\u0431\u0437\u043e\u0440",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

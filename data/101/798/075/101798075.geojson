@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0003,
-    "geom:area_square_m":2745769.093909,
+    "geom:area_square_m":2745769.09391,
     "geom:bbox":"24.7143190681,42.3414188623,24.7407178646,42.3732099179",
     "geom:latitude":42.356769,
     "geom:longitude":24.730436,
@@ -26,17 +26,11 @@
     "name:ceb_x_preferred":[
         "Obshtina Kaloyanovo"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u6d1b\u4e9e\u8afe\u6c83\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ob\u0161tina Kalojanovo"
     ],
     "name:deu_x_preferred":[
         "Kalojanowo"
-    ],
-    "name:dut_x_preferred":[
-        "Kaloyanovo Municipality"
     ],
     "name:eng_x_colloquial":[
         "Seldzikovo"
@@ -54,25 +48,19 @@
     "name:fra_x_preferred":[
         "Kaloyanovo"
     ],
-    "name:fre_x_preferred":[
-        "Kaloyanovo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10da\u10dd\u10d8\u10d0\u10dc\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Kalojanovo"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10da\u10dd\u10d8\u10d0\u10dc\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Kaloyanovo Municipality"
+    ],
     "name:pol_x_preferred":[
         "Gmina Ka\u0142ojanowo"
     ],
     "name:ron_x_preferred":[
-        "Comuna Kaloianovo"
-    ],
-    "name:rum_x_preferred":[
         "Comuna Kaloianovo"
     ],
     "name:rus_x_preferred":[
@@ -142,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641932,
+    "wof:lastmodified":1561837448,
     "wof:name":"\u041a\u0430\u043b\u043e\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

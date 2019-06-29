@@ -50,11 +50,11 @@
     "name:kaz_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u043e"
     ],
+    "name:ron_x_preferred":[
+        "Ostrovo"
+    ],
     "name:rue_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u043e"
-    ],
-    "name:rum_x_preferred":[
-        "Ostrovo"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u043e"
@@ -118,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641523,
+    "wof:lastmodified":1561837438,
     "wof:name":"\u041e\u0441\u0442\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

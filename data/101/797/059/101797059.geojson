@@ -25,13 +25,13 @@
     "name:eng_x_preferred":[
         "Rogozen"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10e0\u10dd\u10d2\u10dd\u10d6\u10d4\u10dc\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0437\u0435\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rogozen"
     ],
     "name:nno_x_preferred":[
@@ -40,7 +40,7 @@
     "name:por_x_preferred":[
         "Ilha Rogozen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rogozen"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":101797059,
-    "wof:lastmodified":1527641531,
+    "wof:lastmodified":1561837440,
     "wof:name":"\u0420\u043e\u0433\u043e\u0437\u0435\u043d",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",
