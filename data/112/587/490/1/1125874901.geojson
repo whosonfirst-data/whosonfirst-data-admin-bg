@@ -21,28 +21,28 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0442\u0443\u043b"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tatul"
     ],
     "name:eng_x_preferred":[
         "Tatul"
     ],
-    "name:fre_x_preferred":[
-        "Tatul"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e2\u10e3\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tatul"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d0\u05d8\u05d5\u05dc"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e2\u10e3\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Tatul"
     ],
-    "name:rum_x_preferred":[
+    "name:nld_x_preferred":[
+        "Tatul"
+    ],
+    "name:ron_x_preferred":[
         "Tatul"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1125874901,
-    "wof:lastmodified":1513899771,
+    "wof:lastmodified":1561837459,
     "wof:name":"Tatul",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

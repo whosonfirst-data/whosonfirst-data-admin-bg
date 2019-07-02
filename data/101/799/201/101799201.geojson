@@ -19,9 +19,6 @@
     "name:bul_x_preferred":[
         "\u0423\u0441\u0442\u0440\u0435\u043c"
     ],
-    "name:dut_x_preferred":[
-        "Ustrem"
-    ],
     "name:eng_x_colloquial":[
         "Vakaev",
         "Vakav",
@@ -41,13 +38,13 @@
     "name:kaz_x_preferred":[
         "\u0423\u0441\u0442\u0440\u0435\u043c"
     ],
+    "name:nld_x_preferred":[
+        "Ustrem"
+    ],
     "name:pol_x_preferred":[
         "Ustrem"
     ],
     "name:ron_x_preferred":[
-        "Ustrem"
-    ],
-    "name:rum_x_preferred":[
         "Ustrem"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641692,
+    "wof:lastmodified":1561837444,
     "wof:name":"\u0423\u0441\u0442\u0440\u0435\u043c",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

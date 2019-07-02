@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
-    "geom:area_square_m":489363.587328,
+    "geom:area_square_m":489363.587327,
     "geom:bbox":"25.2356571445,41.3264346295,25.2504731869,41.3377130582",
     "geom:latitude":41.332814,
     "geom:longitude":25.243705,
@@ -29,9 +29,6 @@
         "Golyamo Ip Dere"
     ],
     "name:ron_x_preferred":[
-        "Drangovo"
-    ],
-    "name:rum_x_preferred":[
         "Drangovo"
     ],
     "name:rus_x_preferred":[
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715090,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0414\u0440\u0430\u043d\u0433\u043e\u0432\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

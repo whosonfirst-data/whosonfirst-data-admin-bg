@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
-    "geom:area_square_m":2265801.114749,
+    "geom:area_square_m":2265801.114751,
     "geom:bbox":"28.2874603092,43.6939566652,28.3194048324,43.707904079",
     "geom:latitude":43.701629,
     "geom:longitude":28.302995,
@@ -18,6 +18,9 @@
     "mz:is_current":1,
     "name:bul_x_preferred":[
         "\u0421\u043f\u0430\u0441\u043e\u0432\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Spassowo"
     ],
     "name:eng_x_colloquial":[
         "Sueleimanlaek",
@@ -35,13 +38,10 @@
         "Syuleymanl\u00fek",
         "S\u00fcleimanl\u00e6k"
     ],
-    "name:ger_x_preferred":[
-        "Spassowo"
-    ],
     "name:kaz_x_preferred":[
         "\u0421\u043f\u0430\u0441\u043e\u0432\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Spasovo"
     ],
     "name:rus_x_preferred":[
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642035,
+    "wof:lastmodified":1561837451,
     "wof:name":"\u0421\u043f\u0430\u0441\u043e\u0432\u043e",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

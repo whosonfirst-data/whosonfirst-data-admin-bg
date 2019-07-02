@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":2405591.618815,
+    "geom:area_square_m":2405591.618814,
     "geom:bbox":"26.4441472241,43.5933912107,26.4804302785,43.6185897705",
     "geom:latitude":43.605338,
     "geom:longitude":26.45921,
@@ -35,13 +35,13 @@
         "Kos\u00fem Kuydzhuk",
         "Rakowski"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10e0\u10d0\u10d9\u10dd\u10d5\u10e1\u10d9\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0438"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rakovski"
     ],
     "name:rus_x_preferred":[
@@ -100,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837437,
     "wof:name":"\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0438",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

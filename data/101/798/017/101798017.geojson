@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000123,
-    "geom:area_square_m":1128289.462828,
+    "geom:area_square_m":1128289.462827,
     "geom:bbox":"24.3121748912,42.2382869061,24.325582123,42.2555825389",
     "geom:latitude":42.247933,
     "geom:longitude":24.319874,
@@ -26,9 +26,6 @@
         "Kodzha K'oy",
         "Saraja"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e0\u10d0\u10d8\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10e0\u10d0\u10d8\u10d0"
     ],
@@ -36,9 +33,6 @@
         "\u0421\u0430\u0440\u0430\u044f"
     ],
     "name:ron_x_preferred":[
-        "Saraia"
-    ],
-    "name:rum_x_preferred":[
         "Saraia"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641932,
+    "wof:lastmodified":1561837449,
     "wof:name":"\u0421\u0430\u0440\u0430\u044f",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

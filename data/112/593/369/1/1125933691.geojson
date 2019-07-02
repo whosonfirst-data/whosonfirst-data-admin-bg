@@ -27,16 +27,16 @@
     "name:eng_x_preferred":[
         "Kamchia"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10d9\u10d0\u10db\u10e9\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043c\u0447\u0438\u044f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kamchia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kamcia"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125933691,
-    "wof:lastmodified":1513899767,
+    "wof:lastmodified":1561837458,
     "wof:name":"Kamchija",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

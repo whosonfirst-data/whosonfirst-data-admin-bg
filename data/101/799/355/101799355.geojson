@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000253,
-    "geom:area_square_m":2316520.195374,
+    "geom:area_square_m":2316520.195375,
     "geom:bbox":"24.8308666009,42.1772610968,24.8535079851,42.1970541756",
     "geom:latitude":42.186737,
     "geom:longitude":24.842352,
@@ -25,17 +25,11 @@
     "name:eng_x_preferred":[
         "Skutare"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d9\u10e3\u10e2\u10d0\u10e0\u10d4"
-    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d9\u10e3\u10e2\u10d0\u10e0\u10d4"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u043a\u0443\u0442\u0430\u0440\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Skutare"
     ],
     "name:msa_x_preferred":[
         "Skutare"
@@ -44,9 +38,6 @@
         "Skutare"
     ],
     "name:ron_x_preferred":[
-        "Skutare"
-    ],
-    "name:rum_x_preferred":[
         "Skutare"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641682,
+    "wof:lastmodified":1561837442,
     "wof:name":"\u0421\u043a\u0443\u0442\u0430\u0440\u0435",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

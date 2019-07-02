@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Boyno"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10d8\u10dc\u10dd"
-    ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10d8\u10dc\u10dd"
     ],
@@ -35,9 +32,6 @@
         "Bojno"
     ],
     "name:ron_x_preferred":[
-        "Boino"
-    ],
-    "name:rum_x_preferred":[
         "Boino"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +83,7 @@
         }
     ],
     "wof:id":101800265,
-    "wof:lastmodified":1527715092,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0411\u043e\u0439\u043d\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

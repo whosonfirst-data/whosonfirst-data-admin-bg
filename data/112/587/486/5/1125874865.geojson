@@ -27,7 +27,7 @@
     "name:pol_x_preferred":[
         "Do\u0142no Nowo se\u0142o"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dolno Novo Selo"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125874865,
-    "wof:lastmodified":1553816590,
+    "wof:lastmodified":1561837459,
     "wof:name":"Dolno Novo Selo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

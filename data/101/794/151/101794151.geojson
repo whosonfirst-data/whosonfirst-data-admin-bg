@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000139,
-    "geom:area_square_m":1237692.214658,
+    "geom:area_square_m":1237692.214659,
     "geom:bbox":"26.7796220104,43.7408265841,26.7929905833,43.7593614824",
     "geom:latitude":43.750179,
     "geom:longitude":26.78664,
@@ -31,7 +31,7 @@
     "name:pol_x_preferred":[
         "Swesztari"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sve\u0219tari"
     ],
     "name:rus_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":101794151,
-    "wof:lastmodified":1527689315,
+    "wof:lastmodified":1561837453,
     "wof:name":"\u0421\u0432\u0435\u0449\u0430\u0440\u0438",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

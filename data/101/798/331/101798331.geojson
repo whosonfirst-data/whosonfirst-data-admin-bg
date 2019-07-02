@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":818658.254727,
+    "geom:area_square_m":818658.254726,
     "geom:bbox":"27.5223776515,42.7662312888,27.5363001122,42.7780263988",
     "geom:latitude":42.771333,
     "geom:longitude":27.5298,
@@ -63,7 +63,7 @@
     "name:ron_x_preferred":[
         "Cetatea Golub\u0103\u021b"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "G\u0103l\u0103be\u021b"
     ],
     "name:rus_x_preferred":[
@@ -128,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641923,
+    "wof:lastmodified":1561837445,
     "wof:name":"\u0413\u044a\u043b\u044a\u0431\u0435\u0446",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

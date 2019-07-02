@@ -27,7 +27,7 @@
     "name:kaz_x_preferred":[
         "\u0414\u043e\u0447\u0430"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Docea"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1126019175,
-    "wof:lastmodified":1513899765,
+    "wof:lastmodified":1561837460,
     "wof:name":"Docha",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

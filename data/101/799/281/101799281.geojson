@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
-    "geom:area_square_m":1048433.528177,
+    "geom:area_square_m":1048433.528176,
     "geom:bbox":"24.3040146492,42.1514205599,24.3197798703,42.1639814983",
     "geom:latitude":42.157997,
     "geom:longitude":24.31122,
@@ -21,6 +21,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u06af\u0644\u0627\u06a4\u06cc\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Glawiniza"
     ],
     "name:eng_x_colloquial":[
         "Bashi-Kaerovo",
@@ -51,9 +54,6 @@
     "name:fas_x_preferred":[
         "\u06af\u0644\u0627\u0648\u06cc\u0646\u06cc\u062a\u0633\u0627"
     ],
-    "name:ger_x_preferred":[
-        "Glawiniza"
-    ],
     "name:kaz_x_preferred":[
         "\u0413\u043b\u0430\u0432\u0438\u043d\u0438\u0446\u0430"
     ],
@@ -63,7 +63,7 @@
     "name:por_x_preferred":[
         "Glavinica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Glavini\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -137,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641684,
+    "wof:lastmodified":1561837442,
     "wof:name":"\u0413\u043b\u0430\u0432\u0438\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

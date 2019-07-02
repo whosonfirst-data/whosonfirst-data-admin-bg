@@ -31,7 +31,7 @@
     "name:pol_x_preferred":[
         "Malewo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Malevo"
     ],
     "name:rus_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":101799221,
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837442,
     "wof:name":"\u041c\u0430\u043b\u0435\u0432\u043e",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

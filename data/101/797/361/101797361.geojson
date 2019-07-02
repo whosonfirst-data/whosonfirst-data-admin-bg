@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
-    "geom:area_square_m":1647193.433902,
+    "geom:area_square_m":1647193.433904,
     "geom:bbox":"27.5850421444,43.0459436182,27.6183534035,43.0577744819",
     "geom:latitude":43.052149,
     "geom:longitude":27.60089,
@@ -56,9 +56,6 @@
         "Dybrawino"
     ],
     "name:ron_x_preferred":[
-        "D\u0103bravino"
-    ],
-    "name:rum_x_preferred":[
         "D\u0103bravino"
     ],
     "name:rus_x_preferred":[
@@ -118,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641527,
+    "wof:lastmodified":1561837439,
     "wof:name":"\u0414\u044a\u0431\u0440\u0430\u0432\u0438\u043d\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

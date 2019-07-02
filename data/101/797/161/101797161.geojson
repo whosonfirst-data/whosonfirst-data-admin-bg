@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000414,
-    "geom:area_square_m":3723353.404193,
+    "geom:area_square_m":3723353.404191,
     "geom:bbox":"25.5303531362,43.3982119025,25.5783034194,43.4243540313",
     "geom:latitude":43.408587,
     "geom:longitude":25.558379,
@@ -25,7 +25,7 @@
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0445\u0438\u043b\u043e\u0432\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Strahilovo"
     ],
     "name:rus_x_preferred":[
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101797161,
-    "wof:lastmodified":1527641521,
+    "wof:lastmodified":1561837437,
     "wof:name":"\u0421\u0442\u0440\u0430\u0445\u0438\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

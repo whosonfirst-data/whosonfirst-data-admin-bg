@@ -25,7 +25,7 @@
     "name:eng_x_preferred":[
         "Ustina"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ustina"
     ],
     "name:kaz_x_preferred":[
@@ -37,7 +37,7 @@
     "name:pol_x_preferred":[
         "Ustina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ustina"
     ],
     "name:rus_x_preferred":[
@@ -99,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715085,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u0423\u0441\u0442\u0438\u043d\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

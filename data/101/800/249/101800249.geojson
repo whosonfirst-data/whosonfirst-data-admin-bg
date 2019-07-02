@@ -31,9 +31,6 @@
     "name:ron_x_preferred":[
         "Komuniga"
     ],
-    "name:rum_x_preferred":[
-        "Komuniga"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u0443\u043d\u0438\u0433\u0430"
     ],
@@ -90,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715091,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u041a\u043e\u043c\u0443\u043d\u0438\u0433\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000625,
-    "geom:area_square_m":5670673.244304,
+    "geom:area_square_m":5670673.244307,
     "geom:bbox":"23.3252160861,42.7883893718,23.379462289,42.8321811383",
     "geom:latitude":42.810981,
     "geom:longitude":23.348997,
@@ -22,9 +22,6 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0438 \u0418\u0441\u043a\u044a\u0440"
     ],
-    "name:dut_x_preferred":[
-        "Novi Iskar"
-    ],
     "name:eng_x_preferred":[
         "Novi Iskar"
     ],
@@ -37,13 +34,13 @@
     "name:lit_x_preferred":[
         "Novi Iskeras"
     ],
+    "name:nld_x_preferred":[
+        "Novi Iskar"
+    ],
     "name:pol_x_preferred":[
         "Nowi Iskyr"
     ],
     "name:ron_x_preferred":[
-        "Novi Isk\u0103r"
-    ],
-    "name:rum_x_preferred":[
         "Novi Isk\u0103r"
     ],
     "name:rus_x_preferred":[
@@ -105,7 +102,7 @@
         }
     ],
     "wof:id":101798039,
-    "wof:lastmodified":1527641927,
+    "wof:lastmodified":1561837446,
     "wof:name":"\u041d\u043e\u0432\u0438 \u0418\u0441\u043a\u044a\u0440",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

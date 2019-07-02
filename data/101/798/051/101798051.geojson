@@ -25,9 +25,6 @@
     "name:kaz_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0432\u0430\u043d"
     ],
-    "name:may_x_preferred":[
-        "Negovan"
-    ],
     "name:msa_x_preferred":[
         "Negovan"
     ],
@@ -35,9 +32,6 @@
         "Negowan"
     ],
     "name:ron_x_preferred":[
-        "Negovan"
-    ],
-    "name:rum_x_preferred":[
         "Negovan"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":101798051,
-    "wof:lastmodified":1527641934,
+    "wof:lastmodified":1561837449,
     "wof:name":"\u041d\u0435\u0433\u043e\u0432\u0430\u043d",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

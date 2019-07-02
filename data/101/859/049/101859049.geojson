@@ -30,9 +30,6 @@
     "name:ron_x_preferred":[
         "Fotinovo"
     ],
-    "name:rum_x_preferred":[
-        "Fotinovo"
-    ],
     "name:rus_x_preferred":[
         "\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
@@ -88,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744714,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

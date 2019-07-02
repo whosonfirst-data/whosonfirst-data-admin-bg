@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.485245,
-    "geom:area_square_m":4449197380.248796,
+    "geom:area_square_m":4449197380.249025,
     "geom:bbox":"23.7553475,41.668646,24.537811,42.6289975",
     "geom:latitude":42.138922,
     "geom:longitude":24.146927,
@@ -24,17 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
-    "name:alb_x_preferred":[
-        "Pazard\u017eik"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0632\u0627\u0631\u062c\u064a\u0643"
-    ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u0566\u0561\u0580\u057b\u056b\u056f\u056b \u0574\u0561\u0580\u0566"
-    ],
-    "name:baq_x_preferred":[
-        "Pazardzhik probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u044b\u043a\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -51,17 +42,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Pazardzhik"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u624e\u723e\u5409\u514b\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pazard\u017eick\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Pazardsjik"
     ],
-    "name:dut_x_preferred":[
-        "Pazardzjik"
+    "name:deu_x_preferred":[
+        "Oblast Pasardschik"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03b6\u03b1\u03c1\u03c4\u03b6\u03b9\u03ba"
     ],
     "name:eng_x_preferred":[
         "Pazardzhik"
@@ -72,20 +63,17 @@
     "name:est_x_preferred":[
         "Pazard\u017eiki piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Pazardzhik probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u0632\u0627\u0631\u062c\u06cc\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Pazard\u017eikin alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pazardjik"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10d6\u10d0\u10e0\u10ef\u10d8\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oblast Pasardschik"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ac\u03b6\u03b1\u03c1\u03c4\u03b6\u03b9\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0a9d\u0abe\u0ab0\u0acd\u0aa1\u0a9d\u0abf\u0a95 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -99,6 +87,9 @@
     "name:hrv_x_preferred":[
         "Oblast Pazard\u017eik"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0566\u0561\u0580\u057b\u056b\u056f\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Pazardzhik"
     ],
@@ -110,6 +101,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0c9d\u0cbe\u0cb0\u0ccd\u0c9d\u0cbf\u0c95\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10d6\u10d0\u10e0\u10ef\u10d8\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud30c\uc790\ub974\uc9c0\ud06c \uc8fc"
@@ -126,20 +120,23 @@
     "name:lrc_x_preferred":[
         "\u067e\u0627\u0632\u0627\u0631\u062c\u06cc\u06a9"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u0437\u0430\u0440\u045f\u0438\u0447\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0945\u091d\u093e\u0930\u094d\u0921\u091d\u093f\u0915 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Pazardzhik Province"
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0437\u0430\u0440\u045f\u0438\u0447\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0430\u0437\u0430\u0440\u0436\u0438\u043a \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Pazardzhik Province"
+    ],
     "name:nan_x_preferred":[
         "Pazardzhik Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Pazardzjik"
     ],
     "name:nob_x_preferred":[
         "Pazardzhik provins"
@@ -150,9 +147,6 @@
     "name:oss_x_preferred":[
         "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u0447\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u067e\u0627\u0632\u0627\u0631\u062c\u06cc\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u067e\u0627\u0632\u0627\u0631\u062c\u06a9"
     ],
@@ -162,7 +156,7 @@
     "name:por_x_preferred":[
         "Pazardzhik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Pazargik"
     ],
     "name:rus_x_preferred":[
@@ -174,7 +168,7 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dc3\u0dbb\u0dca\u0da9\u0dca\u0dc3\u0dd2\u0d9a\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pazard\u017eik"
     ],
     "name:slv_x_preferred":[
@@ -182,6 +176,9 @@
     ],
     "name:spa_x_preferred":[
         "Pazardzhik"
+    ],
+    "name:sqi_x_preferred":[
+        "Pazard\u017eik"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u0437\u0430\u0440\u045f\u0438\u0447\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
@@ -218,6 +215,9 @@
     ],
     "name:war_x_preferred":[
         "Pazardzhik"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u624e\u723e\u5409\u514b\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BGR",
@@ -333,7 +333,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1553814854,
+    "wof:lastmodified":1561837428,
     "wof:name":"\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

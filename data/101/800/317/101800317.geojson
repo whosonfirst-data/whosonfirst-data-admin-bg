@@ -29,20 +29,11 @@
         "Polenica",
         "Poleniza"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10da\u10d4\u10dc\u10d8\u10ea\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10da\u10d4\u10dc\u10d8\u10ea\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u043e\u043b\u0435\u043d\u0438\u0446\u0430"
-    ],
-    "name:mac_x_preferred":[
-        "\u041f\u043e\u043b\u0435\u043d\u0438\u0446\u0430"
-    ],
-    "name:may_x_preferred":[
-        "Polenitsa"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u043e\u043b\u0435\u043d\u0438\u0446\u0430"
@@ -51,9 +42,6 @@
         "Polenitsa"
     ],
     "name:ron_x_preferred":[
-        "Poleni\u021ba"
-    ],
-    "name:rum_x_preferred":[
         "Poleni\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -113,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715094,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u041f\u043e\u043b\u0435\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

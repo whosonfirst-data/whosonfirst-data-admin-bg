@@ -33,7 +33,7 @@
         "Glo\u017eane",
         "Glo\u017eene"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Glozhene"
     ],
     "name:ita_x_preferred":[
@@ -45,7 +45,7 @@
     "name:nno_x_preferred":[
         "Glozhene Cove"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Glojene"
     ],
     "name:rus_x_preferred":[
@@ -110,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815541,
+    "wof:lastmodified":1561837453,
     "wof:name":"\u0413\u043b\u043e\u0436\u0435\u043d\u0435",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

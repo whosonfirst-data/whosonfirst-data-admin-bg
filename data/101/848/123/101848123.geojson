@@ -28,9 +28,6 @@
     "name:ron_x_preferred":[
         "Rodopi"
     ],
-    "name:rum_x_preferred":[
-        "Rodopi"
-    ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0434\u043e\u043f\u0438"
     ],
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":101848123,
-    "wof:lastmodified":1527714821,
+    "wof:lastmodified":1561837454,
     "wof:name":"\u0420\u043e\u0434\u043e\u043f\u0438",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

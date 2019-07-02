@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":968441.649651,
+    "geom:area_square_m":968441.64965,
     "geom:bbox":"24.4373598091,42.6887775551,24.4578644593,42.6983097086",
     "geom:latitude":42.693113,
     "geom:longitude":24.449622,
@@ -17,23 +17,17 @@
     "mps:longitude":24.451175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u056c\u056b\u057d\u0578\u0582\u0580\u0561"
-    ],
     "name:bos_x_preferred":[
         "Klisura"
     ],
     "name:bul_x_preferred":[
         "\u041a\u043b\u0438\u0441\u0443\u0440\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u5229\u8607\u62c9"
-    ],
     "name:ckb_x_preferred":[
         "\u06a9\u0644\u06cc\u0633\u0648\u0631\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Klisura"
+    "name:deu_x_preferred":[
+        "Klissura"
     ],
     "name:eng_x_preferred":[
         "Klisura"
@@ -43,14 +37,17 @@
         "Klissoura",
         "Klissura"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u06cc\u0633\u0648\u0631\u0627\u060c \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Klisura"
     ],
-    "name:ger_x_preferred":[
-        "Klissura"
-    ],
     "name:hbs_x_preferred":[
         "Klisura"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056c\u056b\u057d\u0578\u0582\u0580\u0561"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30ea\u30b9\u30e9"
@@ -58,13 +55,13 @@
     "name:kaz_x_preferred":[
         "\u041a\u043b\u0438\u0441\u0443\u0440\u0430"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0644\u06cc\u0633\u0648\u0631\u0627\u060c \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Klisura"
     ],
     "name:por_x_preferred":[
         "Klisura"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Klisura"
     ],
     "name:rus_x_preferred":[
@@ -87,6 +84,9 @@
     ],
     "name:war_x_preferred":[
         "Klisura"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5229\u8607\u62c9"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
@@ -136,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641929,
+    "wof:lastmodified":1561837447,
     "wof:name":"\u041a\u043b\u0438\u0441\u0443\u0440\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

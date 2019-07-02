@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1148421.747985,
+    "geom:area_square_m":1148421.747984,
     "geom:bbox":"24.761852015,41.651146165,24.7819203178,41.666179103",
     "geom:latitude":41.65866,
     "geom:longitude":24.773032,
@@ -28,25 +28,16 @@
         "Momchilovci",
         "Momtschilowzi"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10db\u10e9\u10d8\u10da\u10dd\u10d5\u10ea\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10db\u10e9\u10d8\u10da\u10dd\u10d5\u10ea\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u043c\u0447\u0438\u043b\u043e\u0432\u0446\u0438"
     ],
-    "name:may_x_preferred":[
-        "Momchilovtsi"
-    ],
     "name:msa_x_preferred":[
         "Momchilovtsi"
     ],
     "name:ron_x_preferred":[
-        "Momcilov\u021bi"
-    ],
-    "name:rum_x_preferred":[
         "Momcilov\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -103,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715083,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u041c\u043e\u043c\u0447\u0438\u043b\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

@@ -47,9 +47,6 @@
     "name:ron_x_preferred":[
         "Cerven Breg"
     ],
-    "name:rum_x_preferred":[
-        "Cerven Breg"
-    ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d-\u0411\u0440\u0435\u0433"
     ],
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641687,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u0427\u0435\u0440\u0432\u0435\u043d \u0431\u0440\u0435\u0433",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

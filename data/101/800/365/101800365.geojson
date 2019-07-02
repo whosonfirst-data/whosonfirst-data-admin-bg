@@ -35,19 +35,13 @@
     "name:kaz_x_preferred":[
         "\u0411\u0435\u043b\u043e-\u041f\u043e\u043b\u0435"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0435\u043b\u043e \u041f\u043e\u043b\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Belo pole"
     ],
     "name:msa_x_preferred":[
         "Belo pole"
     ],
     "name:ron_x_preferred":[
-        "Belo Pole"
-    ],
-    "name:rum_x_preferred":[
         "Belo Pole"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715082,
+    "wof:lastmodified":1561837454,
     "wof:name":"\u0411\u0435\u043b\u043e \u043f\u043e\u043b\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

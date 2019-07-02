@@ -21,28 +21,28 @@
     "name:bul_x_preferred":[
         "\u0415\u043c\u043e\u043d\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Emona"
-    ],
     "name:eng_x_preferred":[
         "Emona"
     ],
     "name:epo_x_preferred":[
         "Emona"
     ],
-    "name:geo_x_preferred":[
+    "name:kat_x_preferred":[
         "\u10d4\u10db\u10dd\u10dc\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0415\u043c\u043e\u043d\u0430"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Emona"
+    ],
+    "name:nld_x_preferred":[
         "Emona"
     ],
     "name:pol_x_preferred":[
         "Emona"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Emona"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1126022705,
-    "wof:lastmodified":1513899766,
+    "wof:lastmodified":1561837458,
     "wof:name":"Emona",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

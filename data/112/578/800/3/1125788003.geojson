@@ -27,10 +27,10 @@
     "name:kaz_x_preferred":[
         "\u041b\u0435\u0448\u0442\u0435\u043d"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041b\u0435\u0448\u0442\u0435\u043d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Le\u0219ten"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125788003,
-    "wof:lastmodified":1513899767,
+    "wof:lastmodified":1561837460,
     "wof:name":"Leshten",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

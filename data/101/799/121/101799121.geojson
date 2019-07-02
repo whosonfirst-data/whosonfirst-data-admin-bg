@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000046,
-    "geom:area_square_m":429414.957875,
+    "geom:area_square_m":429414.957876,
     "geom:bbox":"24.0920338454,41.6162181013,24.1016811663,41.6230928715",
     "geom:latitude":41.619759,
     "geom:longitude":24.097235,
@@ -29,25 +29,16 @@
         "Ljubcha",
         "Ljubtscha"
     ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10e3\u10d1\u10e9\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10e3\u10d1\u10e9\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u044e\u0431\u0447\u0430"
     ],
-    "name:may_x_preferred":[
-        "Lyubcha"
-    ],
     "name:msa_x_preferred":[
         "Lyubcha"
     ],
     "name:ron_x_preferred":[
-        "Liubcea"
-    ],
-    "name:rum_x_preferred":[
         "Liubcea"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641687,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u041b\u044e\u0431\u0447\u0430",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.300419,
-    "geom:area_square_m":2705854131.048165,
+    "geom:area_square_m":2705854131.04823,
     "geom:bbox":"25.943192,42.9508215,26.802016,43.555144",
     "geom:latitude":43.246595,
     "geom:longitude":26.354893,
@@ -24,14 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
-    "name:alb_x_preferred":[
-        "T\u0103rgovi\u0161te"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0627\u0631\u063a\u0648\u0641\u064a\u0634\u062a\u0647"
-    ],
-    "name:arm_x_preferred":[
-        "\u054f\u0561\u0580\u0563\u0578\u057e\u056b\u0577\u057f\u0565\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:bel_x_preferred":[
         "\u0422\u044b\u0440\u0433\u043e\u0432\u0456\u0448\u0446\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -50,17 +44,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Targovixte"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u723e\u6208\u7dad\u4ec0\u7279\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Targovi\u0161\u0165sk\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Targovisjte"
     ],
-    "name:dut_x_preferred":[
-        "Targovisjte"
+    "name:deu_x_preferred":[
+        "Oblast Targowischte"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c1\u03b3\u03ba\u03cc\u03b2\u03b9\u03c3\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Turgovishte"
@@ -71,20 +65,14 @@
     "name:est_x_preferred":[
         "T\u01cergovi\u0161te piirkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0631\u06af\u0648\u0648\u06cc\u0634\u062a\u0647"
+    ],
     "name:fin_x_preferred":[
         "T\u0103rgovi\u0161ten alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Targovicht\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e0\u10d2\u10dd\u10d5\u10d8\u10e8\u10e2\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oblast Targowischte"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c1\u03b3\u03ba\u03cc\u03b2\u03b9\u03c3\u03c4\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0ab0\u0acd\u0a97\u0acb\u0ab5\u0abf\u0ab8\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -98,6 +86,9 @@
     "name:hrv_x_preferred":[
         "Oblast Trgovi\u0161te"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0580\u0563\u0578\u057e\u056b\u0577\u057f\u0565\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Targovishte"
     ],
@@ -109,6 +100,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cb0\u0ccd\u0c97\u0ccb\u0cb5\u0cbf\u0cb6\u0ccd\u0c9f\u0cc6 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e0\u10d2\u10dd\u10d5\u10d8\u10e8\u10e2\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud130\ub974\uace0\ube44\uc288\ud14c \uc8fc"
@@ -122,20 +116,23 @@
     "name:lrc_x_preferred":[
         "\u062a\u0631\u06af\u0648\u0648\u06cc\u0634\u062a\u0647"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0440\u0433\u043e\u0432\u0438\u0448\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u091f\u0945\u0917\u094b\u0935\u094d\u0939\u093f\u0938\u094d\u0924 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Targovishte Province"
+    "name:mkd_x_preferred":[
+        "\u0422\u0440\u0433\u043e\u0432\u0438\u0448\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0422\u044b\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435 \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Targovishte Province"
+    ],
     "name:nan_x_preferred":[
         "Targovishte Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Targovisjte"
     ],
     "name:nob_x_preferred":[
         "Targovishte provins"
@@ -146,9 +143,6 @@
     "name:oss_x_preferred":[
         "\u0422\u044b\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0631\u06af\u0648\u0648\u06cc\u0634\u062a\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u0631\u06af\u0648\u0648\u06cc\u0634\u062a\u06d2"
     ],
@@ -158,7 +152,7 @@
     "name:por_x_preferred":[
         "Targovishte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea T\u0103rgovi\u0219te"
     ],
     "name:rus_x_preferred":[
@@ -170,13 +164,16 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dbb\u0dca\u0d9c\u0ddc\u0dc0\u0dd2\u0dc1\u0dca\u0da7\u0dda \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "T\u0103rgovi\u0161te"
     ],
     "name:slv_x_preferred":[
         "Trgovi\u0161te"
     ],
     "name:spa_x_preferred":[
+        "T\u0103rgovi\u0161te"
+    ],
+    "name:sqi_x_preferred":[
         "T\u0103rgovi\u0161te"
     ],
     "name:srp_x_preferred":[
@@ -214,6 +211,9 @@
     ],
     "name:war_x_preferred":[
         "Targovishte"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u723e\u6208\u7dad\u4ec0\u7279\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BGR",
@@ -331,7 +331,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1553814855,
+    "wof:lastmodified":1561837427,
     "wof:name":"\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

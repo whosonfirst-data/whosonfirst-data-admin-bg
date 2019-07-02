@@ -21,25 +21,25 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0440\u0430\u043d\u043a\u0443\u043b\u0430\u043a"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Durankulak"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10e0\u10d0\u10dc\u10d9\u10e3\u10da\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Durankulak"
     ],
     "name:heb_x_preferred":[
         "\u05d3\u05d5\u05e8\u05e0\u05e7\u05d5\u05dc\u05e7"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10e0\u10d0\u10dc\u10d9\u10e3\u10da\u10d0\u10d9\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u0443\u0440\u0430\u043d\u043a\u0443\u043b\u0430\u043a"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Durankulak"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "R\u0103cari"
     ],
     "name:rus_x_preferred":[
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1125816595,
-    "wof:lastmodified":1553816551,
+    "wof:lastmodified":1561837459,
     "wof:name":"Durankulak",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -31,9 +31,6 @@
     "name:ron_x_preferred":[
         "Galata"
     ],
-    "name:rum_x_preferred":[
-        "Galata"
-    ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043b\u0430\u0442\u0430"
     ],
@@ -87,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641935,
+    "wof:lastmodified":1561837450,
     "wof:name":"\u0413\u0430\u043b\u0430\u0442\u0430",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

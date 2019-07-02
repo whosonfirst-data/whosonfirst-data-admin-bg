@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":988330.365718,
+    "geom:area_square_m":988330.365719,
     "geom:bbox":"27.6574550957,43.0068563487,27.6792870727,43.0183742988",
     "geom:latitude":43.011843,
     "geom:longitude":27.669215,
@@ -40,7 +40,7 @@
     "name:pol_x_preferred":[
         "Pcze\u0142nik"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Pcelnik"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641924,
+    "wof:lastmodified":1561837445,
     "wof:name":"\u041f\u0447\u0435\u043b\u043d\u0438\u043a",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

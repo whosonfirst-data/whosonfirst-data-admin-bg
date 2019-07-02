@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000639,
-    "geom:area_square_m":5841104.090228,
+    "geom:area_square_m":5841104.090225,
     "geom:bbox":"24.6920841584,42.2740946153,24.7568551326,42.2993458355",
     "geom:latitude":42.287301,
     "geom:longitude":24.726662,
@@ -33,9 +33,6 @@
         "Graf Ignatiev",
         "Graf Ignatiew"
     ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10d0\u10e4-\u10d8\u10d2\u10dc\u10d0\u10e2\u10d8\u10d4\u10d5\u10dd"
-    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30d5\u30fb\u30a4\u30b0\u30ca\u30c6\u30a3\u30a8\u30dc"
     ],
@@ -45,9 +42,6 @@
     "name:kaz_x_preferred":[
         "\u0413\u0440\u0430\u0444-\u0418\u0433\u043d\u0430\u0442\u0438\u0435\u0432\u043e"
     ],
-    "name:may_x_preferred":[
-        "Graf Ignatievo"
-    ],
     "name:msa_x_preferred":[
         "Graf Ignatievo"
     ],
@@ -55,9 +49,6 @@
         "Graf Ignatiewo"
     ],
     "name:ron_x_preferred":[
-        "Graf Ignatievo"
-    ],
-    "name:rum_x_preferred":[
         "Graf Ignatievo"
     ],
     "name:rus_x_preferred":[
@@ -117,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641695,
+    "wof:lastmodified":1561837444,
     "wof:name":"\u0413\u0440\u0430\u0444 \u0418\u0433\u043d\u0430\u0442\u0438\u0435\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

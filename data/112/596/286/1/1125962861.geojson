@@ -27,7 +27,7 @@
     "name:kaz_x_preferred":[
         "\u0420\u0430\u0431\u043e\u0432\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rabovo"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125962861,
-    "wof:lastmodified":1513899769,
+    "wof:lastmodified":1561837459,
     "wof:name":"Rabovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

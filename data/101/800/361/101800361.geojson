@@ -39,10 +39,10 @@
     "name:kaz_x_preferred":[
         "\u0421\u043a\u0440\u044b\u0442"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u043a\u0440\u0442"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Skr\u0103t"
     ],
     "name:rus_x_preferred":[
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899919,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0421\u043a\u0440\u044a\u0442",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000073,
-    "geom:area_square_m":669032.171915,
+    "geom:area_square_m":669032.171914,
     "geom:bbox":"23.6089005329,41.9698217718,23.6253474834,41.9792531151",
     "geom:latitude":41.973785,
     "geom:longitude":23.616369,
@@ -19,25 +19,19 @@
     "name:bul_x_preferred":[
         "\u042e\u0440\u0443\u043a\u043e\u0432\u043e"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Yurukovo"
     ],
-    "name:ger_x_preferred":[
+    "name:eng_x_preferred":[
         "Yurukovo"
     ],
     "name:kaz_x_preferred":[
         "\u042e\u0440\u0443\u043a\u043e\u0432\u043e"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0443\u0440\u0443\u043a\u043e\u0432\u043e"
-    ],
     "name:mkd_x_preferred":[
         "\u0408\u0443\u0440\u0443\u043a\u043e\u0432\u043e"
     ],
     "name:ron_x_preferred":[
-        "Iurukovo"
-    ],
-    "name:rum_x_preferred":[
         "Iurukovo"
     ],
     "name:rus_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":101800369,
-    "wof:lastmodified":1527715089,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u042e\u0440\u0443\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

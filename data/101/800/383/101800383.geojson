@@ -20,20 +20,11 @@
     "name:bul_x_preferred":[
         "\u041a\u043b\u044e\u0447"
     ],
-    "name:dut_x_preferred":[
-        "Klyuch"
-    ],
     "name:eng_x_preferred":[
         "Klyuch"
     ],
     "name:fra_x_preferred":[
         "Klyuch"
-    ],
-    "name:fre_x_preferred":[
-        "Klyuch"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10da\u10d8\u10e3\u10e9\u10d8"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10da\u10d8\u10e3\u10e9\u10d8"
@@ -44,22 +35,16 @@
     "name:lat_x_preferred":[
         "Clidium"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043b\u0443\u0447"
-    ],
-    "name:may_x_preferred":[
-        "Klyuch"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u043b\u0443\u0447"
     ],
     "name:msa_x_preferred":[
         "Klyuch"
     ],
-    "name:ron_x_preferred":[
-        "Kliuci"
+    "name:nld_x_preferred":[
+        "Klyuch"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kliuci"
     ],
     "name:rus_x_preferred":[
@@ -110,7 +95,7 @@
         }
     ],
     "wof:id":101800383,
-    "wof:lastmodified":1527715087,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u041a\u043b\u044e\u0447",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

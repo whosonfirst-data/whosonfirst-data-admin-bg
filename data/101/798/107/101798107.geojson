@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1068396.890058,
+    "geom:area_square_m":1068396.890057,
     "geom:bbox":"25.0491233658,42.13314392,25.0658328676,42.1440998132",
     "geom:latitude":42.138625,
     "geom:longitude":25.057267,
@@ -44,7 +44,7 @@
     "name:pol_x_preferred":[
         "Popowica"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Popovi\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641930,
+    "wof:lastmodified":1561837447,
     "wof:name":"\u041f\u043e\u043f\u043e\u0432\u0438\u0446\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

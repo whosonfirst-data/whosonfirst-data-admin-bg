@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0448"
     ],
+    "name:deu_x_preferred":[
+        "Oresch"
+    ],
     "name:eng_x_colloquial":[
         "Ores",
         "Orese",
@@ -34,13 +37,10 @@
         "Orje\u00b5",
         "Oryesh"
     ],
-    "name:ger_x_preferred":[
-        "Oresch"
-    ],
     "name:kaz_x_preferred":[
         "\u041e\u0440\u0435\u0448"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ore\u0219"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641521,
+    "wof:lastmodified":1561837437,
     "wof:name":"\u041e\u0440\u0435\u0448",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

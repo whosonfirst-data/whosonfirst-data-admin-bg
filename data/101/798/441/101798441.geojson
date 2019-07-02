@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000317,
-    "geom:area_square_m":2865141.795244,
+    "geom:area_square_m":2865141.795243,
     "geom:bbox":"27.4271983091,43.0161159683,27.4547879772,43.0389944581",
     "geom:latitude":43.027641,
     "geom:longitude":27.441977,
@@ -28,25 +28,16 @@
     "name:eng_x_preferred":[
         "Tsonevo"
     ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10dd\u10dc\u10d4\u10d5\u10dd"
-    ],
     "name:kat_x_preferred":[
         "\u10ea\u10dd\u10dc\u10d4\u10d5\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u0426\u043e\u043d\u0435\u0432\u043e"
     ],
-    "name:may_x_preferred":[
-        "Tsonevo"
-    ],
     "name:msa_x_preferred":[
         "Tsonevo"
     ],
     "name:ron_x_preferred":[
-        "\u021aonevo"
-    ],
-    "name:rum_x_preferred":[
         "\u021aonevo"
     ],
     "name:rus_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":101798441,
-    "wof:lastmodified":1527641925,
+    "wof:lastmodified":1561837445,
     "wof:name":"\u0426\u043e\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1297567.210805,
+    "geom:area_square_m":1297567.210804,
     "geom:bbox":"26.1593393566,43.765233994,26.1776361762,43.7772334408",
     "geom:latitude":43.771117,
     "geom:longitude":26.16837,
@@ -32,7 +32,7 @@
     "name:pol_x_preferred":[
         "Semerd\u017ciewo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Semerdjievo"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641523,
+    "wof:lastmodified":1561837437,
     "wof:name":"\u0421\u0435\u043c\u0435\u0440\u0434\u0436\u0438\u0435\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

@@ -46,9 +46,6 @@
     "name:ron_x_preferred":[
         "Smirnenski"
     ],
-    "name:rum_x_preferred":[
-        "Smirnenski"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438"
     ],
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641529,
+    "wof:lastmodified":1561837440,
     "wof:name":"\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

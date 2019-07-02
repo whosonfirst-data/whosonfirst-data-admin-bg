@@ -31,7 +31,7 @@
     "name:nno_x_preferred":[
         "Boil Point"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Boil"
     ],
     "name:rus_x_preferred":[
@@ -93,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642028,
+    "wof:lastmodified":1561837450,
     "wof:name":"\u0411\u043e\u0438\u043b",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

@@ -25,16 +25,10 @@
     "name:eng_x_preferred":[
         "Shiroko pole"
     ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d8\u10e0\u10dd\u10d9\u10dd-\u10de\u10dd\u10da\u10d4"
-    ],
     "name:kat_x_preferred":[
         "\u10e8\u10d8\u10e0\u10dd\u10d9\u10dd-\u10de\u10dd\u10da\u10d4"
     ],
     "name:ron_x_preferred":[
-        "\u0218iroko Pole"
-    ],
-    "name:rum_x_preferred":[
         "\u0218iroko Pole"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +80,7 @@
         }
     ],
     "wof:id":101800261,
-    "wof:lastmodified":1527715085,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u0428\u0438\u0440\u043e\u043a\u043e \u043f\u043e\u043b\u0435",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

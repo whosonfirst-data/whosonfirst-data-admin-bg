@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1454104.470333,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.288774,42.681435,23.288774,42.681435",
     "geom:latitude":42.681435,
     "geom:longitude":23.288774,
@@ -26,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u053f\u0580\u0561\u057d\u0576\u0578 \u057d\u0565\u056c\u0578"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u0441\u043d\u043e \u0441\u0435\u043b\u043e"
     ],
@@ -37,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "Krasno Selo"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u0561\u057d\u0576\u0578 \u057d\u0565\u056c\u0578"
     ],
     "name:swe_x_preferred":[
         "Rajon Krasno Selo"
@@ -106,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531932502,
+    "wof:lastmodified":1561837426,
     "wof:name":"Krasno Selo",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

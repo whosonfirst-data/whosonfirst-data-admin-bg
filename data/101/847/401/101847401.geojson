@@ -36,9 +36,6 @@
     "name:ron_x_preferred":[
         "Topciisko"
     ],
-    "name:rum_x_preferred":[
-        "Topciisko"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043f\u0447\u0438\u0439\u0441\u043a\u043e"
     ],
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714970,
+    "wof:lastmodified":1561837454,
     "wof:name":"\u0422\u043e\u043f\u0447\u0438\u0439\u0441\u043a\u043e",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

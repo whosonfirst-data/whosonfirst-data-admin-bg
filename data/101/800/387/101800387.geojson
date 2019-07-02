@@ -38,9 +38,6 @@
     "name:ron_x_preferred":[
         "Sloko\u0219ti\u021ba"
     ],
-    "name:rum_x_preferred":[
-        "Sloko\u0219ti\u021ba"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u043e\u043a\u043e\u0448\u0442\u0438\u0446\u0430"
     ],
@@ -94,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715094,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u0421\u043b\u043e\u043a\u043e\u0449\u0438\u0446\u0430",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

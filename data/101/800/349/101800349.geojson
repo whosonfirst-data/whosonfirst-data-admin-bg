@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000056,
-    "geom:area_square_m":519304.91443,
+    "geom:area_square_m":519304.914431,
     "geom:bbox":"23.2800354091,41.5007714372,23.2902648612,41.5088272015",
     "geom:latitude":41.504954,
     "geom:longitude":23.28557,
@@ -29,16 +29,10 @@
     "name:kaz_x_preferred":[
         "\u041d\u043e\u0432\u043e-\u0414\u0435\u043b\u0447\u0435\u0432\u043e"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e"
-    ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e"
     ],
     "name:ron_x_preferred":[
-        "Novo Delcevo"
-    ],
-    "name:rum_x_preferred":[
         "Novo Delcevo"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715087,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

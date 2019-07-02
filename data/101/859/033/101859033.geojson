@@ -36,9 +36,6 @@
     "name:ron_x_preferred":[
         "Sindel\u021bi"
     ],
-    "name:rum_x_preferred":[
-        "Sindel\u021bi"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u0434\u0435\u043b\u0446\u0438"
     ],
@@ -100,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744707,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0421\u0438\u043d\u0434\u0435\u043b\u0446\u0438",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

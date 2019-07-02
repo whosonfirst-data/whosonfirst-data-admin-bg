@@ -31,7 +31,7 @@
     "name:pol_x_preferred":[
         "Ry\u017cena"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "R\u0103jena"
     ],
     "name:rus_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101798173,
-    "wof:lastmodified":1513899911,
+    "wof:lastmodified":1561837446,
     "wof:name":"\u0420\u044a\u0436\u0435\u043d\u0430",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

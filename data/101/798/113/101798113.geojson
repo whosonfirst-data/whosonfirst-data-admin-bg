@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":878693.359659,
+    "geom:area_square_m":878693.359658,
     "geom:bbox":"24.6323094628,42.1117145432,24.6452796212,42.1270950832",
     "geom:latitude":42.120679,
     "geom:longitude":24.638658,
@@ -32,7 +32,7 @@
     "name:pol_x_preferred":[
         "Z\u0142atitrap"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zlatitrap"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899838,
+    "wof:lastmodified":1561837450,
     "wof:name":"\u0417\u043b\u0430\u0442\u0438\u0442\u0440\u0430\u043f",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

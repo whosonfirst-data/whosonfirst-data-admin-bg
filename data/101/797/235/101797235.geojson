@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000197,
-    "geom:area_square_m":1766844.754466,
+    "geom:area_square_m":1766844.754465,
     "geom:bbox":"24.6855201042,43.4062826843,24.7142563936,43.4198739857",
     "geom:latitude":43.412139,
     "geom:longitude":24.701553,
@@ -29,9 +29,6 @@
         "Grivica",
         "Griwiza"
     ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e0\u10d8\u10d5\u10d8\u10ea\u10d0"
-    ],
     "name:jpn_x_preferred":[
         "\u30b0\u30ea\u30f4\u30a3\u30c4\u30a1"
     ],
@@ -41,16 +38,10 @@
     "name:kaz_x_preferred":[
         "\u0413\u0440\u0438\u0432\u0438\u0446\u0430"
     ],
-    "name:may_x_preferred":[
-        "Grivitsa"
-    ],
     "name:msa_x_preferred":[
         "Grivitsa"
     ],
     "name:ron_x_preferred":[
-        "Grivi\u021ba"
-    ],
-    "name:rum_x_preferred":[
         "Grivi\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -110,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641524,
+    "wof:lastmodified":1561837438,
     "wof:name":"\u0413\u0440\u0438\u0432\u0438\u0446\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

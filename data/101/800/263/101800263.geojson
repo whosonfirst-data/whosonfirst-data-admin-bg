@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":758965.205218,
+    "geom:area_square_m":758965.205217,
     "geom:bbox":"25.6682455798,41.6004536108,25.687201239,41.61469857",
     "geom:latitude":41.607798,
     "geom:longitude":25.677758,
@@ -31,9 +31,6 @@
         "\u041f\u043e\u0442\u043e\u0447\u043d\u0438\u0446\u0430"
     ],
     "name:ron_x_preferred":[
-        "Potocini\u021ba"
-    ],
-    "name:rum_x_preferred":[
         "Potocini\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715093,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u041f\u043e\u0442\u043e\u0447\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

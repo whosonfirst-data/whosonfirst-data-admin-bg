@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000172,
-    "geom:area_square_m":1577666.757702,
+    "geom:area_square_m":1577666.757701,
     "geom:bbox":"27.9173952995,42.0937727376,27.949514792,42.1083043781",
     "geom:latitude":42.099815,
     "geom:longitude":27.934539,
@@ -29,20 +29,11 @@
     "name:ces_x_preferred":[
         "Achtopol"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u8d6b\u6258\u6ce2\u723e"
-    ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u062e\u062a\u06c6\u067e\u06c6\u0644"
     ],
-    "name:cze_x_preferred":[
-        "Achtopol"
-    ],
     "name:deu_x_preferred":[
         "Achtopol"
-    ],
-    "name:dut_x_preferred":[
-        "Ahtopol"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03b1\u03b8\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
@@ -67,23 +58,17 @@
     "name:fas_x_preferred":[
         "\u0622\u0647\u062a\u0648\u067e\u0648\u0644"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ahtopol"
-    ],
-    "name:ger_x_preferred":[
-        "Achtopol"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b3\u03b1\u03b8\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0445\u0442\u043e\u043f\u043e\u043b"
     ],
+    "name:nld_x_preferred":[
+        "Ahtopol"
+    ],
     "name:oss_x_preferred":[
         "\u0410\u0445\u0442\u043e\u043f\u043e\u043b"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0647\u062a\u0648\u067e\u0648\u0644"
     ],
     "name:pol_x_preferred":[
         "Achtopol"
@@ -92,9 +77,6 @@
         "Ahtopol"
     ],
     "name:ron_x_preferred":[
-        "Ahtopol"
-    ],
-    "name:rum_x_preferred":[
         "Ahtopol"
     ],
     "name:rus_x_preferred":[
@@ -173,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641691,
+    "wof:lastmodified":1561837444,
     "wof:name":"\u0410\u0445\u0442\u043e\u043f\u043e\u043b",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

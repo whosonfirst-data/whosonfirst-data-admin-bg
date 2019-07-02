@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000344,
-    "geom:area_square_m":3074335.127235,
+    "geom:area_square_m":3074335.127234,
     "geom:bbox":"27.5584019598,43.6351640038,27.5844786107,43.6589424904",
     "geom:latitude":43.649418,
     "geom:longitude":27.572519,
@@ -29,9 +29,6 @@
         "\u041a\u0430\u0440\u0430\u043f\u0435\u043b\u0438\u0442"
     ],
     "name:ron_x_preferred":[
-        "Karapelit"
-    ],
-    "name:rum_x_preferred":[
         "Karapelit"
     ],
     "name:rus_x_preferred":[
@@ -87,7 +84,7 @@
         }
     ],
     "wof:id":101797509,
-    "wof:lastmodified":1527641528,
+    "wof:lastmodified":1561837439,
     "wof:name":"\u041a\u0430\u0440\u0430\u043f\u0435\u043b\u0438\u0442",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

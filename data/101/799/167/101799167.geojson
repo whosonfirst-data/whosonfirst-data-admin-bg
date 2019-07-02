@@ -25,9 +25,6 @@
     "name:deu_x_preferred":[
         "Rupite"
     ],
-    "name:dut_x_preferred":[
-        "Rupite"
-    ],
     "name:eng_x_preferred":[
         "Rupite"
     ],
@@ -36,12 +33,6 @@
         "Muletarovo",
         "Schirbanowo",
         "Sirbanovo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10e3\u10de\u10d8\u10e2\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Rupite"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05e4\u05d9\u05d8\u05d4"
@@ -55,22 +46,19 @@
     "name:lit_x_preferred":[
         "Rupit\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0438\u0440\u0431\u0430\u043d\u043e\u0432\u043e"
-    ],
-    "name:may_x_preferred":[
-        "Rupite"
-    ],
     "name:mkd_x_preferred":[
         "\u0420\u0443\u043f\u0438\u0442\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0428\u0438\u0440\u0431\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:msa_x_preferred":[
         "Rupite"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Rupite"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rupite"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641682,
+    "wof:lastmodified":1561837442,
     "wof:name":"\u0420\u0443\u043f\u0438\u0442\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

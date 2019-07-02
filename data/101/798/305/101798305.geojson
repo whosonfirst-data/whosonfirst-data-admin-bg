@@ -45,9 +45,6 @@
     "name:ron_x_preferred":[
         "Tr\u0103nak"
     ],
-    "name:rum_x_preferred":[
-        "Tr\u0103nak"
-    ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u044b\u043d\u0430\u043a"
     ],
@@ -105,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641930,
+    "wof:lastmodified":1561837448,
     "wof:name":"\u0422\u0440\u044a\u043d\u0430\u043a",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

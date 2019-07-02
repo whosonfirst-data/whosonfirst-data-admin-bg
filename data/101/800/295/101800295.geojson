@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Krupnik"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0440\u0443\u043f\u043d\u0438\u043a"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u0440\u0443\u043f\u043d\u0438\u043a"
     ],
@@ -32,9 +29,6 @@
         "Krupnik"
     ],
     "name:ron_x_preferred":[
-        "Krupnik"
-    ],
-    "name:rum_x_preferred":[
         "Krupnik"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715085,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u041a\u0440\u0443\u043f\u043d\u0438\u043a",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

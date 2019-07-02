@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000313,
-    "geom:area_square_m":2845434.999058,
+    "geom:area_square_m":2845434.999055,
     "geom:bbox":"27.747145678,42.700520313,27.8247558676,42.7192074477",
     "geom:latitude":42.708945,
     "geom:longitude":27.776313,
@@ -30,20 +30,11 @@
     "name:ces_x_preferred":[
         "Sveti Vlas"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5f17\u62c9\u65af"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u06a4\u06ce\u062a\u06cc \u06a4\u0644\u0627\u0633"
     ],
-    "name:cze_x_preferred":[
-        "Sveti Vlas"
-    ],
     "name:deu_x_preferred":[
         "Sweti Wlas"
-    ],
-    "name:dut_x_preferred":[
-        "Sveti Vlas"
     ],
     "name:eng_x_preferred":[
         "Saint Vlas"
@@ -51,11 +42,11 @@
     "name:fas_x_preferred":[
         "\u0633\u0648\u062a\u06cc \u0648\u0644\u0627\u0633"
     ],
-    "name:ger_x_preferred":[
-        "Sweti Wlas"
-    ],
     "name:kaz_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438-\u0412\u043b\u0430\u0441"
+    ],
+    "name:nld_x_preferred":[
+        "Sveti Vlas"
     ],
     "name:nob_x_preferred":[
         "Sveti Vlas"
@@ -66,9 +57,6 @@
     "name:oss_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438-\u0412\u043b\u0430\u0441"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u062a\u06cc \u0648\u0644\u0627\u0633"
-    ],
     "name:pol_x_preferred":[
         "Sweti W\u0142as"
     ],
@@ -78,16 +66,10 @@
     "name:ron_x_preferred":[
         "Sveti Vlas"
     ],
-    "name:rum_x_preferred":[
-        "Sveti Vlas"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438-\u0412\u043b\u0430\u0441"
     ],
     "name:slk_x_preferred":[
-        "Sveti Vlas"
-    ],
-    "name:slo_x_preferred":[
         "Sveti Vlas"
     ],
     "name:spa_x_preferred":[
@@ -159,7 +141,7 @@
         }
     ],
     "wof:id":101798347,
-    "wof:lastmodified":1527641928,
+    "wof:lastmodified":1561837447,
     "wof:name":"\u0421\u0432\u0435\u0442\u0438 \u0412\u043b\u0430\u0441",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

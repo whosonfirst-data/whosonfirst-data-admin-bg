@@ -30,7 +30,7 @@
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0438\u043a\u044b\u043b"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Stik\u0103l"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1125920775,
-    "wof:lastmodified":1513899770,
+    "wof:lastmodified":1561837458,
     "wof:name":"Stikul",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

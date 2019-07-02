@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000048,
-    "geom:area_square_m":439403.257143,
+    "geom:area_square_m":439403.257144,
     "geom:bbox":"25.3910621076,41.5863143468,25.3995765709,41.5985226365",
     "geom:latitude":41.592481,
     "geom:longitude":25.394521,
@@ -25,9 +25,6 @@
     "name:eng_x_preferred":[
         "Gluhar"
     ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10da\u10e3\u10ee\u10d0\u10e0\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10d2\u10da\u10e3\u10ee\u10d0\u10e0\u10d8"
     ],
@@ -35,9 +32,6 @@
         "\u0413\u043b\u0443\u0445\u0430\u0440"
     ],
     "name:ron_x_preferred":[
-        "Gluhar"
-    ],
-    "name:rum_x_preferred":[
         "Gluhar"
     ],
     "name:rus_x_preferred":[
@@ -91,7 +85,7 @@
         }
     ],
     "wof:id":101800267,
-    "wof:lastmodified":1527715086,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u0413\u043b\u0443\u0445\u0430\u0440",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

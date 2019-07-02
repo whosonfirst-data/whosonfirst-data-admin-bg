@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
-    "geom:area_square_m":1836473.035148,
+    "geom:area_square_m":1836473.035147,
     "geom:bbox":"26.4522508841,43.9802372396,26.4716605152,44.0041414077",
     "geom:latitude":43.992609,
     "geom:longitude":26.463215,
@@ -35,25 +35,16 @@
         "Turski Smil",
         "Tyurk Smil"
     ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10dd\u10d5\u10d0-\u10e9\u10d4\u10e0\u10dc\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10d5\u10d0-\u10e9\u10d4\u10e0\u10dc\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041d\u043e\u0432\u0430-\u0427\u0435\u0440\u043d\u0430"
     ],
-    "name:may_x_preferred":[
-        "Nova Cherna"
-    ],
     "name:msa_x_preferred":[
         "Nova Cherna"
     ],
     "name:ron_x_preferred":[
-        "Nova Cerna"
-    ],
-    "name:rum_x_preferred":[
         "Nova Cerna"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642033,
+    "wof:lastmodified":1561837451,
     "wof:name":"\u041d\u043e\u0432\u0430 \u0427\u0435\u0440\u043d\u0430",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

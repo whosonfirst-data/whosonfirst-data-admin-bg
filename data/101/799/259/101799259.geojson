@@ -31,7 +31,7 @@
     "name:pol_x_preferred":[
         "Semczinowo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Semcinovo"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899913,
+    "wof:lastmodified":1561837442,
     "wof:name":"\u0421\u0435\u043c\u0447\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

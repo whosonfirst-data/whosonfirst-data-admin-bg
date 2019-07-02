@@ -36,9 +36,6 @@
     "name:kaz_x_preferred":[
         "\u041c\u0443\u0441\u043e\u043c\u0438\u0448\u0442\u0430"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0443\u0441\u043e\u043c\u0438\u0448\u0442\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u041c\u0443\u0441\u043e\u043c\u0438\u0448\u0442\u0430"
     ],
@@ -46,9 +43,6 @@
         "Musomiszta"
     ],
     "name:ron_x_preferred":[
-        "Musomi\u0219ta"
-    ],
-    "name:rum_x_preferred":[
         "Musomi\u0219ta"
     ],
     "name:rus_x_preferred":[
@@ -108,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715094,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u041c\u0443\u0441\u043e\u043c\u0438\u0449\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

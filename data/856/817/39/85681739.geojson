@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.343226,
-    "geom:area_square_m":3172145827.581933,
+    "geom:area_square_m":3172145827.581907,
     "geom:bbox":"24.0609325,41.3110825,25.180422,41.9382185",
     "geom:latitude":41.631327,
     "geom:longitude":24.662591,
@@ -24,17 +24,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
-    "name:alb_x_preferred":[
-        "Smoljan"
-    ],
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0645\u0648\u0644\u064a\u0627\u0646"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u0574\u0578\u056c\u0575\u0561\u0576\u056b \u0574\u0561\u0580\u0566"
-    ],
-    "name:baq_x_preferred":[
-        "Smolian probintzia"
     ],
     "name:bel_x_preferred":[
         "\u0421\u043c\u0430\u043b\u044f\u043d\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
@@ -51,17 +42,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Smolian"
     ],
-    "name:chi_x_preferred":[
-        "\u65af\u83ab\u6881\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Smoljansk\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Smoljan"
     ],
-    "name:dut_x_preferred":[
-        "Smoljan"
+    "name:deu_x_preferred":[
+        "Oblast Smoljan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bc\u03cc\u03bb\u03b9\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Smolyan"
@@ -72,20 +63,17 @@
     "name:est_x_preferred":[
         "Smoljani piirkond"
     ],
+    "name:eus_x_preferred":[
+        "Smolian probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u0645\u0648\u0644\u06cc\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Smoljanin alue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Smolyan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10db\u10dd\u10da\u10d8\u10d0\u10dc\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Oblast Smoljan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bc\u03cc\u03bb\u03b9\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0aae\u0acb\u0ab2\u0acd\u0aaf\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -99,6 +87,9 @@
     "name:hrv_x_preferred":[
         "Oblast Smoljan"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0574\u0578\u056c\u0575\u0561\u0576\u056b \u0574\u0561\u0580\u0566"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Smolyan"
     ],
@@ -110,6 +101,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0cae\u0ccb\u0cb2\u0cbf\u0caf\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10db\u10dd\u10da\u10d8\u10d0\u10dc\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ubab0\ub7b8 \uc8fc"
@@ -126,20 +120,23 @@
     "name:lrc_x_preferred":[
         "\u0627\u0633\u0645\u0648\u0644\u06cc\u0627\u0646"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u043c\u043e\u043b\u0458\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u094d\u092e\u094b\u0932\u094d\u092f\u093e\u0902 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Smolyan Province"
+    "name:mkd_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u0458\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0421\u043c\u043e\u043b\u044f\u043d \u0430\u0439\u043c\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Smolyan Province"
+    ],
     "name:nan_x_preferred":[
         "Smolyan Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Smoljan"
     ],
     "name:nob_x_preferred":[
         "Smoljan oblast"
@@ -150,9 +147,6 @@
     "name:oss_x_preferred":[
         "\u0421\u043c\u043e\u043b\u044f\u043d\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0633\u0645\u0648\u0644\u06cc\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0645\u0648\u0644\u06cc\u0627\u0646"
     ],
@@ -162,7 +156,7 @@
     "name:por_x_preferred":[
         "Smolyan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Regiunea Smolean"
     ],
     "name:rus_x_preferred":[
@@ -174,7 +168,7 @@
     "name:sin_x_preferred":[
         "\u0d91\u0dc3\u0dca\u0db8\u0ddc\u0dbd\u0dca\u0dba\u0dcf\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Smo\u013ean"
     ],
     "name:slv_x_preferred":[
@@ -182,6 +176,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Smolyan"
+    ],
+    "name:sqi_x_preferred":[
+        "Smoljan"
     ],
     "name:srp_x_preferred":[
         "\u0421\u043c\u043e\u0459\u0430\u043d\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
@@ -218,6 +215,9 @@
     ],
     "name:war_x_preferred":[
         "Smolyan"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u83ab\u6881\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BGR",
@@ -336,7 +336,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1553814854,
+    "wof:lastmodified":1561837428,
     "wof:name":"\u0421\u043c\u043e\u043b\u044f\u043d",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

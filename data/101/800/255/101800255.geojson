@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Perperek"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10e0\u10de\u10d4\u10e0\u10d4\u10d9\u10d8"
-    ],
     "name:kat_x_preferred":[
         "\u10de\u10d4\u10e0\u10de\u10d4\u10e0\u10d4\u10d9\u10d8"
     ],
@@ -32,9 +29,6 @@
         "\u041f\u0435\u0440\u043f\u0435\u0440\u0435\u043a"
     ],
     "name:ron_x_preferred":[
-        "Perperek"
-    ],
-    "name:rum_x_preferred":[
         "Perperek"
     ],
     "name:rus_x_preferred":[
@@ -86,7 +80,7 @@
         }
     ],
     "wof:id":101800255,
-    "wof:lastmodified":1527715093,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u041f\u0435\u0440\u043f\u0435\u0440\u0435\u043a",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

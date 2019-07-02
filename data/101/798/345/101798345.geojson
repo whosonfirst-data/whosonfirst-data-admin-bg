@@ -47,9 +47,6 @@
     "name:ron_x_preferred":[
         "M\u0103glen"
     ],
-    "name:rum_x_preferred":[
-        "M\u0103glen"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u044b\u0433\u043b\u0435\u043d"
     ],
@@ -104,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837450,
     "wof:name":"\u041c\u044a\u0433\u043b\u0435\u043d",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

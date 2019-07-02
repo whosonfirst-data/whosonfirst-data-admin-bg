@@ -31,7 +31,7 @@
     "name:pol_x_preferred":[
         "Kriwina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Krivina"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":101837481,
-    "wof:lastmodified":1553815535,
+    "wof:lastmodified":1561837458,
     "wof:name":"\u041a\u0440\u0438\u0432\u0438\u043d\u0430",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

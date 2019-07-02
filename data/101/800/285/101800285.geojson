@@ -46,7 +46,7 @@
     "name:por_x_preferred":[
         "Est\u00eav\u00e3o Tihomir"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tihomir"
     ],
     "name:rus_x_preferred":[
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":101800285,
-    "wof:lastmodified":1553815511,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0422\u0438\u0445\u043e\u043c\u0438\u0440",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

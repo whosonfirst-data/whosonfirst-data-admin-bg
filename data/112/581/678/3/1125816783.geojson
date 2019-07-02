@@ -27,7 +27,7 @@
     "name:pol_x_preferred":[
         "Jagodina"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Iagodina"
     ],
     "name:rus_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1125816783,
-    "wof:lastmodified":1553816551,
+    "wof:lastmodified":1561837459,
     "wof:name":"Yagodina",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

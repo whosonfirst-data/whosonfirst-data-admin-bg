@@ -28,7 +28,7 @@
     "name:pol_x_preferred":[
         "Dinkata"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dinkata"
     ],
     "name:rus_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101799229,
-    "wof:lastmodified":1513899827,
+    "wof:lastmodified":1561837442,
     "wof:name":"\u0414\u0438\u043d\u043a\u0430\u0442\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

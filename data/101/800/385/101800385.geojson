@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000096,
-    "geom:area_square_m":888840.093382,
+    "geom:area_square_m":888840.093381,
     "geom:bbox":"23.09896882,41.3601477838,23.1193646451,41.3677752716",
     "geom:latitude":41.363899,
     "geom:longitude":23.108256,
@@ -47,7 +47,7 @@
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
     ],
     "name:pol_x_preferred":[
@@ -56,7 +56,7 @@
     "name:ron_x_preferred":[
         "Comuna Glavini\u021ba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Kolarovo"
     ],
     "name:rus_x_preferred":[
@@ -121,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715087,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

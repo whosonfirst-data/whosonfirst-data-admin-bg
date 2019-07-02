@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000285,
-    "geom:area_square_m":2565466.85848,
+    "geom:area_square_m":2565466.858479,
     "geom:bbox":"23.6804400253,43.3357828243,23.7056219359,43.3571325808",
     "geom:latitude":43.344947,
     "geom:longitude":23.691704,
@@ -22,9 +22,6 @@
     "name:ceb_x_preferred":[
         "Banica"
     ],
-    "name:dut_x_preferred":[
-        "Banitsa"
-    ],
     "name:eng_x_preferred":[
         "Banitsa"
     ],
@@ -32,25 +29,19 @@
         "Banica",
         "Baniza"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d8\u10ea\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10dc\u10d8\u10ea\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u043d\u0438\u0446\u0430"
     ],
-    "name:may_x_preferred":[
-        "Banitsa"
-    ],
     "name:msa_x_preferred":[
         "Banitsa"
     ],
-    "name:ron_x_preferred":[
-        "Bani\u021ba"
+    "name:nld_x_preferred":[
+        "Banitsa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bani\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641523,
+    "wof:lastmodified":1561837437,
     "wof:name":"\u0411\u0430\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

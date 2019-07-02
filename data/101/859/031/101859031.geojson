@@ -28,25 +28,16 @@
     "name:eng_x_variant":[
         "Baale Burgas"
     ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10e0\u10dc\u10d0-\u10d9\u10e3\u10da\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10d2\u10dd\u10e0\u10dc\u10d0-\u10d9\u10e3\u10da\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0430-\u041a\u0443\u043b\u0430"
     ],
-    "name:may_x_preferred":[
-        "Gorna Kula"
-    ],
     "name:msa_x_preferred":[
         "Gorna Kula"
     ],
     "name:ron_x_preferred":[
-        "Gorna Kula"
-    ],
-    "name:rum_x_preferred":[
         "Gorna Kula"
     ],
     "name:rus_x_preferred":[
@@ -105,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744706,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0413\u043e\u0440\u043d\u0430 \u043a\u0443\u043b\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

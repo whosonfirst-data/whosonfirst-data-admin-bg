@@ -29,16 +29,10 @@
     "name:kaz_x_preferred":[
         "\u042f\u0432\u043e\u0440\u043d\u0438\u0446\u0430"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0430\u0432\u043e\u0440\u043d\u0438\u0446\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u0408\u0430\u0432\u043e\u0440\u043d\u0438\u0446\u0430"
     ],
     "name:ron_x_preferred":[
-        "Iavorni\u021ba"
-    ],
-    "name:rum_x_preferred":[
         "Iavorni\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715095,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u042f\u0432\u043e\u0440\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

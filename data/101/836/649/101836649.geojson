@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000302,
-    "geom:area_square_m":2769113.38873,
+    "geom:area_square_m":2769113.388728,
     "geom:bbox":"24.8518291186,42.0853518896,24.8838800198,42.1202024055",
     "geom:latitude":42.099473,
     "geom:longitude":24.869177,
@@ -34,7 +34,7 @@
     "name:rmy_x_preferred":[
         "Katunitsa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Katuni\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899842,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u041a\u0430\u0442\u0443\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

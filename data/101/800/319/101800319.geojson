@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":359513.976223,
+    "geom:area_square_m":359513.976224,
     "geom:bbox":"23.8926560998,41.5849735215,23.9031108426,41.5900692805",
     "geom:latitude":41.58757,
     "geom:longitude":23.897992,
@@ -28,13 +28,13 @@
     "name:kaz_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e-\u0414\u0440\u044f\u043d\u043e\u0432\u043e"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u0435\u043d\u043e\u0432\u043e"
     ],
     "name:ron_x_preferred":[
         "Dolno Dreanovo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Dolno Drianovo"
     ],
     "name:rus_x_preferred":[
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":101800319,
-    "wof:lastmodified":1527715094,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

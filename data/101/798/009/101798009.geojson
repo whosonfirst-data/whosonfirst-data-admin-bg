@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00013,
-    "geom:area_square_m":1188146.318803,
+    "geom:area_square_m":1188146.318802,
     "geom:bbox":"24.1762579192,42.4438438068,24.1941951586,42.454557947",
     "geom:latitude":42.449033,
     "geom:longitude":24.184599,
@@ -40,9 +40,6 @@
         "B\u00feta",
         "B\u00fetava"
     ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10e2\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d8\u10e2\u10d0"
     ],
@@ -53,9 +50,6 @@
         "Byta"
     ],
     "name:ron_x_preferred":[
-        "B\u0103ta"
-    ],
-    "name:rum_x_preferred":[
         "B\u0103ta"
     ],
     "name:rus_x_preferred":[
@@ -111,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641926,
+    "wof:lastmodified":1561837446,
     "wof:name":"\u0411\u044a\u0442\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

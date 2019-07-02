@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000307,
-    "geom:area_square_m":2815760.036299,
+    "geom:area_square_m":2815760.036301,
     "geom:bbox":"25.1536300249,42.1977954912,25.1844424732,42.2222591939",
     "geom:latitude":42.209373,
     "geom:longitude":25.167412,
@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0438\u0437\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Orisowo"
+    ],
     "name:eng_x_preferred":[
         "Orizovo"
     ],
@@ -27,16 +30,13 @@
         "Cheltikchiy",
         "Orisowo"
     ],
-    "name:ger_x_preferred":[
-        "Orisowo"
-    ],
     "name:kaz_x_preferred":[
         "\u041e\u0440\u0438\u0437\u043e\u0432\u043e"
     ],
     "name:pol_x_preferred":[
         "Orizowo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Orizovo"
     ],
     "name:rus_x_preferred":[
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899875,
+    "wof:lastmodified":1561837443,
     "wof:name":"\u041e\u0440\u0438\u0437\u043e\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

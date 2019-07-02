@@ -22,9 +22,6 @@
     "name:eng_x_preferred":[
         "Kobilyane"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10d1\u10d8\u10da\u10d8\u10d0\u10dc\u10d4"
-    ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10d1\u10d8\u10da\u10d8\u10d0\u10dc\u10d4"
     ],
@@ -32,9 +29,6 @@
         "\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435"
     ],
     "name:ron_x_preferred":[
-        "Kobileane"
-    ],
-    "name:rum_x_preferred":[
         "Kobileane"
     ],
     "name:rus_x_preferred":[
@@ -87,7 +81,7 @@
         }
     ],
     "wof:id":101859029,
-    "wof:lastmodified":1544744704,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

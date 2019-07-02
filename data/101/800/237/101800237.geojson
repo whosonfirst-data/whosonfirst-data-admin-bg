@@ -28,7 +28,7 @@
     "name:kaz_x_preferred":[
         "\u0412\u044b\u0440\u0431\u0438\u043d\u0430"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "V\u0103rbina"
     ],
     "name:rus_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101800237,
-    "wof:lastmodified":1513899816,
+    "wof:lastmodified":1561837456,
     "wof:name":"\u0412\u044a\u0440\u0431\u0438\u043d\u0430",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

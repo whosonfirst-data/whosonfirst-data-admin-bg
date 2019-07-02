@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00049,
-    "geom:area_square_m":4381952.616722,
+    "geom:area_square_m":4381952.616723,
     "geom:bbox":"23.7576662503,43.6204085748,23.7981184212,43.6453663617",
     "geom:latitude":43.630858,
     "geom:longitude":23.780539,
@@ -21,6 +21,9 @@
     ],
     "name:bul_x_variant":[
         "\u0421\u043e\u0444\u0440\u043e\u043d\u0438\u0435\u0432\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Sofroniewo"
     ],
     "name:eng_x_colloquial":[
         "Saerbenitsa",
@@ -43,13 +46,10 @@
         "S\u00ferbenetsa",
         "S\u00ferbenitsa"
     ],
-    "name:ger_x_preferred":[
-        "Sofroniewo"
-    ],
     "name:kaz_x_preferred":[
         "\u0421\u043e\u0444\u0440\u043e\u043d\u0438\u0435\u0432\u043e"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sofronievo"
     ],
     "name:rus_x_preferred":[
@@ -108,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899938,
+    "wof:lastmodified":1561837439,
     "wof:name":"\u0421\u043e\u0444\u0440\u043e\u043d\u0438\u0435\u0432\u043e",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

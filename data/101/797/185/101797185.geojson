@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000387,
-    "geom:area_square_m":3463693.105792,
+    "geom:area_square_m":3463693.105791,
     "geom:bbox":"24.9084913041,43.5439527092,24.9530905858,43.5671359725",
     "geom:latitude":43.554949,
     "geom:longitude":24.929932,
@@ -20,6 +20,9 @@
         "\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435"
     ],
     "name:cat_x_preferred":[
+        "Novacene"
+    ],
+    "name:deu_x_preferred":[
         "Novacene"
     ],
     "name:eng_x_colloquial":[
@@ -38,13 +41,10 @@
         "Nowatschene",
         "Novacene"
     ],
-    "name:ger_x_preferred":[
-        "Novacene"
-    ],
     "name:kaz_x_preferred":[
         "\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Novacene"
     ],
     "name:rus_x_preferred":[
@@ -103,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837441,
     "wof:name":"\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

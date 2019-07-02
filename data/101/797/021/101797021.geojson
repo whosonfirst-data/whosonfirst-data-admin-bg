@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000296,
-    "geom:area_square_m":2665399.690449,
+    "geom:area_square_m":2665399.690448,
     "geom:bbox":"24.8134069702,43.2224666359,24.8500792667,43.2429585777",
     "geom:latitude":43.233898,
     "geom:longitude":24.833021,
@@ -35,9 +35,6 @@
     "name:fra_x_preferred":[
         "Do\u00efrentsi"
     ],
-    "name:fre_x_preferred":[
-        "Do\u00efrentsi"
-    ],
     "name:kaz_x_preferred":[
         "\u0414\u043e\u0439\u0440\u0435\u043d\u0446\u0438"
     ],
@@ -45,9 +42,6 @@
         "Dojrenci"
     ],
     "name:ron_x_preferred":[
-        "Doiren\u021bi"
-    ],
-    "name:rum_x_preferred":[
         "Doiren\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -107,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641530,
+    "wof:lastmodified":1561837440,
     "wof:name":"\u0414\u043e\u0439\u0440\u0435\u043d\u0446\u0438",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

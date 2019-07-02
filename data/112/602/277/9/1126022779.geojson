@@ -21,16 +21,16 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0436\u0435\u043d"
     ],
+    "name:deu_x_preferred":[
+        "Roschen"
+    ],
     "name:eng_x_preferred":[
         "Rozhen"
     ],
-    "name:ger_x_preferred":[
-        "Roschen"
-    ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0420\u043e\u0436\u0435\u043d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rojen"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1126022779,
-    "wof:lastmodified":1513899769,
+    "wof:lastmodified":1561837458,
     "wof:name":"Rozhen",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

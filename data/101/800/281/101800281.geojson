@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00004,
-    "geom:area_square_m":369517.987113,
+    "geom:area_square_m":369517.987114,
     "geom:bbox":"25.1543230114,41.3473925014,25.1648780551,41.3551829953",
     "geom:latitude":41.351157,
     "geom:longitude":25.159459,
@@ -29,9 +29,6 @@
         "\u0413\u043e\u0440\u0441\u043a\u0438-\u0418\u0437\u0432\u043e\u0440"
     ],
     "name:ron_x_preferred":[
-        "Gorski Izvor"
-    ],
-    "name:rum_x_preferred":[
         "Gorski Izvor"
     ],
     "name:rus_x_preferred":[
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101800281,
-    "wof:lastmodified":1553815511,
+    "wof:lastmodified":1561837455,
     "wof:name":"\u0413\u043e\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -42,9 +42,6 @@
     "name:kaz_x_preferred":[
         "\u041b\u0435\u0445\u0447\u0435\u0432\u043e"
     ],
-    "name:may_x_preferred":[
-        "Lehchevo"
-    ],
     "name:msa_x_preferred":[
         "Lehchevo"
     ],
@@ -52,9 +49,6 @@
         "Lechczewo"
     ],
     "name:ron_x_preferred":[
-        "Lehcevo"
-    ],
-    "name:rum_x_preferred":[
         "Lehcevo"
     ],
     "name:rus_x_preferred":[
@@ -113,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641527,
+    "wof:lastmodified":1561837439,
     "wof:name":"\u041b\u0435\u0445\u0447\u0435\u0432\u043e",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

@@ -28,7 +28,7 @@
     "name:pol_x_preferred":[
         "Czepinci"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cepin\u021bi"
     ],
     "name:rus_x_preferred":[
@@ -79,7 +79,7 @@
         }
     ],
     "wof:id":101798053,
-    "wof:lastmodified":1513899964,
+    "wof:lastmodified":1561837446,
     "wof:name":"\u0427\u0435\u043f\u0438\u043d\u0446\u0438",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

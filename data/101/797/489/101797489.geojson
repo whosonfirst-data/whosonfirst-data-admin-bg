@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000425,
-    "geom:area_square_m":3802938.862756,
+    "geom:area_square_m":3802938.862754,
     "geom:bbox":"26.029627732,43.6977993737,26.054127613,43.7286912241",
     "geom:latitude":43.712901,
     "geom:longitude":26.042886,
@@ -50,19 +50,19 @@
         "Sriklovo",
         "\u00c5 riklevo"
     ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10e2\u10e0\u10d8\u10d9\u10da\u10d4\u10d5\u10dd"
-    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30c8\u30a5\u30e9\u30af\u30ec\u30f4\u30a9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10e2\u10e0\u10d8\u10d9\u10da\u10d4\u10d5\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u0428\u0442\u0440\u044b\u043a\u043b\u0435\u0432\u043e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Shtraklevo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u0218tr\u0103klevo"
     ],
     "name:rus_x_preferred":[
@@ -121,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641530,
+    "wof:lastmodified":1561837440,
     "wof:name":"\u0429\u0440\u044a\u043a\u043b\u0435\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

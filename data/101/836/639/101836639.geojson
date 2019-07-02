@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000354,
-    "geom:area_square_m":3219344.644199,
+    "geom:area_square_m":3219344.6442,
     "geom:bbox":"23.4437339402,42.6478571119,23.4757537836,42.6710877933",
     "geom:latitude":42.659742,
     "geom:longitude":23.46088,
@@ -28,17 +28,11 @@
     "name:fra_x_preferred":[
         "Kazichene"
     ],
-    "name:fre_x_preferred":[
-        "Kazichene"
-    ],
     "name:ita_x_preferred":[
         "Kazi\u010dene"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0437\u0438\u0447\u0435\u043d\u0435"
-    ],
-    "name:may_x_preferred":[
-        "Kazichene"
     ],
     "name:msa_x_preferred":[
         "Kazichene"
@@ -47,9 +41,6 @@
         "Kaziczene"
     ],
     "name:ron_x_preferred":[
-        "Kazicene"
-    ],
-    "name:rum_x_preferred":[
         "Kazicene"
     ],
     "name:rus_x_preferred":[
@@ -105,7 +96,7 @@
         }
     ],
     "wof:id":101836639,
-    "wof:lastmodified":1527715158,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u041a\u0430\u0437\u0438\u0447\u0435\u043d\u0435",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

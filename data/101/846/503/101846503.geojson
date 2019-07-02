@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000124,
-    "geom:area_square_m":1118111.556549,
+    "geom:area_square_m":1118111.556544,
     "geom:bbox":"24.2308179431,42.9826550989,24.2617600833,43.0270208035",
     "geom:latitude":43.001629,
     "geom:longitude":24.244009,
@@ -29,9 +29,6 @@
         "\u0413\u0440\u0430\u0434\u0435\u0436\u043d\u0438\u0446\u0430"
     ],
     "name:ron_x_preferred":[
-        "Gradejni\u021ba"
-    ],
-    "name:rum_x_preferred":[
         "Gradejni\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -82,7 +79,7 @@
         }
     ],
     "wof:id":101846503,
-    "wof:lastmodified":1527714705,
+    "wof:lastmodified":1561837453,
     "wof:name":"\u0413\u0440\u0430\u0434\u0435\u0436\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

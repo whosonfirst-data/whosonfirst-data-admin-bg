@@ -31,16 +31,10 @@
     "name:kaz_x_preferred":[
         "\u0414\u044b\u0431\u043d\u0438\u0446\u0430"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0430\u0431\u043d\u0438\u0446\u0430"
-    ],
     "name:mkd_x_preferred":[
         "\u0414\u0430\u0431\u043d\u0438\u0446\u0430"
     ],
     "name:ron_x_preferred":[
-        "D\u0103bni\u021ba"
-    ],
-    "name:rum_x_preferred":[
         "D\u0103bni\u021ba"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":101800327,
-    "wof:lastmodified":1527715093,
+    "wof:lastmodified":1561837457,
     "wof:name":"\u0414\u044a\u0431\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

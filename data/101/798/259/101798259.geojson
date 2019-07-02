@@ -38,7 +38,7 @@
     "name:pol_x_preferred":[
         "Kukorewo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kukorevo"
     ],
     "name:rus_x_preferred":[
@@ -96,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815510,
+    "wof:lastmodified":1561837446,
     "wof:name":"\u041a\u0443\u043a\u043e\u0440\u0435\u0432\u043e",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

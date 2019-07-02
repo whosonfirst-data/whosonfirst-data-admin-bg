@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000086,
-    "geom:area_square_m":778721.328977,
+    "geom:area_square_m":778721.328978,
     "geom:bbox":"27.4672170628,42.7681705819,27.4816658407,42.7777577904",
     "geom:latitude":42.772291,
     "geom:longitude":27.473669,
@@ -32,16 +32,13 @@
         "Stracin",
         "Strazin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Stratsin"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0446\u0438\u043d"
     ],
     "name:ron_x_preferred":[
-        "Stra\u021bin"
-    ],
-    "name:rum_x_preferred":[
         "Stra\u021bin"
     ],
     "name:rus_x_preferred":[
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641934,
+    "wof:lastmodified":1561837450,
     "wof:name":"\u0421\u0442\u0440\u0430\u0446\u0438\u043d",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

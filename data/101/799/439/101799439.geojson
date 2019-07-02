@@ -54,7 +54,7 @@
     "name:pol_x_preferred":[
         "Tenewo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tenevo"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513899947,
+    "wof:lastmodified":1561837442,
     "wof:name":"\u0422\u0435\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

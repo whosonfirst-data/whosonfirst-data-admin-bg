@@ -30,9 +30,6 @@
         "Irma Ryeka",
         "Promishleno Selo Erma Reka"
     ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e0\u10db\u10d0-\u10e0\u10d4\u10d9\u10d0"
-    ],
     "name:kat_x_preferred":[
         "\u10d4\u10e0\u10db\u10d0-\u10e0\u10d4\u10d9\u10d0"
     ],
@@ -40,9 +37,6 @@
         "\u0415\u0440\u043c\u0430-\u0420\u0435\u043a\u0430"
     ],
     "name:ron_x_preferred":[
-        "Erma Reka"
-    ],
-    "name:rum_x_preferred":[
         "Erma Reka"
     ],
     "name:rus_x_preferred":[
@@ -101,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544744700,
+    "wof:lastmodified":1561837452,
     "wof:name":"\u0415\u0440\u043c\u0430 \u0440\u0435\u043a\u0430",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

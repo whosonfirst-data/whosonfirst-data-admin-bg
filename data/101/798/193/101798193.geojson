@@ -44,7 +44,7 @@
     "name:nno_x_preferred":[
         "Skravena Cove"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Skravena"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641924,
+    "wof:lastmodified":1561837445,
     "wof:name":"\u0421\u043a\u0440\u0430\u0432\u0435\u043d\u0430",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

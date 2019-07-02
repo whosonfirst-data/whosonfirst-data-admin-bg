@@ -33,7 +33,7 @@
     "name:pol_x_preferred":[
         "Rumelija"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Rumelia"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1125912741,
-    "wof:lastmodified":1553816623,
+    "wof:lastmodified":1561837460,
     "wof:name":"Rumeliya",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",
