@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000176,
+    "geom:area_square_m":1587312.379357,
     "geom:bbox":"26.5486782529,43.0090989188,26.5734577625,43.0271393684",
     "geom:latitude":43.019682,
     "geom:longitude":26.559738,
@@ -15,8 +16,41 @@
     "mps:longitude":26.560583,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0627\u0631\u063a\u0648\u0641\u064a\u0634\u062a\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u0642\u0648\u0648\u06cc\u0634\u062a\u0647 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u044b\u0440\u0433\u043e\u0432\u0456\u0448\u0446\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09be\u09b0\u09cd\u0997\u09ad\u09bf\u09b8\u09cd\u09a4\u09c7 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bos_x_preferred":[
+        "Oblast Trgovi\u0161te"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0440\u0430\u043d\u0438 \u041a\u043e\u043d"
+    ],
+    "name:bul_x_variant":[
+        "\u041e\u0431\u043b\u0430\u0441\u0442 \u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Oblast T\u016drgovishte"
+    ],
+    "name:ces_x_preferred":[
+        "Targovi\u0161\u0165sk\u00e1 oblast"
+    ],
+    "name:dan_x_preferred":[
+        "Targovisjte"
+    ],
+    "name:deu_x_preferred":[
+        "Oblast Targowischte"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c1\u03b3\u03ba\u03cc\u03b2\u03b9\u03c3\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Vrani Kon"
@@ -24,10 +58,173 @@
     "name:eng_x_variant":[
         "Kara-Atlar",
         "Karatlar",
-        "Wrani-Kon"
+        "Wrani-Kon",
+        "Targovishte Province"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Targovi\u015dte"
+    ],
+    "name:est_x_preferred":[
+        "T\u01cergovi\u0161te piirkond"
+    ],
+    "name:eus_x_preferred":[
+        "Targovixte probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0631\u06af\u0648\u0648\u06cc\u0634\u062a\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "T\u0103rgovi\u0161ten alue"
+    ],
+    "name:fra_x_preferred":[
+        "Targovicht\u00e9"
+    ],
+    "name:frr_x_preferred":[
+        "Tergowischte"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Targovishte"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0abe\u0ab0\u0acd\u0a97\u0acb\u0ab5\u0abf\u0ab8\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d8\u05e8\u05d2\u05d5\u05d1\u05d9\u05e9\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u0948\u0917\u094b\u0935\u093f\u0938\u094d\u091f\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hrv_x_preferred":[
+        "Oblast Trgovi\u0161te"
+    ],
+    "name:hun_x_preferred":[
+        "Targoviste megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u0580\u0563\u0578\u057e\u056b\u0577\u057f\u0565\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Targovishte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30eb\u30b4\u30f4\u30a3\u30b7\u30c6\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cb0\u0ccd\u0c97\u0ccb\u0cb5\u0cbf\u0cb6\u0ccd\u0c9f\u0cc6 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e0\u10d2\u10dd\u10d5\u10d8\u10e8\u10e2\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud130\ub974\uace0\ube44\uc288\ud14c\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Targovi\u0161tes apgabals"
+    ],
+    "name:lit_x_preferred":[
+        "Tergovi\u0161t\u0117s sritis"
+    ],
+    "name:lrc_x_preferred":[
+        "\u062a\u0631\u06af\u0648\u0648\u06cc\u0634\u062a\u0647"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u0945\u0917\u094b\u0935\u094d\u0939\u093f\u0938\u094d\u0924 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0440\u0433\u043e\u0432\u0438\u0448\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:mon_x_preferred":[
+        "\u0422\u044b\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435 \u0430\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Targovishte Province"
+    ],
+    "name:nan_x_preferred":[
+        "Targovishte Chiu"
+    ],
+    "name:nld_x_preferred":[
+        "Targovisjte"
+    ],
+    "name:nob_x_preferred":[
+        "Targovishte provins"
+    ],
+    "name:oci_x_preferred":[
+        "Targovishte"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u044b\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435\u0439\u044b \u043e\u0431\u043b\u00e6\u0441\u0442"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0635\u0648\u0628\u06c1 \u062a\u0631\u06af\u0648\u0648\u06cc\u0634\u062a\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "Obw\u00f3d Tyrgowiszte"
+    ],
+    "name:por_x_preferred":[
+        "Targovishte"
+    ],
+    "name:ron_x_preferred":[
+        "Regiunea T\u0103rgovi\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044b\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Targovishte Province"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dbb\u0dca\u0d9c\u0ddc\u0dc0\u0dd2\u0dc1\u0dca\u0da7\u0dda \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slk_x_preferred":[
+        "T\u0103rgovi\u0161te"
+    ],
+    "name:slv_x_preferred":[
+        "Trgovi\u0161te"
+    ],
+    "name:spa_x_preferred":[
+        "T\u0103rgovi\u0161te"
+    ],
+    "name:sqi_x_preferred":[
+        "Provinca T\u00ebrgovish\u00e7e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0433\u043e\u0432\u0438\u0448\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Targovisjte"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bb0\u0bcd\u0b95\u0bcb\u0bb5\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c30\u0c4d\u0c17\u0c4b\u0c35\u0c3f\u0c37\u0c4d\u0c1f\u0c46 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0422\u0430\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e15\u0e32\u0e23\u0e4c\u0e42\u0e01\u0e27\u0e34\u0e0a\u0e40\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Eski Cuma ili"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
     "name:unk_x_variant":[
         "Kara-Atlar"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u06af\u0648\u0648\u06cc\u0634\u062a\u06d2 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Targovishte"
+    ],
+    "name:war_x_preferred":[
+        "Targovisjte"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u723e\u6208\u7dad\u4ec0\u7279\u5dde"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435",
@@ -73,7 +270,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641927,
+    "wof:lastmodified":1563325322,
     "wof:name":"\u0412\u0440\u0430\u043d\u0438 \u043a\u043e\u043d",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

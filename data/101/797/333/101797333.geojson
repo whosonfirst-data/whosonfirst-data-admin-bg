@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Brestak"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0633\u062a\u0627\u06a9"
+    ],
     "name:fra_x_preferred":[
         "Brestak"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101797333,
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325202,
     "wof:name":"\u0411\u0440\u0435\u0441\u0442\u0430\u043a",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

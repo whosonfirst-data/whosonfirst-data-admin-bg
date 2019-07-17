@@ -19,11 +19,23 @@
     "name:bul_x_preferred":[
         "\u0414\u0438\u043d\u043a\u0430\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dinkata"
+    ],
+    "name:deu_x_preferred":[
+        "Dinkata"
+    ],
     "name:eng_x_preferred":[
+        "Dinkata"
+    ],
+    "name:fra_x_preferred":[
         "Dinkata"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u0438\u043d\u043a\u0430\u0442\u0430"
+    ],
+    "name:nds_x_preferred":[
+        "Dinkata"
     ],
     "name:pol_x_preferred":[
         "Dinkata"
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":101799229,
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325250,
     "wof:name":"\u0414\u0438\u043d\u043a\u0430\u0442\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

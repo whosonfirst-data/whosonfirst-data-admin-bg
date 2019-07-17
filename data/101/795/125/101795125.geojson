@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00144,
-    "geom:area_square_m":12785002.896349,
+    "geom:area_square_m":12785002.896352,
     "geom:bbox":"27.1746302826,44.0969669535,27.2886119291,44.12815403",
     "geom:latitude":44.113592,
     "geom:longitude":27.239516,
@@ -23,8 +23,17 @@
     "name:arg_x_preferred":[
         "Silistra"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0644\u06cc\u0633\u062a\u0631\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u043b\u0456\u0441\u0442\u0440\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0456\u043b\u0456\u0441\u0442\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u09b2\u09bf\u09b8\u09cd\u09a4\u09cd\u09b0\u09be"
     ],
     "name:bos_x_preferred":[
         "Silistra"
@@ -65,17 +74,29 @@
     "name:fra_x_preferred":[
         "Silistra"
     ],
+    "name:frr_x_preferred":[
+        "Silistra"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abf\u0ab2\u0abf\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abe"
+    ],
     "name:hbs_x_preferred":[
         "Silistra"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05dc\u05d9\u05e1\u05d8\u05e8\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0936\u093f\u0932\u093f\u0938\u094d\u091f\u094d\u0930\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Silistra"
     ],
     "name:hun_x_preferred":[
         "Szilisztra"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u056c\u056b\u057d\u057f\u0580\u0561"
     ],
     "name:ind_x_preferred":[
         "Silistra"
@@ -86,6 +107,9 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30ea\u30b9\u30c8\u30e9"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbf\u0cb2\u0cbf\u0cb8\u0ccd\u0ca4\u0ccd\u0cb0"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430"
     ],
@@ -95,13 +119,25 @@
     "name:lat_x_preferred":[
         "Durostorum"
     ],
+    "name:lav_x_preferred":[
+        "Silistra"
+    ],
     "name:lit_x_preferred":[
         "Silistra"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093f\u0932\u093f\u0938\u094d\u091f\u094d\u0930\u093e"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Silistra"
+    ],
     "name:nld_x_preferred":[
+        "Silistra"
+    ],
+    "name:nob_x_preferred":[
         "Silistra"
     ],
     "name:nor_x_preferred":[
@@ -122,11 +158,17 @@
     "name:ron_x_preferred":[
         "Silistra"
     ],
+    "name:rup_x_preferred":[
+        "Silistra"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430"
     ],
     "name:sco_x_preferred":[
         "Silistra"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd2\u0dbd\u0dd2\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Silistra"
@@ -142,6 +184,15 @@
     ],
     "name:swe_x_preferred":[
         "Silistra"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0bb2\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3f\u0c32\u0c3f\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c3e"
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e34\u0e25\u0e34\u0e2a\u0e15\u0e23\u0e32"
@@ -214,7 +265,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505337985,
+    "wof:lastmodified":1563325468,
     "wof:name":"\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0430\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Krushare"
+    ],
     "name:ces_x_preferred":[
         "Kru\u0161are"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0430\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Krusjare"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0430\u0440\u0435"
@@ -104,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325380,
     "wof:name":"\u041a\u0440\u0443\u0448\u0430\u0440\u0435",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

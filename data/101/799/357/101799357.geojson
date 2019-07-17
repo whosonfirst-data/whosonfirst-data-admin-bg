@@ -19,7 +19,13 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u043e\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Manole"
+    ],
     "name:eng_x_preferred":[
+        "Manole"
+    ],
+    "name:fra_x_preferred":[
         "Manole"
     ],
     "name:nno_x_preferred":[
@@ -87,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325270,
     "wof:name":"\u041c\u0430\u043d\u043e\u043b\u0435",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

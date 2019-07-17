@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000285,
-    "geom:area_square_m":2585704.333299,
+    "geom:area_square_m":2585704.333296,
     "geom:bbox":"27.8756634503,42.8649844278,27.8990164784,42.8854706202",
     "geom:latitude":42.875988,
     "geom:longitude":27.886756,
@@ -17,6 +17,9 @@
     "mps:longitude":27.886534,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0627\u0644\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u044f\u043b\u0430"
     ],
@@ -43,20 +46,35 @@
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0627\u0644\u0627\u060c \u0627\u0633\u062a\u0627\u0646 \u0648\u0627\u0631\u0646\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u0627\u0644\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d0\u05dc\u05d4"
+    ],
     "name:jpn_x_preferred":[
         "\u30d3\u30e3\u30e9"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0458\u0430\u043b\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Byala"
+    ],
     "name:oss_x_preferred":[
         "\u0411\u044f\u043b\u00e6"
+    ],
+    "name:pol_x_preferred":[
+        "Bja\u0142a"
     ],
     "name:por_x_preferred":[
         "Bjala"
     ],
     "name:ron_x_preferred":[
         "Beala"
+    ],
+    "name:ron_x_variant":[
+        "Biala"
     ],
     "name:rus_x_preferred":[
         "\u0411\u044f\u043b\u0430"
@@ -70,11 +88,20 @@
     "name:swe_x_preferred":[
         "Bjala"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u04d9\u043b\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Byala"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u044f\u043b\u0430"
     ],
     "name:unk_x_variant":[
         "Biela"
+    ],
+    "name:vie_x_preferred":[
+        "Byala"
     ],
     "name:war_x_preferred":[
         "Byala"
@@ -134,7 +161,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641527,
+    "wof:lastmodified":1563325196,
     "wof:name":"\u0411\u044f\u043b\u0430",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

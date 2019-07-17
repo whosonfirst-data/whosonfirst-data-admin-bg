@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":1117923.773888,
+    "geom:area_square_m":1117923.773887,
     "geom:bbox":"22.7122439546,43.73164721,22.7402615258,43.7516969239",
     "geom:latitude":43.739985,
     "geom:longitude":22.724957,
@@ -17,6 +17,9 @@
     "mps:longitude":22.723577,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0645\u0648\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0438\u043c\u043e\u0432\u043e"
     ],
@@ -45,6 +48,9 @@
     "name:fas_x_preferred":[
         "\u062f\u06cc\u0645\u0648\u0641\u0648"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05de\u05d5\u05d1\u05d5"
+    ],
     "name:jpn_x_preferred":[
         "\u30c7\u30a3\u30e2\u30f4\u30a9"
     ],
@@ -53,6 +59,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub514\ubaa8\ubcf4"
+    ],
+    "name:nld_x_preferred":[
+        "Dimovo"
     ],
     "name:pol_x_preferred":[
         "Dimowo"
@@ -73,6 +82,12 @@
         "\u0414\u0438\u043c\u043e\u0432\u043e"
     ],
     "name:swe_x_preferred":[
+        "Dimovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0438\u043c\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
         "Dimovo"
     ],
     "name:ukr_x_preferred":[
@@ -142,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641533,
+    "wof:lastmodified":1563325235,
     "wof:name":"\u0414\u0438\u043c\u043e\u0432\u043e",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

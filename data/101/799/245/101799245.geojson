@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u042e\u043d\u0430\u0446\u0438\u0442\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Junacite"
+    ],
     "name:eng_x_preferred":[
         "Yunatsite"
     ],
@@ -28,6 +31,9 @@
         "Junazite",
         "Khadzhilii",
         "Yunatsitye"
+    ],
+    "name:fra_x_preferred":[
+        "Yunatsite"
     ],
     "name:kaz_x_preferred":[
         "\u042e\u043d\u0430\u0446\u0438\u0442\u0435"
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325252,
     "wof:name":"\u042e\u043d\u0430\u0446\u0438\u0442\u0435",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

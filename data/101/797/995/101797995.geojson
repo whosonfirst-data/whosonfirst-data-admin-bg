@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000586,
-    "geom:area_square_m":5392248.090501,
+    "geom:area_square_m":5392248.090503,
     "geom:bbox":"25.8867635767,41.9145517463,25.9430142448,41.9446633198",
     "geom:latitude":41.926626,
     "geom:longitude":25.910513,
@@ -17,6 +17,12 @@
     "mps:longitude":25.906251,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0647\u0627\u0631\u0645\u0627\u0646\u0644\u06cc"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0440\u043c\u0430\u043d\u043b\u0456"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u0430\u0440\u043c\u0430\u043d\u043b\u0438"
     ],
@@ -64,11 +70,17 @@
     "name:hrv_x_preferred":[
         "Harmanli"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30eb\u30de\u30f3\u30ea"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u0430\u0440\u043c\u0430\u043d\u043b\u0438"
     ],
     "name:lit_x_preferred":[
         "Charmanli"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0440\u043c\u0430\u043d\u043b\u0438"
     ],
     "name:nld_x_preferred":[
         "Charmanli"
@@ -93,6 +105,9 @@
     ],
     "name:swe_x_preferred":[
         "Charmanli"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u0440\u043c\u0430\u043d\u043b\u0438"
     ],
     "name:tur_x_preferred":[
         "Harmanl\u0131"
@@ -161,7 +176,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641527,
+    "wof:lastmodified":1563325195,
     "wof:name":"\u0425\u0430\u0440\u043c\u0430\u043d\u043b\u0438",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

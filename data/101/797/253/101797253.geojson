@@ -34,6 +34,9 @@
         "Telisch",
         "Teli\u00b5"
     ],
+    "name:fra_x_preferred":[
+        "Telish"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u0435\u043b\u0438\u0448"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043b\u0438\u0448"
+    ],
+    "name:spa_x_preferred":[
+        "Telish"
     ],
     "name:swe_x_preferred":[
         "Telish Rock"
@@ -105,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837440,
+    "wof:lastmodified":1563325219,
     "wof:name":"\u0422\u0435\u043b\u0438\u0448",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

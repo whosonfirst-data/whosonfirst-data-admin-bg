@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000393,
+    "geom:area_square_m":3513558.191195,
     "geom:bbox":"25.7179234237,43.617214705,25.7451566086,43.6440460416",
     "geom:latitude":43.630864,
     "geom:longitude":25.733914,
@@ -34,7 +35,11 @@
         "Dolno Ablanovo",
         "Gorno Ablanowo",
         "Gorno Albanovo",
-        "Joli Ablanova"
+        "Joli Ablanova",
+        "Borovo Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0648\u0631\u0648\u0641\u0648"
     ],
     "name:fra_x_preferred":[
         "Borovo"
@@ -45,11 +50,17 @@
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10e0\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Borovo Municipality"
+    ],
     "name:pol_x_preferred":[
         "Gmina Borowo"
     ],
     "name:ron_x_preferred":[
         "Comuna Borovo"
+    ],
+    "name:ron_x_variant":[
+        "Ob\u0219tina Borovo"
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u043e"
@@ -110,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641531,
+    "wof:lastmodified":1563325223,
     "wof:name":"\u0413\u043e\u0440\u043d\u043e \u0410\u0431\u043b\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

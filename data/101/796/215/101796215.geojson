@@ -25,6 +25,12 @@
     "name:eng_x_preferred":[
         "Vazovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0632\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Vazovo"
+    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10d6\u10dd\u10d5\u10dd"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":101796215,
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325410,
     "wof:name":"\u0412\u0430\u0437\u043e\u0432\u043e",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

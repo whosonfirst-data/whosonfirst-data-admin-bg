@@ -29,6 +29,9 @@
     "name:ces_x_preferred":[
         "Ob\u0161tina Tervel"
     ],
+    "name:deu_x_preferred":[
+        "Tervel"
+    ],
     "name:eng_x_preferred":[
         "Tervel"
     ],
@@ -39,6 +42,9 @@
         "Kurt Bunar",
         "Tervel Municipality"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0631\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
         "Tervel"
     ],
@@ -47,6 +53,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d4\u10e0\u10d5\u10d4\u10da\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Tervel Municipality"
     ],
     "name:pol_x_preferred":[
         "Gmina Terwe\u0142"
@@ -57,11 +66,20 @@
     "name:ron_x_preferred":[
         "Comuna Tervel"
     ],
+    "name:ron_x_variant":[
+        "Ob\u0219tina Tervel"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u0440\u0432\u0435\u043b"
     ],
+    "name:spa_x_preferred":[
+        "Tervel"
+    ],
     "name:swe_x_preferred":[
         "Obsjtina Tervel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u0440\u0432\u0435\u043b"
     ],
     "name:unk_x_variant":[
         "Kurt Bunar"
@@ -125,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642030,
+    "wof:lastmodified":1563325387,
     "wof:name":"\u0422\u0435\u0440\u0432\u0435\u043b",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
         "Schirbanowo",
         "Sirbanovo"
     ],
+    "name:fra_x_preferred":[
+        "Rupite"
+    ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05e4\u05d9\u05d8\u05d4"
     ],
@@ -121,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325248,
     "wof:name":"\u0420\u0443\u043f\u0438\u0442\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

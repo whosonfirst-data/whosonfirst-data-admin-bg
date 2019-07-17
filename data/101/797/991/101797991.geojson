@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001421,
-    "geom:area_square_m":13040834.499738,
+    "geom:area_square_m":13040834.49974,
     "geom:bbox":"25.5369203339,42.0441141847,25.643142695,42.0821853857",
     "geom:latitude":42.061994,
     "geom:longitude":25.594728,
@@ -17,6 +17,24 @@
     "mps:longitude":25.595533,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0645\u064a\u062a\u0631\u0648\u0641\u063a\u0631\u0627\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0645\u06cc\u062a\u0631\u0648\u06af\u0631\u0627\u062f"
+    ],
+    "name:bak_x_preferred":[
+        "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u0456\u043c\u0456\u0442\u0440\u0430\u045e\u0433\u0440\u0430\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a1\u09bf\u09ae\u09bf\u099f\u09cd\u09b0\u09ad\u0997\u09be\u09a1"
+    ],
+    "name:bos_x_preferred":[
+        "Dimitrovgrad"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434"
     ],
@@ -31,6 +49,12 @@
     ],
     "name:ckb_x_preferred":[
         "\u062f\u06cc\u0645\u06cc\u062a\u0631\u06c6\u06a4\u06af\u0631\u0627\u062f\u060c \u0628\u0648\u0644\u06af\u0627\u0631\u06cc\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u062f\u06cc\u0645\u06cc\u062a\u0631\u06c6\u06a4\u06af\u0631\u0627\u062f"
+    ],
+    "name:dan_x_preferred":[
+        "Dimitrovgrad"
     ],
     "name:deu_x_preferred":[
         "Dimitrowgrad"
@@ -47,25 +71,67 @@
     "name:fas_x_preferred":[
         "\u062f\u06cc\u0645\u06cc\u062a\u0631\u0648\u0641\u06af\u0631\u0627\u062f\u060c \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u062f\u06cc\u0645\u06cc\u062a\u0631\u0648\u0641\u06af\u0631\u0627\u062f"
+    ],
     "name:fin_x_preferred":[
         "Dimitrovgrad"
     ],
     "name:fra_x_preferred":[
         "Dimitrovgrad"
     ],
+    "name:guj_x_preferred":[
+        "\u0aa1\u0ac0\u0aae\u0ac0\u0a9f\u0acd\u0ab0\u0acb\u0ab5\u0a97\u0acd\u0ab0\u0ac5\u0aa1"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05de\u05d9\u05d8\u05e8\u05d5\u05d1\u05d2\u05e8\u05d0\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u093f\u092e\u093f\u0924\u094d\u0930\u094b\u0935\u0917\u094d\u0930\u093e\u0926"
+    ],
+    "name:hrv_x_preferred":[
+        "Dimitrovgrad"
+    ],
+    "name:hun_x_preferred":[
+        "Dimitrovgr\u00e1d"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u056b\u0574\u056b\u057f\u0580\u0578\u057e\u0563\u0580\u0561\u0564"
+    ],
+    "name:ind_x_preferred":[
+        "Dimitrovgrad"
+    ],
+    "name:ita_x_preferred":[
+        "Dimitrovgrad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30df\u30c8\u30ed\u30f4\u30b0\u30e9\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca1\u0cbf\u0cae\u0cbf\u0c9f\u0ccd\u0cb0\u0ccb\u0c97\u0ccd\u0cb0\u0ccd\u0caf\u0cbe\u0ca1\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ub514\ubbf8\ud2b8\ub85c\ube0c\uadf8\ub77c\ub4dc"
     ],
+    "name:lav_x_preferred":[
+        "Dimitrovgrada"
+    ],
     "name:lit_x_preferred":[
         "Dimitrovgradas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0921\u093f\u092e\u093f\u091f\u091f\u094b\u0917\u094d\u0930\u0945\u0921"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434"
     ],
+    "name:msa_x_preferred":[
+        "Dimitrovgrad"
+    ],
     "name:nld_x_preferred":[
+        "Dimitrovgrad"
+    ],
+    "name:nob_x_preferred":[
         "Dimitrovgrad"
     ],
     "name:nor_x_preferred":[
@@ -77,11 +143,20 @@
     "name:pol_x_preferred":[
         "Dimitrowgrad"
     ],
+    "name:por_x_preferred":[
+        "Dimitrovgrad"
+    ],
     "name:ron_x_preferred":[
+        "Dimitrovgrad"
+    ],
+    "name:rup_x_preferred":[
         "Dimitrovgrad"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd2\u0db8\u0dd2\u0dad\u0dca\u0dbb\u0ddd\u0dc0\u0dca\u0d9c\u0dca\u0dbb\u0dd0\u0da9\u0dca"
     ],
     "name:slk_x_preferred":[
         "Dimitrovgrad"
@@ -89,8 +164,23 @@
     "name:spa_x_preferred":[
         "Dimitrovgrad"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434"
+    ],
     "name:swe_x_preferred":[
         "Dimitrovgrad"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbf\u0bae\u0bbf\u0b9f\u0bcd\u0bb0\u0bcb\u0bb5\u0bcd\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c3f\u0c2e\u0c3f\u0c24\u0c4d\u0c30\u0c4b\u0c35\u0c4d\u0c17\u0c4d\u0c30\u0c3e\u0c21\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e34\u0e21\u0e34\u0e15\u0e23\u0e2d\u0e1f\u0e01\u0e23\u0e32\u0e14"
     ],
     "name:tur_x_preferred":[
         "Dimitrovgrad"
@@ -99,6 +189,15 @@
         "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434"
     ],
     "name:unk_x_variant":[
+        "Dimitrovgrad"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0645\u06cc\u062a\u0631\u0648\u0648\u062c\u0631\u0627\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "Dimitrovgrad"
+    ],
+    "name:war_x_preferred":[
         "Dimitrovgrad"
     ],
     "name:zho_x_preferred":[
@@ -156,7 +255,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641521,
+    "wof:lastmodified":1563325150,
     "wof:name":"\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0433\u0440\u0430\u0434",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

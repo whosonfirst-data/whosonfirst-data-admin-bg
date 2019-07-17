@@ -19,6 +19,12 @@
     "name:bul_x_preferred":[
         "\u0426\u0430\u0440 \u0421\u043c\u0443\u0438\u043b"
     ],
+    "name:bul_x_variant":[
+        "\u0426\u0430\u0440 \u0421\u0430\u043c\u0443\u0438\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Car Samuil"
+    ],
     "name:eng_x_preferred":[
         "Tsar Samuil"
     ],
@@ -28,6 +34,12 @@
         "Kyutyukli",
         "Kyutyuklii",
         "Zar Samuil"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0627\u0631 \u0633\u0627\u0645\u0648\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Tsar Samuil"
     ],
     "name:kaz_x_preferred":[
         "\u0426\u0430\u0440-\u0421\u0430\u043c\u0443\u0438\u043b"
@@ -97,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325423,
     "wof:name":"\u0426\u0430\u0440 \u0421\u0430\u043c\u0443\u0438\u043b",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

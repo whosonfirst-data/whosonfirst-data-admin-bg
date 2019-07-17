@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000879,
-    "geom:area_square_m":8073220.78845,
+    "geom:area_square_m":8073220.788454,
     "geom:bbox":"23.069446,41.996016,23.119272,42.029507",
     "geom:latitude":42.011204,
     "geom:longitude":23.092017,
@@ -20,11 +20,29 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u063a\u0648\u064a\u0641\u063a\u0631\u0627\u062f"
     ],
+    "name:arg_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0627\u06af\u0648\u06af\u0631\u0627\u062f"
+    ],
     "name:aze_x_preferred":[
         "Blaqoyevqrad"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u043b\u0430\u0433\u043e\u0435\u045e\u0433\u0440\u0430\u0434"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u043b\u0430\u0433\u043e\u0435\u045e\u0433\u0440\u0430\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cd\u09b2\u09be\u0997\u09cb\u09ad\u0997\u09cd\u09b0\u09be\u09a1"
+    ],
+    "name:bos_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:bre_x_preferred":[
+        "Blagoevgrad"
     ],
     "name:bul_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434"
@@ -35,8 +53,26 @@
     "name:cat_x_preferred":[
         "Blag\u00f2evgrad"
     ],
+    "name:cat_x_variant":[
+        "Blagoevgrad"
+    ],
+    "name:ceb_x_preferred":[
+        "Blagoevgrad"
+    ],
     "name:ces_x_preferred":[
         "Blagojevgrad"
+    ],
+    "name:ces_x_variant":[
+        "Blagoevgrad"
+    ],
+    "name:chu_x_preferred":[
+        "\u0411\u043b\u0430\u0433\u043e\u0465\u0432\u044a \u0413\u0440\u0430\u0434\u044a"
+    ],
+    "name:cym_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:dan_x_preferred":[
+        "Blagoevgrad"
     ],
     "name:deu_x_preferred":[
         "Blagoewgrad"
@@ -63,17 +99,59 @@
         "Gorna Dzhumaya",
         "Gorna D\u017eumaja"
     ],
+    "name:epo_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:est_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:eus_x_preferred":[
+        "Blagoevgrad"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0644\u0627\u06af\u0648\u0648\u06af\u0631\u0627\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:fra_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:frr_x_preferred":[
+        "Blagoewgrad"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acd\u0ab2\u0ac7\u0a97\u0acb\u0ab5\u0a97\u0acd\u0ab0\u0ac7\u0aa1"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05d2\u05d5\u05d0\u05d1\u05d2\u05e8\u05d3"
     ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0932\u0948\u0917\u094b\u090f\u0935\u094d\u0917\u094d\u0930\u0948\u0921"
+    ],
+    "name:hrv_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:hun_x_preferred":[
+        "Blagoevgrad"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u056c\u0561\u0563\u0578\u0587\u0563\u0580\u0561\u0564"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u056c\u0561\u056f\u0585\u0567\u0582\u056f\u0580\u0561\u057f"
+    ],
+    "name:ind_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:ita_x_preferred":[
+        "Blagoevgrad"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30b4\u30a8\u30f4\u30b0\u30e9\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccd\u0cb2\u0cbe\u0c97\u0ccb\u0cb5\u0ccd\u0c97\u0cb0\u0cbe\u0ca1\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10da\u10d0\u10d2\u10dd\u10d4\u10d5\u10d2\u10e0\u10d0\u10d3\u10d8"
@@ -84,14 +162,29 @@
     "name:kor_x_preferred":[
         "\ube14\ub77c\uace0\uc5d0\ube0c\uadf8\ub77c\ub4dc"
     ],
+    "name:lav_x_preferred":[
+        "Blagojevgrada"
+    ],
     "name:lit_x_preferred":[
         "Blagojevgradas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094d\u0932\u0947\u0917\u094b\u0935\u0917\u094d\u0930\u0945\u0921"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434"
     ],
+    "name:mkd_x_variant":[
+        "\u0413\u043e\u0440\u043d\u0430 \u040f\u0443\u043c\u0430\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Blagoevgrad"
+    ],
     "name:nld_x_preferred":[
         "Blago\u00ebvgrad"
+    ],
+    "name:nob_x_preferred":[
+        "Blagoevgrad"
     ],
     "name:oss_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434"
@@ -102,11 +195,47 @@
     "name:pol_x_preferred":[
         "B\u0142agojewgrad"
     ],
+    "name:por_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:ron_x_preferred":[
+        "Blagoevgrad"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434"
     ],
+    "name:sco_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dca\u0dbd\u0d9c\u0ddc\u0dc0\u0dca\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0da9\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:slv_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:spa_x_preferred":[
+        "Blagoevgrad"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bcd\u0bb3\u0bbe\u0b95\u0bcd\u0b95\u0bcb\u0b95\u0bcd\u0bb0\u0bbe\u0b9f\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4d\u0c32\u0c3e\u0c17\u0c4b\u0c0e\u0c35\u0c4d\u0c17\u0c4d\u0c30\u0c3e\u0c21\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e25\u0e32\u0e01\u0e2d\u0e41\u0e2d\u0e1f\u0e01\u0e23\u0e31\u0e15"
     ],
     "name:tur_x_preferred":[
         "Yukar\u0131 Cuma"
@@ -122,6 +251,12 @@
     ],
     "name:vep_x_preferred":[
         "Blagojevgrad"
+    ],
+    "name:vie_x_preferred":[
+        "Blagoevgrad"
+    ],
+    "name:war_x_preferred":[
+        "Blagoevgrad"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u62c9\u6208\u8036\u592b\u683c\u52d2"
@@ -178,7 +313,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527688465,
+    "wof:lastmodified":1563325446,
     "wof:name":"\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

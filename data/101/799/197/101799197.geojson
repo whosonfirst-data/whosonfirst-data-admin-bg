@@ -29,6 +29,12 @@
         "Dobritsch",
         "Dobri\u010d"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u06cc\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Dobrich"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0438\u0447"
     ],
@@ -96,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325274,
     "wof:name":"\u0414\u043e\u0431\u0440\u0438\u0447",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

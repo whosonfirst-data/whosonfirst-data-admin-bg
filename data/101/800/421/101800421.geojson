@@ -26,6 +26,9 @@
         "Graschowo",
         "Grashovski"
     ],
+    "name:fra_x_preferred":[
+        "Grashevo"
+    ],
     "name:kaz_x_preferred":[
         "\u0413\u0440\u0430\u0448\u0435\u0432\u043e"
     ],
@@ -84,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325499,
     "wof:name":"\u0413\u0440\u0430\u0448\u0435\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
         "Pchelarovo",
         "Ptschelnik"
     ],
+    "name:fra_x_preferred":[
+        "Pchelnik"
+    ],
     "name:pol_x_preferred":[
         "Pcze\u0142nik"
     ],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325306,
     "wof:name":"\u041f\u0447\u0435\u043b\u043d\u0438\u043a",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

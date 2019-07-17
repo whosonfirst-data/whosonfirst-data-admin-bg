@@ -21,7 +21,16 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
     ],
+    "name:bul_x_variant":[
+        "\u0414\u043e\u043b\u043d\u043e \u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
+    ],
     "name:eng_x_preferred":[
+        "Dolno Novo Selo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648 \u0646\u0648\u0648\u0648 \u0633\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
         "Dolno Novo Selo"
     ],
     "name:pol_x_preferred":[
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1125874865,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325562,
     "wof:name":"Dolno Novo Selo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

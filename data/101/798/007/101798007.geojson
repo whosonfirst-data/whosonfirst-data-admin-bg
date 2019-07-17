@@ -29,6 +29,12 @@
         "Mechka",
         "Metschka"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0628\u0648\u0631\u06cc\u0634\u062a\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Oborishte"
+    ],
     "name:kat_x_preferred":[
         "\u10dd\u10d1\u10dd\u10e0\u10d8\u10e8\u10e2\u10d4"
     ],
@@ -97,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325320,
     "wof:name":"\u041e\u0431\u043e\u0440\u0438\u0449\u0435",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

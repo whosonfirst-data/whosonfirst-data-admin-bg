@@ -22,7 +22,13 @@
     "name:bul_x_variant":[
         "\u0410\u043d\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Anevo"
+    ],
     "name:eng_x_preferred":[
+        "Anevo"
+    ],
+    "name:fra_x_preferred":[
         "Anevo"
     ],
     "name:kaz_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101799321,
-    "wof:lastmodified":1561837444,
+    "wof:lastmodified":1563325294,
     "wof:name":"\u0410\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

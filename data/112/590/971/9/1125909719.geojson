@@ -24,8 +24,14 @@
     "name:eng_x_preferred":[
         "Dragushinovo"
     ],
+    "name:fra_x_preferred":[
+        "Dragushinovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u0440\u0430\u0433\u0443\u0448\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Draguszinowo"
     ],
     "name:ron_x_preferred":[
         "Dragu\u0219inovo"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125909719,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325564,
     "wof:name":"Dragushinovo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

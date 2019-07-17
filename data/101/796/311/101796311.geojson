@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0444\u0438\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Zafirovo"
+    ],
     "name:eng_x_colloquial":[
         "Sarsanlar",
         "Sarsthnlar",
@@ -32,6 +35,9 @@
         "General Zafirovo",
         "Sars\u00e2nlar",
         "Sars\u00fenlar"
+    ],
+    "name:fra_x_preferred":[
+        "Zafirovo"
     ],
     "name:kaz_x_preferred":[
         "\u0417\u0430\u0444\u0438\u0440\u043e\u0432\u043e"
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325418,
     "wof:name":"\u0417\u0430\u0444\u0438\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

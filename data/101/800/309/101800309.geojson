@@ -25,6 +25,12 @@
     "name:eng_x_preferred":[
         "Pletena"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u062a\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Pletena"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10da\u10d4\u10e2\u10d4\u10dc\u10d0"
     ],
@@ -97,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325480,
     "wof:name":"\u041f\u043b\u0435\u0442\u0435\u043d\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

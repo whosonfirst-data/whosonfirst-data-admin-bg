@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
+    "geom:area_square_m":1847050.567852,
     "geom:bbox":"24.8869130774,42.6027038468,24.9069570902,42.6267164991",
     "geom:latitude":42.614856,
     "geom:longitude":24.897658,
@@ -15,8 +16,32 @@
     "mps:longitude":24.901682,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0633\u064a\u0644 \u0644\u0648\u0641\u0633\u0643\u064a"
+    ],
+    "name:bak_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0441\u0456\u043b \u041b\u0435\u045e\u0441\u043a\u0456"
+    ],
+    "name:bre_x_preferred":[
+        "Vasil Levski"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Vassil Levski"
+    ],
+    "name:ces_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:deu_x_preferred":[
+        "Wassil Lewski"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c3\u03af\u03bb \u039b\u03ad\u03b2\u03c3\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Vasil Levski"
@@ -28,8 +53,98 @@
         "Vassil Levski",
         "Wassil Lewski"
     ],
+    "name:epo_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:fin_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:fra_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:glg_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e1\u05d9\u05dc \u05dc\u05d1\u05e1\u05e7\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Vaszil Levszki"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u057d\u056b\u056c \u053c\u0587\u057d\u056f\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30b7\u30eb\u30fb\u30ec\u30d5\u30b9\u30ad"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc2e4 \ub808\ud504\uc2a4\ud0a4"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:mlg_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:nld_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:nno_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:nob_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:pol_x_preferred":[
+        "Wasi\u0142 Lewski"
+    ],
+    "name:por_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:ron_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:slk_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:slv_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:spa_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:swe_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e32\u0e0b\u0e34\u0e25 \u0e40\u0e25\u0e1f\u0e2a\u0e01\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:unk_x_variant":[
         "Mitirizovo"
+    ],
+    "name:war_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u897f\u5c14\u00b7\u5217\u592b\u65af\u57fa"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
@@ -75,7 +190,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641693,
+    "wof:lastmodified":1563325289,
     "wof:name":"\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

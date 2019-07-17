@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000391,
-    "geom:area_square_m":3523890.033358,
+    "geom:area_square_m":3523890.03336,
     "geom:bbox":"27.6975294483,43.1774105467,27.7434866534,43.2059899",
     "geom:latitude":43.193602,
     "geom:longitude":27.713239,
@@ -41,7 +41,11 @@
         "Bjelevo",
         "Byelevo",
         "Gebedzhe",
-        "Gebed\u017ee"
+        "Gebed\u017ee",
+        "Beloslav Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0644\u0648\u0633\u0644\u0627\u0648"
     ],
     "name:fra_x_preferred":[
         "Beloslav"
@@ -52,6 +56,9 @@
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10da\u10dd\u10e1\u10da\u10d0\u10d5\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Beloslav Municipality"
+    ],
     "name:pol_x_preferred":[
         "Gmina Be\u0142os\u0142aw"
     ],
@@ -59,6 +66,9 @@
         "Comuna Beloslav"
     ],
     "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0441\u043b\u0430\u0432"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0441\u043b\u0430\u0432"
     ],
     "name:unk_x_variant":[
@@ -119,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642032,
+    "wof:lastmodified":1563325393,
     "wof:name":"\u0411\u0435\u043b\u043e\u0441\u043b\u0430\u0432",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

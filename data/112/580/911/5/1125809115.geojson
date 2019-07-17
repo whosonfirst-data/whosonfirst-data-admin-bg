@@ -28,7 +28,13 @@
     "name:eng_x_preferred":[
         "Sinemorec"
     ],
+    "name:eng_x_variant":[
+        "Sinemorets"
+    ],
     "name:epo_x_preferred":[
+        "Sinemorets"
+    ],
+    "name:fra_x_preferred":[
         "Sinemorets"
     ],
     "name:kat_x_preferred":[
@@ -48,6 +54,9 @@
     ],
     "name:ron_x_preferred":[
         "Sinemore\u021b"
+    ],
+    "name:rue_x_preferred":[
+        "\u0421\u0438\u043d\u0435\u043c\u043e\u0440\u0435\u0446"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u0435\u043c\u043e\u0440\u0435\u0446"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":1125809115,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325560,
     "wof:name":"Sinemorets",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

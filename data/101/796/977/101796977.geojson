@@ -20,6 +20,15 @@
     "name:afr_x_preferred":[
         "Sozopol"
     ],
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0632\u0648\u0628\u0648\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0632\u0648\u067e\u0648\u0644"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0437\u043e\u043f\u0430\u043b"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u0437\u043e\u043f\u043e\u043b"
     ],
@@ -69,6 +78,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05d6\u05d5\u05e4\u05d5\u05dc"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0566\u0578\u057a\u0578\u056c"
+    ],
     "name:ita_x_preferred":[
         "Sozopol"
     ],
@@ -81,10 +93,16 @@
     "name:kor_x_preferred":[
         "\uc18c\uc870\ud3f4"
     ],
+    "name:lit_x_preferred":[
+        "Sozopolas"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u043e\u0437\u043e\u043f\u043e\u043b"
     ],
     "name:nld_x_preferred":[
+        "Sozopol"
+    ],
+    "name:nob_x_preferred":[
         "Sozopol"
     ],
     "name:nor_x_preferred":[
@@ -119,6 +137,15 @@
     ],
     "name:swe_x_preferred":[
         "Sozopol"
+    ],
+    "name:szl_x_preferred":[
+        "Sozopol"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u04e9\u0437\u04d9\u043f\u0443\u043b\u044b"
+    ],
+    "name:tur_x_preferred":[
+        "S\u00fczebolu"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0437\u043e\u043f\u043e\u043b\u044c"
@@ -189,7 +216,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642032,
+    "wof:lastmodified":1563325392,
     "wof:name":"\u0421\u043e\u0437\u043e\u043f\u043e\u043b",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -41,6 +41,12 @@
         "\u010cerven-Brjeg",
         "\u010cerveni Br\u011bg"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0648\u0646 \u0628\u0631\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Cherven Breg"
+    ],
     "name:kaz_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d-\u0411\u0440\u0435\u0433"
     ],
@@ -100,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325267,
     "wof:name":"\u0427\u0435\u0440\u0432\u0435\u043d \u0431\u0440\u0435\u0433",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

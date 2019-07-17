@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Nic\u00f2pol"
     ],
+    "name:cat_x_variant":[
+        "Novacene"
+    ],
     "name:ceb_x_preferred":[
         "Obshtina Nikopol"
     ],
@@ -78,6 +81,9 @@
     "name:kaz_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043f\u043e\u043b"
     ],
+    "name:kaz_x_variant":[
+        "\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435"
+    ],
     "name:kor_x_preferred":[
         "\ub2c8\ucf54\ud3f4"
     ],
@@ -96,6 +102,9 @@
     "name:rus_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043f\u043e\u043b"
     ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435"
+    ],
     "name:spa_x_preferred":[
         "Novacene"
     ],
@@ -110,6 +119,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043e\u043f\u043e\u043b"
+    ],
+    "name:ukr_x_variant":[
+        "\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435"
     ],
     "name:unk_x_variant":[
         "Nowatschene"
@@ -173,7 +185,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837447,
+    "wof:lastmodified":1563325335,
     "wof:name":"\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
         "Kalovo",
         "Kalowo"
     ],
+    "name:fra_x_preferred":[
+        "Dyankovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u044f\u043d\u043a\u043e\u0432\u043e"
     ],
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325225,
     "wof:name":"\u0414\u044f\u043d\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

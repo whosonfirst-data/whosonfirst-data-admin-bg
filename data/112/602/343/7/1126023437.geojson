@@ -21,10 +21,19 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u043a\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Balkan"
+    ],
     "name:deu_x_preferred":[
         "Balkan"
     ],
     "name:eng_x_preferred":[
+        "Balkan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06a9\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Balkan"
     ],
     "name:kaz_x_preferred":[
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1126023437,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325553,
     "wof:name":"Balkan",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

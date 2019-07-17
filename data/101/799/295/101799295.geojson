@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
+    "geom:area_square_m":1068420.623302,
     "geom:bbox":"24.2145630004,42.1078112387,24.2331095741,42.1184345233",
     "geom:latitude":42.1127,
     "geom:longitude":24.223727,
@@ -34,7 +35,14 @@
         "Crancha",
         "Tsrencha",
         "Tsr\u00fencha",
-        "Zr\u00e6ntscha"
+        "Zr\u00e6ntscha",
+        "Tsrancha"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0631\u0627\u0646\u0686\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Tsrancha"
     ],
     "name:kat_x_preferred":[
         "\u10ea\u10e0\u10d8\u10dc\u10e9\u10d0"
@@ -101,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641684,
+    "wof:lastmodified":1563325256,
     "wof:name":"\u0426\u0440\u044a\u043d\u0447\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

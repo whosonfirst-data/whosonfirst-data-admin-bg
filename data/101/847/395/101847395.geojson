@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0436\u0443\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dzhurovo"
+    ],
     "name:eng_x_colloquial":[
         "Djurovo-Mahalamiskovci"
     ],
@@ -28,6 +31,9 @@
     "name:eng_x_variant":[
         "Djurovo-Mahalami\u00b5kovci",
         "Dshurowo"
+    ],
+    "name:fra_x_preferred":[
+        "Dzhurovo"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u0436\u0443\u0440\u043e\u0432\u043e"
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325478,
     "wof:name":"\u0414\u0436\u0443\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

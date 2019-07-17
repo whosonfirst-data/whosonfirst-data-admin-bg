@@ -34,6 +34,12 @@
         "V\u00felkosel",
         "Walkossel"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u06a9\u0648\u0633\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Valkosel"
+    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10da\u10d9\u10dd\u10e1\u10d4\u10da\u10d8"
     ],
@@ -102,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325494,
     "wof:name":"\u0412\u044a\u043b\u043a\u043e\u0441\u0435\u043b",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

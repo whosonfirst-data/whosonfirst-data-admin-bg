@@ -36,6 +36,12 @@
         "Skr\u00fet",
         "Skrat"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06a9\u0631\u0627\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Skrat"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u043a\u0440\u044b\u0442"
     ],
@@ -97,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325495,
     "wof:name":"\u0421\u043a\u0440\u044a\u0442",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

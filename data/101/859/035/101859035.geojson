@@ -26,6 +26,12 @@
         "Rogatsch",
         "Yumer K'oy"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u06af\u0627\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Rogach"
+    ],
     "name:kaz_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447"
     ],
@@ -87,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325431,
     "wof:name":"\u0420\u043e\u0433\u0430\u0447",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

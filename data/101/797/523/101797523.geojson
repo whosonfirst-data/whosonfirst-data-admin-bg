@@ -22,6 +22,9 @@
     "name:bul_x_variant":[
         "Balgarevo"
     ],
+    "name:ceb_x_preferred":[
+        "Balgarevo"
+    ],
     "name:eng_x_colloquial":[
         "Bthlgarevo",
         "Btlgarevo"
@@ -36,6 +39,12 @@
         "Ghiaur Suiuciuc",
         "Gyaursuyutchyuk",
         "Gyavur Suyutchuk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06af\u0627\u0631\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Balgarevo"
     ],
     "name:gag_x_preferred":[
         "G\u00e4ur S\u00fc\u00fct\u00e7\u00fc\u00fc"
@@ -105,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325236,
     "wof:name":"\u0411\u044a\u043b\u0433\u0430\u0440\u0435\u0432\u043e",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

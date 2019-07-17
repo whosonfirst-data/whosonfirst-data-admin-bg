@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
+    "geom:area_square_m":1786856.449274,
     "geom:bbox":"25.6393519517,43.292862064,25.6572175233,43.3100176752",
     "geom:latitude":43.301457,
     "geom:longitude":25.647874,
@@ -27,6 +28,12 @@
     "name:ces_x_preferred":[
         "Ob\u0161tina Polski Tr\u0103mbe\u0161"
     ],
+    "name:eng_x_preferred":[
+        "Polski Trambesh Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u0648\u0644\u0633\u06a9\u06cc \u062a\u0631\u0627\u0645\u0628\u0634"
+    ],
     "name:fra_x_preferred":[
         "Polski Trambech"
     ],
@@ -35,6 +42,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10da\u10e1\u10d9\u10d8-\u10e2\u10e0\u10d8\u10db\u10d1\u10d4\u10e8\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Polski Trambesh Municipality"
     ],
     "name:pol_x_preferred":[
         "Gmina Po\u0142ski Trymbesz"
@@ -47,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Obsjtina Polski Trmbesj"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0422\u0440\u0438\u043c\u0431\u0435\u0448"
     ],
     "name:unk_x_variant":[
         "Odaitye"
@@ -97,7 +110,7 @@
         }
     ],
     "wof:id":101797171,
-    "wof:lastmodified":1527641534,
+    "wof:lastmodified":1563325238,
     "wof:name":"\u041f\u0435\u0442\u043a\u043e \u041a\u0430\u0440\u0430\u0432\u0435\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

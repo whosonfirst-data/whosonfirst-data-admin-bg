@@ -29,11 +29,20 @@
         "Pasovo",
         "Rassowo"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0633\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Rasovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0420\u0430\u0441\u043e\u0432\u043e"
     ],
     "name:msa_x_preferred":[
         "Rasovo"
+    ],
+    "name:pol_x_preferred":[
+        "Rasowo"
     ],
     "name:ron_x_preferred":[
         "Rasovo"
@@ -95,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325197,
     "wof:name":"\u0420\u0430\u0441\u043e\u0432\u043e",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

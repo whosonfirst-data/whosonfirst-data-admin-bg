@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0441\u0435\u0442\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Osetenovo"
+    ],
     "name:eng_x_preferred":[
         "Osetenovo"
     ],
@@ -26,8 +29,14 @@
         "Doymushlari",
         "Ossetenowo"
     ],
+    "name:fra_x_preferred":[
+        "Osetenovo"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u0441\u0435\u0442\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Osetenowo"
     ],
     "name:ron_x_preferred":[
         "Osetenovo"
@@ -87,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325252,
     "wof:name":"\u041e\u0441\u0435\u0442\u0435\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000102,
+    "geom:area_square_m":908267.192699,
     "geom:bbox":"26.3207985066,43.9242151185,26.3344752759,43.9370902074",
     "geom:latitude":43.930613,
     "geom:longitude":26.327641,
@@ -19,16 +20,57 @@
         "\u041c\u0430\u043b\u043e \u0412\u0440\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:bul_x_variant":[
-        "\u041c\u0430\u043b\u043a\u043e \u0412\u0440\u0430\u043d\u043e\u0432\u043e"
+        "\u041c\u0430\u043b\u043a\u043e \u0412\u0440\u0430\u043d\u043e\u0432\u043e",
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0421\u043b\u0438\u0432\u043e \u043f\u043e\u043b\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Slivo Pole"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Slivo Pole"
     ],
     "name:eng_x_preferred":[
         "Malko Vranovo"
     ],
     "name:eng_x_variant":[
-        "Malko Wranowo"
+        "Malko Wranowo",
+        "Slivo Pole Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u06cc\u0648\u0648 \u067e\u0648\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Slivo pole"
+    ],
+    "name:ita_x_preferred":[
+        "Slivo Pole"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10da\u10d8\u10d5\u10dd-\u10de\u10dd\u10da\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Slivo Pole Municipality"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Sliwo pole"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Slivo Pole"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043e-\u041f\u043e\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Slivo Pole"
     ],
     "name:unk_x_variant":[
         "Malko Wranowo"
+    ],
+    "name:vie_x_preferred":[
+        "Slivo Pole"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5229\u6c83\u6ce2\u840a\u5e02"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0420\u0443\u0441\u0435",
@@ -74,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642035,
+    "wof:lastmodified":1563325409,
     "wof:name":"\u041c\u0430\u043b\u043a\u043e \u0412\u0440\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

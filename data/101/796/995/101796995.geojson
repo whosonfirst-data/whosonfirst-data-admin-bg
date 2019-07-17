@@ -41,6 +41,9 @@
         "Yakezlii",
         "Yakezliy"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0644\u062a"
+    ],
     "name:fra_x_preferred":[
         "Debelt"
     ],
@@ -123,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325401,
     "wof:name":"\u0414\u0435\u0431\u0435\u043b\u0442",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

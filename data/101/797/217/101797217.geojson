@@ -19,12 +19,18 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0438\u043b\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Koilovci"
+    ],
     "name:eng_x_preferred":[
         "Koilovtsi"
     ],
     "name:eng_x_variant":[
         "Koilowzi",
         "Kuilovtsi"
+    ],
+    "name:fra_x_preferred":[
+        "Koilovtsi"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u0438\u043b\u043e\u0432\u0446\u0438"
@@ -88,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325165,
     "wof:name":"\u041a\u043e\u0438\u043b\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

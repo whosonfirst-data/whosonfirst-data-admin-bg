@@ -23,6 +23,9 @@
         "Elhovets",
         "\u0415\u043b\u0445\u043e\u0432\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Elkhovec"
+    ],
     "name:eng_x_preferred":[
         "Elkhovets"
     ],
@@ -30,6 +33,9 @@
         "Elchowez",
         "Elhovec",
         "Yanuz Dere",
+        "Elhovets"
+    ],
+    "name:fra_x_preferred":[
         "Elhovets"
     ],
     "name:kaz_x_preferred":[
@@ -93,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325500,
     "wof:name":"\u0415\u043b\u0445\u043e\u0432\u0435\u0446",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

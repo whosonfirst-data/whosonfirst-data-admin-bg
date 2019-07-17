@@ -19,13 +19,25 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0431\u0443\u043d\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Karabunar"
+    ],
     "name:eng_x_preferred":[
         "Karabunar"
     ],
     "name:eng_x_variant":[
         "Karabounar"
     ],
+    "name:fra_x_preferred":[
+        "Karabunar"
+    ],
+    "name:pol_x_preferred":[
+        "Karabunar"
+    ],
     "name:ron_x_preferred":[
+        "Karabunar"
+    ],
+    "name:swe_x_preferred":[
         "Karabunar"
     ],
     "name:ukr_x_preferred":[
@@ -77,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325312,
     "wof:name":"\u041a\u0430\u0440\u0430\u0431\u0443\u043d\u0430\u0440",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

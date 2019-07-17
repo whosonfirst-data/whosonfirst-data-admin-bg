@@ -49,6 +49,12 @@
         "D\u00febravino",
         "Dabravino"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0628\u0631\u0627\u0648\u06cc\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Dabravino"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u044b\u0431\u0440\u0430\u0432\u0438\u043d\u043e"
     ],
@@ -115,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325193,
     "wof:name":"\u0414\u044a\u0431\u0440\u0430\u0432\u0438\u043d\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

@@ -36,8 +36,17 @@
         "Zheglarci",
         "\u017deglarci"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u06af\u0644\u0627\u0631\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Zheglartsi"
+    ],
     "name:kaz_x_preferred":[
         "\u0416\u0435\u0433\u043b\u0430\u0440\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "\u017beg\u0142arci"
     ],
     "name:ron_x_preferred":[
         "Jeglar\u021bi"
@@ -99,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837453,
+    "wof:lastmodified":1563325464,
     "wof:name":"\u0416\u0435\u0433\u043b\u0430\u0440\u0446\u0438",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

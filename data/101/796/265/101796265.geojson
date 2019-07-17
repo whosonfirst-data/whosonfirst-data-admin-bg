@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000547,
-    "geom:area_square_m":4901090.878403,
+    "geom:area_square_m":4901090.878405,
     "geom:bbox":"28.5185470603,43.5254805345,28.5534155131,43.5512143612",
     "geom:latitude":43.539409,
     "geom:longitude":28.534586,
@@ -29,6 +29,9 @@
     "name:ces_x_preferred":[
         "Ob\u0161tina \u0160abla"
     ],
+    "name:deu_x_preferred":[
+        "Shabla"
+    ],
     "name:eng_x_colloquial":[
         "\u015eabla"
     ],
@@ -36,7 +39,11 @@
         "Shabla"
     ],
     "name:eng_x_variant":[
-        "Sabla"
+        "Sabla",
+        "Shabla Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0627\u0628\u0644\u0627"
     ],
     "name:fra_x_preferred":[
         "Chabla"
@@ -47,14 +54,23 @@
     "name:kat_x_preferred":[
         "\u10e8\u10d0\u10d1\u10da\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Shabla Municipality"
+    ],
     "name:pol_x_preferred":[
         "Gmina Szab\u0142a"
     ],
     "name:ron_x_preferred":[
         "Comuna \u0218abla"
     ],
+    "name:ron_x_variant":[
+        "Ob\u0219tina \u0218abla"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u0431\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Shabla"
     ],
     "name:swe_x_preferred":[
         "Obsjtina Sjabla"
@@ -117,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642037,
+    "wof:lastmodified":1563325416,
     "wof:name":"\u0428\u0430\u0431\u043b\u0430",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

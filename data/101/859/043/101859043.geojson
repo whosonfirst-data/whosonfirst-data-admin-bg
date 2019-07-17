@@ -28,6 +28,12 @@
     "name:eng_x_variant":[
         "Kodzha-Yumer"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0631\u0648\u0641\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Starovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0432\u043e"
     ],
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325430,
     "wof:name":"\u0421\u0442\u0430\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

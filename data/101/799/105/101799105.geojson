@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
-    "geom:area_square_m":1877391.327587,
+    "geom:area_square_m":1877391.327589,
     "geom:bbox":"24.6668573156,41.7060558532,24.6927169971,41.7410655895",
     "geom:latitude":41.725173,
     "geom:longitude":24.684498,
@@ -17,11 +17,17 @@
     "mps:longitude":24.684302,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u067e\u0644\u0627\u0631"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u043f\u0435\u043b\u0430\u0440\u0435"
     ],
     "name:ceb_x_preferred":[
         "Chepelare"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cepelare"
     ],
     "name:ckb_x_preferred":[
         "\u0686\u06ce\u067e\u06ce\u0644\u0627\u0631\u06ce"
@@ -51,6 +57,9 @@
     ],
     "name:fra_x_preferred":[
         "Tchepelare"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e4\u05dc\u05d0\u05e8\u05d4"
     ],
     "name:ina_x_preferred":[
         "Chepelare"
@@ -87,6 +96,12 @@
     ],
     "name:swe_x_preferred":[
         "Tjepelare"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0435\u043f\u0435\u043b\u0430\u0440\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7epeleri"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043f\u0435\u043b\u0430\u0440\u0435"
@@ -152,7 +167,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641681,
+    "wof:lastmodified":1563325245,
     "wof:name":"\u0427\u0435\u043f\u0435\u043b\u0430\u0440\u0435",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

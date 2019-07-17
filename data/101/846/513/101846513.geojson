@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000593,
-    "geom:area_square_m":5310234.151215,
+    "geom:area_square_m":5310234.151217,
     "geom:bbox":"23.322045723,43.6241952646,23.3935722919,43.6518549177",
     "geom:latitude":43.638158,
     "geom:longitude":23.353918,
@@ -29,12 +29,19 @@
     "name:ces_x_preferred":[
         "Ob\u0161tina Jakimovo"
     ],
+    "name:deu_x_preferred":[
+        "Yakimovo"
+    ],
     "name:eng_x_preferred":[
         "Voynitsi"
     ],
     "name:eng_x_variant":[
         "Vojnici",
-        "Wojnizi"
+        "Wojnizi",
+        "Yakimovo Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06cc\u0627\u06a9\u06cc\u0645\u0648\u0641\u0648"
     ],
     "name:fra_x_preferred":[
         "Yakimovo"
@@ -45,6 +52,9 @@
     "name:kat_x_preferred":[
         "\u10d8\u10d0\u10d9\u10d8\u10db\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Yakimovo Municipality"
+    ],
     "name:pol_x_preferred":[
         "Gmina Jakimowo"
     ],
@@ -53,6 +63,9 @@
     ],
     "name:rus_x_preferred":[
         "\u042f\u043a\u0438\u043c\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Yakimovo"
     ],
     "name:swe_x_preferred":[
         "Obsjtina Jakimovo"
@@ -118,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714717,
+    "wof:lastmodified":1563325473,
     "wof:name":"\u042f\u043a\u0438\u043c\u043e\u0432\u043e",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

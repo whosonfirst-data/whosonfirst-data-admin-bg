@@ -29,6 +29,12 @@
         "Mari Kostenowo",
         "Marikostenovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06cc\u06a9\u0648\u0633\u062a\u06cc\u0646\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Marikostinovo"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837457,
+    "wof:lastmodified":1563325510,
     "wof:name":"\u041c\u0430\u0440\u0438\u043a\u043e\u0441\u0442\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

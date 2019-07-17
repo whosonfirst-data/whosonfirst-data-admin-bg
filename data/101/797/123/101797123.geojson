@@ -33,6 +33,12 @@
         "Smoljanowzi",
         "Smolyanovci"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0645\u0648\u0644\u06cc\u0627\u0646\u0648\u0641\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Smolyanovtsi"
+    ],
     "name:msa_x_preferred":[
         "Smolyanovtsi"
     ],
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325229,
     "wof:name":"\u0421\u043c\u043e\u043b\u044f\u043d\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

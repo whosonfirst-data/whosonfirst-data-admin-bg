@@ -33,6 +33,12 @@
         "\u017dilenci",
         "\u017dilinci"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u06cc\u0644\u0646\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Zhilentsi"
+    ],
     "name:kaz_x_preferred":[
         "\u0416\u0438\u043b\u0435\u043d\u0446\u0438"
     ],
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837453,
+    "wof:lastmodified":1563325467,
     "wof:name":"\u0416\u0438\u043b\u0435\u043d\u0446\u0438",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

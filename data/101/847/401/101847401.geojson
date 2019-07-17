@@ -30,6 +30,12 @@
         "Topchu-Makhala",
         "Toptschiisko"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u067e\u0686\u06cc\u0633\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Topchiysko"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u043e\u043f\u0447\u0438\u0439\u0441\u043a\u043e"
     ],
@@ -93,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325477,
     "wof:name":"\u0422\u043e\u043f\u0447\u0438\u0439\u0441\u043a\u043e",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

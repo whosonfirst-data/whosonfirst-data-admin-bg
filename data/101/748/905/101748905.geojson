@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002292,
-    "geom:area_square_m":20889695.005014,
+    "geom:area_square_m":20889695.005012,
     "geom:bbox":"27.420885,42.4623335,27.4849545,42.5429535",
     "geom:latitude":42.507852,
     "geom:longitude":27.455718,
@@ -18,20 +18,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:ace_x_preferred":[
+        "Burgas"
+    ],
     "name:afr_x_preferred":[
         "Boergas"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u063a\u0627\u0633"
     ],
+    "name:arg_x_preferred":[
+        "Burgas"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u062c\u0627\u0633"
+    ],
     "name:ast_x_preferred":[
         "Burgas"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u06af\u0627\u0633"
     ],
     "name:aze_x_preferred":[
         "Burqas"
     ],
+    "name:bak_x_preferred":[
+        "\u0411\u0443\u0440\u0433\u0430\u0441"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0443\u0440\u0433\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0443\u0440\u0433\u0430\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b0\u09cd\u0997\u09be\u09b8"
     ],
     "name:bre_x_preferred":[
         "Burgas"
@@ -41,6 +62,12 @@
     ],
     "name:cat_x_preferred":[
         "Burg\u00e0s"
+    ],
+    "name:cat_x_variant":[
+        "Burgas"
+    ],
+    "name:ceb_x_preferred":[
+        "Burgas"
     ],
     "name:ces_x_preferred":[
         "Burgas"
@@ -79,6 +106,12 @@
     "name:epo_x_preferred":[
         "Burgaso"
     ],
+    "name:est_x_preferred":[
+        "Burgas"
+    ],
+    "name:eus_x_preferred":[
+        "Burgas"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0631\u06af\u0627\u0633"
     ],
@@ -88,8 +121,26 @@
     "name:fra_x_preferred":[
         "Bourgas"
     ],
+    "name:frr_x_preferred":[
+        "Burgas"
+    ],
+    "name:gle_x_preferred":[
+        "Burgas"
+    ],
+    "name:glg_x_preferred":[
+        "Burgas"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ab0\u0acd\u0a97\u0abe\u0ab8"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e8\u05d2\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u0930\u0917\u093e\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Burgas"
     ],
     "name:hun_x_preferred":[
         "Burgasz"
@@ -97,11 +148,23 @@
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u0580\u0563\u0561\u057d"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0578\u0582\u0580\u056f\u0561\u057d"
+    ],
+    "name:ido_x_preferred":[
+        "Burgas"
+    ],
     "name:ind_x_preferred":[
+        "Burgas"
+    ],
+    "name:ita_x_preferred":[
         "Burgas"
     ],
     "name:jpn_x_preferred":[
         "\u30d6\u30eb\u30ac\u30b9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc1\u0cb0\u0ccd\u0c97\u0cbe\u0cb8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e3\u10e0\u10d2\u10d0\u10e1\u10d8"
@@ -121,6 +184,9 @@
     "name:lit_x_preferred":[
         "Burgasas"
     ],
+    "name:ltz_x_preferred":[
+        "Burgas"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u0930\u094d\u0917\u093e\u0938"
     ],
@@ -130,8 +196,20 @@
     "name:mon_x_preferred":[
         "\u0411\u0443\u0440\u0433\u0430\u0441 \u0445\u043e\u0442"
     ],
+    "name:msa_x_preferred":[
+        "Burgas"
+    ],
     "name:nld_x_preferred":[
         "Boergas"
+    ],
+    "name:nno_x_preferred":[
+        "Burgas"
+    ],
+    "name:nob_x_preferred":[
+        "Burgas"
+    ],
+    "name:oci_x_preferred":[
+        "Burgas"
     ],
     "name:oss_x_preferred":[
         "\u0411\u0443\u0440\u0433\u0430\u0441"
@@ -148,10 +226,22 @@
     "name:ron_x_preferred":[
         "Burgas"
     ],
+    "name:rup_x_preferred":[
+        "Burgas"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0440\u0433\u0430\u0441"
     ],
+    "name:sco_x_preferred":[
+        "Burgas"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dbb\u0dca\u0d9c\u0dc3\u0dca"
+    ],
     "name:slk_x_preferred":[
+        "Burgas"
+    ],
+    "name:slv_x_preferred":[
         "Burgas"
     ],
     "name:spa_x_preferred":[
@@ -160,7 +250,28 @@
     "name:srp_x_preferred":[
         "\u0411\u0443\u0440\u0433\u0430\u0441"
     ],
+    "name:swa_x_preferred":[
+        "Burgas"
+    ],
     "name:swe_x_preferred":[
+        "Burgas"
+    ],
+    "name:szl_x_preferred":[
+        "Burgas"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bb0\u0bcd\u0b95\u0bbe\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0443\u0440\u0433\u0430\u0441"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c41\u0c30\u0c4d\u0c17\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e01\u0e32\u0e2a"
+    ],
+    "name:tuk_x_preferred":[
         "Burgas"
     ],
     "name:tur_x_preferred":[
@@ -174,6 +285,21 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0631\u06af\u0627\u0633"
+    ],
+    "name:vep_x_preferred":[
+        "Burgas"
+    ],
+    "name:vie_x_preferred":[
+        "Burgas"
+    ],
+    "name:vol_x_preferred":[
+        "Burgas"
+    ],
+    "name:war_x_preferred":[
+        "Burgas"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10e3\u10e0\u10d2\u10d0\u10e1\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u5e03\u723e\u52a0\u65af"
@@ -327,7 +453,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527688475,
+    "wof:lastmodified":1563325455,
     "wof:name":"\u0411\u0443\u0440\u0433\u0430\u0441",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

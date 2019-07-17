@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000213,
-    "geom:area_square_m":1957135.767783,
+    "geom:area_square_m":1957135.767781,
     "geom:bbox":"24.357078109,42.0212535505,24.3819628283,42.0454068174",
     "geom:latitude":42.030071,
     "geom:longitude":24.367793,
@@ -17,8 +17,14 @@
     "mps:longitude":24.367605,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0631\u0627\u062a\u0633\u06cc\u06af\u0648\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0446\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:ces_x_preferred":[
+        "Bracigovo"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u0631\u0627\u062a\u0633\u06cc\u06af\u06c6\u06a4\u06c6"
@@ -33,11 +39,23 @@
     "name:fas_x_preferred":[
         "\u0628\u0631\u0627\u062a\u0633\u06cc\u06af\u0648\u0641\u0648"
     ],
+    "name:fra_x_preferred":[
+        "Bratsigovo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d0\u05e6\u05d9\u05d2\u05d5\u05d1\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u0561\u0581\u056b\u0563\u0578\u057e\u0578"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30c4\u30a3\u30b4\u30f4\u30a9"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0440\u0430\u0446\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Bratsigovo"
     ],
     "name:por_x_preferred":[
         "Bracigovo"
@@ -51,11 +69,20 @@
     "name:sco_x_preferred":[
         "Bratsigovo"
     ],
+    "name:slk_x_preferred":[
+        "Bracigovo"
+    ],
     "name:spa_x_preferred":[
         "Bratsigovo"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0440\u0430\u0446\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0441\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Bratsigovo"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0446\u0438\u0433\u043e\u0432\u043e"
@@ -123,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641683,
+    "wof:lastmodified":1563325252,
     "wof:name":"\u0411\u0440\u0430\u0446\u0438\u0433\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

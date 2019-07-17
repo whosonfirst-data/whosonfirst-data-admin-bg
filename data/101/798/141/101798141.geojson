@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000219,
-    "geom:area_square_m":2006939.218466,
+    "geom:area_square_m":2006939.218465,
     "geom:bbox":"25.1974588157,42.2861863404,25.2201360338,42.3080918183",
     "geom:latitude":42.296852,
     "geom:longitude":25.210543,
@@ -34,6 +34,9 @@
         "Malko Borisovo",
         "Malko Borissowo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d0\u05d8\u05d9\u05d4 \u05d3\u05e1\u05e7\u05dc\u05d5\u05d1\u05d9"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10e0\u10d0\u10e2\u10d8\u10d0-\u10d3\u10d0\u10e1\u10d9\u10d0\u10da\u10dd\u10d5\u10d8"
     ],
@@ -41,6 +44,9 @@
         "\u0411\u0440\u0430\u0442\u044f-\u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u0438"
     ],
     "name:msa_x_preferred":[
+        "Bratya Daskalovi"
+    ],
+    "name:nld_x_preferred":[
         "Bratya Daskalovi"
     ],
     "name:pol_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0430\u0442\u044f-\u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Bratya Daskalovi"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0442\u044f-\u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u0456"
@@ -115,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641935,
+    "wof:lastmodified":1563325368,
     "wof:name":"\u0411\u0440\u0430\u0442\u044f \u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u0438",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

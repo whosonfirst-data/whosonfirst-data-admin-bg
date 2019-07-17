@@ -28,6 +28,12 @@
     "name:eng_x_variant":[
         "Wressowo"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0633\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Vresovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0412\u0440\u0435\u0441\u043e\u0432\u043e"
     ],
@@ -91,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325329,
     "wof:name":"\u0412\u0440\u0435\u0441\u043e\u0432\u043e",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

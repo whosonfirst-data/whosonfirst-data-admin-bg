@@ -21,11 +21,23 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0443\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Krushuna"
+    ],
     "name:eng_x_preferred":[
+        "Krushuna"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u0634\u0648\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Krushuna"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0443\u043d\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Kruszuna"
     ],
     "name:ron_x_preferred":[
         "Kru\u0219una"
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1125987571,
-    "wof:lastmodified":1561837460,
+    "wof:lastmodified":1563325570,
     "wof:name":"Krushuna",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

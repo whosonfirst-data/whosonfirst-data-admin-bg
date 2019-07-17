@@ -22,6 +22,9 @@
     "name:bul_x_variant":[
         "Orehovitsa"
     ],
+    "name:ceb_x_preferred":[
+        "Orekhovica"
+    ],
     "name:eng_x_colloquial":[
         "Orehovitza"
     ],
@@ -38,6 +41,9 @@
         "Or\u00e9hovitza",
         "Orehovitsa"
     ],
+    "name:fra_x_preferred":[
+        "Orehovitsa"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u0440\u0435\u0445\u043e\u0432\u0438\u0446\u0430"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0435\u0445\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Or\u00e9hovitsa"
     ],
     "name:swe_x_preferred":[
         "Orechovitsa"
@@ -100,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325222,
     "wof:name":"\u041e\u0440\u0435\u0445\u043e\u0432\u0438\u0446\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

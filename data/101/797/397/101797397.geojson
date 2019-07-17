@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000193,
+    "geom:area_square_m":1736899.577821,
     "geom:bbox":"27.2079961649,43.386013652,27.2320989135,43.4035240948",
     "geom:latitude":43.396878,
     "geom:longitude":27.217623,
@@ -27,6 +28,9 @@
     "name:ces_x_preferred":[
         "Ob\u0161tina Novi Pazar"
     ],
+    "name:deu_x_preferred":[
+        "Novi Pazar"
+    ],
     "name:eng_x_colloquial":[
         "Pamukci"
     ],
@@ -42,8 +46,17 @@
     "name:fra_x_preferred":[
         "Novi pazar"
     ],
+    "name:fra_x_variant":[
+        "Novi Pazar"
+    ],
+    "name:ita_x_preferred":[
+        "Novi Pazar"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10d5\u10d8-\u10de\u10d0\u10d6\u10d0\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Novi Pazar"
     ],
     "name:pol_x_preferred":[
         "Gmina Nowi pazar"
@@ -110,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641521,
+    "wof:lastmodified":1563325155,
     "wof:name":"\u041f\u0430\u043c\u0443\u043a\u0447\u0438\u0438",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

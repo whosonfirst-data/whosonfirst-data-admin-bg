@@ -36,11 +36,18 @@
     "name:ceb_x_preferred":[
         "Rayon Serdika"
     ],
+    "name:deu_x_preferred":[
+        "Serdika"
+    ],
     "name:eng_x_preferred":[
         "Malashevtsi"
     ],
     "name:eng_x_variant":[
-        "Malaschewzi"
+        "Malaschewzi",
+        "Serdika District"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0580\u0564\u056b\u056f\u0561"
     ],
     "name:pol_x_preferred":[
         "Rejon Serdika"
@@ -112,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1536864510,
+    "wof:lastmodified":1563324715,
     "wof:name":"Malashevtsi",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

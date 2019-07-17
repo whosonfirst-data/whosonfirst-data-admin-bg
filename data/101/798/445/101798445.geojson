@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000203,
+    "geom:area_square_m":1836892.156056,
     "geom:bbox":"27.6143016114,42.9975190023,27.6388078336,43.0211336144",
     "geom:latitude":43.009975,
     "geom:longitude":27.626514,
@@ -18,6 +19,15 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0435\u043d \u0427\u0438\u0444\u043b\u0438\u043a"
     ],
+    "name:bul_x_variant":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0414\u043e\u043b\u043d\u0438 \u0447\u0438\u0444\u043b\u0438\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Dolni Chiflik"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Dolni \u010ciflik"
+    ],
     "name:eng_x_colloquial":[
         "Gorni Ciflik"
     ],
@@ -28,10 +38,50 @@
         "Gorni Chiflik",
         "Gorni Tschiflik",
         "Gorni \u010ciflik",
-        "Gorni-Chnflik"
+        "Gorni-Chnflik",
+        "Dolni Chiflik Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062f\u0648\u0644\u0646\u06cc \u0686\u06cc\u0641\u0644\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Dolni Tchiflik"
+    ],
+    "name:ita_x_preferred":[
+        "Dolni \u010ciflik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10da\u10dc\u10d8-\u10e9\u10d8\u10e4\u10da\u10d8\u10d9\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Dolni Chiflik Municipality"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Do\u0142ni cziflik"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dolni Ciflik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438-\u0427\u0438\u0444\u043b\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Dolni tjiflik"
+    ],
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 \u00c7iftlik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0456\u0439 \u0427\u0438\u0444\u043b\u0438\u043a"
     ],
     "name:unk_x_variant":[
         "Gorni-Chnflik"
+    ],
+    "name:vie_x_preferred":[
+        "Dolni Chiflik"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5947\u592b\u5229\u514b\u5e02"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0430\u0440\u043d\u0430",
@@ -77,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641932,
+    "wof:lastmodified":1563325351,
     "wof:name":"\u0413\u043e\u0440\u0435\u043d \u0447\u0438\u0444\u043b\u0438\u043a",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

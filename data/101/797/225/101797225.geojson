@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Brenica"
+    ],
     "name:eng_x_preferred":[
         "Brenitsa"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0440\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Brenitsa"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0435\u043d\u0438\u0446\u044f"
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":101797225,
-    "wof:lastmodified":1561837440,
+    "wof:lastmodified":1563325212,
     "wof:name":"\u0411\u0440\u0435\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

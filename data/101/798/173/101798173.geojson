@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Razhena"
     ],
+    "name:fra_x_preferred":[
+        "Razhena"
+    ],
     "name:kaz_x_preferred":[
         "\u0420\u044b\u0436\u0435\u043d\u0430"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":101798173,
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325327,
     "wof:name":"\u0420\u044a\u0436\u0435\u043d\u0430",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

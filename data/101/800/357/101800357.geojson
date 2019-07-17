@@ -38,6 +38,9 @@
     "name:fas_x_preferred":[
         "\u067e\u0627\u0631\u0648\u0648\u0645\u0627\u06cc"
     ],
+    "name:fra_x_preferred":[
+        "Parvomay"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439"
     ],
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":101800357,
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325495,
     "wof:name":"\u041f\u044a\u0440\u0432\u043e\u043c\u0430\u0439",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

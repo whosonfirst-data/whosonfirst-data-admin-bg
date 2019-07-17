@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00012,
+    "geom:area_square_m":1088234.174093,
     "geom:bbox":"24.5732496153,42.6730265595,24.5925755674,42.6893084089",
     "geom:latitude":42.681707,
     "geom:longitude":24.580597,
@@ -15,6 +16,9 @@
     "mps:longitude":24.580451,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0627\u0644\u0627 \u0633\u0644\u0627\u062a\u06cc\u0646\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u044f\u043b\u0430 \u0421\u043b\u0430\u0442\u0438\u043d\u0430"
     ],
@@ -31,10 +35,14 @@
         "Slatina"
     ],
     "name:eng_x_variant":[
-        "Razvalini Slatina"
+        "Razvalini Slatina",
+        "Byala Slatina"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0627\u0644\u0627 \u0627\u0633\u0644\u0627\u062a\u06cc\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Byala Slatina"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d0\u05dc\u05d4 \u05e1\u05dc\u05d0\u05d8\u05d9\u05e0\u05d4"
@@ -51,14 +59,23 @@
     "name:lit_x_preferred":[
         "Biala Slatina"
     ],
+    "name:nld_x_preferred":[
+        "Byala Slatina"
+    ],
     "name:pol_x_preferred":[
         "Bja\u0142a S\u0142atina"
+    ],
+    "name:pol_x_variant":[
+        "Bia\u0142a S\u0142atina"
     ],
     "name:por_x_preferred":[
         "Bjala Slatina"
     ],
     "name:ron_x_preferred":[
         "Beala Slatina"
+    ],
+    "name:ron_x_variant":[
+        "Biala Slatina"
     ],
     "name:rus_x_preferred":[
         "\u0411\u044f\u043b\u0430-\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
@@ -71,6 +88,12 @@
     ],
     "name:swe_x_preferred":[
         "Obsjtina Bjala Slatina"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u04d9\u043b\u0430-\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Byala Slatina"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u044f\u043b\u0430 \u0421\u043b\u0430\u0442\u0438\u043d\u0430"
@@ -134,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641694,
+    "wof:lastmodified":1563325294,
     "wof:name":"\u0421\u043b\u0430\u0442\u0438\u043d\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00011,
+    "geom:area_square_m":978155.4919,
     "geom:bbox":"27.1046172327,43.8385046164,27.1229741286,43.8485439125",
     "geom:latitude":43.842801,
     "geom:longitude":27.113596,
@@ -18,6 +19,15 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u043e\u0439\u043d\u043e"
     ],
+    "name:bul_x_variant":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0414\u0443\u043b\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Dulovo"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Dulovo"
+    ],
     "name:eng_x_preferred":[
         "Poroyno"
     ],
@@ -27,10 +37,44 @@
         "Karasmirler",
         "Poroino",
         "Porojno",
-        "Porovno"
+        "Porovno",
+        "Dulovo Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062f\u0648\u0644\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Doulovo"
+    ],
+    "name:ita_x_preferred":[
+        "Dulovo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10da\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Dulovo Municipality"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Du\u0142owo"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Dulovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Dulovo"
     ],
     "name:unk_x_variant":[
         "Karasmirler"
+    ],
+    "name:vie_x_preferred":[
+        "Dulovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u683c\u6c83\u5e02"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
@@ -76,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642028,
+    "wof:lastmodified":1563325377,
     "wof:name":"\u041f\u043e\u0440\u043e\u0439\u043d\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

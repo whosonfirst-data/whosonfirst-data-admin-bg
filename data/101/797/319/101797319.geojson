@@ -23,6 +23,9 @@
     "name:bul_x_variant":[
         "\u041c\u0430\u043a\u0440\u0435\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Makresh"
+    ],
     "name:ces_x_preferred":[
         "Ob\u0161tina Makre\u0161"
     ],
@@ -34,7 +37,11 @@
     ],
     "name:eng_x_variant":[
         "Makresch",
-        "Makre\u00b5"
+        "Makre\u00b5",
+        "Makresh Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u0631\u06a9\u0634"
     ],
     "name:fra_x_preferred":[
         "Makr\u00e9ch"
@@ -45,6 +52,9 @@
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d9\u10e0\u10d4\u10e8\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Makresh Municipality"
+    ],
     "name:pol_x_preferred":[
         "Gmina Makresz"
     ],
@@ -52,6 +62,12 @@
         "Comuna Makre\u0219"
     ],
     "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0440\u0435\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Makresj"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0440\u0435\u0448"
     ],
     "name:unk_x_variant":[
@@ -112,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641533,
+    "wof:lastmodified":1563325234,
     "wof:name":"\u041c\u0430\u043a\u0440\u0435\u0448",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

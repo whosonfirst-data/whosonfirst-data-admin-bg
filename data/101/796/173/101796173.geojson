@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":2315611.278737,
+    "geom:area_square_m":2315611.278738,
     "geom:bbox":"22.506645745,43.8821425661,22.5337544848,43.8997487698",
     "geom:latitude":43.890048,
     "geom:longitude":22.520948,
@@ -35,7 +35,11 @@
     "name:eng_x_variant":[
         "Adlijo",
         "Adlye",
-        "Koula"
+        "Koula",
+        "Kula Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0648\u0644\u0627"
     ],
     "name:fra_x_preferred":[
         "Koula"
@@ -45,6 +49,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10da\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Kula Municipality"
     ],
     "name:pol_x_preferred":[
         "Gmina Ku\u0142a"
@@ -57,6 +64,9 @@
     ],
     "name:swe_x_preferred":[
         "Obsjtina Kula"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043b\u0430"
     ],
     "name:unk_x_variant":[
         "Adlye"
@@ -113,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642032,
+    "wof:lastmodified":1563325394,
     "wof:name":"\u041a\u0443\u043b\u0430",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
+    "geom:area_square_m":1237753.587299,
     "geom:bbox":"26.8304461498,43.5381142655,26.8507714138,43.5523298372",
     "geom:latitude":43.544823,
     "geom:longitude":26.839667,
@@ -42,10 +43,14 @@
         "Jasenkovo",
         "Jessenkowo",
         "Yasenovo",
-        "\u010cukarki\u00f6j"
+        "\u010cukarki\u00f6j",
+        "Venets Municipality"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0646\u062a\u0633"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0646\u062a\u0633 \u0645\u0648\u0646\u06cc\u06a9\u06cc\u067e\u0644\u06cc\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Venets"
@@ -55,6 +60,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d4\u10dc\u10d4\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Venets Municipality"
     ],
     "name:pol_x_preferred":[
         "Gmina Wenec"
@@ -121,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641526,
+    "wof:lastmodified":1563325188,
     "wof:name":"\u042f\u0441\u0435\u043d\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

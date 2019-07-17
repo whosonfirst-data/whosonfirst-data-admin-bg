@@ -24,11 +24,20 @@
     "name:eng_x_preferred":[
         "Pirin"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Pirin"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0438\u0440\u0438\u043d"
     ],
     "name:mkd_x_preferred":[
         "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Pirin"
     ],
     "name:ron_x_preferred":[
         "Pirin"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1125938107,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325548,
     "wof:name":"Pirin",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

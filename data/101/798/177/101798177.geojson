@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Hrishteni"
     ],
+    "name:fra_x_preferred":[
+        "Hrishteni"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u0440\u0438\u0448\u0442\u0435\u043d\u0438"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101798177,
-    "wof:lastmodified":1561837450,
+    "wof:lastmodified":1563325367,
     "wof:name":"\u0425\u0440\u0438\u0449\u0435\u043d\u0438",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

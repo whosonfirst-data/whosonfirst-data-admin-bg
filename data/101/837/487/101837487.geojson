@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000438,
-    "geom:area_square_m":3950581.227198,
+    "geom:area_square_m":3950581.227199,
     "geom:bbox":"25.62744335,43.1199412781,25.6720614289,43.1590652487",
     "geom:latitude":43.149119,
     "geom:longitude":25.649852,
@@ -56,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Obsjtina Gorna Orjachovitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u044f \u041e\u0440\u044f\u0445\u043e\u0432\u0438\u0446\u044f"
     ],
     "name:unk_x_variant":[
         "P\u016drvomaytsi"
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101837487,
-    "wof:lastmodified":1527715313,
+    "wof:lastmodified":1563325525,
     "wof:name":"\u041f\u044a\u0440\u0432\u043e\u043c\u0430\u0439\u0446\u0438",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

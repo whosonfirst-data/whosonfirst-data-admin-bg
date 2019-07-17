@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Ustren"
     ],
+    "name:fra_x_preferred":[
+        "Ustren"
+    ],
     "name:kat_x_preferred":[
         "\u10e3\u10e1\u10e2\u10e0\u10d4\u10dc\u10d8"
     ],
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325485,
     "wof:name":"\u0423\u0441\u0442\u0440\u0435\u043d",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

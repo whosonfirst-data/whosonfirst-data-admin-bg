@@ -27,14 +27,26 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0644\u0627\u063a\u0648\u0648\u063a\u0631\u0627\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0644\u0627\u063a\u0648\u064a\u0641\u063a\u0631\u0627\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0627\u0642\u0648\u0648\u0642\u0631\u0627\u062f \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Blaqoyevqrad vilay\u0259ti"
     ],
     "name:bel_x_preferred":[
         "\u0411\u043b\u0430\u0433\u0430\u0435\u045e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u043b\u0430\u0433\u043e\u0435\u045e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b2\u09be\u0997\u09cb\u09ad\u0997\u09cd\u09b0\u09be\u09a1 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bos_x_preferred":[
+        "Oblast Blagoevgrad"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434"
@@ -45,8 +57,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Blagoevgrad"
     ],
+    "name:ceb_x_preferred":[
+        "Blagoevgrad"
+    ],
     "name:ces_x_preferred":[
         "Blagojevgradsk\u00e1 oblast"
+    ],
+    "name:ces_x_variant":[
+        "Blagoevgradsk\u00e1 oblast"
     ],
     "name:dan_x_preferred":[
         "Blagoevgrad"
@@ -59,6 +77,9 @@
     ],
     "name:eng_x_preferred":[
         "Blagoevgrad"
+    ],
+    "name:eng_x_variant":[
+        "Blagoevgrad Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Blagoevgrad"
@@ -77,6 +98,12 @@
     ],
     "name:fra_x_preferred":[
         "Blagoevgrad"
+    ],
+    "name:frr_x_preferred":[
+        "Blagoewgrad"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Blagoevgrad"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab2\u0abe\u0a97\u0acb\u0ab5\u0a97\u0acd\u0ab0\u0ac5\u0aa1 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -113,6 +140,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube14\ub77c\uace0\uc5d0\ube0c\uadf8\ub77c\ub4dc \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ube14\ub77c\uace0\uc5d0\ube0c\uadf8\ub77c\ub4dc\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Scaptopara"
@@ -185,6 +215,9 @@
     ],
     "name:sqi_x_preferred":[
         "Blagoevgrad"
+    ],
+    "name:sqi_x_variant":[
+        "Provinca Blagojevgrad"
     ],
     "name:srp_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
@@ -341,7 +374,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1561837429,
+    "wof:lastmodified":1563324737,
     "wof:name":"\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

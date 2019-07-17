@@ -19,6 +19,12 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0435\u0441\u0435\u043d"
     ],
+    "name:bul_x_variant":[
+        "\u041a\u0430\u0440\u0430\u0438\u0441\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Karaisen"
+    ],
     "name:eng_x_colloquial":[
         "Karaissen"
     ],
@@ -28,6 +34,9 @@
     "name:eng_x_variant":[
         "Kara\u00efss\u00e8n",
         "Rayko Daskalovo"
+    ],
+    "name:fra_x_preferred":[
+        "Karaisen"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0438\u0441\u0435\u043d"
@@ -94,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325199,
     "wof:name":"\u041a\u0430\u0440\u0430\u0438\u0441\u0435\u043d",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

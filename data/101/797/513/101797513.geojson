@@ -51,6 +51,9 @@
     "name:fra_x_preferred":[
         "Kato Nevrokopi"
     ],
+    "name:fra_x_variant":[
+        "Zarnevo"
+    ],
     "name:ita_x_preferred":[
         "Kato Nevrokopi"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:pol_x_preferred":[
         "Kato Newrokopi"
+    ],
+    "name:pol_x_variant":[
+        "Zyrnewo"
     ],
     "name:ron_x_preferred":[
         "Z\u0103rnevo"
@@ -137,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325231,
     "wof:name":"\u0417\u044a\u0440\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

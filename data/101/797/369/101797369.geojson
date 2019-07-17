@@ -19,11 +19,17 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0441\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Gusla"
+    ],
     "name:eng_x_preferred":[
         "Gusla"
     ],
     "name:eng_x_variant":[
         "Dauldzhilar"
+    ],
+    "name:fra_x_preferred":[
+        "Gusla"
     ],
     "name:kaz_x_preferred":[
         "\u0413\u0443\u0441\u043b\u0430"
@@ -93,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325198,
     "wof:name":"\u0413\u0443\u0441\u043b\u0430",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

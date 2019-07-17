@@ -38,6 +38,9 @@
         "Pischtigowo",
         "Pi\u00b5tigovo"
     ],
+    "name:fra_x_preferred":[
+        "Pishtigovo"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0438\u0448\u0442\u0438\u0433\u043e\u0432\u043e"
     ],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837444,
+    "wof:lastmodified":1563325279,
     "wof:name":"\u041f\u0438\u0449\u0438\u0433\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

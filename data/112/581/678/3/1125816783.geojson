@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Yagodina"
     ],
+    "name:fra_x_preferred":[
+        "Yagodina"
+    ],
     "name:pol_x_preferred":[
         "Jagodina"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125816783,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325558,
     "wof:name":"Yagodina",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

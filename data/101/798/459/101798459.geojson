@@ -41,6 +41,9 @@
         "Zlokuchene",
         "Zloku\u010den"
     ],
+    "name:fra_x_preferred":[
+        "Ivanski"
+    ],
     "name:kaz_x_preferred":[
         "\u0418\u0432\u0430\u043d\u0441\u043a\u0438"
     ],
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837449,
+    "wof:lastmodified":1563325361,
     "wof:name":"\u0418\u0432\u0430\u043d\u0441\u043a\u0438",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

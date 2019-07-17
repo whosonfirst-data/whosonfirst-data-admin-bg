@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23718039.452144,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.469017,42.509176,27.469017,42.509176",
     "geom:latitude":42.509176,
     "geom:longitude":27.469017,
@@ -34,6 +34,9 @@
     "name:ceb_x_preferred":[
         "Severno Atanasovsko Ezero"
     ],
+    "name:cym_x_preferred":[
+        "Llyn Atanasovsko"
+    ],
     "name:deu_x_preferred":[
         "Atanassow-See"
     ],
@@ -44,10 +47,23 @@
         "Atanas K'oy",
         "Atanaskioy",
         "Atanassowo",
-        "Atnanas-Kioi"
+        "Atnanas-Kioi",
+        "Lake Atanasovsko"
+    ],
+    "name:fra_x_preferred":[
+        "lac Atanasovsko"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05dd \u05d0\u05d8\u05e0\u05d0\u05e1\u05d5\u05e7\u05d5\u05d1\u05d5"
     ],
     "name:ita_x_preferred":[
         "Lago Atanasovsko"
+    ],
+    "name:ita_x_variant":[
+        "lago Atanasovsko"
+    ],
+    "name:nld_x_preferred":[
+        "Lake Atanasovsko"
     ],
     "name:nno_x_preferred":[
         "Atanasovskosj\u00f8en"
@@ -55,11 +71,20 @@
     "name:ron_x_preferred":[
         "Lacul Atanasovsko"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0430\u043d\u0430\u0441\u043e\u0432\u0441\u043a\u043e\u0435 \u043e\u0437\u0435\u0440\u043e"
+    ],
     "name:spa_x_preferred":[
         "Lago Atanasovsko"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0442\u0430\u043d\u0430\u0441\u043e\u0432\u043e \u0458\u0435\u0437\u0435\u0440\u043e"
+    ],
     "name:swe_x_preferred":[
         "Atanasovsko ezero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u0430\u043d\u0430\u0441\u0456\u0432\u0441\u044c\u043a\u0435 \u043e\u0437\u0435\u0440\u043e"
     ],
     "name:unk_x_variant":[
         "Atanaskioy",
@@ -124,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531932497,
+    "wof:lastmodified":1563324712,
     "wof:name":"Atanasovo",
     "wof:parent_id":101748905,
     "wof:placetype":"neighbourhood",

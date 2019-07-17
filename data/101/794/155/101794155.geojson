@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043a\u0443\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Sekulovo"
+    ],
     "name:eng_x_colloquial":[
         "A ekulowo",
         "Aa ekulowo",
@@ -31,6 +34,9 @@
         "Usul K'oy",
         "Uzulchioi",
         "\u00c5 ekulowo"
+    ],
+    "name:fra_x_preferred":[
+        "Sekulovo"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043a\u0443\u043b\u043e\u0432\u043e"
@@ -94,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837453,
+    "wof:lastmodified":1563325465,
     "wof:name":"\u0421\u0435\u043a\u0443\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

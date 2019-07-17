@@ -23,6 +23,18 @@
     "name:ceb_x_preferred":[
         "Borino"
     ],
+    "name:deu_x_preferred":[
+        "Borino"
+    ],
+    "name:eng_x_preferred":[
+        "Borino"
+    ],
+    "name:fra_x_preferred":[
+        "Borino"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05d9\u05e0\u05d5"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u043e\u0440\u0438\u043d\u043e"
     ],
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":101799107,
-    "wof:lastmodified":1527641689,
+    "wof:lastmodified":1563325273,
     "wof:name":"\u0411\u043e\u0440\u0438\u043d\u043e",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

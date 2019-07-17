@@ -19,7 +19,16 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u0436\u0435\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Stozher"
+    ],
     "name:eng_x_preferred":[
+        "Stozher"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0648\u0698\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Stozher"
     ],
     "name:kaz_x_preferred":[
@@ -33,6 +42,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u043e\u0436\u0435\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Stozher"
+    ],
+    "name:swe_x_preferred":[
+        "Stozjer"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u043e\u0436\u0435\u0440"
@@ -83,7 +98,7 @@
         }
     ],
     "wof:id":101846519,
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325471,
     "wof:name":"\u0421\u0442\u043e\u0436\u0435\u0440",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

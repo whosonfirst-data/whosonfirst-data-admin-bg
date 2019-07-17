@@ -22,6 +22,9 @@
     "name:bul_x_variant":[
         "Mihnevo"
     ],
+    "name:ceb_x_preferred":[
+        "Mikhnevo"
+    ],
     "name:eng_x_preferred":[
         "Mikhnevo"
     ],
@@ -29,6 +32,12 @@
         "Michnewo",
         "Mihnevo",
         "Mikhnovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0647\u0646\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Mihnevo"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0438\u0445\u043d\u0435\u0432\u043e"
@@ -94,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325483,
     "wof:name":"\u041c\u0438\u0445\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

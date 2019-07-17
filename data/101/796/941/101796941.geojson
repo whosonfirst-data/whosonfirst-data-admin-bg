@@ -17,8 +17,17 @@
     "mps:longitude":25.500358,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u064a\u0627\u0641\u0646\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0631\u06cc\u0627\u0648\u0646\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0440\u044f\u0432\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Tryavna"
     ],
     "name:ces_x_preferred":[
         "Trjavna"
@@ -28,6 +37,9 @@
     ],
     "name:deu_x_preferred":[
         "Trjawna"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b9\u03ac\u03b2\u03bd\u03b1"
     ],
     "name:eng_x_colloquial":[
         "Trevna"
@@ -50,11 +62,20 @@
     "name:heb_x_preferred":[
         "\u05d8\u05e8\u05d9\u05d0\u05d1\u05e0\u05d4"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0575\u0561\u057e\u0576\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Tryavna"
+    ],
     "name:jpn_x_preferred":[
         "\u30c8\u30ea\u30e3\u30f4\u30ca"
     ],
     "name:kaz_x_preferred":[
         "\u0422\u0440\u044f\u0432\u043d\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ud2b8\ub7b4\ube0c\ub098"
     ],
     "name:lit_x_preferred":[
         "Triavna"
@@ -68,17 +89,35 @@
     "name:por_x_preferred":[
         "Triavna"
     ],
+    "name:por_x_variant":[
+        "Tryavna"
+    ],
     "name:ron_x_preferred":[
         "Treavna"
     ],
+    "name:ron_x_variant":[
+        "Triavna"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u044f\u0432\u043d\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Tryavna"
     ],
     "name:spa_x_preferred":[
         "Tryavna"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0440\u0458\u0430\u0432\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Trjavna"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0440\u04d9\u0432\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Trevne"
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u044f\u0432\u043d\u0430"
@@ -147,7 +186,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642032,
+    "wof:lastmodified":1563325395,
     "wof:name":"\u0422\u0440\u044f\u0432\u043d\u0430",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

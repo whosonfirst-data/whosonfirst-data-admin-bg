@@ -27,11 +27,20 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0648\u0631\u063a\u0627\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u0631\u063a\u0627\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0642\u0627\u0633 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0443\u0440\u0433\u0430\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b0\u0997\u09be\u09b8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bos_x_preferred":[
+        "Oblast Burgas"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u0411\u0443\u0440\u0433\u0430\u0441"
@@ -42,6 +51,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Burgas"
+    ],
+    "name:ceb_x_preferred":[
+        "Burgas"
     ],
     "name:ces_x_preferred":[
         "Burgask\u00e1 oblast"
@@ -57,6 +69,9 @@
     ],
     "name:eng_x_preferred":[
         "Burgas"
+    ],
+    "name:eng_x_variant":[
+        "Burgas Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Burgas"
@@ -75,6 +90,12 @@
     ],
     "name:fra_x_preferred":[
         "Bourgas"
+    ],
+    "name:frr_x_preferred":[
+        "Burgas"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Burgas"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ab0\u0acd\u0a97\u0ab8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -111,6 +132,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd80\ub974\uac00\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd80\ub974\uac00\uc2a4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Pyrgos"
@@ -183,6 +207,9 @@
     ],
     "name:sqi_x_preferred":[
         "Burgasi"
+    ],
+    "name:sqi_x_variant":[
+        "Provinca Burgas"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0440\u0433\u0430\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
@@ -342,7 +369,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1561837426,
+    "wof:lastmodified":1563324726,
     "wof:name":"\u0411\u0443\u0440\u0433\u0430\u0441",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

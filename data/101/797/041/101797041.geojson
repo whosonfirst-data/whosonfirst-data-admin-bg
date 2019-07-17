@@ -19,7 +19,13 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043b\u0430\u043d\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Selanovci"
+    ],
     "name:eng_x_preferred":[
+        "Selanovtsi"
+    ],
+    "name:fra_x_preferred":[
         "Selanovtsi"
     ],
     "name:kaz_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":101797041,
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325160,
     "wof:name":"\u0421\u0435\u043b\u0430\u043d\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

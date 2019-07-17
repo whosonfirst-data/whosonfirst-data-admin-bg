@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000225,
-    "geom:area_square_m":2026380.541665,
+    "geom:area_square_m":2026380.541666,
     "geom:bbox":"22.8686353738,43.3716752496,22.9049553297,43.4028120736",
     "geom:latitude":43.385573,
     "geom:longitude":22.885608,
@@ -17,6 +17,9 @@
     "mps:longitude":22.884369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u06cc\u067e\u0631\u0648\u062a\u0633\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0438\u043f\u0440\u043e\u0432\u0446\u0438"
     ],
@@ -49,6 +52,15 @@
     "name:fra_x_preferred":[
         "Tchiprovtsi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05e4\u05e8\u05d5\u05d1\u05e6\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Csiprovci"
+    ],
+    "name:ita_x_preferred":[
+        "Chiprovtsi"
+    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30d7\u30ed\u30d5\u30c4\u30a3"
     ],
@@ -56,6 +68,9 @@
         "\u0427\u0438\u043f\u0440\u043e\u0432\u0446\u0438"
     ],
     "name:msa_x_preferred":[
+        "Chiprovtsi"
+    ],
+    "name:nld_x_preferred":[
         "Chiprovtsi"
     ],
     "name:pol_x_preferred":[
@@ -76,8 +91,17 @@
     "name:srp_x_preferred":[
         "\u040b\u0438\u043f\u0440\u043e\u0432\u0446\u0438"
     ],
+    "name:srp_x_variant":[
+        "\u0427\u0438\u043f\u0440\u043e\u0432\u0446\u0438"
+    ],
     "name:swe_x_preferred":[
         "Tjiprovtsi"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0438\u043f\u0440\u043e\u0432\u0441\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7iprof\u00e7a"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0438\u043f\u0440\u043e\u0432\u0446\u0456"
@@ -146,7 +170,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641531,
+    "wof:lastmodified":1563325218,
     "wof:name":"\u0427\u0438\u043f\u0440\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

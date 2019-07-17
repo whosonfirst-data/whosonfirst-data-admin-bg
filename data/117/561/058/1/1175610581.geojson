@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bezhanovo"
+    ],
     "name:eng_x_colloquial":[
         "Bezanovo",
         "Bjezanovo"
@@ -48,6 +51,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bezjanovo"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1175610581,
-    "wof:lastmodified":1561837435,
+    "wof:lastmodified":1563325064,
     "wof:name":"\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

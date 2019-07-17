@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000244,
-    "geom:area_square_m":2186015.281988,
+    "geom:area_square_m":2186015.281989,
     "geom:bbox":"27.2155796501,43.5659886265,27.2413542455,43.5834436597",
     "geom:latitude":43.57506,
     "geom:longitude":27.228862,
@@ -37,7 +37,20 @@
         "Dzhuvel",
         "D\u017eivel",
         "Nikola Koslewo",
-        "Nikola Kozlovo"
+        "Nikola Kozlovo",
+        "Nikola Kozlevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u0648\u0644\u0627 \u06a9\u0648\u0632\u0644\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Nikola Kozlevo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05e7\u05d5\u05dc\u05d4 \u05e7\u05d5\u05d6\u05dc\u05d1\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Nikola Kozlevo"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10d9\u10dd\u10da\u10d0-\u10d9\u10dd\u10d6\u10da\u10d4\u10d5\u10dd"
@@ -48,6 +61,12 @@
     "name:msa_x_preferred":[
         "Nikola Kozlevo"
     ],
+    "name:nld_x_preferred":[
+        "Nikola Kozlevo"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Niko\u0142a Kozlewo"
+    ],
     "name:ron_x_preferred":[
         "Nikola Kozlevo"
     ],
@@ -56,6 +75,9 @@
     ],
     "name:swe_x_preferred":[
         "Nikola-Kozlevo"
+    ],
+    "name:tur_x_preferred":[
+        "Civel"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430-\u041a\u043e\u0437\u043b\u0435\u0432\u043e"
@@ -115,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642027,
+    "wof:lastmodified":1563325376,
     "wof:name":"\u041d\u0438\u043a\u043e\u043b\u0430 \u041a\u043e\u0437\u043b\u0435\u0432\u043e",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

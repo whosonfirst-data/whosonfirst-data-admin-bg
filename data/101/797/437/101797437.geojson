@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000151,
+    "geom:area_square_m":1347544.553355,
     "geom:bbox":"26.6931555716,43.6211183426,26.7128998751,43.6339167912",
     "geom:latitude":43.627803,
     "geom:longitude":26.704353,
@@ -26,6 +27,12 @@
     ],
     "name:ces_x_preferred":[
         "Ob\u0161tina Isperich"
+    ],
+    "name:eng_x_preferred":[
+        "Isperih Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u06cc\u0633\u067e\u0631\u06cc\u0647"
     ],
     "name:fra_x_preferred":[
         "Isperikh"
@@ -94,7 +101,7 @@
         }
     ],
     "wof:id":101797437,
-    "wof:lastmodified":1527641524,
+    "wof:lastmodified":1563325170,
     "wof:name":"\u0419\u043e\u043d\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

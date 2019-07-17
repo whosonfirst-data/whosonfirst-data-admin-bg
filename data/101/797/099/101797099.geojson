@@ -17,6 +17,9 @@
     "mps:longitude":23.285663,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0648\u0627\u0631\u0634\u062a\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u044a\u0440\u0448\u0435\u0446"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u06a4\u0627\u0631\u0634\u06ce\u062a\u0633"
+    ],
+    "name:deu_x_preferred":[
+        "Varshets"
     ],
     "name:eng_x_colloquial":[
         "Vaershets",
@@ -52,7 +58,8 @@
         "Vur\u00b5ec",
         "V\u00e6rshets",
         "V\u00fershets",
-        "W\u00e6rschez"
+        "W\u00e6rschez",
+        "Varshets"
     ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u0631\u0634\u062a\u0633"
@@ -60,8 +67,14 @@
     "name:fra_x_preferred":[
         "Varchets"
     ],
+    "name:fra_x_variant":[
+        "Varshets"
+    ],
     "name:heb_x_preferred":[
         "\u05d5\u05e8\u05e9\u05e5"
+    ],
+    "name:ita_x_preferred":[
+        "Varshets"
     ],
     "name:jpn_x_preferred":[
         "\u30f4\u30eb\u30b7\u30a7\u30c4"
@@ -70,6 +83,9 @@
         "\u0412\u044b\u0440\u0448\u0435\u0446"
     ],
     "name:msa_x_preferred":[
+        "Varshets"
+    ],
+    "name:nld_x_preferred":[
         "Varshets"
     ],
     "name:oss_x_preferred":[
@@ -95,6 +111,12 @@
     ],
     "name:swe_x_preferred":[
         "Vrsjets"
+    ],
+    "name:tat_x_preferred":[
+        "\u0412\u044b\u0440\u0448\u0435\u0442\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "V\u0131r\u015fets"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0440\u0448\u0435\u0446\u044c"
@@ -163,7 +185,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641524,
+    "wof:lastmodified":1563325175,
     "wof:name":"\u0412\u044a\u0440\u0448\u0435\u0446",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000781,
-    "geom:area_square_m":7220228.880252,
+    "geom:area_square_m":7220228.880249,
     "geom:bbox":"24.6578409562,41.5644715147,24.7681451832,41.5926894179",
     "geom:latitude":41.578167,
     "geom:longitude":24.710189,
@@ -20,6 +20,18 @@
     "name:ara_x_preferred":[
         "\u0633\u0645\u0648\u0644\u064a\u0627\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0645\u0648\u0644\u06cc\u0627\u0646"
+    ],
+    "name:bak_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u044f\u043d"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u044f\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u09ae\u09b2\u09bf\u09af\u09bc\u09be\u09a8"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043c\u043e\u043b\u044f\u043d"
     ],
@@ -31,6 +43,12 @@
     ],
     "name:ckb_x_preferred":[
         "\u0633\u0645\u06c6\u0644\u06cc\u0627\u0646"
+    ],
+    "name:cym_x_preferred":[
+        "Smolyan"
+    ],
+    "name:dan_x_preferred":[
+        "Smolyan"
     ],
     "name:deu_x_preferred":[
         "Smoljan"
@@ -58,6 +76,9 @@
     "name:epo_x_preferred":[
         "Smoljan"
     ],
+    "name:eus_x_preferred":[
+        "Smolian"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u0645\u0648\u0644\u06cc\u0627\u0646"
     ],
@@ -67,11 +88,20 @@
     "name:fra_x_preferred":[
         "Smolyan"
     ],
+    "name:frr_x_preferred":[
+        "Smoljan"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0aae\u0acb\u0ab2\u0abf\u0aaf\u0aa8"
+    ],
     "name:hbs_x_preferred":[
         "Smoljan"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05de\u05d5\u05dc\u05d9\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u092e\u094b\u0932\u092f\u093e\u0902"
     ],
     "name:hrv_x_preferred":[
         "Smoljan"
@@ -79,20 +109,50 @@
     "name:hun_x_preferred":[
         "Szmoljan"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0574\u0578\u056c\u0575\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Smolyan"
+    ],
+    "name:isl_x_preferred":[
+        "Smoljan"
+    ],
+    "name:ita_x_preferred":[
+        "Smoljan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30e2\u30ea\u30e3\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0cae\u0ccb\u0cb2\u0ccd\u0caf\u0cbe\u0ca8\u0ccd"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u043c\u043e\u043b\u044f\u043d"
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ubab0\ub7b8"
     ],
+    "name:lav_x_preferred":[
+        "Smo\u013cana"
+    ],
     "name:lit_x_preferred":[
         "Smolianas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u092e\u094b\u0932\u093f\u092f\u0928"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043c\u043e\u043b\u0458\u0430\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Smolyan"
+    ],
     "name:nld_x_preferred":[
         "Smoljan"
+    ],
+    "name:nob_x_preferred":[
+        "Smolyan"
     ],
     "name:oss_x_preferred":[
         "\u0421\u043c\u043e\u043b\u044f\u043d"
@@ -109,11 +169,20 @@
     "name:ron_x_preferred":[
         "Smolean"
     ],
+    "name:ron_x_variant":[
+        "Smolian"
+    ],
+    "name:rup_x_preferred":[
+        "Smolian"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u043c\u043e\u043b\u044f\u043d"
     ],
     "name:sco_x_preferred":[
         "Smolyan"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0db8\u0ddc\u0dbd\u0dd2\u0dba\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
         "Smo\u013ean"
@@ -121,11 +190,23 @@
     "name:slv_x_preferred":[
         "Smoljan"
     ],
+    "name:spa_x_preferred":[
+        "Smolyan"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u043c\u043e\u0459\u0430\u043d"
     ],
     "name:swe_x_preferred":[
         "Smoljan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0bae\u0bcb\u0bb2\u0bbf\u0baf\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043c\u043e\u043b\u04d9\u043d"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c2e\u0c4b\u0c32\u0c4d\u0c2f\u0c3e\u0c28\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e42\u0e21\u0e25\u0e22\u0e31\u0e19"
@@ -199,7 +280,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505338006,
+    "wof:lastmodified":1563325264,
     "wof:name":"\u0421\u043c\u043e\u043b\u044f\u043d",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

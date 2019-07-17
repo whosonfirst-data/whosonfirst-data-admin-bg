@@ -50,6 +50,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0437\u043c\u0435\u0440"
     ],
+    "name:spa_x_preferred":[
+        "Bezmer"
+    ],
     "name:swe_x_preferred":[
         "Bezmer"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325403,
     "wof:name":"\u0411\u0435\u0437\u043c\u0435\u0440",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

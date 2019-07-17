@@ -31,6 +31,9 @@
         "Tschumakowzi",
         "\u010cumakovci"
     ],
+    "name:fra_x_preferred":[
+        "Chomakovtsi"
+    ],
     "name:kaz_x_preferred":[
         "\u0427\u043e\u043c\u0430\u043a\u043e\u0432\u0446\u0438"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u043c\u0430\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Chom\u00e1kovtsi"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u043e\u043c\u0430\u043a\u043e\u0432\u0446\u0456"
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325227,
     "wof:name":"\u0427\u043e\u043c\u0430\u043a\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

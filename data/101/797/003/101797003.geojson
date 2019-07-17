@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001048,
-    "geom:area_square_m":9453711.966272,
+    "geom:area_square_m":9453711.96628,
     "geom:bbox":"24.6759974579,43.1264329267,24.7446120623,43.1815342887",
     "geom:latitude":43.149493,
     "geom:longitude":24.712686,
@@ -21,17 +21,41 @@
     "name:ara_x_preferred":[
         "\u0644\u0648\u0641\u062a\u0634"
     ],
+    "name:azb_x_preferred":[
+        "\u0644\u0648\u0686"
+    ],
+    "name:bak_x_preferred":[
+        "\u041b\u043e\u0432\u0435\u0447"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430\u0432\u0435\u0447"
     ],
+    "name:bel_x_variant":[
+        "\u041b\u043e\u0432\u0435\u0447"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09cb\u09ad\u09c7\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u0432\u0435\u0447"
+    ],
+    "name:cat_x_preferred":[
+        "L\u00f2vetx"
+    ],
+    "name:ceb_x_preferred":[
+        "Lovech"
+    ],
+    "name:ces_x_preferred":[
+        "Love\u010d"
     ],
     "name:ckb_x_preferred":[
         "\u0644\u06c6\u06a4\u06ce\u0686"
     ],
     "name:dan_x_preferred":[
         "Lovetj"
+    ],
+    "name:deu_x_preferred":[
+        "Lowetsch"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03cc\u03b2\u03b5\u03c4\u03c2"
@@ -53,17 +77,56 @@
     "name:epo_x_preferred":[
         "Love\u0109"
     ],
+    "name:est_x_preferred":[
+        "Love\u010d"
+    ],
+    "name:eus_x_preferred":[
+        "Lovetx"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0648\u0648\u0686"
     ],
     "name:fin_x_preferred":[
         "Lovet\u0161"
     ],
+    "name:fra_x_preferred":[
+        "Lovetch"
+    ],
+    "name:frr_x_preferred":[
+        "Lowetsch"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0acb\u0ab5\u0ac7\u0a9a"
+    ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d1\u05e5"
     ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d5\u05d1\u05e5'"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u0935\u0947\u091a"
+    ],
+    "name:hrv_x_preferred":[
+        "Love\u010d"
+    ],
+    "name:hun_x_preferred":[
+        "Lovecs"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u057e\u0565\u0579"
+    ],
+    "name:ind_x_preferred":[
+        "Lovech"
+    ],
+    "name:ita_x_preferred":[
+        "Love\u010d"
+    ],
     "name:jpn_x_preferred":[
         "\u30ed\u30f4\u30a7\u30c1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cca\u0cb5\u0cc6\u0c9a\u0ccd"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u043e\u0432\u0435\u0447"
@@ -74,13 +137,28 @@
     "name:lat_x_preferred":[
         "Melta"
     ],
+    "name:lav_x_preferred":[
+        "Love\u010da"
+    ],
     "name:lit_x_preferred":[
         "Love\u010das"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0945\u0935\u094d\u0939\u0947\u091a"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u043e\u0432\u0435\u0447"
     ],
+    "name:msa_x_preferred":[
+        "Lovech"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u094b\u092d\u0947\u0915"
+    ],
     "name:nld_x_preferred":[
+        "Lovetsj"
+    ],
+    "name:nob_x_preferred":[
         "Lovetsj"
     ],
     "name:nor_x_preferred":[
@@ -95,17 +173,50 @@
     "name:pol_x_preferred":[
         "\u0141owecz"
     ],
+    "name:por_x_preferred":[
+        "Lovech"
+    ],
     "name:ron_x_preferred":[
         "Loveci"
     ],
     "name:rus_x_preferred":[
         "\u041b\u043e\u0432\u0435\u0447"
     ],
+    "name:sco_x_preferred":[
+        "Lovech"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0ddc\u0dc0\u0dd9\u0d9a\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Love\u010d"
+    ],
+    "name:slv_x_preferred":[
+        "Love\u010d"
+    ],
+    "name:spa_x_preferred":[
+        "Lovech"
+    ],
+    "name:sqi_x_preferred":[
+        "Lovech"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u0432\u0435\u0447"
     ],
     "name:swe_x_preferred":[
         "Lovetj"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bca\u0bb5\u0bc6\u0b9a\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e\u0432\u0435\u0447"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c4b\u0c35\u0c46\u0c1a\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e25\u0e40\u0e27\u0e0a"
     ],
     "name:tur_x_preferred":[
         "Lof\u00e7a"
@@ -118,6 +229,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0648\u06cc\u0686"
+    ],
+    "name:vie_x_preferred":[
+        "Lovech"
+    ],
+    "name:war_x_preferred":[
+        "Lovech"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u7dad\u5947"
@@ -267,7 +384,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641530,
+    "wof:lastmodified":1563325216,
     "wof:name":"\u041b\u043e\u0432\u0435\u0447",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

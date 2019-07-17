@@ -19,7 +19,13 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Tulovo"
+    ],
     "name:eng_x_preferred":[
+        "Tulovo"
+    ],
+    "name:fra_x_preferred":[
         "Tulovo"
     ],
     "name:kaz_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":101798165,
-    "wof:lastmodified":1561837447,
+    "wof:lastmodified":1563325335,
     "wof:name":"\u0422\u0443\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

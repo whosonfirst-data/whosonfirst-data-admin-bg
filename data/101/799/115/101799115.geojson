@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000127,
-    "geom:area_square_m":1178432.594465,
+    "geom:area_square_m":1178432.594466,
     "geom:bbox":"25.0634993335,41.4467765321,25.0991211917,41.4648954639",
     "geom:latitude":41.455482,
     "geom:longitude":25.080392,
@@ -17,14 +17,23 @@
     "mps:longitude":25.084575,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0646\u062f\u0644\u06cc\u0646\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u0434\u0435\u043b\u0438\u043d\u043e"
     ],
     "name:ceb_x_preferred":[
         "Nedelino"
     ],
+    "name:ces_x_preferred":[
+        "Nedelino"
+    ],
     "name:ckb_x_preferred":[
         "\u0646\u06ce\u062f\u06ce\u0644\u06cc\u0646\u06c6"
+    ],
+    "name:deu_x_preferred":[
+        "Nedelino"
     ],
     "name:eng_x_preferred":[
         "Nedelino"
@@ -41,8 +50,20 @@
     "name:fin_x_preferred":[
         "Nedelino"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d3\u05dc\u05d9\u05e0\u05d5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30c7\u30ea\u30ce"
+    ],
     "name:kaz_x_preferred":[
         "\u041d\u0435\u0434\u0435\u043b\u0438\u043d\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Nedelino"
+    ],
+    "name:pol_x_preferred":[
+        "Nedelino"
     ],
     "name:por_x_preferred":[
         "Nedelino"
@@ -61,6 +82,12 @@
     ],
     "name:swe_x_preferred":[
         "Nedelino"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0435\u0434\u0435\u043b\u0438\u043d\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Uzundere"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0434\u0435\u043b\u0438\u043d\u043e"
@@ -126,7 +153,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641693,
+    "wof:lastmodified":1563325289,
     "wof:name":"\u041d\u0435\u0434\u0435\u043b\u0438\u043d\u043e",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

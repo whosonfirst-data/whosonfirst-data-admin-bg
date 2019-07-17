@@ -27,6 +27,12 @@
         "Shitniza",
         "Zhitnica"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u06cc\u062a\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Zhitnitsa"
+    ],
     "name:kaz_x_preferred":[
         "\u0416\u0438\u0442\u043d\u0438\u0446\u0430"
     ],
@@ -86,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325321,
     "wof:name":"\u0416\u0438\u0442\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

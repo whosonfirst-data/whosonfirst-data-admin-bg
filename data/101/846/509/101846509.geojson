@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0417\u0432\u0435\u0440\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Zverino"
+    ],
     "name:eng_x_preferred":[
         "Zverino"
     ],
@@ -26,6 +29,9 @@
         "Swerino",
         "Zuerino",
         "Zvyerino"
+    ],
+    "name:fra_x_preferred":[
+        "Zverino"
     ],
     "name:kaz_x_preferred":[
         "\u0417\u0432\u0435\u0440\u0438\u043d\u043e"
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325472,
     "wof:name":"\u0417\u0432\u0435\u0440\u0438\u043d\u043e",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Koprinka"
     ],
+    "name:fra_x_preferred":[
+        "Koprinka"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043f\u0440\u0438\u043d\u043a\u0430"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101799409,
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325257,
     "wof:name":"\u041a\u043e\u043f\u0440\u0438\u043d\u043a\u0430",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

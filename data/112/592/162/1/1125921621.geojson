@@ -21,7 +21,16 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Borislavci"
+    ],
     "name:eng_x_preferred":[
+        "Borislavtsi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06cc\u0633\u0644\u0627\u0648\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Borislavtsi"
     ],
     "name:kaz_x_preferred":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1125921621,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325549,
     "wof:name":"Borislavtsi",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

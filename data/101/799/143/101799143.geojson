@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000323,
-    "geom:area_square_m":2975746.255188,
+    "geom:area_square_m":2975746.255192,
     "geom:bbox":"23.1006051705,41.8774669336,23.1290964756,41.9049507339",
     "geom:latitude":41.890419,
     "geom:longitude":23.114662,
@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u064a\u062a\u0644\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0645\u06cc\u062a\u0644\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u043c\u0438\u0442\u043b\u0438"
+    ],
+    "name:ces_x_preferred":[
+        "Simitli"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bc\u03b9\u03c4\u03bb\u03af"
     ],
     "name:eng_x_colloquial":[
         "Simetlu",
@@ -45,14 +54,29 @@
     "name:fra_x_preferred":[
         "Simitli"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05de\u05d9\u05d8\u05dc\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Simitli"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30df\u30c8\u30ea"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0438\u043c\u0438\u0442\u043b\u0438"
     ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ubbf8\ud2c0\ub9ac"
+    ],
     "name:lit_x_preferred":[
         "Simitlis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u043c\u0438\u0442\u043b\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Simitli"
     ],
     "name:pol_x_preferred":[
         "Simitli"
@@ -71,6 +95,12 @@
     ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u043c\u0438\u0442\u043b\u0438"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u043c\u0438\u0442\u043b\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Simitli"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043c\u0456\u0442\u043b\u0456"
@@ -135,7 +165,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641687,
+    "wof:lastmodified":1563325265,
     "wof:name":"\u0421\u0438\u043c\u0438\u0442\u043b\u0438",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

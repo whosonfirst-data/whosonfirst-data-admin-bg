@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Leshten"
     ],
+    "name:fra_x_preferred":[
+        "Leshten"
+    ],
     "name:kaz_x_preferred":[
         "\u041b\u0435\u0448\u0442\u0435\u043d"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125788003,
-    "wof:lastmodified":1561837460,
+    "wof:lastmodified":1563325576,
     "wof:name":"Leshten",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

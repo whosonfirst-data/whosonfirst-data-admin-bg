@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "Forteresse de Golubac"
     ],
+    "name:fra_x_variant":[
+        "Galabets"
+    ],
     "name:hrv_x_preferred":[
         "Goluba\u010dki Grad"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u043b\u0443\u0431\u0430\u0446\u043a\u0430\u044f \u043a\u0440\u0435\u043f\u043e\u0441\u0442\u044c"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u044b\u043b\u044b\u0431\u0435\u0446"
     ],
     "name:spa_x_preferred":[
         "Fortaleza de Golubac"
@@ -128,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325298,
     "wof:name":"\u0413\u044a\u043b\u044a\u0431\u0435\u0446",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

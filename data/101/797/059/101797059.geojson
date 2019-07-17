@@ -19,10 +19,28 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0437\u0435\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Rogozen"
+    ],
     "name:ceb_x_preferred":[
         "Rogozen Island"
     ],
+    "name:ceb_x_variant":[
+        "Rogozen"
+    ],
+    "name:deu_x_preferred":[
+        "Rogozen"
+    ],
     "name:eng_x_preferred":[
+        "Rogozen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u06af\u0648\u0632\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Rogozen"
+    ],
+    "name:ita_x_preferred":[
         "Rogozen"
     ],
     "name:kat_x_preferred":[
@@ -31,14 +49,26 @@
     "name:kaz_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0437\u0435\u043d"
     ],
+    "name:mon_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0437\u0435\u043d"
+    ],
     "name:msa_x_preferred":[
+        "Rogozen"
+    ],
+    "name:nld_x_preferred":[
         "Rogozen"
     ],
     "name:nno_x_preferred":[
         "Rogozen Island"
     ],
+    "name:pol_x_preferred":[
+        "Rogozen"
+    ],
     "name:por_x_preferred":[
         "Ilha Rogozen"
+    ],
+    "name:por_x_variant":[
+        "Rogozen"
     ],
     "name:ron_x_preferred":[
         "Rogozen"
@@ -46,8 +76,14 @@
     "name:rus_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0437\u0435\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Rogozen"
+    ],
     "name:swe_x_preferred":[
         "Rogozen Island"
+    ],
+    "name:swe_x_variant":[
+        "Rogozen"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0437\u0435\u043d"
@@ -98,7 +134,7 @@
         }
     ],
     "wof:id":101797059,
-    "wof:lastmodified":1561837440,
+    "wof:lastmodified":1563325220,
     "wof:name":"\u0420\u043e\u0433\u043e\u0437\u0435\u043d",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

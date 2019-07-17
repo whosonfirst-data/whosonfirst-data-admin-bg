@@ -30,6 +30,12 @@
         "Ribartsi",
         "Riberica"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0628\u0627\u0631\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ribaritsa"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d8\u10d1\u10d0\u10e0\u10d8\u10ea\u10d0"
     ],
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325159,
     "wof:name":"\u0420\u0438\u0431\u0430\u0440\u0438\u0446\u0430",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

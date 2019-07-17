@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000167,
+    "geom:area_square_m":1497344.171388,
     "geom:bbox":"24.4029157583,43.3364976318,24.4200196611,43.3561313593",
     "geom:latitude":43.346534,
     "geom:longitude":24.41188,
@@ -18,8 +19,29 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u0448\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Dolni Dabnik"
+    ],
+    "name:ita_x_preferred":[
+        "Dolni D\u0103bnik"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10da\u10dc\u10d8-\u10d3\u10d8\u10d1\u10dc\u10d8\u10d9\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438-\u0414\u044b\u0431\u043d\u0438\u043a"
+    ],
     "name:unk_x_variant":[
         "Kruschowiza"
+    ],
+    "name:vie_x_preferred":[
+        "Dolni Dabnik"
+    ],
+    "name:war_x_preferred":[
+        "Dolni Dabnik"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5fb7\u5e03\u5c3c\u514b\u5e02"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u043b\u0435\u0432\u0435\u043d",
@@ -61,7 +83,7 @@
         }
     ],
     "wof:id":101797249,
-    "wof:lastmodified":1527641530,
+    "wof:lastmodified":1563325210,
     "wof:name":"\u041a\u0440\u0443\u0448\u043e\u0432\u0438\u0446\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

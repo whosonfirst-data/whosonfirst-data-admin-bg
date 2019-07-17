@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Yana"
     ],
+    "name:fra_x_preferred":[
+        "Yana"
+    ],
     "name:kaz_x_preferred":[
         "\u042f\u043d\u0430"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101798059,
-    "wof:lastmodified":1561837449,
+    "wof:lastmodified":1563325356,
     "wof:name":"\u042f\u043d\u0430",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

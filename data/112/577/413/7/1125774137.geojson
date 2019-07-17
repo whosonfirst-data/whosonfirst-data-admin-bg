@@ -21,6 +21,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0436\u0435\u043d\u0446\u0438"
     ],
+    "name:bul_x_variant":[
+        "\u0411\u043e\u0436\u0435\u043d\u0446\u0438\u0442\u0435"
+    ],
     "name:eng_x_preferred":[
         "Bozhentsi"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:nld_x_preferred":[
         "Bozhentsi"
+    ],
+    "name:pol_x_preferred":[
+        "Bo\u017cencite"
     ],
     "name:ron_x_preferred":[
         "Bojen\u021bite"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125774137,
-    "wof:lastmodified":1561837460,
+    "wof:lastmodified":1563325577,
     "wof:name":"Bozhentsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

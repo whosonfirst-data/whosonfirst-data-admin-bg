@@ -25,11 +25,20 @@
     "name:eng_x_preferred":[
         "Sklave"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06a9\u0644\u0627\u0648\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Sklave"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u043a\u043b\u0430\u0432\u0435"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u043a\u043b\u0430\u0432\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Sk\u0142awe"
     ],
     "name:ron_x_preferred":[
         "Sklave"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":101800335,
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325496,
     "wof:name":"\u0421\u043a\u043b\u0430\u0432\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

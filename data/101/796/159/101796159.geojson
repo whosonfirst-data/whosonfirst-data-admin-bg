@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001055,
-    "geom:area_square_m":9442750.581275,
+    "geom:area_square_m":9442750.581276,
     "geom:bbox":"25.314426949,43.6060834595,25.3953652285,43.6357802824",
     "geom:latitude":43.620726,
     "geom:longitude":25.355449,
@@ -46,7 +46,13 @@
     "name:fra_x_preferred":[
         "Novae"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05d5\u05d0\u05d4"
+    ],
     "name:ita_x_preferred":[
+        "Novae"
+    ],
+    "name:nld_x_preferred":[
         "Novae"
     ],
     "name:pol_x_preferred":[
@@ -54,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Sistova"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u7dad"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
@@ -106,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642027,
+    "wof:lastmodified":1563325374,
     "wof:name":"\u0421\u0432\u0438\u0449\u043e\u0432",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

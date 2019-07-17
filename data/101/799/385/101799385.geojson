@@ -37,6 +37,9 @@
         "Katurlii",
         "Kat\u00ferliy"
     ],
+    "name:fra_x_preferred":[
+        "Boyantsi"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u043e\u044f\u043d\u0446\u0438"
     ],
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325265,
     "wof:name":"\u0411\u043e\u044f\u043d\u0446\u0438",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

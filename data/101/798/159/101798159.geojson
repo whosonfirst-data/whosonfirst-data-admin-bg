@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Ovoshtnik"
     ],
+    "name:fra_x_preferred":[
+        "Ovoshtnik"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u0432\u043e\u0448\u0442\u043d\u0438\u043a"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101798159,
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325300,
     "wof:name":"\u041e\u0432\u043e\u0449\u043d\u0438\u043a",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

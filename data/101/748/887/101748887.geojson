@@ -42,6 +42,9 @@
     "name:ast_x_preferred":[
         "Sof\u00eda"
     ],
+    "name:ava_x_preferred":[
+        "\u0421\u043e\u0444\u0438\u044f"
+    ],
     "name:azb_x_preferred":[
         "\u0635\u0648\u0641\u06cc\u0647"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0421\u043e\u0444\u0438\u044f"
+    ],
+    "name:bcl_x_preferred":[
+        "Sofia"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u0444\u0456\u044f"
@@ -78,6 +84,9 @@
     "name:cdo_x_preferred":[
         "Sofia"
     ],
+    "name:ceb_x_preferred":[
+        "Sofiya-Grad"
+    ],
     "name:ces_x_preferred":[
         "Sofie"
     ],
@@ -98,6 +107,9 @@
     ],
     "name:cos_x_preferred":[
         "Sofia"
+    ],
+    "name:crh_x_preferred":[
+        "Sofiya"
     ],
     "name:cym_x_preferred":[
         "Sofia"
@@ -180,6 +192,9 @@
     "name:got_x_preferred":[
         "\ud800\udf43\ud800\udf49\ud800\udf46\ud800\udf39\ud800\udf30"
     ],
+    "name:gsw_x_preferred":[
+        "Sofia"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aab\u0abf\u0aaf\u0abe"
     ],
@@ -214,6 +229,9 @@
         "Sz\u00f3fia"
     ],
     "name:hye_x_preferred":[
+        "\u054d\u0578\u0586\u056b\u0561"
+    ],
+    "name:hyw_x_preferred":[
         "\u054d\u0578\u0586\u056b\u0561"
     ],
     "name:ido_x_preferred":[
@@ -291,6 +309,9 @@
     "name:lez_x_preferred":[
         "\u0421\u043e\u0444\u0438\u044f"
     ],
+    "name:lfn_x_preferred":[
+        "Sofia"
+    ],
     "name:lij_x_preferred":[
         "S\u00f2fia"
     ],
@@ -329,6 +350,9 @@
     ],
     "name:mlg_x_preferred":[
         "Sofia"
+    ],
+    "name:mlt_x_preferred":[
+        "Sofija"
     ],
     "name:mon_x_preferred":[
         "\u0421\u043e\u0444\u0438"
@@ -709,7 +733,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837453,
+    "wof:lastmodified":1563325443,
     "wof:name":"Sofia",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

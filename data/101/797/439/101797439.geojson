@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Vladimirovci"
+    ],
     "name:eng_x_colloquial":[
         "Sarthkhabib",
         "Sartkhabib",
@@ -36,6 +39,9 @@
         "Sar\u00fekhabib",
         "Vladimirovci",
         "Wladimirowzi"
+    ],
+    "name:fra_x_preferred":[
+        "Vladimirovtsi"
     ],
     "name:kaz_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u0446\u0438"
@@ -99,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837438,
+    "wof:lastmodified":1563325169,
     "wof:name":"\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

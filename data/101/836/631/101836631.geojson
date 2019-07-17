@@ -22,7 +22,13 @@
     "name:bul_x_variant":[
         "Hadzhievo"
     ],
+    "name:ceb_x_preferred":[
+        "Khadzhievo"
+    ],
     "name:eng_x_preferred":[
+        "Hadzhievo"
+    ],
+    "name:fra_x_preferred":[
         "Hadzhievo"
     ],
     "name:kaz_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":101836631,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325523,
     "wof:name":"\u0425\u0430\u0434\u0436\u0438\u0435\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

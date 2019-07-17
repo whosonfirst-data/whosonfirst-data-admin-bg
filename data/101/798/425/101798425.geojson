@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u043e\u043c\u043e\u0440\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Belomorci"
+    ],
     "name:eng_x_preferred":[
         "Belomortsi"
     ],
@@ -27,8 +30,14 @@
         "Belomorzi",
         "Mechikchiler"
     ],
+    "name:fra_x_preferred":[
+        "Belomortsi"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u0435\u043b\u043e\u043c\u043e\u0440\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Be\u0142omorci"
     ],
     "name:ron_x_preferred":[
         "Belomor\u021bi"
@@ -89,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325310,
     "wof:name":"\u0411\u0435\u043b\u043e\u043c\u043e\u0440\u0446\u0438",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

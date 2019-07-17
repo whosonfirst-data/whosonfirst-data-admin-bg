@@ -29,8 +29,14 @@
     "name:eng_x_preferred":[
         "Strumyani"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0631\u0648\u0645\u06cc\u0627\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Stroumyani"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05e8\u05d5\u05de\u05d9\u05d0\u05e0\u05d9"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30c8\u30eb\u30df\u30e3\u30cb"
@@ -61,6 +67,9 @@
     ],
     "name:swe_x_preferred":[
         "Strumjani"
+    ],
+    "name:tur_x_preferred":[
+        "Ustrumyani"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0443\u043c\u044f\u043d\u0438"
@@ -123,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641688,
+    "wof:lastmodified":1563325270,
     "wof:name":"\u0421\u0442\u0440\u0443\u043c\u044f\u043d\u0438",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

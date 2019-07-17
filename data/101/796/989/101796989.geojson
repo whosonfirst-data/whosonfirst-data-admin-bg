@@ -17,6 +17,9 @@
     "mps:longitude":27.638125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0686\u0631\u0646\u0648\u0645\u0648\u0631\u062a\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0435\u0446"
     ],
@@ -42,6 +45,9 @@
         "Sveti Nicola",
         "Sveti Nikola",
         "Sweti Nikola"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0646\u0648\u0645\u0648\u0631\u062a\u0633"
     ],
     "name:fra_x_preferred":[
         "Tchernomorets"
@@ -143,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325421,
     "wof:name":"\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0435\u0446",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

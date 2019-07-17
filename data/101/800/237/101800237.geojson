@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Varbina"
     ],
+    "name:fra_x_preferred":[
+        "Varbina"
+    ],
     "name:kaz_x_preferred":[
         "\u0412\u044b\u0440\u0431\u0438\u043d\u0430"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101800237,
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325506,
     "wof:name":"\u0412\u044a\u0440\u0431\u0438\u043d\u0430",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

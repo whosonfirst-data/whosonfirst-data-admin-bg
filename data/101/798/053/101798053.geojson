@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Chepintsi"
     ],
+    "name:fra_x_preferred":[
+        "Chepintsi"
+    ],
     "name:kaz_x_preferred":[
         "\u0427\u0435\u043f\u0438\u043d\u0446\u0438"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101798053,
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325318,
     "wof:name":"\u0427\u0435\u043f\u0438\u043d\u0446\u0438",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

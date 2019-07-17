@@ -19,11 +19,17 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0434\u0438\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kadievo"
+    ],
     "name:eng_x_preferred":[
         "Kadievo"
     ],
     "name:eng_x_variant":[
         "Kadiewo"
+    ],
+    "name:fra_x_preferred":[
+        "Kadievo"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0434\u0438\u0435\u0432\u043e"
@@ -89,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325301,
     "wof:name":"\u041a\u0430\u0434\u0438\u0435\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

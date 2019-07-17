@@ -32,6 +32,12 @@
         "Byelo Pole",
         "Belo pole"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648 \u067e\u0648\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Belo pole"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u0435\u043b\u043e-\u041f\u043e\u043b\u0435"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:msa_x_preferred":[
         "Belo pole"
+    ],
+    "name:pol_x_preferred":[
+        "Be\u0142o pole"
     ],
     "name:ron_x_preferred":[
         "Belo Pole"
@@ -100,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325481,
     "wof:name":"\u0411\u0435\u043b\u043e \u043f\u043e\u043b\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

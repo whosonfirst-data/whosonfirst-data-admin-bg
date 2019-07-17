@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Harlets"
     ],
+    "name:fra_x_preferred":[
+        "Harlets"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u044b\u0440\u043b\u0435\u0446"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101836659,
-    "wof:lastmodified":1561837457,
+    "wof:lastmodified":1563325517,
     "wof:name":"\u0425\u044a\u0440\u043b\u0435\u0446",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

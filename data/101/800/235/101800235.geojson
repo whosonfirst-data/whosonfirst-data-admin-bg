@@ -25,6 +25,12 @@
     "name:eng_x_preferred":[
         "Barutin"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0648\u062a\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Barutin"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e0\u10e3\u10e2\u10d8\u10dc\u10d8"
     ],
@@ -94,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325490,
     "wof:name":"\u0411\u0430\u0440\u0443\u0442\u0438\u043d",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

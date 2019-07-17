@@ -19,12 +19,18 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0443\u043c\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Drumevo"
+    ],
     "name:eng_x_preferred":[
         "Drumevo"
     ],
     "name:eng_x_variant":[
         "Aptarazak",
         "Drumewo"
+    ],
+    "name:fra_x_preferred":[
+        "Drumevo"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u0440\u0443\u043c\u0435\u0432\u043e"
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837449,
+    "wof:lastmodified":1563325359,
     "wof:name":"\u0414\u0440\u0443\u043c\u0435\u0432\u043e",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

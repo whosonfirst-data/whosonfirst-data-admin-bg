@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0441\u043a\u0440\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Iskrec"
+    ],
     "name:eng_x_preferred":[
         "Iskrets"
     ],
@@ -26,8 +29,14 @@
         "Iskrec",
         "Isskrez"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u06a9\u0631\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
         "Iskrets"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u057d\u056f\u0580\u0565\u0581"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30b9\u30af\u30ec\u30c4"
@@ -94,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325472,
     "wof:name":"\u0418\u0441\u043a\u0440\u0435\u0446",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

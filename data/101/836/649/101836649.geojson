@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0443\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Katunica"
+    ],
     "name:eng_x_preferred":[
         "Katunitsa"
     ],
@@ -27,6 +30,9 @@
         "Katounitza",
         "Katunica",
         "Katuniza"
+    ],
+    "name:fra_x_preferred":[
+        "Katunitsa"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0442\u0443\u043d\u0438\u0446\u0430"
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837457,
+    "wof:lastmodified":1563325519,
     "wof:name":"\u041a\u0430\u0442\u0443\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

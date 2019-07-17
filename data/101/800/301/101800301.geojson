@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000075,
+    "geom:area_square_m":689051.88087,
     "geom:bbox":"23.6573152214,41.6667171514,23.6693353325,41.6776159095",
     "geom:latitude":41.67227,
     "geom:longitude":23.663208,
@@ -28,6 +29,12 @@
         "Bresniza",
         "Breznica",
         "Bryeznitsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0632\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Breznitsa"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u0430"
@@ -95,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715082,
+    "wof:lastmodified":1563325482,
     "wof:name":"\u0411\u0440\u0435\u0437\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

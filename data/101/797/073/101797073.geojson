@@ -26,6 +26,9 @@
         "Liljache",
         "Liljatsche"
     ],
+    "name:fra_x_preferred":[
+        "Lilyache"
+    ],
     "name:kaz_x_preferred":[
         "\u041b\u0438\u043b\u044f\u0447\u0435"
     ],
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837440,
+    "wof:lastmodified":1563325205,
     "wof:name":"\u041b\u0438\u043b\u044f\u0447\u0435",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

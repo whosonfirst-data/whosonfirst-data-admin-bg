@@ -29,6 +29,9 @@
         "Banica",
         "Baniza"
     ],
+    "name:fra_x_preferred":[
+        "Banitsa"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10dc\u10d8\u10ea\u10d0"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Banitsa"
+    ],
+    "name:tur_x_preferred":[
+        "Bani\u00e7e"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0438\u0446\u044f"
@@ -103,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325166,
     "wof:name":"\u0411\u0430\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

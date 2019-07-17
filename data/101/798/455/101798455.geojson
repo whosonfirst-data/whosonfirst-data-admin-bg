@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Lopushna"
     ],
+    "name:fra_x_preferred":[
+        "Lopushna"
+    ],
     "name:kaz_x_preferred":[
         "\u041b\u043e\u043f\u0443\u0448\u043d\u0430"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":101798455,
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325321,
     "wof:name":"\u041b\u043e\u043f\u0443\u0448\u043d\u0430",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

@@ -23,11 +23,17 @@
     "name:bul_x_preferred":[
         "\u0410\u0445\u0435\u043b\u043e\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Aheloy"
+    ],
     "name:deu_x_preferred":[
         "Aheloy"
     ],
     "name:eng_x_preferred":[
         "Aheloy"
+    ],
+    "name:fin_x_preferred":[
+        "Aheloi"
     ],
     "name:fra_x_preferred":[
         "Aheloy"
@@ -43,6 +49,9 @@
     ],
     "name:por_x_preferred":[
         "Rio Aheloy"
+    ],
+    "name:por_x_variant":[
+        "Aheloj"
     ],
     "name:ron_x_preferred":[
         "Aheloi"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":101798355,
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325304,
     "wof:name":"\u0410\u0445\u0435\u043b\u043e\u0439",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

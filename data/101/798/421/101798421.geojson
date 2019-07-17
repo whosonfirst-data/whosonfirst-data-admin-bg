@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Kralevo"
     ],
+    "name:fra_x_preferred":[
+        "Kralevo"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u0440\u0430\u043b\u0435\u0432\u043e"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101798421,
-    "wof:lastmodified":1561837448,
+    "wof:lastmodified":1563325342,
     "wof:name":"\u041a\u0440\u0430\u043b\u0435\u0432\u043e",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

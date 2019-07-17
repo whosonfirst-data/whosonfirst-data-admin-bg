@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000091,
-    "geom:area_square_m":818541.842114,
+    "geom:area_square_m":818541.842113,
     "geom:bbox":"23.0152603657,43.3740533639,23.0359009743,43.3907024613",
     "geom:latitude":43.383601,
     "geom:longitude":23.026545,
@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Georgi-Damyanovo"
     ],
+    "name:deu_x_preferred":[
+        "Georgi Damyanovo"
+    ],
     "name:eng_x_colloquial":[
         "Lopusna"
     ],
@@ -39,10 +42,17 @@
         "Lopuschna",
         "Lopushna",
         "Lopushnya",
-        "Lopu\u00b5na"
+        "Lopu\u00b5na",
+        "Georgi Damyanovo"
     ],
     "name:fra_x_preferred":[
         "Gu\u00e9orgui Damyanovo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05d5\u05e8\u05d2\u05d9 \u05d3\u05de\u05d9\u05d0\u05e0\u05d5\u05d1\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Georgi Damyanovo"
     ],
     "name:jpn_x_preferred":[
         "\u30b2\u30aa\u30eb\u30ae\u30fb\u30c0\u30df\u30e3\u30ce\u30f4\u30a9"
@@ -53,14 +63,26 @@
     "name:msa_x_preferred":[
         "Georgi Damyanovo"
     ],
+    "name:nld_x_preferred":[
+        "Georgi Damyanovo"
+    ],
+    "name:pol_x_preferred":[
+        "Georgi Damjanowo"
+    ],
     "name:ron_x_preferred":[
         "Gheorghi Dameanovo"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0435\u043e\u0440\u0433\u0438-\u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Georgi Damyanovo"
+    ],
     "name:swe_x_preferred":[
         "Georgi-Damjanovo"
+    ],
+    "name:tur_x_preferred":[
+        "Georgi Damyanovo"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043e\u0440\u0433\u0456\u0439-\u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e"
@@ -129,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641532,
+    "wof:lastmodified":1563325226,
     "wof:name":"\u0413\u0435\u043e\u0440\u0433\u0438 \u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

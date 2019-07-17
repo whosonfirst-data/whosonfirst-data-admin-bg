@@ -26,6 +26,9 @@
         "Kodzha K'oy",
         "Saraja"
     ],
+    "name:fra_x_preferred":[
+        "Saraya"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10e0\u10d0\u10d8\u10d0"
     ],
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837449,
+    "wof:lastmodified":1563325351,
     "wof:name":"\u0421\u0430\u0440\u0430\u044f",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

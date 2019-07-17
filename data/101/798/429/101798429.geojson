@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0431\u0438\u0442\u0435\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Obitel"
+    ],
     "name:eng_x_preferred":[
         "Obitel"
     ],
@@ -26,8 +29,14 @@
         "Tekeler",
         "Tekeler Kyabir"
     ],
+    "name:fra_x_preferred":[
+        "Obitel"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u0431\u0438\u0442\u0435\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Obite\u0142"
     ],
     "name:ron_x_preferred":[
         "Obitel"
@@ -92,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837448,
+    "wof:lastmodified":1563325349,
     "wof:name":"\u041e\u0431\u0438\u0442\u0435\u043b",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

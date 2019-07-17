@@ -29,14 +29,26 @@
         "Trubchular",
         "Trupcilar"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0644\u06cc\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Orlyak"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u0440\u043b\u044f\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Orlak"
     ],
     "name:ron_x_preferred":[
         "Orleak"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u043b\u044f\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Orliak"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0440\u043b\u044f\u043a"
@@ -88,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325191,
     "wof:name":"\u041e\u0440\u043b\u044f\u043a",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

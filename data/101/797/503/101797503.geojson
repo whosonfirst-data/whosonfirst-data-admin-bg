@@ -19,11 +19,17 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Karamanovo"
+    ],
     "name:eng_x_preferred":[
         "Karamanovo"
     ],
     "name:eng_x_variant":[
         "Karamanowo"
+    ],
+    "name:fra_x_preferred":[
+        "Karamanovo"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u043e\u0432\u043e"
@@ -87,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325154,
     "wof:name":"\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

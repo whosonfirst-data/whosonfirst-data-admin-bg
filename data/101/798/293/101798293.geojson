@@ -27,6 +27,9 @@
         "Kavlakliy",
         "Topoltschane"
     ],
+    "name:fra_x_preferred":[
+        "Topolchane"
+    ],
     "name:kat_x_preferred":[
         "\u10e2\u10dd\u10de\u10dd\u10da\u10e9\u10d0\u10dc\u10d4"
     ],
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325323,
     "wof:name":"\u0422\u043e\u043f\u043e\u043b\u0447\u0430\u043d\u0435",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

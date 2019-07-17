@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
+    "geom:area_square_m":878475.439115,
     "geom:bbox":"23.1547052523,43.1845676867,23.1666221545,43.2098738689",
     "geom:latitude":43.197745,
     "geom:longitude":23.160259,
@@ -33,7 +34,11 @@
         "Burziy",
         "B\u00ferziya",
         "Klissoura",
-        "Klisura"
+        "Klisura",
+        "Barzia"
+    ],
+    "name:fra_x_preferred":[
+        "Barzia"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u044b\u0440\u0437\u0438\u044f"
@@ -97,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641526,
+    "wof:lastmodified":1563325188,
     "wof:name":"\u0411\u044a\u0440\u0437\u0438\u044f",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

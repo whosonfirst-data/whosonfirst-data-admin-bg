@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0441\u0435\u043d\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Asenovci"
+    ],
     "name:eng_x_preferred":[
         "Asenovtsi"
     ],
@@ -26,6 +29,9 @@
         "Asenovci",
         "Osma Kalugerovo",
         "Osma Kalugerowo"
+    ],
+    "name:fra_x_preferred":[
+        "Asenovtsi"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0441\u0435\u043d\u043e\u0432\u0446\u0438"
@@ -35,6 +41,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u0435\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "As\u00e9novtsi"
     ],
     "name:swe_x_preferred":[
         "Asenovtsi"
@@ -89,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837438,
+    "wof:lastmodified":1563325176,
     "wof:name":"\u0410\u0441\u0435\u043d\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

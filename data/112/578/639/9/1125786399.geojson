@@ -21,7 +21,13 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043c\u043e\u0432\u0438\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Somovit"
+    ],
     "name:eng_x_preferred":[
+        "Somovit"
+    ],
+    "name:fra_x_preferred":[
         "Somovit"
     ],
     "name:heb_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125786399,
-    "wof:lastmodified":1561837460,
+    "wof:lastmodified":1563325576,
     "wof:name":"Somovit",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

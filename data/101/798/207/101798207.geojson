@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00068,
-    "geom:area_square_m":6169846.145155,
+    "geom:area_square_m":6169846.145149,
     "geom:bbox":"23.1705725091,42.8014760502,23.2348510681,42.836851658",
     "geom:latitude":42.817622,
     "geom:longitude":23.204111,
@@ -17,14 +17,83 @@
     "mps:longitude":23.198454,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0633\u062a\u06cc\u0646\u0628\u0631\u0648\u062f"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0438\u043d\u0431\u0440\u043e\u0434"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u06c6\u0633\u062a\u06cc\u0646\u0628\u0631\u06c6\u062f"
+    ],
+    "name:deu_x_preferred":[
+        "Kostinbrod"
     ],
     "name:eng_x_preferred":[
         "Kostinbrod"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u062a\u06cc\u0646\u0628\u0631\u0648\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Kostinbrod"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e1\u05d8\u05d9\u05e0\u05d1\u05e8\u05d5\u05d3"
+    ],
+    "name:ita_x_preferred":[
+        "Kostinbrod"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30b9\u30c6\u30a3\u30f3\u30d6\u30ed\u30c8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u0431\u0440\u043e\u0434"
+    ],
+    "name:lit_x_preferred":[
+        "Kostinbrodas"
+    ],
+    "name:nld_x_preferred":[
+        "Kostinbrod"
+    ],
+    "name:pol_x_preferred":[
+        "Kostinbrod"
+    ],
+    "name:por_x_preferred":[
+        "Kostinbrod"
+    ],
+    "name:ron_x_preferred":[
+        "Kostinbrod"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u0431\u0440\u043e\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Kostinbrod"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u0431\u0440\u043e\u0434"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u0431\u0440\u043e\u0434"
+    ],
+    "name:tur_x_preferred":[
+        "Kostinbrod"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u0431\u0440\u043e\u0434"
+    ],
     "name:unk_x_variant":[
         "Kostinbrod"
+    ],
+    "name:vie_x_preferred":[
+        "Kostinbrod"
+    ],
+    "name:war_x_preferred":[
+        "Kostinbrod"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u65af\u5ef7\u5e03\u7f85\u5fb7"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u043e\u0444\u0438\u044f",
@@ -74,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641933,
+    "wof:lastmodified":1563325354,
     "wof:name":"\u041a\u043e\u0441\u0442\u0438\u043d\u0431\u0440\u043e\u0434",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

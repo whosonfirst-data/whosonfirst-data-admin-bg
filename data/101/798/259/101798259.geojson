@@ -19,12 +19,18 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043a\u043e\u0440\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kukorevo"
+    ],
     "name:eng_x_preferred":[
         "Kukorevo"
     ],
     "name:eng_x_variant":[
         "Koukourevo",
         "Kukorewo"
+    ],
+    "name:fra_x_preferred":[
+        "Kukorevo"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0443\u043a\u043e\u0440\u0435\u0432\u043e"
@@ -43,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u043a\u043e\u0440\u0435\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Kuk\u00f3revo"
     ],
     "name:swe_x_preferred":[
         "Kukorevo"
@@ -96,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325318,
     "wof:name":"\u041a\u0443\u043a\u043e\u0440\u0435\u0432\u043e",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

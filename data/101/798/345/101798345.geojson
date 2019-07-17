@@ -38,6 +38,12 @@
     "name:eng_x_variant":[
         "Maglen"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u0644\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Maglen"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u044b\u0433\u043b\u0435\u043d"
     ],
@@ -101,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837450,
+    "wof:lastmodified":1563325367,
     "wof:name":"\u041c\u044a\u0433\u043b\u0435\u043d",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

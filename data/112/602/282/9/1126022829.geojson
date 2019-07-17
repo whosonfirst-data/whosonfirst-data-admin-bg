@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0417\u043b\u0430\u0442\u043d\u0438 \u043f\u044f\u0441\u044a\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Zlatni Pyasatsi"
+    ],
     "name:ces_x_preferred":[
         "Zlat\u00e9 P\u00edsky"
     ],
@@ -40,11 +43,17 @@
     "name:epo_x_preferred":[
         "Zlatni pjasaci"
     ],
+    "name:est_x_preferred":[
+        "Kuldsed Liivad"
+    ],
     "name:fra_x_preferred":[
         "Sables d'or"
     ],
     "name:hye_x_preferred":[
         "\u0548\u057d\u056f\u0565 \u0531\u057e\u0561\u0566\u0576\u0565\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Golden Sands"
     ],
     "name:ita_x_preferred":[
         "Sabbie d'oro"
@@ -78,6 +87,9 @@
     ],
     "name:swe_x_preferred":[
         "Golden Sands"
+    ],
+    "name:swe_x_variant":[
+        "Zlatni pjas\u0103tsi"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u043e\u043b\u043e\u0442\u0456 \u043f\u0456\u0441\u043a\u0438"
@@ -136,7 +148,7 @@
         }
     ],
     "wof:id":1126022829,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325553,
     "wof:name":"Zlatni Pyassatsi",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

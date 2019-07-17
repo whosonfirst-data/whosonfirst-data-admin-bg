@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
+    "geom:area_square_m":2596145.597515,
     "geom:bbox":"24.3966837681,42.1390423351,24.4259910138,42.1563199039",
     "geom:latitude":42.147794,
     "geom:longitude":24.413859,
@@ -26,6 +27,12 @@
         "Mariza",
         "Ognjanovo",
         "Saladinovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06af\u0646\u06cc\u0627\u0646\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ognyanovo"
     ],
     "name:kat_x_preferred":[
         "\u10dd\u10d2\u10dc\u10d8\u10d0\u10dc\u10dd\u10d5\u10dd"
@@ -93,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641693,
+    "wof:lastmodified":1563325287,
     "wof:name":"\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

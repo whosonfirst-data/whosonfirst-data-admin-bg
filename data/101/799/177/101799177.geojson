@@ -22,8 +22,17 @@
     "name:ceb_x_preferred":[
         "Saparevo Glacier"
     ],
+    "name:ceb_x_variant":[
+        "Saparevo"
+    ],
     "name:eng_x_preferred":[
         "Saparewo"
+    ],
+    "name:eng_x_variant":[
+        "Saparevo"
+    ],
+    "name:fra_x_preferred":[
+        "Saparevo"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0430\u043f\u0430\u0440\u0435\u0432\u043e"
@@ -39,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Saparevo Glacier"
+    ],
+    "name:swe_x_variant":[
+        "Saparevo"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043f\u0430\u0440\u0435\u0432\u043e"
@@ -97,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837444,
+    "wof:lastmodified":1563325291,
     "wof:name":"\u0421\u0430\u043f\u0430\u0440\u0435\u0432\u043e",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000074,
+    "geom:area_square_m":689096.218149,
     "geom:bbox":"23.1289404194,41.363759748,23.146569181,41.3767261283",
     "geom:latitude":41.369272,
     "geom:longitude":23.138938,
@@ -20,6 +21,9 @@
     ],
     "name:bul_x_variant":[
         "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Belasitsa Petrich"
     ],
     "name:deu_x_preferred":[
         "Belasiza Petritsch"
@@ -44,20 +48,38 @@
     "name:mkd_x_preferred":[
         "\u041f\u0424\u041a \u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u0424\u041a \u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
+    ],
     "name:nld_x_preferred":[
         "Belasitsa Petritsj"
     ],
     "name:pol_x_preferred":[
         "Be\u0142asica Petricz"
     ],
+    "name:pol_x_variant":[
+        "Belasica Petricz"
+    ],
     "name:por_x_preferred":[
         "PFC Belasitsa Petrich"
+    ],
+    "name:ron_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0438\u043d\u043e\u0432\u043e"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Belasitsa Petrich"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u044f"
+    ],
     "name:unk_x_variant":[
         "Eleschniza"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u7279\u91cc\u5947"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
@@ -103,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715086,
+    "wof:lastmodified":1563325492,
     "wof:name":"\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0442\u0430\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Litakovo"
+    ],
     "name:eng_x_colloquial":[
         "Luetakovo",
         "Lutakovo"
@@ -32,6 +35,9 @@
         "Liutakovo",
         "Ljutakovo",
         "L\u00fctakovo"
+    ],
+    "name:fra_x_preferred":[
+        "Litakovo"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u0438\u0442\u0430\u043a\u043e\u0432\u043e"
@@ -94,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837453,
+    "wof:lastmodified":1563325466,
     "wof:name":"\u041b\u0438\u0442\u0430\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

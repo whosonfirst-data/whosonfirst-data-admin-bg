@@ -22,7 +22,13 @@
     "name:ceb_x_preferred":[
         "Sestrimo Glacier"
     ],
+    "name:ceb_x_variant":[
+        "Sestrimo"
+    ],
     "name:eng_x_preferred":[
+        "Sestrimo"
+    ],
+    "name:fra_x_preferred":[
         "Sestrimo"
     ],
     "name:kaz_x_preferred":[
@@ -39,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Sestrimo Glacier"
+    ],
+    "name:swe_x_variant":[
+        "Sestrimo"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0441\u0442\u0440\u0438\u043c\u043e"
@@ -93,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837444,
+    "wof:lastmodified":1563325285,
     "wof:name":"\u0421\u0435\u0441\u0442\u0440\u0438\u043c\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

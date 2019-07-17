@@ -24,6 +24,12 @@
     "name:eng_x_preferred":[
         "Rusalsko"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0633\u0627\u0644\u0633\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Rusalsko"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10e3\u10e1\u10d0\u10da\u10e1\u10d9\u10dd"
     ],
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1126004615,
-    "wof:lastmodified":1561837460,
+    "wof:lastmodified":1563325572,
     "wof:name":"Rusalsko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

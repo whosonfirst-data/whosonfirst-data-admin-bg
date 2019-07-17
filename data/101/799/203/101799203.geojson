@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
+    "geom:area_square_m":1298113.502,
     "geom:bbox":"25.5849542816,42.0018595045,25.6066960403,42.0117019248",
     "geom:latitude":42.007068,
     "geom:longitude":25.59574,
@@ -28,7 +29,14 @@
         "Golyamo Yurendzhik",
         "Golyem Irindzhik",
         "Golyemo Yurendzhik",
-        "Kryepost'"
+        "Kryepost'",
+        "Dolna krepost"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0627 \u06a9\u0631\u067e\u0648\u0633\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Dolna krepost"
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10dd\u10da\u10dc\u10d0-\u10d9\u10e0\u10d4\u10de\u10dd\u10e1\u10e2\u10d8"
@@ -92,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641685,
+    "wof:lastmodified":1563325257,
     "wof:name":"\u041a\u0440\u0435\u043f\u043e\u0441\u0442",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

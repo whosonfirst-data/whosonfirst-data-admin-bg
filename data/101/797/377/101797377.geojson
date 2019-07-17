@@ -45,6 +45,9 @@
         "V\u00felnari",
         "W\u00e6lnari"
     ],
+    "name:fra_x_preferred":[
+        "Valnari"
+    ],
     "name:kaz_x_preferred":[
         "\u0412\u044b\u043b\u043d\u0430\u0440\u0438"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837438,
+    "wof:lastmodified":1563325185,
     "wof:name":"\u0412\u044a\u043b\u043d\u0430\u0440\u0438",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

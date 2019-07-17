@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00043,
-    "geom:area_square_m":3863178.520055,
+    "geom:area_square_m":3863178.520056,
     "geom:bbox":"27.570129228,43.3213723649,27.607737304,43.3438626026",
     "geom:latitude":43.331255,
     "geom:longitude":27.589821,
@@ -17,6 +17,9 @@
     "mps:longitude":27.591673,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0648\u0631\u0648\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u043e"
     ],
@@ -41,11 +44,23 @@
     "name:fas_x_preferred":[
         "\u0633\u0648\u0648\u0648\u0631\u0648\u0641\u0648"
     ],
+    "name:fra_x_preferred":[
+        "Suvorovo"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05d1\u05d5\u05e8\u05d5\u05d1\u05d5"
     ],
+    "name:ita_x_preferred":[
+        "Suvorovo"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30f4\u30a9\u30ed\u30f4\u30a9"
+    ],
+    "name:nld_x_preferred":[
+        "Suvorovo"
+    ],
+    "name:nob_x_preferred":[
+        "Suvororo"
     ],
     "name:ota_x_preferred":[
         "\u0642\u0648\u0632\u0644\u06cc\u062c\u0647"
@@ -73,6 +88,12 @@
     ],
     "name:swe_x_preferred":[
         "Suvorovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Kozluca"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u043e"
@@ -138,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642038,
+    "wof:lastmodified":1563325421,
     "wof:name":"\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

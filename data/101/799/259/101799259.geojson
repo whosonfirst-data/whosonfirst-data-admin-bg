@@ -19,11 +19,17 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043c\u0447\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Semchinovo"
+    ],
     "name:eng_x_preferred":[
         "Semchinovo"
     ],
     "name:eng_x_variant":[
         "Semtschinowo"
+    ],
+    "name:fra_x_preferred":[
+        "Semchinovo"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043c\u0447\u0438\u043d\u043e\u0432\u043e"
@@ -36,6 +42,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043c\u0447\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Semtjinovo"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043c\u0447\u0438\u043d\u043e\u0432\u043e"
@@ -86,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325255,
     "wof:name":"\u0421\u0435\u043c\u0447\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

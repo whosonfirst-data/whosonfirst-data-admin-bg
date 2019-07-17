@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00018,
-    "geom:area_square_m":1647524.976911,
+    "geom:area_square_m":1647524.976912,
     "geom:bbox":"25.67704949,42.2042847767,25.6984280425,42.2190003243",
     "geom:latitude":42.211092,
     "geom:longitude":25.687417,
@@ -29,6 +29,15 @@
     "name:fas_x_preferred":[
         "\u0627\u0648\u067e\u0627\u0646\u060c \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u067e\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Opan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e4\u05d0\u05df"
+    ],
     "name:kat_x_preferred":[
         "\u10dd\u10de\u10d0\u10dc\u10d8"
     ],
@@ -45,6 +54,9 @@
         "\u041e\u043f\u0430\u043d"
     ],
     "name:swe_x_preferred":[
+        "Opan"
+    ],
+    "name:tur_x_preferred":[
         "Opan"
     ],
     "name:ukr_x_preferred":[
@@ -108,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641935,
+    "wof:lastmodified":1563325371,
     "wof:name":"\u041e\u043f\u0430\u043d",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

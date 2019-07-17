@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00005,
+    "geom:area_square_m":449194.521949,
     "geom:bbox":"24.5694891312,43.4427072244,24.584832554,43.4508090445",
     "geom:latitude":43.446933,
     "geom:longitude":24.577133,
@@ -18,16 +19,50 @@
     "name:bul_x_preferred":[
         "\u041e\u043f\u0430\u043d\u0435\u0446"
     ],
+    "name:bul_x_variant":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u041f\u043b\u0435\u0432\u0435\u043d"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Pleven"
+    ],
     "name:eng_x_preferred":[
         "Opanets"
     ],
     "name:eng_x_variant":[
         "Opanec",
         "Opanez",
-        "Opantez"
+        "Opantez",
+        "Pleven Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u067e\u0644\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Pleven"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10da\u10d4\u10d5\u10d4\u10dc\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Plewen"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Plevna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0432\u0435\u043d"
     ],
     "name:unk_x_variant":[
         "Opanez"
+    ],
+    "name:vie_x_preferred":[
+        "Pleven"
+    ],
+    "name:war_x_preferred":[
+        "Pleven"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u5217\u6587\u5e02"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u043b\u0435\u0432\u0435\u043d",
@@ -73,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641529,
+    "wof:lastmodified":1563325208,
     "wof:name":"\u041e\u043f\u0430\u043d\u0435\u0446",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

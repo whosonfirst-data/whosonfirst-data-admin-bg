@@ -32,6 +32,9 @@
     "name:deu_x_preferred":[
         "Zarewo"
     ],
+    "name:deu_x_variant":[
+        "Tsarevo"
+    ],
     "name:eng_x_preferred":[
         "Tsarevo"
     ],
@@ -39,10 +42,17 @@
         "Carevo",
         "Tzarevo",
         "Vasiliko",
-        "Zarewo"
+        "Zarewo",
+        "Tsarevo Municipality"
     ],
     "name:est_x_preferred":[
         "Tsarevo vald"
+    ],
+    "name:est_x_variant":[
+        "Carevo vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0633\u0627\u0631\u0648\u0641\u0648"
     ],
     "name:fra_x_preferred":[
         "Tsar\u00e9vo"
@@ -56,17 +66,32 @@
     "name:mkd_x_preferred":[
         "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0430\u0440\u0435\u0432\u043e"
     ],
+    "name:nld_x_preferred":[
+        "Tsarevo Municipality"
+    ],
     "name:pol_x_preferred":[
         "Gmina Carewo"
     ],
     "name:ron_x_preferred":[
         "Comuna \u021aarevo"
     ],
+    "name:ron_x_variant":[
+        "Ob\u0219tina \u021aarevo"
+    ],
     "name:rus_x_preferred":[
+        "\u0426\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tsarevo"
+    ],
+    "name:ukr_x_preferred":[
         "\u0426\u0430\u0440\u0435\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Michurin"
+    ],
+    "name:vie_x_preferred":[
+        "Tsarevo"
     ],
     "name:zho_x_preferred":[
         "\u5bdf\u96f7\u6c83\u5e02"
@@ -119,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641930,
+    "wof:lastmodified":1563325338,
     "wof:name":"\u0426\u0430\u0440\u0435\u0432\u043e",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

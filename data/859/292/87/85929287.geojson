@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11067628.10317,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.301924,42.666659,23.301924,42.666659",
     "geom:latitude":42.666659,
     "geom:longitude":23.301924,
@@ -28,8 +28,17 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u0438\u0430\u0434\u0438\u0446\u0430"
     ],
+    "name:deu_x_preferred":[
+        "Triadiza"
+    ],
     "name:eng_x_preferred":[
         "Triaditsa"
+    ],
+    "name:eng_x_variant":[
+        "Triaditsa District"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u056b\u0561\u0564\u056b\u0581\u0561"
     ],
     "name:pol_x_preferred":[
         "Rejon Triadica"
@@ -95,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939128,
+    "wof:lastmodified":1563324716,
     "wof:name":"Triaditsa",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

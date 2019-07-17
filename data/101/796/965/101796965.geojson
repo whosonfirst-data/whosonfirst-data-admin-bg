@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000256,
-    "geom:area_square_m":2326207.365367,
+    "geom:area_square_m":2326207.365368,
     "geom:bbox":"26.7633314826,42.7541918174,26.7905764208,42.7699102336",
     "geom:latitude":42.762654,
     "geom:longitude":26.778157,
@@ -17,6 +17,9 @@
     "mps:longitude":26.777897,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0646\u06af\u0648\u0631\u0644\u0627\u0631"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0443\u043d\u0433\u0443\u0440\u043b\u0430\u0440\u0435"
     ],
@@ -42,6 +45,15 @@
         "\u0633\u0648\u0646\u06af\u0648\u0631\u0644\u0627\u0631\u0647"
     ],
     "name:fin_x_preferred":[
+        "Sungurlare"
+    ],
+    "name:fra_x_preferred":[
+        "Sungurlare"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e0\u05d2\u05d5\u05e8\u05dc\u05e8\u05d4"
+    ],
+    "name:ita_x_preferred":[
         "Sungurlare"
     ],
     "name:jpn_x_preferred":[
@@ -76,6 +88,12 @@
     ],
     "name:swe_x_preferred":[
         "Sungurlare"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0443\u043d\u0433\u0443\u0440\u043b\u0430\u0440\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Sungurlar"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043d\u0433\u0443\u0440\u043b\u0430\u0440\u0435"
@@ -144,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642027,
+    "wof:lastmodified":1563325375,
     "wof:name":"\u0421\u0443\u043d\u0433\u0443\u0440\u043b\u0430\u0440\u0435",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -29,11 +29,20 @@
         "Ljubcha",
         "Ljubtscha"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0648\u0628\u0686\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Lyubcha"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10e3\u10d1\u10e9\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u044e\u0431\u0447\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0409\u0443\u0431\u0447\u0430"
     ],
     "name:msa_x_preferred":[
         "Lyubcha"
@@ -98,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325268,
     "wof:name":"\u041b\u044e\u0431\u0447\u0430",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

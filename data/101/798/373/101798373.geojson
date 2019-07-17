@@ -38,6 +38,12 @@
         "Turski-Izvor",
         "Balgarski izvor"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06af\u0627\u0631\u0633\u06a9\u06cc \u0627\u06cc\u0632\u0648\u0648\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Balgarski izvor"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438-\u0418\u0437\u0432\u043e\u0440"
     ],
@@ -100,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837450,
+    "wof:lastmodified":1563325368,
     "wof:name":"\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

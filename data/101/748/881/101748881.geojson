@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001369,
-    "geom:area_square_m":12597106.926694,
+    "geom:area_square_m":12597106.926689,
     "geom:bbox":"25.530686,41.91118,25.603222,41.9496085",
     "geom:latitude":41.932209,
     "geom:longitude":25.562362,
@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u0647\u0627\u0633\u0643\u0648\u0641\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0647\u0627\u0633\u06a9\u0648\u0648"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0425\u0430\u0441\u043a\u0430\u0432\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09b8\u09cd\u0995\u09cb\u09ad\u09cb"
     ],
     "name:bul_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u043e"
@@ -30,11 +36,23 @@
     "name:cat_x_preferred":[
         "Kh\u00e0skovo"
     ],
+    "name:ceb_x_preferred":[
+        "Haskovo"
+    ],
+    "name:ces_x_preferred":[
+        "Chaskovo"
+    ],
     "name:chu_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u043e"
     ],
     "name:ckb_x_preferred":[
         "\u062e\u0627\u0633\u06a9\u06c6\u06a4\u06c6"
+    ],
+    "name:dan_x_preferred":[
+        "Haskovo"
+    ],
+    "name:deu_x_preferred":[
+        "Chaskowo"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03ac\u03c3\u03ba\u03bf\u03b2\u03bf"
@@ -61,14 +79,50 @@
     "name:epo_x_preferred":[
         "\u0124askovo"
     ],
+    "name:est_x_preferred":[
+        "Haskovo"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0627\u0633\u06a9\u0648\u0641\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Haskovo"
+    ],
+    "name:fra_x_preferred":[
+        "Haskovo"
+    ],
+    "name:frr_x_preferred":[
+        "Chaskowo"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab9\u0abe\u0ab8\u0acd\u0a95\u0acb\u0ab5\u0acb"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05d0\u05e1\u05e7\u05d5\u05d1\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u0939\u093e\u0938\u094d\u0915\u094b\u0935\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Haskovo"
+    ],
+    "name:hun_x_preferred":[
+        "Haszkovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u057d\u056f\u0578\u057e\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Haskovo"
+    ],
+    "name:ita_x_preferred":[
+        "Haskovo"
+    ],
     "name:jpn_x_preferred":[
         "\u30cf\u30b9\u30b3\u30f4\u30a9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0cb8\u0ccd\u0c95\u0cca\u0cb5\u0ccb"
     ],
     "name:kaz_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u043e"
@@ -76,11 +130,26 @@
     "name:kor_x_preferred":[
         "\ud558\uc2a4\ucf54\ubcf4"
     ],
+    "name:lav_x_preferred":[
+        "Haskova"
+    ],
     "name:lit_x_preferred":[
         "Chaskovas"
     ],
+    "name:mar_x_preferred":[
+        "\u0939\u0945\u0938\u0915\u094b\u0935\u094b"
+    ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Haskovo"
+    ],
+    "name:nld_x_preferred":[
+        "Chaskovo"
+    ],
+    "name:nob_x_preferred":[
+        "Haskovo"
     ],
     "name:oss_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u043e"
@@ -88,11 +157,56 @@
     "name:pnb_x_preferred":[
         "\u06c1\u0633\u06a9\u0648\u0627"
     ],
+    "name:pol_x_preferred":[
+        "Chaskowo"
+    ],
+    "name:por_x_preferred":[
+        "Haskovo"
+    ],
+    "name:ron_x_preferred":[
+        "Haskovo"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u043e"
     ],
+    "name:sco_x_preferred":[
+        "Haskovo"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc4\u0dc3\u0dca\u0d9a\u0ddc\u0dc0\u0ddd"
+    ],
+    "name:slk_x_preferred":[
+        "Chaskovo"
+    ],
+    "name:slv_x_preferred":[
+        "Haskovo"
+    ],
+    "name:spa_x_preferred":[
+        "Haskovo"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Chaskovo"
+    ],
+    "name:szl_x_preferred":[
+        "Chaskowo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bbe\u0bb8\u0bcd\u0b95\u0bcb\u0bb5\u0bcb"
+    ],
+    "name:tat_x_preferred":[
+        "\u0425\u0430\u0441\u043a\u043e\u0432\u043e"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c39\u0c3e\u0c38\u0c4d\u0c15\u0c4b\u0c35\u0c4b"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e32\u0e2a\u0e42\u0e04\u0e42\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Hask\u00f6y"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u043e"
@@ -102,6 +216,15 @@
     ],
     "name:urd_x_preferred":[
         "\u062e\u0627\u0633\u06a9\u0648\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Haskovo"
+    ],
+    "name:war_x_preferred":[
+        "Haskovo"
+    ],
+    "name:yue_x_preferred":[
+        "\u54c8\u65af\u79d1\u592b"
     ],
     "name:zho_x_preferred":[
         "\u54c8\u65af\u79d1\u6c83"
@@ -251,7 +374,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527688464,
+    "wof:lastmodified":1563325445,
     "wof:name":"\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

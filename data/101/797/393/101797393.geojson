@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000152,
+    "geom:area_square_m":1367560.571551,
     "geom:bbox":"27.1799300239,43.4027953635,27.1958874567,43.4191724103",
     "geom:latitude":43.411218,
     "geom:longitude":27.188804,
@@ -24,6 +25,9 @@
     "name:dan_x_preferred":[
         "Stojan Mihajlovski"
     ],
+    "name:deu_x_preferred":[
+        "Stojan Michailowski"
+    ],
     "name:eng_x_colloquial":[
         "Kajkioej",
         "Kajkioj",
@@ -42,10 +46,20 @@
         "Kayk\u00e6",
         "Kayk\u00fe",
         "Stojan Michailowski",
+        "Stojan Mihajlovski",
+        "Stoyan Mihaylovski"
+    ],
+    "name:fra_x_preferred":[
+        "Sto\u00e2n Mihajlovski"
+    ],
+    "name:ita_x_preferred":[
         "Stojan Mihajlovski"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u043e\u0458\u0430\u043d \u041c\u0438\u0445\u0430\u0458\u043b\u043e\u0432\u0441\u043a\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Stoyan Mihaylovski"
     ],
     "name:pol_x_preferred":[
         "Stojan Michaj\u0142owski"
@@ -55,6 +69,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Stoyan Mihaylovski"
     ],
     "name:swe_x_preferred":[
         "Stojan Michajlovski"
@@ -109,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641528,
+    "wof:lastmodified":1563325201,
     "wof:name":"\u0421\u0442\u043e\u044f\u043d \u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0441\u043a\u0438",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

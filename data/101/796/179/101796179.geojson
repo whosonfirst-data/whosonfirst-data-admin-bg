@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000227,
-    "geom:area_square_m":2046379.076943,
+    "geom:area_square_m":2046379.076944,
     "geom:bbox":"27.4214179782,43.3053359677,27.4432309466,43.3227926397",
     "geom:latitude":43.315429,
     "geom:longitude":27.432235,
@@ -19,6 +19,15 @@
     "mz:is_current":-1,
     "name:bul_x_preferred":[
         "\u0412\u0435\u0442\u0440\u0438\u043d\u043e"
+    ],
+    "name:bul_x_variant":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0412\u0435\u0442\u0440\u0438\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Vetrino"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Vetrino"
     ],
     "name:eng_x_colloquial":[
         "Yasa-Tepe",
@@ -38,10 +47,50 @@
         "Wetrino",
         "Yase-Tepe",
         "Yas\u00e6-Tepe",
-        "Yas\u00fe-Tepe"
+        "Yas\u00fe-Tepe",
+        "Vetrino Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u062a\u0631\u06cc\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Vetrino"
+    ],
+    "name:ita_x_preferred":[
+        "Vetrino"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10e2\u10e0\u10d8\u10dc\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Vetrino Municipality"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Wetrino"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Vetrino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0442\u0440\u0438\u043d\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Vetrino Municipality"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Vetrino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0442\u0440\u0438\u043d\u043e"
     ],
     "name:unk_x_variant":[
         "Asya-Tepe"
+    ],
+    "name:vie_x_preferred":[
+        "Vetrino"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u7279\u91cc\u8afe\u5e02"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0430\u0440\u043d\u0430",
@@ -91,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642039,
+    "wof:lastmodified":1563325422,
     "wof:name":"\u0412\u0435\u0442\u0440\u0438\u043d\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

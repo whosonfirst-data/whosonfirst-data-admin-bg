@@ -19,7 +19,16 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u043f\u0435\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Sipej"
+    ],
     "name:eng_x_preferred":[
+        "Sipey"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u067e\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "Sipey"
     ],
     "name:kat_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":101859025,
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325427,
     "wof:name":"\u0421\u0438\u043f\u0435\u0439",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

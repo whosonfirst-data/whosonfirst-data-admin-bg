@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000497,
-    "geom:area_square_m":4553186.06639,
+    "geom:area_square_m":4553186.066395,
     "geom:bbox":"26.5484510592,42.1595630808,26.5874338451,42.1902085431",
     "geom:latitude":42.175501,
     "geom:longitude":26.570516,
@@ -17,6 +17,9 @@
     "mps:longitude":26.57214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u0647\u0648\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u043b\u0445\u043e\u0432\u043e"
     ],
@@ -70,13 +73,22 @@
     "name:ita_x_preferred":[
         "Elhovo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30db\u30f4\u30a9"
+    ],
     "name:kaz_x_preferred":[
         "\u0415\u043b\u0445\u043e\u0432\u043e"
     ],
     "name:lit_x_preferred":[
         "Elchovas"
     ],
+    "name:nld_x_preferred":[
+        "Elhovo"
+    ],
     "name:nno_x_preferred":[
+        "Elkhovo"
+    ],
+    "name:nob_x_preferred":[
         "Elkhovo"
     ],
     "name:nor_x_preferred":[
@@ -102,6 +114,12 @@
     ],
     "name:swe_x_preferred":[
         "Elchovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u042d\u043b\u0445\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Elhovo"
     ],
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0445\u043e\u0432\u043e"
@@ -167,7 +185,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641934,
+    "wof:lastmodified":1563325363,
     "wof:name":"\u0415\u043b\u0445\u043e\u0432\u043e",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

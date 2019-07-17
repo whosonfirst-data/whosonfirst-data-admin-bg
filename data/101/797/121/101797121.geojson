@@ -39,6 +39,12 @@
         "Leh\u010devo",
         "Lekchevo"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0647\u0686\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Lehchevo"
+    ],
     "name:kaz_x_preferred":[
         "\u041b\u0435\u0445\u0447\u0435\u0432\u043e"
     ],
@@ -107,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325192,
     "wof:name":"\u041b\u0435\u0445\u0447\u0435\u0432\u043e",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

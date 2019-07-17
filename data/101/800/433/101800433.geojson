@@ -37,6 +37,12 @@
         "P\u00fervenets",
         "Parvenets"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u0648\u0646\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Parvenets"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10d8\u10e0\u10d5\u10d4\u10dc\u10d4\u10ea\u10d8"
     ],
@@ -102,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325505,
     "wof:name":"\u041f\u044a\u0440\u0432\u0435\u043d\u0435\u0446",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

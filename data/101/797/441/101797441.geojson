@@ -35,6 +35,9 @@
         "Kos\u00fem Kuydzhuk",
         "Rakowski"
     ],
+    "name:fra_x_preferred":[
+        "Rakovski"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10d9\u10dd\u10d5\u10e1\u10d9\u10d8"
     ],
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325166,
     "wof:name":"\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0438",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

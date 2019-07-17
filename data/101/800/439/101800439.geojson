@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Ustina Point"
     ],
+    "name:ceb_x_variant":[
+        "Ustina"
+    ],
     "name:eng_x_preferred":[
         "Ustina"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Ustina Point"
+    ],
+    "name:swe_x_variant":[
+        "Ustina"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u0438\u043d\u0430"
@@ -99,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325488,
     "wof:name":"\u0423\u0441\u0442\u0438\u043d\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

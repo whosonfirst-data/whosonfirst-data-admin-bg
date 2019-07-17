@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000407,
+    "geom:area_square_m":3724354.284006,
     "geom:bbox":"24.8679153101,42.2472276324,24.8956570321,42.2746179497",
     "geom:latitude":42.260465,
     "geom:longitude":24.880546,
@@ -21,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Stryama"
     ],
+    "name:ces_x_preferred":[
+        "Strjama"
+    ],
     "name:deu_x_preferred":[
         "Strjama"
     ],
@@ -35,14 +39,26 @@
         "Strjama",
         "Stryema"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d8\u05e8\u05d9\u05d0\u05de\u05d4"
+    ],
     "name:ita_x_preferred":[
         "Strjama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30c8\u30ea\u30e3\u30de\u5ddd"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u0440\u0458\u0430\u043c\u0430"
     ],
+    "name:nld_x_preferred":[
+        "Stryama"
+    ],
     "name:pol_x_preferred":[
         "Strjama"
+    ],
+    "name:ron_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0438\u043d\u0438\u0446\u0430"
     ],
     "name:swe_x_preferred":[
         "Strjama"
@@ -100,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641923,
+    "wof:lastmodified":1563325298,
     "wof:name":"\u0421\u0442\u0440\u044f\u043c\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000483,
-    "geom:area_square_m":4311960.219147,
+    "geom:area_square_m":4311960.219148,
     "geom:bbox":"26.6501919543,43.7497608116,26.6954061786,43.773799192",
     "geom:latitude":43.75974,
     "geom:longitude":26.674445,
@@ -37,7 +37,11 @@
         "Zavjet",
         "Zavot",
         "Zavut",
-        "Zavyet"
+        "Zavyet",
+        "Zavet Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0632\u0627\u0648\u062a"
     ],
     "name:fra_x_preferred":[
         "Zavet"
@@ -47,6 +51,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d6\u10d0\u10d5\u10d4\u10e2\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Zavet Municipality"
     ],
     "name:pol_x_preferred":[
         "Gmina Zawet"
@@ -59,6 +66,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0417\u0430\u0432\u0435\u0442"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0417\u0430\u0432\u0435\u0442"
     ],
     "name:swe_x_preferred":[
         "Obsjtina Zavet"
@@ -121,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642030,
+    "wof:lastmodified":1563325385,
     "wof:name":"\u0417\u0430\u0432\u0435\u0442",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

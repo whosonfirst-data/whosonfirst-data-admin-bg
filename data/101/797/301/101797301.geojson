@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0431\u0443\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kamburovo"
+    ],
     "name:eng_x_colloquial":[
         "Hasan-Fuko",
         "Hasan-Fukoe",
@@ -40,8 +43,14 @@
         "Palatitsa",
         "Palatiza"
     ],
+    "name:fra_x_preferred":[
+        "Kamburovo"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u043c\u0431\u0443\u0440\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Kamburowo"
     ],
     "name:ron_x_preferred":[
         "Kamburovo"
@@ -102,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325153,
     "wof:name":"\u041a\u0430\u043c\u0431\u0443\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

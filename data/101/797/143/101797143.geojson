@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000642,
-    "geom:area_square_m":5779911.456821,
+    "geom:area_square_m":5779911.456819,
     "geom:bbox":"25.2879591109,43.2248760358,25.3251561348,43.2550922289",
     "geom:latitude":43.239163,
     "geom:longitude":25.306762,
@@ -17,6 +17,9 @@
     "mps:longitude":25.305494,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u0648\u0644\u06cc\u06a9\u0646\u06cc"
+    ],
     "name:bel_x_variant":[
         "\u041f\u0430\u045e\u043b\u0456\u043a\u0435\u043d\u0456"
     ],
@@ -40,6 +43,15 @@
     "name:fas_x_preferred":[
         "\u067e\u0627\u0648\u0644\u06cc\u06a9\u0646\u06cc"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05d1\u05dc\u05d9\u05e7\u05e0\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u057e\u056c\u056b\u056f\u0565\u0576\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Pavlikeni"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30f4\u30ea\u30b1\u30cb"
     ],
@@ -48,6 +60,9 @@
     ],
     "name:lit_x_preferred":[
         "Pavlikeniai"
+    ],
+    "name:nld_x_preferred":[
+        "Pavlikeni"
     ],
     "name:pol_x_preferred":[
         "Pawlikeni"
@@ -68,6 +83,12 @@
         "\u041f\u0430\u0432\u043b\u0438\u043a\u0435\u043d\u0438"
     ],
     "name:swe_x_preferred":[
+        "Pavlikeni"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u0432\u043b\u0438\u043a\u0435\u043d\u0438"
+    ],
+    "name:tur_x_preferred":[
         "Pavlikeni"
     ],
     "name:ukr_x_preferred":[
@@ -134,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641526,
+    "wof:lastmodified":1563325189,
     "wof:name":"\u041f\u0430\u0432\u043b\u0438\u043a\u0435\u043d\u0438",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

@@ -36,6 +36,12 @@
         "Gushantsi",
         "Gu\u00b5anci"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0645\u0641\u06cc\u0631\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Zamfirovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0417\u0430\u043c\u0444\u0438\u0440\u043e\u0432\u043e"
     ],
@@ -101,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325234,
     "wof:name":"\u0417\u0430\u043c\u0444\u0438\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

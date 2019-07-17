@@ -21,7 +21,16 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u041f\u043e\u043b\u0435"
     ],
+    "name:bul_x_variant":[
+        "\u0414\u043e\u043b\u043d\u043e \u043f\u043e\u043b\u0435"
+    ],
     "name:eng_x_preferred":[
+        "Dolno Pole"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648 \u067e\u0648\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Dolno Pole"
     ],
     "name:kaz_x_preferred":[
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":1125945623,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325547,
     "wof:name":"Dolno Pole",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

@@ -27,8 +27,14 @@
     "name:eng_x_preferred":[
         "Srebarna"
     ],
+    "name:fra_x_preferred":[
+        "Srebarna"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0440\u0435\u0431\u044b\u0440\u043d\u0430_"
+    ],
+    "name:kaz_x_variant":[
+        "\u0421\u0440\u0435\u0431\u044b\u0440\u043d\u0430_(\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430_\u043e\u0431\u043b\u044b\u0441\u044b)"
     ],
     "name:ron_x_preferred":[
         "Sreb\u0103rna"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125921671,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325549,
     "wof:name":"Sreburna",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

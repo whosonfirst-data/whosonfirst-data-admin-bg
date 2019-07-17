@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000486,
-    "geom:area_square_m":4382422.95692,
+    "geom:area_square_m":4382422.956926,
     "geom:bbox":"27.4306487075,43.1501716484,27.4558114859,43.2070485469",
     "geom:latitude":43.179639,
     "geom:longitude":27.442223,
@@ -17,6 +17,9 @@
     "mps:longitude":27.441174,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u0631\u0648\u0627\u062f\u06cc\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0430\u0434\u0438\u044f"
     ],
@@ -48,6 +51,9 @@
     "name:heb_x_preferred":[
         "\u05e4\u05e8\u05d5\u05d1\u05d0\u05d3\u05d9\u05d4"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0580\u0578\u057e\u0561\u0564\u056b\u0561"
+    ],
     "name:jpn_x_preferred":[
         "\u30d7\u30ed\u30f4\u30a1\u30c7\u30a3\u30e4"
     ],
@@ -72,6 +78,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0430\u0434\u0438\u044f"
     ],
+    "name:slv_x_preferred":[
+        "Provadia"
+    ],
     "name:spa_x_preferred":[
         "Provadia"
     ],
@@ -80,6 +89,9 @@
     ],
     "name:swe_x_preferred":[
         "Provadija"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u043e\u0432\u0430\u0434\u0438\u044f"
     ],
     "name:tur_x_preferred":[
         "Pravad\u0131"
@@ -148,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642032,
+    "wof:lastmodified":1563325396,
     "wof:name":"\u041f\u0440\u043e\u0432\u0430\u0434\u0438\u044f",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

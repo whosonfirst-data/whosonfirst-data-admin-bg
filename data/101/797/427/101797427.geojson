@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000175,
+    "geom:area_square_m":1567102.414492,
     "geom:bbox":"26.8517058649,43.6827797656,26.8725229262,43.6953828731",
     "geom:latitude":43.689128,
     "geom:longitude":26.862018,
@@ -19,10 +20,47 @@
         "\u041b\u044a\u0432\u0438\u043d\u043e"
     ],
     "name:bul_x_variant":[
-        "Lavino"
+        "Lavino",
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0418\u0441\u043f\u0435\u0440\u0438\u0445"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Isperikh"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Isperich"
+    ],
+    "name:eng_x_preferred":[
+        "Isperih Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u06cc\u0633\u067e\u0631\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Isperikh"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10de\u10d4\u10e0\u10d8\u10ee\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Isperich"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Isperih"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043f\u0435\u0440\u0438\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Isperich"
     ],
     "name:unk_x_variant":[
         "Arslan"
+    ],
+    "name:vie_x_preferred":[
+        "Isperih"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u4f69\u91cc\u8d6b\u5e02"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
@@ -64,7 +102,7 @@
         }
     ],
     "wof:id":101797427,
-    "wof:lastmodified":1527641530,
+    "wof:lastmodified":1563325211,
     "wof:name":"\u041b\u044a\u0432\u0438\u043d\u043e",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

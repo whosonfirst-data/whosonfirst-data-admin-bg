@@ -66,6 +66,9 @@
     "name:swe_x_preferred":[
         "Oreshak"
     ],
+    "name:swe_x_variant":[
+        "Oresjak"
+    ],
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430\u043a"
     ],
@@ -119,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325327,
     "wof:name":"\u041e\u0440\u0435\u0448\u0430\u043a",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

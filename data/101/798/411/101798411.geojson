@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000104,
+    "geom:area_square_m":938427.888446,
     "geom:bbox":"26.0561785755,42.9447040845,26.082862336,42.9510520248",
     "geom:latitude":42.948071,
     "geom:longitude":26.068317,
@@ -22,16 +23,29 @@
         "Konstantin"
     ],
     "name:eng_x_variant":[
-        "Akhmedlii"
+        "Akhmedlii",
+        "Konstantin Preobrazhensky"
     ],
     "name:est_x_preferred":[
         "Konstantin Preobra\u017eenski"
+    ],
+    "name:fra_x_preferred":[
+        "Konstantin Preobrazhensky"
+    ],
+    "name:nno_x_preferred":[
+        "Konstantin Preobrazjenskij"
+    ],
+    "name:nob_x_preferred":[
+        "Konstantin Preobrazjenskij"
     ],
     "name:pol_x_preferred":[
         "Konstantin Prieobra\u017ce\u0144ski"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0441\u043a\u0438\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Konstantin Preobrazhensky"
     ],
     "name:unk_x_variant":[
         "Akhmedlii"
@@ -80,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641932,
+    "wof:lastmodified":1563325348,
     "wof:name":"\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

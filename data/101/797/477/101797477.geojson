@@ -19,12 +19,18 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043c\u0435\u0440\u0434\u0436\u0438\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Semerdzhievo"
+    ],
     "name:eng_x_preferred":[
         "Semerdzhievo"
     ],
     "name:eng_x_variant":[
         "Samardzhievo",
         "Semerdshiewo"
+    ],
+    "name:fra_x_preferred":[
+        "Semerdzhievo"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043c\u0435\u0440\u0434\u0436\u0438\u0435\u0432\u043e"
@@ -94,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325162,
     "wof:name":"\u0421\u0435\u043c\u0435\u0440\u0434\u0436\u0438\u0435\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

@@ -36,6 +36,9 @@
         "Sveti Kliment",
         "Sweti Kliment"
     ],
+    "name:fra_x_preferred":[
+        "Kliment"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u043b\u0438\u043c\u0435\u043d\u0442"
     ],
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325236,
     "wof:name":"\u041a\u043b\u0438\u043c\u0435\u043d\u0442",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

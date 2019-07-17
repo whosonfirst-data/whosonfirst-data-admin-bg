@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000555,
-    "geom:area_square_m":5112742.274025,
+    "geom:area_square_m":5112742.274024,
     "geom:bbox":"26.0686725064,41.8323931697,26.1050038735,41.8631014772",
     "geom:latitude":41.845696,
     "geom:longitude":26.083074,
@@ -17,17 +17,26 @@
     "mps:longitude":26.083074,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u06cc\u0648\u0628\u06cc\u0645\u062a\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u044e\u0431\u0438\u043c\u0435\u0446"
     ],
     "name:ceb_x_preferred":[
         "Obshtina Lyubimets"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u044e\u0431\u0438\u043c\u0435\u0446"
+    ],
     "name:ckb_x_preferred":[
         "\u0644\u06cc\u0648\u0628\u06cc\u0645\u06ce\u062a\u0633"
     ],
     "name:deu_x_preferred":[
         "Ljubimez"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bf\u03cd\u03bc\u03c0\u03b9\u03bc\u03b5\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Lyubimets"
@@ -45,8 +54,23 @@
     "name:fra_x_preferred":[
         "Lubim\u00e9ts"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d5\u05d1\u05d9\u05de\u05e5"
+    ],
+    "name:ita_x_preferred":[
+        "Lyubimets"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e5\u30d3\u30e1\u30c4"
+    ],
     "name:kaz_x_preferred":[
         "\u041b\u044e\u0431\u0438\u043c\u0435\u0446"
+    ],
+    "name:lit_x_preferred":[
+        "Liubimecas"
+    ],
+    "name:nld_x_preferred":[
+        "Lyubimets"
     ],
     "name:pol_x_preferred":[
         "Lubimec"
@@ -60,6 +84,9 @@
     "name:rus_x_preferred":[
         "\u041b\u044e\u0431\u0438\u043c\u0435\u0446"
     ],
+    "name:slv_x_preferred":[
+        "Ljubimec"
+    ],
     "name:spa_x_preferred":[
         "Lyubimets"
     ],
@@ -68,6 +95,12 @@
     ],
     "name:swe_x_preferred":[
         "Obsjtina Ljubimets"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u04af\u0431\u0438\u043c\u0435\u0442\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Habib\u00e7eova"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0431\u0438\u043c\u0435\u0446\u044c"
@@ -135,7 +168,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641692,
+    "wof:lastmodified":1563325284,
     "wof:name":"\u041b\u044e\u0431\u0438\u043c\u0435\u0446",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",
