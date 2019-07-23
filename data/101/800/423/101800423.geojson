@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
+    "geom:area_square_m":1897268.71216,
     "geom:bbox":"25.1237490066,41.9203311674,25.143802615,41.9411827831",
     "geom:latitude":41.930165,
     "geom:longitude":25.13324,
@@ -17,6 +18,12 @@
     "mz:is_current":-1,
     "name:bul_x_preferred":[
         "\u0418\u0441\u043a\u0440\u0430"
+    ],
+    "name:eng_x_preferred":[
+        "Iskra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u06a9\u0631\u0627"
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10e1\u10d9\u10e0\u10d0"
@@ -76,7 +83,7 @@
         }
     ],
     "wof:id":101800423,
-    "wof:lastmodified":1527715085,
+    "wof:lastmodified":1563325487,
     "wof:name":"\u0418\u0441\u043a\u0440\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

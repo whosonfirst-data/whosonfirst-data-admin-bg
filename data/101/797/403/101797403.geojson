@@ -31,6 +31,9 @@
         "End\u017ee",
         "Zarew-Brod"
     ],
+    "name:fra_x_preferred":[
+        "Tsarev Brod"
+    ],
     "name:kat_x_preferred":[
         "\u10ea\u10d0\u10e0\u10d4\u10d5-\u10d1\u10e0\u10dd\u10d3\u10d8"
     ],
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325227,
     "wof:name":"\u0426\u0430\u0440\u0435\u0432 \u0431\u0440\u043e\u0434",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000034,
+    "geom:area_square_m":309505.921197,
     "geom:bbox":"23.3915639012,42.6003425199,23.4003702448,42.6059840274",
     "geom:latitude":42.603138,
     "geom:longitude":23.395745,
@@ -20,6 +21,15 @@
     ],
     "name:ceb_x_preferred":[
         "Rayon Pancharevo"
+    ],
+    "name:deu_x_preferred":[
+        "Pantscharewo"
+    ],
+    "name:eng_x_preferred":[
+        "Pancharevo"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0576\u0579\u0561\u0580\u0587\u0578"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e"
@@ -82,7 +92,7 @@
         }
     ],
     "wof:id":101848133,
-    "wof:lastmodified":1527714807,
+    "wof:lastmodified":1563325474,
     "wof:name":"\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

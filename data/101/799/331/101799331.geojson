@@ -22,6 +22,9 @@
     "name:bul_x_variant":[
         "Dabene"
     ],
+    "name:ceb_x_preferred":[
+        "Dubene"
+    ],
     "name:eng_x_colloquial":[
         "Dabene",
         "Daebene",
@@ -42,6 +45,9 @@
         "D\u00febene",
         "D\u00febeni",
         "Sal\u00fekioy",
+        "Dabene"
+    ],
+    "name:fra_x_preferred":[
         "Dabene"
     ],
     "name:kaz_x_preferred":[
@@ -105,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325240,
     "wof:name":"\u0414\u044a\u0431\u0435\u043d\u0435",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

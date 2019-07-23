@@ -17,11 +17,23 @@
     "mps:longitude":24.877286,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0633\u064a\u0646\u0648\u0641\u063a\u0631\u0627\u062f"
+    ],
     "name:ast_x_preferred":[
         "Asenovgrad"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u0646\u0648\u06af\u0631\u0627\u062f"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0441\u0435\u043d\u0430\u045e\u0433\u0440\u0430\u0434"
+    ],
     "name:bel_x_variant":[
         "\u0410\u0441\u044d\u043d\u0430\u045e\u0433\u0440\u0430\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b8\u09c7\u09a8\u09cb\u09ad\u0997\u09be\u09a1"
     ],
     "name:bul_x_preferred":[
         "\u0410\u0441\u0435\u043d\u043e\u0432\u0433\u0440\u0430\u0434"
@@ -38,11 +50,17 @@
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0633\u06ce\u0646\u06c6\u06a4\u06af\u0631\u0627\u062f"
     ],
+    "name:cym_x_preferred":[
+        "Asenovgrad"
+    ],
     "name:dan_x_preferred":[
         "Asenovgrad"
     ],
     "name:deu_x_preferred":[
         "Assenowgrad"
+    ],
+    "name:deu_x_variant":[
+        "Asenovgrad"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03ad\u03bd\u03bf\u03b2\u03b3\u03ba\u03c1\u03b1\u03bd\u03c4"
@@ -71,13 +89,28 @@
     "name:glg_x_preferred":[
         "Asenovgrad"
     ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0ab8\u0ac7\u0aa8\u0acb\u0ab5\u0a97\u0acd\u0ab0\u0abe\u0aa1"
+    ],
     "name:hbs_x_preferred":[
         "Asenovgrad"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e1\u05e0\u05d5\u05d1\u05d2\u05e8\u05d0\u05d3"
     ],
+    "name:hin_x_preferred":[
+        "\u090f\u0938\u0947\u0928\u094b\u0935\u093e\u0917\u094d\u0930\u093e\u0926"
+    ],
     "name:hrv_x_preferred":[
+        "Asenovgrad"
+    ],
+    "name:hun_x_preferred":[
+        "Aszenovgrad"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057d\u0565\u0576\u0578\u057e\u0563\u0580\u0561\u0564"
+    ],
+    "name:ind_x_preferred":[
         "Asenovgrad"
     ],
     "name:ita_x_preferred":[
@@ -85,6 +118,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30bb\u30ce\u30f4\u30b0\u30e9\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cb8\u0cc6\u0ca8\u0ccb\u0cb5\u0ccd\u0c97\u0ccd\u0cb0\u0cbe\u0ca1\u0ccd"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0441\u0435\u043d\u043e\u0432\u0433\u0440\u0430\u0434"
@@ -95,16 +131,28 @@
     "name:lat_x_preferred":[
         "Stenemachos"
     ],
+    "name:lav_x_preferred":[
+        "Asenovgrada"
+    ],
     "name:lit_x_preferred":[
         "Asenovgradas"
     ],
+    "name:mar_x_preferred":[
+        "\u090f\u0938\u0947\u0928\u094b\u0935\u0917\u094d\u0930\u0947\u0921"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u0441\u0435\u043d\u043e\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Asenovgrad"
     ],
     "name:nau_x_preferred":[
         "Asenovgrad"
     ],
     "name:nld_x_preferred":[
+        "Asenovgrad"
+    ],
+    "name:nob_x_preferred":[
         "Asenovgrad"
     ],
     "name:oss_x_preferred":[
@@ -119,13 +167,22 @@
     "name:ron_x_preferred":[
         "Asenovgrad"
     ],
+    "name:rup_x_preferred":[
+        "Asenovgrad"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0441\u0435\u043d\u043e\u0432\u0433\u0440\u0430\u0434"
     ],
     "name:sco_x_preferred":[
         "Asenovgrad"
     ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dc3\u0dda\u0db1\u0ddc\u0dc0\u0dca\u0d9c\u0dca\u0dbb\u0dd0\u0da9\u0dca"
+    ],
     "name:slk_x_preferred":[
+        "Asenovgrad"
+    ],
+    "name:slv_x_preferred":[
         "Asenovgrad"
     ],
     "name:spa_x_preferred":[
@@ -140,6 +197,18 @@
     "name:szl_x_preferred":[
         "Asenowgrad"
     ],
+    "name:tam_x_preferred":[
+        "\u0b8e\u0b9a\u0bc6\u0ba9\u0bcb\u0bb5\u0bcd\u0b95\u0bbf\u0bb0\u0bc7\u0b9f\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0441\u0435\u043d\u043e\u0432\u0433\u0440\u0430\u0434"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c38\u0c47\u0c28\u0c4b\u0c35\u0c4d\u0c17\u0c4d\u0c30\u0c3e\u0c21\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e40\u0e0b\u0e19\u0e2d\u0e1f\u0e01\u0e23\u0e32\u0e14"
+    ],
     "name:tur_x_preferred":[
         "Asenovgrad"
     ],
@@ -148,6 +217,9 @@
     ],
     "name:unk_x_variant":[
         "Stanimaka"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u06cc\u0646\u0648\u0648\u062c\u0631\u0627\u062f"
     ],
     "name:vie_x_preferred":[
         "Asenovgrad"
@@ -209,7 +281,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527688480,
+    "wof:lastmodified":1563325459,
     "wof:name":"\u0410\u0441\u0435\u043d\u043e\u0432\u0433\u0440\u0430\u0434",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

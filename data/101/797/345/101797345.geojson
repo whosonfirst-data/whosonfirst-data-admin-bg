@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
+    "geom:area_square_m":2415736.446258,
     "geom:bbox":"27.5818398487,43.2777522865,27.6148920167,43.2985278756",
     "geom:latitude":43.289622,
     "geom:longitude":27.600421,
@@ -33,7 +34,11 @@
     "name:eng_x_variant":[
         "Kara Khyusein",
         "Sratsimir",
-        "Srazimir"
+        "Srazimir",
+        "Suvorovo Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0633\u0648\u0648\u0648\u0631\u0648\u0641\u0648"
     ],
     "name:fra_x_preferred":[
         "Souvorovo"
@@ -43,6 +48,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10e3\u10d5\u10dd\u10e0\u10dd\u10d5\u10dd\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Suvorovo Municipality"
     ],
     "name:pol_x_preferred":[
         "Gmina Suworowo"
@@ -55,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Obsjtina Suvorovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0432\u043e\u0440\u043e\u0432\u043e"
     ],
     "name:unk_x_variant":[
         "Kara Khyusein"
@@ -109,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641533,
+    "wof:lastmodified":1563325230,
     "wof:name":"\u0427\u0435\u0440\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

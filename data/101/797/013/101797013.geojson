@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000889,
-    "geom:area_square_m":8066706.748645,
+    "geom:area_square_m":8066706.748643,
     "geom:bbox":"24.8859507433,42.7807205858,24.9809253162,42.8526403367",
     "geom:latitude":42.824059,
     "geom:longitude":24.923883,
@@ -26,11 +26,18 @@
     "name:ces_x_preferred":[
         "Ob\u0161tina Aprilci"
     ],
+    "name:deu_x_preferred":[
+        "Apriltsi"
+    ],
     "name:eng_x_preferred":[
         "Apriltsi"
     ],
     "name:eng_x_variant":[
-        "Aprilci"
+        "Aprilci",
+        "Apriltsi Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0622\u067e\u0631\u06cc\u0644\u062a\u0633\u06cc"
     ],
     "name:fra_x_preferred":[
         "Apriltsi"
@@ -41,14 +48,23 @@
     "name:kat_x_preferred":[
         "\u10d0\u10de\u10e0\u10d8\u10da\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Apriltsi Municipality"
+    ],
     "name:pol_x_preferred":[
         "Gmina Apri\u0142ci"
     ],
     "name:ron_x_preferred":[
         "Comuna April\u021bi"
     ],
+    "name:ron_x_variant":[
+        "Ob\u0219tina April\u021bi"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043f\u0440\u0438\u043b\u0446\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Apriltsi"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043f\u0440\u0438\u043b\u0446\u0456"
@@ -111,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641523,
+    "wof:lastmodified":1563325163,
     "wof:name":"\u0410\u043f\u0440\u0438\u043b\u0446\u0438",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

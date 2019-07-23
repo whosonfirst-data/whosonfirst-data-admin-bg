@@ -17,14 +17,23 @@
     "mps:longitude":27.121594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u067e\u0644\u06cc\u0633\u06a9\u0627"
+    ],
     "name:aze_x_preferred":[
         "Pliska"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u043b\u0456\u0441\u043a\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041f\u043b\u0456\u0441\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u043b\u0438\u0441\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Pliska"
     ],
     "name:ces_x_preferred":[
         "Pliska"
@@ -40,6 +49,9 @@
     ],
     "name:deu_x_preferred":[
         "Pliska"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03af\u03c3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Pliska"
@@ -61,6 +73,9 @@
     ],
     "name:hun_x_preferred":[
         "Pliszka"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056c\u056b\u057d\u056f\u0561"
     ],
     "name:ita_x_preferred":[
         "Pliska"
@@ -181,7 +196,7 @@
         }
     ],
     "wof:id":101797399,
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325153,
     "wof:name":"\u041f\u043b\u0438\u0441\u043a\u0430",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

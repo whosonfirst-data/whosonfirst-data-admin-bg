@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000282,
+    "geom:area_square_m":2576012.61458,
     "geom:bbox":"26.4017519296,42.382332802,26.420155011,42.4074348898",
     "geom:latitude":42.395863,
     "geom:longitude":26.411122,
@@ -17,6 +18,9 @@
     "mz:is_current":-1,
     "name:ara_x_preferred":[
         "\u0631\u0648\u0632\u0627 \u0623\u0648\u062a\u0648\u0646\u0628\u0627\u064a\u064a\u0641\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Roza Otunbayeva"
     ],
     "name:aze_x_preferred":[
         "Roza Otunbayeva"
@@ -60,7 +64,8 @@
         "Gjulowo",
         "Gyulovo",
         "Gyulyumanovo",
-        "Gyulyumyanovo"
+        "Gyulyumyanovo",
+        "Roza Otunbayeva"
     ],
     "name:epo_x_preferred":[
         "Roza Otunbajeva"
@@ -113,11 +118,20 @@
     "name:kor_x_preferred":[
         "\ub85c\uc790 \uc624\ud230\ubc14\uc608\ubc14"
     ],
+    "name:lat_x_preferred":[
+        "Rosa Otunbaeva"
+    ],
     "name:msa_x_preferred":[
+        "Roza Otunbayeva"
+    ],
+    "name:nan_x_preferred":[
         "Roza Otunbayeva"
     ],
     "name:nld_x_preferred":[
         "Roza Otoenbajeva"
+    ],
+    "name:nob_x_preferred":[
+        "Roza Otunbajeva"
     ],
     "name:nor_x_preferred":[
         "Roza Otunbajeva"
@@ -149,6 +163,9 @@
     "name:tgk_x_preferred":[
         "\u0420\u043e\u0437\u0430 \u0418\u0441\u0430\u043a\u043e\u0432\u043d\u0430 \u041e\u0442\u0443\u043d\u0431\u0430\u0435\u0432\u0430"
     ],
+    "name:tgl_x_preferred":[
+        "Roza Otunbayeva"
+    ],
     "name:tur_x_preferred":[
         "Roza Otunbayeva"
     ],
@@ -161,6 +178,9 @@
     "name:uzb_x_preferred":[
         "Roza Otunbayeva"
     ],
+    "name:uzb_x_variant":[
+        "Roza Otunbaeva"
+    ],
     "name:yor_x_preferred":[
         "Roza Otunbayeva"
     ],
@@ -169,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u841d\u624e\u00b7\u5965\u901a\u5df4\u8036\u5a03"
+    ],
+    "name:zho_x_variant":[
+        "\u7f57\u8428\u00b7\u5965\u5766\u5df4\u8036\u5a03"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u042f\u043c\u0431\u043e\u043b",
@@ -214,7 +237,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641926,
+    "wof:lastmodified":1563325318,
     "wof:name":"\u0420\u043e\u0437\u0430",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

@@ -30,14 +30,26 @@
         "Teche",
         "Teke"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0628\u0631\u0648\u0686\u06cc\u0634\u062a\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Obrochishte"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u0431\u0440\u043e\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Obrocziszte"
     ],
     "name:ron_x_preferred":[
         "Obroci\u0219te"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0431\u0440\u043e\u0447\u0438\u0448\u0442\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Obrochishte"
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0440\u043e\u0447\u0438\u0448\u0442\u0435"
@@ -93,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325231,
     "wof:name":"\u041e\u0431\u0440\u043e\u0447\u0438\u0449\u0435",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

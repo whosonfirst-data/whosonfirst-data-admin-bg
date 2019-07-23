@@ -22,6 +22,9 @@
     "name:bul_x_variant":[
         "\u0412\u0430\u0441\u0438\u043b\u043a\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Vasilovci"
+    ],
     "name:eng_x_colloquial":[
         "Vlaska Mahalli"
     ],
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325152,
     "wof:name":"\u0412\u0430\u0441\u0438\u043b\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

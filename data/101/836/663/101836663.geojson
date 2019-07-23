@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000984,
-    "geom:area_square_m":8775156.118521,
+    "geom:area_square_m":8775156.118527,
     "geom:bbox":"23.2010612659,43.8003956404,23.2655908343,43.8373756211",
     "geom:latitude":43.820557,
     "geom:longitude":23.236888,
@@ -26,6 +26,9 @@
     "name:ces_x_preferred":[
         "Ob\u0161tina Lom"
     ],
+    "name:deu_x_preferred":[
+        "Lom"
+    ],
     "name:eng_x_preferred":[
         "Lom"
     ],
@@ -33,10 +36,14 @@
         "Dzhembek Makhala",
         "Lom Palanka",
         "Nikolaevo",
-        "Nikolaewo"
+        "Nikolaewo",
+        "Lom Municipality"
     ],
     "name:est_x_preferred":[
         "Lomi vald"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0644\u0648\u0645"
     ],
     "name:fra_x_preferred":[
         "Lom"
@@ -47,6 +54,9 @@
     "name:kat_x_preferred":[
         "\u10da\u10dd\u10db\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
+    "name:nld_x_preferred":[
+        "Lom Municipality"
+    ],
     "name:pol_x_preferred":[
         "Gmina \u0141om"
     ],
@@ -54,6 +64,15 @@
         "Comuna Lom"
     ],
     "name:rus_x_preferred":[
+        "\u041b\u043e\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Lom"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Lom"
+    ],
+    "name:tat_x_preferred":[
         "\u041b\u043e\u043c"
     ],
     "name:unk_x_variant":[
@@ -114,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715157,
+    "wof:lastmodified":1563325522,
     "wof:name":"\u041b\u043e\u043c",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

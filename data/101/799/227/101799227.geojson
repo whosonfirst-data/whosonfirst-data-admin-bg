@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Vinogradec"
+    ],
     "name:eng_x_preferred":[
         "Vinogradets"
     ],
@@ -27,8 +30,14 @@
         "Vinogradec",
         "Winogradez"
     ],
+    "name:fra_x_preferred":[
+        "Vinogradets"
+    ],
     "name:kaz_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Winogradec"
     ],
     "name:ron_x_preferred":[
         "Vinograde\u021b"
@@ -88,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325251,
     "wof:name":"\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0435\u0446",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

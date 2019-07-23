@@ -30,8 +30,17 @@
         "Avdulla",
         "Awdula"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0632\u0645\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Bezmer"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u0435\u0437\u043c\u0435\u0440"
+    ],
+    "name:pol_x_preferred":[
+        "Bezmer"
     ],
     "name:por_x_preferred":[
         "Bezmer"
@@ -96,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325390,
     "wof:name":"\u0411\u0435\u0437\u043c\u0435\u0440",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

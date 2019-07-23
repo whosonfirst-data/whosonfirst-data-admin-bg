@@ -41,6 +41,9 @@
         "Nowatschene",
         "Novacene"
     ],
+    "name:fra_x_preferred":[
+        "Novacene"
+    ],
     "name:kaz_x_preferred":[
         "\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435"
     ],
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325239,
     "wof:name":"\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

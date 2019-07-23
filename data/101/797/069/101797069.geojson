@@ -19,12 +19,18 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0432\u0435\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Devene"
+    ],
     "name:eng_x_preferred":[
         "Devene"
     ],
     "name:eng_x_variant":[
         "Deveni",
         "Dewene"
+    ],
+    "name:fra_x_preferred":[
+        "Devene"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u0435\u0432\u0435\u043d\u0435"
@@ -88,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325225,
     "wof:name":"\u0414\u0435\u0432\u0435\u043d\u0435",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

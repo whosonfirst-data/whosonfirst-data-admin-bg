@@ -28,6 +28,12 @@
     "name:eng_x_variant":[
         "Dorkowo"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u06a9\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Dorkovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u043e\u0440\u043a\u043e\u0432\u043e"
     ],
@@ -91,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325487,
     "wof:name":"\u0414\u043e\u0440\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

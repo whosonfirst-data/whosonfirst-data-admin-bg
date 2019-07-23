@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000481,
-    "geom:area_square_m":4367897.192684,
+    "geom:area_square_m":4367897.192685,
     "geom:bbox":"24.1582848023,42.6940380853,24.1948132897,42.7250261031",
     "geom:latitude":42.707003,
     "geom:longitude":24.173789,
@@ -17,10 +17,16 @@
     "mps:longitude":24.175034,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u0631\u062f\u0648\u067e"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u0440\u0434\u043e\u043f"
     ],
     "name:ceb_x_preferred":[
+        "Pirdop"
+    ],
+    "name:ces_x_preferred":[
         "Pirdop"
     ],
     "name:ckb_x_preferred":[
@@ -38,10 +44,31 @@
     "name:fra_x_preferred":[
         "Pirdop"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e8\u05d3\u05d5\u05e4"
+    ],
+    "name:ita_x_preferred":[
+        "Pirdop"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30ed\u30c9\u30d7"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0438\u0440\u0434\u043e\u043f"
     ],
+    "name:kor_x_preferred":[
+        "\ud53c\ub974\ub3c4\ud504"
+    ],
+    "name:lit_x_preferred":[
+        "Pirdopas"
+    ],
     "name:nld_x_preferred":[
+        "Pirdop"
+    ],
+    "name:nno_x_preferred":[
+        "Pirdop"
+    ],
+    "name:nob_x_preferred":[
         "Pirdop"
     ],
     "name:pol_x_preferred":[
@@ -63,6 +90,12 @@
         "\u041f\u0438\u0440\u0434\u043e\u043f"
     ],
     "name:swe_x_preferred":[
+        "Pirdop"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0438\u0440\u0434\u043e\u043f"
+    ],
+    "name:tur_x_preferred":[
         "Pirdop"
     ],
     "name:ukr_x_preferred":[
@@ -129,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715157,
+    "wof:lastmodified":1563325521,
     "wof:name":"\u041f\u0438\u0440\u0434\u043e\u043f",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

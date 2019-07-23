@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000641,
+    "geom:area_square_m":5717621.102386,
     "geom:bbox":"23.2038625167,43.7730526966,23.2668032545,43.8074272297",
     "geom:latitude":43.789985,
     "geom:longitude":23.240018,
@@ -24,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Zamfir"
     ],
+    "name:deu_x_preferred":[
+        "Zamfir"
+    ],
     "name:eng_x_colloquial":[
         "Daelgoschewzi",
         "Dalgoschewzi",
@@ -39,7 +43,13 @@
         "D\u00felgoshevtsi",
         "Zamfirovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0645\u0641\u06cc\u0631"
+    ],
     "name:fra_x_preferred":[
+        "Zamfir"
+    ],
+    "name:hun_x_preferred":[
         "Zamfir"
     ],
     "name:kaz_x_preferred":[
@@ -53,6 +63,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043c\u043e\u0448\u0442\u0438\u0446\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0417\u0430\u043c\u0444\u0438\u0440"
     ],
     "name:swe_x_preferred":[
         "Zamfir"
@@ -107,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715301,
+    "wof:lastmodified":1563325524,
     "wof:name":"\u0417\u0430\u043c\u0444\u0438\u0440",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

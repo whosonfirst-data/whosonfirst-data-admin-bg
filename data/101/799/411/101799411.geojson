@@ -40,6 +40,9 @@
         "T\u00fernicheni",
         "Tarnicheni"
     ],
+    "name:fra_x_preferred":[
+        "Tarnicheni"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u044b\u0440\u043d\u0438\u0447\u0435\u043d\u0438"
     ],
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837444,
+    "wof:lastmodified":1563325280,
     "wof:name":"\u0422\u044a\u0440\u043d\u0438\u0447\u0435\u043d\u0438",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

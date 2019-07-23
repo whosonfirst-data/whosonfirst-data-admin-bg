@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0432\u0435\u0434\u0430\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Govedare"
+    ],
     "name:eng_x_colloquial":[
         "Stgtrdzhik",
         "Sthgthrdzhik",
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837457,
+    "wof:lastmodified":1563325515,
     "wof:name":"\u0413\u043e\u0432\u0435\u0434\u0430\u0440\u0435",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

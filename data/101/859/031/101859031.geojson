@@ -28,6 +28,9 @@
     "name:eng_x_variant":[
         "Baale Burgas"
     ],
+    "name:fra_x_preferred":[
+        "Gorna Kula"
+    ],
     "name:kat_x_preferred":[
         "\u10d2\u10dd\u10e0\u10dc\u10d0-\u10d9\u10e3\u10da\u10d0"
     ],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325428,
     "wof:name":"\u0413\u043e\u0440\u043d\u0430 \u043a\u0443\u043b\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

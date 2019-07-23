@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Chintulovo"
+    ],
     "name:eng_x_colloquial":[
         "Kasthmovo",
         "Kastmovo",
@@ -31,6 +34,9 @@
         "Kas\u00femovo",
         "Tschintulowo"
     ],
+    "name:fra_x_preferred":[
+        "Chintulovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Tjintulovo"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e"
@@ -89,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837449,
+    "wof:lastmodified":1563325361,
     "wof:name":"\u0427\u0438\u043d\u0442\u0443\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

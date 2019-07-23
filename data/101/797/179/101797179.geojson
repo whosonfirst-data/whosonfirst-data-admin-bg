@@ -26,6 +26,9 @@
         "Kru\u00b5ovene",
         "Krushovene"
     ],
+    "name:fra_x_preferred":[
+        "Krushovene"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u0440\u0443\u0448\u043e\u0432\u0435\u043d\u0435"
     ],
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325233,
     "wof:name":"\u041a\u0440\u0443\u0448\u043e\u0432\u0435\u043d\u0435",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

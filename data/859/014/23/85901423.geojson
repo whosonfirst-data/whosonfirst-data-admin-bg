@@ -35,11 +35,17 @@
     "name:eng_x_preferred":[
         "Krasno Selo"
     ],
+    "name:eng_x_variant":[
+        "Krasno selo"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0580\u0561\u057d\u0576\u0578 \u057d\u0565\u056c\u0578"
     ],
     "name:swe_x_preferred":[
         "Rajon Krasno Selo"
+    ],
+    "name:swe_x_variant":[
+        "Krasno Selo"
     ],
     "name:unk_x_variant":[
         "Krasno Selo"
@@ -106,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837426,
+    "wof:lastmodified":1563324714,
     "wof:name":"Krasno Selo",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000697,
-    "geom:area_square_m":6258732.232233,
+    "geom:area_square_m":6258732.232234,
     "geom:bbox":"23.9163750612,43.4553625542,23.9600361788,43.4866280524",
     "geom:latitude":43.470997,
     "geom:longitude":23.936792,
@@ -17,8 +17,17 @@
     "mps:longitude":23.931334,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0627\u0644\u0627 \u0633\u0644\u0627\u062a\u06cc\u0646\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u044f\u043b\u0430 \u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Byala Slatina"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u06cc\u0627\u0644\u0627 \u0633\u0644\u0627\u062a\u06cc\u0646\u0627"
     ],
     "name:eng_x_preferred":[
         "Byala Slatina"
@@ -30,8 +39,71 @@
         "Bjela Slatina",
         "Byela-Slatina"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0627\u0644\u0627 \u0627\u0633\u0644\u0627\u062a\u06cc\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Byala Slatina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d0\u05dc\u05d4 \u05e1\u05dc\u05d0\u05d8\u05d9\u05e0\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Bjala Slatina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30e3\u30e9\u30fb\u30b9\u30e9\u30c6\u30a3\u30ca"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u044f\u043b\u0430-\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:lit_x_preferred":[
+        "Biala Slatina"
+    ],
+    "name:nld_x_preferred":[
+        "Byala Slatina"
+    ],
+    "name:pol_x_preferred":[
+        "Bia\u0142a S\u0142atina"
+    ],
+    "name:por_x_preferred":[
+        "Bjala Slatina"
+    ],
+    "name:ron_x_preferred":[
+        "Biala Slatina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044f\u043b\u0430-\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Byala Slatina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0458\u0430\u043b\u0430 \u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Bjala Slatina"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u04d9\u043b\u0430-\u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Byala Slatina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044f\u043b\u0430 \u0421\u043b\u0430\u0442\u0438\u043d\u0430"
+    ],
     "name:unk_x_variant":[
         "Bjela Slatina"
+    ],
+    "name:vie_x_preferred":[
+        "Byala Slatina"
+    ],
+    "name:war_x_preferred":[
+        "Byala Slatina"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u65af\u62c9\u8482\u7d0d"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0440\u0430\u0446\u0430",
@@ -84,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641524,
+    "wof:lastmodified":1563325174,
     "wof:name":"\u0411\u044f\u043b\u0430 \u0441\u043b\u0430\u0442\u0438\u043d\u0430",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

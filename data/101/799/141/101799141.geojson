@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000138,
-    "geom:area_square_m":1268169.417071,
+    "geom:area_square_m":1268169.417072,
     "geom:bbox":"23.5484532428,41.9395302034,23.5723897943,41.9565525638",
     "geom:latitude":41.94861,
     "geom:longitude":23.560542,
@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u062a\u0633\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u06cc\u062a\u0633\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Belitsa"
+    ],
+    "name:ces_x_preferred":[
+        "Belica"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u06ce\u0644\u06cc\u062a\u0633\u0627"
@@ -50,11 +59,20 @@
     "name:fra_x_preferred":[
         "Belitsa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d9\u05e6\u05d4"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u056c\u056b\u0581\u0561"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Belitsa"
     ],
     "name:pol_x_preferred":[
         "Belica"
@@ -73,6 +91,15 @@
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u043b\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Belitsa"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0442\u0441\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Beli\u00e7a"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0438\u0446\u044f"
@@ -140,7 +167,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641694,
+    "wof:lastmodified":1563325293,
     "wof:name":"\u0411\u0435\u043b\u0438\u0446\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -32,6 +32,12 @@
         "Slokoshtnitsa",
         "Slokostitsa"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0648\u06a9\u0648\u0633\u062a\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Slokostitsa"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u043b\u043e\u043a\u043e\u0448\u0442\u0438\u0446\u0430"
     ],
@@ -91,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837457,
+    "wof:lastmodified":1563325511,
     "wof:name":"\u0421\u043b\u043e\u043a\u043e\u0449\u0438\u0446\u0430",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

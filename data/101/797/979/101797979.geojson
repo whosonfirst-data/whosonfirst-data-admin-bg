@@ -26,12 +26,19 @@
     "name:ceb_x_preferred":[
         "Treklyano Island"
     ],
+    "name:deu_x_preferred":[
+        "Treklyano Island"
+    ],
     "name:eng_x_preferred":[
         "Treklyano"
     ],
     "name:eng_x_variant":[
         "Trekliano",
-        "Trekljano"
+        "Trekljano",
+        "Treklyano Island"
+    ],
+    "name:nld_x_preferred":[
+        "Treklyano Island"
     ],
     "name:nno_x_preferred":[
         "Treklyano Island"
@@ -93,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641525,
+    "wof:lastmodified":1563325184,
     "wof:name":"\u0422\u0440\u0435\u043a\u043b\u044f\u043d\u043e",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

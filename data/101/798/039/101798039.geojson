@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Novi Iskar"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u06cc \u0627\u06cc\u0633\u06a9\u0627\u0631"
+    ],
     "name:jpn_x_preferred":[
         "\u30ce\u30f4\u30a3\u30fb\u30a4\u30b9\u30af\u30eb"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101798039,
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325326,
     "wof:name":"\u041d\u043e\u0432\u0438 \u0418\u0441\u043a\u044a\u0440",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

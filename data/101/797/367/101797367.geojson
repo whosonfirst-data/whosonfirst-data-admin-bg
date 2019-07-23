@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Brani\u010devo"
     ],
+    "name:fra_x_variant":[
+        "Branichevo"
+    ],
     "name:hbs_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0438\u0447\u0435\u0432\u043e"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325200,
     "wof:name":"\u0411\u0440\u0430\u043d\u0438\u0447\u0435\u0432\u043e",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

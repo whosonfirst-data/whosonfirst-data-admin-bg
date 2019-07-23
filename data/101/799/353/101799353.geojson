@@ -19,7 +19,13 @@
     "name:bul_x_preferred":[
         "\u0426\u0430\u043b\u0430\u043f\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Calapica"
+    ],
     "name:eng_x_preferred":[
+        "Tsalapitsa"
+    ],
+    "name:fra_x_preferred":[
         "Tsalapitsa"
     ],
     "name:kaz_x_preferred":[
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":101799353,
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325244,
     "wof:name":"\u0426\u0430\u043b\u0430\u043f\u0438\u0446\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

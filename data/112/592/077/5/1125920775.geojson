@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Stikal"
     ],
+    "name:fra_x_preferred":[
+        "Stikal"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0438\u043a\u044b\u043b"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125920775,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325549,
     "wof:name":"Stikul",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

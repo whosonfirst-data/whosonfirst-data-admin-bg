@@ -29,6 +29,9 @@
         "Musular",
         "Okor\u00b5"
     ],
+    "name:fra_x_preferred":[
+        "Okorsh"
+    ],
     "name:kaz_x_preferred":[
         "\u041e\u043a\u043e\u0440\u0448"
     ],
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325405,
     "wof:name":"\u041e\u043a\u043e\u0440\u0448",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

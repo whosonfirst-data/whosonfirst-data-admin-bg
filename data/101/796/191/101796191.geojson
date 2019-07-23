@@ -29,8 +29,14 @@
     "name:eng_x_variant":[
         "Momino"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0648\u0631\u0646"
+    ],
     "name:fra_x_preferred":[
         "Avren"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d5\u05e8\u05df"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f4\u30ec\u30f3"
@@ -55,6 +61,9 @@
     ],
     "name:swe_x_preferred":[
         "Avren"
+    ],
+    "name:tur_x_preferred":[
+        "Evren"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0432\u0440\u0435\u043d"
@@ -120,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642034,
+    "wof:lastmodified":1563325403,
     "wof:name":"\u0410\u0432\u0440\u0435\u043d",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

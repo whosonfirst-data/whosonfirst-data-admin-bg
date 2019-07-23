@@ -30,6 +30,9 @@
         "Jardzhilovci",
         "Yarzhilovtsi"
     ],
+    "name:fra_x_preferred":[
+        "Yardzhilovtsi"
+    ],
     "name:kaz_x_preferred":[
         "\u042f\u0440\u0434\u0436\u0438\u043b\u043e\u0432\u0446\u0438"
     ],
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837444,
+    "wof:lastmodified":1563325288,
     "wof:name":"\u042f\u0440\u0434\u0436\u0438\u043b\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Lilyak"
     ],
+    "name:fra_x_preferred":[
+        "Lilyak"
+    ],
     "name:kaz_x_preferred":[
         "\u041b\u0438\u043b\u044f\u043a"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101798413,
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325310,
     "wof:name":"\u041b\u0438\u043b\u044f\u043a",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

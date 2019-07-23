@@ -38,6 +38,12 @@
         "Syuleymanl\u00fek",
         "S\u00fcleimanl\u00e6k"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u0627\u0633\u0648\u0641\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Spasovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u043f\u0430\u0441\u043e\u0432\u043e"
     ],
@@ -97,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325409,
     "wof:name":"\u0421\u043f\u0430\u0441\u043e\u0432\u043e",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
     "name:epo_x_preferred":[
         "Emona"
     ],
+    "name:fra_x_preferred":[
+        "Emona"
+    ],
+    "name:hye_x_preferred":[
+        "\u0535\u0574\u0578\u0576\u0561"
+    ],
     "name:kat_x_preferred":[
         "\u10d4\u10db\u10dd\u10dc\u10d0"
     ],
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1126022705,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325552,
     "wof:name":"Emona",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

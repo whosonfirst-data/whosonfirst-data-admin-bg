@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001025,
-    "geom:area_square_m":9193340.287844,
+    "geom:area_square_m":9193340.28784,
     "geom:bbox":"26.4951676693,43.5071073157,26.5594438154,43.5448257781",
     "geom:latitude":43.525738,
     "geom:longitude":26.525674,
@@ -21,17 +21,35 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0632\u063a\u0631\u0627\u062f"
     ],
+    "name:azb_x_preferred":[
+        "\u0631\u0627\u0632\u06af\u0631\u0627\u062f"
+    ],
+    "name:bak_x_preferred":[
+        "\u0420\u0430\u0437\u0433\u0440\u0430\u0434"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u0437\u0433\u0440\u0430\u0434"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u099c\u0997\u09cd\u09b0\u09be\u09a6"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0440\u0430\u0434"
     ],
     "name:cat_x_preferred":[
         "R\u00e0zgrad"
     ],
+    "name:cat_x_variant":[
+        "Razgrad"
+    ],
     "name:ceb_x_preferred":[
         "Razgrad"
     ],
     "name:ces_x_preferred":[
         "Razgrad"
+    ],
+    "name:chu_x_preferred":[
+        "\u0420\u0430\ua641\u0433\u0440\u0430\u0434\u044a"
     ],
     "name:dan_x_preferred":[
         "Razgrad"
@@ -60,20 +78,44 @@
     "name:fra_x_preferred":[
         "Razgrad"
     ],
+    "name:frr_x_preferred":[
+        "Rasgrad"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abe\u0a9d\u0a97\u0acd\u0ab0\u0abe\u0aa1"
+    ],
     "name:hbs_x_preferred":[
         "Razgrad"
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d0\u05d6\u05d2\u05e8\u05d3"
     ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u091c\u0917\u094d\u0930\u093e\u0926"
+    ],
     "name:hrv_x_preferred":[
         "Razgrad"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u0561\u0566\u0563\u0580\u0561\u0564"
     ],
     "name:ile_x_preferred":[
         "Razgrad"
     ],
+    "name:ind_x_preferred":[
+        "Razgrad"
+    ],
+    "name:ita_x_preferred":[
+        "Razgrad"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30ba\u30b0\u30e9\u30c8"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0c9d\u0c97\u0ccd\u0cb0\u0cbe\u0ca1\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10d6\u10d2\u10e0\u10d0\u10d3\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0440\u0430\u0434"
@@ -81,13 +123,25 @@
     "name:kor_x_preferred":[
         "\ub77c\uc988\uadf8\ub77c\ub4dc"
     ],
+    "name:lav_x_preferred":[
+        "Razgrada"
+    ],
     "name:lit_x_preferred":[
         "Razgradas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u093e\u091c\u0917\u094d\u0930\u0945\u0921"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0440\u0430\u0434"
     ],
+    "name:msa_x_preferred":[
+        "Razgrad"
+    ],
     "name:nld_x_preferred":[
+        "Razgrad"
+    ],
+    "name:nob_x_preferred":[
         "Razgrad"
     ],
     "name:nor_x_preferred":[
@@ -111,6 +165,9 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0440\u0430\u0434"
     ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dc3\u0dca\u0d9c\u0dca\u200d\u0dbb\u0dcf\u0da9\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Razgrad"
     ],
@@ -119,6 +176,24 @@
     ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0437\u0433\u0440\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Razgrad"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbe\u0b9c\u0b95\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0430\u0437\u0433\u0440\u0430\u0434"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3e\u0c1c\u0c4d \u0c17\u0c4d\u0c30\u0c3e\u0c21\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0420\u0430\u0437\u0433\u0440\u0430\u0434"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e0b\u0e01\u0e23\u0e32\u0e14"
     ],
     "name:tur_x_preferred":[
         "Razgrad"
@@ -282,7 +357,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642036,
+    "wof:lastmodified":1563325413,
     "wof:name":"\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

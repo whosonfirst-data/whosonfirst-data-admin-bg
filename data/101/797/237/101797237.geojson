@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00016,
+    "geom:area_square_m":1437436.785848,
     "geom:bbox":"24.1911281704,43.3888999575,24.2057981381,43.4080110713",
     "geom:latitude":43.398202,
     "geom:longitude":24.198502,
@@ -18,9 +19,6 @@
     "name:bel_x_preferred":[
         "\u041a\u0443\u043f\u0430\u043b-\u0446\u044b\u0431\u0443\u043b\u0456\u043d\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u041a\u0443\u043f\u0430\u043b-\u0446\u044b\u0431\u0443\u043b\u0456\u043d\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u0981\u09af\u09bc\u09be\u099c \u0997\u09ae\u09cd\u09ac\u09c1\u099c"
     ],
@@ -30,8 +28,17 @@
     "name:cat_x_preferred":[
         "C\u00fapula bulbosa"
     ],
+    "name:cat_x_variant":[
+        "c\u00fapula bulbosa"
+    ],
     "name:ces_x_preferred":[
         "B\u00e1\u0148"
+    ],
+    "name:ces_x_variant":[
+        "b\u00e1\u0148"
+    ],
+    "name:cym_x_preferred":[
+        "cromen nionyn"
     ],
     "name:dan_x_preferred":[
         "L\u00f8gkuppel"
@@ -43,10 +50,14 @@
         "Glava"
     ],
     "name:eng_x_variant":[
-        "Glawa"
+        "Glawa",
+        "onion dome"
     ],
     "name:epo_x_preferred":[
         "Bulba kupolo"
+    ],
+    "name:epo_x_variant":[
+        "bulba kupolo"
     ],
     "name:fas_x_preferred":[
         "\u06af\u0646\u0628\u062f \u067e\u06cc\u0627\u0632\u06cc"
@@ -60,6 +71,9 @@
     "name:hun_x_preferred":[
         "Hagymakupola"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u056d\u0578\u0582\u056f\u0561\u0576\u0574\u0561\u0576 \u0563\u0574\u0562\u0565\u0569"
+    ],
     "name:lat_x_preferred":[
         "Turris bulbosa"
     ],
@@ -72,17 +86,29 @@
     "name:nld_x_preferred":[
         "Ui"
     ],
+    "name:nld_x_variant":[
+        "ui"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0443\u043a\u043e\u0432\u0438\u0447\u043d\u044b\u0435 \u0433\u043b\u0430\u0432\u044b"
     ],
     "name:spa_x_preferred":[
         "C\u00fapula bulbosa"
     ],
+    "name:spa_x_variant":[
+        "c\u00fapula bulbosa"
+    ],
     "name:swe_x_preferred":[
         "L\u00f6kkupol"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e14\u0e21\u0e17\u0e23\u0e07\u0e2b\u0e31\u0e27\u0e2b\u0e2d\u0e21"
+    ],
+    "name:tur_x_preferred":[
+        "So\u011fan kubbe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043f\u043e\u043b-\u043c\u0430\u043a\u0456\u0432\u043a\u0430"
     ],
     "name:unk_x_variant":[
         "Glawa"
@@ -134,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641532,
+    "wof:lastmodified":1563325224,
     "wof:name":"\u0413\u043b\u0430\u0432\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

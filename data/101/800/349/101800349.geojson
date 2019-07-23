@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Novo Delchevo"
+    ],
     "name:eng_x_preferred":[
         "Novo Delchevo"
     ],
@@ -26,17 +29,29 @@
         "Deltschewo",
         "Gara Delchevo"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0648 \u062f\u0644\u0686\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Novo Delchevo"
+    ],
     "name:kaz_x_preferred":[
         "\u041d\u043e\u0432\u043e-\u0414\u0435\u043b\u0447\u0435\u0432\u043e"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e"
     ],
+    "name:pol_x_preferred":[
+        "Nowo De\u0142czewo"
+    ],
     "name:ron_x_preferred":[
         "Novo Delcevo"
     ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0432\u043e-\u0414\u0435\u043b\u0447\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Novo Deltjevo"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e-\u0414\u0435\u043b\u0447\u0435\u0432\u043e"
@@ -89,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325493,
     "wof:name":"\u041d\u043e\u0432\u043e \u0414\u0435\u043b\u0447\u0435\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

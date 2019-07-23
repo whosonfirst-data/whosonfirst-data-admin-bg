@@ -58,6 +58,9 @@
     "name:fra_x_preferred":[
         "Guenrikh Iagoda"
     ],
+    "name:fra_x_variant":[
+        "Yagoda"
+    ],
     "name:hbs_x_preferred":[
         "Genrih Jagoda"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:hun_x_preferred":[
         "Genrih Grigorjevics Jagoda"
+    ],
+    "name:hun_x_variant":[
+        "Jagoda"
     ],
     "name:ita_x_preferred":[
         "Genrich Grigor'evi\u010d Jagoda"
@@ -87,6 +93,9 @@
     ],
     "name:pol_x_preferred":[
         "Gienrich Jagoda"
+    ],
+    "name:pol_x_variant":[
+        "Jagoda"
     ],
     "name:por_x_preferred":[
         "Guenrikh Yagoda"
@@ -114,6 +123,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u042f\u0433\u043e\u0434\u0430 \u0413\u0435\u043d\u0440\u0456\u0445 \u0413\u0440\u0438\u0433\u043e\u0440\u043e\u0432\u0438\u0447"
+    ],
+    "name:ukr_x_variant":[
+        "\u042f\u0433\u043e\u0434\u0430"
     ],
     "name:unk_x_variant":[
         "Chanakchii"
@@ -164,7 +176,7 @@
         }
     ],
     "wof:id":101798169,
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325305,
     "wof:name":"\u042f\u0433\u043e\u0434\u0430",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

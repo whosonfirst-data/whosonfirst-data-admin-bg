@@ -17,6 +17,12 @@
     "mps:longitude":27.880526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0628\u0632\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0628\u0632\u0648\u0631"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0431\u0437\u043e\u0440"
     ],
@@ -92,6 +98,9 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0437\u043e\u0440"
     ],
+    "name:ukr_x_variant":[
+        "\u041d\u0430\u0432\u043b\u043e\u0445 \u0424\u0440\u0430\u043a\u0456\u0439\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:unk_x_variant":[
         "Gyuzuken"
     ],
@@ -152,7 +161,7 @@
         }
     ],
     "wof:id":101798313,
-    "wof:lastmodified":1561837447,
+    "wof:lastmodified":1563325332,
     "wof:name":"\u041e\u0431\u0437\u043e\u0440",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

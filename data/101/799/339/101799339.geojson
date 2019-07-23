@@ -19,7 +19,13 @@
     "name:bul_x_preferred":[
         "\u0426\u0430\u0440\u0438\u043c\u0438\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Carimir"
+    ],
     "name:eng_x_preferred":[
+        "Tsarimir"
+    ],
+    "name:fra_x_preferred":[
         "Tsarimir"
     ],
     "name:kaz_x_preferred":[
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":101799339,
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325246,
     "wof:name":"\u0426\u0430\u0440\u0438\u043c\u0438\u0440",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

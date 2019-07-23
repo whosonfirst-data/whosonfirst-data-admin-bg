@@ -19,11 +19,17 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0441\u0442\u043e\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Pristoe"
+    ],
     "name:eng_x_preferred":[
         "Pristoe"
     ],
     "name:eng_x_variant":[
         "Yusuf Khanlar"
+    ],
+    "name:fra_x_preferred":[
+        "Pristoe"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u0440\u0438\u0441\u0442\u043e\u0435"
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325232,
     "wof:name":"\u041f\u0440\u0438\u0441\u0442\u043e\u0435",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

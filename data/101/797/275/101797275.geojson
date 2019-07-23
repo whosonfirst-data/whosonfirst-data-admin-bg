@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u0441\u0435\u043b\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Reselec"
+    ],
     "name:eng_x_preferred":[
         "Reselets"
     ],
@@ -26,6 +29,9 @@
         "Reselec",
         "Resselez",
         "Roselets"
+    ],
+    "name:fra_x_preferred":[
+        "Reselets"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u0435\u0441\u0435\u043b\u0435\u0446"
@@ -35,6 +41,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0435\u0441\u0435\u043b\u0435\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Reselets"
     ],
     "name:swe_x_preferred":[
         "Reselets"
@@ -92,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837438,
+    "wof:lastmodified":1563325168,
     "wof:name":"\u0420\u0435\u0441\u0435\u043b\u0435\u0446",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

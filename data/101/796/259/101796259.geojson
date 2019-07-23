@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Krushari"
     ],
+    "name:deu_x_preferred":[
+        "Krushari"
+    ],
     "name:eng_x_colloquial":[
         "Krusari"
     ],
@@ -37,6 +40,18 @@
         "Armutlu",
         "Kru\u00b5ari"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u0634\u0627\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Krushari"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05e9\u05d0\u05e8\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Krushari"
+    ],
     "name:jpn_x_preferred":[
         "\u30af\u30eb\u30b7\u30e3\u30ea"
     ],
@@ -49,14 +64,23 @@
     "name:msa_x_preferred":[
         "Krushari"
     ],
+    "name:nld_x_preferred":[
+        "Krushari"
+    ],
     "name:ron_x_preferred":[
         "Kru\u0219ari"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0430\u0440\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Krushari"
+    ],
     "name:swe_x_preferred":[
         "Krusjari"
+    ],
+    "name:tur_x_preferred":[
+        "Armutlu"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0430\u0440\u0438"
@@ -119,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642030,
+    "wof:lastmodified":1563325387,
     "wof:name":"\u041a\u0440\u0443\u0448\u0430\u0440\u0438",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

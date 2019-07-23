@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Skutare"
     ],
+    "name:fra_x_preferred":[
+        "Skutare"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d9\u10e3\u10e2\u10d0\u10e0\u10d4"
     ],
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325247,
     "wof:name":"\u0421\u043a\u0443\u0442\u0430\u0440\u0435",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

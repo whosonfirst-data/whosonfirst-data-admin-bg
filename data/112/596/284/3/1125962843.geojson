@@ -21,7 +21,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0442\u0435\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kutela"
+    ],
     "name:eng_x_preferred":[
+        "Kutela"
+    ],
+    "name:fra_x_preferred":[
         "Kutela"
     ],
     "name:glg_x_preferred":[
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1125962843,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325566,
     "wof:name":"Kutela",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

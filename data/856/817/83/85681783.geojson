@@ -27,11 +27,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u063a\u0648\u0631\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u0642\u0648\u0631\u0627 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430\u0437\u0430\u0433\u043e\u0440\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u099f\u09be\u09b0\u09be \u099c\u09be\u0997\u09cb\u09b0\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bos_x_preferred":[
+        "Oblast Stara Zagora"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430"
@@ -41,6 +47,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Stara Zagora"
+    ],
+    "name:ceb_x_preferred":[
+        "Oblast Stara Zagora"
     ],
     "name:ces_x_preferred":[
         "Starozagorsk\u00e1 oblast"
@@ -63,6 +72,9 @@
     "name:eng_x_preferred":[
         "Stara Zagora"
     ],
+    "name:eng_x_variant":[
+        "Stara Zagora Province"
+    ],
     "name:epo_x_preferred":[
         "Provinco Stara Zagora"
     ],
@@ -81,6 +93,12 @@
     "name:fra_x_preferred":[
         "Stara Zagora"
     ],
+    "name:frr_x_preferred":[
+        "Stara Sagora"
+    ],
+    "name:gle_x_preferred":[
+        "C\u00faige Stara Zagora"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0acd\u0a9f\u0abe\u0ab0\u0abe \u0a9d\u0abe\u0a97\u0acb\u0ab0\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -92,6 +110,9 @@
     ],
     "name:hrv_x_preferred":[
         "Oblast Stara Zagora"
+    ],
+    "name:hun_x_preferred":[
+        "Sztara Zagora megye"
     ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0561\u0580\u0561 \u0536\u0561\u0563\u0578\u0580\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
@@ -113,6 +134,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud0c0\ub77c\uc790\uace0\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud0c0\ub77c\uc790\uace0\ub77c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Ulpia Augusta Traiana"
@@ -179,6 +203,9 @@
     ],
     "name:sqi_x_preferred":[
         "Stara Zagora"
+    ],
+    "name:sqi_x_variant":[
+        "Provinca Stara Zagora"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0437\u0430\u0433\u043e\u0440\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
@@ -335,7 +362,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1561837429,
+    "wof:lastmodified":1563324736,
     "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

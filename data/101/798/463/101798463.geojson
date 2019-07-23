@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000097,
+    "geom:area_square_m":878512.761122,
     "geom:bbox":"26.7992747607,42.9996421816,26.8146985638,43.0115733746",
     "geom:latitude":43.005815,
     "geom:longitude":26.807138,
@@ -27,8 +28,14 @@
     "name:ces_x_preferred":[
         "Ob\u0161tina V\u0103rbica"
     ],
+    "name:eng_x_preferred":[
+        "Varbitsa Municipality"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0631\u0628\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0631\u0628\u06cc\u062a\u0633\u0627 \u0645\u0648\u0646\u06cc\u06a9\u06cc\u067e\u0644\u06cc\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Varbitsa"
@@ -38,6 +45,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d8\u10e0\u10d1\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Varbitsa Municipality"
     ],
     "name:pol_x_preferred":[
         "Gmina Wyrbica"
@@ -99,7 +109,7 @@
         }
     ],
     "wof:id":101798463,
-    "wof:lastmodified":1527641926,
+    "wof:lastmodified":1563325319,
     "wof:name":"\u0422\u0443\u0448\u043e\u0432\u0438\u0446\u0430",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

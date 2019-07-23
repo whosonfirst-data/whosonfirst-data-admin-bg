@@ -33,6 +33,9 @@
         "Kolobar",
         "Kolob\u00fer"
     ],
+    "name:fra_x_preferred":[
+        "Kolobar"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043b\u043e\u0431\u044b\u0440"
     ],
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325398,
     "wof:name":"\u041a\u043e\u043b\u043e\u0431\u044a\u0440",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

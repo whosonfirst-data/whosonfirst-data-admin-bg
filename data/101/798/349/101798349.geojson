@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Tankovo"
     ],
+    "name:fra_x_preferred":[
+        "Tankovo"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u0576\u056f\u0578\u057e\u0578"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101798349,
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325331,
     "wof:name":"\u0422\u044a\u043d\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

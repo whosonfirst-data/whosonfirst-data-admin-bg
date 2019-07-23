@@ -26,6 +26,12 @@
         "Lazar-Stanevo",
         "Pazarezhik"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Toros"
+    ],
     "name:hye_x_preferred":[
         "\u0539\u0578\u0580\u0578\u057d"
     ],
@@ -88,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325330,
     "wof:name":"\u0422\u043e\u0440\u043e\u0441",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

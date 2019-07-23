@@ -29,6 +29,12 @@
         "Rasboina",
         "Razbojna"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0632\u0628\u0648\u06cc\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Razboyna"
+    ],
     "name:kaz_x_preferred":[
         "\u0420\u0430\u0437\u0431\u043e\u0439\u043d\u0430"
     ],
@@ -91,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837450,
+    "wof:lastmodified":1563325369,
     "wof:name":"\u0420\u0430\u0437\u0431\u043e\u0439\u043d\u0430",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

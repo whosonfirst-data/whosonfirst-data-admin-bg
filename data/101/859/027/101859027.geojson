@@ -25,6 +25,12 @@
     "name:eng_x_preferred":[
         "Rezbartsi"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0632\u0628\u0627\u0631\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Rezbartsi"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d4\u10d6\u10d1\u10d0\u10e0\u10ea\u10d8"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101859027,
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325429,
     "wof:name":"\u0420\u0435\u0437\u0431\u0430\u0440\u0446\u0438",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

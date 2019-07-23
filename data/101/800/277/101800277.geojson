@@ -22,12 +22,18 @@
     "name:bul_x_variant":[
         "\u0411\u0435\u043d\u043a\u043e\u0432\u0441\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Benkovski"
+    ],
     "name:eng_x_preferred":[
         "Benkovski"
     ],
     "name:eng_x_variant":[
         "Kiril",
         "Kirlik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06a9\u0648\u0648\u0633\u06a9\u06cc"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0435\u043d\u043a\u043e\u0432\u0441\u043a\u0438"
@@ -94,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325499,
     "wof:name":"\u0411\u0435\u043d\u043a\u043e\u0432\u0441\u043a\u0438",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

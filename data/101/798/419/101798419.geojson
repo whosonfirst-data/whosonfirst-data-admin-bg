@@ -19,7 +19,13 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Ruec"
+    ],
     "name:eng_x_preferred":[
+        "Ruets"
+    ],
+    "name:fra_x_preferred":[
         "Ruets"
     ],
     "name:kaz_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101798419,
-    "wof:lastmodified":1561837448,
+    "wof:lastmodified":1563325341,
     "wof:name":"\u0420\u0443\u0435\u0446",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Koprivlen"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u067e\u0631\u06cc\u0648\u0644\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Koprivlen"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043f\u0440\u0438\u0432\u043b\u0435\u043d"
     ],
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":101794505,
-    "wof:lastmodified":1561837453,
+    "wof:lastmodified":1563325462,
     "wof:name":"\u041a\u043e\u043f\u0440\u0438\u0432\u043b\u0435\u043d",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -19,11 +19,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Brestnik"
+    ],
     "name:eng_x_preferred":[
         "Brestnik"
     ],
     "name:eng_x_variant":[
         "Kara Agach"
+    ],
+    "name:fra_x_preferred":[
+        "Brestnik"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442\u043d\u0438\u043a"
@@ -89,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325489,
     "wof:name":"\u0411\u0440\u0435\u0441\u0442\u043d\u0438\u043a",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

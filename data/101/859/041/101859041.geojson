@@ -41,6 +41,12 @@
         "Zv\u00fearka",
         "Zv\u00fenarka"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0627\u0646\u0627\u0631\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Zvanarka"
+    ],
     "name:kaz_x_preferred":[
         "\u0417\u0432\u044b\u043d\u0430\u0440\u043a\u0430"
     ],
@@ -102,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325426,
     "wof:name":"\u0417\u0432\u044a\u043d\u0430\u0440\u043a\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

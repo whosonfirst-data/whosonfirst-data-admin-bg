@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dobrovnica"
+    ],
     "name:eng_x_preferred":[
         "Dobrovnitsa"
     ],
@@ -28,7 +31,13 @@
         "Karezlii",
         "Karezliy"
     ],
+    "name:fra_x_preferred":[
+        "Dobrovnitsa"
+    ],
     "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u0446\u0430"
     ],
     "name:ron_x_preferred":[
@@ -90,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325257,
     "wof:name":"\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

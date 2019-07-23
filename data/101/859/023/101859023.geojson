@@ -32,6 +32,12 @@
         "Beli-Wir",
         "Maksutlar"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06cc \u0648\u06cc\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Beli Vir"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u0435\u043b\u0438-\u0412\u0438\u0440"
     ],
@@ -96,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325426,
     "wof:name":"\u0411\u0435\u043b\u0438 \u0432\u0438\u0440",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

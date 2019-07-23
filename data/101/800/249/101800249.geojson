@@ -25,6 +25,15 @@
     "name:eng_x_preferred":[
         "Kumoniga"
     ],
+    "name:eng_x_variant":[
+        "Komuniga"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0648\u0646\u06cc\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Komuniga"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043c\u0443\u043d\u0438\u0433\u0430"
     ],
@@ -87,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325502,
     "wof:name":"\u041a\u043e\u043c\u0443\u043d\u0438\u0433\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

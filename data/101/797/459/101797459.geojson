@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Vesselina Breskovska"
     ],
+    "name:fra_x_variant":[
+        "Veselina"
+    ],
     "name:kaz_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0438\u043d\u0430"
     ],
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325224,
     "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0438\u043d\u0430",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

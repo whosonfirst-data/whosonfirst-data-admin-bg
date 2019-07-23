@@ -26,6 +26,9 @@
         "Kara Demirler",
         "Polkovnik Zheljazovo"
     ],
+    "name:fra_x_preferred":[
+        "Polkovnik Zhelyazovo"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10da\u10d9\u10dd\u10d5\u10dc\u10d8\u10d9-\u10df\u10d4\u10da\u10d8\u10d0\u10d6\u10dd\u10d5\u10dd"
     ],
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325475,
     "wof:name":"\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a \u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

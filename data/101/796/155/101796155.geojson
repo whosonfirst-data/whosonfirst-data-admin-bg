@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001115,
-    "geom:area_square_m":9951256.815485,
+    "geom:area_square_m":9951256.815489,
     "geom:bbox":"23.6732486779,43.7543863959,23.7508597311,43.8022424577",
     "geom:latitude":43.78003,
     "geom:longitude":23.716263,
@@ -17,6 +17,9 @@
     "mps:longitude":23.71891,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06a9\u0648\u0632\u0644\u0648\u062f\u0648\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u0437\u043b\u043e\u0434\u0443\u0439"
     ],
@@ -48,8 +51,17 @@
     "name:fra_x_preferred":[
         "Kozlodouy"
     ],
+    "name:fra_x_variant":[
+        "Kozlodou\u00ef"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05d6\u05dc\u05d5\u05d3\u05d5\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Kosloduj"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0566\u056c\u0578\u0564\u0578\u0582\u0575"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ba\u30ed\u30c9\u30a5\u30a4"
@@ -63,6 +75,9 @@
     "name:lit_x_preferred":[
         "Kozlodujus"
     ],
+    "name:nld_x_preferred":[
+        "Kozloduy"
+    ],
     "name:pol_x_preferred":[
         "Koz\u0142oduj"
     ],
@@ -71,6 +86,9 @@
     ],
     "name:ron_x_preferred":[
         "Kozlodui"
+    ],
+    "name:rup_x_preferred":[
+        "Coslodui"
     ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0437\u043b\u043e\u0434\u0443\u0439"
@@ -83,6 +101,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0437\u043b\u043e\u0434\u0443\u0458"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u043e\u0434\u0443\u0439"
+    ],
+    "name:tur_x_preferred":[
+        "Kozloduy"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0437\u043b\u043e\u0434\u0443\u0439"
@@ -147,7 +171,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642034,
+    "wof:lastmodified":1563325406,
     "wof:name":"\u041a\u043e\u0437\u043b\u043e\u0434\u0443\u0439",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

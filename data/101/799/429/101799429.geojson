@@ -31,6 +31,9 @@
         "Ormanlia",
         "Ormanliya"
     ],
+    "name:fra_x_preferred":[
+        "Lesnovo"
+    ],
     "name:jpn_x_preferred":[
         "\u30ec\u30b9\u30ce\u30f4\u30a9"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:msa_x_preferred":[
         "Lesnovo"
+    ],
+    "name:pol_x_preferred":[
+        "Lesnowo"
     ],
     "name:ron_x_preferred":[
         "Lesnovo"
@@ -103,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837444,
+    "wof:lastmodified":1563325281,
     "wof:name":"\u041b\u0435\u0441\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

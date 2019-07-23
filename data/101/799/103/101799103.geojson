@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000155,
-    "geom:area_square_m":1428006.307321,
+    "geom:area_square_m":1428006.307322,
     "geom:bbox":"24.3749986568,41.7356348458,24.4089341352,41.7492020909",
     "geom:latitude":41.742801,
     "geom:longitude":24.395531,
@@ -17,10 +17,16 @@
     "mps:longitude":24.402343,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u06cc\u0646"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0435\u0432\u0438\u043d"
     ],
     "name:ceb_x_preferred":[
+        "Devin"
+    ],
+    "name:ces_x_preferred":[
         "Devin"
     ],
     "name:ckb_x_preferred":[
@@ -35,6 +41,9 @@
     "name:fas_x_preferred":[
         "\u062f\u0648\u06cc\u0646\u060c \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Devin"
     ],
@@ -44,8 +53,17 @@
     "name:ita_x_preferred":[
         "Devin"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30f4\u30a3\u30f3"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u0435\u0432\u0438\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Devin"
+    ],
+    "name:pol_x_preferred":[
+        "Dewin"
     ],
     "name:por_x_preferred":[
         "Devin"
@@ -56,6 +74,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0435\u0432\u0438\u043d"
     ],
+    "name:slv_x_preferred":[
+        "Devin"
+    ],
     "name:spa_x_preferred":[
         "Devin"
     ],
@@ -64,6 +85,9 @@
     ],
     "name:swe_x_preferred":[
         "Devin"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u0435\u0432\u0438\u043d"
     ],
     "name:tur_x_preferred":[
         "D\u00f6vlen"
@@ -125,7 +149,7 @@
         }
     ],
     "wof:id":101799103,
-    "wof:lastmodified":1527641681,
+    "wof:lastmodified":1563325240,
     "wof:name":"\u0414\u0435\u0432\u0438\u043d",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

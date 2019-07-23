@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Resen"
     ],
+    "name:fra_x_preferred":[
+        "Resen"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d4\u10e1\u10d4\u10dc\u10d8"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":101798389,
-    "wof:lastmodified":1561837450,
+    "wof:lastmodified":1563325366,
     "wof:name":"\u0420\u0435\u0441\u0435\u043d",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

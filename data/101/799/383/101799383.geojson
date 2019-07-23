@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
+    "geom:area_square_m":1787375.848743,
     "geom:bbox":"24.9438718767,42.0582207807,24.9633814403,42.0734254258",
     "geom:latitude":42.0653,
     "geom:longitude":24.953697,
@@ -27,6 +28,9 @@
         "Boljrci",
         "Kara Reiz",
         "Kara-reizovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u06cc\u0627\u0631\u062a\u0633\u06cc"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10da\u10d8\u10d0\u10e0\u10ea\u10d8"
@@ -90,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641686,
+    "wof:lastmodified":1563325261,
     "wof:name":"\u0411\u043e\u043b\u044f\u0440\u0446\u0438",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":2605775.904255,
+    "geom:area_square_m":2605775.904254,
     "geom:bbox":"24.0474242681,42.6919914208,24.0962399524,42.70860467",
     "geom:latitude":42.698643,
     "geom:longitude":24.077759,
@@ -33,6 +33,15 @@
         "Tschelopetsch",
         "\u010celope\u010d"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0644\u0648\u067e\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Chelopech"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05dc\u05d5\u05e4\u05e5'"
+    ],
     "name:ita_x_preferred":[
         "\u010celope\u010d"
     ],
@@ -45,14 +54,26 @@
     "name:msa_x_preferred":[
         "Chelopech"
     ],
+    "name:nld_x_preferred":[
+        "Chelopech"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Cze\u0142opecz"
+    ],
     "name:ron_x_preferred":[
         "Celopeci"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0435\u043b\u043e\u043f\u0435\u0447"
     ],
+    "name:spa_x_preferred":[
+        "Chelopech"
+    ],
     "name:swe_x_preferred":[
         "Tjelopetj"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7elope\u00e7"
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043b\u043e\u043f\u0435\u0447"
@@ -113,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641932,
+    "wof:lastmodified":1563325351,
     "wof:name":"\u0427\u0435\u043b\u043e\u043f\u0435\u0447",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

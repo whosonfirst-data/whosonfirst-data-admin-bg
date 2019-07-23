@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0441\u043f\u0435\u0440\u0438\u0445\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Isperikhovo"
+    ],
     "name:eng_x_colloquial":[
         "Adthnkioy",
         "Adtnkioy",
@@ -34,6 +37,9 @@
         "Aydinevo",
         "Aydinovo",
         "Isperichowo",
+        "Isperihovo"
+    ],
+    "name:fra_x_preferred":[
         "Isperihovo"
     ],
     "name:kaz_x_preferred":[
@@ -97,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325490,
     "wof:name":"\u0418\u0441\u043f\u0435\u0440\u0438\u0445\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

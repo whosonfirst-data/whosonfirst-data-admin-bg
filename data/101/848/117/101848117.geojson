@@ -25,6 +25,12 @@
     "name:eng_x_preferred":[
         "Stremtsi"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0631\u0645\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Stremtsi"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10e2\u10e0\u10d4\u10db\u10ea\u10d8"
     ],
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":101848117,
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325475,
     "wof:name":"\u0421\u0442\u0440\u0435\u043c\u0446\u0438",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

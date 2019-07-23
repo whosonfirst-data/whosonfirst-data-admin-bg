@@ -20,11 +20,23 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u0631\u064a\u062a\u0634"
     ],
+    "name:azb_x_preferred":[
+        "\u067e\u062a\u0631\u06cc\u0686"
+    ],
+    "name:bak_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u0447"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u044b\u0447"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0438\u0447"
     ],
     "name:ceb_x_preferred":[
         "Petrich"
+    ],
+    "name:ces_x_preferred":[
+        "Petri\u010d"
     ],
     "name:chu_x_preferred":[
         "\u041f\u0454\u0442\u0440\u0438\u0447\u044c"
@@ -37,6 +49,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03c4\u03c1\u03af\u03c4\u03c3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Petrich"
     ],
     "name:fas_x_preferred":[
         "\u067e\u062a\u0631\u06cc\u0686"
@@ -58,6 +73,12 @@
     ],
     "name:hrv_x_preferred":[
         "Petri\u010d"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u057f\u0580\u056b\u0579"
+    ],
+    "name:isl_x_preferred":[
+        "Petrits"
     ],
     "name:ita_x_preferred":[
         "Petri\u010d"
@@ -89,6 +110,9 @@
     "name:ron_x_preferred":[
         "Petrici"
     ],
+    "name:rup_x_preferred":[
+        "Petrich"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u0440\u0438\u0447"
     ],
@@ -106,6 +130,9 @@
     ],
     "name:swe_x_preferred":[
         "Petritsj"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u0438\u0447"
     ],
     "name:tur_x_preferred":[
         "Petri\u00e7"
@@ -171,7 +198,7 @@
         }
     ],
     "wof:id":101799163,
-    "wof:lastmodified":1527641689,
+    "wof:lastmodified":1563325273,
     "wof:name":"\u041f\u0435\u0442\u0440\u0438\u0447",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

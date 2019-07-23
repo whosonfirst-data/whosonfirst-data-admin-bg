@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000357,
+    "geom:area_square_m":3305557.087615,
     "geom:bbox":"25.393425657,41.5116969102,25.4269008678,41.5410104091",
     "geom:latitude":41.524691,
     "geom:longitude":25.408965,
@@ -15,6 +16,9 @@
     "mps:longitude":25.410614,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0645\u0686\u06cc\u0644\u06af\u0631\u0627\u062f"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u043e\u043c\u0447\u0438\u043b\u0433\u0440\u0430\u0434"
     ],
@@ -23,6 +27,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06c6\u0645\u0686\u06cc\u0644\u06af\u0631\u0627\u062f"
+    ],
+    "name:dan_x_preferred":[
+        "Momtjilgrad"
     ],
     "name:deu_x_preferred":[
         "Momtschilgrad"
@@ -62,11 +69,17 @@
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05de\u05e6'\u05d9\u05dc\u05d2\u05e8\u05d0\u05d3"
     ],
+    "name:ita_x_preferred":[
+        "Momchilgrad"
+    ],
     "name:jpn_x_preferred":[
         "\u30e2\u30e0\u30c1\u30eb\u30b0\u30e9\u30c8"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u043c\u0447\u0438\u043b\u0433\u0440\u0430\u0434"
+    ],
+    "name:nld_x_preferred":[
+        "Momchilgrad"
     ],
     "name:pol_x_preferred":[
         "Momczi\u0142grad"
@@ -88,6 +101,9 @@
     ],
     "name:swe_x_preferred":[
         "Momtjilgrad"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u043e\u043c\u0447\u0438\u043b\u0433\u0440\u0430\u0434"
     ],
     "name:tur_x_preferred":[
         "Mestanl\u0131"
@@ -155,7 +171,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641687,
+    "wof:lastmodified":1563325264,
     "wof:name":"\u041c\u043e\u043c\u0447\u0438\u043b\u0433\u0440\u0430\u0434",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

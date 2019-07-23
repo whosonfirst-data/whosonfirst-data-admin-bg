@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u0434\u0440\u0430\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Vedrare"
+    ],
     "name:eng_x_preferred":[
         "Vedrare"
     ],
@@ -26,6 +29,9 @@
         "Kufalare",
         "Vidrare",
         "Wedrare"
+    ],
+    "name:fra_x_preferred":[
+        "Vedrare"
     ],
     "name:kaz_x_preferred":[
         "\u0412\u0435\u0434\u0440\u0430\u0440\u0435"
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837449,
+    "wof:lastmodified":1563325363,
     "wof:name":"\u0412\u0435\u0434\u0440\u0430\u0440\u0435",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

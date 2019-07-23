@@ -39,6 +39,9 @@
         "D\u00felboki",
         "Dalboki"
     ],
+    "name:fra_x_preferred":[
+        "Dalboki"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u044b\u043b\u0431\u043e\u043a\u0438"
     ],
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837447,
+    "wof:lastmodified":1563325331,
     "wof:name":"\u0414\u044a\u043b\u0431\u043e\u043a\u0438",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

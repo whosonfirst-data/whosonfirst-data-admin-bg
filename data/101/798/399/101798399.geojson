@@ -19,7 +19,13 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u0441\u0430\u0440\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Pisarevo"
+    ],
     "name:eng_x_preferred":[
+        "Pisarevo"
+    ],
+    "name:fra_x_preferred":[
         "Pisarevo"
     ],
     "name:kaz_x_preferred":[
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":101798399,
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325303,
     "wof:name":"\u041f\u0438\u0441\u0430\u0440\u0435\u0432\u043e",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

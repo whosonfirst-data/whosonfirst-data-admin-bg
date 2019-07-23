@@ -50,6 +50,12 @@
         "Sriklovo",
         "\u00c5 riklevo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u0631\u0627\u06a9\u0644\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Shtraklevo"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e5\u30c8\u30a5\u30e9\u30af\u30ec\u30f4\u30a9"
     ],
@@ -121,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837440,
+    "wof:lastmodified":1563325213,
     "wof:name":"\u0429\u0440\u044a\u043a\u043b\u0435\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

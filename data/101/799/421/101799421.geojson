@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0438\u0437\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Orizovo"
+    ],
     "name:deu_x_preferred":[
         "Orisowo"
     ],
@@ -29,6 +32,9 @@
         "Cheltikchii",
         "Cheltikchiy",
         "Orisowo"
+    ],
+    "name:fra_x_preferred":[
+        "Orizovo"
     ],
     "name:kaz_x_preferred":[
         "\u041e\u0440\u0438\u0437\u043e\u0432\u043e"
@@ -94,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325278,
     "wof:name":"\u041e\u0440\u0438\u0437\u043e\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

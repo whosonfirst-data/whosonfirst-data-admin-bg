@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000334,
-    "geom:area_square_m":3055290.601379,
+    "geom:area_square_m":3055290.601378,
     "geom:bbox":"22.9914196834,42.3545231286,23.0165851543,42.3848483416",
     "geom:latitude":42.368278,
     "geom:longitude":23.002632,
@@ -17,6 +17,9 @@
     "mps:longitude":23.003872,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0628\u0648 \u062f\u0648\u0644"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0431\u043e\u0432 \u0434\u043e\u043b"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0628\u06c6\u0628\u06c6\u06a4 \u062f\u06c6\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Bobov Dol"
     ],
     "name:eng_x_preferred":[
         "Bobovdol"
@@ -44,11 +50,20 @@
     "name:fra_x_preferred":[
         "Bobov Dol"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d1\u05d5\u05d1 \u05d3\u05d5\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "Bobov Dol"
+    ],
     "name:jpn_x_preferred":[
         "\u30dc\u30dc\u30d5\u30fb\u30c9\u30eb"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u043e\u0431\u043e\u0432-\u0414\u043e\u043b"
+    ],
+    "name:nld_x_preferred":[
+        "Bobov Dol"
     ],
     "name:por_x_preferred":[
         "Bobov Dol"
@@ -70,6 +85,12 @@
     ],
     "name:swe_x_preferred":[
         "Bobovdol"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0432-\u0414\u043e\u043b"
+    ],
+    "name:tur_x_preferred":[
+        "Bobov Dol"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0431\u043e\u0432-\u0414\u043e\u043b"
@@ -138,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641534,
+    "wof:lastmodified":1563325237,
     "wof:name":"\u0411\u043e\u0431\u043e\u0432 \u0434\u043e\u043b",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

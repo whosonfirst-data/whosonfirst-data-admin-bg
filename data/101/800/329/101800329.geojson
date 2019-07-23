@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0441\u043e\u043c\u0438\u0449\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u041c\u043e\u0441\u043e\u043c\u0438\u0449\u0435"
+    ],
     "name:ceb_x_preferred":[
         "Musomishta"
     ],
@@ -32,6 +35,12 @@
         "Musomishte",
         "Musomi\u00b5ta",
         "Mussomischta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u0648\u0645\u06cc\u0634\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Musomishta"
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0443\u0441\u043e\u043c\u0438\u0448\u0442\u0430"
@@ -102,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837457,
+    "wof:lastmodified":1563325509,
     "wof:name":"\u041c\u0443\u0441\u043e\u043c\u0438\u0449\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

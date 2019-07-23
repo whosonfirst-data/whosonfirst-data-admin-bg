@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Boyno"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Boyno"
+    ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10d8\u10dc\u10dd"
     ],
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101800265,
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325505,
     "wof:name":"\u0411\u043e\u0439\u043d\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

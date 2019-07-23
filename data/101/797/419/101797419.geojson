@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Kitanchevo"
     ],
+    "name:fra_x_preferred":[
+        "Kitanchevo"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u0438\u0442\u0430\u043d\u0447\u0435\u0432\u043e"
     ],
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":101797419,
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325203,
     "wof:name":"\u041a\u0438\u0442\u0430\u043d\u0447\u0435\u0432\u043e",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

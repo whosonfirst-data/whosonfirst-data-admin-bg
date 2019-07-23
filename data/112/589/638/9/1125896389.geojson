@@ -54,6 +54,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05e0\u05d9 \u05d1\u05d9\u05e5'"
     ],
+    "name:hun_x_preferred":[
+        "Napospart"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0587\u0561\u0575\u056b\u0576 \u0561\u0583"
     ],
@@ -90,6 +93,9 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0439 \u0411\u0435\u0440\u0435\u0433"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u044b\u0439 \u0431\u0435\u0440\u0435\u0433"
+    ],
     "name:slk_x_preferred":[
         "Slne\u010dn\u00e9 pobre\u017eie"
     ],
@@ -98,6 +104,9 @@
     ],
     "name:swe_x_preferred":[
         "Sunny Beach"
+    ],
+    "name:swe_x_variant":[
+        "Sl\u0103ntjev Brjag"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u044f\u0447\u043d\u0438\u0439 \u0431\u0435\u0440\u0435\u0433"
@@ -155,7 +164,7 @@
         }
     ],
     "wof:id":1125896389,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325559,
     "wof:name":"Slanchev Brjag",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

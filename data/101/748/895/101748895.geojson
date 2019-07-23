@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001914,
-    "geom:area_square_m":17475363.259997,
+    "geom:area_square_m":17475363.259998,
     "geom:bbox":"25.5991165,42.3920175,25.665229,42.444809",
     "geom:latitude":42.421209,
     "geom:longitude":25.632999,
@@ -24,17 +24,41 @@
     "name:ast_x_preferred":[
         "Stara Zagora"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u06af\u0648\u0631\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Stara Zaqora"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0442\u0430\u0440\u0430-\u0417\u0430\u0433\u043e\u0440\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0430-\u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cd\u099f\u09be\u09b0\u09be \u099c\u09be\u0997\u09cb\u09b0\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:ceb_x_preferred":[
+        "Stara Zagora"
     ],
     "name:ces_x_preferred":[
         "Stara Zagora"
     ],
     "name:chu_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \ua640\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:cym_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:dan_x_preferred":[
+        "Stara Zagora"
     ],
     "name:deu_x_preferred":[
         "Stara Sagora"
@@ -49,6 +73,15 @@
         "Eski Zagra",
         "SZR"
     ],
+    "name:epo_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:est_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:eus_x_preferred":[
+        "Stara Zagora"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u06af\u0648\u0631\u0627"
     ],
@@ -58,20 +91,41 @@
     "name:fra_x_preferred":[
         "Stara Zagora"
     ],
+    "name:frr_x_preferred":[
+        "Stara Sagora"
+    ],
     "name:ger_x_variant":[
         "Stara Sagora"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acd\u0a9f\u0abe\u0ab0\u0abe \u0a9d\u0abe\u0a97\u0acb\u0ab0\u0abe"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d8\u05d0\u05e8\u05d4 \u05d6\u05d0\u05d2\u05d5\u05e8\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u091f\u093e\u0930\u093e \u091c\u0917\u094b\u0930\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:hun_x_preferred":[
+        "Sztara Zagora"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0561\u0580\u0561 \u0536\u0561\u0563\u0578\u0580\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Stara Zagora"
     ],
     "name:ita_x_preferred":[
         "Stara Zagora"
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30bf\u30e9\u30fb\u30b6\u30b4\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0c9f\u0cbe\u0cb0\u0cbe \u0c9d\u0c97\u0ccb\u0cb0\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10e2\u10d0\u10e0\u10d0-\u10d6\u10d0\u10d2\u10dd\u10e0\u10d0"
@@ -85,13 +139,31 @@
     "name:lav_x_preferred":[
         "Stara Zagora"
     ],
+    "name:lit_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:ltz_x_preferred":[
+        "Stara Sagora"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094d\u091f\u093e\u0930\u093e \u091c\u093c\u0917\u094b\u0930\u093e"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430-\u0417\u0430\u0433\u043e\u0440\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Stara Zagora"
+    ],
     "name:nld_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:nno_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:nob_x_preferred":[
         "Stara Zagora"
     ],
     "name:oss_x_preferred":[
@@ -106,11 +178,29 @@
     "name:por_x_preferred":[
         "Stara Zagora"
     ],
+    "name:ron_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:rup_x_preferred":[
+        "Stara Zagora"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0430-\u0417\u0430\u0433\u043e\u0440\u0430"
     ],
+    "name:sco_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dca\u0da7\u0dcf\u0dbb\u0dcf \u0dc3\u0d9c\u0ddc\u0dbb\u0dcf"
+    ],
     "name:slk_x_preferred":[
         "Star\u00e1 Zagora"
+    ],
+    "name:slv_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:spa_x_preferred":[
+        "Stara Zagora"
     ],
     "name:spa_x_variant":[
         "Ztara Zagora"
@@ -120,6 +210,21 @@
     ],
     "name:swe_x_preferred":[
         "Stara Zagora"
+    ],
+    "name:szl_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb8\u0bcd\u0b9f\u0bbe\u0bb0\u0bbe  \u0b9a\u0bbe\u0b95\u0bcb\u0bb0\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0430-\u0417\u0430\u0433\u043e\u0440\u0430"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4d\u0c1f\u0c3e\u0c30\u0c3e \u0c1c\u0c17\u0c4b\u0c30\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2a\u0e15\u0e32\u0e23\u0e32 \u0e0b\u0e32\u0e42\u0e01\u0e23\u0e32"
     ],
     "name:tuk_x_preferred":[
         "Stara-Zagora"
@@ -135,6 +240,18 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u06af\u0648\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:vol_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:war_x_preferred":[
+        "Stara Zagora"
+    ],
+    "name:yue_x_preferred":[
+        "\u820a\u624e\u6208\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u820a\u624e\u6208\u62c9"
@@ -283,7 +400,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527688465,
+    "wof:lastmodified":1563325447,
     "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

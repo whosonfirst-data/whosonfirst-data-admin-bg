@@ -25,6 +25,12 @@
     "name:eng_x_preferred":[
         "Ribnovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0628\u0646\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ribnovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0420\u0438\u0431\u043d\u043e\u0432\u043e"
     ],
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":101800297,
-    "wof:lastmodified":1561837457,
+    "wof:lastmodified":1563325506,
     "wof:name":"\u0420\u0438\u0431\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

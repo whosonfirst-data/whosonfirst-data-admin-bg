@@ -22,6 +22,9 @@
     "name:bul_x_variant":[
         "\u0415\u0437\u0435\u0440\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Ezerche"
+    ],
     "name:eng_x_colloquial":[
         "Ezerce",
         "Jezerce"
@@ -40,6 +43,9 @@
         "Jezerveco",
         "Jezer\u010de"
     ],
+    "name:fra_x_preferred":[
+        "Ezerche"
+    ],
     "name:kat_x_preferred":[
         "\u10d4\u10d6\u10d4\u10e0\u10e9\u10d4"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0415\u0437\u0435\u0440\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ezertje"
     ],
     "name:tur_x_preferred":[
         "Ezer\u00e7e"
@@ -112,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325160,
     "wof:name":"\u0415\u0437\u0435\u0440\u0447\u0435",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

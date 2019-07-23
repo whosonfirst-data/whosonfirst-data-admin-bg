@@ -25,6 +25,9 @@
     "name:eng_x_variant":[
         "Rogosch"
     ],
+    "name:fra_x_preferred":[
+        "Rogosh"
+    ],
     "name:kaz_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0448"
     ],
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325265,
     "wof:name":"\u0420\u043e\u0433\u043e\u0448",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

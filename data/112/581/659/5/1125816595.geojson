@@ -21,10 +21,19 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0440\u0430\u043d\u043a\u0443\u043b\u0430\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Durankulak"
+    ],
     "name:deu_x_preferred":[
         "Durankulak"
     ],
     "name:eng_x_preferred":[
+        "Durankulak"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u0627\u0646\u06a9\u0648\u0644\u0627\u06a9"
+    ],
+    "name:fra_x_preferred":[
         "Durankulak"
     ],
     "name:heb_x_preferred":[
@@ -43,6 +52,9 @@
         "R\u0103cari"
     ],
     "name:rus_x_preferred":[
+        "\u0414\u0443\u0440\u0430\u043d\u043a\u0443\u043b\u0430\u043a"
+    ],
+    "name:srp_x_preferred":[
         "\u0414\u0443\u0440\u0430\u043d\u043a\u0443\u043b\u0430\u043a"
     ],
     "name:swe_x_preferred":[
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1125816595,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325556,
     "wof:name":"Durankulak",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

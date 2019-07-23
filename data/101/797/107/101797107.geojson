@@ -32,6 +32,12 @@
         "Komoshtica",
         "Komo\u00b5tica"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0648\u0634\u062a\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Komoshtitsa"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043c\u043e\u0448\u0442\u0438\u0446\u0430"
     ],
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325198,
     "wof:name":"\u041a\u043e\u043c\u043e\u0449\u0438\u0446\u0430",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

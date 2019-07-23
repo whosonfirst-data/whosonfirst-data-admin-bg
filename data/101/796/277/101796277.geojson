@@ -30,8 +30,17 @@
         "Kodzha Olar",
         "Popgruewo"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u067e\u06af\u0631\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Popgruevo"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u043e\u043f\u0433\u0440\u0443\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Popgruewo"
     ],
     "name:por_x_preferred":[
         "Popgruevo"
@@ -96,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325409,
     "wof:name":"\u041f\u043e\u043f\u0433\u0440\u0443\u0435\u0432\u043e",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

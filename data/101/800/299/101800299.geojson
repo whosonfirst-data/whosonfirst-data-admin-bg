@@ -25,6 +25,12 @@
     "name:eng_x_variant":[
         "Bukowo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Bukovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0432\u043e"
     ],
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837457,
+    "wof:lastmodified":1563325508,
     "wof:name":"\u0411\u0443\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

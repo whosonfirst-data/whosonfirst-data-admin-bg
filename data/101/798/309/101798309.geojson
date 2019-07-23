@@ -28,8 +28,14 @@
         "Planinica",
         "Planiniza"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0627\u0646\u06cc\u0646\u06cc\u062a\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
         "Planinica"
+    ],
+    "name:fra_x_variant":[
+        "Planinitsa"
     ],
     "name:hbs_x_preferred":[
         "Planinica"
@@ -102,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837444,
+    "wof:lastmodified":1563325298,
     "wof:name":"\u041f\u043b\u0430\u043d\u0438\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Gornik"
     ],
+    "name:fra_x_preferred":[
+        "Gornik"
+    ],
     "name:kaz_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0438\u043a"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "G\u00f3rnik"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0438\u043a"
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837440,
+    "wof:lastmodified":1563325211,
     "wof:name":"\u0413\u043e\u0440\u043d\u0438\u043a",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

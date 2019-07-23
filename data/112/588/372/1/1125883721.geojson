@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Nisovo"
     ],
+    "name:fra_x_preferred":[
+        "Nisovo"
+    ],
     "name:kaz_x_preferred":[
         "\u041d\u0438\u0441\u043e\u0432\u043e"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125883721,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325558,
     "wof:name":"Nisovo",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

@@ -27,6 +27,12 @@
         "Ada-K'oy",
         "Pototschniza"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062a\u0648\u0686\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Potochnitsa"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u043e\u0442\u043e\u0447\u043d\u0438\u0446\u0430"
     ],
@@ -86,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837457,
+    "wof:lastmodified":1563325507,
     "wof:name":"\u041f\u043e\u0442\u043e\u0447\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

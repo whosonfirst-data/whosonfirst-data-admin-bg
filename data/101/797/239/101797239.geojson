@@ -38,6 +38,9 @@
         "L\u00fedzhene",
         "L\u00fezhene"
     ],
+    "name:fra_x_preferred":[
+        "Malchika"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u043b\u0447\u0438\u043a\u0430"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u043b\u0447\u0438\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e1lchika"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0447\u0438\u043a\u0430"
@@ -97,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325222,
     "wof:name":"\u041c\u0430\u043b\u0447\u0438\u043a\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

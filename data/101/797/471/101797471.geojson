@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
     ],
+    "name:bul_x_variant":[
+        "\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
+    ],
     "name:eng_x_preferred":[
         "Novo Selo"
     ],
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325159,
     "wof:name":"\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

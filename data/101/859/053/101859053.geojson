@@ -26,6 +26,12 @@
         "Mogiljane",
         "Yurtchular"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06af\u06cc\u0644\u06cc\u0627\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Mogilyane"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435"
     ],
@@ -87,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325428,
     "wof:name":"\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

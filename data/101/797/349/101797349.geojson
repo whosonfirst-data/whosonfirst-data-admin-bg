@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00033,
+    "geom:area_square_m":2974818.383366,
     "geom:bbox":"27.756278638,43.1901548416,27.8196357351,43.2064570559",
     "geom:latitude":43.199494,
     "geom:longitude":27.783127,
@@ -37,6 +38,12 @@
         "Mal-Alad\u00e6n",
         "Malki Alad\u00fen",
         "Mal\u00fek Alad\u00fen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0632\u0631\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ezerovo"
     ],
     "name:kaz_x_preferred":[
         "\u0415\u0437\u0435\u0440\u043e\u0432\u043e"
@@ -97,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641526,
+    "wof:lastmodified":1563325189,
     "wof:name":"\u0415\u0437\u0435\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

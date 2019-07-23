@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000573,
-    "geom:area_square_m":5242041.533913,
+    "geom:area_square_m":5242041.533915,
     "geom:bbox":"24.5222011407,42.2569669309,24.560543632,42.2870166183",
     "geom:latitude":42.26942,
     "geom:longitude":24.541649,
@@ -17,11 +17,17 @@
     "mps:longitude":24.541939,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0627\u062f\u06cc\u0646\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435"
     ],
     "name:ceb_x_preferred":[
         "S\u016dedinenie"
+    ],
+    "name:ces_x_preferred":[
+        "S\u0103edinenie"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u0627\u06cc\u06ce\u062f\u06cc\u0646\u06ce\u0646\u06cc\u06ce"
@@ -32,11 +38,26 @@
     "name:eng_x_preferred":[
         "Golyamo Konare"
     ],
+    "name:eng_x_variant":[
+        "Saedinenie"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0626\u062f\u06cc\u0646\u0646\u06cc\u0647\u060c \u0627\u0633\u062a\u0627\u0646 \u067e\u0644\u0648\u062f\u06cc\u0641"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0626\u062f\u06cc\u0646\u0646\u06cc\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d3\u05d9\u05e0\u05e0\u05d9\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30a2\u30c7\u30a3\u30cd\u30cb\u30a8"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u044b\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Saedinenie"
     ],
     "name:pol_x_preferred":[
         "Syedinenie"
@@ -58,6 +79,12 @@
     ],
     "name:swe_x_preferred":[
         "Sedinenie"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0435\u043d\u0434\u0438\u043d\u0435\u043d\u0438\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "S\u0131edinenie"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0438\u0454\u0434\u0438\u043d\u0435\u043d\u0456\u0454"
@@ -119,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641931,
+    "wof:lastmodified":1563325347,
     "wof:name":"\u0421\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

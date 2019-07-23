@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u042f\u0433\u043e\u0434\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Jagodovo"
+    ],
     "name:eng_x_preferred":[
         "Yagodovo"
     ],
@@ -27,6 +30,9 @@
         "Jagodovo",
         "Katunski-Konare",
         "Katunsko Konare"
+    ],
+    "name:fra_x_preferred":[
+        "Yagodovo"
     ],
     "name:kaz_x_preferred":[
         "\u042f\u0433\u043e\u0434\u043e\u0432\u043e"
@@ -93,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837457,
+    "wof:lastmodified":1563325514,
     "wof:name":"\u042f\u0433\u043e\u0434\u043e\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

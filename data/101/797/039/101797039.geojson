@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000383,
-    "geom:area_square_m":3454052.609639,
+    "geom:area_square_m":3454052.609638,
     "geom:bbox":"23.6837211192,43.1362367017,23.7344029315,43.1550642717",
     "geom:latitude":43.144571,
     "geom:longitude":23.710474,
@@ -19,6 +19,9 @@
     "mz:is_current":-1,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0632\u062f\u0631\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0632\u062f\u0631\u0627"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u0437\u0434\u0440\u0430"
@@ -42,6 +45,9 @@
     "name:fra_x_preferred":[
         "Mezdra"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d6\u05d3\u05e8\u05d4"
+    ],
     "name:jpn_x_preferred":[
         "\u30e1\u30ba\u30c9\u30e9"
     ],
@@ -53,6 +59,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0435\u0437\u0434\u0440\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Mezdra"
     ],
     "name:pol_x_preferred":[
         "Mezdra"
@@ -71,6 +80,12 @@
     ],
     "name:srp_x_preferred":[
         "\u041c\u0435\u0437\u0434\u0440\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0435\u0437\u0434\u0440\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Mezra"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0437\u0434\u0440\u0430"
@@ -135,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641525,
+    "wof:lastmodified":1563325182,
     "wof:name":"\u041c\u0435\u0437\u0434\u0440\u0430",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

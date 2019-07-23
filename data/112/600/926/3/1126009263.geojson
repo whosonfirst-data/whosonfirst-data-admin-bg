@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Borovets"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0648\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Borovets"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0435\u0446"
     ],
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1126009263,
-    "wof:lastmodified":1561837460,
+    "wof:lastmodified":1563325572,
     "wof:name":"Borovets",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

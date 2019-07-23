@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000166,
+    "geom:area_square_m":1507531.888964,
     "geom:bbox":"23.2629818136,42.7758104169,23.2820481596,42.793522848",
     "geom:latitude":42.783682,
     "geom:longitude":23.273198,
@@ -21,10 +22,19 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0430\u043c\u043e\u0440"
     ],
+    "name:eng_x_preferred":[
+        "Mramor"
+    ],
     "name:fra_x_preferred":[
         "Mramor"
     ],
     "name:hbs_x_preferred":[
+        "Mramor"
+    ],
+    "name:hrv_x_preferred":[
+        "Mramor"
+    ],
+    "name:nld_x_preferred":[
         "Mramor"
     ],
     "name:srp_x_preferred":[
@@ -73,7 +83,7 @@
         }
     ],
     "wof:id":101798045,
-    "wof:lastmodified":1527641931,
+    "wof:lastmodified":1563325342,
     "wof:name":"\u041c\u0440\u0430\u043c\u043e\u0440",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

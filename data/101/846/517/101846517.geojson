@@ -35,6 +35,12 @@
         "K\u00fcsseler",
         "Telerik"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u0631\u06cc\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Telerig"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u0435\u043b\u0435\u0440\u0438\u0433"
     ],
@@ -98,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325471,
     "wof:name":"\u0422\u0435\u043b\u0435\u0440\u0438\u0433",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

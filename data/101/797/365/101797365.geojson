@@ -27,6 +27,9 @@
         "Sagoritshe",
         "Zagoricho"
     ],
+    "name:fra_x_preferred":[
+        "Zagoriche"
+    ],
     "name:kaz_x_preferred":[
         "\u0417\u0430\u0433\u043e\u0440\u0438\u0447\u0435"
     ],
@@ -89,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325149,
     "wof:name":"\u0417\u0430\u0433\u043e\u0440\u0438\u0447\u0435",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

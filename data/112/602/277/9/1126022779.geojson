@@ -27,8 +27,17 @@
     "name:eng_x_preferred":[
         "Rozhen"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0698\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Rozhen"
+    ],
     "name:mkd_x_preferred":[
         "\u0420\u043e\u0436\u0435\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Ro\u017cen"
     ],
     "name:ron_x_preferred":[
         "Rojen"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1126022779,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325552,
     "wof:name":"Rozhen",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

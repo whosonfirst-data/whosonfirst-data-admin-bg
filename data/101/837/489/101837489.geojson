@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00028,
+    "geom:area_square_m":2516712.678628,
     "geom:bbox":"24.1125043324,43.2612096352,24.1522012681,43.2840343143",
     "geom:latitude":43.273106,
     "geom:longitude":24.130538,
@@ -32,7 +33,11 @@
     ],
     "name:eng_x_variant":[
         "Rubzi",
-        "Rupci"
+        "Rupci",
+        "Vidin Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u06cc\u062f\u06cc\u0646"
     ],
     "name:fra_x_preferred":[
         "Vidin"
@@ -46,11 +51,17 @@
     "name:ron_x_preferred":[
         "Comuna Vidin"
     ],
+    "name:ron_x_variant":[
+        "Ob\u0219tina Vidin"
+    ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0434\u0438\u043d"
     ],
     "name:swe_x_preferred":[
         "Obsjtina Vidin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0434\u0438\u043d"
     ],
     "name:unk_x_variant":[
         "Rubzi"
@@ -105,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715314,
+    "wof:lastmodified":1563325525,
     "wof:name":"\u0420\u0443\u043f\u0446\u0438",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

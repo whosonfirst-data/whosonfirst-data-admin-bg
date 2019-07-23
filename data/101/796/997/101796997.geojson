@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Rosen"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0633\u0646"
+    ],
     "name:fra_x_preferred":[
         "Rosen Bar\u010dovski"
+    ],
+    "name:fra_x_variant":[
+        "Rosen"
     ],
     "name:ita_x_preferred":[
         "Rosen Bar\u010dovski"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":101796997,
-    "wof:lastmodified":1561837450,
+    "wof:lastmodified":1563325378,
     "wof:name":"\u0420\u043e\u0441\u0435\u043d",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

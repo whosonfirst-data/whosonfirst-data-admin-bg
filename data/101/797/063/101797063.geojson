@@ -38,6 +38,9 @@
         "T\u00fernak",
         "Tarnak"
     ],
+    "name:fra_x_preferred":[
+        "Tarnak"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u044b\u0440\u043d\u0430\u043a"
     ],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837438,
+    "wof:lastmodified":1563325178,
     "wof:name":"\u0422\u044a\u0440\u043d\u0430\u043a",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

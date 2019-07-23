@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000297,
+    "geom:area_square_m":2644922.769734,
     "geom:bbox":"27.146685977,43.9834991677,27.1700926336,44.0116023915",
     "geom:latitude":43.996819,
     "geom:longitude":27.161453,
@@ -20,7 +21,14 @@
     ],
     "name:bul_x_variant":[
         "Profesor Ishirkovo",
-        "\u041f\u0440\u043e\u0444\u0435\u0441\u043e\u0440 \u0418\u0448\u0438\u0440\u043a\u043e\u0432\u043e"
+        "\u041f\u0440\u043e\u0444\u0435\u0441\u043e\u0440 \u0418\u0448\u0438\u0440\u043a\u043e\u0432\u043e",
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Silistra"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Silistra"
     ],
     "name:eng_x_colloquial":[
         "Profesor Jsirkowo"
@@ -32,10 +40,38 @@
         "Cocina",
         "Kochina",
         "Profesor J\u00b5irkowo",
-        "Profsor Ishirkovo"
+        "Profsor Ishirkovo",
+        "Silistra Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0633\u06cc\u0644\u06cc\u0633\u062a\u0631\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Silistra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10da\u10d8\u10e1\u10e2\u10e0\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Silistra"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Silistra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Silistra"
     ],
     "name:unk_x_variant":[
         "Kochina"
+    ],
+    "name:vie_x_preferred":[
+        "Silistra"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u5229\u65af\u7279\u62c9\u5e02"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
@@ -81,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642035,
+    "wof:lastmodified":1563325408,
     "wof:name":"\u041f\u0440\u043e\u0444\u0435\u0441\u043e\u0440 \u0418\u0448\u0438\u0440\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

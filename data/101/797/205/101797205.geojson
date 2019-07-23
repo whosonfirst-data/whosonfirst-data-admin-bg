@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0435\u0440\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Staverci"
+    ],
     "name:eng_x_colloquial":[
         "Stavertst",
         "Stavertsth",
@@ -34,6 +37,9 @@
         "Stavretsi",
         "Stawerzi"
     ],
+    "name:fra_x_preferred":[
+        "Stavertsi"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0435\u0440\u0446\u0438"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0432\u0435\u0440\u0446\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "St\u00e1vertsi"
     ],
     "name:swe_x_preferred":[
         "Stavertsi"
@@ -96,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837438,
+    "wof:lastmodified":1563325180,
     "wof:name":"\u0421\u0442\u0430\u0432\u0435\u0440\u0446\u0438",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

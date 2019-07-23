@@ -33,6 +33,9 @@
     "name:epo_x_preferred":[
         "Lozeneco"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0632\u0646\u062a\u0633"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10dd\u10d6\u10d4\u10dc\u10d4\u10ea\u10d8"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325391,
     "wof:name":"\u041b\u043e\u0437\u0435\u043d\u0435\u0446",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

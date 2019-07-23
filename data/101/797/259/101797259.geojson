@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Petarnitsa"
     ],
+    "name:fra_x_preferred":[
+        "Petarnitsa"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0435\u0442\u044b\u0440\u043d\u0438\u0446\u0430"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u044b\u0440\u043d\u0438\u0446\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Petarnitsa"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0438\u0440\u043d\u0438\u0446\u044f"
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":101797259,
-    "wof:lastmodified":1561837438,
+    "wof:lastmodified":1563325170,
     "wof:name":"\u041f\u0435\u0442\u044a\u0440\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

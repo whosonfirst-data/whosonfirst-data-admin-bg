@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000269,
-    "geom:area_square_m":2435923.514935,
+    "geom:area_square_m":2435923.514933,
     "geom:bbox":"25.8653485912,42.9196243754,25.9076268633,42.9368119285",
     "geom:latitude":42.928378,
     "geom:longitude":25.884702,
@@ -17,6 +17,9 @@
     "mps:longitude":25.877336,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u0646\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0415\u043b\u0435\u043d\u0430"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0626\u06ce\u0644\u06ce\u0646\u0627"
+    ],
+    "name:dan_x_preferred":[
+        "Elena"
     ],
     "name:deu_x_preferred":[
         "Elena"
@@ -37,6 +43,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0646\u0627\u060c \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Elena"
@@ -52,6 +61,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30ec\u30ca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d4\u10dc\u10d0"
     ],
     "name:nld_x_preferred":[
         "Elena"
@@ -75,6 +87,12 @@
         "\u0415\u043b\u0435\u043d\u0430"
     ],
     "name:swe_x_preferred":[
+        "Elena"
+    ],
+    "name:tat_x_preferred":[
+        "\u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:tur_x_preferred":[
         "Elena"
     ],
     "name:ukr_x_preferred":[
@@ -138,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641522,
+    "wof:lastmodified":1563325157,
     "wof:name":"\u0415\u043b\u0435\u043d\u0430",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

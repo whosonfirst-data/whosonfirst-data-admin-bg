@@ -22,7 +22,13 @@
     "name:bul_x_variant":[
         "Grohotno"
     ],
+    "name:ceb_x_preferred":[
+        "Grokhotno"
+    ],
     "name:eng_x_preferred":[
+        "Grohotno"
+    ],
+    "name:fra_x_preferred":[
         "Grohotno"
     ],
     "name:kaz_x_preferred":[
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":101859017,
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325431,
     "wof:name":"\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

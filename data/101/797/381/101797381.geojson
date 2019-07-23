@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000183,
+    "geom:area_square_m":1637020.561817,
     "geom:bbox":"26.9757945743,43.5822975697,27.0153467415,43.5955308316",
     "geom:latitude":43.590385,
     "geom:longitude":26.996729,
@@ -17,6 +18,12 @@
     "mz:is_current":-1,
     "name:bul_x_preferred":[
         "\u0418\u0437\u0433\u0440\u0435\u0432"
+    ],
+    "name:deu_x_preferred":[
+        "Isgrew-Passage"
+    ],
+    "name:eng_x_preferred":[
+        "Izgrev Passage"
     ],
     "name:unk_x_variant":[
         "Usta-Genko"
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":101797381,
-    "wof:lastmodified":1527641534,
+    "wof:lastmodified":1563325237,
     "wof:name":"\u0418\u0437\u0433\u0440\u0435\u0432",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

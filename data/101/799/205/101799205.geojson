@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Uzundzhovo"
     ],
+    "name:fra_x_preferred":[
+        "Uzundzhovo"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30ba\u30f3\u30b8\u30e7\u30f4\u30a9"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101799205,
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325259,
     "wof:name":"\u0423\u0437\u0443\u043d\u0434\u0436\u043e\u0432\u043e",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

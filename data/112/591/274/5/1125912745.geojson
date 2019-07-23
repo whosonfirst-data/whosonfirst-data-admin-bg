@@ -21,8 +21,14 @@
     "name:bul_x_preferred":[
         "\u0428\u0438\u0440\u043e\u043a\u0430 \u043b\u044a\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Shiroka Laka"
+    ],
     "name:eng_x_preferred":[
         "Shiroka luka"
+    ],
+    "name:eng_x_variant":[
+        "Shiroka Laka"
     ],
     "name:fra_x_preferred":[
         "Chiroka laka"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1125912745,
-    "wof:lastmodified":1561837460,
+    "wof:lastmodified":1563325568,
     "wof:name":"Shiroka Luka",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

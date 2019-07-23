@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Ovcha Kupel"
     ],
+    "name:eng_x_variant":[
+        "Ovcha kupel"
+    ],
     "name:hye_x_preferred":[
         "\u0555\u057e\u0579\u0561 \u056f\u0578\u0582\u057a\u0565\u056c"
     ],
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837426,
+    "wof:lastmodified":1563324717,
     "wof:name":"Ovcha Kupel",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

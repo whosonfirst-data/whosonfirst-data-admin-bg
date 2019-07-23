@@ -28,6 +28,12 @@
         "Momchilovci",
         "Momtschilowzi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0645\u0686\u06cc\u0644\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Momchilovtsi"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10db\u10e9\u10d8\u10da\u10dd\u10d5\u10ea\u10d8"
     ],
@@ -94,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325484,
     "wof:name":"\u041c\u043e\u043c\u0447\u0438\u043b\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

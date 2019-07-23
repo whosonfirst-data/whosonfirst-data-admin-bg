@@ -22,11 +22,17 @@
     "name:ceb_x_preferred":[
         "Divotino Point"
     ],
+    "name:ceb_x_variant":[
+        "Divotino"
+    ],
     "name:eng_x_preferred":[
         "Divotino"
     ],
     "name:eng_x_variant":[
         "Diwotino"
+    ],
+    "name:fra_x_preferred":[
+        "Divotino"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u0438\u0432\u043e\u0442\u0438\u043d\u043e"
@@ -42,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Divotino Point"
+    ],
+    "name:swe_x_variant":[
+        "Divotino"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0438\u0432\u043e\u0442\u0438\u043d\u043e"
@@ -96,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325474,
     "wof:name":"\u0414\u0438\u0432\u043e\u0442\u0438\u043d\u043e",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

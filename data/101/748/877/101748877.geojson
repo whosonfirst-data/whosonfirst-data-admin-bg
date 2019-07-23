@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001326,
-    "geom:area_square_m":12126364.402397,
+    "geom:area_square_m":12126364.402393,
     "geom:bbox":"22.6656255,42.2654302514,22.7218345,42.304431",
     "geom:latitude":42.286292,
     "geom:longitude":22.692661,
@@ -18,8 +18,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0648\u0633\u062a\u064a\u0646\u062f\u064a\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u0648\u0633\u062a\u0646\u062f\u06cc\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "K\u00f6st\u0259ndil"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u044e\u0441\u0446\u0435\u043d\u0434\u044b\u043b"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09b8\u09cd\u09a4\u09c7\u09a8\u09cd\u09a1\u09bf\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Kiustendil"
+    ],
+    "name:ceb_x_preferred":[
+        "Kyustendil"
+    ],
+    "name:ces_x_preferred":[
+        "Kjustendil"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u06cc\u0648\u0633\u062a\u06ce\u0646\u062f\u06cc\u0644"
+    ],
+    "name:cym_x_preferred":[
+        "Kyustendil"
+    ],
+    "name:dan_x_preferred":[
+        "Kjustendil"
     ],
     "name:deu_x_preferred":[
         "Kjustendil"
@@ -44,17 +77,155 @@
         "K\u00f6stendil",
         "K\u00fcstendil"
     ],
+    "name:epo_x_preferred":[
+        "Kjustendil"
+    ],
+    "name:est_x_preferred":[
+        "Kjustendil"
+    ],
+    "name:eus_x_preferred":[
+        "Kiustendil"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0648\u0633\u062a\u0646\u062f\u06cc\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Kjustendil"
+    ],
+    "name:fra_x_preferred":[
+        "Kyoustendil"
+    ],
+    "name:frr_x_preferred":[
+        "Kjustendil"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0aaf\u0ac1\u0ab8\u0acd\u0a9f\u0ac7\u0aa8\u0acd\u0aa1\u0abf\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d5\u05e1\u05d8\u05e0\u05d3\u05d9\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u092f\u0942\u0938\u094d\u091f\u0947\u0923\u094d\u0921\u093f\u0932"
+    ],
+    "name:hrv_x_preferred":[
+        "\u0106ustendil"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0575\u0578\u0582\u057d\u057f\u0565\u0576\u0564\u056b\u056c"
+    ],
+    "name:ind_x_preferred":[
+        "Kyustendil"
+    ],
+    "name:ita_x_preferred":[
+        "Kjustendil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e5\u30b9\u30c6\u30f3\u30c7\u30a3\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0caf\u0cc2\u0cb8\u0ccd\u0c9f\u0cc6\u0c82\u0ca1\u0cbf\u0cb2\u0ccd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b"
+    ],
+    "name:kor_x_preferred":[
+        "\ud050\uc2a4\ud150\ub51c"
+    ],
+    "name:lav_x_preferred":[
+        "Kjustendila"
+    ],
+    "name:lit_x_preferred":[
+        "Kiustendilas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u092f\u0942\u0938\u094d\u091f\u0947\u0923\u0921\u093e\u0908\u0932"
+    ],
+    "name:mkd_x_preferred":[
+        "\u040c\u0443\u0441\u0442\u0435\u043d\u0434\u0438\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Kyustendil"
+    ],
+    "name:nld_x_preferred":[
+        "Kjoestendil"
+    ],
+    "name:nob_x_preferred":[
+        "Kyustendil"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b"
+    ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u06cc\u0624\u0633\u062a\u0646\u062f\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Kiustendi\u0142"
+    ],
     "name:por_x_preferred":[
         "Kyustendil"
+    ],
+    "name:ron_x_preferred":[
+        "Kiustendil"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b"
+    ],
+    "name:sco_x_preferred":[
+        "Kyustendil"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u0dba\u0dd4\u0dc3\u0dca\u0da7\u0dd9\u0db1\u0dca\u0da9\u0dd2\u0dbd\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Kjustendil"
+    ],
+    "name:slv_x_preferred":[
+        "Kjustendil"
+    ],
+    "name:spa_x_preferred":[
+        "Kyustendil"
+    ],
+    "name:srp_x_preferred":[
+        "\u040b\u0443\u0441\u0442\u0435\u043d\u0434\u0438\u043b"
     ],
     "name:swe_x_preferred":[
         "Kjustendil"
     ],
+    "name:szl_x_preferred":[
+        "Kjustendi\u0142"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0baf\u0bc2\u0bb8\u0bcd\u0b9f\u0bc7\u0ba3\u0bcd\u0b9f\u0bbf\u0bb2\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04af\u0441\u0442\u04d9\u043d\u0434\u0438\u043b"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c2f\u0c42\u0c38\u0c4d\u0c1f\u0c46\u0c02\u0c21\u0c3f\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e35\u0e22\u0e39\u0e2a\u0e40\u0e15\u0e19\u0e14\u0e34\u0e25"
+    ],
     "name:tur_x_preferred":[
         "K\u00f6stendil"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b"
+    ],
     "name:unk_x_variant":[
         "Kioust\u00e9ndil"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0648\u0633\u062a\u0646\u062f\u06cc\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Kyustendil"
+    ],
+    "name:war_x_preferred":[
+        "Kyustendil"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e18\u65af\u6ed5\u8fea\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Bulgaria",
@@ -200,7 +371,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527688476,
+    "wof:lastmodified":1563325456,
     "wof:name":"\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -17,14 +17,23 @@
     "mps:longitude":23.127831,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0644\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0438\u043b\u0430"
     ],
     "name:ceb_x_preferred":[
         "Rila"
     ],
+    "name:ces_x_preferred":[
+        "Rila"
+    ],
     "name:ckb_x_preferred":[
         "\u0695\u06cc\u0644\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Rila"
     ],
     "name:eng_x_preferred":[
         "Rila"
@@ -36,8 +45,23 @@
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0644\u0627"
     ],
+    "name:fra_x_preferred":[
+        "Rila"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05dc\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Rila"
+    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9b4\ub77c"
+    ],
+    "name:nld_x_preferred":[
+        "Rila"
     ],
     "name:por_x_preferred":[
         "Rila"
@@ -57,11 +81,20 @@
     "name:swe_x_preferred":[
         "Rila"
     ],
+    "name:tat_x_preferred":[
+        "\u0420\u0438\u043b\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Rila"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u0438\u043b\u0430"
     ],
     "name:unk_x_variant":[
         "Riloselo"
+    ],
+    "name:vie_x_preferred":[
+        "Rila"
     ],
     "name:war_x_preferred":[
         "Rila"
@@ -121,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641694,
+    "wof:lastmodified":1563325292,
     "wof:name":"\u0420\u0438\u043b\u0430",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

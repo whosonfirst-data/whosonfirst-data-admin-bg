@@ -42,6 +42,15 @@
         "L\u00fedzhene",
         "L\u00fezhene"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062a\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Anton"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d8\u05d5\u05df"
+    ],
     "name:kaz_x_preferred":[
         "\u0410\u043d\u0442\u043e\u043d"
     ],
@@ -54,8 +63,17 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u0442\u043e\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Anton"
+    ],
     "name:swe_x_preferred":[
         "Anton"
+    ],
+    "name:tur_x_preferred":[
+        "Anton"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043d"
     ],
     "name:unk_x_variant":[
         "L\u016dzhene"
@@ -112,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641931,
+    "wof:lastmodified":1563325346,
     "wof:name":"\u0410\u043d\u0442\u043e\u043d",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

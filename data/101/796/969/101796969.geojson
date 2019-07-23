@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000639,
-    "geom:area_square_m":5810655.343726,
+    "geom:area_square_m":5810655.343729,
     "geom:bbox":"26.9655053931,42.6334491506,27.0149286337,42.6729826399",
     "geom:latitude":42.653306,
     "geom:longitude":26.985514,
@@ -30,13 +30,20 @@
     "name:ces_x_preferred":[
         "Ob\u0161tina Karnobat"
     ],
+    "name:deu_x_preferred":[
+        "Karnobat"
+    ],
     "name:eng_x_preferred":[
         "Karnobat"
     ],
     "name:eng_x_variant":[
         "Karnabat",
         "Poljanovgrad",
-        "Polyanovgrad"
+        "Polyanovgrad",
+        "Karnobat Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0627\u0631\u0646\u0648\u0628\u0627\u062a"
     ],
     "name:fra_x_preferred":[
         "Karnobat"
@@ -47,6 +54,12 @@
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10e0\u10dc\u10dd\u10d1\u10d0\u10e2\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
     ],
+    "name:mkd_x_preferred":[
+        "\u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041a\u0430\u0440\u043d\u043e\u0431\u0430\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Karnobat Municipality"
+    ],
     "name:pol_x_preferred":[
         "Gmina Karnobat"
     ],
@@ -56,11 +69,20 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u043d\u043e\u0431\u0430\u0442"
     ],
+    "name:spa_x_preferred":[
+        "Karnobat"
+    ],
     "name:swe_x_preferred":[
         "Obsjtina Karnobat"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043d\u043e\u0431\u0430\u0442"
+    ],
     "name:unk_x_variant":[
         "Poljanovgrad"
+    ],
+    "name:vie_x_preferred":[
+        "Karnobat"
     ],
     "name:zho_x_preferred":[
         "\u5361\u723e\u8afe\u5df4\u7279\u5e02"
@@ -113,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642034,
+    "wof:lastmodified":1563325406,
     "wof:name":"\u041a\u0430\u0440\u043d\u043e\u0431\u0430\u0442",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

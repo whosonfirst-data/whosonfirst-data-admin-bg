@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u043d\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Tenevo"
+    ],
     "name:eng_x_colloquial":[
         "Fthndthklii",
         "Ftndtklii",
@@ -48,6 +51,9 @@
         "Tervel",
         "Terwel"
     ],
+    "name:fra_x_preferred":[
+        "Tenevo"
+    ],
     "name:kaz_x_preferred":[
         "\u0422\u0435\u043d\u0435\u0432\u043e"
     ],
@@ -59,6 +65,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0435\u043d\u0435\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "T\u00e9nevo"
     ],
     "name:swe_x_preferred":[
         "Tenevo"
@@ -112,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837442,
+    "wof:lastmodified":1563325255,
     "wof:name":"\u0422\u0435\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

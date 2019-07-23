@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Poroishte"
     ],
+    "name:fra_x_preferred":[
+        "Poroishte"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u043e\u0440\u043e\u0438\u0448\u0442\u0435"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1125778523,
-    "wof:lastmodified":1561837460,
+    "wof:lastmodified":1563325577,
     "wof:name":"Poroishte",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

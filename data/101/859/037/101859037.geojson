@@ -26,6 +26,12 @@
         "At Alan",
         "Kontsche"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u0686\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Konche"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u043d\u0447\u0435"
     ],
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1563325429,
     "wof:name":"\u041a\u043e\u043d\u0447\u0435",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

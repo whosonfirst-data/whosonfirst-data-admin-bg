@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000302,
-    "geom:area_square_m":2725365.248424,
+    "geom:area_square_m":2725365.248421,
     "geom:bbox":"25.8704440672,43.0248214473,25.9002915252,43.0553758153",
     "geom:latitude":43.043679,
     "geom:longitude":25.888569,
@@ -20,16 +20,62 @@
     "name:bul_x_preferred":[
         "\u0417\u043b\u0430\u0442\u0430\u0440\u0438\u0446\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0417\u043b\u0430\u0442\u0430\u0440\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Zlataritsa"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Zlatarica"
+    ],
     "name:eng_x_preferred":[
         "Zlatarica"
     ],
     "name:eng_x_variant":[
         "Slatariza",
         "Zlataritsa",
-        "Zlataritza"
+        "Zlataritza",
+        "Zlataritsa Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0632\u0644\u0627\u062a\u0627\u0631\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Zlataritsa"
+    ],
+    "name:ita_x_preferred":[
+        "Zlatarica"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10da\u10d0\u10e2\u10d0\u10e0\u10d8\u10ea\u10d8\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Zlataritsa Municipality"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Z\u0142atarica"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Zlatari\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0430\u0440\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Zlataritsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0430\u0440\u0438\u0446\u044f"
     ],
     "name:unk_x_variant":[
         "Slatariza"
+    ],
+    "name:vie_x_preferred":[
+        "Zlataritsa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8332\u62c9\u5854\u91cc\u5bdf\u5e02"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
@@ -80,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641534,
+    "wof:lastmodified":1563325238,
     "wof:name":"\u0417\u043b\u0430\u0442\u0430\u0440\u0438\u0446\u0430",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

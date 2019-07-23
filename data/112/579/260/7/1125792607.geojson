@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Pepelina"
     ],
+    "name:fra_x_preferred":[
+        "Pepelina"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0435\u043f\u0435\u043b\u0438\u043d\u0430"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125792607,
-    "wof:lastmodified":1561837460,
+    "wof:lastmodified":1563325576,
     "wof:name":"Pepelina",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

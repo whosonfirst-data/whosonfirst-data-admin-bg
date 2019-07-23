@@ -41,6 +41,12 @@
         "R\u011bchevo",
         "Ryahovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0627\u0647\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Ryahovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0420\u044f\u0445\u043e\u0432\u043e"
     ],
@@ -100,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325391,
     "wof:name":"\u0420\u044f\u0445\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

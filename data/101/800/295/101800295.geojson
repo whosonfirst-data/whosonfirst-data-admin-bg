@@ -22,6 +22,12 @@
     "name:eng_x_preferred":[
         "Krupnik"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u067e\u0646\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Krupnik"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0440\u0443\u043f\u043d\u0438\u043a"
     ],
@@ -84,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325489,
     "wof:name":"\u041a\u0440\u0443\u043f\u043d\u0438\u043a",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -30,6 +30,12 @@
         "Dobromirzi",
         "Emirler"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u0645\u06cc\u0631\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Dobromirtsi"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440\u0446\u0438"
     ],
@@ -92,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325487,
     "wof:name":"\u0414\u043e\u0431\u0440\u043e\u043c\u0438\u0440\u0446\u0438",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

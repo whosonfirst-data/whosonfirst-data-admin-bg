@@ -19,7 +19,13 @@
     "name:bul_x_preferred":[
         "\u0415\u043d\u0438\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Enina"
+    ],
     "name:eng_x_preferred":[
+        "Enina"
+    ],
+    "name:fra_x_preferred":[
         "Enina"
     ],
     "name:kaz_x_preferred":[
@@ -33,6 +39,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0415\u043d\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Enina"
     ],
     "name:ukr_x_preferred":[
         "\u0404\u043d\u0438\u043d\u0430"
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":101798129,
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325328,
     "wof:name":"\u0415\u043d\u0438\u043d\u0430",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

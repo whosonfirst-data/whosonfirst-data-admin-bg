@@ -21,10 +21,25 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043b\u0430\u0442\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Kulata"
+    ],
     "name:deu_x_preferred":[
         "Kulata"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03bb\u03b1\u03c4\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Kulata"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0627\u062a\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kulata"
+    ],
+    "name:ita_x_preferred":[
         "Kulata"
     ],
     "name:kat_x_preferred":[
@@ -36,6 +51,9 @@
     "name:mkd_x_preferred":[
         "\u041a\u0443\u043b\u0430\u0442\u0430"
     ],
+    "name:mon_x_preferred":[
+        "\u041a\u0443\u043b\u0430\u0442\u0430"
+    ],
     "name:msa_x_preferred":[
         "Kulata"
     ],
@@ -45,11 +63,17 @@
     "name:pol_x_preferred":[
         "Kulata"
     ],
+    "name:por_x_preferred":[
+        "Kulata"
+    ],
     "name:ron_x_preferred":[
         "Kulata"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0443\u043b\u0430\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kulata"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043b\u0430\u0442\u0430"
@@ -107,7 +131,7 @@
         }
     ],
     "wof:id":1125950749,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1563325551,
     "wof:name":"Kulata",
     "wof:parent_id":85684637,
     "wof:placetype":"locality",

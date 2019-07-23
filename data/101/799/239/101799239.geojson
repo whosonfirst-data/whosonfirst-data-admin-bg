@@ -31,6 +31,12 @@
     "name:eng_x_variant":[
         "Sinitowo"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u06cc\u062a\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Sinitovo"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10dc\u10d8\u10e2\u10dd\u10d5\u10dd"
     ],
@@ -100,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837444,
+    "wof:lastmodified":1563325286,
     "wof:name":"\u0421\u0438\u043d\u0438\u0442\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

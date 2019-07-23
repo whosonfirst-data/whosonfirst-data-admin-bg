@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043b\u0438\u043c\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Seliminovo"
+    ],
     "name:eng_x_colloquial":[
         "Karasarlt",
         "Karasarlth",
@@ -31,6 +34,9 @@
         "Kara Sarlii",
         "Karasarl\u00fe",
         "Seliminowo"
+    ],
+    "name:fra_x_preferred":[
+        "Seliminovo"
     ],
     "name:kaz_x_preferred":[
         "\u0421\u0435\u043b\u0438\u043c\u0438\u043d\u043e\u0432\u043e"
@@ -93,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1563325319,
     "wof:name":"\u0421\u0435\u043b\u0438\u043c\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

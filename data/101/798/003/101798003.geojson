@@ -26,6 +26,15 @@
     "name:eng_x_preferred":[
         "Lesichovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0633\u06cc\u0686\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Lesichovo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e1\u05d9\u05e6'\u05d5\u05d1\u05d5"
+    ],
     "name:jpn_x_preferred":[
         "\u30ec\u30b7\u30c1\u30e7\u30f4\u30a9"
     ],
@@ -49,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Lesitjovo"
+    ],
+    "name:tur_x_preferred":[
+        "Lesi\u00e7ovo"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0441\u0438\u0447\u043e\u0432\u043e"
@@ -111,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641932,
+    "wof:lastmodified":1563325353,
     "wof:name":"\u041b\u0435\u0441\u0438\u0447\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

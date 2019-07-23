@@ -26,6 +26,9 @@
         "Ismilan",
         "Smiljan"
     ],
+    "name:fra_x_preferred":[
+        "Smilyan"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10db\u10d8\u10da\u10d8\u10d0\u10dc\u10d8"
     ],
@@ -92,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325506,
     "wof:name":"\u0421\u043c\u0438\u043b\u044f\u043d",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

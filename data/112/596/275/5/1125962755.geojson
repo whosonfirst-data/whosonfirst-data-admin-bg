@@ -24,6 +24,12 @@
     "name:eng_x_preferred":[
         "Ezerets"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0632\u0631\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Ezerets"
+    ],
     "name:kaz_x_preferred":[
         "\u0415\u0437\u0435\u0440\u0435\u0446"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1125962755,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325565,
     "wof:name":"Ezerets",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

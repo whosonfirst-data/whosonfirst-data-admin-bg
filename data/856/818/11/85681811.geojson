@@ -27,11 +27,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0648\u0648\u062a\u0634"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u0648\u0641\u062a\u0634"
+    ],
     "name:bel_x_preferred":[
         "\u041b\u043e\u0432\u0435\u0447\u0441\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u041b\u043e\u0432\u0435\u0446\u043a\u0430\u044f \u0432\u043e\u0431\u043b\u0430\u0441\u0446\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09cb\u09ad\u09c7\u099a \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bos_x_preferred":[
+        "Oblast Love\u010d"
     ],
     "name:bul_x_preferred":[
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u041b\u043e\u0432\u0435\u0447"
@@ -41,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Lovetx"
+    ],
+    "name:ceb_x_preferred":[
+        "Lovech"
     ],
     "name:ces_x_preferred":[
         "Love\u010dsk\u00e1 oblast"
@@ -56,6 +68,9 @@
     ],
     "name:eng_x_preferred":[
         "Lovech"
+    ],
+    "name:eng_x_variant":[
+        "Lovech Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Love\u0109"
@@ -75,6 +90,9 @@
     "name:fra_x_preferred":[
         "Lovetch"
     ],
+    "name:frr_x_preferred":[
+        "Lowetsch"
+    ],
     "name:gle_x_preferred":[
         "C\u00faige Lovech"
     ],
@@ -89,6 +107,9 @@
     ],
     "name:hrv_x_preferred":[
         "Oblast Love\u010d"
+    ],
+    "name:hun_x_preferred":[
+        "Lovecs megye"
     ],
     "name:hye_x_preferred":[
         "\u053c\u0578\u057e\u0565\u0579\u056b \u0574\u0561\u0580\u0566"
@@ -110,6 +131,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub85c\ubca0\uce58 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub85c\ubca0\uce58\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Melta"
@@ -182,6 +206,9 @@
     ],
     "name:sqi_x_preferred":[
         "Love\u010d"
+    ],
+    "name:sqi_x_variant":[
+        "Provinca Love\u00e7"
     ],
     "name:srp_x_preferred":[
         "\u041b\u043e\u0432\u0435\u0447\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442"
@@ -338,7 +365,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1561837427,
+    "wof:lastmodified":1563324726,
     "wof:name":"\u041b\u043e\u0432\u0435\u0447",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

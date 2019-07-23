@@ -19,12 +19,18 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043f\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Popica"
+    ],
     "name:eng_x_preferred":[
         "Popitsa"
     ],
     "name:eng_x_variant":[
         "Popica",
         "Popiza"
+    ],
+    "name:fra_x_preferred":[
+        "Popitsa"
     ],
     "name:kaz_x_preferred":[
         "\u041f\u043e\u043f\u0438\u0446\u0430"
@@ -87,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837441,
+    "wof:lastmodified":1563325227,
     "wof:name":"\u041f\u043e\u043f\u0438\u0446\u0430",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

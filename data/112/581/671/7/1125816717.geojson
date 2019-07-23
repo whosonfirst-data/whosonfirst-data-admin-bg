@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Progled"
     ],
+    "name:fra_x_preferred":[
+        "Progled"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1125816717,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325557,
     "wof:name":"Progled",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
         "Marulevo",
         "Marulewo"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06a9\u0644\u06cc\u0646\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Vaklinovo"
+    ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10d9\u10da\u10d8\u10dc\u10dd\u10d5\u10dd"
     ],
@@ -101,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1563325492,
     "wof:name":"\u0412\u0430\u043a\u043b\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

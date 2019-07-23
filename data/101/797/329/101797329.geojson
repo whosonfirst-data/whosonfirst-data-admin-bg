@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000206,
+    "geom:area_square_m":1836560.48078,
     "geom:bbox":"22.903246903,43.8035203546,22.935725167,43.8173321673",
     "geom:latitude":43.808773,
     "geom:longitude":22.918982,
@@ -18,8 +19,14 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0447\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Archar"
+    ],
     "name:chv_x_preferred":[
         "\u0410\u0440\u0447\u0430\u0440"
+    ],
+    "name:cym_x_preferred":[
+        "Afon Archar"
     ],
     "name:eng_x_colloquial":[
         "Akcar",
@@ -34,13 +41,20 @@
         "Ak\u010dr",
         "Arcen",
         "Artchar",
-        "Artschar"
+        "Artschar",
+        "Archar River"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e6'\u05d0\u05e8"
     ],
     "name:pol_x_preferred":[
         "Arczar"
     ],
     "name:rus_x_preferred":[
         "\u0410\u0440\u0447\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Artjar"
     ],
     "name:unk_x_variant":[
         "Artchar"
@@ -95,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641532,
+    "wof:lastmodified":1563325229,
     "wof:name":"\u0410\u0440\u0447\u0430\u0440",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

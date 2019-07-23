@@ -32,8 +32,17 @@
         "Dryanovets",
         "Dryenovets"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0646\u0648\u0648\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Drenovets"
+    ],
     "name:kaz_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Drenowec"
     ],
     "name:ron_x_preferred":[
         "Drenove\u021b"
@@ -94,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837437,
+    "wof:lastmodified":1563325148,
     "wof:name":"\u0414\u0440\u0435\u043d\u043e\u0432\u0435\u0446",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

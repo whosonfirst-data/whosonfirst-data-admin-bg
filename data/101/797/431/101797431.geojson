@@ -22,7 +22,13 @@
     "name:bul_x_variant":[
         "Duhovets"
     ],
+    "name:ceb_x_preferred":[
+        "Dukhovec"
+    ],
     "name:eng_x_preferred":[
+        "Duhovets"
+    ],
+    "name:fra_x_preferred":[
         "Duhovets"
     ],
     "name:kaz_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":101797431,
-    "wof:lastmodified":1561837438,
+    "wof:lastmodified":1563325177,
     "wof:name":"\u0414\u0443\u0445\u043e\u0432\u0435\u0446",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

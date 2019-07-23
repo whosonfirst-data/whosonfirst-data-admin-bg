@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000083,
+    "geom:area_square_m":768964.23523,
     "geom:bbox":"23.9287037687,41.530849802,23.9412648746,41.5450887613",
     "geom:latitude":41.537457,
     "geom:longitude":23.934921,
@@ -24,8 +25,17 @@
     "name:ceb_x_preferred":[
         "Ablanica"
     ],
+    "name:eng_x_preferred":[
+        "Ablanitsa"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0628\u0644\u0627\u0646\u06cc\u062a\u0633\u0627\u060c \u0627\u0633\u062a\u0627\u0646 \u0628\u0644\u0627\u06af\u0648\u06af\u0631\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0628\u0644\u0627\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Ablanitsa"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0431\u043b\u0430\u043d\u0438\u0446\u0430"
@@ -91,7 +101,7 @@
         }
     ],
     "wof:id":101800333,
-    "wof:lastmodified":1527715090,
+    "wof:lastmodified":1563325498,
     "wof:name":"\u0410\u0431\u043b\u0430\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

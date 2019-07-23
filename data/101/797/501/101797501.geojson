@@ -22,11 +22,17 @@
     "name:bul_x_variant":[
         "\u041e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Obretenik"
+    ],
     "name:eng_x_preferred":[
         "Obretenik"
     ],
     "name:eng_x_variant":[
         "Obryetenik"
+    ],
+    "name:fra_x_preferred":[
+        "Obretenik"
     ],
     "name:kaz_x_preferred":[
         "\u041e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u043a"
@@ -90,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837439,
+    "wof:lastmodified":1563325195,
     "wof:name":"\u041e\u0431\u0440\u0435\u0442\u0435\u043d\u0438\u043a",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

@@ -39,6 +39,12 @@
         "Popintzi",
         "Popinzi"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u067e\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Popintsi"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10de\u10d8\u10dc\u10ea\u10d8"
     ],
@@ -108,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837448,
+    "wof:lastmodified":1563325346,
     "wof:name":"\u041f\u043e\u043f\u0438\u043d\u0446\u0438",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

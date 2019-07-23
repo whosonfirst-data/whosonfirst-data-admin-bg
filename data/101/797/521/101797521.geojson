@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u043e"
     ],
+    "name:crh_x_preferred":[
+        "Do\u011fanyuvas\u0131"
+    ],
     "name:eng_x_colloquial":[
         "Duvanyuvast",
         "Duvanyuvasth",
@@ -38,8 +41,17 @@
         "Vultureshti",
         "Vulture\u015fti"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0644\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Sokolovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Soko\u0142owo"
     ],
     "name:ron_x_preferred":[
         "Sokolovo"
@@ -97,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837438,
+    "wof:lastmodified":1563325185,
     "wof:name":"\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

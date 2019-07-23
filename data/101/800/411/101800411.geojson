@@ -28,6 +28,9 @@
         "Bjega",
         "Byega"
     ],
+    "name:fra_x_preferred":[
+        "Byaga"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u044f\u0433\u0430"
     ],
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837456,
+    "wof:lastmodified":1563325501,
     "wof:name":"\u0411\u044f\u0433\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

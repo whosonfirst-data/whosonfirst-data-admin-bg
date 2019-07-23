@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Boykovo"
     ],
+    "name:fra_x_preferred":[
+        "Boykovo"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u043e\u0439\u043a\u043e\u0432\u043e"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125809085,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325560,
     "wof:name":"Boykovo",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

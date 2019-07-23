@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Tsonevo"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0648\u0646\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Tsonevo"
+    ],
     "name:kat_x_preferred":[
         "\u10ea\u10dd\u10dc\u10d4\u10d5\u10dd"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101798441,
-    "wof:lastmodified":1561837445,
+    "wof:lastmodified":1563325314,
     "wof:name":"\u0426\u043e\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

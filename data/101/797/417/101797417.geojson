@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0435\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Brestovene"
+    ],
     "name:eng_x_colloquial":[
         "Karaac"
     ],
@@ -33,8 +36,14 @@
         "Karaagach",
         "Karaa\u010d"
     ],
+    "name:fra_x_preferred":[
+        "Brestovene"
+    ],
     "name:kaz_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0435\u043d\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Brestowene"
     ],
     "name:ron_x_preferred":[
         "Brestovene"
@@ -95,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837440,
+    "wof:lastmodified":1563325206,
     "wof:name":"\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0435\u043d\u0435",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

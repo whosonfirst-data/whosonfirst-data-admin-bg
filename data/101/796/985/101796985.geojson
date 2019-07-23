@@ -38,6 +38,9 @@
         "Ravnec",
         "Rawnez"
     ],
+    "name:fra_x_preferred":[
+        "Ravnets"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30f4\u30cd\u30c4"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325398,
     "wof:name":"\u0420\u0430\u0432\u043d\u0435\u0446",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

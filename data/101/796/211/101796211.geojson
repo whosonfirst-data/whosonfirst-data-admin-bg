@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u043b\u0435\u0437"
     ],
+    "name:ceb_x_preferred":[
+        "Prelez"
+    ],
     "name:eng_x_preferred":[
         "Prelez"
     ],
@@ -29,11 +32,17 @@
         "Prelyez",
         "Yunuzlar"
     ],
+    "name:fra_x_preferred":[
+        "Prelez"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u0440\u0435\u043b\u0435\u0437"
     ],
     "name:nno_x_preferred":[
         "Prelez Gap"
+    ],
+    "name:pol_x_preferred":[
+        "Prelez"
     ],
     "name:ron_x_preferred":[
         "Prelez"
@@ -94,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837451,
+    "wof:lastmodified":1563325381,
     "wof:name":"\u041f\u0440\u0435\u043b\u0435\u0437",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kovachevo"
+    ],
     "name:eng_x_colloquial":[
         "Kovacevo"
     ],
@@ -31,11 +34,17 @@
         "Kova\u010devo",
         "Kowatschewo"
     ],
+    "name:fra_x_preferred":[
+        "Kovachevo"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10d5\u10d0\u10e9\u10d4\u10d5\u10dd"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Kowaczewo"
     ],
     "name:ron_x_preferred":[
         "Kovacevo"
@@ -93,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1563325259,
     "wof:name":"\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "mps:longitude":25.79658,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06af\u0648\u0631\u06a9\u0648\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0443\u0440\u043a\u043e\u0432\u043e"
     ],
@@ -30,11 +33,26 @@
     "name:deu_x_preferred":[
         "Gurkowo"
     ],
+    "name:eng_x_preferred":[
+        "Gurkovo"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0648\u0631\u06a9\u0648\u0641\u0648"
     ],
+    "name:fra_x_preferred":[
+        "Gourkovo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05e8\u05e7\u05d5\u05d1\u05d5"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30eb\u30b3\u30f4\u30a9"
+    ],
     "name:kaz_x_preferred":[
         "\u0413\u0443\u0440\u043a\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Gurkovo"
     ],
     "name:pol_x_preferred":[
         "Gurkowo"
@@ -59,6 +77,12 @@
     ],
     "name:swe_x_preferred":[
         "Obsjtina Gurkovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0443\u0440\u043a\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Gurkovo"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0440\u043a\u043e\u0432\u043e"
@@ -121,7 +145,7 @@
         }
     ],
     "wof:id":101796915,
-    "wof:lastmodified":1527642032,
+    "wof:lastmodified":1563325396,
     "wof:name":"\u0413\u0443\u0440\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

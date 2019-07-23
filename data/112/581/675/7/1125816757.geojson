@@ -27,6 +27,9 @@
     "name:fin_x_preferred":[
         "Sve\u0161tari"
     ],
+    "name:fra_x_preferred":[
+        "Sveshtari"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0432\u0435\u0448\u0442\u0430\u0440\u0438"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125816757,
-    "wof:lastmodified":1561837459,
+    "wof:lastmodified":1563325555,
     "wof:name":"Sveshtari",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

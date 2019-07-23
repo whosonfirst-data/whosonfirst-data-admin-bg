@@ -28,6 +28,12 @@
     "name:eng_x_preferred":[
         "Hvostyane"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0648\u0633\u062a\u06cc\u0627\u0646\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Hvostyane"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u0432\u043e\u0441\u0442\u044f\u043d\u0435"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":101800331,
-    "wof:lastmodified":1561837454,
+    "wof:lastmodified":1563325480,
     "wof:name":"\u0425\u0432\u043e\u0441\u0442\u044f\u043d\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

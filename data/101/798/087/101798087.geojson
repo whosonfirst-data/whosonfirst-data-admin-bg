@@ -38,6 +38,9 @@
         "Duvandzha",
         "Tschal\u00e6kowi"
     ],
+    "name:fra_x_preferred":[
+        "Chalakovi"
+    ],
     "name:kaz_x_preferred":[
         "\u0427\u0430\u043b\u044b\u043a\u043e\u0432\u0438"
     ],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837448,
+    "wof:lastmodified":1563325343,
     "wof:name":"\u0427\u0430\u043b\u044a\u043a\u043e\u0432\u0438",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

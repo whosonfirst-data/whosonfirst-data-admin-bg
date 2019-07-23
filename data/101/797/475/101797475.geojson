@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000208,
+    "geom:area_square_m":1856522.454165,
     "geom:bbox":"25.93922752,43.761205246,25.9572679789,43.782568208",
     "geom:latitude":43.773527,
     "geom:longitude":25.948275,
@@ -18,15 +19,55 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0441\u0430\u0440\u0431\u043e\u0432\u043e"
     ],
+    "name:bul_x_variant":[
+        "\u041e\u0431\u0449\u0438\u043d\u0430 \u0420\u0443\u0441\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Obshtina Ruse"
+    ],
+    "name:ces_x_preferred":[
+        "Ob\u0161tina Ruse"
+    ],
     "name:eng_x_preferred":[
         "Basarbovo"
     ],
     "name:eng_x_variant":[
         "Bassarbowo",
-        "Besarabovo"
+        "Besarabovo",
+        "Ruse Municipality"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0631\u0648\u0633\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Rouss\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Rusze k\u00f6zs\u00e9g"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10e3\u10e1\u10d4\u10e1 \u10d7\u10d4\u10db\u10d8"
+    ],
+    "name:pol_x_preferred":[
+        "Gmina Ruse"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Ruse"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Obsjtina Ruse"
     ],
     "name:unk_x_variant":[
         "Besarabovo"
+    ],
+    "name:vie_x_preferred":[
+        "Ruse"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u585e\u5e02"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0420\u0443\u0441\u0435",
@@ -75,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641529,
+    "wof:lastmodified":1563325208,
     "wof:name":"\u0411\u0430\u0441\u0430\u0440\u0431\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",
