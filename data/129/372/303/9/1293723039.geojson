@@ -27,16 +27,97 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u064a\u0627\u0647\u0648\u0641\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0648\u0631\u06cc\u0627\u0647\u0648\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u044f\u0445\u043e\u0432\u043e"
     ],
     "name:bul_x_variant":[
         "Oryahovo"
     ],
+    "name:ceb_x_preferred":[
+        "Oryakhovo"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06c6\u0631\u06cc\u0627\u062e\u06c6\u06a4\u06c6"
+    ],
+    "name:deu_x_preferred":[
+        "Orjachowo"
+    ],
+    "name:epo_x_preferred":[
+        "Orja\u0125ovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u06cc\u0627\u0647\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Oryahovo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d9\u05d0\u05d7\u05d5\u05d1\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Orjahovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ea\u30e3\u30db\u30f4\u30a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0440\u044f\u0445\u043e\u0432\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub7b4\ud638\ubcf4"
+    ],
+    "name:nld_x_preferred":[
+        "Orjachovo"
+    ],
+    "name:nor_x_preferred":[
+        "Orjakhovo"
+    ],
+    "name:pol_x_preferred":[
+        "Orjachowo"
+    ],
+    "name:por_x_preferred":[
+        "Orjahovo"
+    ],
+    "name:ron_x_preferred":[
+        "Rahova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u044f\u0445\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Ori\u00e1jovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u0440\u0458\u0430\u0445\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Orjachovo"
+    ],
+    "name:tur_x_preferred":[
+        "Oryahovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u044f\u0445\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Orechowo",
         "Saranlii",
         "Oryakhovo"
+    ],
+    "name:vie_x_preferred":[
+        "Oryahovo"
+    ],
+    "name:war_x_preferred":[
+        "Oryahovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u91cc\u4e9e\u970d\u6c83"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +140,7 @@
         }
     ],
     "wof:id":1293723039,
-    "wof:lastmodified":1537587449,
+    "wof:lastmodified":1564177100,
     "wof:name":"Oryahovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

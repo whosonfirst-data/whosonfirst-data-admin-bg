@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "Drumohar"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0648\u0645\u0648\u0647\u0627\u0631"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0443\u043c\u043e\u0445\u0430\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "Drumohar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0443\u043c\u043e\u0445\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0443\u043c\u043e\u0445\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "Drumochar",
         "Drumokhar"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1243299577,
-    "wof:lastmodified":1537587665,
+    "wof:lastmodified":1564177610,
     "wof:name":"Drumohar",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

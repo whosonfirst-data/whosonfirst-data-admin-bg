@@ -29,6 +29,33 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kazanka"
+    ],
+    "name:ces_x_preferred":[
+        "Kazanka"
+    ],
+    "name:deu_x_preferred":[
+        "Kasanka"
+    ],
+    "name:fra_x_preferred":[
+        "Kazanka"
+    ],
+    "name:hun_x_preferred":[
+        "Kazanka"
+    ],
+    "name:pol_x_preferred":[
+        "Kazanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kasanka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u043d\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Kasanka",
         "Kazanka"
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1243010263,
-    "wof:lastmodified":1537587571,
+    "wof:lastmodified":1564177529,
     "wof:name":"Kazanka",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

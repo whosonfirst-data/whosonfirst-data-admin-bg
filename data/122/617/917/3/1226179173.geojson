@@ -32,6 +32,18 @@
     "name:bul_x_variant":[
         "Sarnino"
     ],
+    "name:fra_x_preferred":[
+        "Sarnino"
+    ],
+    "name:ron_x_preferred":[
+        "S\u0103rnino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0440\u043d\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0440\u043d\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Garzmaret",
         "Sornino",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1226179173,
-    "wof:lastmodified":1537587320,
+    "wof:lastmodified":1564177678,
     "wof:name":"Sarnino",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

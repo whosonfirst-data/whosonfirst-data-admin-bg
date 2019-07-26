@@ -27,7 +27,28 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0627\u062f\u0646"
+    ],
     "name:bul_x_preferred":[
+        "\u041c\u043b\u0430\u0434\u0435\u043d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627\u062f\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043b\u0430\u0434\u0435\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "M\u0142aden"
+    ],
+    "name:ron_x_preferred":[
+        "Mladen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043b\u0430\u0434\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u043b\u0430\u0434\u0435\u043d"
     ],
     "name:und_x_variant":[
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1360118497,
-    "wof:lastmodified":1537587479,
+    "wof:lastmodified":1564177444,
     "wof:name":"Mladen",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0419\u043e\u0433\u043b\u0430\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Joglav"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u06af\u0644\u0627\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0419\u043e\u0433\u043b\u0430\u0432"
+    ],
+    "name:pol_x_preferred":[
+        "Jog\u0142aw"
+    ],
+    "name:ron_x_preferred":[
+        "Ioglav"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u0433\u043b\u0430\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Joglav"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0419\u043e\u0433\u043b\u0430\u0432"
+    ],
     "name:und_x_variant":[
         "Joglaw",
         "Ioglav",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1226278469,
-    "wof:lastmodified":1537587250,
+    "wof:lastmodified":1564177687,
     "wof:name":"Yoglav",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

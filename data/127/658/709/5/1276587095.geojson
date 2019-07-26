@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0432\u0430\u043d\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Negovanovci"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d4\u10d2\u10dd\u10d5\u10d0\u10dc\u10dd\u10d5\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0432\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Negovanovtsi"
+    ],
+    "name:pol_x_preferred":[
+        "Negowanowci"
+    ],
+    "name:ron_x_preferred":[
+        "Negovanov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0432\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Negovanovtsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0433\u043e\u0432\u0430\u043d\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Negowanowzi",
         "Negovanovtsi"
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1276587095,
-    "wof:lastmodified":1537587467,
+    "wof:lastmodified":1564177141,
     "wof:name":"Negovanovtsi",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

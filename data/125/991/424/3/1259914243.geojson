@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0415\u0437\u0435\u0440\u0447\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Ezerche"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d6\u10d4\u10e0\u10e9\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0415\u0437\u0435\u0440\u0447\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Ezerche"
+    ],
+    "name:ron_x_preferred":[
+        "Ezerce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0437\u0435\u0440\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Ezertje"
+    ],
+    "name:tur_x_preferred":[
+        "Ezer\u00e7e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0437\u0435\u0440\u0447\u0435"
+    ],
     "name:und_x_variant":[
         "Jezerveco",
         "Ezerets",
@@ -65,7 +92,7 @@
         }
     ],
     "wof:id":1259914243,
-    "wof:lastmodified":1537587646,
+    "wof:lastmodified":1564177623,
     "wof:name":"Ezerche",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

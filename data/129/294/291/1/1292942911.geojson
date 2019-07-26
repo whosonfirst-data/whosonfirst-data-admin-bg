@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0424\u0438\u043b\u0438\u043f\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Filipovo"
+    ],
+    "name:fra_x_preferred":[
+        "Filipovo"
+    ],
+    "name:ron_x_preferred":[
+        "Filipovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Filipovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Khamidie Tatar K\u2019oy",
         "Tatar K\u2019oy",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1292942911,
-    "wof:lastmodified":1537587645,
+    "wof:lastmodified":1564177024,
     "wof:name":"Filipovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

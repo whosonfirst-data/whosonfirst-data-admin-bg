@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043b\u0446\u0435"
     ],
+    "name:fra_x_preferred":[
+        "Seltse"
+    ],
+    "name:ron_x_preferred":[
+        "Sel\u021be"
+    ],
     "name:und_x_variant":[
         "Selze",
         "Sel\u2019ts\u016d",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1327066415,
-    "wof:lastmodified":1537587371,
+    "wof:lastmodified":1564176824,
     "wof:name":"Seltse",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

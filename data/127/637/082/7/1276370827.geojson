@@ -30,9 +30,87 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u0430\u0432\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Trave"
+    ],
+    "name:ceb_x_preferred":[
+        "Trave"
+    ],
+    "name:chv_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u0435"
+    ],
+    "name:dan_x_preferred":[
+        "Trave"
+    ],
+    "name:deu_x_preferred":[
+        "Trave"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03ac\u03b2\u03b5"
+    ],
+    "name:epo_x_preferred":[
+        "Trave"
+    ],
+    "name:eus_x_preferred":[
+        "Trave"
+    ],
+    "name:fin_x_preferred":[
+        "Trave"
+    ],
+    "name:fra_x_preferred":[
+        "Trave"
+    ],
+    "name:ita_x_preferred":[
+        "Trave"
+    ],
+    "name:lat_x_preferred":[
+        "Travena"
+    ],
+    "name:lit_x_preferred":[
+        "Trav\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Trave"
+    ],
+    "name:nno_x_preferred":[
+        "Trave"
+    ],
+    "name:nor_x_preferred":[
+        "Trave"
+    ],
+    "name:pol_x_preferred":[
+        "Trave"
+    ],
+    "name:por_x_preferred":[
+        "Rio Trave"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u0435"
+    ],
+    "name:stq_x_preferred":[
+        "Trave"
+    ],
+    "name:swe_x_preferred":[
+        "Trave"
+    ],
+    "name:tur_x_preferred":[
+        "Trave"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0430\u0432\u0435"
+    ],
     "name:und_x_variant":[
         "Trevya",
         "Trave"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u62c9\u7dad\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +133,7 @@
         }
     ],
     "wof:id":1276370827,
-    "wof:lastmodified":1537587306,
+    "wof:lastmodified":1564177178,
     "wof:name":"Trave",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

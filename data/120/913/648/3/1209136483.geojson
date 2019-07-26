@@ -30,6 +30,36 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0437\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Mezek"
+    ],
+    "name:fra_x_preferred":[
+        "Mezek"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10d6\u10d4\u10d9\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u0437\u0435\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Mezek"
+    ],
+    "name:pol_x_preferred":[
+        "Mezek"
+    ],
+    "name:ron_x_preferred":[
+        "Mezek"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0437\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Mezek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0437\u0435\u043a"
+    ],
     "name:und_x_variant":[
         "Mozek",
         "Mesek",
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1209136483,
-    "wof:lastmodified":1537587486,
+    "wof:lastmodified":1564177247,
     "wof:name":"Mezek",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

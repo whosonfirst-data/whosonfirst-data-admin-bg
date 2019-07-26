@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0431\u043d\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Debnevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0646\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u0431\u043d\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Debnewo"
+    ],
+    "name:ron_x_preferred":[
+        "Debnevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0431\u043d\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Debnevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0431\u043d\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Lebnevo",
         "Debniowo",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1209945959,
-    "wof:lastmodified":1537587697,
+    "wof:lastmodified":1564177276,
     "wof:name":"Debnevo",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

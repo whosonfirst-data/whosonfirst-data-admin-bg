@@ -32,6 +32,15 @@
     "name:bul_x_variant":[
         "Hristovtsi"
     ],
+    "name:fra_x_preferred":[
+        "Khristovtsi"
+    ],
+    "name:ron_x_preferred":[
+        "Hristov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0438\u0441\u0442\u043e\u0432\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Christowzi",
         "Khristovts\u016d",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1344191897,
-    "wof:lastmodified":1537587565,
+    "wof:lastmodified":1564176973,
     "wof:name":"Hristovtsi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

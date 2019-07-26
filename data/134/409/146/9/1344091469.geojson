@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0442\u043d\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u062a\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e2\u10dc\u10d8\u10ea\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Kitni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0442\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Yatadzhik",
         "Kitniza",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1344091469,
-    "wof:lastmodified":1537587561,
+    "wof:lastmodified":1564176937,
     "wof:name":"Kitnitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

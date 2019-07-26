@@ -33,6 +33,15 @@
     "name:bul_x_variant":[
         "Parvan"
     ],
+    "name:fra_x_preferred":[
+        "Parvan"
+    ],
+    "name:msa_x_preferred":[
+        "Parvan"
+    ],
+    "name:tur_x_preferred":[
+        "Parvan"
+    ],
     "name:und_x_variant":[
         "Bashlar",
         "P\u0103rwan",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1293130137,
-    "wof:lastmodified":1537587402,
+    "wof:lastmodified":1564177049,
     "wof:name":"Parvan",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

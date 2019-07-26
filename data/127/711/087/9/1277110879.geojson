@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u043f\u043e\u043b\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Topolnitsa"
+    ],
+    "name:fra_x_preferred":[
+        "Topolnitsa"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u043d\u0438\u0446\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u043d\u0438\u0446\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Topolnitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Topolniza",
         "Topolnitsa"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1277110879,
-    "wof:lastmodified":1537587308,
+    "wof:lastmodified":1564177199,
     "wof:name":"Topolnitsa",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

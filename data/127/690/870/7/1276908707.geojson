@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u043d\u0430 \u0411\u0430\u0440\u0430"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u043d\u0430 \u0431\u0430\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Tatardzhik",
         "Slana",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1276908707,
-    "wof:lastmodified":1537587356,
+    "wof:lastmodified":1564177175,
     "wof:name":"Slana Bara",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

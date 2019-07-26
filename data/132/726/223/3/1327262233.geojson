@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0448\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0634\u0648\u0648\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0448\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Rashovitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Ra\u0219ovi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0448\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0448\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Raschowiza",
         "Rashovitsa"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1327262233,
-    "wof:lastmodified":1537587393,
+    "wof:lastmodified":1564176900,
     "wof:name":"Rashovitsa",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

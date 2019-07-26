@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0435\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Petelovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0644\u0648\u0641\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Petelovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Petelovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0435\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Khorozlar",
         "Petelowo",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1344091647,
-    "wof:lastmodified":1537587433,
+    "wof:lastmodified":1564176935,
     "wof:name":"Petelovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0426\u0430\u0440\u0435\u0432\u0435\u0446"
     ],
+    "name:fra_x_preferred":[
+        "Tsarevets"
+    ],
+    "name:ron_x_preferred":[
+        "\u021aareve\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0440\u0435\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Tsarevets"
+    ],
     "name:und_x_variant":[
         "Karalez",
         "Caralez",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1360223075,
-    "wof:lastmodified":1537587300,
+    "wof:lastmodified":1564177427,
     "wof:name":"Tsarevets",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

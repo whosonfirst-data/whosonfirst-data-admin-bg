@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0432\u043a\u0430"
     ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u0432\u043a\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Lewka"
+    ],
+    "name:ron_x_preferred":[
+        "Levka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0432\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "B\u016dlgarska Levka",
         "Lefka",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1327268235,
-    "wof:lastmodified":1537587518,
+    "wof:lastmodified":1564176900,
     "wof:name":"Levka",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

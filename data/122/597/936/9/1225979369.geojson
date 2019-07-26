@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0426\u0432\u0435\u0442\u043a\u043e\u0432\u0430 \u0431\u0430\u0440\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0648\u062a\u06a9\u0648\u0641\u0627 \u0628\u0627\u0631\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0426\u0432\u0435\u0442\u043a\u043e\u0432\u0430-\u0411\u0430\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Tsvetkova bara"
+    ],
+    "name:ron_x_preferred":[
+        "\u021avetkova Bara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0432\u0435\u0442\u043a\u043e\u0432\u0430-\u0411\u0430\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0432\u0435\u0442\u043a\u043e\u0432\u0430 \u0411\u0430\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1225979369,
-    "wof:lastmodified":1537587295,
+    "wof:lastmodified":1564177719,
     "wof:name":"Tsvetkova Bara",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

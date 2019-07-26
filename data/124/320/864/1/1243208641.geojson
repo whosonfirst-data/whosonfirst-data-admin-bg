@@ -33,6 +33,18 @@
     "name:bul_x_variant":[
         "Vlahovo"
     ],
+    "name:fra_x_preferred":[
+        "Vlahovo"
+    ],
+    "name:ron_x_preferred":[
+        "Vlahovo"
+    ],
+    "name:slv_x_preferred":[
+        "Vlahovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043b\u0430\u0445\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Wlachowa-Machala",
         "Vlakhovo"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1243208641,
-    "wof:lastmodified":1537587273,
+    "wof:lastmodified":1564177605,
     "wof:name":"Vlahovo",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

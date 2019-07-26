@@ -32,6 +32,15 @@
     "name:bul_x_variant":[
         "Balgarene"
     ],
+    "name:fra_x_preferred":[
+        "Balgarene"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103lgarene"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u0435\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Belgarene",
         "B\u0103lgarene",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1209749847,
-    "wof:lastmodified":1537587726,
+    "wof:lastmodified":1564177285,
     "wof:name":"Balgarene",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

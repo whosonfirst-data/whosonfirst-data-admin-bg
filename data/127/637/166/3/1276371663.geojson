@@ -31,10 +31,34 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0435\u0432\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Ostrov Konevits"
+    ],
+    "name:fin_x_preferred":[
+        "Konevitsa"
+    ],
+    "name:nno_x_preferred":[
+        "Konevets"
+    ],
+    "name:nor_x_preferred":[
+        "Konevets"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0435\u0432\u0435\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043d\u0435\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0435\u0432\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Kaya Burun",
         "Konewez",
         "Konevets"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6d85\u97cb\u8328\u5cf6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1276371663,
-    "wof:lastmodified":1537587553,
+    "wof:lastmodified":1564177177,
     "wof:name":"Konevets",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

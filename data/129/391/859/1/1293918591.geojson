@@ -27,8 +27,29 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0627\u0641\u0648\u0643\u0648\u0641\u064a\u062a\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0434\u0440\u0430\u0432\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u062f\u0631\u0627\u0648\u06a9\u0648\u0648\u062a\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0434\u0440\u0430\u0432\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Zdrawkowec"
+    ],
+    "name:ron_x_preferred":[
+        "Zdravkove\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0434\u0440\u0430\u0432\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0434\u0440\u0430\u0432\u043a\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:und_x_variant":[
         "Kaya Bash",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1293918591,
-    "wof:lastmodified":1537587243,
+    "wof:lastmodified":1564177001,
     "wof:name":"Zdravkovets",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

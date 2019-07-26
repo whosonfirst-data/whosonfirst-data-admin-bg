@@ -32,6 +32,18 @@
         "Zahari Stoyanovo",
         "\u0417\u0430\u0445\u0430\u0440\u0438 \u0421\u0442\u043e\u044f\u043d\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Zakhari Stoyanovo"
+    ],
+    "name:ron_x_preferred":[
+        "Zahari Stoianovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0445\u0430\u0440\u0438-\u0421\u0442\u043e\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0445\u0430\u0440\u0456-\u0421\u0442\u043e\u044f\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Brazda",
         "Geferfaki",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1210054907,
-    "wof:lastmodified":1537587246,
+    "wof:lastmodified":1564177305,
     "wof:name":"Zahari Stoyanovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

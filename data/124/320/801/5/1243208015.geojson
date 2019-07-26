@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0437\u0438\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Rosina"
+    ],
+    "name:deu_x_preferred":[
+        "Rosina"
+    ],
+    "name:eus_x_preferred":[
+        "Rosina"
+    ],
+    "name:ita_x_preferred":[
+        "Rosina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u0438\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Rosina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0441\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Rosina"
+    ],
     "name:und_x_variant":[
         "Kedi Yuren",
         "Rossina",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1243208015,
-    "wof:lastmodified":1537587383,
+    "wof:lastmodified":1564177605,
     "wof:name":"Rosina",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

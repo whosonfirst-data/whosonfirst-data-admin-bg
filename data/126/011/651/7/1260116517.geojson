@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0432\u0435\u0442\u0430\u043a"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u062a\u0627\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u0432\u0435\u0442\u0430\u043a"
+    ],
+    "name:ron_x_preferred":[
+        "Devetak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0432\u0435\u0442\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0432\u0435\u0442\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Pashskioy",
         "Isitliy",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1260116517,
-    "wof:lastmodified":1537587694,
+    "wof:lastmodified":1564177352,
     "wof:name":"Devetak",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

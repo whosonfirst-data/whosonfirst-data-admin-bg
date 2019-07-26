@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0442\u0435\u0432\u043e"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Botevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Omer Makhala",
         "Bot\u2019ovo",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1309937207,
-    "wof:lastmodified":1537587739,
+    "wof:lastmodified":1564177492,
     "wof:name":"Botevo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

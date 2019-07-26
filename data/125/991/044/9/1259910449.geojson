@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "Prohod"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u0647\u0648\u062f"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u043e\u0445\u043e\u0434"
+    ],
+    "name:ron_x_preferred":[
+        "Prohod"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0445\u043e\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0445\u043e\u0434"
+    ],
     "name:und_x_variant":[
         "K\u016dm Dervent Dere",
         "Dervent Dere",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1259910449,
-    "wof:lastmodified":1537587405,
+    "wof:lastmodified":1564177627,
     "wof:name":"Prohod",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

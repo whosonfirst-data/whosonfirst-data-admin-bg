@@ -29,6 +29,15 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0447\u043e\u0432\u0446\u0438"
     ],
+    "name:fra_x_preferred":[
+        "Maltchovtsi"
+    ],
+    "name:ron_x_preferred":[
+        "Malciov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0447\u043e\u0432\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Mal\u016dchevts\u016d",
         "Malchovtsi"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1259620017,
-    "wof:lastmodified":1537587503,
+    "wof:lastmodified":1564177629,
     "wof:name":"Malchovtsi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

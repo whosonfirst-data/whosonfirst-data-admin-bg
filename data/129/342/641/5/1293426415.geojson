@@ -29,6 +29,33 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0441\u0442\u0438\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bostina"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0633\u062a\u06cc\u0646\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10e1\u10e2\u10d8\u10dc\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0441\u0442\u0438\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Bostina"
+    ],
+    "name:ron_x_preferred":[
+        "Bostina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0441\u0442\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bostina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0441\u0442\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1293426415,
-    "wof:lastmodified":1537587740,
+    "wof:lastmodified":1564177087,
     "wof:name":"Bostina",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u043c\u0441\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Temska"
+    ],
+    "name:fra_x_preferred":[
+        "Temska"
+    ],
+    "name:msa_x_preferred":[
+        "Temska"
+    ],
+    "name:por_x_preferred":[
+        "Temska"
+    ],
+    "name:slv_x_preferred":[
+        "Temska"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u043c\u0441\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1260114499,
-    "wof:lastmodified":1537587313,
+    "wof:lastmodified":1564177350,
     "wof:name":"Temska",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

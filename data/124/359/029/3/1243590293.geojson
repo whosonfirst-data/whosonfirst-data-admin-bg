@@ -31,6 +31,12 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043a\u0440\u0435\u0448"
     ],
+    "name:ceb_x_preferred":[
+        "Mokresh"
+    ],
+    "name:swe_x_preferred":[
+        "Mokresh"
+    ],
     "name:und_x_variant":[
         "Karamikhtsa",
         "Mokresch",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1243590293,
-    "wof:lastmodified":1537587477,
+    "wof:lastmodified":1564177570,
     "wof:name":"Mokresh",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

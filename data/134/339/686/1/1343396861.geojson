@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0432\u043d\u043e \u0421\u0435\u043b\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Ravno Selo"
+    ],
+    "name:epo_x_preferred":[
+        "Ravno Selo"
+    ],
+    "name:fra_x_preferred":[
+        "Ravno Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Ravno Selo"
+    ],
+    "name:hun_x_preferred":[
+        "S\u00f3v\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "Ravno Selo"
+    ],
+    "name:slv_x_preferred":[
+        "Ravno Selo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0432\u043d\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0432\u043d\u0435 \u0421\u0435\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Dura Boglu",
         "Ravno Selo"
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1343396861,
-    "wof:lastmodified":1537587391,
+    "wof:lastmodified":1564176919,
     "wof:name":"Ravno Selo",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

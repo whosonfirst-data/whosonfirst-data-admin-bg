@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u041c\u0430\u0440\u0435\u043d\u0446\u0438"
     ],
+    "name:pol_x_preferred":[
+        "Do\u0142ni Marenci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0456 \u041c\u0430\u0440\u0435\u043d\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1344191021,
-    "wof:lastmodified":1537587680,
+    "wof:lastmodified":1564176971,
     "wof:name":"Dolni Marentsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

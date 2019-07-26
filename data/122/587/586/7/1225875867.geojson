@@ -28,6 +28,27 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u0448\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Vishna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0634\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Vi\u0219na"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Visjna"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0448\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1225875867,
-    "wof:lastmodified":1537587275,
+    "wof:lastmodified":1564177715,
     "wof:name":"Vishna",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

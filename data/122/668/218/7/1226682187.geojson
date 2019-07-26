@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u0437\u0430\u0440\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Lozarevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0632\u0627\u0631\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u043e\u0437\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141ozarewo"
+    ],
+    "name:por_x_preferred":[
+        "Lozarevo"
+    ],
+    "name:ron_x_preferred":[
+        "Lozarevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0437\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Lozarevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0437\u0430\u0440\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Komarewo",
         "Komare",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1226682187,
-    "wof:lastmodified":1537587513,
+    "wof:lastmodified":1564177699,
     "wof:name":"Lozarevo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

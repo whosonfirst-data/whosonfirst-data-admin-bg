@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0433\u0440\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06af\u0631\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d2\u10e0\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0433\u0440\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Bagra"
+    ],
+    "name:ron_x_preferred":[
+        "Bagra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u0440\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0433\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Boyadzhi K\u2019oy",
         "Bagra"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1326966239,
-    "wof:lastmodified":1537587772,
+    "wof:lastmodified":1564176894,
     "wof:name":"Bagra",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

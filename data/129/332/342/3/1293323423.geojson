@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "Prekraste"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06a9\u0631\u0627\u0633\u062a\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0435\u043a\u0440\u044b\u0441\u0442\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Prekr\u0103ste"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u043a\u0440\u044b\u0441\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u043a\u0440\u0438\u0441\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Pryekrvst\u2019e",
         "Prekr\u0103sste",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1293323423,
-    "wof:lastmodified":1537587411,
+    "wof:lastmodified":1564177077,
     "wof:name":"Prekraste",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

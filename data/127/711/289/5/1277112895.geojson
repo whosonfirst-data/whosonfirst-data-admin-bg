@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0427\u0435\u0440\u043a\u043e\u0432\u0438\u0449\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648 \u0686\u0631\u06a9\u0648\u0648\u06cc\u0634\u062a\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0427\u0435\u0440\u043a\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Cerkovi\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0427\u0435\u0440\u043a\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u0427\u0435\u0440\u043a\u043e\u0432\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Alemder",
         "Dolno-Tscherkowischte",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1277112895,
-    "wof:lastmodified":1537587678,
+    "wof:lastmodified":1564177196,
     "wof:name":"Dolno Cherkovishte",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

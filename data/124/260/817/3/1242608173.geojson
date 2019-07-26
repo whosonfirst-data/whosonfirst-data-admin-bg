@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043a\u0438\u0440\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06a9\u06cc\u0631\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Sekirka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043a\u0438\u0440\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Tagardzhikler",
         "Sekirka"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1242608173,
-    "wof:lastmodified":1537587371,
+    "wof:lastmodified":1564177557,
     "wof:name":"Sekirka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

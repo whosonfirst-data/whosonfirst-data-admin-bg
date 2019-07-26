@@ -31,6 +31,15 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:eus_x_preferred":[
+        "Malinovo"
+    ],
+    "name:fra_x_preferred":[
+        "Malinovo"
+    ],
+    "name:lit_x_preferred":[
+        "Malinovas"
+    ],
     "name:und_x_variant":[
         "Ostrets",
         "Ostrec",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1293329237,
-    "wof:lastmodified":1537587501,
+    "wof:lastmodified":1564177073,
     "wof:name":"Malinovo",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

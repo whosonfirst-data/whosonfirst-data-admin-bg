@@ -28,14 +28,122 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0427\u0430\u0440\u043d\u0430\u0437\u0451\u043c"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u0437\u0435\u043c"
+    ],
+    "name:bul_x_variant":[
+        "\u0427\u0435\u0440\u043d\u043e\u0437\u0435\u043c\u043d\u0438 \u043f\u043e\u0447\u0432\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Txernozem"
+    ],
+    "name:ces_x_preferred":[
+        "\u010cernozem"
+    ],
+    "name:dan_x_preferred":[
+        "Sortjord"
+    ],
+    "name:deu_x_preferred":[
+        "Schwarzerde"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03cd\u03c1\u03b7 \u03b3\u03b7"
+    ],
+    "name:epo_x_preferred":[
+        "\u0108ernozjomo"
+    ],
+    "name:est_x_preferred":[
+        "Mustmuld"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0646\u0648\u0632\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Mustamulta"
+    ],
+    "name:fra_x_preferred":[
+        "Tchernoziom"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cernozem"
+    ],
+    "name:hun_x_preferred":[
+        "Feketef\u00f6ld"
+    ],
+    "name:ita_x_preferred":[
+        "\u010cernoz\u00ebm"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30eb\u30ce\u30fc\u30bc\u30e0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u049a\u0430\u0440\u0430 \u0442\u043e\u043f\u044b\u0440\u0430\u049b"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4\ub974\ub178\uc82c"
+    ],
+    "name:lit_x_preferred":[
+        "Juod\u017eemis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0440\u043d\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Chernozem"
+    ],
+    "name:nno_x_preferred":[
+        "Svartjord"
+    ],
+    "name:nor_x_preferred":[
+        "Svartjord"
+    ],
+    "name:pol_x_preferred":[
+        "Czarnoziemy"
+    ],
+    "name:por_x_preferred":[
+        "Chernossolo"
+    ],
+    "name:ron_x_preferred":[
+        "Cernoziom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u0437\u0451\u043c\u044b"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cernozem"
+    ],
+    "name:spa_x_preferred":[
+        "Chernozem"
+    ],
+    "name:srp_x_preferred":[
+        "\u0426\u0440\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Svartjord"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bb0\u0bbf\u0b9a\u0bb2\u0bcd \u0bae\u0ba3\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7ernezyom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0440\u043d\u043e\u0437\u0435\u043c"
     ],
     "name:und_x_variant":[
         "Kara Toprak",
         "Tschernosemen",
         "Chernozemen",
         "Chernozem"
+    ],
+    "name:uzb_x_preferred":[
+        "Qora tuproqlar"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u9223\u571f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +166,7 @@
         }
     ],
     "wof:id":1277105523,
-    "wof:lastmodified":1537587706,
+    "wof:lastmodified":1564177194,
     "wof:name":"Chernozem",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

@@ -33,6 +33,27 @@
     "name:bul_x_variant":[
         "Lavovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0648\u0648\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d5\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u044b\u0432\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141ywowo"
+    ],
+    "name:ron_x_preferred":[
+        "L\u0103vovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044b\u0432\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u0432\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Arslan K\u2019oy",
         "L\u0103wowo",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1310039805,
-    "wof:lastmodified":1537587510,
+    "wof:lastmodified":1564177411,
     "wof:name":"Lavovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

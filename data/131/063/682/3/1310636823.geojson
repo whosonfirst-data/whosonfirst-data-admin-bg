@@ -30,6 +30,36 @@
     "name:bul_x_preferred":[
         "\u0415\u043b\u0448\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Elshica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0634\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10e8\u10d8\u10ea\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0415\u043b\u0448\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Elshitsa"
+    ],
+    "name:pol_x_preferred":[
+        "E\u0142szica"
+    ],
+    "name:ron_x_preferred":[
+        "El\u0219i\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0448\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Elsjitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u043b\u0448\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Arnaut K\u2019oy",
         "Elschiza",
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1310636823,
-    "wof:lastmodified":1537587649,
+    "wof:lastmodified":1564177397,
     "wof:name":"Elshitsa",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

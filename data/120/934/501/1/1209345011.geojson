@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u044f\u043d\u043e\u0432\u043e"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u043d\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633001
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209345011,
-    "wof:lastmodified":1537587738,
+    "wof:lastmodified":1564177281,
     "wof:name":"Boyanovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

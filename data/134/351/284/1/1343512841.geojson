@@ -32,6 +32,27 @@
     "name:bul_x_variant":[
         "Lisia"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0633\u06cc\u06cc\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0438\u0441\u0438\u044f"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u0441\u0438\u0458\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Lisija"
+    ],
+    "name:ron_x_preferred":[
+        "Lisia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u0441\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Lid\u017eene",
         "Lissija",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1343512841,
-    "wof:lastmodified":1537587516,
+    "wof:lastmodified":1564176969,
     "wof:name":"Lisia",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

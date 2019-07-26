@@ -29,6 +29,15 @@
     "name:bul_x_preferred":[
         "\u0412\u043e\u0439\u043d\u0438\u0446\u0438\u0442\u0435"
     ],
+    "name:pol_x_preferred":[
+        "Wojnicite"
+    ],
+    "name:ron_x_preferred":[
+        "Voini\u021bite"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0439\u043d\u0438\u0446\u0456\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Woininzi",
         "Voinits\u016d",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1344188035,
-    "wof:lastmodified":1537587268,
+    "wof:lastmodified":1564176977,
     "wof:name":"Voynitsite",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

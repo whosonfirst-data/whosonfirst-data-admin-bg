@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0441\u0438\u0442\u0435\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dositeevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0633\u06cc\u062a\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0441\u0438\u0442\u0435\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Dositeewo"
+    ],
+    "name:ron_x_preferred":[
+        "Dositeevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0441\u0438\u0442\u0435\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dositeevo"
+    ],
+    "name:szl_x_preferred":[
+        "Dositeewo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0441\u0438\u0442\u0435\u0454\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Syulya K\u2019oy",
         "Dositeewo",
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1293819015,
-    "wof:lastmodified":1537587673,
+    "wof:lastmodified":1564177090,
     "wof:name":"Dositeevo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

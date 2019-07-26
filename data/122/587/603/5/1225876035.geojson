@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0441\u043b\u043e\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Bogoslov"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0441\u043b\u043e\u0432"
+    ],
+    "name:ron_x_preferred":[
+        "Bogoslov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0441\u043b\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Bogoslov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0441\u043b\u043e\u0432"
+    ],
     "name:und_x_variant":[
         "Bogoslow",
         "Bogoslov"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1225876035,
-    "wof:lastmodified":1537587746,
+    "wof:lastmodified":1564177715,
     "wof:name":"Bogoslov",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

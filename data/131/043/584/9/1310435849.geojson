@@ -33,6 +33,9 @@
     "name:bul_x_variant":[
         "Kasak"
     ],
+    "name:swe_x_preferred":[
+        "Kasak"
+    ],
     "name:und_x_variant":[
         "Kas\u016dka",
         "K\u0103ssak",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310435849,
-    "wof:lastmodified":1537587525,
+    "wof:lastmodified":1564177406,
     "wof:name":"Kasak",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

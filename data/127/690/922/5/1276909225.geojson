@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Nane"
+    ],
+    "name:deu_x_preferred":[
+        "Nane"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u0576\u0565"
+    ],
+    "name:pol_x_preferred":[
+        "Nane"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Nane"
+    ],
+    "name:tur_x_preferred":[
+        "Nane"
+    ],
     "name:und_x_variant":[
         "Nanazl\u016d Dag",
         "Nane"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1276909225,
-    "wof:lastmodified":1537587469,
+    "wof:lastmodified":1564177174,
     "wof:name":"Nane",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

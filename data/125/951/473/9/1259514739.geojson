@@ -27,8 +27,29 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u062a\u0634\u0648\u0641\u062a\u0633\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0447\u043e\u0432\u0446\u0438"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u0686\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0440\u0447\u043e\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Parczowci"
+    ],
+    "name:ron_x_preferred":[
+        "Parciov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0447\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0447\u043e\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
         "Parchevts\u016d",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1259514739,
-    "wof:lastmodified":1537587440,
+    "wof:lastmodified":1564177660,
     "wof:name":"Parchovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

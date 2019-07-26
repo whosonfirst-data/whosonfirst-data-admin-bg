@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u0435\u0442\u0438\u043d\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0644\u062a\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Poletin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u0442\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Poletinzi",
         "Poletintsi"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1360118329,
-    "wof:lastmodified":1537587421,
+    "wof:lastmodified":1564177441,
     "wof:name":"Poletintsi",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

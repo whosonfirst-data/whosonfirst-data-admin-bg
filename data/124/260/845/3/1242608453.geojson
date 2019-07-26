@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u041a\u0440\u0435\u043f\u043e\u0441\u0442"
     ],
+    "name:bul_x_variant":[
+        "\u0414\u043e\u043b\u043d\u0430 \u043a\u0440\u0435\u043f\u043e\u0441\u0442"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0627 \u06a9\u0631\u067e\u0648\u0633\u062a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10da\u10dc\u10d0-\u10d9\u10e0\u10d4\u10de\u10dd\u10e1\u10e2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u041a\u0440\u0435\u043f\u043e\u0441\u0442"
+    ],
+    "name:ron_x_preferred":[
+        "Dolna Krepost"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u041a\u0440\u0435\u043f\u043e\u0441\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u044f \u041a\u0440\u0435\u043f\u043e\u0441\u0442"
+    ],
     "name:und_x_variant":[
         "Dere Makhle",
         "Dolna Krepost"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1242608453,
-    "wof:lastmodified":1537587682,
+    "wof:lastmodified":1564177556,
     "wof:name":"Dolna Krepost",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

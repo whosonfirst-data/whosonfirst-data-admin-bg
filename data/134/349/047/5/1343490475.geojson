@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u041c\u0440\u0430\u043a\u0435\u0442\u0438\u043d\u0446\u0438"
     ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0440\u0430\u043a\u0435\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Mraketin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0440\u0430\u043a\u0435\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0440\u0430\u043a\u0435\u0442\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Mrak\u2019otinska",
         "Makhala Mraketnitsi",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1343490475,
-    "wof:lastmodified":1537587474,
+    "wof:lastmodified":1564176948,
     "wof:name":"Mraketintsi",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

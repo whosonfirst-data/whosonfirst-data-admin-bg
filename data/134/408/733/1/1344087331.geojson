@@ -31,6 +31,18 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0448\u0443\u0440\u043a\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0411\u0435\u0441\u043d\u0443\u0440\u043a\u0430"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0441\u043d\u0443\u0440\u043a\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u043d\u0443\u0440\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0441\u043d\u0443\u0440\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Panduguzlar",
         "Beswurka",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1344087331,
-    "wof:lastmodified":1537587756,
+    "wof:lastmodified":1564176929,
     "wof:name":"Besnurka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

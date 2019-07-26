@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0428\u0438\u043f\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Shipkovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u067e\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0438\u043f\u043a\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Szipkowo"
+    ],
+    "name:ron_x_preferred":[
+        "\u0218ipkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043f\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Sjipkovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0438\u043f\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Gorno Shipkovo",
         "Shipkovo"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1310629393,
-    "wof:lastmodified":1537587366,
+    "wof:lastmodified":1564177385,
     "wof:name":"Shipkovo",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

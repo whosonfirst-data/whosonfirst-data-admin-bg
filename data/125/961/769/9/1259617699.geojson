@@ -26,11 +26,23 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0430\u043a\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u044a\u043a\u0430"
     ],
     "name:bul_x_variant":[
         "Laka"
+    ],
+    "name:deu_x_preferred":[
+        "Laka"
+    ],
+    "name:hrv_x_preferred":[
+        "Laka"
+    ],
+    "name:swe_x_preferred":[
+        "Rata"
     ],
     "name:und_x_variant":[
         "Eski-Pasle",
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1259617699,
-    "wof:lastmodified":1537587511,
+    "wof:lastmodified":1564177648,
     "wof:name":"Laka",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

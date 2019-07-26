@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u043d\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Stanevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0627\u0646\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Stanevo"
+    ],
+    "name:ron_x_preferred":[
+        "Stanevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Stanevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u043d\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Labez",
         "Labets",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1259416821,
-    "wof:lastmodified":1537587339,
+    "wof:lastmodified":1564177635,
     "wof:name":"Stanevo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

@@ -33,6 +33,33 @@
     "name:bul_x_variant":[
         "Gabar"
     ],
+    "name:ceb_x_preferred":[
+        "Gabur"
+    ],
+    "name:deu_x_preferred":[
+        "Gabar"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0628\u0627\u0631"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u0431\u044b\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "Gab\u0103r"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0431\u044b\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Gabar"
+    ],
+    "name:swe_x_preferred":[
+        "Gabr"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0431\u0438\u0440"
+    ],
     "name:und_x_variant":[
         "Tschemeren",
         "Chemeren",
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1225880619,
-    "wof:lastmodified":1537587641,
+    "wof:lastmodified":1564177713,
     "wof:name":"Gabar",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

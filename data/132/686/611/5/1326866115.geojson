@@ -31,6 +31,18 @@
     "name:bul_x_variant":[
         "\u0417\u043b\u0430\u0442\u043e\u043b\u0438\u0441\u0442"
     ],
+    "name:fra_x_preferred":[
+        "Zlatolist"
+    ],
+    "name:ron_x_preferred":[
+        "Zlatolist"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u043e\u043b\u0438\u0441\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u043e\u043b\u0438\u0441\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1326866115,
-    "wof:lastmodified":1537587800,
+    "wof:lastmodified":1564176838,
     "wof:name":"Zlatolist",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

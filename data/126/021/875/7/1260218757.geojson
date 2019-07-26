@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mogila"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03b3\u03ba\u03b9\u03bb\u03b1"
+    ],
+    "name:fra_x_preferred":[
+        "Mogila"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10d2\u10d8\u10da\u10d0"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Mogilla"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mogila"
+    ],
     "name:und_x_variant":[
         "Mukhla",
         "Mogila"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1260218757,
-    "wof:lastmodified":1537587478,
+    "wof:lastmodified":1564177358,
     "wof:name":"Mogila",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

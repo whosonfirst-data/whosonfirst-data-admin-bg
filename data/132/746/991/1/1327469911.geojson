@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041f\u043b\u0430\u043d\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0627\u0646\u06cc\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "P\u0142aninowo"
+    ],
+    "name:ron_x_preferred":[
+        "Planinovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0430\u043d\u0438\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Krumovo",
         "Krumowo",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1327469911,
-    "wof:lastmodified":1537587426,
+    "wof:lastmodified":1564176870,
     "wof:name":"Planinovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

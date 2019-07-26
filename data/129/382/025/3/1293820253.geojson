@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0416\u0438\u0432\u043a\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u06cc\u0648\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0438\u0432\u043a\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "\u017biwko"
+    ],
+    "name:ron_x_preferred":[
+        "Jivko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0432\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u0432\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Maz\u016dlite",
         "Mazolet\u016d",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293820253,
-    "wof:lastmodified":1537587237,
+    "wof:lastmodified":1564177044,
     "wof:name":"Zhivko",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

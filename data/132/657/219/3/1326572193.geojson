@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0410\u043d\u0433\u0435\u043b\u0430\u0440\u0438\u0439"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u06af\u0644\u0627\u0631\u06cc\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0433\u0435\u043b\u0430\u0440\u0438\u0439"
+    ],
+    "name:pol_x_preferred":[
+        "Ange\u0142arij"
+    ],
+    "name:por_x_preferred":[
+        "Angelariy"
+    ],
+    "name:ron_x_preferred":[
+        "Anghelari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0433\u0435\u043b\u0430\u0440\u0438\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0433\u0435\u043b\u0430\u0440\u0456\u0439"
+    ],
     "name:und_x_variant":[
         "Soyaklii",
         "Angelarji",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1326572193,
-    "wof:lastmodified":1537587777,
+    "wof:lastmodified":1564176867,
     "wof:name":"Angelariy",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

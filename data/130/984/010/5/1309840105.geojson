@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0415\u043b\u0438\u0441\u0435\u0439\u043d\u0430"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d8\u10e1\u10d4\u10d8\u10dc\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0415\u043b\u0438\u0441\u0435\u0439\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Eliseyna"
+    ],
+    "name:ron_x_preferred":[
+        "Eliseina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0438\u0441\u0435\u0439\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u043b\u0438\u0441\u0435\u0439\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Elisejna",
         "Eliseina",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1309840105,
-    "wof:lastmodified":1537587650,
+    "wof:lastmodified":1564177486,
     "wof:name":"Eliseyna",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

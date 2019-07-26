@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0443\u043c\u0447\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0648\u0645\u0686\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0443\u043c\u0447\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Drumcze"
+    ],
+    "name:ron_x_preferred":[
+        "Drumce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0443\u043c\u0447\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0443\u043c\u0447\u0435"
+    ],
     "name:und_x_variant":[
         "Drumtsche",
         "G\u2019ochiler",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293035003,
-    "wof:lastmodified":1537587665,
+    "wof:lastmodified":1564177066,
     "wof:name":"Drumche",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

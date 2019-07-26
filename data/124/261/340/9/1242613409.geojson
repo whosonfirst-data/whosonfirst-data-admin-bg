@@ -28,7 +28,49 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043b\u044f\u043a\u0441\u0430\u043d\u0434\u0440\u0430\u0432\u0430"
+    ],
     "name:bul_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Aleksandrovo"
+    ],
+    "name:epo_x_preferred":[
+        "Aleksandrovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06a9\u0633\u0627\u0646\u062f\u0631\u0627\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Aleksandrovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0565\u0584\u057d\u0561\u0576\u0564\u0580\u0578\u057e\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Aleksandrovo"
+    ],
+    "name:nld_x_preferred":[
+        "Aleksandrovo"
+    ],
+    "name:ron_x_preferred":[
+        "Aleksandrovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Aleksandrovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Aleksandrovo"
+    ],
+    "name:ukr_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
@@ -58,7 +100,7 @@
         }
     ],
     "wof:id":1242613409,
-    "wof:lastmodified":1537587778,
+    "wof:lastmodified":1564177553,
     "wof:name":"Aleksandrovo",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

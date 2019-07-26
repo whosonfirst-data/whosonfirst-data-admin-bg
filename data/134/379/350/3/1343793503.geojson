@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041a\u043d\u0438\u0436\u043e\u0432\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Knizhovnik"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u06cc\u0698\u0648\u0648\u0646\u06cc\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043d\u0438\u0436\u043e\u0432\u043d\u0438\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Kni\u017cownik"
+    ],
+    "name:ron_x_preferred":[
+        "Knijovnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043d\u0438\u0436\u043e\u0432\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Knizjovnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043d\u0438\u0436\u043e\u0432\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Idebik",
         "Knzhovnik",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1343793503,
-    "wof:lastmodified":1537587558,
+    "wof:lastmodified":1564176943,
     "wof:name":"Knizhovnik",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

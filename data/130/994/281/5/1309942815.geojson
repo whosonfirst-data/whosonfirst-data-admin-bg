@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u0442\u0440\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Vetren"
+    ],
+    "name:fra_x_preferred":[
+        "Vetren"
+    ],
+    "name:por_x_preferred":[
+        "Vetren"
+    ],
+    "name:ron_x_preferred":[
+        "Vetren"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0442\u0440\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Vetren"
+    ],
     "name:und_x_variant":[
         "Tepl\u016deklyuchi L\u016ddzha",
         "Zhitarevo",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1309942815,
-    "wof:lastmodified":1537587238,
+    "wof:lastmodified":1564177493,
     "wof:name":"Vetren",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

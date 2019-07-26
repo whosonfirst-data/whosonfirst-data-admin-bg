@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0448\u0435\u0432\u0441\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Mishevsko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0634\u0648\u0633\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0448\u0435\u0432\u0441\u043a\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Mi\u0219evsko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0448\u0435\u0432\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Misjevsko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0448\u0435\u0432\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Kyuchuk-Viran",
         "Mischewsko",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1225979405,
-    "wof:lastmodified":1537587480,
+    "wof:lastmodified":1564177721,
     "wof:name":"Mishevsko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

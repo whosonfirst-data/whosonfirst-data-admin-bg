@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0432\u0430\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Prevala"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0435\u0432\u0430\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Prevala"
+    ],
+    "name:ron_x_preferred":[
+        "Prevala"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0432\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Prevala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0432\u0430\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Prewala",
         "Prevala"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1243400467,
-    "wof:lastmodified":1537587408,
+    "wof:lastmodified":1564177568,
     "wof:name":"Prevala",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u0441\u043a\u0430 \u0411\u0435\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ruska Bela"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10e3\u10e1\u10d9\u10d0-\u10d1\u10d4\u10da\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0443\u0441\u043a\u0430-\u0411\u0435\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Ruska Bela"
+    ],
+    "name:ron_x_preferred":[
+        "Ruska Bela"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u043a\u0430-\u0411\u0435\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ruska Bela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0441\u044c\u043a\u0430 \u0411\u0435\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Byela-Ruska",
         "Ruska Byala",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1343598505,
-    "wof:lastmodified":1537587378,
+    "wof:lastmodified":1564176955,
     "wof:name":"Ruska Bela",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

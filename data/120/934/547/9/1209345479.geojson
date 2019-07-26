@@ -31,6 +31,39 @@
     "name:bul_x_preferred":[
         "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Vladimirovo"
+    ],
+    "name:deu_x_preferred":[
+        "Wladimirowo"
+    ],
+    "name:est_x_preferred":[
+        "Vladimirovo"
+    ],
+    "name:fra_x_preferred":[
+        "Vladimirovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056c\u0561\u0564\u056b\u0574\u056b\u0580\u0578\u057e\u0578"
+    ],
+    "name:pol_x_preferred":[
+        "W\u0142adimirowo"
+    ],
+    "name:ron_x_preferred":[
+        "Vladimirovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Vladimirovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Khad\u016dr",
         "Wladimirowo",
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1209345479,
-    "wof:lastmodified":1537587273,
+    "wof:lastmodified":1564177283,
     "wof:name":"Vladimirovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

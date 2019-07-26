@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0447\u0435\u0432\u043e"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Balabash",
         "Balabantschewo",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1276473693,
-    "wof:lastmodified":1537587771,
+    "wof:lastmodified":1564177158,
     "wof:name":"Balabanchevo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

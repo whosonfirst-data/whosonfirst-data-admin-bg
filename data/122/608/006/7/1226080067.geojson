@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0434\u0438\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dedina"
+    ],
+    "name:deu_x_preferred":[
+        "Dedina"
+    ],
+    "name:fra_x_preferred":[
+        "Dedina"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0564\u056b\u0576\u0561"
+    ],
+    "name:msa_x_preferred":[
+        "Dedina"
+    ],
+    "name:por_x_preferred":[
+        "Dedina"
+    ],
+    "name:slv_x_preferred":[
+        "Dedina"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0435\u0434\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Dede Mekhle",
         "Dedina"
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1226080067,
-    "wof:lastmodified":1537587696,
+    "wof:lastmodified":1564177757,
     "wof:name":"Dedina",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

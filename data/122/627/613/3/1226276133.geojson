@@ -29,6 +29,15 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0436\u0435\u0446"
     ],
+    "name:ron_x_preferred":[
+        "Straje\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Chukurite",
         "Tschukurite",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226276133,
-    "wof:lastmodified":1537587329,
+    "wof:lastmodified":1564177687,
     "wof:name":"Strazhets",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

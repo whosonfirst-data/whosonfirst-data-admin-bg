@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0426\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Tsenovo"
+    ],
+    "name:swe_x_preferred":[
+        "Tsenovo"
+    ],
     "name:und_x_variant":[
         "Koymatlii",
         "Zenewo",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1209945065,
-    "wof:lastmodified":1537587299,
+    "wof:lastmodified":1564177277,
     "wof:name":"Tsenovo",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

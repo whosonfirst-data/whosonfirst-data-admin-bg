@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0415\u0437\u0435\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Ezerovo"
+    ],
+    "name:ron_x_preferred":[
+        "Ezerovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0437\u0435\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Ezerovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0437\u0435\u0440\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Yezerovo",
         "Dipsiz-G\u2019ol",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1193046805,
-    "wof:lastmodified":1537587646,
+    "wof:lastmodified":1564177313,
     "wof:name":"Ezerovo",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

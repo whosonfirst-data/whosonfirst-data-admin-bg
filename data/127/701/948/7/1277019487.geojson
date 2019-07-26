@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043a\u043b\u044f"
     ],
+    "name:pol_x_preferred":[
+        "Kukla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043a\u043b\u044f"
+    ],
     "name:und_x_variant":[
         "Kuklevts\u016d",
         "Kuklya"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1277019487,
-    "wof:lastmodified":1537587529,
+    "wof:lastmodified":1564177107,
     "wof:name":"Kuklya",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Vinevo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u043d\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Winewo"
+    ],
+    "name:ron_x_preferred":[
+        "Vinevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Vinevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043d\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Sheremetler",
         "Winewo",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1344093809,
-    "wof:lastmodified":1537587276,
+    "wof:lastmodified":1564176937,
     "wof:name":"Vinevo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

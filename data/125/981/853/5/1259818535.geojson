@@ -31,6 +31,18 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u0442\u0435\u0446"
     ],
+    "name:fra_x_preferred":[
+        "Listets"
+    ],
+    "name:ron_x_preferred":[
+        "Liste\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0442\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Listets"
+    ],
     "name:und_x_variant":[
         "Kara Aliler",
         "Listez",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1259818535,
-    "wof:lastmodified":1537587516,
+    "wof:lastmodified":1564177670,
     "wof:name":"Listets",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

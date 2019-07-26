@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0437\u0434\u043e\u043b"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0632\u062f\u0648\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0437\u0434\u043e\u043b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0437\u0434\u043e\u043b"
+    ],
+    "name:ron_x_preferred":[
+        "Razdol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0437\u0434\u043e\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0437\u0434\u043e\u043b"
+    ],
     "name:und_x_variant":[
         "Rasdol",
         "Razdol"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1259922669,
-    "wof:lastmodified":1537587389,
+    "wof:lastmodified":1564177651,
     "wof:name":"Razdol",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

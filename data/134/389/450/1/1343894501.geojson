@@ -29,6 +29,33 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u043e\u0447\u0438\u043d\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062a\u0648\u0686\u06cc\u0646\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e2\u10dd\u10e9\u10d8\u10dc\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0442\u043e\u0447\u0438\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Matochina"
+    ],
+    "name:pol_x_preferred":[
+        "Matoczina"
+    ],
+    "name:ron_x_preferred":[
+        "Matocina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u043e\u0447\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Matochina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u043e\u0447\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Fikla",
         "Matoschina",
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1343894501,
-    "wof:lastmodified":1537587491,
+    "wof:lastmodified":1564176991,
     "wof:name":"Matochina",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

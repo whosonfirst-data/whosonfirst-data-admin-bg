@@ -29,6 +29,33 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0448\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Leshko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0634\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u0448\u043a\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u0448\u043a\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Leszko"
+    ],
+    "name:ron_x_preferred":[
+        "Le\u0219ko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0448\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Leshko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0448\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Le\u0161ko",
         "Leschko",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1343700427,
-    "wof:lastmodified":1537587521,
+    "wof:lastmodified":1564176947,
     "wof:name":"Leshko",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

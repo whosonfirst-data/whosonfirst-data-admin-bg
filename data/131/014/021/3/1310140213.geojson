@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u0431\u0440\u0438\u043a\u0430"
     ],
+    "name:deu_x_preferred":[
+        "Fabrika"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0628\u0631\u06cc\u06a9\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Fabrika"
+    ],
+    "name:nld_x_preferred":[
+        "Fabrika"
+    ],
+    "name:pol_x_preferred":[
+        "Fabrika"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u0431\u0440\u0438\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0431\u0440\u0438\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Promishleno Selo Fabrika",
         "Fabrika"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1310140213,
-    "wof:lastmodified":1537587646,
+    "wof:lastmodified":1564177383,
     "wof:name":"Fabrika",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

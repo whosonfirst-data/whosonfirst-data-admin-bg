@@ -26,7 +26,148 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645\u0627\u0646\u0648\u0641\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u0430\u0432\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:bre_x_preferred":[
+        "Kumanovo"
+    ],
     "name:bul_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:ces_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:chu_x_preferred":[
+        "\u041a\u043e\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:dan_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:deu_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03bc\u03ac\u03bd\u03bf\u03b2\u03bf"
+    ],
+    "name:est_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u0646\u0648\u0641\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:fra_x_preferred":[
+        "Koumanovo"
+    ],
+    "name:gle_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05de\u05d0\u05e0\u05d5\u05d1\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:hsb_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:hun_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0574\u0561\u0576\u0578\u057e\u0578"
+    ],
+    "name:ile_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:ind_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:ita_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30de\u30ce\u30f4\u30a9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10db\u10d0\u10dc\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ub9c8\ub178\ubcf4"
+    ],
+    "name:lav_x_preferred":[
+        "Kumanova"
+    ],
+    "name:lit_x_preferred":[
+        "Kumanovas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:nld_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:nno_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:nor_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:pol_x_preferred":[
+        "Kumanowo"
+    ],
+    "name:ron_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:slv_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:spa_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Kumanova"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Kumanova"
+    ],
+    "name:ukr_x_preferred":[
         "\u041a\u0443\u043c\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
@@ -35,6 +176,12 @@
         "Eni Kioi",
         "Eni-K\u2019oy",
         "Kumanovo"
+    ],
+    "name:vol_x_preferred":[
+        "Kumanovo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u9a6c\u8bfa\u6c83"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +204,7 @@
         }
     ],
     "wof:id":1276160111,
-    "wof:lastmodified":1537587528,
+    "wof:lastmodified":1564177131,
     "wof:name":"Kumanovo",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

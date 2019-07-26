@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u043b\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Maslinovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u0644\u06cc\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0441\u043b\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Maslinowo"
+    ],
+    "name:ron_x_preferred":[
+        "Maslinovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u043b\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Maslinovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0441\u043b\u0438\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Yakhyali",
         "Maslinowo",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1343796365,
-    "wof:lastmodified":1537587491,
+    "wof:lastmodified":1564176946,
     "wof:name":"Maslinovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

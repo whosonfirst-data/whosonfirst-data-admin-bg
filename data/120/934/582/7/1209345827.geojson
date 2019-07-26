@@ -33,6 +33,21 @@
     "name:bul_x_variant":[
         "Maglene"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u0644\u0646\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u044b\u0433\u043b\u0435\u043d\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "M\u0103glene"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044b\u0433\u043b\u0435\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0433\u043b\u0435\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Bulutlar",
         "M\u0103glene",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1209345827,
-    "wof:lastmodified":1537587472,
+    "wof:lastmodified":1564177283,
     "wof:name":"Maglene",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

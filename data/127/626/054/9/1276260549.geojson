@@ -29,6 +29,39 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u0442\u043e\u043f\u043e\u043f\u0438\u043d\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u062a\u0648\u067e\u0648\u067e\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Protopopinci"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u043e\u0442\u043e\u043f\u043e\u043f\u0438\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Protopopinci"
+    ],
+    "name:pol_x_preferred":[
+        "Protopopinci"
+    ],
+    "name:por_x_preferred":[
+        "Protopopinci"
+    ],
+    "name:ron_x_preferred":[
+        "Protopopin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0442\u043e\u043f\u043e\u043f\u0438\u043d\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Protopopinci"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u043e\u0442\u043e\u043f\u043e\u043f\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0442\u043e\u043f\u043e\u043f\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Protopopinzi",
         "Protopopintsi"
@@ -55,7 +88,7 @@
         }
     ],
     "wof:id":1276260549,
-    "wof:lastmodified":1537587404,
+    "wof:lastmodified":1564177116,
     "wof:name":"Protopopintsi",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

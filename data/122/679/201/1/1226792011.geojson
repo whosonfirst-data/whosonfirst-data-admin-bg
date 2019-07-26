@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0431\u043e\u0432\u0435\u0446"
     ],
+    "name:crh_x_preferred":[
+        "Veyisk\u00f6y"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0628\u0648\u0648\u062a\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0432\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Bobowec"
+    ],
+    "name:ron_x_preferred":[
+        "Bobove\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0431\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Veis K\u2019oy",
         "Bobowec",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1226792011,
-    "wof:lastmodified":1537587749,
+    "wof:lastmodified":1564177740,
     "wof:name":"Bobovets",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

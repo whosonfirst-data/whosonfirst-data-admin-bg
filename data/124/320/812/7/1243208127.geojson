@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0448\u043a\u0443\u043b"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0634\u06a9\u0648\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Paszku\u0142"
+    ],
+    "name:ron_x_preferred":[
+        "Pa\u0219kul"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u0443\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0448\u043a\u0443\u043b"
+    ],
     "name:und_x_variant":[
         "Topuzlar",
         "Paschkul",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1243208127,
-    "wof:lastmodified":1537587439,
+    "wof:lastmodified":1564177603,
     "wof:name":"Pashkul",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

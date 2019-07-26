@@ -31,6 +31,30 @@
     "name:bul_x_variant":[
         "\u0422\u043e\u043f\u043e\u043b\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Topolica"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u067e\u0648\u0644\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Topolica"
+    ],
+    "name:ron_x_preferred":[
+        "Topoli\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Topolitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1260116731,
-    "wof:lastmodified":1537587792,
+    "wof:lastmodified":1564177351,
     "wof:name":"Topolitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

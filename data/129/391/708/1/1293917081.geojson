@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0432\u0435\u0442\u0438\u043d\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u062a\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u0432\u0435\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Devetin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0432\u0435\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0432\u0435\u0442\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Dewetinzi",
         "Dokuzek",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1293917081,
-    "wof:lastmodified":1537587693,
+    "wof:lastmodified":1564177000,
     "wof:name":"Devetintsi",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

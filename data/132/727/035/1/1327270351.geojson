@@ -27,12 +27,36 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Schwoaza G\u00fcpfi"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0438 \u0432\u0440\u044a\u0445"
     ],
     "name:bul_x_variant":[
         "Cherni Vrah",
         "\u0427\u0435\u0440\u043d\u0438 \u0412\u0440\u044a\u0445"
+    ],
+    "name:ceb_x_preferred":[
+        "Cherni Vrah"
+    ],
+    "name:deu_x_preferred":[
+        "Tscherni Wrach"
+    ],
+    "name:pol_x_preferred":[
+        "Czarny Wierch"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0438-\u0412\u0440\u044b\u0445"
+    ],
+    "name:slk_x_preferred":[
+        "\u010cerni vr\u0103ch"
+    ],
+    "name:swe_x_preferred":[
+        "Tjerni vrch"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0456-\u0412\u0440\u0438\u0445"
     ],
     "name:und_x_variant":[
         "Tscherni Wr\u0103ch",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1327270351,
-    "wof:lastmodified":1537587708,
+    "wof:lastmodified":1564176912,
     "wof:name":"Cherni Vrah",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

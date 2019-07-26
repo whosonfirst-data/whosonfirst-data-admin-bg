@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u041e\u0441\u043c\u0430\u0440"
     ],
+    "name:deu_x_preferred":[
+        "Osmar"
+    ],
+    "name:spa_x_preferred":[
+        "Osmar"
+    ],
     "name:und_x_variant":[
         "Osman",
         "Osmar"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276263645,
-    "wof:lastmodified":1537587447,
+    "wof:lastmodified":1564177115,
     "wof:name":"Osmar",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

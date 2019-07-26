@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u041e\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0646\u0648 \u0627\u0648\u0633\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Gorno Osenowo"
+    ],
+    "name:ron_x_preferred":[
+        "Gorno Osenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u0454 \u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Gorno Ossenowo",
         "Gorno Osenovo"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1243123727,
-    "wof:lastmodified":1537587616,
+    "wof:lastmodified":1564177564,
     "wof:name":"Gorno Osenovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

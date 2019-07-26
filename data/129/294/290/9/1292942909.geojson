@@ -32,6 +32,24 @@
     "name:bul_x_variant":[
         "Tarnava"
     ],
+    "name:ceb_x_preferred":[
+        "Tarnava"
+    ],
+    "name:fra_x_preferred":[
+        "Tarnava"
+    ],
+    "name:ita_x_preferred":[
+        "Tarnava"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044b\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0430\u0440\u043d\u0430\u0432\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tarnava"
+    ],
     "name:und_x_variant":[
         "T\u0103rnawa",
         "T\u016drnava"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1292942909,
-    "wof:lastmodified":1537587293,
+    "wof:lastmodified":1564177024,
     "wof:name":"Tarnava",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

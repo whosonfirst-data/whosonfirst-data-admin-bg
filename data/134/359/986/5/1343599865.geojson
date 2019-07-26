@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0437\u0432\u043e\u0434\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bezvodica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0632\u0648\u0648\u062f\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0437\u0432\u043e\u0434\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Bezwodica"
+    ],
+    "name:ron_x_preferred":[
+        "Bezvodi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0437\u0432\u043e\u0434\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bezvoditsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0437\u0432\u043e\u0434\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Susuz K\u2019oy",
         "Bezwodica",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1343599865,
-    "wof:lastmodified":1537587755,
+    "wof:lastmodified":1564176962,
     "wof:name":"Bezvoditsa",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u044f\u043d\u0430"
     ],
+    "name:pol_x_preferred":[
+        "Bojana"
+    ],
+    "name:por_x_preferred":[
+        "Boiana"
+    ],
     "name:und_x_variant":[
         "Kokardzha",
         "Bojana",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1310341623,
-    "wof:lastmodified":1537587739,
+    "wof:lastmodified":1564177417,
     "wof:name":"Boyana",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

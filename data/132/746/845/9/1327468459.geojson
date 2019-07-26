@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Stambolovo"
+    ],
+    "name:fra_x_preferred":[
+        "Stambolovo"
+    ],
+    "name:ron_x_preferred":[
+        "Stambolovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Stambolovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Garvan",
         "Stefan-Stambolowo",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1327468459,
-    "wof:lastmodified":1537587340,
+    "wof:lastmodified":1564176870,
     "wof:name":"Stambolovo",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

@@ -30,6 +30,45 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u0437\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Rezovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0632\u0648\u0648\u0648"
+    ],
+    "name:isl_x_preferred":[
+        "Rezovo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d4\u10d6\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0435\u0437\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Rezovo"
+    ],
+    "name:pol_x_preferred":[
+        "Rezowo"
+    ],
+    "name:ron_x_preferred":[
+        "Rezovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0437\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Rezovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u0437\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Rezovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0437\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Eni K\u2019oy",
         "Ryazovo",
@@ -61,7 +100,7 @@
         }
     ],
     "wof:id":1326458917,
-    "wof:lastmodified":1537587387,
+    "wof:lastmodified":1564176848,
     "wof:name":"Rezovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041c\u043b\u0435\u0447\u0435\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0686\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043b\u0435\u0447\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Mleczewo"
+    ],
+    "name:ron_x_preferred":[
+        "Mlecevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043b\u0435\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043b\u0435\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Mletschewo",
         "Mlechevo"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1327365183,
-    "wof:lastmodified":1537587478,
+    "wof:lastmodified":1564176831,
     "wof:name":"Mlechevo",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

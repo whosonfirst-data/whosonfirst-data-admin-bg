@@ -28,8 +28,38 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0627\u0645\u0627\u0646\u0648\u0641\u062a\u0633\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0433\u0430\u043d\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Draganovci"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u06af\u0627\u0646\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Draganowci"
+    ],
+    "name:ron_x_preferred":[
+        "Draganov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Draganovtsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u043e\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
         "Nova Makhala",
@@ -62,7 +92,7 @@
         }
     ],
     "wof:id":1276803815,
-    "wof:lastmodified":1537587671,
+    "wof:lastmodified":1564177128,
     "wof:name":"Draganovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

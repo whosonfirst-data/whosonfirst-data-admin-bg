@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0432\u0435\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Zavet"
+    ],
+    "name:por_x_preferred":[
+        "Zavet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0432\u0435\u0442"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u0432\u0435\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Zavet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0432\u0435\u0442"
+    ],
     "name:und_x_variant":[
         "Bar\u016dk",
         "Zavyet",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293718673,
-    "wof:lastmodified":1537587245,
+    "wof:lastmodified":1564177042,
     "wof:name":"Zavet",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0410\u0443\u0441\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Austa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a6\u30b9\u30bf"
+    ],
+    "name:pol_x_preferred":[
+        "Austa"
+    ],
+    "name:ron_x_preferred":[
+        "Austa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0443\u0441\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Austa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0443\u0441\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1293817529,
-    "wof:lastmodified":1537587774,
+    "wof:lastmodified":1564177089,
     "wof:name":"Austa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

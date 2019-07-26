@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u044f\u043c\u043e \u0411\u0435\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Golyamo Belovo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10da\u10d8\u10d0\u10db\u10dd-\u10d1\u10d4\u10da\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u043e-\u0411\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Golyamo Belovo"
+    ],
+    "name:ron_x_preferred":[
+        "Goleamo Belovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u043e-\u0411\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Golyamo Belovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u043e-\u0411\u0435\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Golyemo Byel\u00ebvo",
         "Golyemo-Byelovo",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1293326887,
-    "wof:lastmodified":1537587626,
+    "wof:lastmodified":1564177071,
     "wof:name":"Golyamo Belovo",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

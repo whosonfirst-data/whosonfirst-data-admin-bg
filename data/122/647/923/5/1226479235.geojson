@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Oreshak"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10d4\u10e8\u10d0\u10d9\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0440\u0435\u0448\u0430\u043a"
+    ],
+    "name:ron_x_preferred":[
+        "Ore\u0219ak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0435\u0448\u0430\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Oreshak"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0435\u0448\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Dzhevizlii",
         "Oreschak",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1226479235,
-    "wof:lastmodified":1537587453,
+    "wof:lastmodified":1564177730,
     "wof:name":"Oreshak",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

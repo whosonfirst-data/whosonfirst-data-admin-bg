@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u041e\u0431\u0438\u0447\u043d\u0438\u043a"
     ],
+    "name:pol_x_preferred":[
+        "Obicznik"
+    ],
+    "name:ron_x_preferred":[
+        "Obicinik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0438\u0447\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u0438\u0447\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Obitschnik",
         "Olkhamurlu",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1259618291,
-    "wof:lastmodified":1537587457,
+    "wof:lastmodified":1564177645,
     "wof:name":"Obichnik",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

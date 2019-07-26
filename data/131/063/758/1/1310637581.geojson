@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0432\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Savin"
+    ],
+    "name:deu_x_preferred":[
+        "Savin"
+    ],
+    "name:fra_x_preferred":[
+        "Savin"
+    ],
+    "name:ron_x_preferred":[
+        "Savin"
+    ],
+    "name:slv_x_preferred":[
+        "Savin"
+    ],
+    "name:swe_x_preferred":[
+        "Savin"
+    ],
     "name:und_x_variant":[
         "Dzhaferovo",
         "Sawin",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1310637581,
-    "wof:lastmodified":1537587373,
+    "wof:lastmodified":1564177397,
     "wof:name":"Savin",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

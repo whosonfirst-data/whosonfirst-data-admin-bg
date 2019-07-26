@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "Dolno Yabalkovo"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648 \u06cc\u0627\u0628\u0627\u0644\u06a9\u0648\u0641\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u042f\u0431\u044b\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Iab\u0103lkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u042f\u0431\u044b\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u042f\u0431\u0438\u043b\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Dolno Yabelkovo",
         "Dolno Almalii",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1326467103,
-    "wof:lastmodified":1537587674,
+    "wof:lastmodified":1564176888,
     "wof:name":"Dolno Yabalkovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

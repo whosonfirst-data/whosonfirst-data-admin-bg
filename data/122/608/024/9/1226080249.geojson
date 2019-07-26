@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u043c\u0438\u043b"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u043c\u0438\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Bogomi\u0142"
+    ],
+    "name:ron_x_preferred":[
+        "Bogomil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u043c\u0438\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u043c\u0438\u043b"
+    ],
     "name:und_x_variant":[
         "Teke",
         "Bogomil"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1226080249,
-    "wof:lastmodified":1537587746,
+    "wof:lastmodified":1564177757,
     "wof:name":"Bogomil",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

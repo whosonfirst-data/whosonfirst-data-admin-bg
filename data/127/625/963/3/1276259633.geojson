@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0430 \u0441\u043a\u0430\u043b\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0646\u0627 \u0633\u06a9\u0627\u0644\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d4\u10e0\u10dc\u10d0-\u10e1\u10d9\u10d0\u10da\u10d0"
+    ],
+    "name:pol_x_preferred":[
+        "Czerna ska\u0142a"
+    ],
+    "name:ron_x_preferred":[
+        "Cerna Skala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0430-\u0421\u043a\u0430\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0430 \u0421\u043a\u0430\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Kara Kaya",
         "Tscherna-Skala",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1276259633,
-    "wof:lastmodified":1537587711,
+    "wof:lastmodified":1564177154,
     "wof:name":"Cherna Skala",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

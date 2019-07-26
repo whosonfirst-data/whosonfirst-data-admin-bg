@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u044f\u043a"
     ],
+    "name:fra_x_preferred":[
+        "Kamenyak"
+    ],
+    "name:ron_x_preferred":[
+        "Kameneak"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u044f\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u044f\u043a"
+    ],
     "name:und_x_variant":[
         "Tashl\u016dk",
         "Kamenjak",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1209345361,
-    "wof:lastmodified":1537587579,
+    "wof:lastmodified":1564177282,
     "wof:name":"Kamenyak",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0432\u043e\u043b\u044f\u043d\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u0648\u0644\u06cc\u0627\u0646\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0438\u0432\u043e\u043b\u044f\u043d\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Biwolane"
+    ],
+    "name:ron_x_preferred":[
+        "Bivoleane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0432\u043e\u043b\u044f\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0432\u043e\u043b\u044f\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Mandazhilar",
         "Biwoljane",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1209350761,
-    "wof:lastmodified":1537587752,
+    "wof:lastmodified":1564177262,
     "wof:name":"Bivolyane",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

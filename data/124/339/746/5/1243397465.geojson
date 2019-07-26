@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043f\u0435\u043d"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u067e\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0443\u043f\u0435\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Kupen"
+    ],
+    "name:ron_x_preferred":[
+        "Kupen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043f\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043f\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Kopen\u016d",
         "Kopeni",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1243397465,
-    "wof:lastmodified":1537587527,
+    "wof:lastmodified":1564177532,
     "wof:name":"Kupen",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

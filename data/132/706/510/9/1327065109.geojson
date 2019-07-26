@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u044f\u043d\u0441\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u06cc\u0627\u0646\u0633\u06a9\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10da\u10d8\u10d0\u10dc\u10e1\u10d9\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0438\u043b\u044f\u043d\u0441\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Bilyanska"
+    ],
+    "name:ron_x_preferred":[
+        "Bileanska"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043b\u044f\u043d\u0441\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u043b\u044f\u043d\u0441\u044c\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Biljanka Machala",
         "Bilyanska"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1327065109,
-    "wof:lastmodified":1537587754,
+    "wof:lastmodified":1564176819,
     "wof:name":"Bilyanska",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

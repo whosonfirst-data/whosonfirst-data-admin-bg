@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0446\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Ortsevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u062a\u0633\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0440\u0446\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0446\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Or\u021bevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0446\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Ortsevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0446\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Orzewo Machala",
         "Ortsevo"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1327085803,
-    "wof:lastmodified":1537587450,
+    "wof:lastmodified":1564176826,
     "wof:name":"Ortsevo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

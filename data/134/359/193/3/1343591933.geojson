@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0434\u0430\u043b\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0631\u0627\u062f\u0627\u0644\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0434\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Stradalovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0434\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0434\u0430\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Stradalowo",
         "Stradalovo"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1343591933,
-    "wof:lastmodified":1537587330,
+    "wof:lastmodified":1564176953,
     "wof:name":"Stradalovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

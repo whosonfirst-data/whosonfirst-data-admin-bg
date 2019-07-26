@@ -27,8 +27,29 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0644\u064a\u0641\u062a\u0633\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u0435\u0432\u0446\u0438"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0644\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Milewci"
+    ],
+    "name:ron_x_preferred":[
+        "Milev\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043b\u0435\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
         "Mil\u2019ovtsi",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1225978689,
-    "wof:lastmodified":1537587482,
+    "wof:lastmodified":1564177720,
     "wof:name":"Milevtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

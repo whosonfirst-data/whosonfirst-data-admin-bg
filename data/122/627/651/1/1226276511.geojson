@@ -33,6 +33,18 @@
     "name:bul_x_variant":[
         "\u0411\u0435\u043b\u0438 \u0411\u0440\u043e\u0434"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u0438-\u0411\u0440\u043e\u0434"
+    ],
+    "name:ron_x_preferred":[
+        "Beli Brod"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0438-\u0411\u0440\u043e\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0439 \u0411\u0440\u043e\u0434"
+    ],
     "name:und_x_variant":[
         "Byeli Brod",
         "Beli Brod"
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1226276511,
-    "wof:lastmodified":1537587761,
+    "wof:lastmodified":1564177683,
     "wof:name":"Beli Brod",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

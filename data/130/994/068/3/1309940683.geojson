@@ -30,6 +30,36 @@
     "name:bul_x_preferred":[
         "\u0413\u0443\u0433\u0443\u0442\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Gugutka"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u06af\u0648\u062a\u06a9\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d2\u10e3\u10e2\u10d9\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0443\u0433\u0443\u0442\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Gugutka"
+    ],
+    "name:pol_x_preferred":[
+        "Gugutka"
+    ],
+    "name:ron_x_preferred":[
+        "Gugutka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0433\u0443\u0442\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gugutka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0433\u0443\u0442\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Arnaut-Kjoj",
         "Anaut-K\u2019oy",
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1309940683,
-    "wof:lastmodified":1537587603,
+    "wof:lastmodified":1564177496,
     "wof:name":"Gugutka",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

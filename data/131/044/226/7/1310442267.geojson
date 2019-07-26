@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u0448\u0430\u043d\u043e\u0432\u043e"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03c3\u03ac\u03bd\u03bf\u03b2\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0634\u0627\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0438\u0448\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Ti\u0219anovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0448\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0448\u0430\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tishakovo",
         "Tischanowo",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1310442267,
-    "wof:lastmodified":1537587311,
+    "wof:lastmodified":1564177400,
     "wof:name":"Tishanovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

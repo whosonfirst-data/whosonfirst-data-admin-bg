@@ -32,6 +32,27 @@
     "name:bul_x_variant":[
         "Tvarditsa"
     ],
+    "name:ceb_x_preferred":[
+        "Tvarditsa"
+    ],
+    "name:fra_x_preferred":[
+        "Tvarditsa"
+    ],
+    "name:nld_x_preferred":[
+        "Tvarditsa"
+    ],
+    "name:ron_x_preferred":[
+        "Tv\u0103rdi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0432\u044b\u0440\u0434\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tvarditsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0432\u0438\u0440\u0434\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Kalaydzhi Dere",
         "Calaiaidere",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1193216563,
-    "wof:lastmodified":1537587291,
+    "wof:lastmodified":1564177334,
     "wof:name":"Tvarditsa",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

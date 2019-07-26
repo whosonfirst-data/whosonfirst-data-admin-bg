@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0432\u0443\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Levunovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0648\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u0432\u0443\u043d\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u0432\u0443\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Lewunowo"
+    ],
+    "name:ron_x_preferred":[
+        "Levunovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0443\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Levunovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0432\u0443\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Delchevo",
         "Livanovon",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1259918569,
-    "wof:lastmodified":1537587518,
+    "wof:lastmodified":1564177624,
     "wof:name":"Levunovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -28,8 +28,65 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u0419\u043e\u043d\u0434\u043e\u0499"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0432\u0435\u0437\u0434\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Zvezda"
+    ],
+    "name:est_x_preferred":[
+        "Zvezda"
+    ],
+    "name:fin_x_preferred":[
+        "Zvezda"
+    ],
+    "name:fra_x_preferred":[
+        "Zvezda"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u057e\u0565\u0566\u0564\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Zvezda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30f4\u30a7\u30ba\u30c0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc988\ubca0\uc988\ub2e4"
+    ],
+    "name:lez_x_preferred":[
+        "\u0413\u044a\u0435\u0434"
+    ],
+    "name:lit_x_preferred":[
+        "\u017dvaig\u017ed\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Zvezda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0432\u0435\u0437\u0434\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Hviezda"
+    ],
+    "name:slv_x_preferred":[
+        "Zvezda"
+    ],
+    "name:spa_x_preferred":[
+        "Zvezd\u00e1"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0432\u0435\u0437\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Zvezda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0432\u0454\u0437\u0434\u0430"
     ],
     "name:und_x_variant":[
         "Ayvadzhik",
@@ -57,7 +114,7 @@
         }
     ],
     "wof:id":1293237365,
-    "wof:lastmodified":1537587228,
+    "wof:lastmodified":1564177030,
     "wof:name":"Zvezda",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

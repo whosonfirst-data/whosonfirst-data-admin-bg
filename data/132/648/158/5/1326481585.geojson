@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0437\u0438\u043d\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u06af\u0648\u0632\u06cc\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0437\u0438\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Rogozina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0437\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0437\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Khas\u016dr Kuyusu",
         "Chass\u0103rkuj\u00fcssu",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1326481585,
-    "wof:lastmodified":1537587384,
+    "wof:lastmodified":1564176889,
     "wof:name":"Rogozina",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

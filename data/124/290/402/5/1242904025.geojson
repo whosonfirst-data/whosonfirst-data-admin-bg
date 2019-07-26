@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0433\u043b\u0435\u0434"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u06af\u0644\u062f"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0433\u043b\u0435\u0434"
+    ],
+    "name:ron_x_preferred":[
+        "Dobrogled"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0433\u043b\u0435\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0433\u043b\u0435\u0434"
+    ],
     "name:und_x_variant":[
         "Elech",
         "Dobrogled"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1242904025,
-    "wof:lastmodified":1537587687,
+    "wof:lastmodified":1564177595,
     "wof:name":"Dobrogled",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "Dabovik"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0628\u0648\u0648\u06cc\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u044b\u0431\u043e\u0432\u0438\u043a"
+    ],
+    "name:ron_x_preferred":[
+        "D\u0103bovik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044b\u0431\u043e\u0432\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0438\u0431\u043e\u0432\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Kharmanl\u016dk",
         "Charmanl\u0103k",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1326668413,
-    "wof:lastmodified":1537587661,
+    "wof:lastmodified":1564176861,
     "wof:name":"Dabovik",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

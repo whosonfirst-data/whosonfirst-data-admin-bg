@@ -31,6 +31,21 @@
     "name:bul_x_variant":[
         "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
     ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
+    "name:pol_x_preferred":[
+        "Progres"
+    ],
+    "name:ron_x_preferred":[
+        "Progres"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u0440\u0435\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1226378747,
-    "wof:lastmodified":1537587797,
+    "wof:lastmodified":1564177750,
     "wof:name":"Progres",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

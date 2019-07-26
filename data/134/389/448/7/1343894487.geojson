@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Mak"
+    ],
+    "name:hrv_x_preferred":[
+        "Mak"
+    ],
+    "name:pol_x_preferred":[
+        "Mak"
+    ],
+    "name:slk_x_preferred":[
+        "Mak"
+    ],
+    "name:swe_x_preferred":[
+        "Mak"
+    ],
     "name:und_x_variant":[
         "M\u016dk M\u016dl",
         "Mak"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1343894487,
-    "wof:lastmodified":1537587505,
+    "wof:lastmodified":1564176987,
     "wof:name":"Mak",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

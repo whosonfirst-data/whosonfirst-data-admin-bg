@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u044f\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Boyan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0575\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Boyan"
+    ],
+    "name:msa_x_preferred":[
+        "Boyan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Boyan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u044f\u043d"
+    ],
     "name:und_x_variant":[
         "Piri Fak",
         "Bojan",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1326463973,
-    "wof:lastmodified":1537587739,
+    "wof:lastmodified":1564176884,
     "wof:name":"Boyan",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

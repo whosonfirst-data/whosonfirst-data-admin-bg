@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0437\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Kozica"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0632\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0437\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Kozi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kozitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0437\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Akhmed Dere",
         "Kosiza",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1277112945,
-    "wof:lastmodified":1537587541,
+    "wof:lastmodified":1564177197,
     "wof:name":"Kozitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

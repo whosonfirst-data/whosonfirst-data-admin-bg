@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0421\u043a\u0430\u043b\u0430\u043a"
     ],
+    "name:deu_x_preferred":[
+        "Skalak"
+    ],
+    "name:fra_x_preferred":[
+        "Skalak"
+    ],
+    "name:nds_x_preferred":[
+        "Skalak"
+    ],
+    "name:ron_x_preferred":[
+        "Skalak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0430\u043b\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0430\u043b\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Peresiler",
         "Skalak"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1226376247,
-    "wof:lastmodified":1537587358,
+    "wof:lastmodified":1564177754,
     "wof:name":"Skalak",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

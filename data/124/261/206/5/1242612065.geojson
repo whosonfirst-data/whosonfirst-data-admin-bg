@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u043d"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d8\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0438\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Krin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Alkhatl\u016d",
         "Krin"
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1242612065,
-    "wof:lastmodified":1537587535,
+    "wof:lastmodified":1564177554,
     "wof:name":"Krin",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

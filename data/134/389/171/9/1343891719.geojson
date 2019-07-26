@@ -31,6 +31,12 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u044f\u043d\u043e\u0432\u043e"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Moursatlii",
         "Bojanowo",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1343891719,
-    "wof:lastmodified":1537587738,
+    "wof:lastmodified":1564176991,
     "wof:name":"Boyanovo",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

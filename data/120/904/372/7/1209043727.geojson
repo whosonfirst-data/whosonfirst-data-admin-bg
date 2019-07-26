@@ -29,10 +29,28 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0431\u0435\u0440\u043d\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0628\u0631\u0646\u0648\u0641\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u0431\u0435\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Zabernovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u0435\u0440\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0431\u0435\u0440\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Sabernowo",
         "Zaberno",
         "Zabernovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0627\u0628\u0631 \u0646\u0648\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1209043727,
-    "wof:lastmodified":1537587248,
+    "wof:lastmodified":1564177275,
     "wof:name":"Zabernovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

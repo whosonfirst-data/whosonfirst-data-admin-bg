@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u043e\u044f\u0447\u0435\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u06cc\u0627\u0686\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10dd\u10d8\u10d0\u10e9\u10d4\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u043e\u044f\u0447\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Kroiacevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u043e\u044f\u0447\u0435\u0432\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Terzik\u00f6y"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u043e\u044f\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Terzi K\u2019oy",
         "Kroyachevo"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1209248349,
-    "wof:lastmodified":1537587534,
+    "wof:lastmodified":1564177230,
     "wof:name":"Kroyachevo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

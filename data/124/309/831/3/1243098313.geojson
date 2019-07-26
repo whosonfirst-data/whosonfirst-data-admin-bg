@@ -33,6 +33,24 @@
     "name:bul_x_variant":[
         "\u0414\u0443\u0448\u0438\u043b\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mokresh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06a9\u0631\u0634"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u0435\u0448"
+    ],
+    "name:ron_x_preferred":[
+        "Mokre\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u0435\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043a\u0440\u0435\u0448"
+    ],
     "name:und_x_variant":[
         "Dushilnitsa",
         "Mokresch",
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1243098313,
-    "wof:lastmodified":1537587477,
+    "wof:lastmodified":1564177523,
     "wof:name":"Mokresh",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

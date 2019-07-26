@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0428\u043e\u043f\u0446\u0438"
     ],
+    "name:ron_x_preferred":[
+        "\u0218op\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043f\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043e\u043f\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Emirler",
         "Schopzi",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1209752383,
-    "wof:lastmodified":1537587363,
+    "wof:lastmodified":1564177301,
     "wof:name":"Shoptsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

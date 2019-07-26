@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0426\u0430\u0440 \u0410\u0441\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Car Asen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d0\u10e0-\u10d0\u10e1\u10d4\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Tsar Asen"
+    ],
+    "name:ron_x_preferred":[
+        "\u021aar Asen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0440-\u0410\u0441\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0430\u0440-\u0410\u0441\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Karaplie",
         "Zar Assen",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1209140417,
-    "wof:lastmodified":1537587301,
+    "wof:lastmodified":1564177248,
     "wof:name":"Tsar Asen",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

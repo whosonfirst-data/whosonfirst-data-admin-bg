@@ -29,6 +29,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Kalovo"
+    ],
     "name:und_x_variant":[
         "Kalowo",
         "Kalova",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1259514755,
-    "wof:lastmodified":1537587583,
+    "wof:lastmodified":1564177660,
     "wof:name":"Kalovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

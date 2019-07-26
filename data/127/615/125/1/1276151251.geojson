@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0411\u043b\u0430\u0436\u0438\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Blazhievo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043b\u0430\u0436\u0438\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Blajievo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u0436\u0438\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Blazjievo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0430\u0436\u0456\u0454\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Blashuewo",
         "Blazhevo",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1276151251,
-    "wof:lastmodified":1537587750,
+    "wof:lastmodified":1564177164,
     "wof:name":"Blazhievo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

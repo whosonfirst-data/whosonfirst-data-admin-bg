@@ -32,6 +32,27 @@
         "Antimovo",
         "\u0410\u043d\u0442\u0438\u043c\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Antimovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062a\u06cc\u0645\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u043c\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Antimovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u043c\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Antimovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u043c\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Zlaten Rog",
         "Shef",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1225975945,
-    "wof:lastmodified":1537587233,
+    "wof:lastmodified":1564177719,
     "wof:name":"Antimovo",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

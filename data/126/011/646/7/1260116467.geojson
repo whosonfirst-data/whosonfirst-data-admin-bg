@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0432\u043e\u0440\u0447\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0632\u0648\u0648\u0631\u0686\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440\u0447\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Izworcze"
+    ],
+    "name:ron_x_preferred":[
+        "Izvorce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440\u0447\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u0432\u043e\u0440\u0447\u0435"
+    ],
     "name:und_x_variant":[
         "Izvordzhik",
         "Izvor\u010de",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1260116467,
-    "wof:lastmodified":1537587588,
+    "wof:lastmodified":1564177355,
     "wof:name":"Izvorche",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

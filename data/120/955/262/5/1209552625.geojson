@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u043c\u0438\u0448"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0645\u06cc\u0634"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u043c\u0438\u0448"
+    ],
+    "name:pol_x_preferred":[
+        "Czemisz"
+    ],
+    "name:ron_x_preferred":[
+        "Cemi\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043c\u0438\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u043c\u0438\u0448"
+    ],
     "name:und_x_variant":[
         "Tschemisch",
         "Chemish"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1209552625,
-    "wof:lastmodified":1537587714,
+    "wof:lastmodified":1564177219,
     "wof:name":"Chemish",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

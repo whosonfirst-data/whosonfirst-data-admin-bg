@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0418\u043b\u0438\u0439\u0441\u043a\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u06cc\u06cc\u0633\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u043b\u0438\u0439\u0441\u043a\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Iliisko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0438\u0439\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0456\u0439\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Elekhche",
         "Ilijsko",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1343793063,
-    "wof:lastmodified":1537587594,
+    "wof:lastmodified":1564176939,
     "wof:name":"Iliysko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

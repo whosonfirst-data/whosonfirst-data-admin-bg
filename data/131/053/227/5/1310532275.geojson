@@ -31,6 +31,36 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u043b\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Gostilitsa"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0633\u062a\u06cc\u0644\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e1\u10e2\u10d8\u10da\u10d8\u10ea\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0438\u043b\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Gostilitsa"
+    ],
+    "name:pol_x_preferred":[
+        "Gostilica"
+    ],
+    "name:ron_x_preferred":[
+        "Gostili\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0438\u043b\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gostilitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0438\u043b\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Gostiliza",
         "Gostilica",
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1310532275,
-    "wof:lastmodified":1537587609,
+    "wof:lastmodified":1564177387,
     "wof:name":"Gostilitsa",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

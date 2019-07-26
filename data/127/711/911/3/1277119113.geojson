@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0433\u043e\u0440\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0446\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Zagortsi"
+    ],
+    "name:ron_x_preferred":[
+        "Zagor\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Zagortsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Kokardzha",
         "Zagorci",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1277119113,
-    "wof:lastmodified":1537587226,
+    "wof:lastmodified":1564177200,
     "wof:name":"Zagortsi",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

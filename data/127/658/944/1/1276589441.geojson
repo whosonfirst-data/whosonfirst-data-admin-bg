@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0438\u043b\u0438\u0446\u0430"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u043b\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Bistrilitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Bistrili\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u043b\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0438\u043b\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Bistriliza",
         "Bistrilitsa"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1276589441,
-    "wof:lastmodified":1537587753,
+    "wof:lastmodified":1564177149,
     "wof:name":"Bistrilitsa",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

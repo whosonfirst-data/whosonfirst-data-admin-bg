@@ -21,6 +21,30 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0441\u0435\u043b\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Priselci"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d8\u10e1\u10d4\u10da\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0435\u043b\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Priseltsi"
+    ],
+    "name:ron_x_preferred":[
+        "Prisel\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0435\u043b\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Priseltsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0435\u043b\u0446\u0456"
+    ],
     "name:unk_x_variant":[
         "Eni K\u2019oy"
     ],
@@ -73,7 +97,7 @@
         }
     ],
     "wof:id":1125774677,
-    "wof:lastmodified":1509391199,
+    "wof:lastmodified":1564177509,
     "wof:name":"Priseltsi",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

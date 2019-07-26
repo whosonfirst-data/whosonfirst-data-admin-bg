@@ -34,6 +34,24 @@
         "Bardarski Geran",
         "\u0411\u044a\u0440\u0434\u0430\u0440\u0441\u043a\u0438 \u0413\u0435\u0440\u0430\u043d"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10e0\u10d3\u10d0\u10e0\u10e1\u10d9\u10d8-\u10d2\u10d4\u10e0\u10d0\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u044b\u0440\u0434\u0430\u0440\u0441\u043a\u0438-\u0413\u0435\u0440\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Bardarski Geran"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103rdarski Gheran"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044b\u0440\u0434\u0430\u0440\u0441\u043a\u0438-\u0413\u0435\u0440\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0440\u0434\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u0413\u0435\u0440\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "B\u0103rdarski-Geran",
         "B\u016drdardski Geran",
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1243207159,
-    "wof:lastmodified":1537587724,
+    "wof:lastmodified":1564177602,
     "wof:name":"Bardarski Geran",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0432\u043e\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Izvorovo"
+    ],
+    "name:fra_x_preferred":[
+        "Izvorovo"
+    ],
+    "name:pol_x_preferred":[
+        "Izworowo"
+    ],
+    "name:ron_x_preferred":[
+        "Izvorovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Izvorovo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1344194383,
-    "wof:lastmodified":1537587588,
+    "wof:lastmodified":1564176972,
     "wof:name":"Izvorovo",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

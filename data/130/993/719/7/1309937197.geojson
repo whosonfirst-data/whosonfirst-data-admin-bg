@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0442\u043b\u0438\u043d\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Svetlina"
+    ],
+    "name:pol_x_preferred":[
+        "Swetlina"
+    ],
+    "name:ron_x_preferred":[
+        "Svetlina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Gospodarewo",
         "Bey-Makhle",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1309937197,
-    "wof:lastmodified":1537587318,
+    "wof:lastmodified":1564177492,
     "wof:name":"Svetlina",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

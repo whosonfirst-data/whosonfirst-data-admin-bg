@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0442\u0435\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Botevo"
+    ],
+    "name:pol_x_preferred":[
+        "Botewo"
+    ],
+    "name:ron_x_preferred":[
+        "Botevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Sabri Pasha K\u2019oy",
         "Bot\u2019ovo",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1310136855,
-    "wof:lastmodified":1537587739,
+    "wof:lastmodified":1564177380,
     "wof:name":"Botevo",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

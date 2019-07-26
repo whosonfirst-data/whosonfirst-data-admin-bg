@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0440\u0432\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Garvan"
+    ],
+    "name:fra_x_preferred":[
+        "Garvan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0440\u0432\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Garvan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0440\u0432\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Garvan-Cioara",
         "Garvan"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1293236661,
-    "wof:lastmodified":1537587640,
+    "wof:lastmodified":1564177032,
     "wof:name":"Garvan",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u043b\u0435\u0448\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Petleshkovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u0644\u0634\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0442\u043b\u0435\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Petle\u0219kovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u043b\u0435\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Petlesjkovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u043b\u0435\u0448\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "\u010ciflik Petleskovo",
         "Gerzalar",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1225796377,
-    "wof:lastmodified":1537587432,
+    "wof:lastmodified":1564177766,
     "wof:name":"Petleshkovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

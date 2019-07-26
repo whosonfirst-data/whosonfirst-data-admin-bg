@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u043d"
     ],
+    "name:deu_x_preferred":[
+        "Kran"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u057c\u0561\u0576"
+    ],
+    "name:nor_x_preferred":[
+        "Kran"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kran"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Kran Dere",
         "Kran"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1225978669,
-    "wof:lastmodified":1537587539,
+    "wof:lastmodified":1564177720,
     "wof:name":"Kran",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

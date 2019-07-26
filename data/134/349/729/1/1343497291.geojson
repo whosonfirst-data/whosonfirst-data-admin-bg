@@ -31,9 +31,30 @@
     "name:bul_x_preferred":[
         "\u0410\u0441\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Asen"
+    ],
+    "name:deu_x_preferred":[
+        "Asen"
+    ],
+    "name:fra_x_preferred":[
+        "Asen"
+    ],
+    "name:ita_x_preferred":[
+        "Asen"
+    ],
+    "name:nld_x_preferred":[
+        "Asen"
+    ],
+    "name:swe_x_preferred":[
+        "Asen"
+    ],
     "name:und_x_variant":[
         "Yurenliy",
         "Yurenlii",
+        "Asen"
+    ],
+    "name:vie_x_preferred":[
         "Asen"
     ],
     "src:geom":"geonames",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1343497291,
-    "wof:lastmodified":1537587776,
+    "wof:lastmodified":1564176952,
     "wof:name":"Asen",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

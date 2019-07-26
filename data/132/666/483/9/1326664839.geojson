@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Daskalovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0633\u06a9\u0627\u0644\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Daskalovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Daskalovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Molla Musalar",
         "Daskalowo",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1326664839,
-    "wof:lastmodified":1537587699,
+    "wof:lastmodified":1564176858,
     "wof:name":"Daskalovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

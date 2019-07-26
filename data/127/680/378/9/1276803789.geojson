@@ -30,12 +30,30 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u043a\u0438\u044f"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u06a9\u06cc\u06cc\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0430\u043a\u0438\u044f"
+    ],
+    "name:ron_x_preferred":[
+        "Fakia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0430\u043a\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u043a\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Omur Fakili",
         "Umur Fakih",
         "Fakia",
         "Fakija",
         "Fakiya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u06a9\u06cc\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276803789,
-    "wof:lastmodified":1537587646,
+    "wof:lastmodified":1564177124,
     "wof:name":"Fakia",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

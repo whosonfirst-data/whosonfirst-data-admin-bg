@@ -26,15 +26,93 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0412\u0456\u0445\u0440\u044d\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0438\u0445\u0440\u0435\u043d"
     ],
     "name:bul_x_variant":[
         "Vihren"
     ],
+    "name:cat_x_preferred":[
+        "Vihren"
+    ],
+    "name:ceb_x_preferred":[
+        "Vihren"
+    ],
+    "name:ces_x_preferred":[
+        "Vichren"
+    ],
+    "name:deu_x_preferred":[
+        "Wichren"
+    ],
+    "name:epo_x_preferred":[
+        "Vi\u0125ren"
+    ],
+    "name:est_x_preferred":[
+        "Vihren"
+    ],
+    "name:fra_x_preferred":[
+        "Vikhren"
+    ],
+    "name:ita_x_preferred":[
+        "Vihren"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10ee\u10e0\u10d4\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0445\u0440\u0435\u043d"
+    ],
+    "name:lit_x_preferred":[
+        "Vihrenas"
+    ],
+    "name:lmo_x_preferred":[
+        "Vihren"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0438\u0445\u0440\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Vichren"
+    ],
+    "name:nno_x_preferred":[
+        "Vihren"
+    ],
+    "name:nor_x_preferred":[
+        "Vihren"
+    ],
+    "name:pol_x_preferred":[
+        "Wichren"
+    ],
+    "name:por_x_preferred":[
+        "Vihren"
+    ],
+    "name:ron_x_preferred":[
+        "Vihren"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0445\u0440\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Vichren"
+    ],
+    "name:spa_x_preferred":[
+        "Vihren"
+    ],
+    "name:swe_x_preferred":[
+        "Vichren"
+    ],
+    "name:tur_x_preferred":[
+        "Vihren"
+    ],
     "name:und_x_variant":[
         "Leski",
         "Vikhren"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u8d6b\u502b\u5cf0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +135,7 @@
         }
     ],
     "wof:id":1276604761,
-    "wof:lastmodified":1537587277,
+    "wof:lastmodified":1564177140,
     "wof:name":"Vihren",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

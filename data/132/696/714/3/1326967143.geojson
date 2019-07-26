@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0435\u0432\u0446\u0438"
     ],
+    "name:fra_x_preferred":[
+        "Dobrevtsi"
+    ],
+    "name:ron_x_preferred":[
+        "Dobrev\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0435\u0432\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Dobrovts\u016d",
         "Dobrewzi",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1326967143,
-    "wof:lastmodified":1537587688,
+    "wof:lastmodified":1564176893,
     "wof:name":"Dobrevtsi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

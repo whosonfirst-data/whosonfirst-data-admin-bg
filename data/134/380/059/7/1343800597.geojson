@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043d\u0447\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Donchevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u0686\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Doncevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dontjevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Knjaz Simeon",
         "Gara Bogdanovo",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1343800597,
-    "wof:lastmodified":1537587673,
+    "wof:lastmodified":1564176994,
     "wof:name":"Donchevo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

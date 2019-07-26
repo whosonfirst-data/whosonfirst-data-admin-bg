@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0419\u043e\u0432\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Jovkovo"
+    ],
+    "name:deu_x_preferred":[
+        "Jowkowo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0648\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0419\u043e\u0432\u043a\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Iovkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u0432\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Jovkovo"
+    ],
+    "name:tur_x_preferred":[
+        "Yovkovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0419\u043e\u0432\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Iovkovo",
         "Tschifut-Kuj\u00fcssu",
@@ -38,6 +65,9 @@
         "Ciufut-Cuius",
         "Chifut Kuyusu",
         "Yovkovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0648\u06a9\u0648\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +87,7 @@
         }
     ],
     "wof:id":1209557929,
-    "wof:lastmodified":1537587250,
+    "wof:lastmodified":1564177218,
     "wof:name":"Yovkovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

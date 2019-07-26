@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0421\u043d\u044f\u0433\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Snyagovo"
+    ],
+    "name:ron_x_preferred":[
+        "Sneagovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043d\u044f\u0433\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043d\u044f\u0433\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kara Agach",
         "Caragaci",
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1310639165,
-    "wof:lastmodified":1537587348,
+    "wof:lastmodified":1564177399,
     "wof:name":"Snyagovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

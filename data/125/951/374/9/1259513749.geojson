@@ -31,6 +31,24 @@
     "name:bul_x_variant":[
         "\u0421\u043d\u0435\u0433\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Snegovo"
+    ],
+    "name:hun_x_preferred":[
+        "Sznegovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043d\u0435\u0433\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Snegowo"
+    ],
+    "name:sqi_x_preferred":[
+        "Snegova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043d\u0435\u0433\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1259513749,
-    "wof:lastmodified":1537587789,
+    "wof:lastmodified":1564177662,
     "wof:name":"Snegovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

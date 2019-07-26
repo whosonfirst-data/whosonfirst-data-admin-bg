@@ -28,8 +28,44 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Mramor"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0440\u0430\u043c\u043e\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Mramor"
+    ],
+    "name:deu_x_preferred":[
+        "Mramor"
+    ],
+    "name:fra_x_preferred":[
+        "Mramor"
+    ],
+    "name:hrv_x_preferred":[
+        "Mramor"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u0574\u0561\u0580"
+    ],
+    "name:pol_x_preferred":[
+        "Mramor"
+    ],
+    "name:ron_x_preferred":[
+        "Mramor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0440\u0430\u043c\u043e\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Mramor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0440\u0430\u043c\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Mramor"
     ],
     "name:und_x_variant":[
         "Eni K\u2019oy",
@@ -58,7 +94,7 @@
         }
     ],
     "wof:id":1226074003,
-    "wof:lastmodified":1537587474,
+    "wof:lastmodified":1564177761,
     "wof:name":"Mramor",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

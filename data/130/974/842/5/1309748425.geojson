@@ -33,6 +33,15 @@
     "name:bul_x_variant":[
         "Sarnak"
     ],
+    "name:ron_x_preferred":[
+        "S\u0103rnak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0440\u043d\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0440\u043d\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Sarnac",
         "Sarn\u016dch",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1309748425,
-    "wof:lastmodified":1537587321,
+    "wof:lastmodified":1564177498,
     "wof:name":"Sarnak",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

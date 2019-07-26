@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Popovec"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u067e\u0648\u0648\u062a\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0435\u0446"
+    ],
+    "name:ron_x_preferred":[
+        "Popove\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Popovets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Khodzhalar Eni Makhle",
         "Popowez",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209451681,
-    "wof:lastmodified":1537587417,
+    "wof:lastmodified":1564177287,
     "wof:name":"Popovets",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

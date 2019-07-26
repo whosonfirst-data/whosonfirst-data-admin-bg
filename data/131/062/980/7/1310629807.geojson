@@ -31,6 +31,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Kovatchevo"
+    ],
     "name:und_x_variant":[
         "Nalbantlari",
         "Kowatschowo",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310629807,
-    "wof:lastmodified":1537587544,
+    "wof:lastmodified":1564177386,
     "wof:name":"Kovachevo",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0447\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Chichevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0686\u0648\u0648"
+    ],
+    "name:ron_x_preferred":[
+        "Cicevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Tjitjevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Malko",
         "Tschitschewo",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1209251161,
-    "wof:lastmodified":1537587704,
+    "wof:lastmodified":1564177242,
     "wof:name":"Chichevo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

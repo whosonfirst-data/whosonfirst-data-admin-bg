@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u043a\u043e \u0421\u043b\u0430\u0432\u0435\u0439\u043a\u043e\u0432"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u062a\u06a9\u0648 \u0633\u0644\u0627\u0648\u06cc\u06a9\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0442\u043a\u043e-\u0421\u043b\u0430\u0432\u0435\u0439\u043a\u043e\u0432"
+    ],
+    "name:pol_x_preferred":[
+        "Petko S\u0142awejkow"
+    ],
+    "name:ron_x_preferred":[
+        "Petko Slaveikov"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0442\u043a\u043e-\u0421\u043b\u0430\u0432\u0435\u0439\u043a\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u043a\u043e \u0421\u043b\u0430\u0432\u0435\u0439\u043a\u043e\u0432"
+    ],
     "name:und_x_variant":[
         "Akandzhilari",
         "Petko Slaweikow",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293918511,
-    "wof:lastmodified":1537587432,
+    "wof:lastmodified":1564177001,
     "wof:name":"Petko Slaveykov",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

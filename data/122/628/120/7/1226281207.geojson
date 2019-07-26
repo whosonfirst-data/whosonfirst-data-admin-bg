@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u0421\u0443\u0445\u043e\u0441\u0442\u0440\u0435\u043b"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062d\u0648\u0633\u062a\u0631\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0443\u0445\u043e\u0441\u0442\u0440\u0435\u043b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0443\u0445\u043e\u0441\u0442\u0440\u0435\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Suchostre\u0142"
+    ],
+    "name:ron_x_preferred":[
+        "Suhostrel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0445\u043e\u0441\u0442\u0440\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u0445\u043e\u0441\u0442\u0440\u0435\u043b"
+    ],
     "name:und_x_variant":[
         "Suchostrel",
         "Suhostrel",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1226281207,
-    "wof:lastmodified":1537587322,
+    "wof:lastmodified":1564177673,
     "wof:name":"Suhostrel",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

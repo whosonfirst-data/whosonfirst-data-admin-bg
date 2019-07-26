@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u0644\u06cc\u0627\u0632\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Jeleazovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u043b\u044f\u0437\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Shelesowo",
         "Zhelyezovo",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1293129559,
-    "wof:lastmodified":1537587239,
+    "wof:lastmodified":1564177039,
     "wof:name":"Zhelyazovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

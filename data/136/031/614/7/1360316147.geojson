@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0430 \u041a\u043e\u0432\u0430\u0447\u0438\u0446\u0430"
     ],
+    "name:ces_x_preferred":[
+        "Gorna Kova\u010dica"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430-\u041a\u043e\u0432\u0430\u0447\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Gorna Kovachitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Gorna Kovaci\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430-\u041a\u043e\u0432\u0430\u0447\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u044f \u041a\u043e\u0432\u0430\u0447\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Kovachitsa",
         "Kowatschiza",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1360316147,
-    "wof:lastmodified":1537587621,
+    "wof:lastmodified":1564177432,
     "wof:name":"Gorna Kovachitsa",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

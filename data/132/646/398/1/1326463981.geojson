@@ -30,6 +30,42 @@
     "name:bul_x_preferred":[
         "\u0412\u0440\u0430\u0431\u0447\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Vrap\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "Vrap\u010da"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10e0\u10d0\u10d1\u10e9\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0440\u0430\u0431\u0447\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Vrabcha"
+    ],
+    "name:por_x_preferred":[
+        "Vrap\u010da"
+    ],
+    "name:ron_x_preferred":[
+        "Vrabcea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0430\u0431\u0447\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Vrap\u010da"
+    ],
+    "name:spa_x_preferred":[
+        "Vrabcha"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0440\u0430\u043f\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0430\u0431\u0447\u0430"
+    ],
     "name:und_x_variant":[
         "Wrabtscha",
         "Vrab\u010da",
@@ -58,7 +94,7 @@
         }
     ],
     "wof:id":1326463981,
-    "wof:lastmodified":1537587267,
+    "wof:lastmodified":1564176883,
     "wof:name":"Vrabcha",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

@@ -30,6 +30,39 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0438\u0431\u0440\u0435\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Poibrene"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u06cc\u0628\u0631\u0646\u0647"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u056b\u0562\u0580\u0565\u0576\u0565"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10d8\u10d1\u10e0\u10d4\u10dc\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0438\u0431\u0440\u0435\u043d\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Poibrene"
+    ],
+    "name:pol_x_preferred":[
+        "Poibrene"
+    ],
+    "name:ron_x_preferred":[
+        "Poibrene"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0438\u0431\u0440\u0435\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Poibrene"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0457\u0431\u0440\u0435\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1343592471,
-    "wof:lastmodified":1537587421,
+    "wof:lastmodified":1564176960,
     "wof:name":"Poibrene",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

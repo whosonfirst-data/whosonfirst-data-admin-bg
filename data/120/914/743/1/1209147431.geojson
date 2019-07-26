@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0432\u043d\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Ravnets"
+    ],
+    "name:fra_x_preferred":[
+        "Ravnets"
+    ],
+    "name:swe_x_preferred":[
+        "Ravnets"
+    ],
     "name:und_x_variant":[
         "Piri Fak\u016d",
         "Ravnec",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1209147431,
-    "wof:lastmodified":1537587392,
+    "wof:lastmodified":1564177253,
     "wof:name":"Ravnets",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

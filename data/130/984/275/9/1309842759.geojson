@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u0434\u0435\u0436\u0434\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Nadezhden"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062f\u0698\u062f\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u0434\u0435\u0436\u0434\u0435\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Nade\u017cden"
+    ],
+    "name:ron_x_preferred":[
+        "Nadejden"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0434\u0435\u0436\u0434\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Nadezjden"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0434\u0435\u0436\u0434\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Khadzhi Khyusin Makhle",
         "Nadzhden",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1309842759,
-    "wof:lastmodified":1537587469,
+    "wof:lastmodified":1564177483,
     "wof:name":"Nadezhden",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438 \u0426\u0445\u0430\u043b"
     ],
+    "name:bul_x_variant":[
+        "\u0421\u0442\u0430\u0440\u0438 \u0447\u0430\u043b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0627\u0631\u06cc \u0686\u0627\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438-\u0427\u0430\u043b"
+    ],
+    "name:ron_x_preferred":[
+        "Stari Ceal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438-\u0427\u0430\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0439 \u0427\u0430\u043b"
+    ],
     "name:und_x_variant":[
         "Chal Atik",
         "Stari Chal"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1259617795,
-    "wof:lastmodified":1537587337,
+    "wof:lastmodified":1564177647,
     "wof:name":"Stari Chal",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

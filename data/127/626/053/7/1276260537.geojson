@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041a\u043c\u0435\u0442\u0447\u0435\u0442\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0645\u062a\u0686\u062a\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043c\u0435\u0442\u0447\u0435\u0442\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Kmetczeta"
+    ],
+    "name:ron_x_preferred":[
+        "Kmetceta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043c\u0435\u0442\u0447\u0435\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043c\u0435\u0442\u0447\u0435\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Kmetchetata",
         "Kmetcheta"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1276260537,
-    "wof:lastmodified":1537587559,
+    "wof:lastmodified":1564177116,
     "wof:name":"Kmetcheta",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

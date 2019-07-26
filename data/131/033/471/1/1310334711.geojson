@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u043d\u0441\u043a\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u0633\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u043d\u0441\u043a\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Lensko"
+    ],
+    "name:ron_x_preferred":[
+        "Lensko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043d\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043d\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Ketenli",
         "Lensko"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1310334711,
-    "wof:lastmodified":1537587521,
+    "wof:lastmodified":1564177419,
     "wof:name":"Lensko",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

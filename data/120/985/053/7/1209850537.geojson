@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u0436\u0438\u043d\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0698\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0435\u0436\u0438\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Rejin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0436\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0436\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "R\u0103shinzi",
         "R\u016dzhintsi",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1209850537,
-    "wof:lastmodified":1537587387,
+    "wof:lastmodified":1564177237,
     "wof:name":"Rezhintsi",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

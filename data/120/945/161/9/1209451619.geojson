@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Makak"
+    ],
+    "name:deu_x_preferred":[
+        "Makak"
+    ],
+    "name:fra_x_preferred":[
+        "Makak"
+    ],
+    "name:ita_x_preferred":[
+        "Makak"
+    ],
+    "name:msa_x_preferred":[
+        "Makak"
+    ],
+    "name:spa_x_preferred":[
+        "Makak"
+    ],
+    "name:swe_x_preferred":[
+        "Makak"
+    ],
     "name:und_x_variant":[
         "Makaklar",
         "Makaklari",
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1209451619,
-    "wof:lastmodified":1537587505,
+    "wof:lastmodified":1564177288,
     "wof:name":"Makak",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

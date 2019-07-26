@@ -32,6 +32,48 @@
     "name:bul_x_variant":[
         "Dramsha"
     ],
+    "name:ceb_x_preferred":[
+        "Dr\u016dmsha"
+    ],
+    "name:ces_x_preferred":[
+        "Dram\u0161a"
+    ],
+    "name:deu_x_preferred":[
+        "Dramscha"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u0645\u0634\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Dramcha"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e0\u10d8\u10db\u10e8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u044b\u043c\u0448\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0440\u043c\u0448\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Dramsha"
+    ],
+    "name:pol_x_preferred":[
+        "Drymsza"
+    ],
+    "name:ron_x_preferred":[
+        "Dr\u0103m\u0219a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u044b\u043c\u0448\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dramsja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0438\u043c\u0448\u0430"
+    ],
     "name:und_x_variant":[
         "Dremsha",
         "Dr\u0103mscha",
@@ -59,7 +101,7 @@
         }
     ],
     "wof:id":1343988271,
-    "wof:lastmodified":1537587665,
+    "wof:lastmodified":1564176915,
     "wof:name":"Dramsha",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

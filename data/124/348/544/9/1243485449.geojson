@@ -29,6 +29,15 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0442\u043e\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Potoka"
+    ],
+    "name:swe_x_preferred":[
+        "Potoka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0442\u043e\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Selishte",
         "Selishe",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1243485449,
-    "wof:lastmodified":1537587413,
+    "wof:lastmodified":1564177561,
     "wof:name":"Potoka",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

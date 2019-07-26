@@ -29,6 +29,9 @@
     "name:bul_x_preferred":[
         "\u0423\u0440\u0432\u0430\u0442\u0430"
     ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0440\u0432\u0430\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Urvat",
         "Urvata"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1360118589,
-    "wof:lastmodified":1537587289,
+    "wof:lastmodified":1564177442,
     "wof:name":"Urvata",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

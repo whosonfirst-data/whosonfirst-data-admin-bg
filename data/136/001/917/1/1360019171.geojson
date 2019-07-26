@@ -30,7 +30,19 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u043e\u043c\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0648\u0645\u06cc\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u043e\u043c\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Porominovo"
+    ],
     "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u043e\u043c\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u043e\u0440\u043e\u043c\u0438\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1360019171,
-    "wof:lastmodified":1537587415,
+    "wof:lastmodified":1564177439,
     "wof:name":"Porominovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

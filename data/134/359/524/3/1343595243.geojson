@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0431\u0435\u0448\u0438\u043d\u043e"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0431\u0435\u0448\u0438\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Bobe\u0219ino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0431\u0435\u0448\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0431\u0435\u0448\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Bobeschino",
         "Bobeshino"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1343595243,
-    "wof:lastmodified":1537587749,
+    "wof:lastmodified":1564176962,
     "wof:name":"Bobeshino",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

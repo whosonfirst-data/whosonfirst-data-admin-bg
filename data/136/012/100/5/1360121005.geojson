@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043a\u043e\u0447"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u06a9\u0648\u0686"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e\u0447"
+    ],
+    "name:ron_x_preferred":[
+        "Malkoci"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e\u0447"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e\u0447"
+    ],
     "name:und_x_variant":[
         "Malkotsch",
         "M\u016dlkoch Dere",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1360121005,
-    "wof:lastmodified":1537587499,
+    "wof:lastmodified":1564177425,
     "wof:name":"Malkoch",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

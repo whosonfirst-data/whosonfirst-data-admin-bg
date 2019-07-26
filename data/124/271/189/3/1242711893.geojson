@@ -29,7 +29,32 @@
         "\u041a\u044a\u043d\u0438\u043d\u043e"
     ],
     "name:bul_x_variant":[
+        "Kanino",
+        "\u041a\u0430\u043d\u0438\u043d\u043e"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03bd\u03b9\u03bd\u03bf"
+    ],
+    "name:epo_x_preferred":[
         "Kanino"
+    ],
+    "name:fra_x_preferred":[
+        "Kanino"
+    ],
+    "name:hun_x_preferred":[
+        "Kanino"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Kanino"
+    ],
+    "name:sqi_x_preferred":[
+        "Kanina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043d\u0438\u043d\u043e"
     ],
     "name:und_x_variant":[
         "Kanl\u016dkioy",
@@ -58,7 +83,7 @@
         }
     ],
     "wof:id":1242711893,
-    "wof:lastmodified":1537587527,
+    "wof:lastmodified":1564177584,
     "wof:name":"Kanino",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

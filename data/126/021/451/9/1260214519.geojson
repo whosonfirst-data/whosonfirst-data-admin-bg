@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u0444\u043b\u0438\u043a"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03c6\u03bb\u03af\u03ba\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Tchiflik"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0438\u0444\u043b\u0438\u0433"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u0444\u0442\u043b\u0438\u043a"
+    ],
+    "name:sqi_x_preferred":[
+        "\u00c7ifligu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0438\u0442\u043b\u0443\u043a"
+    ],
     "name:und_x_variant":[
         "Tschlflik",
         "Chiflik"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1260214519,
-    "wof:lastmodified":1537587704,
+    "wof:lastmodified":1564177361,
     "wof:name":"Chiflik",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

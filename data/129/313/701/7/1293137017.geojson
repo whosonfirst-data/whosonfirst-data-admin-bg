@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u043f\u0435\u043b\u0438\u0449\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u067e\u0644\u06cc\u0634\u062a\u0647"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10de\u10d4\u10da\u10d8\u10e8\u10e2\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u043f\u0435\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Pepeli\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043f\u0435\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043f\u0435\u043b\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Kyuldzhilar",
         "Pepelischte",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293137017,
-    "wof:lastmodified":1537587434,
+    "wof:lastmodified":1564177047,
     "wof:name":"Pepelishte",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

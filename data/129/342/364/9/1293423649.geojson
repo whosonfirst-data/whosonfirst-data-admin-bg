@@ -27,7 +27,16 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Prolaz"
+    ],
     "name:bul_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u0430\u0437"
+    ],
+    "name:fra_x_preferred":[
+        "Prolaz"
+    ],
+    "name:srp_x_preferred":[
         "\u041f\u0440\u043e\u043b\u0430\u0437"
     ],
     "name:und_x_variant":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293423649,
-    "wof:lastmodified":1537587405,
+    "wof:lastmodified":1564177083,
     "wof:name":"Prolaz",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

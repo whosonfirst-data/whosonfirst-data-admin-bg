@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u0435\u043c\u043e \u041c\u0430\u043b\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Golemo Malowo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0644\u0645\u0648 \u0645\u0627\u0644\u0648\u0641\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u043e-\u041c\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Golemo Malovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u043e-\u041c\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u043e-\u041c\u0430\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Golyamo Malovo",
         "Golyemo-Malovo",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1259618235,
-    "wof:lastmodified":1537587631,
+    "wof:lastmodified":1564177649,
     "wof:name":"Golemo Malovo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

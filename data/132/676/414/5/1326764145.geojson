@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u043b\u043e\u043c"
     ],
+    "name:deu_x_preferred":[
+        "Prolom Banja"
+    ],
+    "name:fra_x_preferred":[
+        "Prolom"
+    ],
+    "name:msa_x_preferred":[
+        "Prolom"
+    ],
+    "name:por_x_preferred":[
+        "Prolom"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u043e\u043c"
+    ],
+    "name:slv_x_preferred":[
+        "Prolom"
+    ],
+    "name:sqi_x_preferred":[
+        "Pollomi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u043e\u043c"
+    ],
     "name:und_x_variant":[
         "Bogaz",
         "Prolom"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1326764145,
-    "wof:lastmodified":1537587405,
+    "wof:lastmodified":1564176876,
     "wof:name":"Prolom",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

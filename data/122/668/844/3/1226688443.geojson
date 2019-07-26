@@ -32,6 +32,18 @@
     "name:bul_x_variant":[
         "Aleksandria"
     ],
+    "name:ceb_x_preferred":[
+        "Aleksandria"
+    ],
+    "name:fin_x_preferred":[
+        "Aleksandria"
+    ],
+    "name:fra_x_preferred":[
+        "Aleksandria"
+    ],
+    "name:pol_x_preferred":[
+        "Aleksandria"
+    ],
     "name:und_x_variant":[
         "Alexandria",
         "Aleksandrija",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1226688443,
-    "wof:lastmodified":1537587779,
+    "wof:lastmodified":1564177701,
     "wof:name":"Aleksandria",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

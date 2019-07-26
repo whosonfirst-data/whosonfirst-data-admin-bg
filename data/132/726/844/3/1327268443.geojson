@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0442\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Bratan"
+    ],
+    "name:deu_x_preferred":[
+        "Bratan"
+    ],
+    "name:fra_x_preferred":[
+        "Bratan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Bratan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "S\u016dr Alan",
         "S\u016drt Alan",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1327268443,
-    "wof:lastmodified":1537587735,
+    "wof:lastmodified":1564176899,
     "wof:name":"Bratan",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

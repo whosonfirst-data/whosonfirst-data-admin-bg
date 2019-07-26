@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0411\u043b\u0435\u043d\u0438\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10da\u10d4\u10dc\u10d8\u10d9\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043b\u0435\u043d\u0438\u043a\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Blenika"
+    ],
+    "name:ron_x_preferred":[
+        "Blenika"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0435\u043d\u0438\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0435\u043d\u0438\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Oglar Gyullyu",
         "Terzi Aliler",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1259412099,
-    "wof:lastmodified":1537587750,
+    "wof:lastmodified":1564177636,
     "wof:name":"Blenika",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

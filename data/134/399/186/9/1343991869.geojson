@@ -31,6 +31,15 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u0437\u043d\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Lozno"
+    ],
+    "name:nld_x_preferred":[
+        "Lozno"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u043e\u0437\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Losno",
         "Lozno"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1343991869,
-    "wof:lastmodified":1537587511,
+    "wof:lastmodified":1564176926,
     "wof:name":"Lozno",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0433\u043d\u0435\u0432\u0446\u0438"
     ],
+    "name:fra_x_preferred":[
+        "Dragnevtsi"
+    ],
+    "name:pol_x_preferred":[
+        "Dragnewci"
+    ],
+    "name:ron_x_preferred":[
+        "Dragnev\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043d\u0435\u0432\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Dragnovts\u016d",
         "Dragnevtsi"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1343696735,
-    "wof:lastmodified":1537587670,
+    "wof:lastmodified":1564176964,
     "wof:name":"Dragnevtsi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

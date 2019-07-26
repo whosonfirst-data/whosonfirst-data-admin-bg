@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0433\u0443\u0448"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u06af\u0648\u0634"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0443\u0448"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0443\u0448"
+    ],
+    "name:ron_x_preferred":[
+        "Dragu\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0443\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0443\u0448"
+    ],
     "name:und_x_variant":[
         "Dragusch",
         "Dragush"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1209858473,
-    "wof:lastmodified":1537587668,
+    "wof:lastmodified":1564177239,
     "wof:name":"Dragush",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

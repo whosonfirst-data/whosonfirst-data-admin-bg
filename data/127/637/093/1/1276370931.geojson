@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0435\u043d"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Koren"
+    ],
+    "name:ron_x_preferred":[
+        "Koren"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Kyutyuklii",
         "Koren"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1276370931,
-    "wof:lastmodified":1537587549,
+    "wof:lastmodified":1564177182,
     "wof:name":"Koren",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

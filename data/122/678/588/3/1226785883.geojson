@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0421\u0435\u043b\u043e"
     ],
+    "name:bul_x_variant":[
+        "\u0414\u043e\u043b\u043d\u043e \u0441\u0435\u043b\u043e"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u0421\u0435\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Dolnbo Selo",
         "Dolno Selo"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226785883,
-    "wof:lastmodified":1537587675,
+    "wof:lastmodified":1564177736,
     "wof:name":"Dolno Selo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

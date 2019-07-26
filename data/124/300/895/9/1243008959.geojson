@@ -28,8 +28,29 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043a\u043e\u0440\u0430"
     ],
+    "name:est_x_preferred":[
+        "Kokora"
+    ],
+    "name:fra_x_preferred":[
+        "Kokora"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u056f\u0578\u057c\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Kokora"
+    ],
+    "name:spa_x_preferred":[
+        "Kokora"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043a\u043e\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Yanevo",
+        "Kokora"
+    ],
+    "name:vol_x_preferred":[
         "Kokora"
     ],
     "src:geom":"geonames",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1243008959,
-    "wof:lastmodified":1537587556,
+    "wof:lastmodified":1564177513,
     "wof:name":"Kokora",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

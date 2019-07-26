@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u0431\u0435\u0441\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0628\u0633\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0435\u0431\u0435\u0441\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Nebeska"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0431\u0435\u0441\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0431\u0435\u0441\u044c\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Felekler",
         "Nebeska"
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1310635203,
-    "wof:lastmodified":1537587468,
+    "wof:lastmodified":1564177396,
     "wof:name":"Nebeska",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

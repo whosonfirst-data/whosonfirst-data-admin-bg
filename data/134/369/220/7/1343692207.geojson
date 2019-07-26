@@ -29,6 +29,33 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u043b\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0644\u0648\u0648\u06cc\u062a\u0633\u0627"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u056c\u0578\u057e\u056b\u0581\u0561"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10da\u10dd\u10d5\u10d8\u10ea\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u043e\u043b\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Tolovitsa"
+    ],
+    "name:pol_x_preferred":[
+        "To\u0142owica"
+    ],
+    "name:ron_x_preferred":[
+        "Tolovi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043b\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Topowiza",
         "Tolovitsa"
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1343692207,
-    "wof:lastmodified":1537587309,
+    "wof:lastmodified":1564176963,
     "wof:name":"Tolovitsa",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u0435\u0448\u043e\u0432\u0441\u043a\u0430 \u0440\u0435\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0634\u0648\u0648\u0633\u06a9\u0627 \u0631\u06a9\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d4\u10e0\u10d4\u10e8\u10dd\u10d5\u10e1\u10d9\u10d0-\u10e0\u10d4\u10d9\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0448\u043e\u0432\u0441\u043a\u0430-\u0420\u0435\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Chereshovska Reka"
+    ],
+    "name:ron_x_preferred":[
+        "Cere\u0219ovska Reka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0448\u043e\u0432\u0441\u043a\u0430-\u0420\u0435\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0448\u043e\u0432\u0441\u044c\u043a\u0430 \u0420\u0435\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1276266143,
-    "wof:lastmodified":1537587712,
+    "wof:lastmodified":1564177119,
     "wof:name":"Chereshovska Reka",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0448\u0438\u043d\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0634\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0448\u0438\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Pa\u0219in\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0448\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0448\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Khyumet Pashalar",
         "Paschinzi",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1226778027,
-    "wof:lastmodified":1537587439,
+    "wof:lastmodified":1564177743,
     "wof:name":"Pashintsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

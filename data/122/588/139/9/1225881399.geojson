@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0414\u0438\u043d\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Dink"
+    ],
+    "name:deu_x_preferred":[
+        "Dink"
+    ],
+    "name:fra_x_preferred":[
+        "Dink"
+    ],
+    "name:pol_x_preferred":[
+        "Dink"
+    ],
+    "name:swe_x_preferred":[
+        "Dink"
+    ],
     "name:und_x_variant":[
         "Dink Makhala",
         "Dink Makhila",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1225881399,
-    "wof:lastmodified":1537587691,
+    "wof:lastmodified":1564177712,
     "wof:name":"Dink",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

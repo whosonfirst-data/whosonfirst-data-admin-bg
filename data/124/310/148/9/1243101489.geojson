@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0436\u0430\u043a"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10df\u10d0\u10d9\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0436\u0430\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Bo\u017cak"
+    ],
+    "name:ron_x_preferred":[
+        "Bojak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0436\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0436\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Boshak",
         "Delidzhiler",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1243101489,
-    "wof:lastmodified":1537587737,
+    "wof:lastmodified":1564177618,
     "wof:name":"Bozhak",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -31,6 +31,12 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u043b\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Chelnik"
+    ],
+    "name:swe_x_preferred":[
+        "Tjelnik"
+    ],
     "name:und_x_variant":[
         "Tschelnik",
         "Gidikli",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1343595397,
-    "wof:lastmodified":1537587715,
+    "wof:lastmodified":1564176958,
     "wof:name":"Chelnik",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

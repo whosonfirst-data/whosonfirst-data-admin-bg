@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0428\u043a\u043e\u0440\u043f\u0438\u043b\u043e\u0432\u0446\u0438"
     ],
+    "name:ces_x_preferred":[
+        "\u0160korpilovci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06a9\u0648\u0631\u067e\u06cc\u0644\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d9\u10dd\u10e0\u10de\u10d8\u10da\u10dd\u10d5\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u043a\u043e\u0440\u043f\u0438\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Shkorpilovtsi"
+    ],
+    "name:ron_x_preferred":[
+        "\u0218korpilov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043a\u043e\u0440\u043f\u0438\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043a\u043e\u0440\u043f\u0438\u043b\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "F\u016dnd\u016dkli",
         "Schkorpilowzi",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1293619877,
-    "wof:lastmodified":1537587364,
+    "wof:lastmodified":1564177059,
     "wof:name":"Shkorpilovtsi",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

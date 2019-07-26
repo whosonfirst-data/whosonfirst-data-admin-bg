@@ -31,6 +31,24 @@
     "name:bul_x_variant":[
         "\u041f\u0440\u0430\u0437"
     ],
+    "name:ceb_x_preferred":[
+        "Praz"
+    ],
+    "name:deu_x_preferred":[
+        "Praz"
+    ],
+    "name:fra_x_preferred":[
+        "Praz"
+    ],
+    "name:ita_x_preferred":[
+        "Praz"
+    ],
+    "name:nld_x_preferred":[
+        "Praz"
+    ],
+    "name:swe_x_preferred":[
+        "Praz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343795893,
-    "wof:lastmodified":1537587796,
+    "wof:lastmodified":1564176943,
     "wof:name":"Praz",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

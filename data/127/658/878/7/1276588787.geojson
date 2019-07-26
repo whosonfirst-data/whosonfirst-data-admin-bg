@@ -32,6 +32,27 @@
     "name:bul_x_variant":[
         "Balgari"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06af\u0627\u0631\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "By\u0142gari"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103lgari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Balgari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u043b\u0433\u0430\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Kolibi Bolgarina",
         "B\u016dlgari"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1276588787,
-    "wof:lastmodified":1537587725,
+    "wof:lastmodified":1564177147,
     "wof:name":"Balgari",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

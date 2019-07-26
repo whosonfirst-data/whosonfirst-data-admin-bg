@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0442\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Sitovo"
+    ],
+    "name:fra_x_preferred":[
+        "Sitovo"
+    ],
+    "name:pol_x_preferred":[
+        "Sitowo"
+    ],
+    "name:ron_x_preferred":[
+        "Sitovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Sitovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0442\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Sitowo",
         "Sitovo"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1277112739,
-    "wof:lastmodified":1537587359,
+    "wof:lastmodified":1564177196,
     "wof:name":"Sitovo",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

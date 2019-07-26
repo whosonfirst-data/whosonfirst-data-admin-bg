@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0438\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u062a\u06cc\u0646\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e1\u10e2\u10d8\u10dc\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Kostino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Kemikler",
         "Kostinovo",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1310235907,
-    "wof:lastmodified":1537587545,
+    "wof:lastmodified":1564177376,
     "wof:name":"Kostino",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

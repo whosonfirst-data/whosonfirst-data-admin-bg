@@ -29,6 +29,39 @@
     "name:bul_x_preferred":[
         "\u0422\u044e\u043b\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Tyulenovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0648\u0644\u0646\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Tyulenovo"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u094d\u092f\u0941\u0932\u0947\u0928\u094b\u0935\u094b"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10e3\u10da\u10d4\u10dc\u10dd\u10d5\u10dd"
+    ],
+    "name:msa_x_preferred":[
+        "Tyulenovo"
+    ],
+    "name:por_x_preferred":[
+        "Tyulenovo"
+    ],
+    "name:ron_x_preferred":[
+        "Tiulenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044e\u043b\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Tiulenovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u044e\u043b\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kal\u016dch K\u2019oy",
         "C\u00e2l\u00e2coichioi",
@@ -58,7 +91,7 @@
         }
     ],
     "wof:id":1293432387,
-    "wof:lastmodified":1537587290,
+    "wof:lastmodified":1564177103,
     "wof:name":"Tyulenovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

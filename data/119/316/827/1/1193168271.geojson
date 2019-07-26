@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0448\u0438\u043d\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0634\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10e8\u10d8\u10dc\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0443\u0448\u0438\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Dushintsi"
+    ],
+    "name:ron_x_preferred":[
+        "Du\u0219in\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0448\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0448\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Duschinzi",
         "Dushintsi"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1193168271,
-    "wof:lastmodified":1537587656,
+    "wof:lastmodified":1564177324,
     "wof:name":"Dushintsi",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

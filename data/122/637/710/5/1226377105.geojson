@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Banya"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u043d\u044f"
+    ],
+    "name:ron_x_preferred":[
+        "Banea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043d\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u044f"
+    ],
     "name:und_x_variant":[
         "Banja",
         "Bania",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1226377105,
-    "wof:lastmodified":1537587767,
+    "wof:lastmodified":1564177756,
     "wof:name":"Banya",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

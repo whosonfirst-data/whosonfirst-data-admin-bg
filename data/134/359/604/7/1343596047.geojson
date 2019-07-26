@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043d\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Donino"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u06cc\u0646\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043d\u0438\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Donino"
+    ],
+    "name:ron_x_preferred":[
+        "Donino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Donino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0438\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1343596047,
-    "wof:lastmodified":1537587673,
+    "wof:lastmodified":1564176955,
     "wof:name":"Donino",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

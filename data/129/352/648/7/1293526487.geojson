@@ -32,6 +32,24 @@
     "name:bul_x_variant":[
         "\u0427\u0435\u0440\u0432\u0435\u043d\u0430 \u041c\u043e\u0433\u0438\u043b\u0430"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d4\u10e0\u10d5\u10d4\u10dc\u10d0-\u10db\u10dd\u10d2\u10d8\u10da\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u0430-\u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Chervena Mogila"
+    ],
+    "name:ron_x_preferred":[
+        "Cervena Moghila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u0430-\u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u0430 \u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1293526487,
-    "wof:lastmodified":1537587705,
+    "wof:lastmodified":1564177014,
     "wof:name":"Chervena Mogila",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

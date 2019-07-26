@@ -29,6 +29,30 @@
     "name:bul_x_preferred":[
         "\u041b\u044e\u0442\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Lyutovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0648\u062a\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u044e\u0442\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0443\u0442\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Liutovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0442\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Lyutovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0442\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Ljutowzi",
         "Lyutovo"
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1326473187,
-    "wof:lastmodified":1537587505,
+    "wof:lastmodified":1564176882,
     "wof:name":"Lyutovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

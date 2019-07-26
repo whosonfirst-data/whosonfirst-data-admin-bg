@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442\u043e\u0432\u0430"
     ],
+    "name:hrv_x_preferred":[
+        "Brestova"
+    ],
+    "name:slv_x_preferred":[
+        "Brestova"
+    ],
     "name:und_x_variant":[
         "Bryastova",
         "Brestova"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1260010813,
-    "wof:lastmodified":1537587734,
+    "wof:lastmodified":1564177347,
     "wof:name":"Brestova",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

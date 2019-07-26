@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u043f\u0430\u0432\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u067e\u0627\u0648\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0435\u043f\u0430\u0432\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Tepawa"
+    ],
+    "name:ron_x_preferred":[
+        "Tepava"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043f\u0430\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043f\u0430\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Tepawa",
         "Tepava"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1360115111,
-    "wof:lastmodified":1537587313,
+    "wof:lastmodified":1564177442,
     "wof:name":"Tepava",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

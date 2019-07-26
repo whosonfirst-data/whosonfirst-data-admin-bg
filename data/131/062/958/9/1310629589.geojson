@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0417\u0438\u043c\u0437\u0435\u043b\u0435\u043d"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0645\u0632\u0644\u0646"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d8\u10db\u10d6\u10d4\u10da\u10d4\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0438\u043c\u0437\u0435\u043b\u0435\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Zimzelen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u0437\u0435\u043b\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0438\u043c\u0437\u0435\u043b\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Simselen",
         "K\u016drlar",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1310629589,
-    "wof:lastmodified":1537587234,
+    "wof:lastmodified":1564177385,
     "wof:name":"Zimzelen",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

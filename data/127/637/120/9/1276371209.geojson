@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "Eremia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0645\u06cc\u06cc\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0415\u0440\u0435\u043c\u0438\u044f"
+    ],
+    "name:ron_x_preferred":[
+        "Eremia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0440\u0435\u043c\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0440\u0435\u043c\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Eremija",
         "Eremiya"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1276371209,
-    "wof:lastmodified":1537587648,
+    "wof:lastmodified":1564177179,
     "wof:name":"Eremia",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

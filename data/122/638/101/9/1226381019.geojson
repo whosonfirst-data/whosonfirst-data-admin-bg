@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0441\u043a\u0430\u043b\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Paskalevo"
+    ],
+    "name:deu_x_preferred":[
+        "Paskalewo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0633\u06a9\u0627\u0644\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u0441\u043a\u0430\u043b\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Paskalevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u043a\u0430\u043b\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Paskalevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0441\u043a\u0430\u043b\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Ezibei",
         "Ezibey",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1226381019,
-    "wof:lastmodified":1537587439,
+    "wof:lastmodified":1564177765,
     "wof:name":"Paskalevo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

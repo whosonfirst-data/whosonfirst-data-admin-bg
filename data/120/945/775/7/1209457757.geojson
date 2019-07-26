@@ -31,6 +31,15 @@
     "name:bul_x_variant":[
         "\u041f\u043e\u0442\u043e\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Potoka"
+    ],
+    "name:swe_x_preferred":[
+        "Potoka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0442\u043e\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633001
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209457757,
-    "wof:lastmodified":1537587805,
+    "wof:lastmodified":1564177291,
     "wof:name":"Potoka",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

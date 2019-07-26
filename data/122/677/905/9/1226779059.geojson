@@ -33,6 +33,30 @@
     "name:bul_x_variant":[
         "\u0413\u043e\u043b\u0435\u043c\u043e \u0421\u0435\u043b\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Golemo selo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0644\u0645\u0648 \u0633\u0644\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Golemo Selo"
+    ],
+    "name:ron_x_preferred":[
+        "Golemo Selo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u043e-\u0421\u0435\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Golemo selo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u043e-\u0421\u0435\u043b\u043e"
+    ],
     "name:und_x_variant":[
         "Golyamo Selo",
         "Golyemo-Selo",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1226779059,
-    "wof:lastmodified":1537587630,
+    "wof:lastmodified":1564177743,
     "wof:name":"Golemo Selo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

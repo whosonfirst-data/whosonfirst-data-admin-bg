@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0432\u0430\u0440\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Volovarci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0644\u0648\u0648\u0627\u0631\u062a\u0633\u06cc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10dd\u10da\u10dd\u10d5\u10d0\u10e0\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0432\u0430\u0440\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Volovar\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0432\u0430\u0440\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Volovartsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u043b\u043e\u0432\u0430\u0440\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Skyuzchilar",
         "Yukyuzchilar",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1243485199,
-    "wof:lastmodified":1537587270,
+    "wof:lastmodified":1564177560,
     "wof:name":"Volovartsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

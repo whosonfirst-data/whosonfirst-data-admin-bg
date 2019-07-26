@@ -31,10 +31,34 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0434\u0436\u0430\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Madzhari"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062f\u0698\u0627\u0631\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0434\u0436\u0430\u0440\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Madjari"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u0436\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Madzjari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0434\u0436\u0430\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Madshari",
         "Madzharlar",
         "Madzhari"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u0698\u0627\u0631\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1327270965,
-    "wof:lastmodified":1537587505,
+    "wof:lastmodified":1564176910,
     "wof:name":"Madzhari",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

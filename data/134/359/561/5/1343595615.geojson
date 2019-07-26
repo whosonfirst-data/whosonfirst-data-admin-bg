@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043f\u0435\u043d"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u067e\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0438\u043f\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Lipen"
+    ],
+    "name:pol_x_preferred":[
+        "Lipen"
+    ],
+    "name:ron_x_preferred":[
+        "Lipen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043f\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043f\u0435\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1343595615,
-    "wof:lastmodified":1537587517,
+    "wof:lastmodified":1564176953,
     "wof:name":"Lipen",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

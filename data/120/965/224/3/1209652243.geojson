@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u0430\u0434\u0438\u043d\u043e\u0432\u0446\u0438"
     ],
+    "name:fra_x_preferred":[
+        "Miladinovtsi"
+    ],
+    "name:pol_x_preferred":[
+        "Mi\u0142adinowci"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0430\u0434\u0438\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Miladinovci"
+    ],
     "name:und_x_variant":[
         "Dzhevizli Kalfa",
         "Miladinowzi",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1209652243,
-    "wof:lastmodified":1537587484,
+    "wof:lastmodified":1564177208,
     "wof:name":"Miladinovtsi",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

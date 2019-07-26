@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u0438\u0433\u043e\u0440\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u06cc\u06af\u0648\u0631\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0440\u0438\u0433\u043e\u0440\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Trigorci"
+    ],
+    "name:ron_x_preferred":[
+        "Trigor\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0438\u0433\u043e\u0440\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0438\u0433\u043e\u0440\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Dzheferli Yuch Orman",
         "Trigorci",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1242924771,
-    "wof:lastmodified":1537587305,
+    "wof:lastmodified":1564177549,
     "wof:name":"Trigortsi",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

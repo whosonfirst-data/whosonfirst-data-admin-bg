@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0433\u0430\u043d\u0447\u0435\u0442\u0430\u0442\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u06af\u0627\u0646\u0686\u062a\u0627\u062a\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u0447\u0435\u0442\u0430\u0442\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Draganczetata"
+    ],
+    "name:ron_x_preferred":[
+        "Dragancetata"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u0447\u0435\u0442\u0430\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0430\u043d\u0447\u0435\u0442\u0430\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633001
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1209142465,
-    "wof:lastmodified":1537587672,
+    "wof:lastmodified":1564177251,
     "wof:name":"Draganchetata",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

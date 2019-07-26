@@ -33,6 +33,30 @@
     "name:bul_x_variant":[
         "\u041f\u0440\u0435\u0441\u0435\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Preseka"
+    ],
+    "name:fra_x_preferred":[
+        "Preseka"
+    ],
+    "name:hrv_x_preferred":[
+        "Preseka"
+    ],
+    "name:nld_x_preferred":[
+        "Preseka"
+    ],
+    "name:ron_x_preferred":[
+        "Preseka"
+    ],
+    "name:slv_x_preferred":[
+        "Preseka"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0435\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Preseka"
+    ],
     "name:und_x_variant":[
         "Chatak",
         "Presseka",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1276695821,
-    "wof:lastmodified":1537587410,
+    "wof:lastmodified":1564177139,
     "wof:name":"Preseka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

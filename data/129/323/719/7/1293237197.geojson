@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0448\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kazashko"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0632\u0627\u0634\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Kazachko"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0448\u043a\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Kaza\u0219ko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0448\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kazasjko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0437\u0430\u0448\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Kazashka Makhala",
         "Kasaschko-Selo",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1293237197,
-    "wof:lastmodified":1537587571,
+    "wof:lastmodified":1564177037,
     "wof:name":"Kazashko",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

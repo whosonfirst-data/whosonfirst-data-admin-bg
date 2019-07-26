@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u0432\u043e\u0442\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Slavotin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0627\u0648\u0648\u062a\u06cc\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u043e\u0442\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Slavotin"
+    ],
+    "name:ron_x_preferred":[
+        "Slavotin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u043e\u0442\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Slavotin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u043e\u0442\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Slawotin",
         "Slavotnik",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1310240975,
-    "wof:lastmodified":1537587354,
+    "wof:lastmodified":1564177370,
     "wof:name":"Slavotin",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

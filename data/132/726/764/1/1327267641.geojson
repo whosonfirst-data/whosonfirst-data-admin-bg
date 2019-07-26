@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u043c\u0435\u0446"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0645\u062a\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0438\u043c\u0435\u0446"
+    ],
+    "name:ron_x_preferred":[
+        "Lime\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043c\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u043c\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Kara Shabanlar",
         "Limez",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1327267641,
-    "wof:lastmodified":1537587517,
+    "wof:lastmodified":1564176897,
     "wof:name":"Limets",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

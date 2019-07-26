@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u0441\u043c\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:ces_x_preferred":[
+        "Pismenovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0633\u0645\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0438\u0441\u043c\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Pismenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0441\u043c\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Pismenovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0441\u043c\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Chiflik-Uruziya",
         "Uzun Chair",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1193047205,
-    "wof:lastmodified":1537587427,
+    "wof:lastmodified":1564177315,
     "wof:name":"Pismenovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

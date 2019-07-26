@@ -32,6 +32,24 @@
     "name:bul_x_variant":[
         "Povalirazh"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10d5\u10d0\u10da\u10d8\u10e0\u10d8\u10df\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0432\u0430\u043b\u0438\u0440\u044b\u0436"
+    ],
+    "name:msa_x_preferred":[
+        "Povalirazh"
+    ],
+    "name:ron_x_preferred":[
+        "Povalir\u0103j"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0432\u0430\u043b\u0438\u0440\u044b\u0436"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0432\u0430\u043b\u0438\u0440\u0438\u0436"
+    ],
     "name:und_x_variant":[
         "Povalir\u016dsh",
         "Powali-R\u0103sh",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1327165701,
-    "wof:lastmodified":1537587413,
+    "wof:lastmodified":1564176910,
     "wof:name":"Povalirazh",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

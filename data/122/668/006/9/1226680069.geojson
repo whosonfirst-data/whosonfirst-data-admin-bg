@@ -30,6 +30,39 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0431\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Babino"
+    ],
+    "name:est_x_preferred":[
+        "Babino"
+    ],
+    "name:fra_x_preferred":[
+        "Babino"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0562\u056b\u0576\u0578"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Babino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u043d\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Babino"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Babino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Bambino",
         "Babino"
@@ -55,7 +88,7 @@
         }
     ],
     "wof:id":1226680069,
-    "wof:lastmodified":1537587773,
+    "wof:lastmodified":1564177701,
     "wof:name":"Babino",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

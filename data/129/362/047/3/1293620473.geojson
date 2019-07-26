@@ -29,7 +29,23 @@
         "\u042e\u0433\u043b\u0435\u043d"
     ],
     "name:bul_x_variant":[
-        "Aglen"
+        "Aglen",
+        "\u042a\u0433\u043b\u0435\u043d"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0433\u043b\u0435\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Yglen"
+    ],
+    "name:ron_x_preferred":[
+        "\u0102glen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0433\u043b\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u043b\u0435\u043d"
     ],
     "name:und_x_variant":[
         "\u0102glen",
@@ -58,7 +74,7 @@
         }
     ],
     "wof:id":1293620473,
-    "wof:lastmodified":1537587289,
+    "wof:lastmodified":1564177007,
     "wof:name":"Aglen",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

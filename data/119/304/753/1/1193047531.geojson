@@ -31,6 +31,21 @@
     "name:bul_x_variant":[
         "\u041c\u0430\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Makovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Makovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u043e\u0432\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1193047531,
-    "wof:lastmodified":1537587791,
+    "wof:lastmodified":1564177313,
     "wof:name":"Makovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

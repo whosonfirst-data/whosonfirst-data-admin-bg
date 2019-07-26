@@ -33,6 +33,24 @@
     "name:bul_x_variant":[
         "\u0411\u0435\u043b\u043e \u041f\u043e\u043b\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Belo Pole"
+    ],
+    "name:fra_x_preferred":[
+        "Belo Pol\u00e9"
+    ],
+    "name:hun_x_preferred":[
+        "Belo Pole"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u043b\u043e \u041f\u043e\u043b\u0435"
+    ],
+    "name:sqi_x_preferred":[
+        "Bellopolla"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u043e \u041f\u043e\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Byalo pole",
         "Byelo-Pole",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293820647,
-    "wof:lastmodified":1537587758,
+    "wof:lastmodified":1564177044,
     "wof:name":"Belo Pole",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

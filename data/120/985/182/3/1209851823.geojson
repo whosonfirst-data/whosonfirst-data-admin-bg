@@ -31,6 +31,15 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430\u0440\u0438"
     ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0440\u0435\u0448\u0430\u0440\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0435\u0448\u0430\u0440\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0435\u0448\u0430\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Kozludzha",
         "Oreschari",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1209851823,
-    "wof:lastmodified":1537587453,
+    "wof:lastmodified":1564177240,
     "wof:name":"Oreshari",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

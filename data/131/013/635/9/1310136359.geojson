@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u043c\u0435\u043d\u0443\u0433\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0645\u0646\u0648\u06af\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10db\u10d4\u10dc\u10e3\u10d2\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Temenuga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u0435\u043d\u0443\u0433\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043c\u0435\u043d\u0443\u0433\u0430"
+    ],
     "name:und_x_variant":[
         "Indzhe K\u2019oy",
         "Indzhekioy",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1310136359,
-    "wof:lastmodified":1537587313,
+    "wof:lastmodified":1564177379,
     "wof:name":"Temenuga",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:bul_x_variant":[
         "\u041a\u0440\u0435\u043f\u043e\u0441\u0442"
     ],
+    "name:fra_x_preferred":[
+        "Krepost"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326566639,
-    "wof:lastmodified":1537587791,
+    "wof:lastmodified":1564176855,
     "wof:name":"Krepost",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

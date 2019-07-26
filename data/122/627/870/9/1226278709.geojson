@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043e\u043c\u0438\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Malomirovo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10dd\u10db\u10d8\u10e0\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u043c\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Malomirovo"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u0142omirowo"
+    ],
+    "name:ron_x_preferred":[
+        "Malomirovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u043c\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Malomirovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u043c\u0438\u0440\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Khambarliy",
         "Hambarl\u00fc",
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1226278709,
-    "wof:lastmodified":1537587496,
+    "wof:lastmodified":1564177687,
     "wof:name":"Malomirovo",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

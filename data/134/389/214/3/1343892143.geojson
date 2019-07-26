@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041b\u044f\u0441\u043a\u043e\u0432\u043e"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03ac\u03c3\u03ba\u03bf\u03b2\u03bf"
+    ],
+    "name:fra_x_preferred":[
+        "Lyaskovo"
+    ],
+    "name:ron_x_preferred":[
+        "Leaskovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u0441\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044f\u0441\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Abtarazak",
         "Leskovo",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1343892143,
-    "wof:lastmodified":1537587509,
+    "wof:lastmodified":1564176990,
     "wof:name":"Lyaskovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

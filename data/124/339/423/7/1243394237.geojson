@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u043e \u043f\u043e\u043b\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0648\u0648 \u067e\u0648\u0644\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e-\u041f\u043e\u043b\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Kriwo pole"
+    ],
+    "name:ron_x_preferred":[
+        "Krivo Pole"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e-\u041f\u043e\u043b\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0432\u043e-\u041f\u043e\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Irobas",
         "Kriwo Pole",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1243394237,
-    "wof:lastmodified":1537587534,
+    "wof:lastmodified":1564177530,
     "wof:name":"Krivo Pole",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

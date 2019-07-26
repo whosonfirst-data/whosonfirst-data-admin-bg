@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0430\u0440\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0422\u0435\u043e\u0434\u043e\u0440\u0430 \u041a\u043e\u0441\u0430\u0440\u0430"
+    ],
+    "name:hrv_x_preferred":[
+        "Kosara"
+    ],
+    "name:pol_x_preferred":[
+        "Teodora Kosara"
+    ],
+    "name:por_x_preferred":[
+        "Cossara"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0435\u043e\u0434\u043e\u0440\u0430 \u041a\u043e\u0441\u0430\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Cusuiul-Turcesc",
         "Kasara",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1343894741,
-    "wof:lastmodified":1537587549,
+    "wof:lastmodified":1564176989,
     "wof:name":"Kosara",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

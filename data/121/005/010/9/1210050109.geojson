@@ -27,8 +27,29 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0633\u0643\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u043f\u0441\u043a\u0430"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u067e\u0633\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043f\u0441\u043a\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Popska"
+    ],
+    "name:ron_x_preferred":[
+        "Popska"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0441\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
         "Polska Machla",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1210050109,
-    "wof:lastmodified":1537587416,
+    "wof:lastmodified":1564177307,
     "wof:name":"Popska",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

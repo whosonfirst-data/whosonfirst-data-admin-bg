@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0439\u043d\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Bogo\u00efna"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0439\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Bogoina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0439\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0439\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Bogoyna"
     ],
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1344194225,
-    "wof:lastmodified":1537587746,
+    "wof:lastmodified":1564176972,
     "wof:name":"Bogoina",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

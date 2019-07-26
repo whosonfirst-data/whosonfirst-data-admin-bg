@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0446\u044f"
     ],
+    "name:pol_x_preferred":[
+        "Mucja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1343390079,
-    "wof:lastmodified":1537587470,
+    "wof:lastmodified":1564176920,
     "wof:name":"Mutsya",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

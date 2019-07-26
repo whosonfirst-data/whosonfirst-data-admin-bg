@@ -28,7 +28,151 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0644\u064a\u0628"
+    ],
+    "name:aze_x_preferred":[
+        "Prilep"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u044b\u043b\u0435\u043f"
+    ],
+    "name:bos_x_preferred":[
+        "Prilep"
+    ],
     "name:bul_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f"
+    ],
+    "name:ceb_x_preferred":[
+        "Prilep"
+    ],
+    "name:ces_x_preferred":[
+        "Prilep"
+    ],
+    "name:chu_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0463\u043f\u044a"
+    ],
+    "name:dan_x_preferred":[
+        "Prilep"
+    ],
+    "name:deu_x_preferred":[
+        "Prilep"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03c1\u03af\u03bb\u03b5\u03c0"
+    ],
+    "name:epo_x_preferred":[
+        "Prilep"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0644\u067e"
+    ],
+    "name:fin_x_preferred":[
+        "Prilep"
+    ],
+    "name:fra_x_preferred":[
+        "Prilep"
+    ],
+    "name:gle_x_preferred":[
+        "Prilep"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d9\u05dc\u05e4"
+    ],
+    "name:hrv_x_preferred":[
+        "Prilep"
+    ],
+    "name:hsb_x_preferred":[
+        "Prilep"
+    ],
+    "name:hun_x_preferred":[
+        "Prilep"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0580\u056b\u056c\u0565\u057a"
+    ],
+    "name:ile_x_preferred":[
+        "Prilep"
+    ],
+    "name:ind_x_preferred":[
+        "Prilep"
+    ],
+    "name:ita_x_preferred":[
+        "Prilep"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30ec\u30d7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d8\u10da\u10d4\u10de\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub9b4\ub808\ud504"
+    ],
+    "name:lav_x_preferred":[
+        "Prilepa"
+    ],
+    "name:lit_x_preferred":[
+        "Prilepas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f"
+    ],
+    "name:msa_x_preferred":[
+        "Prilep"
+    ],
+    "name:nld_x_preferred":[
+        "Prilep"
+    ],
+    "name:nno_x_preferred":[
+        "Prilep"
+    ],
+    "name:nor_x_preferred":[
+        "Prilep"
+    ],
+    "name:pol_x_preferred":[
+        "Prilep"
+    ],
+    "name:por_x_preferred":[
+        "Prilepo"
+    ],
+    "name:ron_x_preferred":[
+        "Prilep"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f"
+    ],
+    "name:sco_x_preferred":[
+        "Prilep"
+    ],
+    "name:slv_x_preferred":[
+        "Prilep"
+    ],
+    "name:spa_x_preferred":[
+        "Prilep"
+    ],
+    "name:sqi_x_preferred":[
+        "P\u00ebrlepi"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f"
+    ],
+    "name:swe_x_preferred":[
+        "Prilep"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e23\u0e35\u0e40\u0e25\u0e1b"
+    ],
+    "name:tur_x_preferred":[
+        "Pirlepe"
+    ],
+    "name:ukr_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0435\u043f"
     ],
     "name:und_x_variant":[
@@ -36,6 +180,15 @@
         "Priljep",
         "Prilyep",
         "Prilep"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u06cc\u0644\u06cc\u067e"
+    ],
+    "name:vol_x_preferred":[
+        "Prilep"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u91cc\u83b1\u666e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +211,7 @@
         }
     ],
     "wof:id":1276796065,
-    "wof:lastmodified":1537587408,
+    "wof:lastmodified":1564177167,
     "wof:name":"Prilep",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

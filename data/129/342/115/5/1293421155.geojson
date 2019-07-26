@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u0431\u0440\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Srebrinowo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e0\u10d4\u10d1\u10e0\u10d8\u10dc\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0440\u0435\u0431\u0440\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Srebrinovo"
+    ],
+    "name:pol_x_preferred":[
+        "Srebrinowo"
+    ],
+    "name:ron_x_preferred":[
+        "Srebrinovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u0431\u0440\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u0435\u0431\u0440\u0438\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kolibi Serbinova",
         "Svebrinovo",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1293421155,
-    "wof:lastmodified":1537587344,
+    "wof:lastmodified":1564177088,
     "wof:name":"Srebrinovo",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

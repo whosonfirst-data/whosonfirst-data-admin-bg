@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0417\u043e\u0440\u043d\u0438\u0446\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Zornitsa"
+    ],
+    "name:swe_x_preferred":[
+        "Zornitsa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259717875,
-    "wof:lastmodified":1537587229,
+    "wof:lastmodified":1564177642,
     "wof:name":"Zornitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

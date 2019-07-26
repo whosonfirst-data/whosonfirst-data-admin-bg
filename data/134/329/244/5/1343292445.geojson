@@ -28,8 +28,29 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u043e\u0441\u0456\u0446\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u0438\u0446\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Rositsa"
+    ],
+    "name:deu_x_preferred":[
+        "Rossiza"
+    ],
+    "name:fra_x_preferred":[
+        "Rositsa"
+    ],
+    "name:ron_x_preferred":[
+        "Rosi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Rositsa"
     ],
     "name:und_x_variant":[
         "Tospatlar",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1343292445,
-    "wof:lastmodified":1537587382,
+    "wof:lastmodified":1564176981,
     "wof:name":"Rositsa",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

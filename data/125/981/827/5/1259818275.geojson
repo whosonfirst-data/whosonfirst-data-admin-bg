@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0438\u0432\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Slivova"
+    ],
+    "name:nds_x_preferred":[
+        "Slivova"
+    ],
+    "name:pol_x_preferred":[
+        "Sliwowo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Sliwowo",
         "Slivovo"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259818275,
-    "wof:lastmodified":1537587352,
+    "wof:lastmodified":1564177665,
     "wof:name":"Slivovo",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

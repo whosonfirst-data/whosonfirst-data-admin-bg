@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0431\u043e\u0447\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0648\u0686\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u0431\u043e\u0447\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0435\u0431\u043e\u0447\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Deboczica"
+    ],
+    "name:ron_x_preferred":[
+        "Deboci\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0431\u043e\u0447\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0431\u043e\u0447\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Dubochitsa",
         "Debotschiza",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1259822167,
-    "wof:lastmodified":1537587697,
+    "wof:lastmodified":1564177643,
     "wof:name":"Debochitsa",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

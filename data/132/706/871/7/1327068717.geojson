@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u0440\u0438\u043b\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0631\u06cc\u0644\u0648\u0641\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0443\u0440\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0443\u0440\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Ciurilovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0440\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0440\u0438\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tschurilowo",
         "Churilovo"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1327068717,
-    "wof:lastmodified":1537587700,
+    "wof:lastmodified":1564176823,
     "wof:name":"Churilovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

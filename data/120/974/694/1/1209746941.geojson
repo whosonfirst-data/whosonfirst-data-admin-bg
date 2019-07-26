@@ -32,6 +32,30 @@
     "name:bul_x_variant":[
         "\u0411\u0440\u0430\u0442\u0443\u0448\u043a\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u062a\u0648\u0634\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d0\u10e2\u10e3\u10e8\u10d9\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0443\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Bratushkovo"
+    ],
+    "name:pol_x_preferred":[
+        "Bratuszkowo"
+    ],
+    "name:ron_x_preferred":[
+        "Bratu\u0219kovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0443\u0448\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u0443\u0448\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Bratuschkowo",
         "Bratushkovo"
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1209746941,
-    "wof:lastmodified":1537587735,
+    "wof:lastmodified":1564177284,
     "wof:name":"Bratushkovo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

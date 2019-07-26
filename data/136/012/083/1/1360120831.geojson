@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u041a\u043d\u044f\u0436\u0435\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Knjaschewo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u06cc\u0627\u0698\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043d\u044f\u0436\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Knja\u017cewo"
+    ],
+    "name:ron_x_preferred":[
+        "Kneajevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043d\u044f\u0436\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043d\u044f\u0436\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Shakhlii",
         "Knea\u017ejavo",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1360120831,
-    "wof:lastmodified":1537587558,
+    "wof:lastmodified":1564177424,
     "wof:name":"Knyazhevo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

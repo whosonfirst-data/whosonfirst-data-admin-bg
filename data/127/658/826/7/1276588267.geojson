@@ -33,6 +33,27 @@
     "name:bul_x_variant":[
         "Mihaylovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0647\u0627\u06cc\u0644\u0648\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10ee\u10d0\u10d8\u10da\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Mihaylovo"
+    ],
+    "name:ron_x_preferred":[
+        "Mihailovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "G\u2019ok Pala",
         "Gyukhpala",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1276588267,
-    "wof:lastmodified":1537587484,
+    "wof:lastmodified":1564177142,
     "wof:name":"Mihaylovo",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

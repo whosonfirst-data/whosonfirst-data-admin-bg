@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Borovci"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Borovtsi"
+    ],
+    "name:ron_x_preferred":[
+        "Borov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Borovtsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Borowzi",
         "Borovtsi"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1326866339,
-    "wof:lastmodified":1537587741,
+    "wof:lastmodified":1564176838,
     "wof:name":"Borovtsi",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

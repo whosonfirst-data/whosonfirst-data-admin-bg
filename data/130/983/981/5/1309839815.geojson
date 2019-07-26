@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u0432\u0435\u0441\u0442\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Nevestino"
+    ],
+    "name:fra_x_preferred":[
+        "Nevestino"
+    ],
+    "name:ron_x_preferred":[
+        "Nevestino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0432\u0435\u0441\u0442\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Nevestino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0432\u0435\u0441\u0442\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Gerdeli",
         "Nevestiro",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1309839815,
-    "wof:lastmodified":1537587466,
+    "wof:lastmodified":1564177482,
     "wof:name":"Nevestino",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

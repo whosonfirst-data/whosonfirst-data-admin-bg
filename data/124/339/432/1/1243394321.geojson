@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0437\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u06af\u0648\u0632\u06cc\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0437\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Rogozinowo"
+    ],
+    "name:ron_x_preferred":[
+        "Rogozinovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0437\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0433\u043e\u0437\u0438\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Khas\u016drlii",
         "Rogosinowo",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1243394321,
-    "wof:lastmodified":1537587384,
+    "wof:lastmodified":1564177537,
     "wof:name":"Rogozinovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

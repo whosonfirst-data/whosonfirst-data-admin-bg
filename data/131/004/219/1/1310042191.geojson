@@ -29,6 +29,30 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u043b\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Stalevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0627\u0644\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0430\u043b\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Stalewo"
+    ],
+    "name:ron_x_preferred":[
+        "Stalevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0430\u043b\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Stalevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u043b\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Preslav",
         "Yuksyuzler",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1310042191,
-    "wof:lastmodified":1537587340,
+    "wof:lastmodified":1564177412,
     "wof:name":"Stalevo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

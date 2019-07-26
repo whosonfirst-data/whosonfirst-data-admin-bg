@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041f\u043b\u043e\u0441\u043a\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0648\u0633\u06a9\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043b\u043e\u0441\u043a\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043b\u043e\u0441\u043a\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "P\u0142oski"
+    ],
+    "name:ron_x_preferred":[
+        "Ploski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u043e\u0441\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u043e\u0441\u043a\u0438\u0439"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1276272997,
-    "wof:lastmodified":1537587425,
+    "wof:lastmodified":1564177129,
     "wof:name":"Ploski",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

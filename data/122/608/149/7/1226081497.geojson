@@ -31,6 +31,45 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0431\u0438\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Kabile"
+    ],
+    "name:deu_x_preferred":[
+        "Kabile"
+    ],
+    "name:ita_x_preferred":[
+        "Cabile"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d1\u10d8\u10da\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u043b\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Kabile"
+    ],
+    "name:pol_x_preferred":[
+        "Kabile"
+    ],
+    "name:por_x_preferred":[
+        "C\u00e1bila"
+    ],
+    "name:ron_x_preferred":[
+        "Kabile"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u043b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "C\u00e1bile"
+    ],
+    "name:swe_x_preferred":[
+        "Kabile"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0431\u0438\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Tavshan-Tepe",
         "Iswor",
@@ -59,7 +98,7 @@
         }
     ],
     "wof:id":1226081497,
-    "wof:lastmodified":1537587587,
+    "wof:lastmodified":1564177759,
     "wof:name":"Kabile",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

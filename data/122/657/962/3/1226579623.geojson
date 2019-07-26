@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u0438\u043a\u0440\u0430\u0438\u0449\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0644\u06cc\u06a9\u0631\u0627\u06cc\u0634\u062a\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u043a\u0440\u0430\u0438\u0448\u0442\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Polikrai\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u043a\u0440\u0430\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u0456\u043a\u0440\u0430\u0457\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Polikraicht\u00e9",
         "Polikraishte",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1226579623,
-    "wof:lastmodified":1537587421,
+    "wof:lastmodified":1564177705,
     "wof:name":"Polikrayshte",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0437\u0430\u0440\u0430\u0447\u0435\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0632\u0627\u0631\u0686\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Mazaracevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0437\u0430\u0440\u0430\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Masaratschewo",
         "Mazarachevo"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1276589451,
-    "wof:lastmodified":1537587490,
+    "wof:lastmodified":1564177149,
     "wof:name":"Mazarachevo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0411\u044f\u043b\u0430 \u0440\u0435\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Byala Reka"
+    ],
+    "name:fra_x_preferred":[
+        "Byala reka"
+    ],
+    "name:pol_x_preferred":[
+        "Bja\u0142a reka"
+    ],
+    "name:ron_x_preferred":[
+        "Beala Reka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044f\u043b\u0430-\u0420\u0435\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Byala Reka"
+    ],
     "name:und_x_variant":[
         "Bela Reka",
         "Byala Ryaka",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209140419,
-    "wof:lastmodified":1537587720,
+    "wof:lastmodified":1564177248,
     "wof:name":"Byala Reka",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0427\u0438\u043b\u0438\u043a"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0644\u06cc\u06a9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10da\u10d8\u10d9\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Cilik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0438\u043b\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0438\u043b\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Tschilik",
         "Chelikler",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1276263587,
-    "wof:lastmodified":1537587704,
+    "wof:lastmodified":1564177118,
     "wof:name":"Chilik",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

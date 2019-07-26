@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0421\u0432\u0438\u0440\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06cc\u0631\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0432\u0438\u0440\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Swirci"
+    ],
+    "name:ron_x_preferred":[
+        "Svir\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u0440\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0438\u0440\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Sverts\u016d",
         "Svirtsi"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1243300461,
-    "wof:lastmodified":1537587316,
+    "wof:lastmodified":1564177525,
     "wof:name":"Svirtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

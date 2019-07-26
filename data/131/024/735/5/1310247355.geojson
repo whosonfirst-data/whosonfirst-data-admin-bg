@@ -32,6 +32,21 @@
         "Kragulevo",
         "\u041a\u0440\u0430\u0433\u0443\u043b\u0435\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u06af\u0648\u0644\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0430\u0433\u0443\u043b\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Kragulevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0433\u0443\u043b\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0433\u0443\u043b\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Shakhi Dzhii",
         "Sahangi",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1310247355,
-    "wof:lastmodified":1537587540,
+    "wof:lastmodified":1564177371,
     "wof:name":"Kragulevo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

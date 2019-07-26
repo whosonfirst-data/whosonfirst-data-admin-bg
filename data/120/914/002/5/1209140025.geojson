@@ -25,8 +25,41 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0647\u0644\u0648\u06cc"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0445\u0435\u043b\u043e\u0439"
+    ],
+    "name:ceb_x_preferred":[
+        "Aheloy"
+    ],
+    "name:fin_x_preferred":[
+        "Aheloi"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0445\u0435\u043b\u043e\u0439"
+    ],
+    "name:por_x_preferred":[
+        "Aheloj"
+    ],
+    "name:ron_x_preferred":[
+        "Aheloi"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0445\u0435\u043b\u043e\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Aheloy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0445\u0435\u043b\u043e\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "Aheloy"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8d6b\u6d1b\u4f0a"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1209140025,
-    "wof:lastmodified":1537487802,
+    "wof:lastmodified":1564177252,
     "wof:name":"Aheloy",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0442\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Kiten"
+    ],
+    "name:deu_x_preferred":[
+        "Kiten"
+    ],
+    "name:fra_x_preferred":[
+        "Kiten"
+    ],
+    "name:por_x_preferred":[
+        "Kiten"
+    ],
+    "name:ron_x_preferred":[
+        "Kiten"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0442\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kiten"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0442\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Mukhalii",
         "Kiten"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1310532735,
-    "wof:lastmodified":1537587561,
+    "wof:lastmodified":1564177387,
     "wof:name":"Kiten",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

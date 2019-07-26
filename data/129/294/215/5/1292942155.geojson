@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0448\u043b\u0430"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e3\u10e8\u10da\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0443\u0448\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Kushla"
+    ],
+    "name:ron_x_preferred":[
+        "Ku\u0219la"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0448\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0448\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Kuschla",
         "Kushla"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1292942155,
-    "wof:lastmodified":1537587525,
+    "wof:lastmodified":1564177023,
     "wof:name":"Kushla",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

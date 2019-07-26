@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u042e\u0440\u0443\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u06cc \u06cc\u0648\u0631\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438-\u042e\u0440\u0443\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Dolni Iuru\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438-\u042e\u0440\u0443\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0456 \u042e\u0440\u0443\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Dolno Yurukler",
         "Dolni Juruzi",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1243297731,
-    "wof:lastmodified":1537587679,
+    "wof:lastmodified":1564177613,
     "wof:name":"Dolni Yurutsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

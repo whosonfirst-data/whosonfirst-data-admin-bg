@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0432\u0438\u043b\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0645\u0648\u0648\u06cc\u0644\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0432\u0438\u043b\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Samovila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0432\u0438\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0432\u0438\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Talashman Dere",
         "Samowila",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1226785913,
-    "wof:lastmodified":1537587374,
+    "wof:lastmodified":1564177737,
     "wof:name":"Samovila",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

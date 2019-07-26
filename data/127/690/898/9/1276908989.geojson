@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0423\u0448\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Ushi"
+    ],
+    "name:swe_x_preferred":[
+        "Ushi"
+    ],
     "name:und_x_variant":[
         "Uschi",
         "Ushi"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276908989,
-    "wof:lastmodified":1537587289,
+    "wof:lastmodified":1564177176,
     "wof:name":"Ushi",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

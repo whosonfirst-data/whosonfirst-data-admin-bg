@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0442\u0438\u043d\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Belotinci"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Belotintsi"
+    ],
+    "name:ron_x_preferred":[
+        "Belotin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Belotintsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u0442\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Byelotintsi",
         "Belotinci",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1327061121,
-    "wof:lastmodified":1537587758,
+    "wof:lastmodified":1564176826,
     "wof:name":"Belotintsi",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

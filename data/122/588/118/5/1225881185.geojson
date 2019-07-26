@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u043b\u0438\u043d\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u043b\u0438\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Lelin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043b\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u043b\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Lelinzi",
         "Lelintsi"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1225881185,
-    "wof:lastmodified":1537587522,
+    "wof:lastmodified":1564177712,
     "wof:name":"Lelintsi",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

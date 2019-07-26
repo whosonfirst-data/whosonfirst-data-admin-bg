@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0448\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0634\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0443\u0448\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Du\u0219ka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0448\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0448\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Machala Duschka",
         "Dushka"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1360220881,
-    "wof:lastmodified":1537587656,
+    "wof:lastmodified":1564177429,
     "wof:name":"Dushka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

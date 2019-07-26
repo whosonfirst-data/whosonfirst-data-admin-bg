@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0414\u044e\u043b\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0648\u0644\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u044e\u043b\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Diuli\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u043b\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u044e\u043b\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Djuliza",
         "Ayvadzhik",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1226173807,
-    "wof:lastmodified":1537587653,
+    "wof:lastmodified":1564177678,
     "wof:name":"Dyulitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

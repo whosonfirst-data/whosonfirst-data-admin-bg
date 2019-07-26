@@ -25,7 +25,16 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u064a\u062f\u0627\u0631\u064a"
+    ],
     "name:bul_x_preferred":[
+        "\u0413\u0430\u0439\u0434\u0430\u0440\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Gajdari"
+    ],
+    "name:ukr_x_preferred":[
         "\u0413\u0430\u0439\u0434\u0430\u0440\u0438"
     ],
     "src:geom":"geonames",
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1243485035,
-    "wof:lastmodified":1537587639,
+    "wof:lastmodified":1564177559,
     "wof:name":"Gaydari",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

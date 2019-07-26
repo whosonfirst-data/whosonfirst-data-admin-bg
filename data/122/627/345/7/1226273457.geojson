@@ -34,6 +34,21 @@
     "name:bul_x_variant":[
         "\u0421\u043e\u0432\u043e\u043b\u044f\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0648\u0648\u0644\u06cc\u0627\u0646\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u0432\u043e\u043b\u044f\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Sovoleano"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0432\u043e\u043b\u044f\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0432\u043e\u043b\u044f\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Sovoljano",
         "Sowoljano",
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1226273457,
-    "wof:lastmodified":1537587345,
+    "wof:lastmodified":1564177689,
     "wof:name":"Sovolyano",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

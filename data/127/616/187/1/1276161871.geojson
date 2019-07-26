@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0442\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Batovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Batovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Batovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0442\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tschatallar",
         "Chatalar",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1276161871,
-    "wof:lastmodified":1537587765,
+    "wof:lastmodified":1564177130,
     "wof:name":"Batovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0441\u043a\u043e"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0441\u043a\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Ba\u0142abansko"
+    ],
+    "name:ron_x_preferred":[
+        "Balabansko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Balabanska"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310334659,
-    "wof:lastmodified":1537587770,
+    "wof:lastmodified":1564177420,
     "wof:name":"Balabansko",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u043b\u043e\u043c"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0644\u0648\u0645"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0435\u043b\u043e\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Pre\u0142om"
+    ],
+    "name:ron_x_preferred":[
+        "Prelom"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u043b\u043e\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u043b\u043e\u043c"
+    ],
     "name:und_x_variant":[
         "Dolni Bivol",
         "Wassilewo",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1260010717,
-    "wof:lastmodified":1537587410,
+    "wof:lastmodified":1564177344,
     "wof:name":"Prelom",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

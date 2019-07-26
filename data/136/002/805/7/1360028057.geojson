@@ -29,6 +29,33 @@
     "name:bul_x_preferred":[
         "\u0421\u043d\u043e\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Snop"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0648\u067e"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dc\u10dd\u10de\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043d\u043e\u043f"
+    ],
+    "name:msa_x_preferred":[
+        "Snop"
+    ],
+    "name:ron_x_preferred":[
+        "Snop"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043d\u043e\u043f"
+    ],
+    "name:swe_x_preferred":[
+        "Snop"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043d\u043e\u043f"
+    ],
     "name:und_x_variant":[
         "Esetli",
         "Esetlii",
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1360028057,
-    "wof:lastmodified":1537587348,
+    "wof:lastmodified":1564177458,
     "wof:name":"Snop",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

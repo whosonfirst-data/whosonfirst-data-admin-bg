@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kamenovo"
+    ],
+    "name:fra_x_preferred":[
+        "Kamenovo"
+    ],
+    "name:msa_x_preferred":[
+        "Kamenovo"
+    ],
+    "name:por_x_preferred":[
+        "Kamenovo"
+    ],
+    "name:slv_x_preferred":[
+        "Kamenovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Gjuzelid\u017ea Alan",
         "Gyuzeldzhe-Alan",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1243203317,
-    "wof:lastmodified":1537587579,
+    "wof:lastmodified":1564177597,
     "wof:name":"Kamenovo",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

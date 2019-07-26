@@ -30,6 +30,12 @@
     "name:afr_x_preferred":[
         "Rilaklooster"
     ],
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0631\u064a\u0644\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u043b\u044c\u0441\u043a\u0456 \u043c\u0430\u043d\u0430\u0441\u0442\u044b\u0440"
+    ],
     "name:bul_x_preferred":[
         "Manastir Sveti Ivan Rilski"
     ],
@@ -40,11 +46,20 @@
     "name:cat_x_preferred":[
         "Monestir de Rila"
     ],
+    "name:ces_x_preferred":[
+        "Rilsk\u00fd kl\u00e1\u0161ter"
+    ],
     "name:dan_x_preferred":[
         "Rila-klosteret"
     ],
+    "name:dan_x_variant":[
+        "Rilaklosteret"
+    ],
     "name:deu_x_preferred":[
         "Kloster Rila"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9 \u03c4\u03b7\u03c2 \u03a1\u03af\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Rila Monastery"
@@ -52,14 +67,26 @@
     "name:epo_x_preferred":[
         "Rila-mona\u0125ejo"
     ],
+    "name:fas_x_preferred":[
+        "\u0635\u0648\u0645\u0639\u0647 \u0631\u06cc\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Rilan luostari"
     ],
     "name:fra_x_preferred":[
         "Monast\u00e8re de Rila"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d6\u05e8 \u05e8\u05d9\u05dc\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Manastir Rila"
+    ],
     "name:hun_x_preferred":[
         "Rilai kolostor"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u056c\u0561\u0575\u056b \u057e\u0561\u0576\u0561\u056f\u0561\u0576 \u0570\u0561\u0574\u0561\u056c\u056b\u0580"
     ],
     "name:ita_x_preferred":[
         "Monastero di Rila"
@@ -67,14 +94,50 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30e9\u4fee\u9053\u9662"
     ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10da\u10d8\u10e1 \u10db\u10dd\u10dc\u10d0\u10e1\u10e2\u10d4\u10e0\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9b4\ub77c \uc218\ub3c4\uc6d0"
+    ],
+    "name:lat_x_preferred":[
+        "Monasterium Rila"
+    ],
+    "name:lav_x_preferred":[
+        "Rilas klosteris"
+    ],
+    "name:lit_x_preferred":[
+        "Rilos vienuolynas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0438\u043b\u0441\u043a\u0438 \u043c\u0430\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
+    "name:mya_x_preferred":[
+        "\u101b\u102e\u101c\u102c \u1018\u102f\u1014\u103a\u1038\u1000\u103c\u102e\u1038\u1000\u103b\u1031\u102c\u1004\u103a\u1038"
+    ],
     "name:nld_x_preferred":[
         "Rilaklooster"
+    ],
+    "name:nor_x_preferred":[
+        "Rila kloster"
     ],
     "name:pol_x_preferred":[
         "Rilski Monastyr"
     ],
+    "name:pol_x_variant":[
+        "Monastyr Rilski"
+    ],
+    "name:ron_x_preferred":[
+        "M\u0103n\u0103stirea Rila"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u043c\u043e\u043d\u0430\u0441\u0442\u044b\u0440\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Rilsk\u00fd monastier"
+    ],
+    "name:slv_x_preferred":[
+        "Rilski samostan"
     ],
     "name:spa_x_preferred":[
         "Monasterio de Rila"
@@ -85,9 +148,21 @@
     "name:swe_x_preferred":[
         "Rilaklostret"
     ],
+    "name:tur_x_preferred":[
+        "Rila Manast\u0131r\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u043c\u043e\u043d\u0430\u0441\u0442\u0438\u0440"
+    ],
     "name:und_x_variant":[
         "Rilski-Monastir",
         "Rilo Monastery"
+    ],
+    "name:vie_x_preferred":[
+        "Tu vi\u1ec7n Rila"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u62c9\u4fee\u9053\u9662"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -111,7 +186,7 @@
         }
     ],
     "wof:id":1327066611,
-    "wof:lastmodified":1537587386,
+    "wof:lastmodified":1564176819,
     "wof:name":"Rilski Manastir",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -29,11 +29,41 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u043d\u0435\u0440\u0430\u043b\u043d\u0438 \u0431\u0430\u043d\u0438"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d8\u10dc\u10d4\u10e0\u10d0\u10da\u10dc\u10d8-\u10d1\u10d0\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u043d\u0435\u0440\u0430\u043b\u043d\u0438-\u0411\u0430\u043d\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Mineralni Bani"
+    ],
+    "name:pol_x_preferred":[
+        "Minera\u0142ni bani"
+    ],
+    "name:ron_x_preferred":[
+        "Mineralni Bani"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043d\u0435\u0440\u0430\u043b\u043d\u0438-\u0411\u0430\u043d\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Meri\u00e7ler"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u0456 \u0411\u0430\u043d\u0456"
+    ],
     "name:und_x_variant":[
         "Khaskovski Mineralni Bani",
         "Khaskovski Bani",
         "Mineralni Bani-Haskovo",
         "Mineralni Bani"
+    ],
+    "name:war_x_preferred":[
+        "Mineralni Bani"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5167\u62c9\u723e\u5c3c\u5df4\u5c3c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +87,7 @@
         }
     ],
     "wof:id":1209945561,
-    "wof:lastmodified":1537587568,
+    "wof:lastmodified":1564177275,
     "wof:name":"Mineralni Bani",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u041c\u0440\u0435\u0436\u0438\u0447\u043a\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Mrejitchko"
+    ],
+    "name:ron_x_preferred":[
+        "Mrejiciko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0440\u0435\u0436\u0438\u0447\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0440\u0435\u0436\u0438\u0447\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Tyule",
         "Mreshitschko",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1327364465,
-    "wof:lastmodified":1537587473,
+    "wof:lastmodified":1564176830,
     "wof:name":"Mrezhichko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

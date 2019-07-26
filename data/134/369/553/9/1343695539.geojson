@@ -29,10 +29,37 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0432\u0441\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Levski"
+    ],
+    "name:deu_x_preferred":[
+        "Lewski"
+    ],
+    "name:fra_x_preferred":[
+        "Levski"
+    ],
+    "name:por_x_preferred":[
+        "Levski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Levski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0432\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "\u010catma",
         "Lewski",
         "Chatma",
+        "Levski"
+    ],
+    "name:vie_x_preferred":[
         "Levski"
     ],
     "src:geom":"geonames",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1343695539,
-    "wof:lastmodified":1537587518,
+    "wof:lastmodified":1564176967,
     "wof:name":"Levski",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

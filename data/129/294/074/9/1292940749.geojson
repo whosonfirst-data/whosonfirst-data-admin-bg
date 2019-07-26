@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0438\u0436\u0431\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0631\u06cc\u0698\u0628\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0440\u0438\u0436\u0431\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Strijba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0438\u0436\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0438\u0436\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Kurk\u016dm",
         "Strishba",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1292940749,
-    "wof:lastmodified":1537587327,
+    "wof:lastmodified":1564177022,
     "wof:name":"Strizhba",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

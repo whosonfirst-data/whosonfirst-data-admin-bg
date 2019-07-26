@@ -21,6 +21,24 @@
     "name:bul_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0644\u0646\u06cc\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Zelenika"
+    ],
+    "name:ron_x_preferred":[
+        "Zelenika"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u0430"
+    ],
     "name:unk_x_variant":[
         "Novakovtsi"
     ],
@@ -73,7 +91,7 @@
         }
     ],
     "wof:id":1125809129,
-    "wof:lastmodified":1509393442,
+    "wof:lastmodified":1564177506,
     "wof:name":"Zelenika",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

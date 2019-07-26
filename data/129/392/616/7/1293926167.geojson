@@ -30,12 +30,33 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Rakovski"
+    ],
+    "name:fra_x_preferred":[
+        "Rakovski"
+    ],
+    "name:por_x_preferred":[
+        "Rakovski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rakovski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0456"
+    ],
     "name:und_x_variant":[
         "Cri\u015fana",
         "Racovschi",
         "Seid Akhmed",
         "Said Achmed",
         "Sayd-Akhmed",
+        "Rakovski"
+    ],
+    "name:vie_x_preferred":[
         "Rakovski"
     ],
     "src:geom":"geonames",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1293926167,
-    "wof:lastmodified":1537587395,
+    "wof:lastmodified":1564177060,
     "wof:name":"Rakovski",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

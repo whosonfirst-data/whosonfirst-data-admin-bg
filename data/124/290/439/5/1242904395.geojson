@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u044f\u0441\u0442"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u044f\u0441\u0442"
+    ],
+    "name:pol_x_preferred":[
+        "Brjast"
+    ],
+    "name:ron_x_preferred":[
+        "Breast"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044f\u0441\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u044f\u0441\u0442"
+    ],
     "name:und_x_variant":[
         "Kara-Ach",
         "Razvalini Kara Agach",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1242904395,
-    "wof:lastmodified":1537587730,
+    "wof:lastmodified":1564177590,
     "wof:name":"Bryast",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

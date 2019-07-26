@@ -25,10 +25,28 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Popovci"
+    ],
     "name:bul_x_preferred":[
         "Popovtsi"
     ],
     "name:bul_x_variant":[
+        "\u041f\u043e\u043f\u043e\u0432\u0446\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Popovtsi"
+    ],
+    "name:ron_x_preferred":[
+        "Popov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0446\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Popovci"
+    ],
+    "name:srp_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u0446\u0438"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1226480989,
-    "wof:lastmodified":1537587805,
+    "wof:lastmodified":1564177747,
     "wof:name":"Popovtsi",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043d\u044f\u0436\u0435\u0432\u0441\u043a\u043e"
     ],
+    "name:bul_x_variant":[
+        "\u0411\u0443\u0437\u043b\u0443\u0434\u0436\u0430"
+    ],
     "name:und_x_variant":[
         "Tsaritsa Ioanna",
         "Pishmana",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1343397297,
-    "wof:lastmodified":1537587558,
+    "wof:lastmodified":1564176924,
     "wof:name":"Knyazhevsko",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

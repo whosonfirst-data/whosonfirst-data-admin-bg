@@ -32,6 +32,27 @@
     "name:bul_x_variant":[
         "Razhevo"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0698\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10df\u10d4\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u044b\u0436\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Razhevo"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103jevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0436\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0436\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "R\u0103shewo",
         "R\u016dzhevo"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1343597873,
-    "wof:lastmodified":1537587376,
+    "wof:lastmodified":1564176962,
     "wof:name":"Razhevo",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

@@ -31,6 +31,21 @@
     "name:bul_x_variant":[
         "\u041f\u0430\u043d\u0438\u0447\u0430\u0440\u0435\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0646\u06cc\u0686\u0627\u0631\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u043d\u0438\u0447\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Panicearevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0438\u0447\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u0438\u0447\u0430\u0440\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Panitscharewo",
         "Panicharevo"
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1360221103,
-    "wof:lastmodified":1537587441,
+    "wof:lastmodified":1564177428,
     "wof:name":"Panicharevo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0441\u043a\u043e\u0432\u0435\u0446"
     ],
+    "name:fra_x_preferred":[
+        "Leskovets"
+    ],
+    "name:swe_x_preferred":[
+        "Leskovets"
+    ],
     "name:und_x_variant":[
         "Lyeskovets",
         "Leskowez",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327167869,
-    "wof:lastmodified":1537587520,
+    "wof:lastmodified":1564176909,
     "wof:name":"Leskovets",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

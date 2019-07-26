@@ -31,8 +31,20 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0432\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Balvan"
+    ],
+    "name:ces_x_preferred":[
+        "Balvan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u0627\u0646"
+    ],
     "name:ota_x_preferred":[
         "\u0628\u0627\u0644\u0648\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Balvan"
     ],
     "name:und_x_variant":[
         "Balwan",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1260218319,
-    "wof:lastmodified":1537587768,
+    "wof:lastmodified":1564177360,
     "wof:name":"Balvan",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

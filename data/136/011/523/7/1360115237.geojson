@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0433\u0440\u0435\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Izgrev"
+    ],
+    "name:fra_x_preferred":[
+        "Izgrev"
+    ],
+    "name:pol_x_preferred":[
+        "Izgrew"
+    ],
+    "name:ron_x_preferred":[
+        "Izgrev"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0433\u0440\u0435\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Izgrev"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u0433\u0440\u0435\u0432"
+    ],
     "name:und_x_variant":[
         "Bozirog"
     ],
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1360115237,
-    "wof:lastmodified":1537587590,
+    "wof:lastmodified":1564177444,
     "wof:name":"Izgrev",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

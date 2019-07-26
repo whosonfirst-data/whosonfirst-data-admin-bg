@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u044f\u043b\u043e\u0431\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06cc\u0627\u0644\u0648\u0628\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u044f\u043b\u043e\u0431\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Kaialoba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u044f\u043b\u043e\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u044f\u043b\u043e\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Kasloba",
         "Kajloba",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1276696445,
-    "wof:lastmodified":1537587572,
+    "wof:lastmodified":1564177132,
     "wof:name":"Kayaloba",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

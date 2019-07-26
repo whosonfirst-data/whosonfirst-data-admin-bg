@@ -31,6 +31,9 @@
     "name:bul_x_variant":[
         "\u041f\u0430\u0432\u043b\u0438\u043d\u0430"
     ],
+    "name:deu_x_preferred":[
+        "Pavlina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293914881,
-    "wof:lastmodified":1537587794,
+    "wof:lastmodified":1564177004,
     "wof:name":"Pavlina",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

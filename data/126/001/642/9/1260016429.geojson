@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u041a\u0443\u043b\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0414\u043e\u043b\u043d\u0430 \u043a\u0443\u043b\u0430"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10da\u10dc\u10d0-\u10d9\u10e3\u10da\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u041a\u0443\u043b\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Dolna Kula"
+    ],
+    "name:ron_x_preferred":[
+        "Dolna Kula"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u041a\u0443\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u044f \u041a\u0443\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Ziir Burgas",
         "Dolna Kula"
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1260016429,
-    "wof:lastmodified":1537587682,
+    "wof:lastmodified":1564177343,
     "wof:name":"Dolna Kula",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

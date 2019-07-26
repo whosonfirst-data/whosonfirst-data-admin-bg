@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u041e\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dolno Osenovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648 \u0627\u0648\u0633\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Do\u0142no Osenowo"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Osenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dolno Osenovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Osenowo",
         "Dolno Ossenowo",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1209253363,
-    "wof:lastmodified":1537587676,
+    "wof:lastmodified":1564177241,
     "wof:name":"Dolno Osenovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

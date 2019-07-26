@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u043f\u0435\u0440\u0435\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u067e\u0631\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0438\u043f\u0435\u0440\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Piperevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u043f\u0435\u0440\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u043f\u0435\u0440\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Piperowo",
         "Piperevo"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1260214927,
-    "wof:lastmodified":1537587429,
+    "wof:lastmodified":1564177361,
     "wof:name":"Piperevo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

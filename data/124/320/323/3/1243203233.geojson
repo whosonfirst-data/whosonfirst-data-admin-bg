@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0438\u0446\u043e\u0432\u043e"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10dc\u10d8\u10ea\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0430\u043d\u0438\u0446\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Panitsovo"
+    ],
+    "name:ron_x_preferred":[
+        "Pani\u021bovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043d\u0438\u0446\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043d\u0438\u0446\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Alchak-Dere",
         "Pl\u2019chakioy",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1243203233,
-    "wof:lastmodified":1537587440,
+    "wof:lastmodified":1564177601,
     "wof:name":"Panitsovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

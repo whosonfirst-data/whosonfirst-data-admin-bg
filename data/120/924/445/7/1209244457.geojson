@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0438\u043c\u0435\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Belimel"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u043c\u0435\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Belimel"
+    ],
+    "name:pol_x_preferred":[
+        "Belime\u0142"
+    ],
+    "name:ron_x_preferred":[
+        "Belimel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u043c\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Belimel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u043c\u0435\u043b"
+    ],
     "name:und_x_variant":[
         "Byeli-Mel",
         "Bielimel",
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1209244457,
-    "wof:lastmodified":1537587760,
+    "wof:lastmodified":1564177234,
     "wof:name":"Belimel",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

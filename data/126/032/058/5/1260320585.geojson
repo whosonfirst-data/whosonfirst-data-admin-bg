@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043a\u0438\u0447\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9\u06cc\u0686\u0647"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10d9\u10d8\u10e9\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043a\u0438\u0447\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Kokice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043a\u0438\u0447\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043a\u0438\u0447\u0435"
+    ],
     "name:und_x_variant":[
         "Golyamo Chepeldzha",
         "Kokitsche",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1260320585,
-    "wof:lastmodified":1537587556,
+    "wof:lastmodified":1564177367,
     "wof:name":"Kokiche",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

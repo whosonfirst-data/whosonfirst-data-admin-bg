@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u043d\u0446\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Buncevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0646\u062a\u0633\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u043d\u0446\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u043d\u0446\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Bun\u021bevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043d\u0446\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Buntsevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043d\u0446\u0435\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1344000767,
-    "wof:lastmodified":1537587724,
+    "wof:lastmodified":1564176938,
     "wof:name":"Buntsevo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

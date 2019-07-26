@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0438\u0447\u0435\u043d\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0648\u06cc\u0686\u0646\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0438\u0447\u0435\u043d\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0438\u0447\u0435\u043d\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Borovicene"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0438\u0447\u0435\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0438\u0447\u0435\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Borawitscheni",
         "Borovichene"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343503951,
-    "wof:lastmodified":1537587742,
+    "wof:lastmodified":1564176962,
     "wof:name":"Borovichene",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

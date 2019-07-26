@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0448\u043d\u0438\u043a\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0634\u0646\u06cc\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u0448\u043d\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Lesznikowo"
+    ],
+    "name:ron_x_preferred":[
+        "Le\u0219nikovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0448\u043d\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0448\u043d\u0438\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Pand\u016dkli",
         "Leschnikowo",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1327368777,
-    "wof:lastmodified":1537587521,
+    "wof:lastmodified":1564176832,
     "wof:name":"Leshnikovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

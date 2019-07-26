@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0426\u0435\u0440\u0435\u0446\u0435\u043b"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0631\u062a\u0633\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0426\u0435\u0440\u0435\u0446\u0435\u043b"
+    ],
+    "name:ron_x_preferred":[
+        "\u021aere\u021bel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0435\u0440\u0435\u0446\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0440\u0435\u0446\u0435\u043b"
+    ],
     "name:und_x_variant":[
         "Zerezel",
         "Tseretsel"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1327263171,
-    "wof:lastmodified":1537587298,
+    "wof:lastmodified":1564176902,
     "wof:name":"Tseretsel",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

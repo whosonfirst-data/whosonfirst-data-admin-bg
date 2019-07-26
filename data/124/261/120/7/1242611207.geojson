@@ -32,6 +32,27 @@
     "name:bul_x_variant":[
         "Ruhovtsi"
     ],
+    "name:ceb_x_preferred":[
+        "Rukhovtsi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062d\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0443\u0445\u043e\u0432\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Ruhov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0445\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rukhovtsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0445\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Rukhovts\u016d",
         "Ruchowzi",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1242611207,
-    "wof:lastmodified":1537587380,
+    "wof:lastmodified":1564177552,
     "wof:name":"Ruhovtsi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

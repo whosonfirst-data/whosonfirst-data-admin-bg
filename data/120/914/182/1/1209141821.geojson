@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043b\u0435\u043f\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Prilepci"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0644\u067e\u062a\u0633\u06cc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d8\u10da\u10d4\u10de\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Prilep\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Prileptsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u043b\u0435\u043f\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Salikhler",
         "Prilepzi",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1209141821,
-    "wof:lastmodified":1537587408,
+    "wof:lastmodified":1564177253,
     "wof:name":"Prileptsi",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

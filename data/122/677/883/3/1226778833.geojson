@@ -28,8 +28,98 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0644\u0633\u0643\u064a \u0633\u064a\u0646\u0648\u0641\u064a\u0643"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u0441\u043a\u0438 \u0421\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Polski Senovec"
+    ],
+    "name:ces_x_preferred":[
+        "Polski Senovec"
+    ],
+    "name:deu_x_preferred":[
+        "Polski Senovez"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03bb\u03c3\u03ba\u03b9 \u03a3\u03ad\u03bd\u03bf\u03b2\u03b5\u03c4\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Polski Senovec"
+    ],
+    "name:est_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0633\u06a9\u06cc \u0633\u0646\u0648\u0648\u062a\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:fra_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094b\u0932\u094d\u0938\u094d\u0915\u0940 \u0938\u0947\u0928\u094b\u0935\u0947\u0924\u094d\u0938"
+    ],
+    "name:hrv_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:hun_x_preferred":[
+        "Polszki Szenovec"
+    ],
+    "name:ind_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:ita_x_preferred":[
+        "Polski Senovec"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30eb\u30b9\u30ad\u30fb\u30bb\u30ce\u30d6\u30c4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10da\u10e1\u10d9\u10d8-\u10e1\u10d4\u10dc\u10dd\u10d5\u10d4\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043b\u0441\u043a\u0438-\u0421\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3f4\uc2a4\ud0a4 \uc138\ub178\ubca0\uce20"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u043e\u043b\u0441\u043a\u0438 \u0421\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:nld_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:pol_x_preferred":[
+        "Po\u0142ski Senowec"
+    ],
+    "name:por_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:ron_x_preferred":[
+        "Polski Senove\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0441\u043a\u0438-\u0421\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0459\u0441\u043a\u0438 \u0421\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:tur_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0421\u0435\u043d\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:und_x_variant":[
         "Polski-Syenovets",
@@ -37,6 +127,15 @@
         "Polski-Senowez",
         "Polski Senovetz",
         "Polski Senovets"
+    ],
+    "name:vie_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:war_x_preferred":[
+        "Polski Senovets"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u723e\u65af\u57fa\u585e\u8afe\u97cb\u8328"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +158,7 @@
         }
     ],
     "wof:id":1226778833,
-    "wof:lastmodified":1537587419,
+    "wof:lastmodified":1564177745,
     "wof:name":"Polski Senovets",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

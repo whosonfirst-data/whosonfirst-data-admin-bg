@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043b\u0438\u0449\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0644\u06cc\u0634\u062a\u0647"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10da\u10d8\u10e8\u10e2\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Soli\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043b\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Tuzluk",
         "Selischte",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1343292433,
-    "wof:lastmodified":1537587346,
+    "wof:lastmodified":1564176981,
     "wof:name":"Solishte",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

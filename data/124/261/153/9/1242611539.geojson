@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0422\u0443\u043c\u0431\u0430\u043b\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0645\u0628\u0627\u0644\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0443\u043c\u0431\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Tumba\u0142owo"
+    ],
+    "name:ron_x_preferred":[
+        "Tumbalovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043c\u0431\u0430\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u043c\u0431\u0430\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tumbolovo",
         "Tumbolowo",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1242611539,
-    "wof:lastmodified":1537587294,
+    "wof:lastmodified":1564177553,
     "wof:name":"Tumbalovo",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

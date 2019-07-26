@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0423\u0439\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648 \u0627\u0648\u06cc\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Dolno Ou\u00efno"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0423\u0439\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Uino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0423\u0439\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u0423\u0439\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Ujno",
         "Dolno Uyna",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1293725391,
-    "wof:lastmodified":1537587674,
+    "wof:lastmodified":1564177099,
     "wof:name":"Dolno Uyno",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

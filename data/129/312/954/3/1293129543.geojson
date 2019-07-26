@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043c\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Momino"
+    ],
+    "name:ron_x_preferred":[
+        "Momino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043c\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Momino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043c\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "K\u016dz Makhle",
         "Momino"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1293129543,
-    "wof:lastmodified":1537587476,
+    "wof:lastmodified":1564177038,
     "wof:name":"Momino",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

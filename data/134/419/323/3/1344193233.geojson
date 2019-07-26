@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0415\u043b\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Elovitsa"
+    ],
+    "name:pol_x_preferred":[
+        "E\u0142owica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u043e\u0432\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Elowiza",
         "Elovitsa"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1344193233,
-    "wof:lastmodified":1537587649,
+    "wof:lastmodified":1564176973,
     "wof:name":"Elovitsa",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

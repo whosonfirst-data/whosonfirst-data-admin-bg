@@ -29,6 +29,33 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0441\u043f\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Prespa"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u043f\u0430"
+    ],
+    "name:nor_x_preferred":[
+        "Prespa"
+    ],
+    "name:pol_x_preferred":[
+        "Prespa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u043f\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Prespa"
+    ],
+    "name:sqi_x_preferred":[
+        "Prespa"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u043f\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Prespa"
+    ],
     "name:und_x_variant":[
         "Karla Bay",
         "Carlabeichioi",
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1259830789,
-    "wof:lastmodified":1537587409,
+    "wof:lastmodified":1564177631,
     "wof:name":"Prespa",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

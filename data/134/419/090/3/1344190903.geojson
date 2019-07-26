@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u043a\u0430\u0440\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Chukarka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u06a9\u0627\u0631\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0443\u043a\u0430\u0440\u043a\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Czukarka"
+    ],
+    "name:ron_x_preferred":[
+        "Ciukarka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043a\u0430\u0440\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tjukarka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043a\u0430\u0440\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Tas Tepe",
         "Tschukarka",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1344190903,
-    "wof:lastmodified":1537587702,
+    "wof:lastmodified":1564176972,
     "wof:name":"Chukarka",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

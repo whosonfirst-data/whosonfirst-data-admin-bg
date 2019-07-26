@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u0411\u0435\u043b\u0430 \u0420\u0435\u0447\u043a\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0414\u043e\u043b\u043d\u0430 \u0411\u0435\u043b\u0430 \u0440\u0435\u0447\u043a\u0430"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0627 \u0628\u0644\u0627 \u0631\u0686\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u0411\u0435\u043b\u0430-\u0420\u0435\u0447\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Dolna Bela Recika"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u0411\u0435\u043b\u0430-\u0420\u0435\u0447\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u044f \u0411\u0435\u043b\u0430 \u0420\u0435\u0447\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Dolna Bela Retschka",
         "Dolna Bela Rechka"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276481739,
-    "wof:lastmodified":1537587683,
+    "wof:lastmodified":1564177169,
     "wof:name":"Dolna Bela Rechka",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

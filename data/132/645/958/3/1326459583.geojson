@@ -27,13 +27,208 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0646\u0648\u0641\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0646\u0648\u06a4\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Lenovo"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0646\u0648\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Lenovo"
+    ],
+    "name:bel_x_preferred":[
+        "Lenovo"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u09a8\u09cb\u09ad\u09cb"
+    ],
+    "name:bih_x_preferred":[
+        "\u0932\u0947\u0928\u094b\u0935\u094b"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:bul_x_variant":[
+        "Lenovo"
+    ],
+    "name:cat_x_preferred":[
+        "Lenovo"
+    ],
+    "name:ces_x_preferred":[
+        "Lenovo"
+    ],
+    "name:dan_x_preferred":[
+        "Lenovo Group"
+    ],
+    "name:deu_x_preferred":[
+        "Lenovo"
+    ],
+    "name:ell_x_preferred":[
+        "Lenovo"
+    ],
+    "name:est_x_preferred":[
+        "Lenovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u0648\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Lenovo"
+    ],
+    "name:fra_x_preferred":[
+        "Lenovo"
+    ],
+    "name:glg_x_preferred":[
+        "Lenovo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e0\u05d5\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0947\u0928\u094b\u0935\u094b"
+    ],
+    "name:hrv_x_preferred":[
+        "Lenovo"
+    ],
+    "name:hun_x_preferred":[
+        "Lenovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0576\u0578\u057e\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Lenovo"
+    ],
+    "name:isl_x_preferred":[
+        "Lenovo"
+    ],
+    "name:ita_x_preferred":[
+        "Lenovo"
+    ],
+    "name:jav_x_preferred":[
+        "Lenovo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30ce\u30dc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10dc\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "Lenovo"
+    ],
+    "name:kir_x_preferred":[
+        "Lenovo"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\ub178\ubc84"
+    ],
+    "name:kur_x_preferred":[
+        "Lenovo"
+    ],
+    "name:lav_x_preferred":[
+        "Lenovo"
+    ],
+    "name:lit_x_preferred":[
+        "Lenovo"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d46\u0d28\u0d4b\u0d35\u0d4b"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0947\u0928\u094b\u0935\u094d\u0939\u094b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Lenovo"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u0947\u0928\u094b\u092d\u094b"
+    ],
+    "name:nld_x_preferred":[
+        "Lenovo"
+    ],
+    "name:nor_x_preferred":[
+        "Lenovo"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a32\u0a40\u0a28\u0a4b\u0a35\u0a4b"
+    ],
+    "name:pol_x_preferred":[
+        "Lenovo"
+    ],
+    "name:por_x_preferred":[
+        "Lenovo"
+    ],
+    "name:ron_x_preferred":[
+        "Lenovo"
+    ],
+    "name:rus_x_preferred":[
+        "Lenovo"
+    ],
+    "name:sco_x_preferred":[
+        "Lenovo"
+    ],
+    "name:slk_x_preferred":[
+        "Lenovo"
+    ],
+    "name:spa_x_preferred":[
+        "Lenovo"
+    ],
+    "name:sqi_x_preferred":[
+        "Lenovo"
+    ],
+    "name:srp_x_preferred":[
+        "Lenovo"
+    ],
+    "name:swa_x_preferred":[
+        "Lenovo"
+    ],
+    "name:swe_x_preferred":[
+        "Lenovo"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc6\u0ba9\u0bcb\u0bb5\u0bbe"
+    ],
+    "name:tgl_x_preferred":[
+        "Lenovo"
+    ],
+    "name:tur_x_preferred":[
+        "Lenovo"
+    ],
+    "name:ukr_x_preferred":[
+        "Lenovo"
     ],
     "name:und_x_variant":[
         "Lenowo",
         "Ketenlik",
         "Lenovo"
+    ],
+    "name:uzb_x_preferred":[
+        "Lenovo"
+    ],
+    "name:vie_x_preferred":[
+        "Lenovo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8054\u60f3\u8ba1\u7b97\u673a\u516c\u53f8"
+    ],
+    "name:xmf_x_preferred":[
+        "Lenovo"
+    ],
+    "name:yid_x_preferred":[
+        "\u05dc\u05e2\u05e0\u05d0\u05d5\u05d5\u05d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u8054\u60f3\u96c6\u56e2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +251,7 @@
         }
     ],
     "wof:id":1326459583,
-    "wof:lastmodified":1537587521,
+    "wof:lastmodified":1564176848,
     "wof:name":"Lenovo",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

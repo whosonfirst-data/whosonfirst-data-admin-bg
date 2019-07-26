@@ -28,6 +28,27 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u0431\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Chubra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0628\u0631\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0443\u0431\u0440\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Ciubra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0431\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tjubra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0431\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1277017859,
-    "wof:lastmodified":1537587702,
+    "wof:lastmodified":1564177107,
     "wof:name":"Chubra",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

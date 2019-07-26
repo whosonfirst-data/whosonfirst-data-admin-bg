@@ -31,6 +31,15 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u044f\u043d\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Polyanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "B\u016dlgarsko Ovadzhik",
         "Polyankovo",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1209243167,
-    "wof:lastmodified":1537587418,
+    "wof:lastmodified":1564177235,
     "wof:name":"Polyanovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

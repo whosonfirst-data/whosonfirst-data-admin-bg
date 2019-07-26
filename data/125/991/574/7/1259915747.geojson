@@ -34,6 +34,27 @@
         "Aligovska Mahala",
         "\u0410\u043b\u0438\u0433\u043e\u0432\u0441\u043a\u0430 \u041c\u0430\u0445\u0430\u043b\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u06af\u0648\u0633\u06a9\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d8\u10d2\u10dd\u10d5\u10e1\u10d9\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u0438\u0433\u043e\u0432\u0441\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Aligovska"
+    ],
+    "name:ron_x_preferred":[
+        "Aligovska"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0438\u0433\u043e\u0432\u0441\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0438\u0433\u043e\u0432\u0441\u044c\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "P\u016dgovska",
         "Aligovski",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1259915747,
-    "wof:lastmodified":1537587778,
+    "wof:lastmodified":1564177625,
     "wof:name":"Aligovska Mahala",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

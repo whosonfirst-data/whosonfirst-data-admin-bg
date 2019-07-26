@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u043e\u0432\u043d\u0438\u043a"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u062a\u0648\u0648\u0646\u06cc\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u0442\u043e\u0432\u043d\u0438\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Letownik"
+    ],
+    "name:ron_x_preferred":[
+        "Letovnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0442\u043e\u0432\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0442\u043e\u0432\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Yazla",
         "Letownik",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1243488561,
-    "wof:lastmodified":1537587519,
+    "wof:lastmodified":1564177560,
     "wof:name":"Letovnik",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

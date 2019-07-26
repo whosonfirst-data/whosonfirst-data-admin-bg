@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u041f\u0447\u0435\u043b\u0430\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Pchelari"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0686\u0644\u0627\u0631\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0447\u0435\u043b\u0430\u0440\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Pcelari"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0447\u0435\u043b\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Ptjelari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0447\u0435\u043b\u0430\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Kovandzhilar",
         "Pchelare",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1327269893,
-    "wof:lastmodified":1537587437,
+    "wof:lastmodified":1564176902,
     "wof:name":"Pchelari",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

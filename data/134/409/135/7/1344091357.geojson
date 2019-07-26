@@ -32,6 +32,15 @@
     "name:bul_x_variant":[
         "\u0413\u043e\u0437"
     ],
+    "name:deu_x_preferred":[
+        "Goz"
+    ],
+    "name:fra_x_preferred":[
+        "Goz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0437"
+    ],
     "name:und_x_variant":[
         "Gos",
         "Goz"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1344091357,
-    "wof:lastmodified":1537587609,
+    "wof:lastmodified":1564176931,
     "wof:name":"Goz",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

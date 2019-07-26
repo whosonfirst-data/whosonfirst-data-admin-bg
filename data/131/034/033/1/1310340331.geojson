@@ -27,7 +27,22 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Malo Selo"
+    ],
     "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u043e \u0421\u0435\u043b\u043e"
+    ],
+    "name:fra_x_preferred":[
+        "Malo Selo"
+    ],
+    "name:hrv_x_preferred":[
+        "Malo Selo"
+    ],
+    "name:hun_x_preferred":[
+        "Malo Selo"
+    ],
+    "name:srp_x_preferred":[
         "\u041c\u0430\u043b\u043e \u0421\u0435\u043b\u043e"
     ],
     "name:und_x_variant":[
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1310340331,
-    "wof:lastmodified":1537587496,
+    "wof:lastmodified":1564177419,
     "wof:name":"Malo Selo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043d\u043e\u0432\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06cc\u0646\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Balinowci"
+    ],
+    "name:ron_x_preferred":[
+        "Balinov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043d\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Shipchenite",
         "Balinovtsi"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1259514809,
-    "wof:lastmodified":1537587770,
+    "wof:lastmodified":1564177660,
     "wof:name":"Balinovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

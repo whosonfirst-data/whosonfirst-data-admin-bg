@@ -30,13 +30,32 @@
         "\u0421\u0438\u043d\u044c\u043e \u041a\u0430\u043c\u0435\u043d\u0435"
     ],
     "name:bul_x_variant":[
-        "Sinyo Kamene"
+        "Sinyo Kamene",
+        "\u0421\u0438\u043d\u044c\u043e \u043a\u0430\u043c\u0435\u043d\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u06cc\u0648 \u06a9\u0627\u0645\u0646\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0438\u043d\u0451-\u041a\u0430\u043c\u0435\u043d\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Sino Kamene"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0451-\u041a\u0430\u043c\u0435\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043d\u044c\u043e-\u041a\u0430\u043c\u0435\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Iumrukkioy",
         "Yumruk Kaya",
         "Sinio-Kamene",
         "Sin\u2019o Kamene"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u7ea6\u5361\u6885\u5185"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +78,7 @@
         }
     ],
     "wof:id":1343698207,
-    "wof:lastmodified":1537587360,
+    "wof:lastmodified":1564176963,
     "wof:name":"Sinyo Kamene",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

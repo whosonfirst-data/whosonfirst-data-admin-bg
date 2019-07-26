@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0421\u043f\u0430\u0441\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Spasovo"
+    ],
+    "name:deu_x_preferred":[
+        "Spassowo"
+    ],
+    "name:fra_x_preferred":[
+        "Spasovo"
+    ],
+    "name:ron_x_preferred":[
+        "Spasovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043f\u0430\u0441\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Spasovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0430\u0441\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Mursalkovo",
         "Spassowo",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1226172953,
-    "wof:lastmodified":1537587344,
+    "wof:lastmodified":1564177674,
     "wof:name":"Spasovo",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

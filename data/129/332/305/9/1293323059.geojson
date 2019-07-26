@@ -31,6 +31,27 @@
     "name:bul_x_variant":[
         "\u0413\u044e\u0435\u0448\u0435\u0432\u043e"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e3\u10d4\u10e8\u10d4\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u044e\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0403\u0443\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Gyueshevo"
+    ],
+    "name:ron_x_preferred":[
+        "Ghiue\u0219evo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044e\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u044e\u0454\u0448\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Gjue\u0161evo",
         "G\u00fc Schewo",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1293323059,
-    "wof:lastmodified":1537587598,
+    "wof:lastmodified":1564177075,
     "wof:name":"Gyueshevo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

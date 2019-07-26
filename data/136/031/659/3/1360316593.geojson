@@ -29,6 +29,30 @@
     "name:bul_x_preferred":[
         "\u041a\u044a\u043a\u0440\u0438\u043d\u0430"
     ],
+    "name:deu_x_preferred":[
+        "Kakrina"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10d9\u10e0\u10d8\u10dc\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u044b\u043a\u0440\u0438\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Kakrina"
+    ],
+    "name:pol_x_preferred":[
+        "Kykrina"
+    ],
+    "name:ron_x_preferred":[
+        "K\u0103krina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u043a\u0440\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u043a\u0440\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "K\u016dkrina"
     ],
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1360316593,
-    "wof:lastmodified":1537587529,
+    "wof:lastmodified":1564177431,
     "wof:name":"Kakrina",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

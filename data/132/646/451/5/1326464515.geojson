@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0633\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0438\u0441\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Lisowo"
+    ],
+    "name:ron_x_preferred":[
+        "Lisovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0438\u0441\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kodzha Apli",
         "Lissowo",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1326464515,
-    "wof:lastmodified":1537587516,
+    "wof:lastmodified":1564176887,
     "wof:name":"Lisovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

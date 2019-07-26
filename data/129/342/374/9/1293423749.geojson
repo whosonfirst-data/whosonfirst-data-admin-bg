@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043a\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u041c\u0430\u043b\u043a\u0430 \u043f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Malka poljana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u06a9\u0627 \u067e\u0648\u0644\u06cc\u0627\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u0430-\u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u0142ka polana"
+    ],
+    "name:ron_x_preferred":[
+        "Malka Poleana"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u0430-\u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Malka polyana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Kyuchuk Alan",
         "Malka Polyanka",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1293423749,
-    "wof:lastmodified":1537587501,
+    "wof:lastmodified":1564177088,
     "wof:name":"Malka Polyana",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

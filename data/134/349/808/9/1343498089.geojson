@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u043b\u0432\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Delvino"
+    ],
+    "name:fra_x_preferred":[
+        "Delvino"
+    ],
+    "name:ron_x_preferred":[
+        "Delvino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043b\u0432\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Delvino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043b\u0432\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Delveler",
         "Dedwino",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1343498089,
-    "wof:lastmodified":1537587695,
+    "wof:lastmodified":1564176950,
     "wof:name":"Delvino",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

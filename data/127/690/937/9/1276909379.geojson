@@ -31,6 +31,9 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0438\u043d\u0430"
     ],
+    "name:ces_x_preferred":[
+        "Borovina"
+    ],
     "name:und_x_variant":[
         "Chamladzha",
         "Borowina",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276909379,
-    "wof:lastmodified":1537587742,
+    "wof:lastmodified":1564177173,
     "wof:name":"Borovina",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

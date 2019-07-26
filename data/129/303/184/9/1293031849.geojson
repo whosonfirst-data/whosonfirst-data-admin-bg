@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u0430\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Golak"
+    ],
+    "name:fra_x_preferred":[
+        "Golak"
+    ],
+    "name:swe_x_preferred":[
+        "Golak"
+    ],
     "name:und_x_variant":[
         "Cholak",
         "\u010colak",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1293031849,
-    "wof:lastmodified":1537587632,
+    "wof:lastmodified":1564177068,
     "wof:name":"Golak",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

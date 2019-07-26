@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0432\u0440\u0438\u043b \u0413\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Gavril Genovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u0432\u0440\u0438\u043b-\u0413\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Gavril Genovo"
+    ],
+    "name:pol_x_preferred":[
+        "Gawri\u0142 Genowo"
+    ],
+    "name:ron_x_preferred":[
+        "Gavril Ghenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0432\u0440\u0438\u043b-\u0413\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Gavril Genovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0432\u0440\u0438\u043b-\u0413\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Sotutschino",
         "Sotuchino",
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1310637355,
-    "wof:lastmodified":1537587640,
+    "wof:lastmodified":1564177397,
     "wof:name":"Gavril Genovo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

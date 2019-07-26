@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0421\u043a\u0440\u0435\u0431\u0430\u0442\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Skrebatno"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06a9\u0631\u0628\u0627\u062a\u0646\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043a\u0440\u0435\u0431\u0430\u0442\u043d\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043a\u0440\u0435\u0431\u0430\u0442\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Skrebatno"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0440\u0435\u0431\u0430\u0442\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Skrebatno"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0440\u0435\u0431\u0430\u0442\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1276282343,
-    "wof:lastmodified":1537587357,
+    "wof:lastmodified":1564177114,
     "wof:name":"Skrebatno",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

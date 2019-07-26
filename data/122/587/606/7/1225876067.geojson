@@ -31,6 +31,21 @@
     "name:bul_x_variant":[
         "Barzia"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u044b\u0440\u0437\u0438\u044f"
+    ],
+    "name:msa_x_preferred":[
+        "Barzia"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103rzia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044b\u0440\u0437\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0440\u0437\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Sap Dere",
         "Barsija",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1225876067,
-    "wof:lastmodified":1537587722,
+    "wof:lastmodified":1564177717,
     "wof:name":"Barzia",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

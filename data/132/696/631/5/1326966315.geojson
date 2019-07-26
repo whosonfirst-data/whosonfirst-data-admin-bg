@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0421\u0431\u043e\u0440\u0438\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0628\u0648\u0631\u06cc\u0646\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0431\u043e\u0440\u0438\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Sborino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0431\u043e\u0440\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0431\u043e\u0440\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Dzhumaya K\u2019oy",
         "Sborino"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1326966315,
-    "wof:lastmodified":1537587372,
+    "wof:lastmodified":1564176896,
     "wof:name":"Sborino",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

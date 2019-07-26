@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u041a\u043e\u0440\u0438\u0442\u0435\u043d"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u06cc \u06a9\u0648\u0631\u06cc\u062a\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438-\u041a\u043e\u0440\u0438\u0442\u0435\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Dolni Koriten"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438-\u041a\u043e\u0440\u0438\u0442\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0456\u0439 \u041a\u043e\u0440\u0438\u0442\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Koriten Dolni",
         "Dolni Koriten"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1343894529,
-    "wof:lastmodified":1537587680,
+    "wof:lastmodified":1564176988,
     "wof:name":"Dolni Koriten",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

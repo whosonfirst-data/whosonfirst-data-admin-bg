@@ -31,6 +31,27 @@
     "name:bul_x_variant":[
         "\u0411\u0443\u043a\u0430\u0446\u0438\u0442\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u062a\u0633\u06cc\u062a\u0647"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10d9\u10d0\u10ea\u10d8\u10e2\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u043a\u0430\u0446\u0438\u0442\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Bukatsite"
+    ],
+    "name:ron_x_preferred":[
+        "Buka\u021bite"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a\u0430\u0446\u0438\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u0430\u0446\u0456\u0442\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1326464749,
-    "wof:lastmodified":1537587802,
+    "wof:lastmodified":1564176887,
     "wof:name":"Bukatsite",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

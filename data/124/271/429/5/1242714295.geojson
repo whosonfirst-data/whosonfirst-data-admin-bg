@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0440\u043e\u0432\u0435\u0446\u0438\u0442\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u0432\u0435\u0446\u0456\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Muravets\u016d",
         "Morovetsite"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1242714295,
-    "wof:lastmodified":1537587475,
+    "wof:lastmodified":1564177584,
     "wof:name":"Morovetsite",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

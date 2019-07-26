@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0431\u0440\u0430\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Golobrad"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0644\u0648\u0628\u0631\u0627\u062f"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10da\u10dd\u10d1\u10e0\u10d0\u10d3\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0431\u0440\u0430\u0434"
+    ],
+    "name:ron_x_preferred":[
+        "Golobrad"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0431\u0440\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Golobrad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0431\u0440\u0430\u0434"
+    ],
     "name:und_x_variant":[
         "Kyuse Khasanlar",
         "Golobrad"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1209846499,
-    "wof:lastmodified":1537587629,
+    "wof:lastmodified":1564177223,
     "wof:name":"Golobrad",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

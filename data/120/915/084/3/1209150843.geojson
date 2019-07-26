@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u043b\u0435\u0437"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0648\u0644\u0632"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u0435\u0437"
+    ],
+    "name:ron_x_preferred":[
+        "Prolez"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u0435\u0437"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u043b\u0435\u0437"
+    ],
     "name:und_x_variant":[
         "Ghiorman",
         "Polyana",
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1209150843,
-    "wof:lastmodified":1537587405,
+    "wof:lastmodified":1564177226,
     "wof:name":"Prolez",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

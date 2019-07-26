@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u044f\u043c \u0418\u0437\u0432\u043e\u0440"
     ],
+    "name:bul_x_variant":[
+        "\u0413\u043e\u043b\u044f\u043c \u0438\u0437\u0432\u043e\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "Goleam Izvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c-\u0406\u0437\u0432\u043e\u0440"
+    ],
     "name:und_x_variant":[
         "Golyemi Izvor",
         "Golemi Iswor",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1260013481,
-    "wof:lastmodified":1537587627,
+    "wof:lastmodified":1564177345,
     "wof:name":"Golyam Izvor",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0443\u043d"
     ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u0443\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Gorun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0443\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0443\u043d"
+    ],
     "name:und_x_variant":[
         "Sara Meshe",
         "Gorunj",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1259821957,
-    "wof:lastmodified":1537587611,
+    "wof:lastmodified":1564177643,
     "wof:name":"Gorun",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

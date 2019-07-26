@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u043c\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Lomec"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0645\u062a\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u043e\u043c\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141omec"
+    ],
+    "name:ron_x_preferred":[
+        "Lome\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043c\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Lomets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043c\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Lomez",
         "Lomets"
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1193052323,
-    "wof:lastmodified":1537587515,
+    "wof:lastmodified":1564177318,
     "wof:name":"Lomets",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

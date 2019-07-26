@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0439\u043e\u0432\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0451\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Pejowci"
+    ],
+    "name:ron_x_preferred":[
+        "Peiov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0451\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0439\u043e\u0432\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1193053883,
-    "wof:lastmodified":1537587429,
+    "wof:lastmodified":1564177322,
     "wof:name":"Peyovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

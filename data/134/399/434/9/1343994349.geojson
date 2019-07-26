@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Chelopek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0644\u0648\u067e\u06a9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d4\u10da\u10dd\u10de\u10d4\u10d9\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Chelopek"
+    ],
+    "name:ron_x_preferred":[
+        "Celopek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u043b\u043e\u043f\u0435\u043a"
+    ],
     "name:und_x_variant":[
         "Tschelopek",
         "Chelopek"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1343994349,
-    "wof:lastmodified":1537587714,
+    "wof:lastmodified":1564176927,
     "wof:name":"Chelopek",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "\u0421\u0430\u043c\u043e\u0442\u0438\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0645\u0648\u062a\u06cc\u0646\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0442\u0438\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Samotino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0442\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u043e\u0442\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Abdi K\u2019y",
         "Ssamotino",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1277113281,
-    "wof:lastmodified":1537587375,
+    "wof:lastmodified":1564177201,
     "wof:name":"Samotino",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

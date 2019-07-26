@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "Balgarska Polyana"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0430-\u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "By\u0142garska polana"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103lgarska Poleana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0430-\u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u043b\u0433\u0430\u0440\u0441\u044c\u043a\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Kavur Alan",
         "B\u0103lgarska Poljana",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1209849599,
-    "wof:lastmodified":1537587725,
+    "wof:lastmodified":1564177223,
     "wof:name":"Balgarska Polyana",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

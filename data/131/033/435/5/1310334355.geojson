@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043b\u0430\u0432"
     ],
+    "name:ces_x_preferred":[
+        "Borislav"
+    ],
+    "name:fra_x_preferred":[
+        "Borislav"
+    ],
+    "name:ita_x_preferred":[
+        "Borislav"
+    ],
+    "name:slv_x_preferred":[
+        "Borislav"
+    ],
     "name:und_x_variant":[
         "Sm\u016drdekhcha",
         "Borislaw",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1310334355,
-    "wof:lastmodified":1537587743,
+    "wof:lastmodified":1564177423,
     "wof:name":"Borislav",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

@@ -31,6 +31,18 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u0442\u043b\u0435\u0431\u0435\u043d"
     ],
+    "name:deu_x_preferred":[
+        "Totleben"
+    ],
+    "name:ron_x_preferred":[
+        "Totleben"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0442\u043b\u0435\u0431\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0442\u043b\u0435\u0431\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "B\u016dlgarski-Karagach",
         "B\u0103lgarski Karagach",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1193052615,
-    "wof:lastmodified":1537587307,
+    "wof:lastmodified":1564177318,
     "wof:name":"Totleben",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

@@ -32,6 +32,36 @@
     "name:bul_x_variant":[
         "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Rosoman"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03c3\u03bf\u03bc\u03b1\u03bd"
+    ],
+    "name:fra_x_preferred":[
+        "Rosoman"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10e1\u10dd\u10db\u10d0\u10dc\u10d8"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
+    ],
+    "name:sqi_x_preferred":[
+        "Rosomani"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Rosoman"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0441\u043e\u043c\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Rossoman",
         "Rosomai",
@@ -58,7 +88,7 @@
         }
     ],
     "wof:id":1276801961,
-    "wof:lastmodified":1537587382,
+    "wof:lastmodified":1564177125,
     "wof:name":"Rosoman",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

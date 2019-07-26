@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0413\u043b\u0430\u0432\u0430\u043d\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Glavanci"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0627\u0648\u0627\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0430\u043d\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "G\u0142awanci"
+    ],
+    "name:por_x_preferred":[
+        "Glavantsi"
+    ],
+    "name:ron_x_preferred":[
+        "Glavan\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0430\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Glavantsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0430\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Pirli Dzhami Makhle",
         "Borachevo",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1293341529,
-    "wof:lastmodified":1537587635,
+    "wof:lastmodified":1564177081,
     "wof:name":"Glavantsi",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

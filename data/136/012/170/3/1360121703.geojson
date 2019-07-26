@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0441\u044f\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0633\u06cc\u0627\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u044f\u043a\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Presjaka"
+    ],
+    "name:ron_x_preferred":[
+        "Preseaka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u044f\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u044f\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Prisyeka",
         "Prisjaka",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1360121703,
-    "wof:lastmodified":1537587408,
+    "wof:lastmodified":1564177426,
     "wof:name":"Presyaka",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

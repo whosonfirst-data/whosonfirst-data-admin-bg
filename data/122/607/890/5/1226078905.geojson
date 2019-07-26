@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b\u044f\u043d\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0644\u06cc\u0627\u0646\u0647"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10d9\u10dd\u10da\u10d8\u10d0\u10dc\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u044f\u043d\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Sokoleane"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u044f\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u044f\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Duvandzhilar",
         "Sokoljane",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1226078905,
-    "wof:lastmodified":1537587346,
+    "wof:lastmodified":1564177763,
     "wof:name":"Sokolyane",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

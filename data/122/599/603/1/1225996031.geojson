@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u0436\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0648\u0698\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u043e\u0436\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0442\u043e\u0436\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Sto\u017ca"
+    ],
+    "name:ron_x_preferred":[
+        "Stoja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u043e\u0436\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u043e\u0436\u0430"
+    ],
     "name:und_x_variant":[
         "Stosha",
         "Stozha"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1225996031,
-    "wof:lastmodified":1537587330,
+    "wof:lastmodified":1564177718,
     "wof:name":"Stozha",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

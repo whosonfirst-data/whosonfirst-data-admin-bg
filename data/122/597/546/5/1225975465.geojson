@@ -33,6 +33,21 @@
     "name:bul_x_variant":[
         "Parvitsa"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0648\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103rvi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0440\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Torfulu",
         "P\u0103rwiza",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1225975465,
-    "wof:lastmodified":1537587401,
+    "wof:lastmodified":1564177724,
     "wof:name":"Parvitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Preselenci"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0633\u0644\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Preselen\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Preselentsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0435\u0441\u0435\u043b\u0435\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Bash Khas\u016drl\u016dk",
         "Panta-Machala",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1327076707,
-    "wof:lastmodified":1537587410,
+    "wof:lastmodified":1564176835,
     "wof:name":"Preselentsi",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

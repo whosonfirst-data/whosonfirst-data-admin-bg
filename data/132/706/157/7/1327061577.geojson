@@ -33,6 +33,21 @@
     "name:bul_x_variant":[
         "Vazel"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0632\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u044b\u0437\u0435\u043b"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103zel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0437\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0437\u0435\u043b"
+    ],
     "name:und_x_variant":[
         "Dzhingaz Makhle",
         "W\u0103sel",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1327061577,
-    "wof:lastmodified":1537587257,
+    "wof:lastmodified":1564176814,
     "wof:name":"Vazel",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

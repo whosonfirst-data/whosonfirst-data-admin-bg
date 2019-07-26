@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041e\u0432\u0447\u0435\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0648\u0686\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0432\u0447\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Ovcevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0432\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Ispalar",
         "Owtschewo",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1225979247,
-    "wof:lastmodified":1537587444,
+    "wof:lastmodified":1564177721,
     "wof:name":"Ovchevo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bukovo"
+    ],
+    "name:fra_x_preferred":[
+        "Boukovo"
+    ],
+    "name:hun_x_preferred":[
+        "Bukovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Bukowo"
+    ],
+    "name:sqi_x_preferred":[
+        "Bukova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Loch Bunar",
         "Pilashevo",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1243293425,
-    "wof:lastmodified":1537587429,
+    "wof:lastmodified":1564177613,
     "wof:name":"Bukovo",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

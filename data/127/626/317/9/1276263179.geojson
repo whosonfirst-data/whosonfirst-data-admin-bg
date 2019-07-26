@@ -33,6 +33,9 @@
     "name:bul_x_variant":[
         "Galabets"
     ],
+    "name:fra_x_preferred":[
+        "Galabets"
+    ],
     "name:und_x_variant":[
         "G\u0103l\u0103bez",
         "Gyuvenchler",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276263179,
-    "wof:lastmodified":1537587602,
+    "wof:lastmodified":1564177121,
     "wof:name":"Galabets",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

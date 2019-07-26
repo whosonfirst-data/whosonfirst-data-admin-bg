@@ -29,6 +29,30 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u0439\u043f\u0435\u0442\u043b\u044c\u043e\u0432\u043e"
     ],
+    "name:bul_x_variant":[
+        "\u0427\u0443\u0439\u043f\u0435\u0442\u043b\u043e\u0432\u043e"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u06cc\u067e\u062a\u0644\u0648\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10d8\u10de\u10d4\u10e2\u10da\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0443\u0439\u043f\u0435\u0442\u043b\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Chuypetlovo"
+    ],
+    "name:ron_x_preferred":[
+        "Ciuipetlovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0439\u043f\u0435\u0442\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0439\u043f\u0435\u0442\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tschupetlowo",
         "Chuiletlevo",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1309943077,
-    "wof:lastmodified":1537587700,
+    "wof:lastmodified":1564177492,
     "wof:name":"Chuypetlovo",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

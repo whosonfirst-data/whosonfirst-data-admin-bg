@@ -29,6 +29,9 @@
     "name:bul_x_preferred":[
         "\u0418\u0440\u0438\u043d\u0435\u0446\u0438"
     ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0440\u0438\u043d\u0435\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Irinets",
         "Irinetsi"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343695733,
-    "wof:lastmodified":1537587593,
+    "wof:lastmodified":1564176966,
     "wof:name":"Irinetsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0416\u0438\u0442\u0435\u043d"
     ],
+    "name:fra_x_preferred":[
+        "Jiten"
+    ],
+    "name:ron_x_preferred":[
+        "Jiten"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0442\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u0442\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Bogdayl\u016d Chamurlii",
         "Tschamurlii",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1343900683,
-    "wof:lastmodified":1537587238,
+    "wof:lastmodified":1564176928,
     "wof:name":"Zhiten",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

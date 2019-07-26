@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0410\u043a\u0430\u0446\u0438\u0435\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u06a9\u0627\u062a\u0633\u06cc\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043a\u0430\u0446\u0438\u0435\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Akatsievo"
+    ],
+    "name:ron_x_preferred":[
+        "Aka\u021bievo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0430\u0446\u0438\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u0430\u0446\u0456\u0454\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Rajanowzi",
         "Rayanovtsi",
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1209446011,
-    "wof:lastmodified":1537587781,
+    "wof:lastmodified":1564177297,
     "wof:name":"Akatsievo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0424\u043b\u043e\u0440\u0435\u043d\u0442\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Florentin"
+    ],
+    "name:deu_x_preferred":[
+        "Florentin"
+    ],
+    "name:fra_x_preferred":[
+        "Florentin"
+    ],
+    "name:hun_x_preferred":[
+        "Florentin"
+    ],
+    "name:swe_x_preferred":[
+        "Florentin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1293232029,
-    "wof:lastmodified":1537587644,
+    "wof:lastmodified":1564177032,
     "wof:name":"Florentin",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

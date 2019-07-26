@@ -26,8 +26,44 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0628\u0644\u062a\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0435\u0431\u0435\u043b\u0435\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Debelets"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06ce\u0628\u06ce\u0644\u06ce\u062a\u0633"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0644\u062a\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Debelets"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u043b\u0435\u0446"
+    ],
+    "name:por_x_preferred":[
+        "Debelec"
+    ],
+    "name:ron_x_preferred":[
+        "Debele\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u043b\u0435\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Debelets"
+    ],
+    "name:swe_x_preferred":[
+        "Debelets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0431\u0435\u043b\u0435\u0446\u044c"
     ],
     "name:und_x_variant":[
         "Kara-Akhmed-Makhalesi",
@@ -35,6 +71,15 @@
         "Kara Akhmed Makhle",
         "Kara-Akhmet Makhle",
         "Debelets"
+    ],
+    "name:vie_x_preferred":[
+        "Debelets"
+    ],
+    "name:war_x_preferred":[
+        "Debelets"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ee3\u8c9d\u840a\u8328"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +102,7 @@
         }
     ],
     "wof:id":1259618471,
-    "wof:lastmodified":1537587698,
+    "wof:lastmodified":1564177649,
     "wof:name":"Debelets",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

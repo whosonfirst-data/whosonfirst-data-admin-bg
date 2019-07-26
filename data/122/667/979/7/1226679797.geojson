@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0434\u0440\u0443\u043c\u0447\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Podrumche"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062f\u0631\u0648\u0645\u0686\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0434\u0440\u0443\u043c\u0447\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Podrumce"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u0440\u0443\u043c\u0447\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Podrumtje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0434\u0440\u0443\u043c\u0447\u0435"
+    ],
     "name:und_x_variant":[
         "Derman Viran",
         "Podrumche"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226679797,
-    "wof:lastmodified":1537587422,
+    "wof:lastmodified":1564177695,
     "wof:name":"Podrumche",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

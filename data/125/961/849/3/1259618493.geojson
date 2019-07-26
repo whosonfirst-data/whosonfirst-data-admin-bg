@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0433\u0430\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Gaganica"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u0433\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Gaganitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Gagani\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0433\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gaganitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0433\u0430\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Gaganiza",
         "Gaganica",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1259618493,
-    "wof:lastmodified":1537587641,
+    "wof:lastmodified":1564177649,
     "wof:name":"Gaganitsa",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

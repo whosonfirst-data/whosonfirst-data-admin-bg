@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0430 \u043c\u0435\u0441\u0442\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0427\u0435\u0440\u043d\u0430 \u041c\u0435\u0441\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Cherna Mesta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0646\u0627 \u0645\u0633\u062a\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0430-\u041c\u0435\u0441\u0442\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0430 \u041c\u0435\u0441\u0442\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Cerna Mesta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0430-\u041c\u0435\u0441\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tjerna Mesta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u0430 \u041c\u0435\u0441\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1293640593,
-    "wof:lastmodified":1537587711,
+    "wof:lastmodified":1564177017,
     "wof:name":"Cherna Mesta",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

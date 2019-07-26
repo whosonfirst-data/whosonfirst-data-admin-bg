@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0432\u043e\u044f"
     ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u0432\u043e\u044f"
+    ],
+    "name:ron_x_preferred":[
+        "Zavoia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0432\u043e\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0432\u043e\u044f"
+    ],
     "name:und_x_variant":[
         "Eni Makhle",
         "Sawoja",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1226378579,
-    "wof:lastmodified":1537587245,
+    "wof:lastmodified":1564177751,
     "wof:name":"Zavoya",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

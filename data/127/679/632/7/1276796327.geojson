@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0438\u0447\u0430\u0440"
     ],
+    "name:fra_x_preferred":[
+        "Granitchar"
+    ],
+    "name:hrv_x_preferred":[
+        "Grani\u010dar"
+    ],
+    "name:ron_x_preferred":[
+        "Granicear"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0438\u0447\u0430\u0440"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0438\u0447\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0438\u0447\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "Tikendzha",
         "Granitschar",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276796327,
-    "wof:lastmodified":1537587606,
+    "wof:lastmodified":1564177165,
     "wof:name":"Granichar",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

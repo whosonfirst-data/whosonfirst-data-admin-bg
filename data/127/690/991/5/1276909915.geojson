@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u043c"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0631\u0645"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0440\u0435\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Srem"
+    ],
+    "name:ron_x_preferred":[
+        "Srem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0440\u0435\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0440\u0435\u043c"
+    ],
     "name:und_x_variant":[
         "Zrem",
         "Srem"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1276909915,
-    "wof:lastmodified":1537587341,
+    "wof:lastmodified":1564177172,
     "wof:name":"Srem",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

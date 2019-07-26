@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0444\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Sarafowo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u0444\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Antim I",
         "Papure",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1277016425,
-    "wof:lastmodified":1537587373,
+    "wof:lastmodified":1564177105,
     "wof:name":"Sarafovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u043f\u0447\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Rupcha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u067e\u0686\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0443\u043f\u0447\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Rupcea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043f\u0447\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Ruptja"
+    ],
+    "name:tur_x_preferred":[
+        "Rup\u00e7a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u043f\u0447\u0430"
+    ],
     "name:und_x_variant":[
         "Malka Rupcha",
         "Ruptscha",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1243299665,
-    "wof:lastmodified":1537587379,
+    "wof:lastmodified":1564177610,
     "wof:name":"Rupcha",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

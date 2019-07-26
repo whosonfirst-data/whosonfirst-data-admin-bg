@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0631\u0627\u0698\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Strajni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Khyumet K\u2019oy",
         "Strashniza",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1310040903,
-    "wof:lastmodified":1537587328,
+    "wof:lastmodified":1564177413,
     "wof:name":"Strazhnitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

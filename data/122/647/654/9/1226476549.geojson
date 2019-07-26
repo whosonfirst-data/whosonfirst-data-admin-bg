@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0430 \u041a\u043e\u0437\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Gorna Koznica"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0646\u0627 \u06a9\u0648\u0632\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430-\u041a\u043e\u0437\u043d\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Gorna Kozni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430-\u041a\u043e\u0437\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gorna Koznitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u044f \u041a\u043e\u0437\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Gorna Kosniza",
         "Gorna-Koznica",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1226476549,
-    "wof:lastmodified":1537587621,
+    "wof:lastmodified":1564177733,
     "wof:name":"Gorna Koznitsa",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

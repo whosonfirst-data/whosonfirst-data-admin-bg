@@ -33,6 +33,30 @@
     "name:bul_x_variant":[
         "Bahovitsa"
     ],
+    "name:ceb_x_preferred":[
+        "Bakhovica"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0445\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Bahovitsa"
+    ],
+    "name:pol_x_preferred":[
+        "Bachowica"
+    ],
+    "name:ron_x_preferred":[
+        "Bahovi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bachovitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0445\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Bachowiza",
         "Bahovica",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1277106135,
-    "wof:lastmodified":1537587771,
+    "wof:lastmodified":1564177194,
     "wof:name":"Bahovitsa",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

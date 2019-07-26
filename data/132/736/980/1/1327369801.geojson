@@ -28,7 +28,34 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0631\u064a\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
+        "\u0411\u0443\u0440\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Burja"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06cc\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0440\u044f"
+    ],
+    "name:pol_x_preferred":[
+        "Burja"
+    ],
+    "name:ron_x_preferred":[
+        "Burea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "Burja"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u044f"
     ],
     "name:und_x_variant":[
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1327369801,
-    "wof:lastmodified":1537587722,
+    "wof:lastmodified":1564176834,
     "wof:name":"Burya",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

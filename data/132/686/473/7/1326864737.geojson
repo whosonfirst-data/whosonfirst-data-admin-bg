@@ -28,6 +28,15 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0443\u0448\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Chernushka"
+    ],
+    "name:swe_x_preferred":[
+        "Chernushka"
+    ],
+    "name:tgl_x_preferred":[
+        "Chernushka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1326864737,
-    "wof:lastmodified":1537587706,
+    "wof:lastmodified":1564176843,
     "wof:name":"Chernushka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

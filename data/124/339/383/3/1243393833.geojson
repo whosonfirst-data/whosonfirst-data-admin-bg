@@ -27,8 +27,77 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u0440\u0438"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u0430\u0440\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Kolari"
+    ],
+    "name:ces_x_preferred":[
+        "Kolari"
+    ],
+    "name:deu_x_preferred":[
+        "Kolari"
+    ],
+    "name:epo_x_preferred":[
+        "Kolari"
+    ],
+    "name:est_x_preferred":[
+        "Kolari vald"
+    ],
+    "name:eus_x_preferred":[
+        "Kolari"
+    ],
+    "name:fin_x_preferred":[
+        "Kolari"
+    ],
+    "name:fra_x_preferred":[
+        "Kolari"
+    ],
+    "name:glg_x_preferred":[
+        "Kolari"
+    ],
+    "name:hun_x_preferred":[
+        "Kolari"
+    ],
+    "name:ita_x_preferred":[
+        "Kolari"
+    ],
+    "name:lat_x_preferred":[
+        "Kolari"
+    ],
+    "name:nld_x_preferred":[
+        "Kolari"
+    ],
+    "name:nor_x_preferred":[
+        "Kolari"
+    ],
+    "name:pol_x_preferred":[
+        "Kolari"
+    ],
+    "name:ron_x_preferred":[
+        "Kolari"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0430\u0440\u0438"
+    ],
+    "name:sme_x_preferred":[
+        "Kolari"
+    ],
+    "name:spa_x_preferred":[
+        "Kolari"
+    ],
+    "name:sqi_x_preferred":[
+        "Kolari"
+    ],
+    "name:swe_x_preferred":[
+        "Kolari kommun"
+    ],
+    "name:tur_x_preferred":[
+        "Kolari"
     ],
     "name:und_x_variant":[
         "Arabadzhii",
@@ -36,6 +105,12 @@
         "Arabadzhi",
         "Makhala Kolari",
         "Kolari"
+    ],
+    "name:vie_x_preferred":[
+        "Kolari"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u62c9\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +133,7 @@
         }
     ],
     "wof:id":1243393833,
-    "wof:lastmodified":1537587556,
+    "wof:lastmodified":1564177531,
     "wof:name":"Kolari",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

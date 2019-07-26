@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0435\u043d\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u062a\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Kostentsi"
+    ],
+    "name:ron_x_preferred":[
+        "Kosten\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Kostenzi",
         "Kostentsi"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1225978933,
-    "wof:lastmodified":1537587545,
+    "wof:lastmodified":1564177721,
     "wof:name":"Kostentsi",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

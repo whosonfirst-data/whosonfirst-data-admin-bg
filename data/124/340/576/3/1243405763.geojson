@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u0447\u0443\u043b\u0438\u0433\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Chuchuligovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0686\u0648\u0644\u06cc\u06af\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0443\u0447\u0443\u043b\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0443\u0447\u0443\u043b\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Ciuciuligovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0447\u0443\u043b\u0438\u0433\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Tjutjuligovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0447\u0443\u043b\u0438\u0433\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tschutschuligowo",
         "Chuchuligovo"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1243405763,
-    "wof:lastmodified":1537587702,
+    "wof:lastmodified":1564177568,
     "wof:name":"Chuchuligovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

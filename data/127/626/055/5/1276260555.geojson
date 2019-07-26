@@ -27,11 +27,26 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0633\u0628\u0627\u0631\u0648\u0643\u0648\u0641\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0441\u043f\u0430\u0440\u0443\u0445\u043e\u0432\u043e"
     ],
     "name:bul_x_variant":[
         "Asparuhovo"
+    ],
+    "name:fra_x_preferred":[
+        "Asparoukhovo"
+    ],
+    "name:ron_x_preferred":[
+        "Asparuhovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u043f\u0430\u0440\u0443\u0445\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0441\u043f\u0430\u0440\u0443\u0445\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Tschenge",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1276260555,
-    "wof:lastmodified":1537587774,
+    "wof:lastmodified":1564177117,
     "wof:name":"Asparuhovo",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

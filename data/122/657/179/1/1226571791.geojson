@@ -32,10 +32,37 @@
     "name:bul_x_variant":[
         "Iskar"
     ],
+    "name:ceb_x_preferred":[
+        "Iskar"
+    ],
+    "name:deu_x_preferred":[
+        "Iskar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u06a9\u0627\u0631"
+    ],
+    "name:nld_x_preferred":[
+        "Iskur"
+    ],
+    "name:por_x_preferred":[
+        "Iskar"
+    ],
+    "name:ron_x_preferred":[
+        "Isk\u0103r"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u043a\u044b\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Iskar"
+    ],
     "name:und_x_variant":[
         "Ak Koyun",
         "Isk\u0103r",
         "Isk\u016dr"
+    ],
+    "name:vie_x_preferred":[
+        "Iskar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1226571791,
-    "wof:lastmodified":1537587592,
+    "wof:lastmodified":1564177710,
     "wof:name":"Iskar",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

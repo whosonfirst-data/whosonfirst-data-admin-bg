@@ -27,10 +27,40 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u0440\u044b\u0441\u0430\u0432\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0430"
     ],
     "name:bul_x_variant":[
+        "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Borisovo"
+    ],
+    "name:deu_x_preferred":[
+        "Borissowo"
+    ],
+    "name:fra_x_preferred":[
+        "Borisovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0580\u056b\u057d\u0578\u057e\u0578"
+    ],
+    "name:ron_x_preferred":[
+        "Borisovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Borisovo"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0441\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
@@ -62,7 +92,7 @@
         }
     ],
     "wof:id":1209244269,
-    "wof:lastmodified":1537587743,
+    "wof:lastmodified":1564177234,
     "wof:name":"Borisovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

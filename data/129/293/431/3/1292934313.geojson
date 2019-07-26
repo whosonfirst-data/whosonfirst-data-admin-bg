@@ -33,6 +33,12 @@
     "name:bul_x_variant":[
         "Uhlovitsa"
     ],
+    "name:nld_x_preferred":[
+        "Oechlovitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0445\u043b\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Uchlowiza",
         "Ukhlovitsa"
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1292934313,
-    "wof:lastmodified":1537587289,
+    "wof:lastmodified":1564177025,
     "wof:name":"Uhlovitsa",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

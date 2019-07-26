@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0440\u0430\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Sirakovo"
+    ],
+    "name:fra_x_preferred":[
+        "Sirakovo"
+    ],
+    "name:pol_x_preferred":[
+        "Sirakowo"
+    ],
+    "name:ron_x_preferred":[
+        "Sirakovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Sirakovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0440\u0430\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Yusuz K\u2019oy",
         "Sirakowo",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1310339711,
-    "wof:lastmodified":1537587360,
+    "wof:lastmodified":1564177421,
     "wof:name":"Sirakovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

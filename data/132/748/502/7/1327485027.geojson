@@ -29,6 +29,30 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u043a\u0438\u0442\u0438\u043d\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u0430"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06a9\u06cc\u062a\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Rakitna"
+    ],
+    "name:ron_x_preferred":[
+        "Rakitna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u0438\u0442\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1327485027,
-    "wof:lastmodified":1537587396,
+    "wof:lastmodified":1564176869,
     "wof:name":"Rakitna",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

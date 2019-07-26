@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u0435\u0448\u043a\u0438\u0442\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0634\u06a9\u06cc\u062a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d4\u10e0\u10d4\u10e8\u10d9\u10d8\u10e2\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0448\u043a\u0438\u0442\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Chereshkite"
+    ],
+    "name:ron_x_preferred":[
+        "Cere\u0219kite"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0448\u043a\u0438\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0448\u043a\u0438\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Machala Tschereschite",
         "Chereshkite"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1260110653,
-    "wof:lastmodified":1537587713,
+    "wof:lastmodified":1564177352,
     "wof:name":"Chereshkite",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

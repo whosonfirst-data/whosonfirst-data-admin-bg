@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u0438\u0444\u043e\u043d\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u06cc\u0641\u0648\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0440\u0438\u0444\u043e\u043d\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Trifonovo"
+    ],
+    "name:pol_x_preferred":[
+        "Trifonowo"
+    ],
+    "name:ron_x_preferred":[
+        "Trifonovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0438\u0444\u043e\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0438\u0444\u043e\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Prepelzhene",
         "Trifonova",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1276905437,
-    "wof:lastmodified":1537587305,
+    "wof:lastmodified":1564177173,
     "wof:name":"Trifonovo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

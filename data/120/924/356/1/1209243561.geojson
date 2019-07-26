@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0414\u0435\u0432\u0435\u0442\u0430\u043a\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u062a\u0627\u06a9\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u0432\u0435\u0442\u0430\u043a\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Dewetaki"
+    ],
+    "name:ron_x_preferred":[
+        "Devetaki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0432\u0435\u0442\u0430\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u0432\u0435\u0442\u0430\u043a\u0438"
+    ],
     "name:und_x_variant":[
         "Devetak",
         "Dewetaki",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209243561,
-    "wof:lastmodified":1537587693,
+    "wof:lastmodified":1564177232,
     "wof:name":"Devetaki",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

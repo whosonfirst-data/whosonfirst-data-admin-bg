@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0433\u0443\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Belgun"
+    ],
+    "name:swe_x_preferred":[
+        "Belgun"
+    ],
     "name:und_x_variant":[
         "Duranlar",
         "Belgun"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1193220653,
-    "wof:lastmodified":1537587761,
+    "wof:lastmodified":1564177312,
     "wof:name":"Belgun",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0433\u043e\u0442\u0438\u043d\u0446\u0438"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e0\u10d0\u10d2\u10dd\u10e2\u10d8\u10dc\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Dragotintsi"
+    ],
+    "name:pol_x_preferred":[
+        "Dragotinci"
+    ],
+    "name:ron_x_preferred":[
+        "Dragotin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0442\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Dragotinzi",
         "Dragotintsi"
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1209446229,
-    "wof:lastmodified":1537587669,
+    "wof:lastmodified":1564177296,
     "wof:name":"Dragotintsi",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

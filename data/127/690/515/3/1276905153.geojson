@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u043f\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "\u041a\u0440\u0430\u043f\u0435\u0446"
+    ],
+    "name:fra_x_preferred":[
+        "Krapets"
+    ],
+    "name:ron_x_preferred":[
+        "Krape\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u043f\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Krapets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u043f\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Krapez",
         "K\u016drpets",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1276905153,
-    "wof:lastmodified":1537587539,
+    "wof:lastmodified":1564177176,
     "wof:name":"Krapets",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

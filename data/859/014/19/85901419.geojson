@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11416775.372569,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.100128,42.02045,23.100128,42.02045",
     "geom:latitude":42.02045,
     "geom:longitude":23.100128,
@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u043c\u0430\u0434\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Gramada"
+    ],
     "name:eng_x_preferred":[
         "Gramada"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:srp_x_preferred":[
         "\u0413\u0440\u0430\u043c\u0430\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Gramada"
     ],
     "name:unk_x_variant":[
         "Gramada"
@@ -102,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531932501,
+    "wof:lastmodified":1564176995,
     "wof:name":"Gramada",
     "wof:parent_id":101748875,
     "wof:placetype":"neighbourhood",

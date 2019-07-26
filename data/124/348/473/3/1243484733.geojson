@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u0438\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u0644\u0632\u06cc\u0646\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u0438\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "\u017belezino"
+    ],
+    "name:ron_x_preferred":[
+        "Jelezino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u0438\u043d\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Demirler"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Demirler",
         "Zhelyezino",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1243484733,
-    "wof:lastmodified":1537587241,
+    "wof:lastmodified":1564177562,
     "wof:name":"Zhelezino",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

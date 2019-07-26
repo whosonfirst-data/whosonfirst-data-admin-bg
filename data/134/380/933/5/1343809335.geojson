@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u041b\u044e\u043b\u044f\u043a\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Lyoulyakovo"
+    ],
+    "name:ron_x_preferred":[
+        "Liuleakovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u043b\u044f\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u043b\u044f\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kara Baka",
         "Liliacova",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1343809335,
-    "wof:lastmodified":1537587506,
+    "wof:lastmodified":1564176993,
     "wof:name":"Lyulyakovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

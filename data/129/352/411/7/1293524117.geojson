@@ -31,6 +31,24 @@
     "name:bul_x_variant":[
         "Dangovo"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u06af\u0648\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d8\u10dc\u10d2\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u044b\u043d\u0433\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "D\u0103ngovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044b\u043d\u0433\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0438\u043d\u0433\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Ts\u016dngarlar",
         "Dengevo",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1293524117,
-    "wof:lastmodified":1537587658,
+    "wof:lastmodified":1564177014,
     "wof:name":"Dangovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

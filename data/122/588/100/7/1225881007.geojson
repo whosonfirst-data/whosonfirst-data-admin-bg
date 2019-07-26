@@ -28,6 +28,27 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u0435\u0448\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Cheresha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0634\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0448\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Cere\u0219a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0448\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tjeresja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u0435\u0448\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1225881007,
-    "wof:lastmodified":1537587713,
+    "wof:lastmodified":1564177712,
     "wof:name":"Cheresha",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

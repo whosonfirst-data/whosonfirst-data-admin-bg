@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0414\u0436\u0435\u043b\u0435\u043f\u0441\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dzhelepsko"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0698\u0644\u067e\u0633\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0436\u0435\u043b\u0435\u043f\u0441\u043a\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017celepsko"
+    ],
+    "name:ron_x_preferred":[
+        "Djelepsko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u043b\u0435\u043f\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dzjelepsko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u043b\u0435\u043f\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Dzhelepler",
         "Dshelepsko",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1226379517,
-    "wof:lastmodified":1537587653,
+    "wof:lastmodified":1564177753,
     "wof:name":"Dzhelepsko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

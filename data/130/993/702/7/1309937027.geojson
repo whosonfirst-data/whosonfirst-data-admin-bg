@@ -27,14 +27,35 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u064a\u0632\u0646\u064a\u062a\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043b\u0438\u0437\u043d\u0435\u0446"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056c\u056b\u0566\u0576\u0565\u0581"
+    ],
+    "name:nld_x_preferred":[
+        "Bliznets"
+    ],
+    "name:nno_x_preferred":[
+        "Bliznets"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0438\u0437\u043d\u0435\u0446"
+    ],
+    "name:slk_x_preferred":[
+        "Bliznec"
     ],
     "name:und_x_variant":[
         "Ikischya",
         "Blisnez",
         "Ikischa",
         "Bliznets"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5229\u8332\u6d85\u8328\u706b\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1309937027,
-    "wof:lastmodified":1537587749,
+    "wof:lastmodified":1564177490,
     "wof:name":"Bliznets",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

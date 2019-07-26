@@ -29,11 +29,26 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u041a\u043e\u0431\u0438\u043b\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648 \u06a9\u0648\u0628\u06cc\u0644\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u041a\u043e\u0431\u0438\u043b\u0435"
+    ],
     "name:ota_x_preferred":[
         "\u062f\u0648\u0644\u0646\u0647 \u0642\u0648\u0628\u06cc\u0644\u0647"
     ],
     "name:ota_x_variant":[
         "\u0642\u0648\u0628\u06cc\u0644\u0647 \u0632\u06cc\u0631"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Kobile"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u041a\u043e\u0431\u0438\u043b\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u041a\u043e\u0431\u0438\u043b\u0435"
     ],
     "name:und_x_variant":[
         "Kobile-Dol",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1225980421,
-    "wof:lastmodified":1537587677,
+    "wof:lastmodified":1564177726,
     "wof:name":"Dolno Kobile",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

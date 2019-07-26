@@ -34,6 +34,9 @@
         "Iovkovtsi",
         "Yovkovtsi"
     ],
+    "name:zho_x_preferred":[
+        "\u7d04\u592b\u79d1\u592b\u9f4a\u6c34\u5eab"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1276265629,
-    "wof:lastmodified":1537587249,
+    "wof:lastmodified":1564177119,
     "wof:name":"Yovkovtsi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

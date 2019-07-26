@@ -31,6 +31,30 @@
     "name:bul_x_variant":[
         "\u0411\u0438\u0442\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bitovo"
+    ],
+    "name:fra_x_preferred":[
+        "Bitovo"
+    ],
+    "name:hun_x_preferred":[
+        "Bitovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Bitova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0442\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bitovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u0442\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633001
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1209446231,
-    "wof:lastmodified":1537587794,
+    "wof:lastmodified":1564177296,
     "wof:name":"Bitovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

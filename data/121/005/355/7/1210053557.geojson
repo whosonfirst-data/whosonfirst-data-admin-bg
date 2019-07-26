@@ -33,6 +33,24 @@
     "name:bul_x_variant":[
         "Huma"
     ],
+    "name:deu_x_preferred":[
+        "Huma"
+    ],
+    "name:est_x_preferred":[
+        "Huma"
+    ],
+    "name:fra_x_preferred":[
+        "Huma"
+    ],
+    "name:ita_x_preferred":[
+        "Huma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Huma"
+    ],
     "name:und_x_variant":[
         "Chuma",
         "Kanali",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1210053557,
-    "wof:lastmodified":1537587565,
+    "wof:lastmodified":1564177304,
     "wof:name":"Huma",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

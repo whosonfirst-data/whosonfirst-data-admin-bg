@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u041f\u043b\u0435\u0432\u0443\u043d"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b5\u03b2\u03bf\u03cd\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0648\u0648\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043b\u0435\u0432\u0443\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Plewun"
+    ],
+    "name:ron_x_preferred":[
+        "Plevun"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0432\u0443\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0435\u0432\u0443\u043d"
+    ],
     "name:und_x_variant":[
         "Peliwun",
         "Pelevun",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1276587403,
-    "wof:lastmodified":1537587425,
+    "wof:lastmodified":1564177144,
     "wof:name":"Plevun",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

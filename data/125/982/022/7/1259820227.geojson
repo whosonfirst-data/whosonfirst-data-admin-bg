@@ -26,7 +26,55 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Blato"
+    ],
     "name:bul_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Blato"
+    ],
+    "name:ces_x_preferred":[
+        "Blato"
+    ],
+    "name:deu_x_preferred":[
+        "Blato"
+    ],
+    "name:fra_x_preferred":[
+        "Blato"
+    ],
+    "name:hrv_x_preferred":[
+        "Blato"
+    ],
+    "name:hun_x_preferred":[
+        "Blato"
+    ],
+    "name:nld_x_preferred":[
+        "Blato"
+    ],
+    "name:pol_x_preferred":[
+        "Blato"
+    ],
+    "name:por_x_preferred":[
+        "Blato"
+    ],
+    "name:ron_x_preferred":[
+        "Blato"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Blato"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Blato"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u043b\u0430\u0442\u043e"
     ],
     "src:geom":"geonames",
@@ -50,7 +98,7 @@
         }
     ],
     "wof:id":1259820227,
-    "wof:lastmodified":1537587750,
+    "wof:lastmodified":1564177643,
     "wof:name":"Blato",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

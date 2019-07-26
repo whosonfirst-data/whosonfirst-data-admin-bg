@@ -29,7 +29,23 @@
         "\u041f\u043b\u044a\u0436\u0438\u0449\u0435"
     ],
     "name:bul_x_variant":[
-        "Plazishte"
+        "Plazishte",
+        "\u041f\u043b\u0430\u0437\u0438\u0449\u0435"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0627\u0632\u06cc\u0634\u062a\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043b\u0430\u0437\u0438\u0448\u0442\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Plazi\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u0437\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0430\u0437\u0438\u0448\u0442\u0435"
     ],
     "name:und_x_variant":[
         "Kolibi Kayrak",
@@ -58,7 +74,7 @@
         }
     ],
     "wof:id":1344193797,
-    "wof:lastmodified":1537587424,
+    "wof:lastmodified":1564176972,
     "wof:name":"Plazishte",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

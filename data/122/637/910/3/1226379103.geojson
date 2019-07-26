@@ -27,8 +27,14 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0641\u0627\u0646\u062f\u064a\u0645\u0648\u0641"
+    ],
     "name:bul_x_preferred":[
         "\u0418\u0432\u0430\u043d \u0414\u0438\u043c\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0432\u0430\u043d \u0414\u0438\u043c\u043e\u0432"
     ],
     "name:und_x_variant":[
         "Ivan D\u016dmov",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1226379103,
-    "wof:lastmodified":1537587592,
+    "wof:lastmodified":1564177757,
     "wof:name":"Ivan Dimov",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

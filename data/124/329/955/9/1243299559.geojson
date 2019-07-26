@@ -33,6 +33,27 @@
     "name:bul_x_variant":[
         "Ahryansko"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0647\u0631\u06cc\u0627\u0646\u0633\u06a9\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10ee\u10e0\u10d8\u10d0\u10dc\u10e1\u10d9\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0445\u0440\u044f\u043d\u0441\u043a\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Ahreansko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0445\u0440\u044f\u043d\u0441\u043a\u043e"
+    ],
+    "name:tur_x_preferred":[
+        "Ercek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0445\u0440\u044f\u043d\u0441\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Akhryan Eredzhek",
         "Achrjansko",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1243299559,
-    "wof:lastmodified":1537587780,
+    "wof:lastmodified":1564177607,
     "wof:name":"Ahryansko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

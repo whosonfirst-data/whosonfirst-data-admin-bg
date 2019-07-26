@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0448\u043a\u043e\u0432\u0430 \u043f\u043e\u043b\u044f\u043d\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u0634\u06a9\u0648\u0648\u0627 \u067e\u0648\u0644\u06cc\u0627\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0430\u0448\u043a\u043e\u0432\u0430-\u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Dra\u0219kova Poleana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0448\u043a\u043e\u0432\u0430-\u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0448\u043a\u043e\u0432\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1242712621,
-    "wof:lastmodified":1537587667,
+    "wof:lastmodified":1564177585,
     "wof:name":"Drashkova Polyana",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

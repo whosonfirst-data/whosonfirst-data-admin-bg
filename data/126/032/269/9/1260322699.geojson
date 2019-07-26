@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Zelenik"
+    ],
+    "name:fra_x_preferred":[
+        "Zelenik"
+    ],
+    "name:msa_x_preferred":[
+        "Zelenik"
+    ],
+    "name:por_x_preferred":[
+        "Zelenik"
+    ],
+    "name:slv_x_preferred":[
+        "Zelenik"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Trashl\u016d",
         "Trashlii",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1260322699,
-    "wof:lastmodified":1537587243,
+    "wof:lastmodified":1564177365,
     "wof:name":"Zelenik",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

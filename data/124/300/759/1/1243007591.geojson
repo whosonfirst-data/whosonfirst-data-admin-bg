@@ -26,11 +26,32 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0631\u0647\u0648\u0641\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u044a\u0440\u0445\u043e\u0432\u043e"
     ],
     "name:bul_x_variant":[
         "Tarhovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u0647\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u044b\u0440\u0445\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Tyrchowo"
+    ],
+    "name:ron_x_preferred":[
+        "T\u0103rhovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044b\u0440\u0445\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0440\u0445\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Duandzhi",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1243007591,
-    "wof:lastmodified":1537587293,
+    "wof:lastmodified":1564177517,
     "wof:name":"Tarhovo",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u041e\u043f\u0438\u0446\u0432\u0435\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Opitsvet"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u067e\u06cc\u062a\u0633\u0648\u062a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10de\u10d8\u10ea\u10d5\u10d4\u10e2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043f\u0438\u0446\u0432\u0435\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Opitsvet"
+    ],
+    "name:ron_x_preferred":[
+        "Opi\u021bvet"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043f\u0438\u0446\u0432\u0435\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Opitsvet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043f\u0438\u0446\u0432\u0435\u0442"
+    ],
     "name:und_x_variant":[
         "Opizwet",
         "Opitsvyet",
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1327064023,
-    "wof:lastmodified":1537587454,
+    "wof:lastmodified":1564176825,
     "wof:name":"Opitsvet",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Zelenikovo"
+    ],
+    "name:fra_x_preferred":[
+        "Zelenikovo"
+    ],
+    "name:ron_x_preferred":[
+        "Zelenikovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Zelenikovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u043b\u0435\u043d\u0438\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Selenikowo",
         "Kad\u016dr Meschit",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1259518539,
-    "wof:lastmodified":1537587243,
+    "wof:lastmodified":1564177660,
     "wof:name":"Zelenikovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

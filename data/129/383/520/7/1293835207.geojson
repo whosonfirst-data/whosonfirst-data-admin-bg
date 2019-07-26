@@ -32,6 +32,27 @@
     "name:bul_x_variant":[
         "Hrasna"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0627\u0633\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u043d\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u043d\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Chrasna"
+    ],
+    "name:ron_x_preferred":[
+        "Hrasna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u0430\u0441\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Chrasna",
         "Khrasna"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1293835207,
-    "wof:lastmodified":1537587566,
+    "wof:lastmodified":1564177028,
     "wof:name":"Hrasna",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u043b\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kralevo"
+    ],
+    "name:ron_x_preferred":[
+        "Kralevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u043b\u0435\u0432\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0440\u0430\u043b\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kralevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u043b\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kavak Makhle",
         "Kraljowo",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1242608305,
-    "wof:lastmodified":1537587540,
+    "wof:lastmodified":1564177558,
     "wof:name":"Kralevo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

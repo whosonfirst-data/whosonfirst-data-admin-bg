@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u043d\u0430\u043f\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Sinapovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0627\u067e\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0438\u043d\u0430\u043f\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Sinapowo"
+    ],
+    "name:ron_x_preferred":[
+        "Sinapovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0430\u043f\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Sinapovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043d\u0430\u043f\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Sinapliy",
         "Sinapowo",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1242708869,
-    "wof:lastmodified":1537587361,
+    "wof:lastmodified":1564177579,
     "wof:name":"Sinapovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

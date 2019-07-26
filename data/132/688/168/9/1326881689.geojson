@@ -28,6 +28,24 @@
     "name:bul_x_preferred":[
         "\u0420\u0438\u0431\u043d\u0438\u043a"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0628\u0646\u06cc\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u043a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u043a"
+    ],
+    "name:ron_x_preferred":[
+        "Ribnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0431\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1326881689,
-    "wof:lastmodified":1537587386,
+    "wof:lastmodified":1564176845,
     "wof:name":"Ribnik",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

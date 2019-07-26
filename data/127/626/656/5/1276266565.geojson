@@ -33,6 +33,21 @@
     "name:bul_x_variant":[
         "Parventsi"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0648\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u0435\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103rven\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u0435\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0440\u0432\u0435\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Khodzha K\u2019oy",
         "P\u0103rwenzi",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1276266565,
-    "wof:lastmodified":1537587401,
+    "wof:lastmodified":1564177117,
     "wof:name":"Parventsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",
