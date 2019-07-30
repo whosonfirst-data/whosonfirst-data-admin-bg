@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0443\u0431\u0435\u043b"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0648\u0628\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0443\u0431\u0435\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Stubel"
+    ],
+    "name:ron_x_preferred":[
+        "Stubel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0431\u0435\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0443\u0431\u0435\u043b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1360221767,
-    "wof:lastmodified":1537587326,
+    "wof:lastmodified":1564177430,
     "wof:name":"Stubel",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

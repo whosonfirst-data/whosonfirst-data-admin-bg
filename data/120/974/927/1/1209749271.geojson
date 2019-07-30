@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041f\u043b\u0435\u0448\u0438\u043d\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0634\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u0438\u043d\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Pleszinci"
+    ],
+    "name:ron_x_preferred":[
+        "Ple\u0219in\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0435\u0448\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Kel Oglar",
         "Pleschinzi",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1209749271,
-    "wof:lastmodified":1537587425,
+    "wof:lastmodified":1564177287,
     "wof:name":"Pleshintsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

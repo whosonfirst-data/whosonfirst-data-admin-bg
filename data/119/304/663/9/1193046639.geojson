@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u0417\u043e\u0440\u043d\u0438\u0446\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Zornitsa"
+    ],
+    "name:swe_x_preferred":[
+        "Zornitsa"
+    ],
     "name:und_x_variant":[
         "Doudzha",
         "Sorniza",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1193046639,
-    "wof:lastmodified":1537587229,
+    "wof:lastmodified":1564177315,
     "wof:name":"Zornitsa",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0431\u0438\u0448\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Rabisha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0628\u06cc\u0634\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10d1\u10d8\u10e8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0431\u0438\u0448\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Rabisha"
+    ],
+    "name:ron_x_preferred":[
+        "Rabi\u0219a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0431\u0438\u0448\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Rabisja"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0431\u0438\u0448\u0430"
+    ],
     "name:und_x_variant":[
         "Rabi\u0161a",
         "Rabischa",
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1293622631,
-    "wof:lastmodified":1537587400,
+    "wof:lastmodified":1564177011,
     "wof:name":"Rabisha",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

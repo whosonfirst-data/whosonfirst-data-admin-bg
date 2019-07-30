@@ -31,6 +31,24 @@
     "name:bul_x_variant":[
         "\u0417\u043e\u0439\u0447\u0435\u043d\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u06cc\u0686\u0646\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u043e\u0439\u0447\u0435\u043d\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0417\u043e\u0458\u0447\u0435\u043d\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Zoicene"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u0439\u0447\u0435\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043e\u0439\u0447\u0435\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Soitschene",
         "Zoychene"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1326868751,
-    "wof:lastmodified":1537587228,
+    "wof:lastmodified":1564176838,
     "wof:name":"Zoychene",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

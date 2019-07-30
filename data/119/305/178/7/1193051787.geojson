@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0435\u043d\u043a\u043e\u0432\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u062a\u0646\u06a9\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043d\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Kostenkowci"
+    ],
+    "name:ron_x_preferred":[
+        "Kostenkov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043d\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043d\u043a\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Kostenkovts\u016d",
         "Kostenkovtsi"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1193051787,
-    "wof:lastmodified":1537587545,
+    "wof:lastmodified":1564177322,
     "wof:name":"Kostenkovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

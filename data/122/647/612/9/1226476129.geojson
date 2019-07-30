@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u0447\u0443\u043b\u0438\u0433\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0686\u0648\u0644\u06cc\u06af\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0443\u0447\u0443\u043b\u0438\u0433\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Czuczuliga"
+    ],
+    "name:ron_x_preferred":[
+        "Ciuciuliga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0447\u0443\u043b\u0438\u0433\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0447\u0443\u043b\u0438\u0433\u0430"
+    ],
     "name:und_x_variant":[
         "Tschutschuliga",
         "Aptaraman K\u2019oy",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1226476129,
-    "wof:lastmodified":1537587702,
+    "wof:lastmodified":1564177732,
     "wof:name":"Chuchuliga",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

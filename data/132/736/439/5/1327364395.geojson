@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u044f\u043c\u0430 \u0416\u0435\u043b\u044f\u0437\u043d\u0430"
     ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430-\u0416\u0435\u043b\u044f\u0437\u043d\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Golama \u017belazna"
+    ],
+    "name:ron_x_preferred":[
+        "Goleama Jeleazna"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430-\u0416\u0435\u043b\u044f\u0437\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430 \u0416\u0435\u043b\u044f\u0437\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Golyema Zhelezna",
         "Goljema \u017delezna",
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1327364395,
-    "wof:lastmodified":1537587628,
+    "wof:lastmodified":1564176831,
     "wof:name":"Golyama Zhelyazna",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

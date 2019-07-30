@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0430 \u043f\u043e\u043b\u044f\u043d\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0627 \u067e\u0648\u0644\u06cc\u0627\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0430-\u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Dobra Poleana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0430-\u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0430 \u041f\u043e\u043b\u044f\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Bayryam Alan",
         "Dobra Poliana",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1326564161,
-    "wof:lastmodified":1537587689,
+    "wof:lastmodified":1564176853,
     "wof:name":"Dobra Polyana",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

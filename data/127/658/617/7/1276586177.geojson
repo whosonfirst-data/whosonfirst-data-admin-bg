@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bikovo"
+    ],
+    "name:epo_x_preferred":[
+        "Bikovo"
+    ],
+    "name:fra_x_preferred":[
+        "Bikovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Bikovo"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00e9kova"
+    ],
+    "name:msa_x_preferred":[
+        "Bikovo"
+    ],
+    "name:slv_x_preferred":[
+        "Bikovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Bukhalii",
         "Bikowo",
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1276586177,
-    "wof:lastmodified":1537587755,
+    "wof:lastmodified":1564177141,
     "wof:name":"Bikovo",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

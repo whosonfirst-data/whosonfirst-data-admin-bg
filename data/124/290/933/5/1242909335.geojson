@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0414\u0436\u0435\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dzherovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0698\u0631\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Djerovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dzjerovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Osherowo",
         "Arabadzhi",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1242909335,
-    "wof:lastmodified":1537587653,
+    "wof:lastmodified":1564177594,
     "wof:name":"Dzherovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

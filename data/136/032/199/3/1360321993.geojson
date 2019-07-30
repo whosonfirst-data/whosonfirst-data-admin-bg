@@ -31,6 +31,18 @@
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0435\u043d\u0435"
     ],
+    "name:fra_x_preferred":[
+        "Orechene"
+    ],
+    "name:ron_x_preferred":[
+        "Ore\u0219ene"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0435\u0448\u0435\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0435\u0448\u0435\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Kerimler",
         "Ore\u0161ene",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1360321993,
-    "wof:lastmodified":1537587453,
+    "wof:lastmodified":1564177456,
     "wof:name":"Oreshene",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

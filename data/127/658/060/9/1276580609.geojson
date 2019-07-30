@@ -31,6 +31,15 @@
     "name:bul_x_variant":[
         "\u0416\u0438\u0442\u043d\u0438\u0446\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Jitnitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Jitni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0442\u043d\u0438\u0446\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276580609,
-    "wof:lastmodified":1537587792,
+    "wof:lastmodified":1564177148,
     "wof:name":"Zhitnitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

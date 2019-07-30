@@ -33,6 +33,27 @@
     "name:bul_x_variant":[
         "\u0421\u043b\u0438\u0432\u0430\u0440\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Slivarka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u06cc\u0648\u0627\u0631\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u0430\u0440\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Slivarka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u0430\u0440\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Slivarka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u0430\u0440\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Khadzhi K\u2019oy",
         "Spakhievo",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1226273035,
-    "wof:lastmodified":1537587353,
+    "wof:lastmodified":1564177686,
     "wof:name":"Slivarka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

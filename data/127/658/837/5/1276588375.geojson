@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "Bardeni"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u044b\u0440\u0434\u0435\u043d\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Byrdeni"
+    ],
+    "name:ron_x_preferred":[
+        "B\u0103rdeni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044b\u0440\u0434\u0435\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0440\u0434\u0435\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Berdent\u016d",
         "B\u016drdenite",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1276588375,
-    "wof:lastmodified":1537587724,
+    "wof:lastmodified":1564177148,
     "wof:name":"Bardeni",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

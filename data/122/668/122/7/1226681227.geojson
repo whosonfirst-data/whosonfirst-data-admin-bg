@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0432\u0435\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Povet"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0648\u062a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10d5\u10d4\u10e2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0432\u0435\u0442"
+    ],
+    "name:ron_x_preferred":[
+        "Povet"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0432\u0435\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Povet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0432\u0435\u0442"
+    ],
     "name:und_x_variant":[
         "Khorozlar",
         "Powet",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1226681227,
-    "wof:lastmodified":1537587413,
+    "wof:lastmodified":1564177704,
     "wof:name":"Povet",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

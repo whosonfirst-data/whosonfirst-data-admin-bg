@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0421\u043d\u0435\u0436\u0438\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Snezhina"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0698\u06cc\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043d\u0435\u0436\u0438\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Snejina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043d\u0435\u0436\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Snezjina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043d\u0435\u0436\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Kar Yagd",
         "Snyezhina",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1293914599,
-    "wof:lastmodified":1537587349,
+    "wof:lastmodified":1564177005,
     "wof:name":"Snezhina",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

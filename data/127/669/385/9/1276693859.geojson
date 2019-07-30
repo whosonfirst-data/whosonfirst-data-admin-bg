@@ -26,8 +26,59 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u0646\u0627\u0648\u062a\u0633\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0432\u0446\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Dunavtsi"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u0648\u0646\u0627\u06a4\u062a\u0633\u06cc"
+    ],
+    "name:deu_x_preferred":[
+        "Dunawzi"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u0627\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Dunawci"
+    ],
+    "name:por_x_preferred":[
+        "Dunavci"
+    ],
+    "name:ron_x_preferred":[
+        "Dunav\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0432\u0446\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Dunavtsi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dunavtsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u043d\u0430\u0432\u0446\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Dunavtsi"
+    ],
+    "name:war_x_preferred":[
+        "Dunavtsi"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u7459\u592b\u9f4a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +101,7 @@
         }
     ],
     "wof:id":1276693859,
-    "wof:lastmodified":1537587658,
+    "wof:lastmodified":1564177136,
     "wof:name":"Dunavtsi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

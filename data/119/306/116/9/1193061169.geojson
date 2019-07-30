@@ -33,6 +33,27 @@
     "name:bul_x_variant":[
         "Valkovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u044b\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u2019\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Wy\u0142kowo"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103lkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043b\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "V\u016dksan",
         "W\u0103lkowo",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1193061169,
-    "wof:lastmodified":1537587261,
+    "wof:lastmodified":1564177310,
     "wof:name":"Valkovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

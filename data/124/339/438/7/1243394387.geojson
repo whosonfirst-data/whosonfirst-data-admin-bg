@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043f\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Kupen"
+    ],
+    "name:fra_x_preferred":[
+        "Koupen"
+    ],
+    "name:pol_x_preferred":[
+        "Kupen"
+    ],
+    "name:ron_x_preferred":[
+        "Kupen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043f\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043f\u0435\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1243394387,
-    "wof:lastmodified":1537587527,
+    "wof:lastmodified":1564177531,
     "wof:name":"Kupen",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0420\u0438\u0431\u0430\u0440\u0438\u0446\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Ribaritsa"
+    ],
+    "name:ron_x_preferred":[
+        "Ribari\u021ba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0431\u0430\u0440\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Pod Manastirya",
         "Ribarica",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1326964597,
-    "wof:lastmodified":1537587386,
+    "wof:lastmodified":1564176896,
     "wof:name":"Ribaritsa",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

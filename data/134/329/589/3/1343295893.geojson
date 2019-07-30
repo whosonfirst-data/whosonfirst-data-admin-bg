@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0433\u0440\u0435\u043d\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Bagrenci"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0433\u0440\u0435\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Bagren\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u0440\u0435\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Bagrentsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0433\u0440\u0435\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Bagrenzi",
         "Bagrentsi"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1343295893,
-    "wof:lastmodified":1537587771,
+    "wof:lastmodified":1564176983,
     "wof:name":"Bagrentsi",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

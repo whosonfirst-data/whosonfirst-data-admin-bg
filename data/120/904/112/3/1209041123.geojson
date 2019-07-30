@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u044f\u0433\u043e\u0432\u043e"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10d0\u10d2\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u044f\u0433\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Bryagovo"
+    ],
+    "name:ron_x_preferred":[
+        "Breagovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044f\u0433\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u044f\u0433\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kara Alan",
         "Br\u011bgovo",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1209041123,
-    "wof:lastmodified":1537587730,
+    "wof:lastmodified":1564177273,
     "wof:name":"Bryagovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

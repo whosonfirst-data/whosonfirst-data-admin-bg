@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u041f\u0447\u0435\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Pchela"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0686\u0644\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0447\u0435\u043b\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Pcze\u0142a"
+    ],
+    "name:ron_x_preferred":[
+        "Pcela"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0447\u0435\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0447\u0435\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Iose Begliy",
         "Esse Beglii",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1260011055,
-    "wof:lastmodified":1537587437,
+    "wof:lastmodified":1564177343,
     "wof:name":"Pchela",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

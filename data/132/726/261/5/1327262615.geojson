@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0430\u043d\u0438\u0446\u0430"
     ],
+    "name:ita_x_preferred":[
+        "Kopanitsa"
+    ],
     "name:und_x_variant":[
         "Kopaniza",
         "Kopanitsa"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1327262615,
-    "wof:lastmodified":1537587550,
+    "wof:lastmodified":1564176899,
     "wof:name":"Kopanitsa",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

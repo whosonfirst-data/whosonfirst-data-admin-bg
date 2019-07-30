@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0426\u0430\u043f\u0430\u0440\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Caparevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0627\u067e\u0627\u0631\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0426\u0430\u043f\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0430\u043f\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "\u021aaparevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u043f\u0430\u0440\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Tsaparevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0430\u043f\u0430\u0440\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Zaparewo",
         "Tsaparevo"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1193057117,
-    "wof:lastmodified":1537587301,
+    "wof:lastmodified":1564177322,
     "wof:name":"Tsaparevo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

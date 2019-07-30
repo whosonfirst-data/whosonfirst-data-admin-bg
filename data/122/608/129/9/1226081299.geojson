@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u043a\u0432\u0430\u0442\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u06a9\u0648\u0627\u062a\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u043e\u043a\u0432\u0430\u0442\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Lokvata"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u043a\u0432\u0430\u0442\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043a\u0432\u0430\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Lokwata",
         "Lokvata"
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1226081299,
-    "wof:lastmodified":1537587515,
+    "wof:lastmodified":1564177758,
     "wof:name":"Lokvata",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

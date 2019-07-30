@@ -31,6 +31,36 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u0436\u0430\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Brezhani"
+    ],
+    "name:deu_x_preferred":[
+        "Breschani"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0435\u0436\u0430\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0440\u0431\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Bre\u017cani"
+    ],
+    "name:ron_x_preferred":[
+        "Brejani"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u0436\u0430\u043d\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0435\u0436\u0430\u043d\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Brezjani"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0436\u0430\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "S\u016drbinovo",
         "Bryezhani",
@@ -61,7 +91,7 @@
         }
     ],
     "wof:id":1276590959,
-    "wof:lastmodified":1537587733,
+    "wof:lastmodified":1564177151,
     "wof:name":"Brezhani",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

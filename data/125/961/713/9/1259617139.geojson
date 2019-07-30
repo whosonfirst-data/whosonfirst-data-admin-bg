@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u043b\u0438\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Karlievo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0644\u06cc\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10da\u10d8\u10d4\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0438\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Karlievo"
+    ],
+    "name:ron_x_preferred":[
+        "Karlievo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0438\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Karlievo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u043b\u0456\u0454\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Karliewo",
         "Karlievo"
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1259617139,
-    "wof:lastmodified":1537587574,
+    "wof:lastmodified":1564177647,
     "wof:name":"Karlievo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

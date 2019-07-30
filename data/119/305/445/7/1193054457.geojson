@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0424\u0440\u043e\u043b\u043e\u0448"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u0644\u0648\u0634"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0440\u043e\u043b\u043e\u0448"
+    ],
+    "name:ron_x_preferred":[
+        "Frolo\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u043e\u043b\u043e\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u043e\u043b\u043e\u0448"
+    ],
     "name:und_x_variant":[
         "Frolosch",
         "Frolo\u0161",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1193054457,
-    "wof:lastmodified":1537587644,
+    "wof:lastmodified":1564177321,
     "wof:name":"Frolosh",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

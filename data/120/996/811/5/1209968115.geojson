@@ -29,6 +29,69 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u043f\u043e\u043b\u0430"
     ],
+    "name:ces_x_preferred":[
+        "Topola"
+    ],
+    "name:deu_x_preferred":[
+        "Topola"
+    ],
+    "name:est_x_preferred":[
+        "Topola"
+    ],
+    "name:fra_x_preferred":[
+        "Topola"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e4\u05d5\u05dc\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Topola"
+    ],
+    "name:ita_x_preferred":[
+        "Topola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30dd\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\ud3f4\ub77c"
+    ],
+    "name:msa_x_preferred":[
+        "Topola"
+    ],
+    "name:nld_x_preferred":[
+        "Topola"
+    ],
+    "name:nor_x_preferred":[
+        "Topola"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u0648\u067e\u0648\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Topola"
+    ],
+    "name:por_x_preferred":[
+        "Topola"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Topola"
+    ],
+    "name:spa_x_preferred":[
+        "Topola"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Topola"
+    ],
+    "name:tur_x_preferred":[
+        "Topola"
+    ],
     "name:und_x_variant":[
         "Suiciucul Turcesc",
         "Turk Suyutchuk",
@@ -37,6 +100,12 @@
         "Turski Suyutchuk",
         "Tatar Suyutchuk",
         "Topola"
+    ],
+    "name:vie_x_preferred":[
+        "Topola"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u6ce2\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +128,7 @@
         }
     ],
     "wof:id":1209968115,
-    "wof:lastmodified":1537587309,
+    "wof:lastmodified":1564177211,
     "wof:name":"Topola",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

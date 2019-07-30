@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0432\u0443\u043d\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0648\u0648\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u0432\u0443\u043d\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Karwuna"
+    ],
+    "name:ron_x_preferred":[
+        "Karvuna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0432\u0443\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0432\u0443\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Kujukioj",
         "Karwina",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1259734627,
-    "wof:lastmodified":1537587574,
+    "wof:lastmodified":1564177663,
     "wof:name":"Karvuna",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

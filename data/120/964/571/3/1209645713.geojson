@@ -31,7 +31,23 @@
         "\u0412\u044a\u0440\u043b\u0438 \u0414\u043e\u043b"
     ],
     "name:bul_x_variant":[
-        "Varli Dol"
+        "Varli Dol",
+        "\u0412\u044a\u0440\u043b\u0438 \u0434\u043e\u043b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u0631\u0644\u06cc \u062f\u0648\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u044b\u0440\u043b\u0438-\u0414\u043e\u043b"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103rli Dol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u0440\u043b\u0438-\u0414\u043e\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0440\u043b\u0438\u0439 \u0414\u043e\u043b"
     ],
     "name:und_x_variant":[
         "Sarp Dere",
@@ -57,7 +73,7 @@
         }
     ],
     "wof:id":1209645713,
-    "wof:lastmodified":1537587258,
+    "wof:lastmodified":1564177214,
     "wof:name":"Varli Dol",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

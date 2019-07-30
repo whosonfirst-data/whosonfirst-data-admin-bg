@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0433\u043e\u0438\u043b"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u06af\u0648\u06cc\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0438\u043b"
+    ],
+    "name:ron_x_preferred":[
+        "Dragoil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0438\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u043e\u0457\u043b"
+    ],
     "name:und_x_variant":[
         "Dragbil",
         "Draguil",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209040465,
-    "wof:lastmodified":1537587670,
+    "wof:lastmodified":1564177268,
     "wof:name":"Dragoil",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

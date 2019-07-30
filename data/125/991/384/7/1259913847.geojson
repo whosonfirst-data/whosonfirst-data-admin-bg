@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0430 \u0414\u0438\u043a\u0430\u043d\u044f"
     ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430-\u0414\u0438\u043a\u0430\u043d\u044f"
+    ],
+    "name:ron_x_preferred":[
+        "Gorna Dikanea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430-\u0414\u0438\u043a\u0430\u043d\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u044f \u0414\u0438\u043a\u0430\u043d\u044f"
+    ],
     "name:und_x_variant":[
         "Gorna Dikanja",
         "Gorna Dikanya"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1259913847,
-    "wof:lastmodified":1537587622,
+    "wof:lastmodified":1564177625,
     "wof:name":"Gorna Dikanya",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

@@ -29,6 +29,33 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u0448\u0443\u0440\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Pishurka"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0634\u0648\u0631\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0438\u0448\u0443\u0440\u043a\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Pishurka"
+    ],
+    "name:pol_x_preferred":[
+        "Piszurka"
+    ],
+    "name:ron_x_preferred":[
+        "Pi\u0219urka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0448\u0443\u0440\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Pishurka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0448\u0443\u0440\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "B\u016dz K\u016dr",
         "Pischurka",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1293234743,
-    "wof:lastmodified":1537587428,
+    "wof:lastmodified":1564177035,
     "wof:name":"Pishurka",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

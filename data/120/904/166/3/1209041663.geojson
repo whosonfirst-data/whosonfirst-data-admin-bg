@@ -31,6 +31,27 @@
     "name:bul_x_variant":[
         "\u0411\u0430\u0431\u0438\u043d\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Babinci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Babin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Babintsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0431\u0438\u043d\u0446\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633001
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1209041663,
-    "wof:lastmodified":1537587791,
+    "wof:lastmodified":1564177267,
     "wof:name":"Babintsi",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

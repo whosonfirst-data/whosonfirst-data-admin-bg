@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0432\u043e\u0439\u0441\u043a\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0648\u0648\u06cc\u0633\u06a9\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u0432\u043e\u0439\u0441\u043a\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Savoiski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u043e\u0439\u0441\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0432\u043e\u0439\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "At-Korin",
         "Sawoiski",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1226680403,
-    "wof:lastmodified":1537587373,
+    "wof:lastmodified":1564177700,
     "wof:name":"Savoyski",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041b\u044e\u043b\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Lyulin"
+    ],
+    "name:fra_x_preferred":[
+        "Lyoulin"
+    ],
+    "name:ita_x_preferred":[
+        "Ljulin"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0409\u0443\u043b\u0438\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u043b\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Lyulin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u043b\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Yeni Mekhle",
         "Ljulin",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1293037521,
-    "wof:lastmodified":1537587506,
+    "wof:lastmodified":1564177062,
     "wof:name":"Lyulin",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

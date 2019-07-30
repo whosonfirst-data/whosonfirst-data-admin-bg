@@ -33,6 +33,63 @@
     "name:bul_x_variant":[
         "Tuhovishta"
     ],
+    "name:ceb_x_preferred":[
+        "Tukhovishta"
+    ],
+    "name:deu_x_preferred":[
+        "Tuchowischta"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c5\u03c7\u03bf\u03b2\u03af\u03c3\u03c4\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0647\u0648\u0648\u06cc\u0634\u062a\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Tuhovi\u0161ta"
+    ],
+    "name:fra_x_preferred":[
+        "Tuhovishta"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10ee\u10dd\u10d5\u10d8\u10e8\u10e2\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u0432\u0438\u0448\u0442\u0430"
+    ],
+    "name:lat_x_preferred":[
+        "Tuhovishta"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u0432\u0438\u0448\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Tuhovishta"
+    ],
+    "name:por_x_preferred":[
+        "Tuhovishta"
+    ],
+    "name:ron_x_preferred":[
+        "Tuhovi\u0219ta"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u0432\u0438\u0448\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "T\u00fahovishta"
+    ],
+    "name:srp_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u0432\u0438\u0448\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tuchovisjta"
+    ],
+    "name:tur_x_preferred":[
+        "Tuhovi\u015fta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0445\u043e\u0432\u0438\u0448\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Tuchowischta",
         "Tukhovishta"
@@ -59,7 +116,7 @@
         }
     ],
     "wof:id":1327385561,
-    "wof:lastmodified":1537587295,
+    "wof:lastmodified":1564176835,
     "wof:name":"Tuhovishta",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

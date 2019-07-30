@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Borima"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u06cc\u0645\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043c\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Borima"
+    ],
+    "name:ron_x_preferred":[
+        "Borima"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Borima"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043c\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1293818987,
-    "wof:lastmodified":1537587743,
+    "wof:lastmodified":1564177093,
     "wof:name":"Borima",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

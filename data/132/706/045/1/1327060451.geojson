@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0435\u043d\u0441\u043a\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0646\u0633\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0435\u043d\u0441\u043a\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Stensko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043d\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u043d\u0441\u044c\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1327060451,
-    "wof:lastmodified":1537587334,
+    "wof:lastmodified":1564176820,
     "wof:name":"Stensko",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

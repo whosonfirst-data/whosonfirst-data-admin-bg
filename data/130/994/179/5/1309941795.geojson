@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0421\u044f\u0440\u0446\u0438"
     ],
+    "name:pol_x_preferred":[
+        "Sjarci"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044f\u0440\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u044f\u0440\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Machiklar",
         "Sjarzi",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1309941795,
-    "wof:lastmodified":1537587315,
+    "wof:lastmodified":1564177497,
     "wof:name":"Syartsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

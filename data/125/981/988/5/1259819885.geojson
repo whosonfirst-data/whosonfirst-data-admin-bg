@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u041a\u0440\u0435\u043c\u0435\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dolna Kremena"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10da\u10dc\u10d0-\u10d9\u10e0\u10d4\u10db\u10d4\u10dc\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u041a\u0440\u0435\u043c\u0435\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Dolna Kremena"
+    ],
+    "name:ron_x_preferred":[
+        "Dolna Kremena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0430-\u041a\u0440\u0435\u043c\u0435\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dolna Kremena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u044f \u041a\u0440\u0435\u043c\u0435\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Kremena",
         "Dolna Kremena"
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1259819885,
-    "wof:lastmodified":1537587682,
+    "wof:lastmodified":1564177672,
     "wof:name":"Dolna Kremena",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

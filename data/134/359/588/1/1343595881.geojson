@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0430\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Draka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1343595881,
-    "wof:lastmodified":1537587668,
+    "wof:lastmodified":1564176956,
     "wof:name":"Draka",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Balik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u06cc\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Balik"
+    ],
+    "name:por_x_preferred":[
+        "Balik"
+    ],
+    "name:ron_x_preferred":[
+        "Balik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Balik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Sarnebi",
         "Sara Nebi",
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1277127789,
-    "wof:lastmodified":1537587770,
+    "wof:lastmodified":1564177153,
     "wof:name":"Balik",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

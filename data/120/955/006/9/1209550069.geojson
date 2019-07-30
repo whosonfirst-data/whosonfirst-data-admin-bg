@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0436\u043e\u0432\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0698\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0438\u0436\u043e\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Bi\u017cowci"
+    ],
+    "name:ron_x_preferred":[
+        "Bijov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0436\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0438\u0436\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Bizhovts\u016d",
         "Bishowzi",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209550069,
-    "wof:lastmodified":1537587752,
+    "wof:lastmodified":1564177217,
     "wof:name":"Bizhovtsi",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

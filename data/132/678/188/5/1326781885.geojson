@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u0441\u0430\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Prisad"
+    ],
+    "name:fra_x_preferred":[
+        "Prisad"
+    ],
+    "name:ron_x_preferred":[
+        "Prisad"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Prisad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u0441\u0430\u0434"
+    ],
     "name:und_x_variant":[
         "Khashl\u016ddzha K\u2019oy",
         "Chaschl\u0103dshkioi",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1326781885,
-    "wof:lastmodified":1537587407,
+    "wof:lastmodified":1564176883,
     "wof:name":"Prisad",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

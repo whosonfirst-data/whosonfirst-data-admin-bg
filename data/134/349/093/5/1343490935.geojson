@@ -25,8 +25,20 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Zaka"
+    ],
     "name:bul_x_preferred":[
         "\u0417\u0430\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Zaka"
+    ],
+    "name:fra_x_preferred":[
+        "Zaka"
+    ],
+    "name:swe_x_preferred":[
+        "Zaka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343490935,
-    "wof:lastmodified":1537587246,
+    "wof:lastmodified":1564176951,
     "wof:name":"Zaka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0443\u043d\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Katunets"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u062a\u0648\u0646\u062a\u0633"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e2\u10e3\u10dc\u10d4\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0442\u0443\u043d\u0435\u0446"
+    ],
+    "name:msa_x_preferred":[
+        "Katunets"
+    ],
+    "name:ron_x_preferred":[
+        "Katune\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0442\u0443\u043d\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Katunets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0442\u0443\u043d\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Katunec",
         "Katunez",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1259613917,
-    "wof:lastmodified":1537587572,
+    "wof:lastmodified":1564177645,
     "wof:name":"Katunets",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Rossenowo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0632\u0646\u0648\u0641\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Rosenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Gerge Bunar",
         "Rossenowo",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1209043653,
-    "wof:lastmodified":1537587383,
+    "wof:lastmodified":1564177267,
     "wof:name":"Rosenovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

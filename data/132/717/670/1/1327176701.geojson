@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u043e\u043a\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Tchernookovo"
+    ],
+    "name:ron_x_preferred":[
+        "Cernookovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u043e\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u043e\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Karag\u00f6skuj\u00fcssu",
         "Cernaoco",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1327176701,
-    "wof:lastmodified":1537587707,
+    "wof:lastmodified":1564176904,
     "wof:name":"Chernookovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

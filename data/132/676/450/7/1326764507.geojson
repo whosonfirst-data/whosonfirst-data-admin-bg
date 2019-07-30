@@ -31,6 +31,15 @@
     "name:bul_x_preferred":[
         "\u0414\u044e\u043b\u044f"
     ],
+    "name:kaz_x_preferred":[
+        "\u0414\u044e\u043b\u044f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u043b\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u044e\u043b\u044f"
+    ],
     "name:und_x_variant":[
         "Derekioy",
         "Ayvadzhik Dere",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326764507,
-    "wof:lastmodified":1537587653,
+    "wof:lastmodified":1564176881,
     "wof:name":"Dyulya",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

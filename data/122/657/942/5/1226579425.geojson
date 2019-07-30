@@ -31,6 +31,15 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u043d\u0433\u043e\u0432\u043e"
     ],
+    "name:ron_x_preferred":[
+        "Drangovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u043d\u0433\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u043d\u0433\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kamarlar",
         "Drangowo",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1226579425,
-    "wof:lastmodified":1537587667,
+    "wof:lastmodified":1564177710,
     "wof:name":"Drangovo",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

@@ -32,8 +32,29 @@
     "name:bul_x_variant":[
         "Lambuh"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0645\u0628\u0648\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0430\u043c\u0431\u0443\u0445"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141ambuch"
+    ],
+    "name:ron_x_preferred":[
+        "Lambuh"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0431\u0443\u0445"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043c\u0431\u0443\u0445"
+    ],
     "name:und_x_variant":[
         "Lambukh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0645\u0628\u0648\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1276371825,
-    "wof:lastmodified":1537587523,
+    "wof:lastmodified":1564177182,
     "wof:name":"Lambuh",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

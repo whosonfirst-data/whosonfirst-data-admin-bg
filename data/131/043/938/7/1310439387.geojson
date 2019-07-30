@@ -31,7 +31,20 @@
     ],
     "name:bul_x_variant":[
         "Dalga Luka",
-        "\u0414\u044a\u043b\u0433\u0430 \u041b\u0443\u043a\u0430"
+        "\u0414\u044a\u043b\u0433\u0430 \u041b\u0443\u043a\u0430",
+        "\u0414\u044a\u043b\u0433\u0430 \u043b\u0443\u043a\u0430"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u044b\u043b\u0433\u0430-\u041b\u0443\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "D\u0103lga Luka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044b\u043b\u0433\u0430-\u041b\u0443\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0438\u043b\u0433\u0430 \u041b\u0443\u043a\u0430"
     ],
     "name:und_x_variant":[
         "D\u016dlga Luka"
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1310439387,
-    "wof:lastmodified":1537587659,
+    "wof:lastmodified":1564177404,
     "wof:name":"Dalga Luka",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

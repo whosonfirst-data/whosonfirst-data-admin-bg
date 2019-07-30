@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0411\u0435\u043b\u043e\u0442\u0438\u043d\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Dolno Belotinci"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648 \u0628\u0644\u0648\u062a\u06cc\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0411\u0435\u043b\u043e\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Dolno Belotintsi"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Belotin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0411\u0435\u043b\u043e\u0442\u0438\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Dolno Belotintsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u0411\u0435\u043b\u043e\u0442\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Belotinzi",
         "Dolna Belotintsi",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1193170705,
-    "wof:lastmodified":1537587678,
+    "wof:lastmodified":1564177328,
     "wof:name":"Dolno Belotintsi",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

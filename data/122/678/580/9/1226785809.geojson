@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0431\u0440\u0430\u0434\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Golobradovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0644\u0648\u0628\u0631\u0627\u062f\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0431\u0440\u0430\u0434\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Golobradovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0431\u0440\u0430\u0434\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Golobradovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u043e\u0431\u0440\u0430\u0434\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kyusya K\u2019oy Ardensko",
         "Golobradowo",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1226785809,
-    "wof:lastmodified":1537587629,
+    "wof:lastmodified":1564177737,
     "wof:name":"Golobradovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

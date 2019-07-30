@@ -30,6 +30,39 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0432\u043e\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Izvor"
+    ],
+    "name:deu_x_preferred":[
+        "Izvor"
+    ],
+    "name:fra_x_preferred":[
+        "Izvor"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Izvor"
+    ],
+    "name:pol_x_preferred":[
+        "Izwor"
+    ],
+    "name:ron_x_preferred":[
+        "Izvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Izvor"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Izvor"
+    ],
     "name:und_x_variant":[
         "Novi Izvor",
         "Iriler",
@@ -57,7 +90,7 @@
         }
     ],
     "wof:id":1226073765,
-    "wof:lastmodified":1537587589,
+    "wof:lastmodified":1564177761,
     "wof:name":"Izvor",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

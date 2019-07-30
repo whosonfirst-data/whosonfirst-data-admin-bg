@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u06cc\u0646\u06a9\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10da\u10d8\u10dc\u10d9\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Kalinka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Keremenler",
         "Kalinka"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209550513,
-    "wof:lastmodified":1537587584,
+    "wof:lastmodified":1564177219,
     "wof:name":"Kalinka",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

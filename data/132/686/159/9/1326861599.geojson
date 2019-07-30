@@ -31,6 +31,9 @@
     "name:bul_x_variant":[
         "\u041b\u0430\u0442\u0438\u043d\u043a\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Latinka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326861599,
-    "wof:lastmodified":1537587791,
+    "wof:lastmodified":1564176836,
     "wof:name":"Latinka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

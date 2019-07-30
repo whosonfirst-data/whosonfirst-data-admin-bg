@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u0447\u0443\u0440"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0686\u0648\u0631"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e3\u10e9\u10e3\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0443\u0447\u0443\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Chuchur"
+    ],
+    "name:ron_x_preferred":[
+        "Ciuciur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0447\u0443\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0447\u0443\u0440"
+    ],
     "name:und_x_variant":[
         "Yuchur",
         "Tschutschura",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1243394737,
-    "wof:lastmodified":1537587702,
+    "wof:lastmodified":1564177536,
     "wof:name":"Chuchur",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

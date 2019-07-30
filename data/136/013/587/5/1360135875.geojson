@@ -33,6 +33,27 @@
     "name:bul_x_variant":[
         "Sarnets"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0646\u062a\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u044b\u0440\u043d\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Syrnec"
+    ],
+    "name:por_x_preferred":[
+        "Surnets"
+    ],
+    "name:ron_x_preferred":[
+        "S\u0103rne\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0440\u043d\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0440\u043d\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Karadscha-Ochat",
         "Carageat",
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1360135875,
-    "wof:lastmodified":1537587321,
+    "wof:lastmodified":1564177427,
     "wof:name":"Sarnets",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

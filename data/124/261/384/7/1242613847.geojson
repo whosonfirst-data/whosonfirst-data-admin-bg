@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u044f\u043d\u0435"
     ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u043b\u044f\u043d\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Melyane"
+    ],
+    "name:pol_x_preferred":[
+        "Melane"
+    ],
+    "name:ron_x_preferred":[
+        "Meleane"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u044f\u043d\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u044f\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Meljane",
         "Melyane"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1242613847,
-    "wof:lastmodified":1537587487,
+    "wof:lastmodified":1564177552,
     "wof:name":"Melyane",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

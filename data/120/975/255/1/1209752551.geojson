@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u044f\u0441\u0442\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Bryastovo"
+    ],
+    "name:pol_x_preferred":[
+        "Brjastowo"
+    ],
+    "name:ron_x_preferred":[
+        "Breastovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044f\u0441\u0442\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u044f\u0441\u0442\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Brestowo",
         "Bryestovo",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1209752551,
-    "wof:lastmodified":1537587733,
+    "wof:lastmodified":1564177302,
     "wof:name":"Bryastovo",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

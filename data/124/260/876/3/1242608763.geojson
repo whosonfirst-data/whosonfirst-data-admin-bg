@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b\u0435\u043d\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0644\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Sokolenci"
+    ],
+    "name:ron_x_preferred":[
+        "Sokolen\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u0435\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Duvandzhi K\u2019oy",
         "Sokolenzi",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1242608763,
-    "wof:lastmodified":1537587348,
+    "wof:lastmodified":1564177558,
     "wof:name":"Sokolentsi",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

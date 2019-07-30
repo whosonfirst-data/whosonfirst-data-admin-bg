@@ -31,6 +31,30 @@
     "name:bul_x_variant":[
         "\u0420\u0443\u0439"
     ],
+    "name:ceb_x_preferred":[
+        "Ruy"
+    ],
+    "name:deu_x_preferred":[
+        "Ruy"
+    ],
+    "name:fra_x_preferred":[
+        "Ruy"
+    ],
+    "name:nld_x_preferred":[
+        "Ruy"
+    ],
+    "name:por_x_preferred":[
+        "Ruy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Ruy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0439"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1293722993,
-    "wof:lastmodified":1537587793,
+    "wof:lastmodified":1564177102,
     "wof:name":"Ruy",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u062f\u064a\u0641\u062a\u0633\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0434\u0435\u0432\u0446\u0438"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u062f\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0434\u0435\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Radewci"
+    ],
+    "name:ron_x_preferred":[
+        "Radev\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0435\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0434\u0435\u0432\u0446\u0456"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1193052579,
-    "wof:lastmodified":1537587399,
+    "wof:lastmodified":1564177317,
     "wof:name":"Radevtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

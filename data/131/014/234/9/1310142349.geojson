@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u041a\u044a\u043f\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Kapinovo"
+    ],
+    "name:ron_x_preferred":[
+        "K\u0103pinovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u043f\u0438\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kapinowo",
         "Kapinovo",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1310142349,
-    "wof:lastmodified":1537587577,
+    "wof:lastmodified":1564177382,
     "wof:name":"Kapinovo",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

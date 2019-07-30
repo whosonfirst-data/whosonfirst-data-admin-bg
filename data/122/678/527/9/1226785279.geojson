@@ -27,8 +27,29 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0641\u0648\u0634\u062a\u0627\u0631\u062a\u0633\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0432\u043e\u0449\u0430\u0440\u0446\u0438"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0648\u0648\u0634\u062a\u0627\u0631\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0432\u043e\u0448\u0442\u0430\u0440\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Owosztarci"
+    ],
+    "name:ron_x_preferred":[
+        "Ovo\u0219tar\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u043e\u0448\u0442\u0430\u0440\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0432\u043e\u0448\u0442\u0430\u0440\u0446\u0456"
     ],
     "name:und_x_variant":[
         "Chomatsite",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1226785279,
-    "wof:lastmodified":1537587443,
+    "wof:lastmodified":1564177737,
     "wof:name":"Ovoshtartsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

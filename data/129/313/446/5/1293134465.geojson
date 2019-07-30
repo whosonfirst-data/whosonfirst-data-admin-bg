@@ -34,6 +34,24 @@
         "Gyulyovtsa",
         "\u0413\u044e\u043b\u0439\u043e\u0432\u0446\u0430"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d8\u10e3\u10da\u10dd\u10d5\u10ea\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u044e\u043b\u0451\u0432\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Gyulyovtsa"
+    ],
+    "name:ron_x_preferred":[
+        "Ghiulov\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044e\u043b\u0451\u0432\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u044e\u043b\u044c\u043e\u0432\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Giuliowza",
         "K\u2019oller",
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":1293134465,
-    "wof:lastmodified":1537587598,
+    "wof:lastmodified":1564177049,
     "wof:name":"Gyulyovtsa",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

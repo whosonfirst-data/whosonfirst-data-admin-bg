@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u0430\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Milanovo"
+    ],
+    "name:fra_x_preferred":[
+        "Milanovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Milanovo"
+    ],
+    "name:ron_x_preferred":[
+        "Milanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Milanovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Milanovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043b\u0430\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Osikovo",
         "Ossikowo",
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1276373703,
-    "wof:lastmodified":1537587483,
+    "wof:lastmodified":1564177179,
     "wof:name":"Milanovo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u043e\u044f\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kaloyanovo"
+    ],
+    "name:fra_x_preferred":[
+        "Kaloyanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u043e\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kaloyanovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u043e\u044f\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tutludzha",
         "Kalojanowo",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1243298517,
-    "wof:lastmodified":1537587583,
+    "wof:lastmodified":1564177608,
     "wof:name":"Kaloyanovo",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

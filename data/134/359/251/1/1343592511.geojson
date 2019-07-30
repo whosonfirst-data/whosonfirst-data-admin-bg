@@ -32,6 +32,30 @@
     "name:bul_x_variant":[
         "\u0411\u0435\u043b\u0438 \u0411\u0440\u0435\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Beli Breg"
+    ],
+    "name:deu_x_preferred":[
+        "Beli Breg"
+    ],
+    "name:fra_x_preferred":[
+        "Beli Breg"
+    ],
+    "name:hrv_x_preferred":[
+        "Beli Breg"
+    ],
+    "name:nld_x_preferred":[
+        "Beli Breg"
+    ],
+    "name:slv_x_preferred":[
+        "Beli Breg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043b\u0438 \u0411\u0440\u0435\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Beli Breg"
+    ],
     "name:und_x_variant":[
         "Beli Bryag",
         "Beli Breg"
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1343592511,
-    "wof:lastmodified":1537587761,
+    "wof:lastmodified":1564176956,
     "wof:name":"Beli Breg",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

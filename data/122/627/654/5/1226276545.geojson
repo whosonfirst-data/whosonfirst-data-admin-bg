@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u042e\u043d\u0430\u0446\u0438"
     ],
+    "name:pol_x_preferred":[
+        "Junaci"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043d\u0430\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u043d\u0430\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Alad\u016dn",
         "Junazi",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1226276545,
-    "wof:lastmodified":1537587249,
+    "wof:lastmodified":1564177688,
     "wof:name":"Yunatsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

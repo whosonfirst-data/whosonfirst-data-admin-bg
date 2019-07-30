@@ -27,8 +27,23 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0646\u062a\u0634\u0648\u0641\u064a\u062a\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0430\u043d\u0447\u043e\u0432\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Ganczowec"
+    ],
+    "name:ron_x_preferred":[
+        "Ganciove\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043d\u0447\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043d\u0447\u043e\u0432\u0435\u0446\u044c"
     ],
     "name:und_x_variant":[
         "Gan\u010dovec",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1259914121,
-    "wof:lastmodified":1537587640,
+    "wof:lastmodified":1564177622,
     "wof:name":"Ganchovets",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0439\u043d\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06cc\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0439\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Rajnowo"
+    ],
+    "name:ron_x_preferred":[
+        "Rainovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0439\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Rainowo",
         "Reseliy",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1276696013,
-    "wof:lastmodified":1537587391,
+    "wof:lastmodified":1564177138,
     "wof:name":"Raynovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

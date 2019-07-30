@@ -34,6 +34,27 @@
         "General Kantardzhievo",
         "\u0413\u0435\u043d\u0435\u0440\u0430\u043b \u041a\u0430\u043d\u0442\u0430\u0440\u0434\u0436\u0438\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "General Kantardzhievo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u0631\u0627\u0644 \u06a9\u0627\u0646\u062a\u0627\u0631\u062f\u0698\u06cc\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b-\u041a\u0430\u043d\u0442\u0430\u0440\u0434\u0436\u0438\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Gheneral Kantardjievo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b-\u041a\u0430\u043d\u0442\u0430\u0440\u0434\u0436\u0438\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "General Kantardzjievo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b-\u041a\u0430\u043d\u0442\u0430\u0440\u0434\u0436\u0456\u0454\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tschausch-Kioi",
         "Chaush K\u2019oy",
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1277013839,
-    "wof:lastmodified":1537587638,
+    "wof:lastmodified":1564177107,
     "wof:name":"General Kantardzhievo",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

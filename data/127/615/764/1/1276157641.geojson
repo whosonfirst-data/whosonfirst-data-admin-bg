@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u043b\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0644\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0430\u043b\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141ale"
+    ],
+    "name:ron_x_preferred":[
+        "Lale"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043b\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Kara K\u2019oy",
         "Lale"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1276157641,
-    "wof:lastmodified":1537587523,
+    "wof:lastmodified":1564177160,
     "wof:name":"Lale",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

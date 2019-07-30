@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u043a\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Mikre"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u06a9\u0631\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u043a\u0440\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Mikre"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Mikre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043a\u0440\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1360016385,
-    "wof:lastmodified":1537587484,
+    "wof:lastmodified":1564177437,
     "wof:name":"Mikre",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

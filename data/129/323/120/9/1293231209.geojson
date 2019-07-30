@@ -28,6 +28,18 @@
     "name:bul_x_preferred":[
         "\u041e\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Osenovo"
+    ],
+    "name:ron_x_preferred":[
+        "Osenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1293231209,
-    "wof:lastmodified":1537587448,
+    "wof:lastmodified":1564177032,
     "wof:name":"Osenovo",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

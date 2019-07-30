@@ -31,6 +31,15 @@
     "name:bul_x_preferred":[
         "\u0422\u044e\u0442\u044e\u043d\u0447\u0435"
     ],
+    "name:ron_x_preferred":[
+        "Tiutiunce"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044e\u0442\u044e\u043d\u0447\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u044e\u0442\u044e\u043d\u0447\u0435"
+    ],
     "name:und_x_variant":[
         "Arslan Khodzha",
         "Tjutjuntsche",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1360219235,
-    "wof:lastmodified":1537587290,
+    "wof:lastmodified":1564177447,
     "wof:name":"Tyutyunche",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

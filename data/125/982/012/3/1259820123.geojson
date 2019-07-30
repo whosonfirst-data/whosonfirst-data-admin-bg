@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0414\u0438\u043d\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dinevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0646\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0438\u043d\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Dinewo"
+    ],
+    "name:ron_x_preferred":[
+        "Dinevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043d\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dinevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0438\u043d\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Dinewo",
         "Chamurlii",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1259820123,
-    "wof:lastmodified":1537587691,
+    "wof:lastmodified":1564177643,
     "wof:name":"Dinevo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

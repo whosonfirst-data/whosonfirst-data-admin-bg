@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u0432\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Slavovitsa"
+    ],
     "name:und_x_variant":[
         "Slavovica",
         "Slawowiza",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243590753,
-    "wof:lastmodified":1537587354,
+    "wof:lastmodified":1564177570,
     "wof:name":"Slavovitsa",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

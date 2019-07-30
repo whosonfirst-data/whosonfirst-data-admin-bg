@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0411\u043b\u0430\u0433\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Blagovo"
+    ],
+    "name:fra_x_preferred":[
+        "Blagovo"
+    ],
+    "name:ron_x_preferred":[
+        "Blagovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u0433\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Blagovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0430\u0433\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Novo Selo",
         "Nowo Selo",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1259419781,
-    "wof:lastmodified":1537587751,
+    "wof:lastmodified":1564177634,
     "wof:name":"Blagovo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

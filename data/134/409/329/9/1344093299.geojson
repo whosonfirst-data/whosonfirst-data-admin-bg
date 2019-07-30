@@ -31,6 +31,30 @@
     "name:bul_x_variant":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Drenovec"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0646\u0648\u0648\u062a\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Drenowec"
+    ],
+    "name:ron_x_preferred":[
+        "Drenove\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Drenovets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432\u0435\u0446\u044c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1344093299,
-    "wof:lastmodified":1537587793,
+    "wof:lastmodified":1564176937,
     "wof:name":"Drenovets",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

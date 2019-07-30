@@ -31,6 +31,18 @@
     "name:bul_x_preferred":[
         "\u0426\u0430\u0440\u0438\u0447\u0438\u043d\u0430"
     ],
+    "name:kaz_x_preferred":[
+        "\u0426\u0430\u0440\u0438\u0447\u0438\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "\u021aaricina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0440\u0438\u0447\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0430\u0440\u0438\u0447\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Zaritschina",
         "Tsarichina"
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1327262739,
-    "wof:lastmodified":1537587300,
+    "wof:lastmodified":1564176898,
     "wof:name":"Tsarichina",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

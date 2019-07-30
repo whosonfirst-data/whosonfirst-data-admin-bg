@@ -32,6 +32,27 @@
     "name:bul_x_variant":[
         "Brashlyan"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u0634\u0644\u06cc\u0627\u0646"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10e8\u10da\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u044b\u0448\u043b\u044f\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Brashlyan"
+    ],
+    "name:ron_x_preferred":[
+        "Br\u0103\u0219lean"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044b\u0448\u043b\u044f\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0438\u0448\u043b\u044f\u043d"
+    ],
     "name:und_x_variant":[
         "Saramshik",
         "Br\u016dshlen",
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1326564601,
-    "wof:lastmodified":1537587731,
+    "wof:lastmodified":1564176855,
     "wof:name":"Brashlyan",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

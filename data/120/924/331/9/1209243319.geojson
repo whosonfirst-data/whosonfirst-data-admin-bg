@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u0433\u043e\u0440\u0441\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Zagorski"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u06af\u0648\u0631\u0633\u06a9\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0441\u043a\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Zagorski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Zagorski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u0433\u043e\u0440\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Sagorski",
         "K\u016drdzhalar",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1209243319,
-    "wof:lastmodified":1537587247,
+    "wof:lastmodified":1564177226,
     "wof:name":"Zagorski",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

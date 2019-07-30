@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0439\u043a\u043e\u0432\u0430 \u041c\u043e\u0433\u0438\u043b\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0420\u0430\u0439\u043a\u043e\u0432\u0430 \u043c\u043e\u0433\u0438\u043b\u0430"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06cc\u06a9\u0648\u0648\u0627 \u0645\u0648\u06af\u06cc\u0644\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0430\u0439\u043a\u043e\u0432\u0430-\u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Rajkowa mogi\u0142a"
+    ],
+    "name:ron_x_preferred":[
+        "Raikova Moghila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0439\u043a\u043e\u0432\u0430-\u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043a\u043e\u0432\u0430 \u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Kaik K\u2019oy",
         "Raikova Mogila",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1293523773,
-    "wof:lastmodified":1537587391,
+    "wof:lastmodified":1564177013,
     "wof:name":"Raykova Mogila",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

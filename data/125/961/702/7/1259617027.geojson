@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u0434\u043e\u0440\u0435\u0446\u0438\u0442\u0435"
     ],
+    "name:ron_x_preferred":[
+        "Todore\u021bite"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0434\u043e\u0440\u0435\u0446\u0456\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Todorezi",
         "Todurets",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1259617027,
-    "wof:lastmodified":1537587310,
+    "wof:lastmodified":1564177648,
     "wof:name":"Todoretsite",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

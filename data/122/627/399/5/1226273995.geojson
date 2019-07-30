@@ -27,8 +27,23 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Borika"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u043a\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Berik"
+    ],
+    "name:fra_x_preferred":[
+        "Borika"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u0438\u043ae"
+    ],
+    "name:swe_x_preferred":[
+        "Berik"
     ],
     "name:und_x_variant":[
         "Chamdzhas",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226273995,
-    "wof:lastmodified":1537587744,
+    "wof:lastmodified":1564177682,
     "wof:name":"Borika",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

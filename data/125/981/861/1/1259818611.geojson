@@ -33,6 +33,21 @@
     "name:bul_x_variant":[
         "Patnikovo"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062a\u0646\u06cc\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u044b\u0442\u043d\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103tnikovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044b\u0442\u043d\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0442\u043d\u0438\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kiralar",
         "Patnikowo",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1259818611,
-    "wof:lastmodified":1537587400,
+    "wof:lastmodified":1564177666,
     "wof:name":"Patnikovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

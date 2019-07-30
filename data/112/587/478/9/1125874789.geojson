@@ -21,6 +21,27 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u0435\u043d\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Doleni"
+    ],
+    "name:ron_x_preferred":[
+        "Doleni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0435\u043d\u0438"
+    ],
     "name:unk_x_variant":[
         "Dolen"
     ],
@@ -73,7 +94,7 @@
         }
     ],
     "wof:id":1125874789,
-    "wof:lastmodified":1509397640,
+    "wof:lastmodified":1564177506,
     "wof:name":"Doleni",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

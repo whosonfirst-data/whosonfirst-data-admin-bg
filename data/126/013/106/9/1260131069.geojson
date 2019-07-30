@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Rossenowo"
+    ],
+    "name:fra_x_preferred":[
+        "Rosenovo"
+    ],
+    "name:ron_x_preferred":[
+        "Rosenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Limonov",
         "Carasinan",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1260131069,
-    "wof:lastmodified":1537587383,
+    "wof:lastmodified":1564177336,
     "wof:name":"Rosenovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

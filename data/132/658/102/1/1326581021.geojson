@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u0440\u0438\u0447\u0435\u043d\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0631\u06cc\u0686\u0646\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0443\u0440\u0438\u0447\u0435\u043d\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0443\u0440\u0438\u0447\u0435\u043d\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Ciuriceni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u0440\u0438\u0447\u0435\u043d\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u0440\u0438\u0447\u0435\u043d\u0438"
+    ],
     "name:und_x_variant":[
         "Tschuritschene",
         "Churicheni"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1326581021,
-    "wof:lastmodified":1537587700,
+    "wof:lastmodified":1564176856,
     "wof:name":"Churicheni",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

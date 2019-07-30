@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u043e\u043c\u0435\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Slomer"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0648\u0645\u0631"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043b\u043e\u043c\u0435\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "Slomer"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u043e\u043c\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Slomer"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u043e\u043c\u0435\u0440"
+    ],
     "name:und_x_variant":[
         "Slamir",
         "Slomer"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1343298493,
-    "wof:lastmodified":1537587352,
+    "wof:lastmodified":1564176984,
     "wof:name":"Slomer",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

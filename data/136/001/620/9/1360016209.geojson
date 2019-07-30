@@ -29,6 +29,15 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0438\u043a"
     ],
+    "name:ron_x_preferred":[
+        "Kamenik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0438\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1360016209,
-    "wof:lastmodified":1537587580,
+    "wof:lastmodified":1564177434,
     "wof:name":"Kamenik",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

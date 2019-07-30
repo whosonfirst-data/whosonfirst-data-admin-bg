@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041b\u044e\u0442\u0438\u0431\u0440\u043e\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Lyutibrod"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0648\u062a\u06cc\u0628\u0631\u0648\u062f"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u044e\u0442\u0438\u0431\u0440\u043e\u0434"
+    ],
+    "name:ron_x_preferred":[
+        "Liutibrod"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0442\u0438\u0431\u0440\u043e\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Ly\u00fatibrod"
+    ],
+    "name:swe_x_preferred":[
+        "Lyutibrod"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0442\u0438\u0431\u0440\u043e\u0434"
+    ],
     "name:und_x_variant":[
         "Gechid K\u2019ose",
         "Ljut Brod",
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1310334637,
-    "wof:lastmodified":1537587506,
+    "wof:lastmodified":1564177420,
     "wof:name":"Lyutibrod",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

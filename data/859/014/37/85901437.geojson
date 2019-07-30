@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4093260.8024,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.596184,42.05483,25.596184,42.05483",
     "geom:latitude":42.05483,
     "geom:longitude":25.596184,
@@ -26,6 +26,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Rakovski"
+    ],
     "name:eng_x_preferred":[
         "Rakovski"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Rakovski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0456"
     ],
     "name:unk_x_variant":[
         "Rakovski"
@@ -104,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531932506,
+    "wof:lastmodified":1564176996,
     "wof:name":"Rakovski",
     "wof:parent_id":101797991,
     "wof:placetype":"neighbourhood",

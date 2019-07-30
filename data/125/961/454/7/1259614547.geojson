@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0442\u0438\u043d\u043a\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Latinka"
+    ],
     "name:und_x_variant":[
         "Tyurk Yurpek",
         "Latinka"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259614547,
-    "wof:lastmodified":1537587522,
+    "wof:lastmodified":1564177647,
     "wof:name":"Latinka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

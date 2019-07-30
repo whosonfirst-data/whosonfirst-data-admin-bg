@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0411\u044f\u043b\u043a\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0627\u0644\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u044f\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Bja\u0142kowo"
+    ],
+    "name:ron_x_preferred":[
+        "Bealkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044f\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044f\u043b\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kolibi Byalkovo",
         "Tsaykyuvtsi",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1277111417,
-    "wof:lastmodified":1537587718,
+    "wof:lastmodified":1564177200,
     "wof:name":"Byalkovo",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

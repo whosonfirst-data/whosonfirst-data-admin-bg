@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0442\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Bratowo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Bratowo"
+    ],
+    "name:ron_x_preferred":[
+        "Bratovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Bratowo",
         "Dzhan Kardash",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1243203555,
-    "wof:lastmodified":1537587735,
+    "wof:lastmodified":1564177597,
     "wof:name":"Bratovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u0437\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0632\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u043e\u0437\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141oza"
+    ],
+    "name:ron_x_preferred":[
+        "Loza"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0437\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0437\u0430"
+    ],
     "name:und_x_variant":[
         "Salamanite",
         "Salomanzi",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1310341369,
-    "wof:lastmodified":1537587513,
+    "wof:lastmodified":1564177417,
     "wof:name":"Loza",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

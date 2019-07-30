@@ -31,6 +31,54 @@
     "name:bul_x_variant":[
         "\u0412\u0435\u043b\u0435\u043a\u0430"
     ],
+    "name:ces_x_preferred":[
+        "Veleka"
+    ],
+    "name:epo_x_preferred":[
+        "Veleka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Veleka"
+    ],
+    "name:ita_x_preferred":[
+        "Veleka"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043a\u0430"
+    ],
+    "name:nno_x_preferred":[
+        "Veleka"
+    ],
+    "name:nor_x_preferred":[
+        "Veleka"
+    ],
+    "name:pol_x_preferred":[
+        "Weleka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Veleka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043a\u0430"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043a\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Kocadere"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0435\u043a\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u840a\u5361\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1276796483,
-    "wof:lastmodified":1537587789,
+    "wof:lastmodified":1564177166,
     "wof:name":"Veleka",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

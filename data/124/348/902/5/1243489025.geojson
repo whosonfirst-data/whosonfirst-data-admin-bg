@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d\u0446\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u0633\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u043d\u0446\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Sence"
+    ],
+    "name:ron_x_preferred":[
+        "Sen\u021be"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0446\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0446\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1243489025,
-    "wof:lastmodified":1537587369,
+    "wof:lastmodified":1564177561,
     "wof:name":"Sentse",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

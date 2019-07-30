@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0442\u0438\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u062a\u06cc\u0646\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10e2\u10d8\u10dc\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Martino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0442\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Apazlar",
         "Martino"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1326964321,
-    "wof:lastmodified":1537587492,
+    "wof:lastmodified":1564176896,
     "wof:name":"Martino",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

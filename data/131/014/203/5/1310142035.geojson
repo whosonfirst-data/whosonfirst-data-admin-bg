@@ -33,6 +33,24 @@
         "Muhovo",
         "\u041c\u0443\u0445\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0647\u0648\u0641\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10ee\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0443\u0445\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Muhovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0445\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Fafina",
         "Mouhovo",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1310142035,
-    "wof:lastmodified":1537587472,
+    "wof:lastmodified":1564177382,
     "wof:name":"Muhovo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

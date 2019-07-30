@@ -34,6 +34,27 @@
         "General Geshevo",
         "\u0413\u0435\u043d\u0435\u0440\u0430\u043b \u0413\u0435\u0448\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "General Geshevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u0631\u0627\u0644 \u06af\u0634\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b-\u0413\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Gheneral Ghe\u0219evo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b-\u0413\u0435\u0448\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "General Gesjevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043d\u0435\u0440\u0430\u043b-\u0413\u0435\u0448\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "G\u2019oldzhik",
         "General Geschewo"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1209551883,
-    "wof:lastmodified":1537587638,
+    "wof:lastmodified":1564177218,
     "wof:name":"General Geshevo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Kamenets"
+    ],
+    "name:fra_x_preferred":[
+        "Kamenets"
+    ],
+    "name:ita_x_preferred":[
+        "Kamenec"
+    ],
+    "name:swe_x_preferred":[
+        "Kamenets"
+    ],
     "name:und_x_variant":[
         "Kamenec",
         "Kamenez",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1276374119,
-    "wof:lastmodified":1537587580,
+    "wof:lastmodified":1564177181,
     "wof:name":"Kamenets",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

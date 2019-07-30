@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041c\u043b\u0430\u043c\u043e\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Mlamolovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627\u0645\u0648\u0644\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043b\u0430\u043c\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Mlamolovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043b\u0430\u043c\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Mlamolovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043b\u0430\u043c\u043e\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Mlamolowo",
         "Mlamolovo"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1226579663,
-    "wof:lastmodified":1537587478,
+    "wof:lastmodified":1564177708,
     "wof:name":"Mlamolovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

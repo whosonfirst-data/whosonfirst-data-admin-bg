@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u0441\u0442\u043d\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0633\u062a\u0646\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Brestnica"
+    ],
+    "name:por_x_preferred":[
+        "Brestnitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Brestni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0441\u0442\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Golem Karaatsch",
         "Caraciul Mare",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1226595289,
-    "wof:lastmodified":1537587734,
+    "wof:lastmodified":1564177698,
     "wof:name":"Brestnitsa",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

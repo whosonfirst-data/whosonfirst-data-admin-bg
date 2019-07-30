@@ -28,6 +28,12 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kovachevtsi"
+    ],
+    "name:swe_x_preferred":[
+        "Kovachevtsi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633001
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209248553,
-    "wof:lastmodified":1537587544,
+    "wof:lastmodified":1564177235,
     "wof:name":"Kovachevtsi",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

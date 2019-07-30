@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0435\u0446"
     ],
+    "name:fra_x_preferred":[
+        "Bistrets"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0435\u0446"
+    ],
     "name:und_x_variant":[
         "Paradshik",
         "Paradzhik",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1326881407,
-    "wof:lastmodified":1537587753,
+    "wof:lastmodified":1564176845,
     "wof:name":"Bistrets",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

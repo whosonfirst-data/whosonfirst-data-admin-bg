@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0417\u0433\u0443\u0440\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u06af\u0648\u0631\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0433\u0443\u0440\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Zgurovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0433\u0443\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0433\u0443\u0440\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Sgutowo",
         "Zgurovo"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1209851719,
-    "wof:lastmodified":1537587242,
+    "wof:lastmodified":1564177240,
     "wof:name":"Zgurovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

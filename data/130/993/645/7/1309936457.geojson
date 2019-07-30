@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u041b\u043e\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Dolni Lom"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u06cc \u0644\u0648\u0645"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438-\u041b\u043e\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Do\u0142ni \u0141om"
+    ],
+    "name:ron_x_preferred":[
+        "Dolni Lom"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u0438-\u041b\u043e\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Dolni Lom"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0456\u0439 \u041b\u043e\u043c"
+    ],
     "name:und_x_variant":[
         "Dolnji Lom",
         "Dolni Lom"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1309936457,
-    "wof:lastmodified":1537587680,
+    "wof:lastmodified":1564177489,
     "wof:name":"Dolni Lom",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:bul_x_variant":[
         "\u0414\u0430\u0442\u0438\u043d"
     ],
+    "name:por_x_preferred":[
+        "Datin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243394011,
-    "wof:lastmodified":1537587790,
+    "wof:lastmodified":1564177531,
     "wof:name":"Datin",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

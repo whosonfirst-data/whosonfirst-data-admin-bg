@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0417\u043c\u0435\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Zmeevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0645\u06cc\u0641\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u043c\u0435\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Zmeewo"
+    ],
+    "name:ron_x_preferred":[
+        "Zmeevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043c\u0435\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Zmeevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043c\u0435\u0454\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Embiemahle",
         "Zmeewo",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1293428181,
-    "wof:lastmodified":1537587230,
+    "wof:lastmodified":1564177083,
     "wof:name":"Zmeevo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

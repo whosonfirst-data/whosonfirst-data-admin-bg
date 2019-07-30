@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043f\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Pripek"
+    ],
+    "name:fra_x_preferred":[
+        "Pripek"
+    ],
+    "name:ron_x_preferred":[
+        "Pripek"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u043f\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Pripek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0438\u043f\u0435\u043a"
+    ],
     "name:und_x_variant":[
         "Mal\u016dk Khedietler",
         "Pripek"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1293917929,
-    "wof:lastmodified":1537587407,
+    "wof:lastmodified":1564177003,
     "wof:name":"Pripek",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

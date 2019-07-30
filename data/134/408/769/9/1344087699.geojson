@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0441\u043a\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0648\u0633\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0441\u043a\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Borovsko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Borowsko",
         "Cham Dere Karamanlar",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1344087699,
-    "wof:lastmodified":1537587741,
+    "wof:lastmodified":1564176930,
     "wof:name":"Borovsko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u043b\u044f"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10e1\u10e2\u10d8\u10da\u10d8\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0438\u043b\u044f"
+    ],
+    "name:msa_x_preferred":[
+        "Gostilya"
+    ],
+    "name:ron_x_preferred":[
+        "Gostilea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0438\u043b\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0441\u0442\u0438\u043b\u044f"
+    ],
     "name:und_x_variant":[
         "Gostilja",
         "Gostilya"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1310239367,
-    "wof:lastmodified":1537587609,
+    "wof:lastmodified":1564177373,
     "wof:name":"Gostilya",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0421\u043a\u0430\u043b\u0438\u043d\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06a9\u0627\u0644\u06cc\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043a\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Skalina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0430\u043b\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Kaya Bashi",
         "Skalina"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1327167903,
-    "wof:lastmodified":1537587358,
+    "wof:lastmodified":1564176905,
     "wof:name":"Skalina",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

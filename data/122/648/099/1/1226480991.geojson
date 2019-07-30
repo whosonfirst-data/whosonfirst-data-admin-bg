@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0441\u043b\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Beslen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0633\u0644\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0441\u043b\u0435\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0441\u043b\u0435\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Beslen"
+    ],
+    "name:ron_x_preferred":[
+        "Beslen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0441\u043b\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Beslen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0441\u043b\u0435\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1226480991,
-    "wof:lastmodified":1537587756,
+    "wof:lastmodified":1564177747,
     "wof:name":"Beslen",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

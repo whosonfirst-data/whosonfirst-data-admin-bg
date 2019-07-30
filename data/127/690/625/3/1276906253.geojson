@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u0430\u0443\u0436\u0434\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0627\u0648\u0698\u062f\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0440\u0430\u0443\u0436\u0434\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Praujda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u0443\u0436\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0430\u0443\u0436\u0434\u0430"
+    ],
     "name:und_x_variant":[
         "Praushda",
         "Prauzhda"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1276906253,
-    "wof:lastmodified":1537587412,
+    "wof:lastmodified":1564177175,
     "wof:name":"Prauzhda",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

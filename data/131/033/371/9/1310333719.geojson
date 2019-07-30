@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0442\u0435\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Botevo"
+    ],
+    "name:pol_x_preferred":[
+        "Botewo"
+    ],
+    "name:ron_x_preferred":[
+        "Botevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Botiovo",
         "Bot\u2019ovo",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1310333719,
-    "wof:lastmodified":1537587740,
+    "wof:lastmodified":1564177421,
     "wof:name":"Botevo",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

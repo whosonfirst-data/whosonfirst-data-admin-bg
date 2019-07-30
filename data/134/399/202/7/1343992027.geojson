@@ -32,6 +32,30 @@
         "Levski",
         "\u041b\u0435\u0432\u0441\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Levski"
+    ],
+    "name:deu_x_preferred":[
+        "Lewski"
+    ],
+    "name:fra_x_preferred":[
+        "Levski"
+    ],
+    "name:por_x_preferred":[
+        "Levski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Levski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0432\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Kalagare",
         "Dolni Levski",
@@ -40,6 +64,9 @@
         "Karaglare",
         "Kalaglar",
         "Dolno Levski"
+    ],
+    "name:vie_x_preferred":[
+        "Levski"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1343992027,
-    "wof:lastmodified":1537587677,
+    "wof:lastmodified":1564176926,
     "wof:name":"Levski",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

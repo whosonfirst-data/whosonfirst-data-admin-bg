@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0432\u043e\u0440\u0438\u0449\u0435"
     ],
+    "name:deu_x_preferred":[
+        "Isworischte"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0632\u0648\u0648\u0631\u06cc\u0634\u062a\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440\u0438\u0448\u0442\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Izworiszte"
+    ],
+    "name:ron_x_preferred":[
+        "Izvori\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0437\u0432\u043e\u0440\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Terdzhumen",
         "Izworischte",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1293324117,
-    "wof:lastmodified":1537587588,
+    "wof:lastmodified":1564177076,
     "wof:name":"Izvorishte",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

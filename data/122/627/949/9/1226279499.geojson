@@ -33,6 +33,27 @@
     "name:bul_x_variant":[
         "Tsrancha"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0631\u0627\u0646\u0686\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10e0\u10d8\u10dc\u10e9\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0426\u0440\u044b\u043d\u0447\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Tsrancha"
+    ],
+    "name:ron_x_preferred":[
+        "\u021ar\u0103ncea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0440\u044b\u043d\u0447\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0440\u0438\u043d\u0447\u0430"
+    ],
     "name:und_x_variant":[
         "Zr\u0103ntscha",
         "Tsr\u016dncha"
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1226279499,
-    "wof:lastmodified":1537587297,
+    "wof:lastmodified":1564177685,
     "wof:name":"Tsrancha",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

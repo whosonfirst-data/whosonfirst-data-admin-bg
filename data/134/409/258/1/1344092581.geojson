@@ -31,6 +31,18 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0439\u043d\u0438\u043a"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc\u0646\u06cc\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0439\u043d\u0438\u043a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0439\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0439\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Yurpek",
         "Boynik"
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1344092581,
-    "wof:lastmodified":1537587737,
+    "wof:lastmodified":1564176933,
     "wof:name":"Boynik",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -26,8 +26,29 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Kesten"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u0441\u0442\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Kesten"
+    ],
+    "name:deu_x_preferred":[
+        "Kesten"
+    ],
+    "name:hrv_x_preferred":[
+        "Kesten"
+    ],
+    "name:ita_x_preferred":[
+        "Kesten"
+    ],
+    "name:pol_x_preferred":[
+        "Kesten"
+    ],
+    "name:swe_x_preferred":[
+        "Kesten"
     ],
     "name:und_x_variant":[
         "Kestendzhik",
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1225878357,
-    "wof:lastmodified":1537587570,
+    "wof:lastmodified":1564177715,
     "wof:name":"Kesten",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

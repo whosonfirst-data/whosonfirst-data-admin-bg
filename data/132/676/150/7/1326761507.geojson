@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0410\u0442\u043e\u043b\u043e\u0432\u043e"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e2\u10dd\u10da\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0442\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Atolovo"
+    ],
+    "name:ron_x_preferred":[
+        "Atolovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043e\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Atolowo",
         "Angliysko Selo",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1326761507,
-    "wof:lastmodified":1537587774,
+    "wof:lastmodified":1564176874,
     "wof:name":"Atolovo",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

@@ -31,6 +31,21 @@
     "name:bul_x_variant":[
         "\u0412\u044a\u043b\u0447\u0430\u043d\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u0686\u0627\u0646\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u044b\u043b\u0447\u0430\u043d\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "V\u0103lceanka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u044b\u043b\u0447\u0430\u043d\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u043b\u0447\u0430\u043d\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "V\u016dlchanka"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243587685,
-    "wof:lastmodified":1537587800,
+    "wof:lastmodified":1564177575,
     "wof:name":"Valchanka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

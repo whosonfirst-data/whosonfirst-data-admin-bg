@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u0412\u0440\u0430\u0442\u0430"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab5\u0acd\u0ab0\u0aa4"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb5\u0ccd\u0cb0\u0ca4"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2c\u0b4d\u0b30\u0b24"
+    ],
+    "name:spa_x_preferred":[
+        "Vrata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1293525299,
-    "wof:lastmodified":1537587265,
+    "wof:lastmodified":1564177013,
     "wof:name":"Vrata",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

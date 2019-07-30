@@ -28,8 +28,98 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u0430\u0441\u0456\u043b \u041b\u0435\u045e\u0441\u043a\u0456"
+    ],
+    "name:bre_x_preferred":[
+        "Vasil Levski"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Vassil Levski"
+    ],
+    "name:ces_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:deu_x_preferred":[
+        "Wassil Lewski"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03b1\u03c3\u03af\u03bb \u039b\u03ad\u03c6\u03c3\u03ba\u03b9"
+    ],
+    "name:epo_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:fin_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:fra_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:glg_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e1\u05d9\u05dc \u05dc\u05d1\u05e1\u05e7\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Vaszil Levszki"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u057d\u056b\u056c \u053c\u0587\u057d\u056f\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30b7\u30eb\u30fb\u30ec\u30d5\u30b9\u30ad"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc2e4 \ub808\ud504\uc2a4\ud0a4"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:mlg_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:pol_x_preferred":[
+        "Wasi\u0142 Lewski"
+    ],
+    "name:por_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:ron_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0441\u043a\u0438\u0439"
+    ],
+    "name:slk_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:spa_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:swe_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e32\u0e0b\u0e34\u0e25 \u0e40\u0e25\u0e1f\u0e2a\u0e01\u0e35"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
     "name:und_x_variant":[
         "Levski",
@@ -38,6 +128,12 @@
         "Aladaalii",
         "Aladaaliy",
         "Vasil Levski"
+    ],
+    "name:war_x_preferred":[
+        "Vasil Levski"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u897f\u5c14\u00b7\u5217\u592b\u65af\u57fa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +156,7 @@
         }
     ],
     "wof:id":1226079271,
-    "wof:lastmodified":1537587286,
+    "wof:lastmodified":1564177764,
     "wof:name":"Vasil Levski",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

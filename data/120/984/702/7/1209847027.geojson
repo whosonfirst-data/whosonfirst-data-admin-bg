@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0441\u0442\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Postnik"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0633\u062a\u0646\u06cc\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u043d\u0438\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Postnik"
+    ],
+    "name:ron_x_preferred":[
+        "Postnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Postnik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0441\u0442\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Akhat-Baba",
         "Postnik"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1209847027,
-    "wof:lastmodified":1537587414,
+    "wof:lastmodified":1564177222,
     "wof:name":"Postnik",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

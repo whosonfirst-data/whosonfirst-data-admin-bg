@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0438\u0442\u043d\u0438\u043a"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u067e\u06cc\u062a\u0646\u06cc\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043f\u0438\u0442\u043d\u0438\u043a"
+    ],
+    "name:ron_x_preferred":[
+        "Kopitnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0438\u0442\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043f\u0438\u0442\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Yaylal\u016d",
         "Kopitnik"
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1293323851,
-    "wof:lastmodified":1537587550,
+    "wof:lastmodified":1564177073,
     "wof:name":"Kopitnik",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

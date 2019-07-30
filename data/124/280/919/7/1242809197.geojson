@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0438"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c9\u03c3\u03c4\u03af"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e1\u10e2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Kosti"
+    ],
+    "name:pol_x_preferred":[
+        "Kosti"
+    ],
+    "name:ron_x_preferred":[
+        "Kosti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Kosti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1242809197,
-    "wof:lastmodified":1537587545,
+    "wof:lastmodified":1564177541,
     "wof:name":"Kosti",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

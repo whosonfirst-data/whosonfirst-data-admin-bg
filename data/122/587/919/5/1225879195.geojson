@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u043d\u0438\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0646\u0646\u06cc\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043d\u043d\u0438\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Konnici"
+    ],
+    "name:ron_x_preferred":[
+        "Konni\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u043d\u0438\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u043d\u0438\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Spakhalar",
         "Konnizi",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1225879195,
-    "wof:lastmodified":1537587552,
+    "wof:lastmodified":1564177718,
     "wof:name":"Konnitsi",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

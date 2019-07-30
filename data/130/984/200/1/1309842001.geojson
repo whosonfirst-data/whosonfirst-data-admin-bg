@@ -31,6 +31,33 @@
     "name:bul_x_variant":[
         "\u041b\u0435\u0445\u0447\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Lekhchevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0647\u0686\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Lehchevo"
+    ],
+    "name:pol_x_preferred":[
+        "Lechczewo"
+    ],
+    "name:ron_x_preferred":[
+        "Lehcevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Lechtjevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0445\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Lekhchevo"
     ],
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1309842001,
-    "wof:lastmodified":1537587797,
+    "wof:lastmodified":1564177486,
     "wof:name":"Lehchevo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

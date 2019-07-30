@@ -27,7 +27,25 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0631\u0648\u0641\u0648"
+    ],
     "name:bul_x_preferred":[
+        "\u0412\u0435\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Wetrowo"
+    ],
+    "name:ron_x_preferred":[
+        "Vetrovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0442\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
         "\u0412\u0435\u0442\u0440\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1277019031,
-    "wof:lastmodified":1537587278,
+    "wof:lastmodified":1564177109,
     "wof:name":"Vetrovo",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

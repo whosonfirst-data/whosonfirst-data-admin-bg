@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0411\u043b\u0430\u0442\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u0435\u0446"
+    ],
+    "name:fra_x_preferred":[
+        "Blatets"
+    ],
+    "name:ron_x_preferred":[
+        "Blate\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u0435\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u0435\u0446"
+    ],
     "name:und_x_variant":[
         "Esirliy",
         "Isirlii",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1343591869,
-    "wof:lastmodified":1537587751,
+    "wof:lastmodified":1564176957,
     "wof:name":"Blatets",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

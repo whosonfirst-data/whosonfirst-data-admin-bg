@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0418\u0433\u043d\u0430\u0442\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06af\u0646\u0627\u062a\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0433\u043d\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Ignatovo"
+    ],
+    "name:ron_x_preferred":[
+        "Ignatovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0433\u043d\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0433\u043d\u0430\u0442\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Ignatievo",
         "Kara Badzhak",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1343989207,
-    "wof:lastmodified":1537587596,
+    "wof:lastmodified":1564176917,
     "wof:name":"Ignatovo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

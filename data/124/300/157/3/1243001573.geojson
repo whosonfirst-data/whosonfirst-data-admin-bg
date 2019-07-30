@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u0442\u0438\u043d\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Slatino"
+    ],
+    "name:fra_x_preferred":[
+        "Slatino"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Slatino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Slatino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0430\u0442\u0438\u043d\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1243001573,
-    "wof:lastmodified":1537587355,
+    "wof:lastmodified":1564177510,
     "wof:name":"Slatino",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0442\u043e\u0440"
     ],
+    "name:deu_x_preferred":[
+        "Potop"
+    ],
+    "name:pol_x_preferred":[
+        "Potop"
+    ],
+    "name:ron_x_preferred":[
+        "Potop"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u0442\u043e\u043f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633001
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209243471,
-    "wof:lastmodified":1537587413,
+    "wof:lastmodified":1564177231,
     "wof:name":"Potop",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

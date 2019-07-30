@@ -26,11 +26,32 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0647\u0627\u064a\u0644\u0648\u0641\u062a\u0633\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0446\u0438"
     ],
     "name:bul_x_variant":[
         "Mihaylovtsi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0647\u0627\u06cc\u0644\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Michaj\u0142owci"
+    ],
+    "name:ron_x_preferred":[
+        "Mihailov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
         "Mikhailovtsi",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1310532533,
-    "wof:lastmodified":1537587484,
+    "wof:lastmodified":1564177392,
     "wof:name":"Mihaylovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

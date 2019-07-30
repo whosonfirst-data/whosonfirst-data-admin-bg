@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0435\u0444\u0430\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Stefanovo"
+    ],
+    "name:fra_x_preferred":[
+        "Stefanovo"
+    ],
+    "name:pol_x_preferred":[
+        "Stefanowo"
+    ],
+    "name:ron_x_preferred":[
+        "Stefanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u0444\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Stefanovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0435\u0444\u0430\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Vrattsa",
         "Wratze",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1293037869,
-    "wof:lastmodified":1537587334,
+    "wof:lastmodified":1564177068,
     "wof:name":"Stefanovo",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

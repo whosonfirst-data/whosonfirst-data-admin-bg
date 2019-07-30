@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d\u043d\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Sennik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0646\u06cc\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u043d\u043d\u0438\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Sennik"
+    ],
+    "name:ron_x_preferred":[
+        "Sennik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u043d\u0438\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Sennik"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Chad\u016drlii",
         "Syennik",
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1243396937,
-    "wof:lastmodified":1537587369,
+    "wof:lastmodified":1564177531,
     "wof:name":"Sennik",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

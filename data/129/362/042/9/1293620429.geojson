@@ -28,6 +28,27 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0437\u0434\u0435\u043d\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Bezdenica"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0437\u0434\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Bezdenitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Bezdeni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0437\u0434\u0435\u043d\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Bezdenitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0437\u0434\u0435\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Besdeniza",
         "Bezdenitsa"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1293620429,
-    "wof:lastmodified":1537587755,
+    "wof:lastmodified":1564177010,
     "wof:name":"Bezdenitsa",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

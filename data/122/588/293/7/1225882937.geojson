@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447\u0435\u0432\u043e"
     ],
+    "name:kaz_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Rogaczewo"
+    ],
+    "name:ron_x_preferred":[
+        "Rogacevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Geiktschiler",
         "Rogacewo",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1225882937,
-    "wof:lastmodified":1537587384,
+    "wof:lastmodified":1564177712,
     "wof:name":"Rogachevo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

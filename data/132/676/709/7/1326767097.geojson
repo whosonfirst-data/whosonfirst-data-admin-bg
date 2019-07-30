@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u0441\u043e\u043a\u0430"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10e1\u10dd\u10d9\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Visoka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Salt\u016dklar",
         "Wissoka",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1326767097,
-    "wof:lastmodified":1537587275,
+    "wof:lastmodified":1564176874,
     "wof:name":"Visoka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

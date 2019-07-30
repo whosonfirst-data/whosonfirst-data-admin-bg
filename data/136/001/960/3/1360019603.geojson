@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0442\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Batin"
+    ],
+    "name:deu_x_preferred":[
+        "Batin"
+    ],
+    "name:ita_x_preferred":[
+        "Batin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Batin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1360019603,
-    "wof:lastmodified":1537587765,
+    "wof:lastmodified":1564177436,
     "wof:name":"Batin",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

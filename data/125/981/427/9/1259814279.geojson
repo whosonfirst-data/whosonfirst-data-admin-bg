@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0437\u0438\u0447\u0438\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0632\u06cc\u0686\u06cc\u0646\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0437\u0438\u0447\u0438\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Kozicino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u0438\u0447\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0437\u0438\u0447\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Erke\u010d",
         "Kositschino",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1259814279,
-    "wof:lastmodified":1537587542,
+    "wof:lastmodified":1564177668,
     "wof:name":"Kozichino",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

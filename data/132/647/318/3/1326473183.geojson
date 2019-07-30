@@ -30,6 +30,36 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u043e\u043b\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Bogolin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06af\u0648\u0644\u06cc\u0646"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d2\u10dd\u10da\u10d8\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u043b\u0438\u043d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u043b\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Bogolin"
+    ],
+    "name:ron_x_preferred":[
+        "Bogolin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u043b\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bogolin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u043b\u0438\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1326473183,
-    "wof:lastmodified":1537587746,
+    "wof:lastmodified":1564176883,
     "wof:name":"Bogolin",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

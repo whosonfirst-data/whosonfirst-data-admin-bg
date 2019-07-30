@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u041e\u0440\u0438\u0437\u043e\u0432\u043e"
     ],
+    "name:bul_x_variant":[
+        "\u0413\u043e\u0440\u043d\u043e \u041e\u0437\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Gorno Ozirovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u041e\u0437\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Gorno Ozirovo"
+    ],
+    "name:ron_x_preferred":[
+        "Gorno Ozirovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u041e\u0437\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Gorno Ozirovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u0454 \u041e\u0437\u0438\u0440\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Gorno-Orizovo",
         "Gorno Osirowo",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1260117183,
-    "wof:lastmodified":1537587616,
+    "wof:lastmodified":1564177356,
     "wof:name":"Gorno Ozirovo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u0444\u0438\u044a\u0442\u0446\u0438"
     ],
+    "name:bul_x_variant":[
+        "\u0421\u043e\u0444\u0438\u0439\u0446\u0438"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0641\u06cc\u06cc\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043e\u0444\u0438\u0439\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Sofii\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0444\u0438\u0439\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0444\u0456\u0439\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Akhmed Slakhi",
         "Sofijzi",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1226276117,
-    "wof:lastmodified":1537587348,
+    "wof:lastmodified":1564177682,
     "wof:name":"Sofiytsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

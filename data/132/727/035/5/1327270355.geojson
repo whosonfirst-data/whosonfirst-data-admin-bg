@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u043a\u043e\u0432\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Bukovets"
+    ],
+    "name:deu_x_preferred":[
+        "Bukowez"
+    ],
+    "name:fra_x_preferred":[
+        "Boukovets"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u056f\u0578\u057e\u0565\u0581"
+    ],
+    "name:ron_x_preferred":[
+        "Bukove\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Bukovets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Bukowez",
         "Bukovec",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1327270355,
-    "wof:lastmodified":1537587727,
+    "wof:lastmodified":1564176912,
     "wof:name":"Bukovets",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

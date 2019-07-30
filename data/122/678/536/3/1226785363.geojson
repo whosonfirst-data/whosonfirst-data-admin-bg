@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0442\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bratovo"
+    ],
+    "name:fra_x_preferred":[
+        "Bratovo"
+    ],
+    "name:ron_x_preferred":[
+        "Bratovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0430\u0442\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Bratovo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1226785363,
-    "wof:lastmodified":1537587735,
+    "wof:lastmodified":1564177737,
     "wof:name":"Bratovo",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

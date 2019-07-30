@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0435\u0446"
     ],
+    "name:fra_x_preferred":[
+        "Bistrets"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0435\u0446"
+    ],
     "name:und_x_variant":[
         "Bisrtrez",
         "Bistrets"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343988599,
-    "wof:lastmodified":1537587753,
+    "wof:lastmodified":1564176916,
     "wof:name":"Bistrets",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

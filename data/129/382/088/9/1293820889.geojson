@@ -26,7 +26,28 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0414\u0430\u0431\u0440\u043e\u0446\u0456\u0446\u0430"
+    ],
     "name:bul_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0442\u0438\u0446\u0430"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0442\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Dobrotica"
+    ],
+    "name:por_x_preferred":[
+        "Dobrotitsa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0442\u0438\u0446\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Dobrotitsa"
+    ],
+    "name:srp_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0442\u0438\u0446\u0430"
     ],
     "name:und_x_variant":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1293820889,
-    "wof:lastmodified":1537587686,
+    "wof:lastmodified":1564177046,
     "wof:name":"Dobrotitsa",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

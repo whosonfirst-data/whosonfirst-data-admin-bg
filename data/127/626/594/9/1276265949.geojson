@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0441\u0438\u043d\u0446\u0438"
     ],
+    "name:fra_x_preferred":[
+        "Busintsi"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0441\u0438\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Busin\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0441\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0441\u0438\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Bussinzi",
         "Busintsi"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276265949,
-    "wof:lastmodified":1537587722,
+    "wof:lastmodified":1564177114,
     "wof:name":"Busintsi",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

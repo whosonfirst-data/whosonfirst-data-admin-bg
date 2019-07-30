@@ -31,6 +31,12 @@
     "name:bul_x_variant":[
         "\u0421\u0443\u043a\u0430\u043b\u0438"
     ],
+    "name:mya_x_preferred":[
+        "\u1005\u102f\u1000\u101c\u102d\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:shn_x_preferred":[
+        "\u1078\u102f\u1075\u101c\u102d\u104a \u101d\u1035\u1004\u103a\u1038"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226595531,
-    "wof:lastmodified":1537587810,
+    "wof:lastmodified":1564177698,
     "wof:name":"Sukali",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

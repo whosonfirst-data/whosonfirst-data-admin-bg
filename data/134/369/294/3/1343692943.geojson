@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0443\u044f"
     ],
+    "name:bul_x_variant":[
+        "\u0421\u0442\u0440\u0443\u044f"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u062a\u0631\u0648\u06cc\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u044f"
+    ],
+    "name:ron_x_preferred":[
+        "Struia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u044f"
+    ],
     "name:und_x_variant":[
         "Khadzhimakhlesi",
         "Manastiretz",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1343692943,
-    "wof:lastmodified":1537587326,
+    "wof:lastmodified":1564176966,
     "wof:name":"Struya",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

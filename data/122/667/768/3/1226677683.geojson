@@ -27,16 +27,56 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u044a\u0440\u044a\u043d"
     ],
     "name:bul_x_variant":[
+        "Taran",
+        "\u0422\u0430\u0440\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
         "Taran"
+    ],
+    "name:deu_x_preferred":[
+        "Taran"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Taran"
+    ],
+    "name:nds_x_preferred":[
+        "Taran"
+    ],
+    "name:pol_x_preferred":[
+        "Taran"
+    ],
+    "name:por_x_preferred":[
+        "Taran"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Taran"
+    ],
+    "name:swe_x_preferred":[
+        "Taran"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Tirin",
         "T\u0103r\u0103n",
         "T\u016dr\u016dn"
+    ],
+    "name:uzb_x_preferred":[
+        "Taran"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +99,7 @@
         }
     ],
     "wof:id":1226677683,
-    "wof:lastmodified":1537587292,
+    "wof:lastmodified":1564177696,
     "wof:name":"Taran",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

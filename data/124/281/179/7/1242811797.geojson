@@ -25,8 +25,17 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Stankovo"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:hun_x_preferred":[
+        "Stankovo"
+    ],
+    "name:slv_x_preferred":[
+        "Stankovo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1242811797,
-    "wof:lastmodified":1537587338,
+    "wof:lastmodified":1564177549,
     "wof:name":"Stankovo",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

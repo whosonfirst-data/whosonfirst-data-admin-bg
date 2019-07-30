@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u0438\u0439\u0446\u0438\u0442\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0633\u06cc\u06cc\u062a\u0633\u06cc\u062a\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0441\u0438\u0439\u0446\u0438\u0442\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Kisijcite"
+    ],
+    "name:ron_x_preferred":[
+        "Kisii\u021bite"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0441\u0438\u0439\u0446\u0438\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0441\u0456\u0439\u0446\u0456\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Kiseits\u016d",
         "Kisiytsite"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1226373027,
-    "wof:lastmodified":1537587562,
+    "wof:lastmodified":1564177754,
     "wof:name":"Kisiytsite",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

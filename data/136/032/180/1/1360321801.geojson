@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0441\u043a\u0430"
     ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u0430"
+    ],
+    "name:sqi_x_preferred":[
+        "Lajthiz\u00eb"
+    ],
     "name:und_x_variant":[
         "Lyeska",
         "Leska"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1360321801,
-    "wof:lastmodified":1537587520,
+    "wof:lastmodified":1564177455,
     "wof:name":"Leska",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

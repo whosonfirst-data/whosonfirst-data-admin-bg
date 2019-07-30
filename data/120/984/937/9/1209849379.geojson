@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0426\u0438\u043a\u043b\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u06cc\u06a9\u0644\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0426\u0438\u043a\u043b\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "\u021aiklovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u043a\u043b\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0438\u043a\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Ziklewo",
         "Tsiklvovo",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1209849379,
-    "wof:lastmodified":1537587297,
+    "wof:lastmodified":1564177221,
     "wof:name":"Tsiklovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

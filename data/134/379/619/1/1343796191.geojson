@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0441\u0438\u043d"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0438\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Bersin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0441\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Berssin",
         "Bersin"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1343796191,
-    "wof:lastmodified":1537587756,
+    "wof:lastmodified":1564176940,
     "wof:name":"Bersin",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

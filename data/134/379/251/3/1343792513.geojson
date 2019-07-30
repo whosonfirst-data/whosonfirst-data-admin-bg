@@ -31,6 +31,12 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0432\u0430\u0447\u0435\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kovachevtsi"
+    ],
+    "name:swe_x_preferred":[
+        "Kovachevtsi"
+    ],
     "name:und_x_variant":[
         "Kovatchevtzi",
         "Kova\u010devci",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1343792513,
-    "wof:lastmodified":1537587544,
+    "wof:lastmodified":1564176942,
     "wof:name":"Kovachevtsi",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Goritsa"
+    ],
+    "name:fra_x_preferred":[
+        "Goritsa"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Gori\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Goritsa"
+    ],
     "name:und_x_variant":[
         "Tolbeler",
         "Gorica",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1259419849,
-    "wof:lastmodified":1537587623,
+    "wof:lastmodified":1564177633,
     "wof:name":"Goritsa",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

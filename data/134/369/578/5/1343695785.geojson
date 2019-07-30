@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043f\u0441\u043a\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u067e\u0633\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043f\u0441\u043a\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Popsko"
+    ],
+    "name:ron_x_preferred":[
+        "Popsko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Papa\u017eko",
         "Popovsko",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1343695785,
-    "wof:lastmodified":1537587415,
+    "wof:lastmodified":1564176969,
     "wof:name":"Popsko",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

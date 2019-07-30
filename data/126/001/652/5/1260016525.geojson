@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u0441\u043b\u0430\u0432"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u0633\u0644\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u0441\u043b\u0430\u0432"
+    ],
+    "name:ron_x_preferred":[
+        "Velislav"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u0441\u043b\u0430\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u0441\u043b\u0430\u0432"
+    ],
     "name:und_x_variant":[
         "Feklach",
         "Vekil\u2019agach",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1260016525,
-    "wof:lastmodified":1537587282,
+    "wof:lastmodified":1564177348,
     "wof:name":"Velislav",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

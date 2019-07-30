@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u043a\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06a9\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "We\u0142kowo"
+    ],
+    "name:ron_x_preferred":[
+        "Velkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tsareto",
         "Velkovo"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1209250585,
-    "wof:lastmodified":1537587282,
+    "wof:lastmodified":1564177243,
     "wof:name":"Velkovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

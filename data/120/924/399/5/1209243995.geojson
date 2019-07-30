@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0417\u0438\u043c\u0435\u0432\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Zimevica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0645\u0648\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0438\u043c\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Zimewica"
+    ],
+    "name:ron_x_preferred":[
+        "Zimevi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u043c\u0435\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Zimevitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0438\u043c\u0435\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Simewiza",
         "Zimevitsa"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1209243995,
-    "wof:lastmodified":1537587234,
+    "wof:lastmodified":1564177227,
     "wof:name":"Zimevitsa",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

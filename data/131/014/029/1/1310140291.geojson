@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0439\u043d\u0430"
     ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0439\u043d\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Pejna"
+    ],
+    "name:ron_x_preferred":[
+        "Peina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0439\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0439\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Pyeyna",
         "Peina",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1310140291,
-    "wof:lastmodified":1537587429,
+    "wof:lastmodified":1564177383,
     "wof:name":"Peyna",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

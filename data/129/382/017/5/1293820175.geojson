@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0440\u0442\u0438\u0442\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Portitovci"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u06cc\u062a\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0438\u0442\u043e\u0432\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Portitovtsi"
+    ],
+    "name:ron_x_preferred":[
+        "Portitov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0438\u0442\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Portitovtsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u0440\u0442\u0438\u0442\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Portitowzi",
         "Portitovtsi"
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1293820175,
-    "wof:lastmodified":1537587415,
+    "wof:lastmodified":1564177046,
     "wof:name":"Portitovtsi",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

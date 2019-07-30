@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u043a\u043b\u0438\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06a9\u0644\u06cc\u0646\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0430\u043a\u043b\u0438\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Vaklino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043a\u043b\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043a\u043b\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Karamanl\u0103",
         "Caramanl\u00e2",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1193198277,
-    "wof:lastmodified":1537587288,
+    "wof:lastmodified":1564177333,
     "wof:name":"Vaklino",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

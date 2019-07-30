@@ -32,6 +32,24 @@
     "name:bul_x_variant":[
         "Razhenovo"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0698\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u044b\u0436\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Ry\u017cenowo"
+    ],
+    "name:ron_x_preferred":[
+        "R\u0103jenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u044b\u0436\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0436\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Belenlii",
         "R\u0103shenowo",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1327168947,
-    "wof:lastmodified":1537587377,
+    "wof:lastmodified":1564176906,
     "wof:name":"Razhenovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

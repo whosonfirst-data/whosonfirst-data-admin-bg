@@ -31,6 +31,24 @@
     "name:bul_x_variant":[
         "\u0414\u0440\u043e\u043f\u043b\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Dropla"
+    ],
+    "name:fra_x_preferred":[
+        "Dropla"
+    ],
+    "name:ron_x_preferred":[
+        "Dropla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u043e\u043f\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dropla"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u043e\u043f\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1343298097,
-    "wof:lastmodified":1537587793,
+    "wof:lastmodified":1564176985,
     "wof:name":"Dropla",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

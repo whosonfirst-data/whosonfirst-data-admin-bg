@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u0440\u0441\u043a\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0633\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u0440\u0441\u043a\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Versko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0440\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0440\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Imamlar",
         "Wersko",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1276795783,
-    "wof:lastmodified":1537587280,
+    "wof:lastmodified":1564177168,
     "wof:name":"Versko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

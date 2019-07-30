@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u0423\u0439\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0646\u0648 \u0627\u0648\u06cc\u0646\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0423\u0439\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Gorno Uino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0423\u0439\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u0454 \u0423\u0439\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Ujno",
         "Gorno Uino",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1293820971,
-    "wof:lastmodified":1537587614,
+    "wof:lastmodified":1564177044,
     "wof:name":"Gorno Uyno",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

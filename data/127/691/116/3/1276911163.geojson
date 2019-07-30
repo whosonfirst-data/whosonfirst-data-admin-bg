@@ -32,6 +32,24 @@
     "name:bul_x_variant":[
         "Sabotkovtsi"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0628\u0648\u062a\u06a9\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u044b\u0431\u043e\u0442\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Sybotkowci"
+    ],
+    "name:ron_x_preferred":[
+        "S\u0103botkov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044b\u0431\u043e\u0442\u043a\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0431\u043e\u0442\u043a\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "S\u0103botkowzi",
         "Subotkovts\u016d",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276911163,
-    "wof:lastmodified":1537587325,
+    "wof:lastmodified":1564177187,
     "wof:name":"Sabotkovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

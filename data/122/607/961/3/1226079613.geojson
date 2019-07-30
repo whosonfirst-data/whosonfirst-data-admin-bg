@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u044f\u0433\u043e\u0432\u0435\u0446"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc\u0627\u06af\u0648\u0648\u062a\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u044f\u0433\u043e\u0432\u0435\u0446"
+    ],
+    "name:ron_x_preferred":[
+        "Breagove\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044f\u0433\u043e\u0432\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u044f\u0433\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Gedikler",
         "Bregowez",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1226079613,
-    "wof:lastmodified":1537587730,
+    "wof:lastmodified":1564177761,
     "wof:name":"Bryagovets",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

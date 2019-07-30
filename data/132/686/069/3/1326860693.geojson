@@ -27,11 +27,65 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u043a"
+    ],
     "name:bul_x_preferred":[
+        "\u0411\u0443\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Buk"
+    ],
+    "name:deu_x_preferred":[
+        "Buk"
+    ],
+    "name:epo_x_preferred":[
+        "Buk"
+    ],
+    "name:est_x_preferred":[
+        "Buk"
+    ],
+    "name:fra_x_preferred":[
+        "Buk"
+    ],
+    "name:jav_x_preferred":[
+        "Buk"
+    ],
+    "name:lav_x_preferred":[
+        "Buka"
+    ],
+    "name:msa_x_preferred":[
+        "Buk"
+    ],
+    "name:nld_x_preferred":[
+        "Buk"
+    ],
+    "name:pol_x_preferred":[
+        "Buk"
+    ],
+    "name:por_x_preferred":[
+        "Buk"
+    ],
+    "name:ron_x_preferred":[
+        "Buk"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u043a"
+    ],
+    "name:szl_x_preferred":[
+        "Buk"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u0443\u043a"
     ],
     "name:und_x_variant":[
         "Almal\u016d Dere",
+        "Buk"
+    ],
+    "name:vie_x_preferred":[
         "Buk"
     ],
     "src:geom":"geonames",
@@ -55,7 +109,7 @@
         }
     ],
     "wof:id":1326860693,
-    "wof:lastmodified":1537587728,
+    "wof:lastmodified":1564176844,
     "wof:name":"Buk",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

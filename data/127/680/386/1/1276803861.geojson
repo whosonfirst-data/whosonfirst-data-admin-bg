@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u043d\u0430 \u0440\u0435\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0645\u0646\u0646\u0627 \u0631\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u0430-\u0420\u0435\u043a\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Kamenna reka"
+    ],
+    "name:ron_x_preferred":[
+        "Kamenna Reka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u0430-\u0420\u0435\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u043d\u0430 \u0420\u0435\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Kashl\u016d Dere",
         "Kamenna-Ryeka",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1276803861,
-    "wof:lastmodified":1537587580,
+    "wof:lastmodified":1564177128,
     "wof:name":"Kamenna Reka",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

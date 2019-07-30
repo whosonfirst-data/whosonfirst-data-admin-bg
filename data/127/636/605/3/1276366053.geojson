@@ -32,6 +32,24 @@
     "name:bul_x_variant":[
         "Huhla"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0647\u0644\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0425\u0443\u0445\u043b\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Chuch\u0142a"
+    ],
+    "name:ron_x_preferred":[
+        "Huhla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0445\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0445\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Chuchla",
         "Khukhla"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1276366053,
-    "wof:lastmodified":1537587565,
+    "wof:lastmodified":1564177190,
     "wof:name":"Huhla",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

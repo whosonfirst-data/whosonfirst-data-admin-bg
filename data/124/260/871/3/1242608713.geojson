@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0435\u0432\u0446\u0438"
     ],
+    "name:fra_x_preferred":[
+        "Koevtsi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0435\u0432\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Koewzi",
         "Koevtsi"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1242608713,
-    "wof:lastmodified":1537587557,
+    "wof:lastmodified":1564177558,
     "wof:name":"Koevtsi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

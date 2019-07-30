@@ -27,11 +27,32 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0647\u0644\u064a\u0634"
+    ],
     "name:bul_x_preferred":[
         "\u0416\u044a\u043b\u0442\u0435\u0448"
     ],
     "name:bul_x_variant":[
         "Zhaltesh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0627\u0644\u062a\u0634"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0435\u043b\u0442\u0435\u0448"
+    ],
+    "name:pol_x_preferred":[
+        "\u017by\u0142tesz"
+    ],
+    "name:ron_x_preferred":[
+        "J\u0103lte\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043b\u0442\u0435\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u043b\u0442\u0435\u0448"
     ],
     "name:und_x_variant":[
         "Sh\u0103ltesch",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1293037597,
-    "wof:lastmodified":1537587236,
+    "wof:lastmodified":1564177067,
     "wof:name":"Zhaltesh",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -32,6 +32,24 @@
     "name:bul_x_variant":[
         "\u0421\u0430\u043c\u0443\u0438\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Samuilovo"
+    ],
+    "name:fra_x_preferred":[
+        "Samouilovo"
+    ],
+    "name:ron_x_preferred":[
+        "Samuilovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0443\u0438\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Samuilovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Aleksievo",
         "Samujlowo",
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1260325525,
-    "wof:lastmodified":1537587778,
+    "wof:lastmodified":1564177366,
     "wof:name":"Samuilovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

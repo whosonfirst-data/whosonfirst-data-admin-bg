@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0435\u043d\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Kostenets"
+    ],
+    "name:epo_x_preferred":[
+        "Kostenec"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0633\u062a\u0646\u062a\u0633"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e1\u10e2\u10d4\u10dc\u10d4\u10ea\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Kostene\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043d\u0435\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Kostenets"
+    ],
+    "name:swe_x_preferred":[
+        "Kostenets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0441\u0442\u0435\u043d\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Kostenetz",
         "Kostenec",
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1292942263,
-    "wof:lastmodified":1537587546,
+    "wof:lastmodified":1564177021,
     "wof:name":"Kostenets",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

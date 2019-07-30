@@ -29,6 +29,15 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u0435\u0448"
     ],
+    "name:deu_x_preferred":[
+        "Golesh"
+    ],
+    "name:msa_x_preferred":[
+        "Gole\u0161"
+    ],
+    "name:nno_x_preferred":[
+        "Gole\u0161"
+    ],
     "name:und_x_variant":[
         "Golesch",
         "Doln Golezh",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293624965,
-    "wof:lastmodified":1537587630,
+    "wof:lastmodified":1564177008,
     "wof:name":"Golesh",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

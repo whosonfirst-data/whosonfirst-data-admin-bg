@@ -31,6 +31,15 @@
     "name:bul_x_preferred":[
         "\u0426\u0432\u044f\u0442\u043e\u0432\u043e"
     ],
+    "name:ron_x_preferred":[
+        "\u021aveatovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0432\u044f\u0442\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0432\u044f\u0442\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Zwetewo",
         "Al K\u2019oy",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1225978207,
-    "wof:lastmodified":1537587295,
+    "wof:lastmodified":1564177720,
     "wof:name":"Tsvyatovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

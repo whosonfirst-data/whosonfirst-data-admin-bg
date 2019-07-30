@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u043a\u043e\u0432\u0441\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Benkovski"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043d\u043a\u043e\u0432\u0441\u043a\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Benkowski"
+    ],
+    "name:ron_x_preferred":[
+        "Benkovski"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u043a\u043e\u0432\u0441\u043a\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d\u043a\u043e\u0432\u0441\u044c\u043a\u0438\u0439"
+    ],
     "name:und_x_variant":[
         "Khadzhi Sinanlar",
         "Benkowski",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1260318011,
-    "wof:lastmodified":1537587757,
+    "wof:lastmodified":1564177342,
     "wof:name":"Benkovski",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

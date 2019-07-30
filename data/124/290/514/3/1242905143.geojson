@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Konevo"
+    ],
+    "name:deu_x_preferred":[
+        "Konewo"
+    ],
+    "name:fra_x_preferred":[
+        "Konevo"
+    ],
+    "name:pol_x_preferred":[
+        "Koniewo"
+    ],
+    "name:ron_x_preferred":[
+        "Konevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043d\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Konevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043d\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "At K\u2019oy",
         "Atchio",
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1242905143,
-    "wof:lastmodified":1537587552,
+    "wof:lastmodified":1564177596,
     "wof:name":"Konevo",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

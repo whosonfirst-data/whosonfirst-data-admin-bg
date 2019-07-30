@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0431\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Robovo"
+    ],
+    "name:hun_x_preferred":[
+        "Robovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u043e\u0431\u043e\u0432\u043e"
+    ],
+    "name:sqi_x_preferred":[
+        "Robova"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0431\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kul K\u2019oy",
         "Robowo",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1243008051,
-    "wof:lastmodified":1537587385,
+    "wof:lastmodified":1564177514,
     "wof:name":"Robovo",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

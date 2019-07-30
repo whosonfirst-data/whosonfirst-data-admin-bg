@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0414\u0443\u0448\u0438\u043d\u043a\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dushinkovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0634\u06cc\u0646\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0443\u0448\u0438\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Du\u0219inkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0448\u0438\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dusjinkovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0448\u0438\u043d\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Dzhanbashli",
         "Dushinkovo"
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1209251703,
-    "wof:lastmodified":1537587656,
+    "wof:lastmodified":1564177243,
     "wof:name":"Dushinkovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

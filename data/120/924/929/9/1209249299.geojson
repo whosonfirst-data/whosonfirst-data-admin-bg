@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u043e\u043f\u043e\u043b\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Belopolci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u067e\u0648\u0644\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u043f\u043e\u043b\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Be\u0142opo\u0142ci"
+    ],
+    "name:ron_x_preferred":[
+        "Belopol\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u043f\u043e\u043b\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Belopoltsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u043f\u043e\u043b\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Belopolzi",
         "Akcha Alan",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1209249299,
-    "wof:lastmodified":1537587758,
+    "wof:lastmodified":1564177235,
     "wof:name":"Belopoltsi",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

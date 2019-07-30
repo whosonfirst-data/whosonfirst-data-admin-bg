@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0413\u0435\u043d\u0447\u043e\u0432\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u0686\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0435\u043d\u0447\u043e\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Genczowci"
+    ],
+    "name:ron_x_preferred":[
+        "Ghenciov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u043d\u0447\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u043d\u0447\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Peshterite",
         "Genchevts\u016d",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1360121377,
-    "wof:lastmodified":1537587433,
+    "wof:lastmodified":1564177425,
     "wof:name":"Genchovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

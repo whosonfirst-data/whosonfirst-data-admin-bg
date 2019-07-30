@@ -33,6 +33,33 @@
     "name:bul_x_variant":[
         "Vrav"
     ],
+    "name:ceb_x_preferred":[
+        "Vr\u016dv"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0627\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10e0\u10d8\u10d5\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0440\u044b\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Vrav"
+    ],
+    "name:ron_x_preferred":[
+        "Vr\u0103v"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u044b\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Vr\u016dv"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0438\u0432"
+    ],
     "name:und_x_variant":[
         "V\u016drv",
         "Vr\u0103v",
@@ -63,7 +90,7 @@
         }
     ],
     "wof:id":1343595167,
-    "wof:lastmodified":1537587265,
+    "wof:lastmodified":1564176957,
     "wof:name":"Vrav",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

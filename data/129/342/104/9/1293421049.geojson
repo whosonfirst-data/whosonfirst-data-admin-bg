@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0415\u043c\u0435\u043d"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10db\u10d4\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042d\u043c\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Emen"
+    ],
+    "name:ron_x_preferred":[
+        "Emen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043c\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u043c\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Yamen",
         "Emen"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1293421049,
-    "wof:lastmodified":1537587649,
+    "wof:lastmodified":1564177082,
     "wof:name":"Emen",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

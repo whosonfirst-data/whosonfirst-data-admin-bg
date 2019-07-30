@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0449\u0435\u0440\u0441\u043a\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0634\u062a\u0631\u0633\u06a9\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0448\u0442\u0435\u0440\u0441\u043a\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Pesztersko"
+    ],
+    "name:ron_x_preferred":[
+        "Pe\u0219tersko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0448\u0442\u0435\u0440\u0441\u043a\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0448\u0442\u0435\u0440\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "K\u2019opeklii",
         "Peschtersko",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1326459683,
-    "wof:lastmodified":1537587433,
+    "wof:lastmodified":1564176846,
     "wof:name":"Peshtersko",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

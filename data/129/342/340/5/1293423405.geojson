@@ -29,6 +29,27 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043d\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Belenci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0646\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Belen\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u043d\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Belentsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Byelents\u016d",
         "Belenzi",
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293423405,
-    "wof:lastmodified":1537587762,
+    "wof:lastmodified":1564177086,
     "wof:name":"Belentsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

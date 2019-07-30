@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0411\u043e\u0442\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dolno Botevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648 \u0628\u0648\u062a\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Botevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dolno Botevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Dolno Bot\u2019ovo",
         "Dolno-Botjowo",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1293235251,
-    "wof:lastmodified":1537587678,
+    "wof:lastmodified":1564177037,
     "wof:name":"Dolno Botevo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

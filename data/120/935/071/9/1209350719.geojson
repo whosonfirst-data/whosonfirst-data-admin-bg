@@ -33,6 +33,21 @@
     "name:bul_x_variant":[
         "\u0420\u0443\u0447\u0435\u0439"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0686\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0443\u0447\u0435\u0439"
+    ],
+    "name:ron_x_preferred":[
+        "Rucei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0447\u0435\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0447\u0435\u0439"
+    ],
     "name:und_x_variant":[
         "Sarp Dere",
         "Ruchey",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1209350719,
-    "wof:lastmodified":1537587381,
+    "wof:lastmodified":1564177262,
     "wof:name":"Ruchey",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

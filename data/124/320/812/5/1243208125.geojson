@@ -29,6 +29,9 @@
     "name:bul_x_preferred":[
         "\u0428\u0443\u043c\u0430"
     ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u043c\u0430"
+    ],
     "name:und_x_variant":[
         "Schuma",
         "Shuma"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243208125,
-    "wof:lastmodified":1537587362,
+    "wof:lastmodified":1564177603,
     "wof:name":"Shuma",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

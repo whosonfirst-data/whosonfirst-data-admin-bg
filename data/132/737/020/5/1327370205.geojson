@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0441\u0435\u043b\u0435\u0446"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u0633\u0644\u062a\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0441\u0435\u043b\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Dobroselec"
+    ],
+    "name:ron_x_preferred":[
+        "Dobrosele\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0441\u0435\u043b\u0435\u0446"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u0441\u0435\u043b\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Yavuz Dere",
         "Dobrosselez",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1327370205,
-    "wof:lastmodified":1537587686,
+    "wof:lastmodified":1564176828,
     "wof:name":"Dobroselets",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

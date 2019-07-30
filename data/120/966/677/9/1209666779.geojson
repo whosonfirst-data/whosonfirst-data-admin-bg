@@ -26,8 +26,29 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0421\u043f\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0421\u043f\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648 \u0633\u067e\u0627\u0646\u0686\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0421\u043f\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u0421\u043f\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Dolno Spancevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0421\u043f\u0430\u043d\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u0421\u043f\u0430\u043d\u0447\u0435\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Dolno Spantschewo",
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1209666779,
-    "wof:lastmodified":1537587675,
+    "wof:lastmodified":1564177261,
     "wof:name":"Dolno Spanchevo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

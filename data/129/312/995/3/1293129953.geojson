@@ -31,8 +31,38 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043d\u043e"
     ],
+    "name:cat_x_preferred":[
+        "Velino"
+    ],
+    "name:ceb_x_preferred":[
+        "Fiume Velino"
+    ],
+    "name:deu_x_preferred":[
+        "Velino"
+    ],
+    "name:epo_x_preferred":[
+        "Velino"
+    ],
+    "name:est_x_preferred":[
+        "Velino j\u00f5gi"
+    ],
+    "name:fra_x_preferred":[
+        "Velino"
+    ],
+    "name:ita_x_preferred":[
+        "Velino"
+    ],
+    "name:lat_x_preferred":[
+        "Velinus"
+    ],
     "name:ota_x_preferred":[
         "\u0645\u06cc\u0631\u0627\u062e\u0648\u0631"
+    ],
+    "name:pol_x_preferred":[
+        "Velino"
+    ],
+    "name:por_x_preferred":[
+        "Rio Velino"
     ],
     "name:und_x_variant":[
         "Doktor Stambolsk",
@@ -42,6 +72,9 @@
         "Imrikhod",
         "Mirahur",
         "Velino"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u5229\u8afe\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +97,7 @@
         }
     ],
     "wof:id":1293129953,
-    "wof:lastmodified":1537587283,
+    "wof:lastmodified":1564177039,
     "wof:name":"Velino",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

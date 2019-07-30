@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u0441"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0441"
+    ],
+    "name:pol_x_preferred":[
+        "Wis"
+    ],
+    "name:ron_x_preferred":[
+        "Vis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0441"
+    ],
     "name:und_x_variant":[
         "Wis",
         "Vis K\u2019oy",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1343594993,
-    "wof:lastmodified":1537587276,
+    "wof:lastmodified":1564176955,
     "wof:name":"Vis",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

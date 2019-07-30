@@ -29,6 +29,15 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0430\u0432\u0435\u0435\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Slaveevo"
+    ],
+    "name:ron_x_preferred":[
+        "Slaveevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0430\u0432\u0435\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tokchilar",
         "Slawewo",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209257169,
-    "wof:lastmodified":1537587355,
+    "wof:lastmodified":1564177243,
     "wof:name":"Slaveevo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

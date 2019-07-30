@@ -26,8 +26,113 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u043e\u0440"
+    ],
+    "name:bos_x_preferred":[
+        "Bor"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Bor"
+    ],
+    "name:ceb_x_preferred":[
+        "Bor"
+    ],
+    "name:ces_x_preferred":[
+        "Bor"
+    ],
+    "name:dan_x_preferred":[
+        "Bor"
+    ],
+    "name:deu_x_preferred":[
+        "Bor"
+    ],
+    "name:fin_x_preferred":[
+        "Bor"
+    ],
+    "name:fra_x_preferred":[
+        "Bor"
+    ],
+    "name:frr_x_preferred":[
+        "Bor"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Bor"
+    ],
+    "name:hun_x_preferred":[
+        "Bor"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0580"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0440"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0440"
+    ],
+    "name:myv_x_preferred":[
+        "\u041a\u0430\u043b\u0433\u043e\u0434\u043e \u043c\u0430\u0440\u044c"
+    ],
+    "name:nds_x_preferred":[
+        "Bor"
+    ],
+    "name:nld_x_preferred":[
+        "Bor"
+    ],
+    "name:nno_x_preferred":[
+        "Bor"
+    ],
+    "name:nor_x_preferred":[
+        "Bor"
+    ],
+    "name:oci_x_preferred":[
+        "Bor"
+    ],
+    "name:pol_x_preferred":[
+        "Bor"
+    ],
+    "name:por_x_preferred":[
+        "Bor"
+    ],
+    "name:ron_x_preferred":[
+        "Bor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Bor"
+    ],
+    "name:slk_x_preferred":[
+        "Bor"
+    ],
+    "name:slv_x_preferred":[
+        "Bor"
+    ],
+    "name:spa_x_preferred":[
+        "Bor"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Bor"
+    ],
+    "name:tur_x_preferred":[
+        "Bor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0440"
+    ],
+    "name:vep_x_preferred":[
+        "Bor"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +155,7 @@
         }
     ],
     "wof:id":1326764631,
-    "wof:lastmodified":1537587744,
+    "wof:lastmodified":1564176877,
     "wof:name":"Bor",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

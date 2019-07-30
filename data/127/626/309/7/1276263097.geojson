@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0413\u043b\u0430\u0432\u0430\u043d\u043e\u0432\u0446\u0438"
     ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "G\u0142awanowci"
+    ],
+    "name:ron_x_preferred":[
+        "Glavanov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0430\u043d\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043b\u0430\u0432\u0430\u043d\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Glavanovts\u016d",
         "Glawanowzi",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1276263097,
-    "wof:lastmodified":1537587635,
+    "wof:lastmodified":1564177115,
     "wof:name":"Glavanovtsi",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

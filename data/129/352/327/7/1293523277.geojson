@@ -31,6 +31,18 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Kamenets"
+    ],
+    "name:fra_x_preferred":[
+        "Kamenets"
+    ],
+    "name:ita_x_preferred":[
+        "Kamenec"
+    ],
+    "name:swe_x_preferred":[
+        "Kamenets"
+    ],
     "name:und_x_variant":[
         "Enikioy",
         "Jeniki\u00f6j Saranli",
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1293523277,
-    "wof:lastmodified":1537587581,
+    "wof:lastmodified":1564177016,
     "wof:name":"Kamenets",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

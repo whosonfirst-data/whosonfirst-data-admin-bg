@@ -31,6 +31,39 @@
     "name:bul_x_variant":[
         "Tarnovets"
     ],
+    "name:ceb_x_preferred":[
+        "Izvor"
+    ],
+    "name:deu_x_preferred":[
+        "Izvor"
+    ],
+    "name:fra_x_preferred":[
+        "Izvor"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Izvor"
+    ],
+    "name:pol_x_preferred":[
+        "Izwor"
+    ],
+    "name:ron_x_preferred":[
+        "Izvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:slv_x_preferred":[
+        "Izvor"
+    ],
+    "name:srp_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Izvor"
+    ],
     "name:und_x_variant":[
         "Iswor",
         "Izvor",
@@ -58,7 +91,7 @@
         }
     ],
     "wof:id":1226577539,
-    "wof:lastmodified":1537587589,
+    "wof:lastmodified":1564177705,
     "wof:name":"Izvor",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

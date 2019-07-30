@@ -31,6 +31,36 @@
     "name:bul_x_preferred":[
         "\u0424\u0438\u043b\u0438\u043f\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Filipovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0644\u06cc\u067e\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u043e\u0432\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Filipovo"
+    ],
+    "name:pol_x_preferred":[
+        "Filipowo"
+    ],
+    "name:ron_x_preferred":[
+        "Filipovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Filipovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Filipowo",
         "Filipovo"
@@ -57,7 +87,7 @@
         }
     ],
     "wof:id":1293432585,
-    "wof:lastmodified":1537587645,
+    "wof:lastmodified":1564177103,
     "wof:name":"Filipovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

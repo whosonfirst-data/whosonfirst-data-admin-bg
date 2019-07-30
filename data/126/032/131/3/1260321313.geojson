@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0437\u043b\u0435\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0632\u0644\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Kozlevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0437\u043b\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Marefler",
         "Koslewo",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1260321313,
-    "wof:lastmodified":1537587541,
+    "wof:lastmodified":1564177366,
     "wof:name":"Kozlevo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -31,6 +31,36 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0431\u0443\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Kribul"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0628\u0648\u0644"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10d8\u10d1\u10e3\u10da\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0438\u0431\u0443\u043b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0440\u0430\u0431\u0443\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Kribul"
+    ],
+    "name:ron_x_preferred":[
+        "Kribul"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0438\u0431\u0443\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Kribul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0438\u0431\u0443\u043b"
+    ],
     "name:und_x_variant":[
         "Krabul",
         "Kribul"
@@ -56,7 +86,7 @@
         }
     ],
     "wof:id":1276483745,
-    "wof:lastmodified":1537587536,
+    "wof:lastmodified":1564177171,
     "wof:name":"Kribul",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

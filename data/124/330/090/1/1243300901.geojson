@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043c\u0438\u0449\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0645\u06cc\u0634\u062a\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043c\u0438\u0448\u0442\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Domi\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043c\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043c\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Anl\u016dk",
         "Domischte",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1243300901,
-    "wof:lastmodified":1537587674,
+    "wof:lastmodified":1564177526,
     "wof:name":"Domishte",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

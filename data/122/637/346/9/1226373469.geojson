@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "Ilia"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u06cc\u06cc\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u043b\u0438\u044f"
+    ],
+    "name:ron_x_preferred":[
+        "Ilia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043b\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Ilija",
         "Iliya"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1226373469,
-    "wof:lastmodified":1537587595,
+    "wof:lastmodified":1564177751,
     "wof:name":"Ilia",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

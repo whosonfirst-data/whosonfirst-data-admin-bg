@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0438\u0449\u0435"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10da\u10d8\u10e8\u10e2\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Kalista"
+    ],
+    "name:ron_x_preferred":[
+        "Kali\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Kali\u0161ta",
         "Kalitsa",
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1225981441,
-    "wof:lastmodified":1537587584,
+    "wof:lastmodified":1564177725,
     "wof:name":"Kalishte",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

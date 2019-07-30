@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043a\u043e \u0410\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u06a9\u0648 \u0622\u0633\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e-\u0410\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Ma\u0142ko Asenowo"
+    ],
+    "name:ron_x_preferred":[
+        "Malko Asenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e-\u0410\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u043a\u043e-\u0410\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kyuchuk Khasan Teke",
         "Malko Assenowo",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1327067095,
-    "wof:lastmodified":1537587499,
+    "wof:lastmodified":1564176815,
     "wof:name":"Malko Asenovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

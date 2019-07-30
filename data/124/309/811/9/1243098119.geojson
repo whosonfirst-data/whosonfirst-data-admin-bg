@@ -33,6 +33,36 @@
     "name:bul_x_variant":[
         "Buhovtsi"
     ],
+    "name:ceb_x_preferred":[
+        "Bukhovci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0647\u0648\u0648\u062a\u0633\u06cc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10ee\u10dd\u10d5\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0445\u043e\u0432\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Buhovtsi"
+    ],
+    "name:ron_x_preferred":[
+        "Buhov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0445\u043e\u0432\u0446\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0445\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Buchovtsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0445\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Buchowzi",
         "Buhlar",
@@ -63,7 +93,7 @@
         }
     ],
     "wof:id":1243098119,
-    "wof:lastmodified":1537587728,
+    "wof:lastmodified":1564177522,
     "wof:name":"Buhovtsi",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

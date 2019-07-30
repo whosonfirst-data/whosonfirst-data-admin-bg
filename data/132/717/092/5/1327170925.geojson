@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0427\u0443\u043a\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Tchoukovo"
+    ],
+    "name:pol_x_preferred":[
+        "Czukowo"
+    ],
+    "name:ron_x_preferred":[
+        "Ciukovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Tokmakl\u016d Dere",
         "Tschukowo",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1327170925,
-    "wof:lastmodified":1537587701,
+    "wof:lastmodified":1564176904,
     "wof:name":"Chukovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

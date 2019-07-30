@@ -32,6 +32,18 @@
     "name:bul_x_variant":[
         "Bohova"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043e\u0445\u043e\u0432\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Bohova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0445\u043e\u0432\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0445\u043e\u0432\u0430"
+    ],
     "name:und_x_variant":[
         "Bokhoza",
         "Bokhova"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1343692865,
-    "wof:lastmodified":1537587745,
+    "wof:lastmodified":1564176964,
     "wof:name":"Bohova",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

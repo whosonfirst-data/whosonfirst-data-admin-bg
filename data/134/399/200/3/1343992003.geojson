@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0438\u0432\u043e\u0432\u0438\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Slivovik"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u06cc\u0648\u0648\u0648\u06cc\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043e\u0432\u0438\u043a"
+    ],
+    "name:msa_x_preferred":[
+        "Slivovik"
+    ],
+    "name:pol_x_preferred":[
+        "Sliwowik"
+    ],
+    "name:ron_x_preferred":[
+        "Slivovik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043e\u0432\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u043e\u0432\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Sliwowik",
         "Slivovik"
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1343992003,
-    "wof:lastmodified":1537587352,
+    "wof:lastmodified":1564176927,
     "wof:name":"Slivovik",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u042f\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:ron_x_preferred":[
+        "Iakovi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043a\u043e\u0432\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1309839653,
-    "wof:lastmodified":1537587256,
+    "wof:lastmodified":1564177479,
     "wof:name":"Yakovitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

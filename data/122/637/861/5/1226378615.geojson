@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0413\u0435\u0448\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0634\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0435\u0448\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Gesza"
+    ],
+    "name:ron_x_preferred":[
+        "Ghe\u0219a"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0448\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0448\u0430"
+    ],
     "name:und_x_variant":[
         "Gescha",
         "Gesha"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1226378615,
-    "wof:lastmodified":1537587636,
+    "wof:lastmodified":1564177751,
     "wof:name":"Gesha",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

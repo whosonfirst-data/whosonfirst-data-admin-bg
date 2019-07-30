@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0447\u0438\u043d\u043e"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0447\u0438\u043d\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u0447\u0438\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Buczino"
+    ],
+    "name:ron_x_preferred":[
+        "Bucino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0447\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0447\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Buchan",
         "Buchino"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1344095293,
-    "wof:lastmodified":1537587729,
+    "wof:lastmodified":1564176934,
     "wof:name":"Buchino",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

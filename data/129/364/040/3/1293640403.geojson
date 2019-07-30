@@ -29,11 +29,32 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0438 \u0418\u0437\u0432\u043e\u0440"
     ],
+    "name:bul_x_variant":[
+        "\u041c\u0430\u043b\u0438 \u0438\u0437\u0432\u043e\u0440"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u06cc \u06cc\u0632\u0648\u0648\u0631"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043b\u0438-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:pol_x_preferred":[
+        "Mali izwor"
+    ],
     "name:ron_x_preferred":[
         "Acbunarul Mic"
     ],
+    "name:ron_x_variant":[
+        "Mali Izvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0438-\u0418\u0437\u0432\u043e\u0440"
+    ],
     "name:tur_x_preferred":[
         "K\u00fc\u00e7\u00fck Ak P\u0131nar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u0439 \u0406\u0437\u0432\u043e\u0440"
     ],
     "name:und_x_variant":[
         "Kyuchyuk Ak Bunar",
@@ -63,7 +84,7 @@
         }
     ],
     "wof:id":1293640403,
-    "wof:lastmodified":1537587502,
+    "wof:lastmodified":1564177017,
     "wof:name":"Mali Izvor",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

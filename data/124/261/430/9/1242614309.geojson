@@ -31,7 +31,17 @@
         "\u041c\u0430\u043b\u044a\u043a \u0418\u0437\u0432\u043e\u0440"
     ],
     "name:bul_x_variant":[
-        "Malak Izvor"
+        "Malak Izvor",
+        "\u041c\u0430\u043b\u044a\u043a \u0438\u0437\u0432\u043e\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "Mal\u0103k Izvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u044b\u043a-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0438\u043a-\u0406\u0437\u0432\u043e\u0440"
     ],
     "name:und_x_variant":[
         "Malk Iswor",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1242614309,
-    "wof:lastmodified":1537587495,
+    "wof:lastmodified":1564177551,
     "wof:name":"Malak Izvor",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

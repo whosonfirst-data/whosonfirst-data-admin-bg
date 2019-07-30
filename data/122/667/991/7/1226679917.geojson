@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u0430\u043a\u0438\u0439\u0446\u0438"
     ],
+    "name:ron_x_preferred":[
+        "Trakii\u021bi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0440\u0430\u043a\u0456\u0439\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Leskowo",
         "Lyaskovo",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1226679917,
-    "wof:lastmodified":1537587306,
+    "wof:lastmodified":1564177694,
     "wof:name":"Trakiytsi",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Kolec"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u0446"
+    ],
+    "name:pol_x_preferred":[
+        "Kolec"
+    ],
+    "name:ron_x_preferred":[
+        "Kole\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Kolets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Kolez",
         "Kaz\u016dklii",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1343994197,
-    "wof:lastmodified":1537587555,
+    "wof:lastmodified":1564176926,
     "wof:name":"Kolets",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

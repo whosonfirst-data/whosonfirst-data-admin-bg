@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0435\u0446"
     ],
+    "name:fra_x_preferred":[
+        "Bistrets"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u0441\u0442\u0440\u0435\u0446"
+    ],
     "name:und_x_variant":[
         "Byuyuk-Bunar",
         "Biuiuk Bunar",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209546821,
-    "wof:lastmodified":1537587753,
+    "wof:lastmodified":1564177204,
     "wof:name":"Bistrets",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

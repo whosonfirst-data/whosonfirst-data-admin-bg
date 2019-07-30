@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0427\u043e\u043c\u0430\u043a\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0645\u0627\u06a9\u0648\u0648\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Czomakowo"
+    ],
+    "name:ron_x_preferred":[
+        "Ciomakovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u043c\u0430\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u043c\u0430\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "K\u016dshla",
         "Tschomakowo",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1209846873,
-    "wof:lastmodified":1537587703,
+    "wof:lastmodified":1564177221,
     "wof:name":"Chomakovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

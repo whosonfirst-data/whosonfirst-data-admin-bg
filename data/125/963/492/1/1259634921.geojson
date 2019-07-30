@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u043e \u041b\u0435\u0441\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Novo Leski"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0648\u0648 \u0644\u0633\u06a9\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u041b\u0435\u0441\u043a\u0438"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0435\u0441\u043a\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Novo Leski"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u041b\u0435\u0441\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Novo Leski"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0432\u043e-\u041b\u0435\u0441\u043a\u0438"
+    ],
     "name:und_x_variant":[
         "Leski",
         "Novo Leski"
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1259634921,
-    "wof:lastmodified":1537587460,
+    "wof:lastmodified":1564177630,
     "wof:name":"Novo Leski",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

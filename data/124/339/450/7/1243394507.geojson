@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0449\u0435\u0440\u043d\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0634\u062a\u0631\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u0448\u0442\u0435\u0440\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Pe\u0219terna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0448\u0442\u0435\u0440\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0448\u0442\u0435\u0440\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Peschterna",
         "Peshterna"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1243394507,
-    "wof:lastmodified":1537587433,
+    "wof:lastmodified":1564177537,
     "wof:name":"Peshterna",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

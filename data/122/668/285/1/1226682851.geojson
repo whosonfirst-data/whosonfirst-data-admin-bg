@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u0421\u043b\u0438\u0432\u043a\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Slivka"
+    ],
     "name:und_x_variant":[
         "Iriklii",
         "Sliwka",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1226682851,
-    "wof:lastmodified":1537587352,
+    "wof:lastmodified":1564177703,
     "wof:name":"Slivka",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

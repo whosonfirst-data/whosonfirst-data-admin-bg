@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0417\u0434\u0440\u0430\u0432\u0435\u0446"
     ],
+    "name:fra_x_preferred":[
+        "Zdravets"
+    ],
+    "name:ron_x_preferred":[
+        "Zdrave\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0434\u0440\u0430\u0432\u0435\u0446"
+    ],
     "name:und_x_variant":[
         "Saatlari",
         "Sdrawez",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1242813661,
-    "wof:lastmodified":1537587244,
+    "wof:lastmodified":1564177545,
     "wof:name":"Zdravets",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

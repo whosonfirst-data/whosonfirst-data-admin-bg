@@ -31,7 +31,23 @@
         "\u0416\u044a\u043b\u0442\u0438 \u0420\u0438\u0434"
     ],
     "name:bul_x_variant":[
-        "Zhalti Rid"
+        "Zhalti Rid",
+        "\u0416\u044a\u043b\u0442\u0438 \u0440\u0438\u0434"
+    ],
+    "name:fas_x_preferred":[
+        "\u0698\u0648\u0644\u062a\u06cc \u0631\u06cc\u062f"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0435\u043b\u0442\u0438-\u0420\u0438\u0434"
+    ],
+    "name:ron_x_preferred":[
+        "J\u0103lti Rid"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043b\u0442\u0438-\u0420\u0438\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u043b\u0442\u0438\u0439 \u0420\u0438\u0434"
     ],
     "name:und_x_variant":[
         "Sar\u016d Yar",
@@ -60,7 +76,7 @@
         }
     ],
     "wof:id":1293818295,
-    "wof:lastmodified":1537587235,
+    "wof:lastmodified":1564177090,
     "wof:name":"Zhalti Rid",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

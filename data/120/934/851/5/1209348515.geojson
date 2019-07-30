@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u0421\u043a\u0430\u043b\u0430\u043a"
     ],
+    "name:deu_x_preferred":[
+        "Skalak"
+    ],
+    "name:fra_x_preferred":[
+        "Skalak"
+    ],
+    "name:nds_x_preferred":[
+        "Skalak"
+    ],
+    "name:ron_x_preferred":[
+        "Skalak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u0430\u043b\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u0430\u043b\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "S\u016dra Kaya",
         "Sar\u0103 Kaya",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209348515,
-    "wof:lastmodified":1537587358,
+    "wof:lastmodified":1564177281,
     "wof:name":"Skalak",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

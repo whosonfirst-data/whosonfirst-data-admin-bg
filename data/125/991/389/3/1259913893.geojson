@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0431\u0435\u0434"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0628\u062f"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u0435\u0431\u0435\u0434"
+    ],
+    "name:ron_x_preferred":[
+        "Lebed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0431\u0435\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0431\u0435\u0434"
+    ],
     "name:und_x_variant":[
         "G\u2019oldzhuk",
         "Lebed"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1259913893,
-    "wof:lastmodified":1537587522,
+    "wof:lastmodified":1564177628,
     "wof:name":"Lebed",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

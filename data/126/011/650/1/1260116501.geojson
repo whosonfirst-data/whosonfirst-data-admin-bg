@@ -29,6 +29,15 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u043f\u043e\u043b\u043a\u0430"
     ],
+    "name:ron_x_preferred":[
+        "Topolka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043f\u043e\u043b\u043a\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1260116501,
-    "wof:lastmodified":1537587308,
+    "wof:lastmodified":1564177353,
     "wof:name":"Topolka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

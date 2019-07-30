@@ -33,6 +33,27 @@
     "name:bul_x_variant":[
         "Korkina"
     ],
+    "name:ceb_x_preferred":[
+        "Korkina"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u06a9\u06cc\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0440\u043a\u0438\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Korkina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043a\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Korkina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u043a\u0438\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1326458955,
-    "wof:lastmodified":1537587549,
+    "wof:lastmodified":1564176846,
     "wof:name":"Korkina",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

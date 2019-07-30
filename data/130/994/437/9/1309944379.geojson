@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u044f\u043a"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0646\u06cc\u0627\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u044f\u043a"
+    ],
+    "name:ron_x_preferred":[
+        "Severneak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u044f\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u044f\u043a"
+    ],
     "name:und_x_variant":[
         "Ters Cindu",
         "Severnjak",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1309944379,
-    "wof:lastmodified":1537587368,
+    "wof:lastmodified":1564177494,
     "wof:name":"Severnyak",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

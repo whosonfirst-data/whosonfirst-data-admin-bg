@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u041f\u0447\u0435\u043b\u043d\u0438\u043a"
     ],
+    "name:deu_x_preferred":[
+        "Ptschelnik"
+    ],
+    "name:fra_x_preferred":[
+        "Ptchelnik"
+    ],
+    "name:pol_x_preferred":[
+        "Pcze\u0142nik"
+    ],
+    "name:ron_x_preferred":[
+        "Pcelnik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0447\u0435\u043b\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0447\u0435\u043b\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Kovanl\u016dk",
         "Covanl\u00e2c",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1193194229,
-    "wof:lastmodified":1537587436,
+    "wof:lastmodified":1564177333,
     "wof:name":"Pchelnik",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

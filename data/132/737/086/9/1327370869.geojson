@@ -31,6 +31,24 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0439\u0441\u0442\u043e\u0440\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc\u0633\u062a\u0648\u0631\u0648\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d8\u10e1\u10e2\u10dd\u10e0\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u0439\u0441\u0442\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Maistorovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u0441\u0442\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0439\u0441\u0442\u043e\u0440\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Ryustemler",
         "Majstorowo",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1327370869,
-    "wof:lastmodified":1537587490,
+    "wof:lastmodified":1564176828,
     "wof:name":"Maystorovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

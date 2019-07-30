@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u041a\u044a\u043f\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Kapinovo"
+    ],
+    "name:ron_x_preferred":[
+        "K\u0103pinovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u043f\u0438\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Melekler",
         "Kapinovo",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1242825613,
-    "wof:lastmodified":1537587527,
+    "wof:lastmodified":1564177581,
     "wof:name":"Kapinovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

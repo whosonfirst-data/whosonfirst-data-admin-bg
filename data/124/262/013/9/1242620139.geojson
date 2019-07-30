@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u0431\u0440\u0435\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Gabrene"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0628\u0631\u0646\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0430\u0431\u0440\u0435\u043d\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0430\u0431\u0440\u0435\u043d\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Gabrene"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u0431\u0440\u0435\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Gabrene"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0431\u0440\u0435\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1242620139,
-    "wof:lastmodified":1537587643,
+    "wof:lastmodified":1564177586,
     "wof:name":"Gabrene",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

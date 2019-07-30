@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u0441\u043e\u043a\u0430 \u041c\u043e\u0433\u0438\u043b\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430 \u043c\u043e\u0433\u0438\u043b\u0430"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430-\u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Visoka Moghila"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430-\u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0441\u043e\u043a\u0430 \u041c\u043e\u0433\u0438\u043b\u0430"
+    ],
     "name:und_x_variant":[
         "Wissoka Mogila",
         "Visoka Mogila"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226778421,
-    "wof:lastmodified":1537587274,
+    "wof:lastmodified":1564177742,
     "wof:name":"Visoka Mogila",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

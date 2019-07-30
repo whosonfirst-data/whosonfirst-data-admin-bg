@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043c\u0430\u043d\u0446\u0438"
     ],
+    "name:fra_x_preferred":[
+        "Kalimantsi"
+    ],
+    "name:pol_x_preferred":[
+        "Kalimanci"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043c\u0430\u043d\u0446\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043c\u0430\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043c\u0430\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Gerrekler",
         "Kalimanzi",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1310241305,
-    "wof:lastmodified":1537587585,
+    "wof:lastmodified":1564177371,
     "wof:name":"Kalimantsi",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

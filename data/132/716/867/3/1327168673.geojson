@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u0440\u0437\u0438\u0439\u0441\u043a\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Terzi\u00efsko"
+    ],
+    "name:ron_x_preferred":[
+        "Terziisko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0437\u0438\u0439\u0441\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Tersiisko",
         "Terzeliy",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1327168673,
-    "wof:lastmodified":1537587312,
+    "wof:lastmodified":1564176906,
     "wof:name":"Terziysko",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

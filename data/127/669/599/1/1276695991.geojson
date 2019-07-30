@@ -31,6 +31,18 @@
     "name:bul_x_preferred":[
         "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a"
     ],
+    "name:fra_x_preferred":[
+        "Jeleznik"
+    ],
+    "name:ron_x_preferred":[
+        "Jeleznik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u043a"
+    ],
     "name:und_x_variant":[
         "Kara Demir",
         "Snelesnik",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1276695991,
-    "wof:lastmodified":1537587240,
+    "wof:lastmodified":1564177136,
     "wof:name":"Zheleznik",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

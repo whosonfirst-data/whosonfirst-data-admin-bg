@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0411\u043b\u0430\u0442\u043d\u0438\u0446\u0430"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10da\u10d0\u10e2\u10dc\u10d8\u10ea\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Blatnitsa"
+    ],
+    "name:pol_x_preferred":[
+        "B\u0142atnica"
+    ],
+    "name:ron_x_preferred":[
+        "Blatni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0430\u0442\u043d\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Sar\u016d G\u2019ol",
         "Blatniza",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1327060853,
-    "wof:lastmodified":1537587750,
+    "wof:lastmodified":1564176817,
     "wof:name":"Blatnitsa",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

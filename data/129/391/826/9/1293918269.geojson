@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u0435"
     ],
+    "name:deu_x_preferred":[
+        "Borie"
+    ],
+    "name:fra_x_preferred":[
+        "Borie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1293918269,
-    "wof:lastmodified":1537587744,
+    "wof:lastmodified":1564177001,
     "wof:name":"Borie",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

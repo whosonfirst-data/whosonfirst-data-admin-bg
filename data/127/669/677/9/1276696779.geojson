@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0417\u0430\u043d\u043e\u0433\u0435"
     ],
+    "name:ron_x_preferred":[
+        "Zanoghe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043d\u043e\u0433\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0430\u043d\u043e\u0433\u0435"
+    ],
     "name:und_x_variant":[
         "Sanoge",
         "Zanoge"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1276696779,
-    "wof:lastmodified":1537587246,
+    "wof:lastmodified":1564177137,
     "wof:name":"Zanoge",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

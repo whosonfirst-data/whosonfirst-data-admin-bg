@@ -19,11 +19,65 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:azb_x_preferred":[
+        "\u0631\u0648\u062f\u0648\u0632\u0645"
+    ],
     "name:bul_x_preferred":[
+        "\u0420\u0443\u0434\u043e\u0437\u0435\u043c"
+    ],
+    "name:ces_x_preferred":[
+        "Rudozem"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0695\u0648\u062f\u06c6\u0632\u06ce\u0645"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f\u0648\u0632\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "Rudozem"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0443\u0434\u043e\u0437\u0435\u043c"
+    ],
+    "name:nld_x_preferred":[
+        "Roedozem"
+    ],
+    "name:pol_x_preferred":[
+        "Rudozem"
+    ],
+    "name:por_x_preferred":[
+        "Rudozem"
+    ],
+    "name:ron_x_preferred":[
+        "Rudozem"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0434\u043e\u0437\u0435\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Rudozem"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0443\u0434\u043e\u0437\u0435\u043c"
+    ],
+    "name:tur_x_preferred":[
+        "Palas"
+    ],
+    "name:ukr_x_preferred":[
         "\u0420\u0443\u0434\u043e\u0437\u0435\u043c"
     ],
     "name:unk_x_variant":[
         "Chervenkovgrad"
+    ],
+    "name:vie_x_preferred":[
+        "Rudozem"
+    ],
+    "name:war_x_preferred":[
+        "Rudozem"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u591a\u6fa4\u59c6"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -71,7 +125,7 @@
         }
     ],
     "wof:id":1125834391,
-    "wof:lastmodified":1509394895,
+    "wof:lastmodified":1564177510,
     "wof:name":"Rudozem",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

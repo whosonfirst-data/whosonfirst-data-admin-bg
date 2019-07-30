@@ -30,12 +30,36 @@
     "name:bul_x_preferred":[
         "\u0419\u043e\u043d\u0447\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Yonchovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0646\u0686\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0419\u043e\u043d\u0447\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Ionciovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u043d\u0447\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Jontjovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0419\u043e\u043d\u0447\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kirez T\u016drla",
         "Yonchevo",
         "Jontschowo",
         "Ionchovo",
         "Yonchovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0646\u0686\u0648\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1344191225,
-    "wof:lastmodified":1537587250,
+    "wof:lastmodified":1564176976,
     "wof:name":"Yonchovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

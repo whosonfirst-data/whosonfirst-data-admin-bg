@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0446\u0435\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Katselovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u062a\u0633\u0644\u0648\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10ea\u10d4\u10da\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0446\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Katselovo"
+    ],
+    "name:ron_x_preferred":[
+        "Ka\u021belovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0446\u0435\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Katselovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0446\u0435\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kazelowo",
         "Kacelovo",
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1293230969,
-    "wof:lastmodified":1537587572,
+    "wof:lastmodified":1564177031,
     "wof:name":"Katselovo",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0435\u0432\u0435\u0446"
     ],
+    "name:deu_x_preferred":[
+        "Kruschewez"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u0634\u0648\u062a\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0435\u0432\u0435\u0446"
+    ],
+    "name:ron_x_preferred":[
+        "Kru\u0219eve\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0435\u0432\u0435\u0446"
+    ],
+    "name:spa_x_preferred":[
+        "Krushevets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0435\u0432\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Kruschewez",
         "Kayryak-Kyoi",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1260218611,
-    "wof:lastmodified":1537587532,
+    "wof:lastmodified":1564177358,
     "wof:name":"Krushevets",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

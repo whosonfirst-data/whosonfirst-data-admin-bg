@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0410\u0432\u0440\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Avren"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b2\u03c1\u03b5\u03bd"
+    ],
+    "name:fra_x_preferred":[
+        "Avren"
+    ],
+    "name:nld_x_preferred":[
+        "Avren"
+    ],
+    "name:pol_x_preferred":[
+        "Awren"
+    ],
+    "name:ron_x_preferred":[
+        "Avren"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0432\u0440\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Avren"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0432\u0440\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Arven",
         "Awren",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1310537885,
-    "wof:lastmodified":1537587773,
+    "wof:lastmodified":1564177393,
     "wof:name":"Avren",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "Zhaltika"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u0648\u0644\u062a\u06cc\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0435\u043b\u0442\u0438\u043a\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "J\u0103ltika"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043b\u0442\u0438\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0438\u043b\u0442\u0438\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Zh\u016dltika"
     ],
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1293134675,
-    "wof:lastmodified":1537587235,
+    "wof:lastmodified":1564177054,
     "wof:name":"Zhaltika",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

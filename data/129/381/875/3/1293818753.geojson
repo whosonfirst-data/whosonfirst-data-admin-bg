@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0421\u043a\u043e\u0431\u0435\u043b\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Skobelevo"
+    ],
+    "name:fra_x_preferred":[
+        "Skobelevo"
+    ],
+    "name:pol_x_preferred":[
+        "Skobelewo"
+    ],
+    "name:ron_x_preferred":[
+        "Skobelevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043a\u043e\u0431\u0435\u043b\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Skobelevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043a\u043e\u0431\u0435\u043b\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Metudova",
         "Skobelewo",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1293818753,
-    "wof:lastmodified":1537587357,
+    "wof:lastmodified":1564177091,
     "wof:name":"Skobelevo",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

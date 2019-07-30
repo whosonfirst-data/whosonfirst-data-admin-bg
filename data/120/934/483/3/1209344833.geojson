@@ -32,6 +32,27 @@
     "name:bul_x_variant":[
         "\u0412\u0443\u043a\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u06a9\u0648\u0641\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10e3\u10d9\u10dd\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Vukovo"
+    ],
+    "name:ron_x_preferred":[
+        "Vukovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0443\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Wukowo",
         "Vukovo"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1209344833,
-    "wof:lastmodified":1537587263,
+    "wof:lastmodified":1564177280,
     "wof:name":"Vukovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0646\u0648\u0645\u0648\u0631\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Cernomor\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Ismailch K\u2019oy",
         "\u010cevnomovci",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1326681149,
-    "wof:lastmodified":1537587707,
+    "wof:lastmodified":1564176866,
     "wof:name":"Chernomortsi",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

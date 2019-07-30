@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0411\u043b\u0438\u0437\u043d\u0430\u043a"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06cc\u0632\u0646\u0627\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u043b\u0438\u0437\u043d\u0430\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Bliznak"
+    ],
+    "name:ron_x_preferred":[
+        "Bliznak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043b\u0438\u0437\u043d\u0430\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043b\u0438\u0437\u043d\u0430\u043a"
+    ],
     "name:und_x_variant":[
         "Karaevren",
         "Blisnak",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1209140349,
-    "wof:lastmodified":1537587750,
+    "wof:lastmodified":1564177252,
     "wof:name":"Bliznak",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

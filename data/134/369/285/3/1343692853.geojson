@@ -31,6 +31,12 @@
     "name:bul_x_variant":[
         "\u041e\u0440\u0435\u0445"
     ],
+    "name:ron_x_preferred":[
+        "Oreh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0435\u0445"
+    ],
     "name:und_x_variant":[
         "Orekh"
     ],
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343692853,
-    "wof:lastmodified":1537587793,
+    "wof:lastmodified":1564176968,
     "wof:name":"Oreh",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

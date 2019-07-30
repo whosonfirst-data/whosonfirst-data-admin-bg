@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Nikolovo"
+    ],
+    "name:fra_x_preferred":[
+        "Nikolovo"
+    ],
+    "name:pol_x_preferred":[
+        "Niko\u0142owo"
+    ],
+    "name:ron_x_preferred":[
+        "Nikolovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Nikolovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Eski K\u2019oy",
         "Nikolovo",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1326566359,
-    "wof:lastmodified":1537587464,
+    "wof:lastmodified":1564176851,
     "wof:name":"Nikolovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

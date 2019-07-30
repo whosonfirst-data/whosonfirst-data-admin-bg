@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0435\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Dobrevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Ali Anife",
         "Germantsi",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1242729197,
-    "wof:lastmodified":1537587688,
+    "wof:lastmodified":1564177542,
     "wof:name":"Dobrevo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

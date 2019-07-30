@@ -31,6 +31,24 @@
     "name:bul_x_variant":[
         "\u0412\u0440\u0430\u043a\u0443\u043f\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0627\u06a9\u0648\u067e\u0648\u0648\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0440\u0430\u043a\u0443\u043f\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0440\u0430\u043a\u0443\u043f\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Vrakupovi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0440\u0430\u043a\u0443\u043f\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0440\u0430\u043a\u0443\u043f\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Wrakupowiza",
         "Vrakupovitsa"
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1343512855,
-    "wof:lastmodified":1537587266,
+    "wof:lastmodified":1564176970,
     "wof:name":"Vrakupovitsa",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

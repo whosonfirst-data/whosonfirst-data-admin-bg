@@ -32,6 +32,24 @@
     "name:bul_x_variant":[
         "\u0413\u0443\u0433\u0443\u043b\u044f\u0442"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10e0\u10d2\u10e3\u10da\u10d8\u10d0\u10e2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0443\u0440\u0433\u0443\u043b\u044f\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Gurgulyat"
+    ],
+    "name:ron_x_preferred":[
+        "Gurguleat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u0433\u0443\u043b\u044f\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0440\u0433\u0443\u043b\u044f\u0442"
+    ],
     "name:und_x_variant":[
         "Gurguljat",
         "Gurgulyat"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1226273433,
-    "wof:lastmodified":1537587600,
+    "wof:lastmodified":1564177691,
     "wof:name":"Gurgulyat",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

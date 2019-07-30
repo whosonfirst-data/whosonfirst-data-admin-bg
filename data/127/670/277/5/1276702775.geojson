@@ -29,11 +29,26 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0438\u043d"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u06cc\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0438\u043d"
+    ],
     "name:ota_x_preferred":[
         "\u062f\u0648\u0647 \u062c\u06cc"
     ],
+    "name:ron_x_preferred":[
+        "Dobrin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0438\u043d"
+    ],
     "name:tur_x_preferred":[
         "Deveci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0438\u043d"
     ],
     "name:und_x_variant":[
         "Kamilare",
@@ -70,7 +85,7 @@
         }
     ],
     "wof:id":1276702775,
-    "wof:lastmodified":1537587687,
+    "wof:lastmodified":1564177168,
     "wof:name":"Dobrin",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

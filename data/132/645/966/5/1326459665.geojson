@@ -31,6 +31,15 @@
     "name:bul_x_preferred":[
         "\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:ron_x_preferred":[
+        "Fotinovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Potinovo",
         "Foten",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1326459665,
-    "wof:lastmodified":1537587644,
+    "wof:lastmodified":1564176846,
     "wof:name":"Fotinovo",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

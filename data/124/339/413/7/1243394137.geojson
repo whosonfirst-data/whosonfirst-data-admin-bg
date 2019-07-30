@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043f\u0442\u0435\u043c\u0432\u0440\u0438\u0439\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "\u0421\u0435\u043f\u0442\u0435\u043c\u0432\u0440\u0438\u0439\u0446\u0438"
+    ],
+    "name:fra_x_preferred":[
+        "Septemvri\u00eftsi"
+    ],
+    "name:ron_x_preferred":[
+        "Septemvrii\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043f\u0442\u0435\u043c\u0432\u0440\u0438\u0439\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Tolowiza",
         "Tolovitsa",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1243394137,
-    "wof:lastmodified":1537587369,
+    "wof:lastmodified":1564177530,
     "wof:name":"Septemvriytsi",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

@@ -33,6 +33,21 @@
     "name:bul_x_variant":[
         "Karavelyovo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0627\u0648\u0644\u06cc\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u0435\u043b\u0451\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Karavelovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u0435\u043b\u0451\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0432\u0435\u043b\u044c\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kara Weliowo",
         "Kara Veliler",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1293426435,
-    "wof:lastmodified":1537587574,
+    "wof:lastmodified":1564177083,
     "wof:name":"Karavelyovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

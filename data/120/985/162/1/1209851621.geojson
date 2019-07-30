@@ -33,9 +33,30 @@
     "name:bul_x_variant":[
         "Yabalkovets"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0628\u0627\u0644\u06a9\u0648\u0648\u062a\u0633"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10d1\u10d8\u10da\u10d9\u10dd\u10d5\u10d4\u10ea\u10d8"
+    ],
+    "name:ron_x_preferred":[
+        "Iab\u0103lkove\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0431\u044b\u043b\u043a\u043e\u0432\u0435\u0446"
+    ],
+    "name:tur_x_preferred":[
+        "Almal\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0431\u0438\u043b\u043a\u043e\u0432\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Elmal\u016d Kebir",
         "Yab\u016dlkovets"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0628\u0627\u0644\u06a9\u0648\u0648\u06cc\u0679\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1209851621,
-    "wof:lastmodified":1537587257,
+    "wof:lastmodified":1564177238,
     "wof:name":"Yabalkovets",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

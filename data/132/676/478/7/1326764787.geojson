@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u0432\u0448\u0430"
     ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0435\u0432\u0448\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Nev\u0219a"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0432\u0448\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0432\u0448\u0430"
+    ],
     "name:und_x_variant":[
         "Newscha",
         "Nev\u010da",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1326764787,
-    "wof:lastmodified":1537587465,
+    "wof:lastmodified":1564176875,
     "wof:name":"Nevsha",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

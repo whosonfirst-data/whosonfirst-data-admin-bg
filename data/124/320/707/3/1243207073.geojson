@@ -33,8 +33,29 @@
     "name:bul_x_variant":[
         "Yabalkovo"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0628\u0627\u0644\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u042f\u0431\u044b\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Jaby\u0142kowo"
+    ],
+    "name:ron_x_preferred":[
+        "Iab\u0103lkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u0431\u044b\u043b\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u0431\u0438\u043b\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Yab\u016dlkovo"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0628\u0627\u0644\u06a9\u0648\u0648\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1243207073,
-    "wof:lastmodified":1537587257,
+    "wof:lastmodified":1564177598,
     "wof:name":"Yabalkovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

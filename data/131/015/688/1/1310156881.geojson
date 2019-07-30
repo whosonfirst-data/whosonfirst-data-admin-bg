@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a \u0418\u0432\u0430\u043d\u043e\u0432\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0644\u06a9\u0648\u0648\u0646\u06cc\u06a9 \u0627\u06cc\u0648\u0627\u0646\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a-\u0418\u0432\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Polkovnik Ivanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a-\u0418\u0432\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a-\u0406\u0432\u0430\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kirindzhii",
         "Chiringi",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1310156881,
-    "wof:lastmodified":1537587345,
+    "wof:lastmodified":1564177377,
     "wof:name":"Polkovnik Ivanovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

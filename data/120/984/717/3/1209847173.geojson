@@ -33,6 +33,24 @@
     "name:bul_x_variant":[
         "Mihaltsi"
     ],
+    "name:ceb_x_preferred":[
+        "Mikhalci"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Mihal\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Michaltsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0445\u0430\u043b\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Mihalsti",
         "Michalzi",
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1209847173,
-    "wof:lastmodified":1537587485,
+    "wof:lastmodified":1564177225,
     "wof:name":"Mihaltsi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

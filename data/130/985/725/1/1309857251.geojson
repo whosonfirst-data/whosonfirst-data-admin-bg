@@ -31,6 +31,24 @@
     "name:bul_x_variant":[
         "\u0421\u0435\u043b\u0438\u0449\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:fra_x_preferred":[
+        "Selichte"
+    ],
+    "name:pol_x_preferred":[
+        "Seliszte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043b\u0438\u0448\u0442\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1309857251,
-    "wof:lastmodified":1537587806,
+    "wof:lastmodified":1564177487,
     "wof:name":"Selishte",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

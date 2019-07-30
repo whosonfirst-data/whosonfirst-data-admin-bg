@@ -30,6 +30,12 @@
     "name:bul_x_preferred":[
         "\u0415\u043b\u0435\u043d\u0446\u0438\u0442\u0435"
     ],
+    "name:pol_x_preferred":[
+        "Elencite"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u043b\u0435\u043d\u0446\u0456\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Elentsitye",
         "Elenzite",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1293818043,
-    "wof:lastmodified":1537587650,
+    "wof:lastmodified":1564177091,
     "wof:name":"Elentsite",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

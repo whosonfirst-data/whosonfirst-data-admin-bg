@@ -31,6 +31,18 @@
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u043a\u0430"
     ],
+    "name:dan_x_preferred":[
+        "Bilka"
+    ],
+    "name:deu_x_preferred":[
+        "Bilka"
+    ],
+    "name:fra_x_preferred":[
+        "Bilka"
+    ],
+    "name:isl_x_preferred":[
+        "Bilka"
+    ],
     "name:und_x_variant":[
         "Khif-Makhala",
         "Tschitlischka Machla",
@@ -61,7 +73,7 @@
         }
     ],
     "wof:id":1326761165,
-    "wof:lastmodified":1537587754,
+    "wof:lastmodified":1564176879,
     "wof:name":"Bilka",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

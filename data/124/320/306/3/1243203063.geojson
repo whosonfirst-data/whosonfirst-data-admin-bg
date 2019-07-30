@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u043d\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Nanovica"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0646\u0648\u0648\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u043d\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Nanowica"
+    ],
+    "name:ron_x_preferred":[
+        "Nanovi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043d\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Nanovitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043d\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Ali-Bey-Kanag\u0103",
         "Nanowiza",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1243203063,
-    "wof:lastmodified":1537587469,
+    "wof:lastmodified":1564177597,
     "wof:name":"Nanovitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

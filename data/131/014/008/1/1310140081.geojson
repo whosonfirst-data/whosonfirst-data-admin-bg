@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0436\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Drazhevo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e0\u10d0\u10df\u10d4\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0430\u0436\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Drazhevo"
+    ],
+    "name:pol_x_preferred":[
+        "Dra\u017cewo"
+    ],
+    "name:ron_x_preferred":[
+        "Drajevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0436\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Drazjevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u0436\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Borissowo",
         "Atlii",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1310140081,
-    "wof:lastmodified":1537587667,
+    "wof:lastmodified":1564177382,
     "wof:name":"Drazhevo",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

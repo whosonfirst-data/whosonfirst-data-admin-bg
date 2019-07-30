@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0428\u0438\u0432\u0430\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Shivarovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0648\u0627\u0631\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0428\u0438\u0432\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "\u0218ivarovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u0432\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Sjivarovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0438\u0432\u0430\u0440\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Bogaz-Dere",
         "Ustovo",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1326959075,
-    "wof:lastmodified":1537587364,
+    "wof:lastmodified":1564176863,
     "wof:name":"Shivarovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

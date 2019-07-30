@@ -29,6 +29,33 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u043c\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Krumovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0648\u0645\u0648\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Kroumovo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10e0\u10e3\u10db\u10dd\u10d5\u10dd"
+    ],
+    "name:msa_x_preferred":[
+        "Krumovo"
+    ],
+    "name:pol_x_preferred":[
+        "Krumowo"
+    ],
+    "name:ron_x_preferred":[
+        "Krumovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043c\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0443\u043c\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Gyuyumliy",
         "Krumowo",
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1310037007,
-    "wof:lastmodified":1537587533,
+    "wof:lastmodified":1564177407,
     "wof:name":"Krumovo",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

@@ -33,6 +33,15 @@
     "name:bul_x_variant":[
         "Zlatia"
     ],
+    "name:fra_x_preferred":[
+        "Zlatiya"
+    ],
+    "name:ron_x_preferred":[
+        "Zlatia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u0438\u044f"
+    ],
     "name:und_x_variant":[
         "Kule Machala",
         "Kaluger Machala",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1209137155,
-    "wof:lastmodified":1537587232,
+    "wof:lastmodified":1564177246,
     "wof:name":"Zlatia",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u044f\u043d"
     ],
+    "name:deu_x_preferred":[
+        "Maryan"
+    ],
     "name:und_x_variant":[
         "Gorni Maryan",
         "Marjan",
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1209451775,
-    "wof:lastmodified":1537587491,
+    "wof:lastmodified":1564177291,
     "wof:name":"Maryan",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

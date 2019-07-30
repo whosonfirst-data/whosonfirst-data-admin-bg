@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0443\u0436\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Druzhevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0648\u0698\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0443\u0436\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Drujevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0443\u0436\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Druzjevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0443\u0436\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Dupni-Wr\u0103ch",
         "Dupni-Verk",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1343597719,
-    "wof:lastmodified":1537587664,
+    "wof:lastmodified":1564176957,
     "wof:name":"Druzhevo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

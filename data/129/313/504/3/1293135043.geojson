@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u044f\u043c\u043e \u0410\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Goljamo Asenovo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u043e-\u0410\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Golamo Asenowo"
+    ],
+    "name:ron_x_preferred":[
+        "Goleamo Asenovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u043e-\u0410\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Goljamo Asenovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u043e-\u0410\u0441\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kyuchuk Khasan",
         "Golemo Assenowo",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1293135043,
-    "wof:lastmodified":1537587626,
+    "wof:lastmodified":1564177048,
     "wof:name":"Golyamo Asenovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

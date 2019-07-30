@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u0441\u043b\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0633\u0644\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0435\u0441\u043b\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Nesla"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0441\u043b\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0441\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1293518921,
-    "wof:lastmodified":1537587466,
+    "wof:lastmodified":1564177079,
     "wof:name":"Nesla",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

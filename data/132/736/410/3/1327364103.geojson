@@ -33,6 +33,21 @@
     "name:bul_x_variant":[
         "Tarnoslivka"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u0646\u0648\u0633\u0644\u06cc\u0648\u06a9\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10d8\u10e0\u10dc\u10dd\u10e1\u10da\u10d8\u10d5\u10d9\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "T\u0103rnoslivka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044b\u0440\u043d\u043e\u0441\u043b\u0438\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0438\u0440\u043d\u043e\u0441\u043b\u0438\u0432\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Meklezeler",
         "Tyurk Eredzhek",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1327364103,
-    "wof:lastmodified":1537587293,
+    "wof:lastmodified":1564176832,
     "wof:name":"Tarnoslivka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

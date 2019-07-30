@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0438\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Veselie"
+    ],
+    "name:deu_x_preferred":[
+        "Wesselie"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0633\u0644\u06cc\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043b\u0438\u0435"
+    ],
+    "name:ron_x_preferred":[
+        "Veselie"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043b\u0438\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Veselie"
+    ],
+    "name:swe_x_preferred":[
+        "Veselie"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0441\u0435\u043b\u0456\u0454"
+    ],
     "name:und_x_variant":[
         "Sari Musa",
         "Veseliya",
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1293723953,
-    "wof:lastmodified":1537587280,
+    "wof:lastmodified":1564177099,
     "wof:name":"Veselie",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

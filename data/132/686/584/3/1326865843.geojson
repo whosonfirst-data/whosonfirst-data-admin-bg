@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u0440\u0435\u043d\u0438\u0442\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0646\u06cc\u062a\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u043d\u0438\u0442\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Kerenite"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u043d\u0438\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u0440\u0435\u043d\u0456\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Kereni",
         "Kerenite"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1326865843,
-    "wof:lastmodified":1537587570,
+    "wof:lastmodified":1564176845,
     "wof:name":"Kerenite",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

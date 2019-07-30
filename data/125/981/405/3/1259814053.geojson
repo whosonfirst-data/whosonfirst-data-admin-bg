@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Ognyanovo"
+    ],
+    "name:pol_x_preferred":[
+        "Ognjanowo"
+    ],
+    "name:ron_x_preferred":[
+        "Ogneanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0433\u043d\u044f\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Mariza",
         "Saladinovo",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1259814053,
-    "wof:lastmodified":1537587456,
+    "wof:lastmodified":1564177670,
     "wof:name":"Ognyanovo",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

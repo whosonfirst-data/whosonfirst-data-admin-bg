@@ -25,7 +25,49 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Borovo"
+    ],
     "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Borovo"
+    ],
+    "name:fra_x_preferred":[
+        "Borovo"
+    ],
+    "name:hrv_x_preferred":[
+        "Borovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Borovo"
+    ],
+    "name:por_x_preferred":[
+        "Borovo"
+    ],
+    "name:ron_x_preferred":[
+        "Borovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:slv_x_preferred":[
+        "Borovo"
+    ],
+    "name:spa_x_preferred":[
+        "Borovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Borovo"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u043e"
     ],
     "src:geom":"geonames",
@@ -49,7 +91,7 @@
         }
     ],
     "wof:id":1309937225,
-    "wof:lastmodified":1537587742,
+    "wof:lastmodified":1564177489,
     "wof:name":"Borovo",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

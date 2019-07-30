@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":15131884.390037,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.157337,43.407154,28.157337,43.407154",
     "geom:latitude":43.407154,
     "geom:longitude":28.157337,
@@ -25,6 +25,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:bak_x_preferred":[
+        "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438\u0439"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0430\u0441\u0456\u043b \u041b\u0435\u045e\u0441\u043a\u0456"
     ],
@@ -46,6 +49,9 @@
     "name:ell_x_preferred":[
         "\u0392\u03b1\u03c3\u03af\u03bb \u039b\u03ad\u03b2\u03c3\u03ba\u03b9"
     ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03c3\u03af\u03bb \u039b\u03ad\u03c6\u03c3\u03ba\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Vasil Levski"
     ],
@@ -61,6 +67,9 @@
     "name:fra_x_preferred":[
         "Vasil Levski"
     ],
+    "name:glg_x_preferred":[
+        "Vasil Levski"
+    ],
     "name:heb_x_preferred":[
         "\u05d5\u05e1\u05d9\u05dc \u05dc\u05d1\u05e1\u05e7\u05d9"
     ],
@@ -72,6 +81,9 @@
     ],
     "name:ita_x_preferred":[
         "Vasil Levski"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30b7\u30eb\u30fb\u30ec\u30d5\u30b9\u30ad"
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc2e4 \ub808\ud504\uc2a4\ud0a4"
@@ -94,20 +106,32 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u0432\u0441\u043a\u0438\u0439"
     ],
+    "name:slk_x_preferred":[
+        "Vasil Levski"
+    ],
     "name:spa_x_preferred":[
         "Vasil Levski"
     ],
     "name:srp_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438"
     ],
+    "name:swa_x_preferred":[
+        "Vasil Levski"
+    ],
     "name:swe_x_preferred":[
         "Vasil Levski"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e27\u0e32\u0e0b\u0e34\u0e25 \u0e40\u0e25\u0e1f\u0e2a\u0e01\u0e35"
     ],
     "name:tur_x_preferred":[
         "Vasil Levski"
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
     "name:unk_x_variant":[
         "Redzhina Mariya",
@@ -177,7 +201,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531932508,
+    "wof:lastmodified":1564176996,
     "wof:name":"Vasil Levski",
     "wof:parent_id":101796285,
     "wof:placetype":"neighbourhood",

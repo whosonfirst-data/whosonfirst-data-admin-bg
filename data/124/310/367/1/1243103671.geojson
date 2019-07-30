@@ -28,6 +28,15 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u0435\u043d"
     ],
+    "name:deu_x_preferred":[
+        "Rosen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0437\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0437\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Mehme\u010dki\u00f6j",
         "Rossen",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1243103671,
-    "wof:lastmodified":1537587383,
+    "wof:lastmodified":1564177616,
     "wof:name":"Rosen",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

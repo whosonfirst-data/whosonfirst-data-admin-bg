@@ -29,9 +29,72 @@
     "name:bul_x_preferred":[
         "\u0415\u043b\u0435\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Elena"
+    ],
+    "name:ces_x_preferred":[
+        "Elena"
+    ],
+    "name:chv_x_preferred":[
+        "\u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Elena"
+    ],
+    "name:est_x_preferred":[
+        "Elena"
+    ],
+    "name:fin_x_preferred":[
+        "Elena"
+    ],
+    "name:fra_x_preferred":[
+        "Elena"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05e0\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Elena"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30ec\u30ca"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8\ub808\ub098"
+    ],
+    "name:nld_x_preferred":[
+        "Elena"
+    ],
+    "name:pol_x_preferred":[
+        "Elena"
+    ],
+    "name:por_x_preferred":[
+        "Elena"
+    ],
+    "name:ron_x_preferred":[
+        "Elena"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Elena"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b\u0435\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Elena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u043b\u0435\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Yelena",
         "Dzhefarche",
+        "Elena"
+    ],
+    "name:vie_x_preferred":[
         "Elena"
     ],
     "src:geom":"geonames",
@@ -55,7 +118,7 @@
         }
     ],
     "wof:id":1293420409,
-    "wof:lastmodified":1537587651,
+    "wof:lastmodified":1564177084,
     "wof:name":"Elena",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

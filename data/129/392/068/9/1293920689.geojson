@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u0440\u043e\u0432\u0441\u043a\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Virovsko"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10e0\u10dd\u10d5\u10e1\u10d9\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0438\u0440\u043e\u0432\u0441\u043a\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Virovsko"
+    ],
+    "name:pol_x_preferred":[
+        "Wirowsko"
+    ],
+    "name:ron_x_preferred":[
+        "Virovsko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0440\u043e\u0432\u0441\u043a\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Virovsko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0440\u043e\u0432\u0441\u044c\u043a\u043e"
+    ],
     "name:und_x_variant":[
         "Wirowsko",
         "Virovsko"
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1293920689,
-    "wof:lastmodified":1537587276,
+    "wof:lastmodified":1564177062,
     "wof:name":"Virovsko",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

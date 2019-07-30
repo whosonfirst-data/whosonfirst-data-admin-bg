@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u043e\u043c\u0448\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Gromshin"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0648\u0645\u0634\u06cc\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0440\u043e\u043c\u0448\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Gromshin"
+    ],
+    "name:ron_x_preferred":[
+        "Grom\u0219in"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u043e\u043c\u0448\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Gromsjin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0440\u043e\u043c\u0448\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Gromschin",
         "Gromshin"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1242910403,
-    "wof:lastmodified":1537587605,
+    "wof:lastmodified":1564177586,
     "wof:name":"Gromshin",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

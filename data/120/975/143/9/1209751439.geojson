@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u0436\u0435\u043d\u043a\u043e\u0432\u043e"
     ],
+    "name:bul_x_variant":[
+        "\u0412\u0435\u0437\u0435\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Vezenkovo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0632\u0646\u06a9\u0648\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0412\u0435\u0437\u0435\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Vezenkovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0437\u0435\u043d\u043a\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Vezenkovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u0437\u0435\u043d\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kadar Fakli",
         "Wesenkowo",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1209751439,
-    "wof:lastmodified":1537587278,
+    "wof:lastmodified":1564177299,
     "wof:name":"Vezenkovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

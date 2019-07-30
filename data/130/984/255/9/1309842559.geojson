@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u041e\u043a\u043e\u043b\u0438\u0438\u0442\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0648\u0644\u06cc\u06cc\u062a\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043a\u043e\u043b\u0438\u0438\u0442\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Okoliite"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u043e\u043b\u0438\u0438\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u043e\u043b\u0456\u0457\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Okulits\u016d",
         "Okoliite"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1309842559,
-    "wof:lastmodified":1537587455,
+    "wof:lastmodified":1564177487,
     "wof:name":"Okoliite",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -29,9 +29,30 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0435\u0432\u0440\u0435\u043d"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u0631\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0432\u0440\u0435\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Belevren"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0432\u0440\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0435\u0432\u0440\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Belewren",
         "Belevren"
+    ],
+    "name:vie_x_preferred":[
+        "Belevren"
+    ],
+    "name:zho_x_preferred":[
+        "\u522b\u5217\u592b\u8fde"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1343894411,
-    "wof:lastmodified":1537587761,
+    "wof:lastmodified":1564176987,
     "wof:name":"Belevren",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

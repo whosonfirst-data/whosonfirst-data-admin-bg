@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Velikovo"
+    ],
+    "name:ron_x_preferred":[
+        "Velikovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Semizler",
         "Velicova",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226093279,
-    "wof:lastmodified":1537587283,
+    "wof:lastmodified":1564177765,
     "wof:name":"Velikovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

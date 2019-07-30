@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0432\u0438\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Rovina"
+    ],
+    "name:ces_x_preferred":[
+        "Rovina"
+    ],
+    "name:deu_x_preferred":[
+        "Rovina"
+    ],
+    "name:epo_x_preferred":[
+        "Rovina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d1\u05d9\u05e0\u05d0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0432\u0438\u043d\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Rovina"
+    ],
+    "name:srp_x_preferred":[
+        "Rovina"
+    ],
+    "name:swe_x_preferred":[
+        "Rovina"
+    ],
     "name:und_x_variant":[
         "Rowina",
         "Rovina"
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1327063961,
-    "wof:lastmodified":1537587382,
+    "wof:lastmodified":1564176815,
     "wof:name":"Rovina",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

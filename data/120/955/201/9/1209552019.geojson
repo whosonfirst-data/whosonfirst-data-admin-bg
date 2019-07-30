@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0442\u0435\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Botevo"
+    ],
+    "name:pol_x_preferred":[
+        "Botewo"
+    ],
+    "name:ron_x_preferred":[
+        "Botevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0442\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Bot\u2019ovo",
         "B\u016drzinski Cherkezi",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209552019,
-    "wof:lastmodified":1537587740,
+    "wof:lastmodified":1564177219,
     "wof:name":"Botevo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u043d\u0433\u043e\u0432\u043e"
     ],
+    "name:ron_x_preferred":[
+        "Drangovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u043d\u0433\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0430\u043d\u0433\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Pokrovnik",
         "Svoboda",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1226281209,
-    "wof:lastmodified":1537587667,
+    "wof:lastmodified":1564177673,
     "wof:name":"Drangovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

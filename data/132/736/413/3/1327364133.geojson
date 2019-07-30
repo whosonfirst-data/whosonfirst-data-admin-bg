@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0442\u043b\u0438\u043d\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062a\u0644\u06cc\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u0438\u043d\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Swetlina"
+    ],
+    "name:ron_x_preferred":[
+        "Svetlina"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043b\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Ayd\u016dnlar",
         "Razvalini Edenlare",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1327364133,
-    "wof:lastmodified":1537587318,
+    "wof:lastmodified":1564176830,
     "wof:name":"Svetlina",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

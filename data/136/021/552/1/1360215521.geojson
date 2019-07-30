@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d\u043e\u043a\u043b\u0430\u0441"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0648\u06a9\u0644\u0627\u0633"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0435\u043d\u043e\u043a\u043b\u0430\u0441"
+    ],
+    "name:pol_x_preferred":[
+        "Senok\u0142as"
+    ],
+    "name:ron_x_preferred":[
+        "Senoklas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u043e\u043a\u043b\u0430\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u043e\u043a\u043b\u0430\u0441"
+    ],
     "name:und_x_variant":[
         "Machg\u016df",
         "Senoklass",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1360215521,
-    "wof:lastmodified":1537587369,
+    "wof:lastmodified":1564177450,
     "wof:name":"Senoklas",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

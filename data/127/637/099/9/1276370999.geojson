@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u0433\u043c\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Sigmen"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10d2\u10db\u10d4\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0438\u0433\u043c\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Sigmen"
+    ],
+    "name:ron_x_preferred":[
+        "Sigmen"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0433\u043c\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sigmen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u0433\u043c\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Kad\u2019ikioy",
         "Ka\u0161la Kioi",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1276370999,
-    "wof:lastmodified":1537587362,
+    "wof:lastmodified":1564177178,
     "wof:name":"Sigmen",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0438\u0448"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0448"
+    ],
+    "name:pol_x_preferred":[
+        "Belisz"
+    ],
+    "name:ron_x_preferred":[
+        "Beli\u0219"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0448"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0448"
+    ],
     "name:und_x_variant":[
         "Byelish",
         "Belisch",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1343591623,
-    "wof:lastmodified":1537587760,
+    "wof:lastmodified":1564176958,
     "wof:name":"Belish",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0415\u0433\u0440\u0435\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Egrek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0631\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0415\u0433\u0440\u0435\u043a"
+    ],
+    "name:ron_x_preferred":[
+        "Egrek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u0433\u0440\u0435\u043a"
+    ],
+    "name:swe_x_preferred":[
+        "Egrek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u0433\u0440\u0435\u043a"
+    ],
     "name:und_x_variant":[
         "Egerek",
         "Egrek"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1259717431,
-    "wof:lastmodified":1537587651,
+    "wof:lastmodified":1564177642,
     "wof:name":"Egrek",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

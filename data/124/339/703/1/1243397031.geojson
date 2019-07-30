@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0447\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0686\u06a9\u0648\u0648\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u0447\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Meczkowica"
+    ],
+    "name:ron_x_preferred":[
+        "Mecikovi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0447\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0447\u043a\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Mechkovts\u016d",
         "Metschkowzi",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1243397031,
-    "wof:lastmodified":1537587490,
+    "wof:lastmodified":1564177532,
     "wof:name":"Mechkovitsa",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

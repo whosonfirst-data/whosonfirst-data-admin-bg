@@ -21,6 +21,12 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u0434\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Viden"
+    ],
+    "name:swe_x_preferred":[
+        "Viden"
+    ],
     "name:unk_x_variant":[
         "Karagitlii"
     ],
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1125962897,
-    "wof:lastmodified":1509403419,
+    "wof:lastmodified":1564177507,
     "wof:name":"Viden",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

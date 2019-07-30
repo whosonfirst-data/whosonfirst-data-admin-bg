@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e\u0441\u0435\u043b\u0446\u0438"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0646\u0648\u0633\u0644\u062a\u0633\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e\u0441\u0435\u043b\u0446\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Do\u0142nose\u0142ci"
+    ],
+    "name:ron_x_preferred":[
+        "Dolnosel\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e\u0441\u0435\u043b\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e\u0441\u0435\u043b\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Dolno Yubryu Eren",
         "Dolnosselzi",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1276905201,
-    "wof:lastmodified":1537587675,
+    "wof:lastmodified":1564177174,
     "wof:name":"Dolnoseltsi",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

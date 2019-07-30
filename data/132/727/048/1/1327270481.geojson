@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u0422\u0440\u0430\u043f\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0646\u0648 \u062a\u0631\u0627\u067e\u0647"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0422\u0440\u0430\u043f\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Gorno Trape"
+    ],
+    "name:ron_x_preferred":[
+        "Gorno Trape"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0422\u0440\u0430\u043f\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u0454 \u0422\u0440\u0430\u043f\u0435"
+    ],
     "name:und_x_variant":[
         "Trapeto",
         "Kolibi Trapet"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1327270481,
-    "wof:lastmodified":1537587614,
+    "wof:lastmodified":1564176910,
     "wof:name":"Gorno Trape",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

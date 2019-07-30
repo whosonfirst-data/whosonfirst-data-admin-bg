@@ -32,6 +32,24 @@
     "name:bul_x_variant":[
         "Parlichevo"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u0644\u06cc\u0686\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u044b\u0440\u043b\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Parlichevo"
+    ],
+    "name:ron_x_preferred":[
+        "P\u0103rlicevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044b\u0440\u043b\u0438\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0440\u043b\u0438\u0447\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Mechit Makhala",
         "P\u0103rlitschewo",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1344191313,
-    "wof:lastmodified":1537587402,
+    "wof:lastmodified":1564176974,
     "wof:name":"Parlichevo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

@@ -29,7 +29,26 @@
         "\u041f\u044f\u0441\u044a\u0447\u043d\u0438\u043a"
     ],
     "name:bul_x_variant":[
-        "Pyasachevo"
+        "Pyasachevo",
+        "\u041f\u044f\u0441\u044a\u0447\u0435\u0432\u043e"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0627\u0633\u0627\u0686\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u044f\u0441\u044b\u0447\u0435\u0432\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Pjasyczewo"
+    ],
+    "name:ron_x_preferred":[
+        "Peas\u0103cevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044f\u0441\u044b\u0447\u0435\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u044f\u0441\u0438\u0447\u0435\u0432\u043e"
     ],
     "name:und_x_variant":[
         "Kum K\u2019oy",
@@ -61,7 +80,7 @@
         }
     ],
     "wof:id":1293523187,
-    "wof:lastmodified":1537587400,
+    "wof:lastmodified":1564177015,
     "wof:name":"Pyasachevo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

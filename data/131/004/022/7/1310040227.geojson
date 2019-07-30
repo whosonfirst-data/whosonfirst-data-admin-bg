@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0430 \u043c\u043e\u0433\u0438\u043b\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Tcherna mogila"
+    ],
+    "name:pol_x_preferred":[
+        "Czerna mogi\u0142a"
+    ],
+    "name:ron_x_preferred":[
+        "Cerna Moghila"
+    ],
     "name:und_x_variant":[
         "Kara Tepe",
         "Tscherna Mogila",
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1310040227,
-    "wof:lastmodified":1537587711,
+    "wof:lastmodified":1564177412,
     "wof:name":"Cherna Mogila",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

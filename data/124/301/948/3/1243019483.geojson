@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Bejanovo"
+    ],
+    "name:ron_x_preferred":[
+        "Bejanovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Byezhanovo",
         "Golyam Kachamak",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1243019483,
-    "wof:lastmodified":1537587755,
+    "wof:lastmodified":1564177528,
     "wof:name":"Bezhanovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

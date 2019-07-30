@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041b\u044e\u0431\u043e\u0432\u043a\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0648\u0628\u0648\u0648\u06a9\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0409\u0443\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Lubowka"
+    ],
+    "name:ron_x_preferred":[
+        "Liubovka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0432\u043a\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0431\u043e\u0432\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Ljubowka",
         "Lyubovka"
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1327072821,
-    "wof:lastmodified":1537587506,
+    "wof:lastmodified":1564176835,
     "wof:name":"Lyubovka",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

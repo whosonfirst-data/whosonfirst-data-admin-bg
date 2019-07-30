@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0421\u0432\u0438\u043d\u0430\u0440\u0441\u043a\u0438 \u0414\u043e\u043b"
     ],
+    "name:bul_x_variant":[
+        "\u0421\u0432\u0438\u043d\u0430\u0440\u0441\u043a\u0438 \u0434\u043e\u043b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06cc\u0646\u0627\u0631\u0633\u06a9\u06cc \u062f\u0648\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0432\u0438\u043d\u0430\u0440\u0441\u043a\u0438-\u0414\u043e\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Swinarski do\u0142"
+    ],
+    "name:ron_x_preferred":[
+        "Svinarski Dol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0438\u043d\u0430\u0440\u0441\u043a\u0438-\u0414\u043e\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0438\u043d\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u0414\u043e\u043b"
+    ],
     "name:und_x_variant":[
         "Kolibi Svinarski Dol",
         "Svinarskiy Dol",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1343293197,
-    "wof:lastmodified":1537587317,
+    "wof:lastmodified":1564176985,
     "wof:name":"Svinarski Dol",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

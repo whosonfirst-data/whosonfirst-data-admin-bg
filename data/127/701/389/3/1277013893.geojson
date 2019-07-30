@@ -32,6 +32,21 @@
     "name:bul_x_variant":[
         "\u041a\u0440\u0430\u0439\u043d\u0438 \u0414\u043e\u043b"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u06cc\u0646\u06cc \u062f\u0648\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0430\u0439\u043d\u0438-\u0414\u043e\u043b"
+    ],
+    "name:ron_x_preferred":[
+        "Kraini Dol"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0439\u043d\u0438-\u0414\u043e\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0439\u043d\u0456\u0439 \u0414\u043e\u043b"
+    ],
     "name:und_x_variant":[
         "Kraini Dol",
         "Krayni Dol"
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1277013893,
-    "wof:lastmodified":1537587537,
+    "wof:lastmodified":1564177113,
     "wof:name":"Krayni Dol",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -29,6 +29,15 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u044f\u0440\u0446\u0438"
     ],
+    "name:fra_x_preferred":[
+        "Bolyartsi"
+    ],
+    "name:ron_x_preferred":[
+        "Bolear\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043b\u044f\u0440\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Beydzhi Oglu",
         "Boljarzi",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1327060433,
-    "wof:lastmodified":1537587745,
+    "wof:lastmodified":1564176824,
     "wof:name":"Bolyartsi",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

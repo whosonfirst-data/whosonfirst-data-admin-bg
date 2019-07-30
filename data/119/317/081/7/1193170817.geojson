@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u0435\u043c\u0430 \u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Golema Rakovitsa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10da\u10d4\u10db\u10d0-\u10e0\u10d0\u10d9\u10dd\u10d5\u10d8\u10ea\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u0430-\u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Golema Rakovitsa"
+    ],
+    "name:pol_x_preferred":[
+        "Golema Rakowica"
+    ],
+    "name:ron_x_preferred":[
+        "Golema Rakovi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u0430-\u0420\u0430\u043a\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Golema Rakovitsa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u043c\u0430 \u0420\u0430\u043a\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Rakovica",
         "Golyema-Rakovitsa",
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1193170817,
-    "wof:lastmodified":1537587631,
+    "wof:lastmodified":1564177332,
     "wof:name":"Golema Rakovitsa",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

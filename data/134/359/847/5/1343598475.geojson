@@ -33,6 +33,21 @@
     "name:bul_x_variant":[
         "Zetyovo"
     ],
+    "name:ceb_x_preferred":[
+        "Zet'ovo"
+    ],
+    "name:fra_x_preferred":[
+        "Zetyovo"
+    ],
+    "name:pol_x_preferred":[
+        "Zetjowo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0442\u0451\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0435\u0442\u044c\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Setiowo",
         "Madzharlar",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1343598475,
-    "wof:lastmodified":1537587242,
+    "wof:lastmodified":1564176960,
     "wof:name":"Zetyovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

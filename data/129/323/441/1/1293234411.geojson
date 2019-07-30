@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0421\u043d\u0435\u0433\u043e\u0442\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Snegotin"
+    ],
+    "name:fra_x_preferred":[
+        "Snegotin"
+    ],
+    "name:msa_x_preferred":[
+        "Snegotin"
+    ],
+    "name:por_x_preferred":[
+        "Snegotin"
+    ],
+    "name:slv_x_preferred":[
+        "Snegotin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043d\u0435\u0433\u043e\u0442\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Karl",
         "Snegotin"
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1293234411,
-    "wof:lastmodified":1537587349,
+    "wof:lastmodified":1564177031,
     "wof:name":"Snegotin",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

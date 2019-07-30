@@ -33,6 +33,30 @@
     "name:bul_x_variant":[
         "Brashten"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03ad\u03c3\u03c4\u03b5\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u0634\u062a\u0646"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10e8\u10e2\u10d4\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u044b\u0448\u0442\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Brashten"
+    ],
+    "name:ron_x_preferred":[
+        "Br\u0103\u0219ten"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u044b\u0448\u0442\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0438\u0448\u0442\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Br\u016dshlyan",
         "Br\u016dshen",
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1343895269,
-    "wof:lastmodified":1537587731,
+    "wof:lastmodified":1564176989,
     "wof:name":"Brashten",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0646\u0648\u0648\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432\u0446\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Drenovi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Drenovets"
     ],
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1193229629,
-    "wof:lastmodified":1537587667,
+    "wof:lastmodified":1564177311,
     "wof:name":"Drenovitsa",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

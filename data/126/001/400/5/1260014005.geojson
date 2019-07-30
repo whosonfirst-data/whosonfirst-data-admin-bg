@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u041d\u0430\u0443\u043c"
     ],
+    "name:deu_x_preferred":[
+        "Naum"
+    ],
+    "name:fra_x_preferred":[
+        "Naum"
+    ],
+    "name:ita_x_preferred":[
+        "Naum"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30a6\u30e0"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0443\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Naum"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0443\u043c"
+    ],
     "name:und_x_variant":[
         "Embie Sakall\u016d",
         "Khasanlar Makhala",
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1260014005,
-    "wof:lastmodified":1537587468,
+    "wof:lastmodified":1564177345,
     "wof:name":"Naum",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u0428\u0438\u043f\u043e\u043a"
     ],
+    "name:ron_x_preferred":[
+        "\u0218ipok"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043f\u043e\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0438\u043f\u043e\u043a"
+    ],
     "name:und_x_variant":[
         "Erekli",
         "Schipok",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1209137367,
-    "wof:lastmodified":1537587365,
+    "wof:lastmodified":1564177244,
     "wof:name":"Shipok",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u041d\u0435\u043e\u0444\u0438\u0442 \u0420\u0438\u043b\u0441\u043a\u0438"
     ],
+    "name:cat_x_preferred":[
+        "Ne\u00f2fit Rilski"
+    ],
+    "name:deu_x_preferred":[
+        "Neofit Rilski"
+    ],
+    "name:fra_x_preferred":[
+        "Neofit Rilski"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0435\u043e\u0444\u0438\u0442 \u0420\u0438\u043b\u0441\u043a\u0438"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u043e\u0444\u0438\u0442 \u0420\u0438\u043b\u044c\u0441\u043a\u0438\u0439"
+    ],
+    "name:slv_x_preferred":[
+        "Neofit Rilski"
+    ],
+    "name:spa_x_preferred":[
+        "Neofit Rilski"
+    ],
     "name:und_x_variant":[
         "Kutlu Bey",
         "Neofit Rilski"
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1343490517,
-    "wof:lastmodified":1537587466,
+    "wof:lastmodified":1564176951,
     "wof:name":"Neofit Rilski",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

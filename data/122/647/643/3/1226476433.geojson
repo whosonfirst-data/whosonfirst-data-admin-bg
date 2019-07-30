@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u0411\u0440\u0435\u0433\u0430\u0440\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bregare"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d4\u10d2\u10d0\u10e0\u10d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0435\u0433\u0430\u0440\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Bregare"
+    ],
+    "name:ron_x_preferred":[
+        "Bregare"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0440\u0435\u0433\u0430\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bregare"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0435\u0433\u0430\u0440\u0435"
+    ],
     "name:und_x_variant":[
         "Bryegare",
         "Brjegare",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1226476433,
-    "wof:lastmodified":1537587735,
+    "wof:lastmodified":1564177728,
     "wof:name":"Bregare",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

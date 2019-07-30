@@ -28,6 +28,24 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u043e\u0449\u0438\u0446\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0648\u0634\u062a\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u0448\u0442\u0438\u0446\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Komoshtitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Komo\u0219ti\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u0448\u0442\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u043e\u0448\u0442\u0438\u0446\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1343692443,
-    "wof:lastmodified":1537587554,
+    "wof:lastmodified":1564176964,
     "wof:name":"Komoshtitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

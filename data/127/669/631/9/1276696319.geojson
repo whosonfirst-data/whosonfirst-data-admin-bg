@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u043b\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dobrolevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0631\u0648\u0644\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10d1\u10e0\u10dd\u10da\u10d4\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u043b\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Dobrolevo"
+    ],
+    "name:ron_x_preferred":[
+        "Dobrolevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u043b\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dobrolevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u043e\u043b\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Dobralevo",
         "Dobrolevo"
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1276696319,
-    "wof:lastmodified":1537587687,
+    "wof:lastmodified":1564177139,
     "wof:name":"Dobrolevo",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

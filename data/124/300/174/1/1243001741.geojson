@@ -30,8 +30,38 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043f\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Popovo"
+    ],
+    "name:fra_x_preferred":[
+        "Popovo"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u057a\u0578\u057e\u0578"
+    ],
+    "name:nld_x_preferred":[
+        "Popovo"
+    ],
+    "name:por_x_preferred":[
+        "Popovo"
+    ],
+    "name:ron_x_preferred":[
+        "Popovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Popovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043f\u043e\u0432\u0435"
+    ],
     "name:und_x_variant":[
         "Popowo",
+        "Popovo"
+    ],
+    "name:vie_x_preferred":[
         "Popovo"
     ],
     "src:geom":"geonames",
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1243001741,
-    "wof:lastmodified":1537587416,
+    "wof:lastmodified":1564177515,
     "wof:name":"Popovo",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

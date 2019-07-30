@@ -31,6 +31,21 @@
     "name:bul_x_variant":[
         "\u0413\u0443\u043b\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Gulia"
+    ],
+    "name:deu_x_preferred":[
+        "Gulia"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0941\u0932\u093f\u092f\u093e"
+    ],
+    "name:ron_x_preferred":[
+        "Gulia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0443\u043b\u0438\u0458\u0430"
+    ],
     "name:und_x_variant":[
         "Guliya"
     ],
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1259617927,
-    "wof:lastmodified":1537587803,
+    "wof:lastmodified":1564177648,
     "wof:name":"Gulia",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

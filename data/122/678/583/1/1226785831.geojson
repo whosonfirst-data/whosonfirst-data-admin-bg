@@ -31,6 +31,30 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432"
     ],
+    "name:ceb_x_preferred":[
+        "Drenov"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0646\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432"
+    ],
+    "name:pol_x_preferred":[
+        "Drenow"
+    ],
+    "name:ron_x_preferred":[
+        "Drenov"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Drenov"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0440\u0435\u043d\u043e\u0432"
+    ],
     "name:und_x_variant":[
         "Drenow",
         "Dryanov",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1226785831,
-    "wof:lastmodified":1537587667,
+    "wof:lastmodified":1564177739,
     "wof:name":"Drenov",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

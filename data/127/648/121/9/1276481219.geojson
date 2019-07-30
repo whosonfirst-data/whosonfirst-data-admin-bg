@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u043a\u0442\u043e\u0440 \u0419\u043e\u0441\u0438\u0444\u043e\u0432\u043e"
     ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043e\u043a\u0442\u043e\u0440-\u0419\u043e\u0441\u0438\u0444\u043e\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Doktor Yosifovo"
+    ],
+    "name:ron_x_preferred":[
+        "Doktor Iosifovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043a\u0442\u043e\u0440-\u0419\u043e\u0441\u0438\u0444\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043a\u0442\u043e\u0440-\u0419\u043e\u0441\u0438\u0444\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "V\u016dlkova-Slatina",
         "Doktor Iosifovo",
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":1276481219,
-    "wof:lastmodified":1537587684,
+    "wof:lastmodified":1564177169,
     "wof:name":"Doktor Yosifovo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

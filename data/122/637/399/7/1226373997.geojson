@@ -30,8 +30,23 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u0441\u0435\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Prosena"
+    ],
+    "name:min_x_preferred":[
+        "Prosena"
+    ],
+    "name:nld_x_preferred":[
+        "Prosena"
+    ],
+    "name:swe_x_preferred":[
+        "Prosena"
+    ],
     "name:und_x_variant":[
         "Prossena",
+        "Prosena"
+    ],
+    "name:war_x_preferred":[
         "Prosena"
     ],
     "src:geom":"geonames",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1226373997,
-    "wof:lastmodified":1537587404,
+    "wof:lastmodified":1564177748,
     "wof:name":"Prosena",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

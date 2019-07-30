@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u043e\u044f"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u06cc\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0430\u043d\u043e\u044f"
+    ],
+    "name:pol_x_preferred":[
+        "Manoja"
+    ],
+    "name:ron_x_preferred":[
+        "Manoia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u043e\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u043e\u044f"
+    ],
     "name:und_x_variant":[
         "Manoja",
         "Manoya"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1226682407,
-    "wof:lastmodified":1537587493,
+    "wof:lastmodified":1564177703,
     "wof:name":"Manoya",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

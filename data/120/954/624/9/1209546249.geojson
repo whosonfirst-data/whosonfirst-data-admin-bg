@@ -29,6 +29,42 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u043c\u043f\u043e\u0440\u043e\u0432\u043e"
     ],
+    "name:deu_x_preferred":[
+        "Pamporowo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bc\u03c0\u03cc\u03c1\u03bf\u03b2\u03bf"
+    ],
+    "name:fra_x_preferred":[
+        "Pamporovo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05de\u05e4\u05d5\u05e8\u05d5\u05d1\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "Pamporovo"
+    ],
+    "name:ita_x_preferred":[
+        "Pamporovo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u043c\u043f\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:nld_x_preferred":[
+        "Pamporovo"
+    ],
+    "name:pol_x_preferred":[
+        "Pamporowo"
+    ],
+    "name:ron_x_preferred":[
+        "Pamporovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043c\u043f\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043c\u043f\u043e\u0440\u043e\u0432\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633001
@@ -46,7 +82,7 @@
         }
     ],
     "wof:id":1209546249,
-    "wof:lastmodified":1537487802,
+    "wof:lastmodified":1564177204,
     "wof:name":"Pamporovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

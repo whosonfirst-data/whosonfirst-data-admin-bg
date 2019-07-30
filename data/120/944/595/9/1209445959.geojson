@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u041e\u0432\u0447\u0430\u0440\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Ovtcharovo"
+    ],
+    "name:pol_x_preferred":[
+        "Owczarowo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u0447\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0432\u0447\u0430\u0440\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Koyunliy",
         "Owtscharowo",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1209445959,
-    "wof:lastmodified":1537587445,
+    "wof:lastmodified":1564177293,
     "wof:name":"Ovcharovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

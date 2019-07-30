@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0418\u0437\u0432\u043e\u0440\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Izvorovo"
+    ],
+    "name:fra_x_preferred":[
+        "Izvorovo"
+    ],
+    "name:pol_x_preferred":[
+        "Izworowo"
+    ],
+    "name:ron_x_preferred":[
+        "Izvorovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0437\u0432\u043e\u0440\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Izvorovo"
+    ],
     "name:und_x_variant":[
         "Musu Bey",
         "Musubei",
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":1360127197,
-    "wof:lastmodified":1537587587,
+    "wof:lastmodified":1564177426,
     "wof:name":"Izvorovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0442\u0440\u043e\u0432\u0446\u0438"
     ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0438\u0442\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Mitrovtsi"
+    ],
+    "name:ron_x_preferred":[
+        "Mitrov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0442\u0440\u043e\u0432\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u0442\u0440\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Mitrovts\u016d",
         "Mitrowzi",
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1327468089,
-    "wof:lastmodified":1537587480,
+    "wof:lastmodified":1564176873,
     "wof:name":"Mitrovtsi",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

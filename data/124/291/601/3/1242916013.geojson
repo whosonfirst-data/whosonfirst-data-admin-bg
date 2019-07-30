@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u0438\u0442\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Koriten"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u06cc\u062a\u0646"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u0435\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Koriten"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Koriten"
+    ],
+    "name:swe_x_preferred":[
+        "Koriten"
+    ],
+    "name:tur_x_preferred":[
+        "Ardal\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u0440\u0438\u0442\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Hardali",
         "Khardaley",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1242916013,
-    "wof:lastmodified":1537587549,
+    "wof:lastmodified":1564177588,
     "wof:name":"Koriten",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

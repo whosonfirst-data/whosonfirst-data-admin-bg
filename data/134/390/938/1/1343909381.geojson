@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0441\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Mesta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u062a\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u0441\u0442\u0430"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u0441\u0442\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Mesta"
+    ],
+    "name:ron_x_preferred":[
+        "Mesta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0441\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Mesta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0441\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1343909381,
-    "wof:lastmodified":1537587487,
+    "wof:lastmodified":1564176928,
     "wof:name":"Mesta",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

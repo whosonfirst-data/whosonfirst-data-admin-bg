@@ -30,7 +30,17 @@
         "\u041f\u043e\u0431\u0438\u0442 \u041a\u0430\u043c\u044a\u043a"
     ],
     "name:bul_x_variant":[
-        "Pobit Kamak"
+        "Pobit Kamak",
+        "\u041f\u043e\u0431\u0438\u0442 \u043a\u0430\u043c\u044a\u043a"
+    ],
+    "name:fra_x_preferred":[
+        "Pobit kamak"
+    ],
+    "name:ron_x_preferred":[
+        "Pobit Kam\u0103k"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0431\u0438\u0442-\u041a\u0430\u043c\u044b\u043a"
     ],
     "name:und_x_variant":[
         "Bobien-Kamik",
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1343398165,
-    "wof:lastmodified":1537587424,
+    "wof:lastmodified":1564176919,
     "wof:name":"Pobit Kamak",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

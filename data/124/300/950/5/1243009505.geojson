@@ -30,6 +30,33 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0430\u043c\u043e\u0432\u0446\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Alamovci"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d0\u10db\u10dd\u10d5\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043b\u0430\u043c\u043e\u0432\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Alamovtsi"
+    ],
+    "name:pol_x_preferred":[
+        "A\u0142amowci"
+    ],
+    "name:ron_x_preferred":[
+        "Alamov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u043c\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Alamovtsi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0430\u043c\u043e\u0432\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Alamowzi",
         "Alamovtsi"
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1243009505,
-    "wof:lastmodified":1537587780,
+    "wof:lastmodified":1564177516,
     "wof:name":"Alamovtsi",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

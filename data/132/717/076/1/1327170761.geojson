@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0421\u0438\u043d\u0447\u0435\u0446"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0686\u062a\u0633"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10dc\u10e9\u10d4\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0438\u043d\u0447\u0435\u0446"
+    ],
+    "name:ron_x_preferred":[
+        "Since\u021b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0447\u0435\u0446"
+    ],
+    "name:tur_x_preferred":[
+        "Durabiller"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0438\u043d\u0447\u0435\u0446\u044c"
+    ],
     "name:und_x_variant":[
         "Dura Beyler",
         "Sinchets"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1327170761,
-    "wof:lastmodified":1537587361,
+    "wof:lastmodified":1564176902,
     "wof:name":"Sinchets",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

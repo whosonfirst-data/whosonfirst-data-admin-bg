@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0442\u0443\u043b\u0446\u0438"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0442\u0443\u043b\u0446\u0438"
+    ],
+    "name:ron_x_preferred":[
+        "Batul\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u0443\u043b\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0442\u0443\u043b\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Batulzi",
         "Batultsi"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1242813983,
-    "wof:lastmodified":1537587765,
+    "wof:lastmodified":1564177542,
     "wof:name":"Batultsi",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

@@ -32,6 +32,24 @@
     "name:bul_x_variant":[
         "Dlagnya"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0644\u0648\u06af\u0646\u06cc\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u043b\u044b\u0433\u043d\u044f"
+    ],
+    "name:pol_x_preferred":[
+        "D\u0142ygnja"
+    ],
+    "name:ron_x_preferred":[
+        "Dl\u0103gnea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043b\u044b\u0433\u043d\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043b\u0438\u0433\u043d\u044f"
+    ],
     "name:und_x_variant":[
         "Dl\u0103gnja",
         "Dl\u016dgnya"
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1310536415,
-    "wof:lastmodified":1537587689,
+    "wof:lastmodified":1564177392,
     "wof:name":"Dlagnya",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

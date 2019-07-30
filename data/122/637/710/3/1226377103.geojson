@@ -32,6 +32,9 @@
     "name:bul_x_variant":[
         "Darvari"
     ],
+    "name:srp_x_preferred":[
+        "\u0414\u0430\u0440\u0432\u0430\u0440\u0438"
+    ],
     "name:und_x_variant":[
         "Kirtovts\u016d",
         "Zhivko",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1226377103,
-    "wof:lastmodified":1537587657,
+    "wof:lastmodified":1564177756,
     "wof:name":"Darvari",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

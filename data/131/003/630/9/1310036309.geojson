@@ -33,6 +33,15 @@
         "Metohiya",
         "Metohia"
     ],
+    "name:ron_x_preferred":[
+        "Metohia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0442\u043e\u0445\u0438\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0442\u043e\u0445\u0456\u044f"
+    ],
     "name:und_x_variant":[
         "Metochija",
         "Metokhiya"
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1310036309,
-    "wof:lastmodified":1537587486,
+    "wof:lastmodified":1564177410,
     "wof:name":"Metohia",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

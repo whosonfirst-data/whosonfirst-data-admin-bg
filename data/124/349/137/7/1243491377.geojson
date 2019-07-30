@@ -29,6 +29,15 @@
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0442\u043e\u0441\u043b\u0430\u0432"
     ],
+    "name:ron_x_preferred":[
+        "Svetoslav"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043e\u0441\u043b\u0430\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0432\u0435\u0442\u043e\u0441\u043b\u0430\u0432"
+    ],
     "name:und_x_variant":[
         "Golyama-Kaynardzha",
         "Cainargcaua-Mare",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1243491377,
-    "wof:lastmodified":1537587317,
+    "wof:lastmodified":1564177566,
     "wof:name":"Svetoslav",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

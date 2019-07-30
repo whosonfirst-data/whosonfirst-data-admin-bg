@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u0441\u043a\u0438 \u0418\u0437\u0432\u043e\u0440"
     ],
+    "name:bul_x_variant":[
+        "\u041f\u043e\u043b\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0644\u0633\u06a9\u06cc \u0627\u06cc\u0632\u0648\u0648\u0631"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u043e\u043b\u0441\u043a\u0438-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "Polski Izvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0441\u043a\u0438-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0406\u0437\u0432\u043e\u0440"
+    ],
     "name:und_x_variant":[
         "K\u016dr\u016d Chashme",
         "Polski Iswor",
@@ -58,7 +76,7 @@
         }
     ],
     "wof:id":1243009061,
-    "wof:lastmodified":1537587419,
+    "wof:lastmodified":1564177511,
     "wof:name":"Polski Izvor",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

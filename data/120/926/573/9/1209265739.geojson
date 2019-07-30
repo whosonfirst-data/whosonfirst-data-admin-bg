@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u043f\u0435\u043d"
     ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0440\u0443\u043f\u0435\u043d"
+    ],
+    "name:ron_x_preferred":[
+        "Krupen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u043f\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0443\u043f\u0435\u043d"
+    ],
     "name:und_x_variant":[
         "Iridzhe",
         "Irigea",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1209265739,
-    "wof:lastmodified":1537587532,
+    "wof:lastmodified":1564177292,
     "wof:name":"Krupen",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

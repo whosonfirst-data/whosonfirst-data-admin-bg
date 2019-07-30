@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0431\u0438\u043d\u043e"
     ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0431\u0438\u043d\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Bubino"
+    ],
+    "name:ron_x_preferred":[
+        "Bubino"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0431\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0431\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Yunuz Viran",
         "Bubino"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1209749545,
-    "wof:lastmodified":1537587729,
+    "wof:lastmodified":1564177284,
     "wof:name":"Bubino",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

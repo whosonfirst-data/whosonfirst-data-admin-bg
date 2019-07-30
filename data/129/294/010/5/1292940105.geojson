@@ -30,6 +30,30 @@
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u0435\u043b\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Kiselevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0633\u0644\u0648\u0648"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u0441\u0435\u043b\u0435\u0432\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Kiselevo"
+    ],
+    "name:ron_x_preferred":[
+        "Kiselevo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0441\u0435\u043b\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kiselevo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0441\u0435\u043b\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Kisselewo",
         "Kiselevo"
@@ -56,7 +80,7 @@
         }
     ],
     "wof:id":1292940105,
-    "wof:lastmodified":1537587562,
+    "wof:lastmodified":1564177023,
     "wof:name":"Kiselevo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

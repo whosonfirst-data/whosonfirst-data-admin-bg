@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0448\u0435\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Bashevo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0634\u0648\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10e8\u10d4\u10d5\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0448\u0435\u0432\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Ba\u0219evo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0448\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Basjevo"
+    ],
+    "name:tur_x_preferred":[
+        "Hallar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0448\u0435\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Bashtevo",
         "Bashevo"
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1293237753,
-    "wof:lastmodified":1537587766,
+    "wof:lastmodified":1564177036,
     "wof:name":"Bashevo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

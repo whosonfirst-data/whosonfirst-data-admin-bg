@@ -28,8 +28,29 @@
     "iso:country":"BG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0647\u064a\u0633\u0643\u064a\u0643\u0648\u0644\u0628\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0443\u0448\u0435\u0432\u0441\u043a\u0438 \u043a\u043e\u043b\u0438\u0431\u0438"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0634\u0648\u0633\u06a9\u06cc \u06a9\u0648\u0644\u06cc\u0628\u06cc"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0443\u0448\u0435\u0432\u0441\u043a\u0438-\u041a\u043e\u043b\u0438\u0431\u0438"
+    ],
+    "name:pol_x_preferred":[
+        "Duszewski kolibi"
+    ],
+    "name:ron_x_preferred":[
+        "Du\u0219evski Kolibi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0448\u0435\u0432\u0441\u043a\u0438-\u041a\u043e\u043b\u0438\u0431\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443\u0448\u0435\u0432\u0441\u044c\u043a\u0456 \u041a\u043e\u043b\u0438\u0431\u0438"
     ],
     "name:und_x_variant":[
         "Dushovski Kolibi",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1209846227,
-    "wof:lastmodified":1537587656,
+    "wof:lastmodified":1564177223,
     "wof:name":"Dushevski Kolibi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

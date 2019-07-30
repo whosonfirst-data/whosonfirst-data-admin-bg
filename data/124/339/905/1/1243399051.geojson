@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u0442\u043b\u0438\u0447\u0438\u043d\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0644\u06cc\u0686\u06cc\u0646\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u0442\u043b\u0438\u0447\u0438\u043d\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Metlicina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0442\u043b\u0438\u0447\u0438\u043d\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0442\u043b\u0438\u0447\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Ali Pasha",
         "General-Panomotowo",
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1243399051,
-    "wof:lastmodified":1537587487,
+    "wof:lastmodified":1564177533,
     "wof:name":"Metlichina",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

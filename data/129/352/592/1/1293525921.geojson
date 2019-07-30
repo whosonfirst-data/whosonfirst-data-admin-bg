@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Sokolovo"
+    ],
+    "name:fra_x_preferred":[
+        "Sokolovo"
+    ],
+    "name:ron_x_preferred":[
+        "Sokolovo"
+    ],
+    "name:slv_x_preferred":[
+        "Sokolovo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Sokolovo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Sokolowo",
         "Shakh\u016dn Kaya",
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1293525921,
-    "wof:lastmodified":1537587347,
+    "wof:lastmodified":1564177012,
     "wof:name":"Sokolovo",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

@@ -22,6 +22,15 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u043d\u043e"
     ],
+    "name:fin_x_preferred":[
+        "Orein\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Oreino"
+    ],
+    "name:nno_x_preferred":[
+        "Orin\u00f3"
+    ],
     "name:unk_x_variant":[
         "Kara-Bulak"
     ],
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1125869727,
-    "wof:lastmodified":1509397222,
+    "wof:lastmodified":1564177504,
     "wof:name":"Oreino",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0418\u0440\u0435\u0447\u0435\u043a"
     ],
+    "name:ces_x_preferred":[
+        "Ire\u010dek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0631\u0686\u06a9"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u0440\u0435\u0447\u0435\u043a"
+    ],
+    "name:ron_x_preferred":[
+        "Irecek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0440\u0435\u0447\u0435\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0440\u0435\u0447\u0435\u043a"
+    ],
     "name:und_x_variant":[
         "Chioluc",
         "K\u2019oylyuk",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1243019489,
-    "wof:lastmodified":1537587594,
+    "wof:lastmodified":1564177528,
     "wof:name":"Irechek",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

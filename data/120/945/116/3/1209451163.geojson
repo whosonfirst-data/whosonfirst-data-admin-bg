@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u043e\u043e\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Chernooki"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0646\u0648\u0648\u06a9\u06cc"
+    ],
+    "name:ron_x_preferred":[
+        "Cernooki"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u043e\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Tjernooki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0440\u043d\u043e\u043e\u043a\u0438"
+    ],
     "name:und_x_variant":[
         "Karag\u2019ozler",
         "Tschernooki",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1209451163,
-    "wof:lastmodified":1537587707,
+    "wof:lastmodified":1564177290,
     "wof:name":"Chernooki",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

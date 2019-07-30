@@ -32,6 +32,27 @@
     "name:bul_x_variant":[
         "\u0418\u043d\u0434\u0436\u0435 \u0412\u043e\u0439\u0432\u043e\u0434\u0430"
     ],
+    "name:deu_x_preferred":[
+        "Indsche Wojwoda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0646\u062f\u0698\u0647\u0648\u0648\u06cc\u0648\u0648\u062f\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0418\u043d\u0434\u0436\u0435-\u0412\u043e\u0439\u0432\u043e\u0434\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Indje Voivoda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0434\u0436\u0435-\u0412\u043e\u0439\u0432\u043e\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Indzhe Voyvoda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043d\u0434\u0436\u0435-\u0412\u043e\u0439\u0432\u043e\u0434\u0430"
+    ],
     "name:und_x_variant":[
         "Urumki\u00f6j",
         "Gr\u016diko Selo",
@@ -70,7 +91,7 @@
         }
     ],
     "wof:id":1293032479,
-    "wof:lastmodified":1537587594,
+    "wof:lastmodified":1564177067,
     "wof:name":"Indzhe Voyvoda",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

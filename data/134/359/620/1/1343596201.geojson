@@ -31,6 +31,12 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0441\u0442\u0438\u0447"
     ],
+    "name:spa_x_preferred":[
+        "Mostich"
+    ],
+    "name:swe_x_preferred":[
+        "Mostich"
+    ],
     "name:und_x_variant":[
         "Alusiyan",
         "Makhmudkioy",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1343596201,
-    "wof:lastmodified":1537587474,
+    "wof:lastmodified":1564176954,
     "wof:name":"Mostich",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

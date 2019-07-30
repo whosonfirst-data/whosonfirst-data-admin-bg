@@ -29,6 +29,18 @@
     "name:bul_x_preferred":[
         "\u041e\u0431\u0435\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Obel"
+    ],
+    "name:deu_x_preferred":[
+        "Obel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0431\u0435\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Obel"
+    ],
     "name:und_x_variant":[
         "Leshtnitsa",
         "Makhala",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1243492913,
-    "wof:lastmodified":1537587457,
+    "wof:lastmodified":1564177567,
     "wof:name":"Obel",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

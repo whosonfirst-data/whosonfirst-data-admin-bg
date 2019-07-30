@@ -30,6 +30,24 @@
     "name:bul_x_preferred":[
         "\u041b\u044e\u0431\u0438\u043d\u043e"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0648\u0628\u06cc\u0646\u0648"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10e3\u10d1\u10d8\u10dc\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041b\u044e\u0431\u0438\u043d\u043e"
+    ],
+    "name:ron_x_preferred":[
+        "Liubino"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044e\u0431\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Ljubino",
         "Yumerler",
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1292941723,
-    "wof:lastmodified":1537587507,
+    "wof:lastmodified":1564177022,
     "wof:name":"Lyubino",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

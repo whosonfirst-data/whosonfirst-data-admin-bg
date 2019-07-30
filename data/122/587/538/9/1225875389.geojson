@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0441\u043a\u0430"
     ],
+    "name:deu_x_preferred":[
+        "Gorska"
+    ],
     "name:und_x_variant":[
         "Kyuchuk Isufovtsi",
         "Gorska"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1225875389,
-    "wof:lastmodified":1537587613,
+    "wof:lastmodified":1564177717,
     "wof:name":"Gorska",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

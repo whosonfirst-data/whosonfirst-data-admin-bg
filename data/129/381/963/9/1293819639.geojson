@@ -29,6 +29,24 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0430\u0439\u043d\u0446\u0438"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e0\u10d0\u10d8\u10dc\u10ea\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u0438\u043d\u0446\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Beraintsi"
+    ],
+    "name:ron_x_preferred":[
+        "Berain\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u0438\u043d\u0446\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0440\u0430\u0439\u043d\u0446\u0456"
+    ],
     "name:und_x_variant":[
         "Berainzi",
         "Beraintsi",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1293819639,
-    "wof:lastmodified":1537587757,
+    "wof:lastmodified":1564177090,
     "wof:name":"Berayntsi",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

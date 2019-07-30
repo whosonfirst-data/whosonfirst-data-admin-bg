@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0438\u043b\u043e\u0432\u0446\u0438"
     ],
+    "name:fra_x_preferred":[
+        "Kopilovtsi"
+    ],
+    "name:pol_x_preferred":[
+        "Kopi\u0142owci"
+    ],
+    "name:ron_x_preferred":[
+        "Kopilov\u021bi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0438\u043b\u043e\u0432\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kopilovtsi"
+    ],
     "name:und_x_variant":[
         "Kopilovts\u016d",
         "Kopilowzi",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1260322837,
-    "wof:lastmodified":1537587550,
+    "wof:lastmodified":1564177367,
     "wof:name":"Kopilovtsi",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

@@ -31,6 +31,33 @@
     "name:bul_x_preferred":[
         "\u0411\u044f\u043b \u0438\u0437\u0432\u043e\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Byal Izvor"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0627\u0644 \u06cc\u0632\u0648\u0648\u0631"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10d0\u10da-\u10d8\u10d6\u10d5\u10dd\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u044f\u043b-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:ron_x_preferred":[
+        "Beal Izvor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044f\u043b-\u0418\u0437\u0432\u043e\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Byal Izvor"
+    ],
+    "name:tur_x_preferred":[
+        "Akp\u0131nar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u044f\u043b-\u0406\u0437\u0432\u043e\u0440"
+    ],
     "name:und_x_variant":[
         "Bel Iswor",
         "Byel-Izvor",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1310139719,
-    "wof:lastmodified":1537587719,
+    "wof:lastmodified":1564177379,
     "wof:name":"Byal Izvor",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

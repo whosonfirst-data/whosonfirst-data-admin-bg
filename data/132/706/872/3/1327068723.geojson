@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u0414\u0440\u0430\u0433\u043b\u0438\u0449\u0435"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0646\u0648 \u062f\u0631\u0627\u06af\u0644\u06cc\u0634\u062a\u0647"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0580\u0576\u0578 \u0534\u0580\u0561\u0563\u056c\u056b\u0577\u057f\u0565"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0414\u0440\u0430\u0433\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e \u0414\u0440\u0430\u0433\u043b\u0438\u0448\u0442\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Gorno Dragli\u0219te"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0414\u0440\u0430\u0433\u043b\u0438\u0448\u0442\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u0454 \u0414\u0440\u0430\u0433\u043b\u0438\u0448\u0442\u0435"
+    ],
     "name:und_x_variant":[
         "Gorno Draglishta",
         "Gorno Draglischta",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1327068723,
-    "wof:lastmodified":1537587617,
+    "wof:lastmodified":1564176817,
     "wof:name":"Gorno Draglishte",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

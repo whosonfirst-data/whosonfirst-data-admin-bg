@@ -31,6 +31,15 @@
     "name:bul_x_preferred":[
         "\u0416\u0438\u0442\u043d\u0438\u0446\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Jitnitsa"
+    ],
+    "name:ron_x_preferred":[
+        "Jitni\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0438\u0442\u043d\u0438\u0446\u0430"
+    ],
     "name:und_x_variant":[
         "Testedzhi",
         "Shitniza",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1243208539,
-    "wof:lastmodified":1537587237,
+    "wof:lastmodified":1564177604,
     "wof:name":"Zhitnitsa",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

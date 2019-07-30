@@ -33,6 +33,21 @@
     "name:bul_x_variant":[
         "Hromitsa"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0648\u0645\u06cc\u062a\u0633\u0627"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e0\u10dd\u10db\u10d8\u10ea\u10d0"
+    ],
+    "name:ron_x_preferred":[
+        "Hromi\u021ba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0440\u043e\u043c\u0438\u0446\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0440\u043e\u043c\u0438\u0446\u044f"
+    ],
     "name:und_x_variant":[
         "Khromitsa"
     ],
@@ -54,7 +69,7 @@
         }
     ],
     "wof:id":1209249633,
-    "wof:lastmodified":1537587565,
+    "wof:lastmodified":1564177227,
     "wof:name":"Hromitsa",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

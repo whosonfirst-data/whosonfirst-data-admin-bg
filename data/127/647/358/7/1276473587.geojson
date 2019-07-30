@@ -30,6 +30,27 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0430\u0440"
     ],
+    "name:ceb_x_preferred":[
+        "Kamenar"
+    ],
+    "name:deu_x_preferred":[
+        "Kamenar"
+    ],
+    "name:fra_x_preferred":[
+        "Kamenar"
+    ],
+    "name:ron_x_preferred":[
+        "Kamenar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Kamenar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043c\u0435\u043d\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "Alekariya",
         "Alahkaria",
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1276473587,
-    "wof:lastmodified":1537587582,
+    "wof:lastmodified":1564177158,
     "wof:name":"Kamenar",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

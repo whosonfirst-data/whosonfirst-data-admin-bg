@@ -31,6 +31,21 @@
     "name:bul_x_preferred":[
         "\u0416\u0435\u043d\u0434\u0430"
     ],
+    "name:fas_x_preferred":[
+        "\u0698\u0646\u062f\u0627"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u0435\u043d\u0434\u0430"
+    ],
+    "name:ron_x_preferred":[
+        "Jenda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0435\u043d\u0434\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0435\u043d\u0434\u0430"
+    ],
     "name:und_x_variant":[
         "Shenda",
         "Yashl\u016d K\u2019oy",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1343697437,
-    "wof:lastmodified":1537587239,
+    "wof:lastmodified":1564176969,
     "wof:name":"Zhenda",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

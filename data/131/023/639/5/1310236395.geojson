@@ -31,6 +31,27 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u0426\u0435\u0440\u043e\u0432\u0435\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Gorno Cerovene"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0426\u0435\u0440\u043e\u0432\u0435\u043d\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Gorno Tserovene"
+    ],
+    "name:ron_x_preferred":[
+        "Gorno \u021aerovene"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u043e-\u0426\u0435\u0440\u043e\u0432\u0435\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Gorno Tserovene"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0440\u0456\u0448\u043d\u0454 \u0426\u0435\u0440\u043e\u0432\u0435\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Gorno Zerowene",
         "Gorno Tserovene"
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1310236395,
-    "wof:lastmodified":1537587614,
+    "wof:lastmodified":1564177377,
     "wof:name":"Gorno Tserovene",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

@@ -30,6 +30,15 @@
     "name:bul_x_preferred":[
         "\u042f\u043d\u0438\u043d\u043e"
     ],
+    "name:ron_x_preferred":[
+        "Ianino"
+    ],
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u0438\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042f\u043d\u0438\u043d\u043e"
+    ],
     "name:und_x_variant":[
         "Janino",
         "Yanaklar",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1277113339,
-    "wof:lastmodified":1537587255,
+    "wof:lastmodified":1564177198,
     "wof:name":"Yanino",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

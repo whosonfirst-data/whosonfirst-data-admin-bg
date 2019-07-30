@@ -30,6 +30,21 @@
     "name:bul_x_preferred":[
         "\u0415\u043b\u0435\u043d\u043e\u0432 \u0434\u043e\u043b"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0646\u0648\u0648 \u062f\u0648\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0415\u043b\u0435\u043d\u043e\u0432-\u0414\u043e\u043b"
+    ],
+    "name:ron_x_preferred":[
+        "Elenov Dol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0415\u043b\u0435\u043d\u043e\u0432-\u0414\u043e\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0404\u043b\u0435\u043d\u043e\u0432-\u0414\u043e\u043b"
+    ],
     "name:und_x_variant":[
         "Elenow Dol",
         "Elenov Dol"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1243584719,
-    "wof:lastmodified":1537587651,
+    "wof:lastmodified":1564177572,
     "wof:name":"Elenov Dol",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

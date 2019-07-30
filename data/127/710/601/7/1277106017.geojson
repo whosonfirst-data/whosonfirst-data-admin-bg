@@ -30,6 +30,18 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043f\u0438\u043d\u0430"
     ],
+    "name:fra_x_preferred":[
+        "Popina"
+    ],
+    "name:ita_x_preferred":[
+        "Popina"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043f\u0438\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Popina"
+    ],
     "name:und_x_variant":[
         "Popind",
         "Popina"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1277106017,
-    "wof:lastmodified":1537587417,
+    "wof:lastmodified":1564177194,
     "wof:name":"Popina",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

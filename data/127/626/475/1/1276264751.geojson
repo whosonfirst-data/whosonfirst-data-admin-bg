@@ -29,6 +29,21 @@
     "name:bul_x_preferred":[
         "\u0427\u043e\u0440\u0443\u043b"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u0631\u0648\u0644"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0427\u043e\u0440\u0443\u043b"
+    ],
+    "name:ron_x_preferred":[
+        "Ciorul"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0440\u0443\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0440\u0443\u043b"
+    ],
     "name:und_x_variant":[
         "Tschorul",
         "Chorul"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276264751,
-    "wof:lastmodified":1537587702,
+    "wof:lastmodified":1564177119,
     "wof:name":"Chorul",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

@@ -31,6 +31,18 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u0441\u0430\u0440\u043e\u0432\u043e"
     ],
+    "name:fra_x_preferred":[
+        "Pisarovo"
+    ],
+    "name:ron_x_preferred":[
+        "Pisarovo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0441\u0430\u0440\u043e\u0432\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0438\u0441\u0430\u0440\u043e\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Pisarevo",
         "Peserovo",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1260114275,
-    "wof:lastmodified":1537587428,
+    "wof:lastmodified":1564177355,
     "wof:name":"Pisarovo",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",
