@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "YA"
+    ],
     "lbl:latitude":42.354159,
     "lbl:longitude":26.632576,
     "mps:latitude":42.354159,
@@ -371,7 +374,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1563324732,
+    "wof:lastmodified":1565654074,
     "wof:name":"\u042f\u043c\u0431\u043e\u043b",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

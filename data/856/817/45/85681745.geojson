@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KZ"
+    ],
     "lbl:latitude":41.530802,
     "lbl:longitude":25.392923,
     "mps:latitude":41.530802,
@@ -379,7 +382,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1563324733,
+    "wof:lastmodified":1565654074,
     "wof:name":"\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

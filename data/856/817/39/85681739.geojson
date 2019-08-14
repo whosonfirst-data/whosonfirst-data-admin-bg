@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SM"
+    ],
     "lbl:latitude":41.69033,
     "lbl:longitude":24.624563,
     "mps:latitude":41.69033,
@@ -369,7 +372,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1563324733,
+    "wof:lastmodified":1565654074,
     "wof:name":"\u0421\u043c\u043e\u043b\u044f\u043d",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

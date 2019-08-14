@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RG"
+    ],
     "lbl:latitude":43.659226,
     "lbl:longitude":26.639147,
     "mps:latitude":43.659226,
@@ -384,7 +387,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1563324725,
+    "wof:lastmodified":1565654072,
     "wof:name":"\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

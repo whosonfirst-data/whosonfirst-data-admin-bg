@@ -14,6 +14,9 @@
     "itu:country_code":[
         "359"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BG"
+    ],
     "lbl:latitude":42.501868,
     "lbl:longitude":25.176846,
     "mps:latitude":42.501868,
@@ -1145,16 +1148,13 @@
         }
     ],
     "wof:id":85633001,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "bul"
     ],
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1563324724,
+    "wof:lastmodified":1565654072,
     "wof:name":"Bulgaria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
