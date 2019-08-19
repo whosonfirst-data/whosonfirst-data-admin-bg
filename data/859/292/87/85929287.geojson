@@ -74,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":266,
     "wof:belongsto":[
         102191581,
@@ -104,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563324716,
+    "wof:lastmodified":1566247582,
     "wof:name":"Triaditsa",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

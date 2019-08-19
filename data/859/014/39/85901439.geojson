@@ -151,7 +151,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748887,
@@ -180,7 +180,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564176997,
+    "wof:lastmodified":1566247542,
     "wof:name":"Slatina",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

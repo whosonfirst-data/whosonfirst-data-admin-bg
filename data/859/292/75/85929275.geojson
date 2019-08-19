@@ -74,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":42.676189,
     "wd:longitude":23.263893,
     "wd:wordcount":108,
@@ -106,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563324717,
+    "wof:lastmodified":1566247582,
     "wof:name":"Ovcha Kupel",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

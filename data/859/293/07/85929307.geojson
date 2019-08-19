@@ -88,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":81,
     "wof:belongsto":[
         102191581,
@@ -115,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564176998,
+    "wof:lastmodified":1566247583,
     "wof:name":"Iskar",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

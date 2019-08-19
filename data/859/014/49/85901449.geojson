@@ -96,7 +96,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -125,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563324714,
+    "wof:lastmodified":1566247542,
     "wof:name":"Vrabnitsa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

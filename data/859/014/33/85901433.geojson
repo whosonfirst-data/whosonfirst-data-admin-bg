@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4122738.790605,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.274157,42.739681,23.274157,42.739681",
     "geom:latitude":42.739681,
     "geom:longitude":23.274157,
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":177,
     "wof:belongsto":[
         102191581,
@@ -102,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531932504,
+    "wof:lastmodified":1566247542,
     "wof:name":"Obelya",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

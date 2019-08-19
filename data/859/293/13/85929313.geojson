@@ -471,7 +471,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:elevation":47.0,
     "wd:latitude":42.35,
@@ -506,7 +506,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564176998,
+    "wof:lastmodified":1566247583,
     "wof:megacity":1,
     "wof:name":"Sredets",
     "wof:parent_id":101748887,

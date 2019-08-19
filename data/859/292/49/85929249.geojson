@@ -80,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":151,
     "wof:belongsto":[
         102191581,
@@ -111,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563324719,
+    "wof:lastmodified":1566247582,
     "wof:name":"Ilinden",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",
