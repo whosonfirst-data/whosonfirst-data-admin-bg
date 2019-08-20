@@ -1,0 +1,54 @@
+{
+  "id": 1444837303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7153978173,42.1335912381,24.7153978173,42.1335912381",
+    "geom:latitude":42.133591,
+    "geom:longitude":24.715398,
+    "iso:country":"BG",
+    "lbl:latitude":42.133591,
+    "lbl:longitude":24.715398,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":16.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:bul_x_variant":[
+        "\u0425\u0440\u0438\u0441\u0442\u043e \u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438"
+    ],
+    "name:eng_x_preferred":[
+        "\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"2d8b4b0bd2262df97df1a6ef3a78d355",
+    "wof:hierarchy":[],
+    "wof:id":1444837303,
+    "wof:lastmodified":1566333622,
+    "wof:name":"Smirnenski",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.715397817280873,
+    42.13359123805414,
+    24.715397817280873,
+    42.13359123805414
+],
+  "geometry": {"coordinates":[24.71539781728087,42.13359123805414],"type":"Point"}
+}

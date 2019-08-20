@@ -1,0 +1,54 @@
+{
+  "id": 1444837029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7839509994,42.1287722447,24.7839509994,42.1287722447",
+    "geom:latitude":42.128772,
+    "geom:longitude":24.783951,
+    "iso:country":"BG",
+    "lbl:latitude":42.128772,
+    "lbl:longitude":24.783951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:bul_x_variant":[
+        "A3"
+    ],
+    "name:eng_x_preferred":[
+        "\u0422\u043e\u0434\u043e\u0440 \u041a\u0430\u0431\u043b\u0435\u0448\u043a\u043e\u0432"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"f21705a6fdc3d8e768151b3eeb3d1424",
+    "wof:hierarchy":[],
+    "wof:id":1444837029,
+    "wof:lastmodified":1566333622,
+    "wof:name":"Todor Kableshkov",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.783950999374756,
+    42.12877224473445,
+    24.783950999374756,
+    42.12877224473445
+],
+  "geometry": {"coordinates":[24.78395099937476,42.12877224473445],"type":"Point"}
+}

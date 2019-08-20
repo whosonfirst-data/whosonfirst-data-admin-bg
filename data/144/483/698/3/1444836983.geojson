@@ -1,0 +1,54 @@
+{
+  "id": 1444836983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8046362057,42.1472296281,24.8046362057,42.1472296281",
+    "geom:latitude":42.14723,
+    "geom:longitude":24.804636,
+    "iso:country":"BG",
+    "lbl:latitude":42.14723,
+    "lbl:longitude":24.804636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:bul_x_variant":[
+        "Industrialna zona iztok"
+    ],
+    "name:eng_x_preferred":[
+        "\u0418\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043b\u043d\u0430 \u0437\u043e\u043d\u0430 \u0438\u0437\u0442\u043e\u043a"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"ff592361ab12ae0d8076aa6da3a56e13",
+    "wof:hierarchy":[],
+    "wof:id":1444836983,
+    "wof:lastmodified":1566333621,
+    "wof:name":"Industrial Zone-East",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.804636205705417,
+    42.14722962809992,
+    24.804636205705417,
+    42.14722962809992
+],
+  "geometry": {"coordinates":[24.80463620570542,42.14722962809992],"type":"Point"}
+}

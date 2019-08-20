@@ -1,0 +1,51 @@
+{
+  "id": 1444837481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7385721148,42.174929406,24.7385721148,42.174929406",
+    "geom:latitude":42.174929,
+    "geom:longitude":24.738572,
+    "iso:country":"BG",
+    "lbl:latitude":42.174929,
+    "lbl:longitude":24.738572,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "\u0413\u0430\u0433\u0430\u043d\u0438\u0446\u0430"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"d703c798fee001f013dac807362346ac",
+    "wof:hierarchy":[],
+    "wof:id":1444837481,
+    "wof:lastmodified":1566333623,
+    "wof:name":"Gaganitsa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.738572114829733,
+    42.17492940598044,
+    24.738572114829733,
+    42.17492940598044
+],
+  "geometry": {"coordinates":[24.73857211482973,42.17492940598044],"type":"Point"}
+}

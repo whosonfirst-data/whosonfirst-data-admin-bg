@@ -1,0 +1,51 @@
+{
+  "id": 1444837273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7358827519,42.1089536791,24.7358827519,42.1089536791",
+    "geom:latitude":42.108954,
+    "geom:longitude":24.735883,
+    "iso:country":"BG",
+    "lbl:latitude":42.108954,
+    "lbl:longitude":24.735883,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "\u0411\u0435\u043b\u043e\u043c\u043e\u0440\u0441\u043a\u0438"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"0ae41e81b248f4dae39dcf314d57f1f6",
+    "wof:hierarchy":[],
+    "wof:id":1444837273,
+    "wof:lastmodified":1566333622,
+    "wof:name":"Belomorski",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.735882751904313,
+    42.10895367905951,
+    24.735882751904313,
+    42.10895367905951
+],
+  "geometry": {"coordinates":[24.73588275190431,42.10895367905951],"type":"Point"}
+}
