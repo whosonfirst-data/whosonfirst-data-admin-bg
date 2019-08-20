@@ -80,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":203,
     "wof:belongsto":[
         102191581,
@@ -112,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563324713,
+    "wof:lastmodified":1566247542,
     "wof:name":"Nadezhda",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

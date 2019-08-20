@@ -80,7 +80,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":42.644722,
     "wd:longitude":23.266111,
     "wd:wordcount":285,
@@ -114,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553814913,
+    "wof:lastmodified":1566247542,
     "wof:name":"Vitosha",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

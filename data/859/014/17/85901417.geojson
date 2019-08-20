@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6021349.073498,
+    "geom:area_square_m":0.0,
     "geom:bbox":"23.399822,42.666435,23.399822,42.666435",
     "geom:latitude":42.666435,
     "geom:longitude":23.399822,
@@ -70,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191581,
         101748887,
@@ -96,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531932500,
+    "wof:lastmodified":1566247542,
     "wof:name":"Gara Iskar",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",
