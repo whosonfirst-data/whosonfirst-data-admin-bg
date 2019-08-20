@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"15a8d49759e5382cae666273f7e532da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdb66829222ea2b31a71e7d67427af32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444836927,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444836927,
-    "wof:lastmodified":1566333621,
+    "wof:lastmodified":1566338952,
     "wof:name":"Kamenitsa",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -43,9 +56,9 @@
 },
   "bbox": [
     24.76702804011528,
-    42.142870352044476,
+    42.14287035204448,
     24.76702804011528,
-    42.142870352044476
+    42.14287035204448
 ],
   "geometry": {"coordinates":[24.76702804011528,42.14287035204448],"type":"Point"}
 }

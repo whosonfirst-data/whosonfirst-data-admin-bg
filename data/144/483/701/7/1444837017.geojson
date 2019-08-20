@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"ff4f957211091482e0e47025418c4d35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51f64b1a89c9950f188d988f1c56ddcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837017,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837017,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338962,
     "wof:name":"Panajot Volov",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -46,9 +59,9 @@
 },
   "bbox": [
     24.77974529352329,
-    42.128984429128366,
+    42.12898442912837,
     24.77974529352329,
-    42.128984429128366
+    42.12898442912837
 ],
   "geometry": {"coordinates":[24.77974529352329,42.12898442912837],"type":"Point"}
 }

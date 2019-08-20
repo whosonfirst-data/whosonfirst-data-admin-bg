@@ -29,13 +29,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"ff592361ab12ae0d8076aa6da3a56e13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e4de2672f5a1939095c6a2d041f85f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":-1,
+            "neighbourhood_id":1444836983,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444836983,
-    "wof:lastmodified":1566333621,
+    "wof:lastmodified":1566338958,
     "wof:name":"Industrial Zone-East",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.804636205705417,
+    24.80463620570542,
     42.14722962809992,
-    24.804636205705417,
+    24.80463620570542,
     42.14722962809992
 ],
   "geometry": {"coordinates":[24.80463620570542,42.14722962809992],"type":"Point"}

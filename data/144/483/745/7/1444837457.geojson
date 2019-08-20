@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"75a9923c6e227a3ce22911b6584799c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb29c99b7e2ff82e6b7927ebc1fdfdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837457,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837457,
-    "wof:lastmodified":1566333623,
+    "wof:lastmodified":1566339011,
     "wof:name":"Karshiaka",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -43,9 +56,9 @@
 },
   "bbox": [
     24.74246310799843,
-    42.156437677230755,
+    42.15643767723076,
     24.74246310799843,
-    42.156437677230755
+    42.15643767723076
 ],
   "geometry": {"coordinates":[24.74246310799843,42.15643767723076],"type":"Point"}
 }

@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"d002e376741807d6af1f2fa429d0857a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f16a338c13bca78b9808ef43dadfb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837165,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837165,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338981,
     "wof:name":"Sadiiski",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -42,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.761949721825257,
+    24.76194972182526,
     42.13284522440028,
-    24.761949721825257,
+    24.76194972182526,
     42.13284522440028
 ],
   "geometry": {"coordinates":[24.76194972182526,42.13284522440028],"type":"Point"}

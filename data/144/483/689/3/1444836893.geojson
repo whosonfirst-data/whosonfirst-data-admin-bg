@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
     "wof:geomhash":"eb0796d12140dfb02bdd6e8349d70d00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444836893,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444836893,
-    "wof:lastmodified":1566333621,
+    "wof:lastmodified":1566338947,
     "wof:name":"Old Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],

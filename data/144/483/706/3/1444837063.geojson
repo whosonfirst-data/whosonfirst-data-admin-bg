@@ -30,13 +30,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"b12c01e8520a411a94a6edbec7da71ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"beee40dd99259c7587e59111efa6bfaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":-1,
+            "neighbourhood_id":1444837063,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837063,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338967,
     "wof:name":"Opulchenski",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.796825609124138,
-    42.131403280984266,
-    24.796825609124138,
-    42.131403280984266
+    24.79682560912414,
+    42.13140328098427,
+    24.79682560912414,
+    42.13140328098427
 ],
   "geometry": {"coordinates":[24.79682560912414,42.13140328098427],"type":"Point"}
 }

@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"f21705a6fdc3d8e768151b3eeb3d1424",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63f0173431e7d9a5664379f550c7c63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837029,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837029,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338963,
     "wof:name":"Todor Kableshkov",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.783950999374756,
+    24.78395099937476,
     42.12877224473445,
-    24.783950999374756,
+    24.78395099937476,
     42.12877224473445
 ],
   "geometry": {"coordinates":[24.78395099937476,42.12877224473445],"type":"Point"}

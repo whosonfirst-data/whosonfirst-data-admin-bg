@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"0ae41e81b248f4dae39dcf314d57f1f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c825a6fa982e010e12c312c99ec105bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837273,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837273,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338991,
     "wof:name":"Belomorski",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -42,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.735882751904313,
+    24.73588275190431,
     42.10895367905951,
-    24.735882751904313,
+    24.73588275190431,
     42.10895367905951
 ],
   "geometry": {"coordinates":[24.73588275190431,42.10895367905951],"type":"Point"}

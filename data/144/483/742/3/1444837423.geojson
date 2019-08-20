@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"218a00e80ee25326864374dccdcfd24f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"323339997b3cc20b55eab233c8756f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837423,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837423,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566339007,
     "wof:name":"Filipovo",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -42,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.737198823123133,
-    42.164157361067126,
-    24.737198823123133,
-    42.164157361067126
+    24.73719882312313,
+    42.16415736106713,
+    24.73719882312313,
+    42.16415736106713
 ],
   "geometry": {"coordinates":[24.73719882312313,42.16415736106713],"type":"Point"}
 }

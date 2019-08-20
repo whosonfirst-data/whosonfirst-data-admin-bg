@@ -32,15 +32,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"6047ef0a35d4f1dfa8c997a306bd7347",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d11bdb54108537b3a2a965a59e46fe2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444836973,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444836973,
-    "wof:lastmodified":1566333621,
+    "wof:lastmodified":1566338957,
     "wof:name":"Hadji Hasan Mahala",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -49,9 +62,9 @@
 },
   "bbox": [
     24.75865954377818,
-    42.147823569471846,
+    42.14782356947185,
     24.75865954377818,
-    42.147823569471846
+    42.14782356947185
 ],
   "geometry": {"coordinates":[24.75865954377818,42.14782356947185],"type":"Point"}
 }

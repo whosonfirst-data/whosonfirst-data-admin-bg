@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"98a96e218ecd1d6b257813f2bb43f834",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b0dd767f012d08e03b08ca8d9bd9b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837363,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837363,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566339001,
     "wof:name":"Smirnenski 2",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -42,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.710648516795555,
+    24.71064851679555,
     42.13180900279391,
-    24.710648516795555,
+    24.71064851679555,
     42.13180900279391
 ],
   "geometry": {"coordinates":[24.71064851679555,42.13180900279391],"type":"Point"}

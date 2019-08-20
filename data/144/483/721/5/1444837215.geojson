@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"36e4a740a023b1f52421d83034dc97ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99704391c240d6200244ae64bc3be54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837215,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837215,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338986,
     "wof:name":"Juzhen",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -42,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.739130119888188,
+    24.73913011988819,
     42.11996129596785,
-    24.739130119888188,
+    24.73913011988819,
     42.11996129596785
 ],
   "geometry": {"coordinates":[24.73913011988819,42.11996129596785],"type":"Point"}

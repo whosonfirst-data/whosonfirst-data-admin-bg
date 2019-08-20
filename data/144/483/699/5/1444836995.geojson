@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"104edd8ccd30ebbb079027bb2df0763d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df39c3e126b53e6ccf19f6851158e3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444836995,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444836995,
-    "wof:lastmodified":1566333621,
+    "wof:lastmodified":1566338958,
     "wof:name":"Trakia",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.788042264250663,
+    24.78804226425066,
     42.1341190747433,
-    24.788042264250663,
+    24.78804226425066,
     42.1341190747433
 ],
   "geometry": {"coordinates":[24.78804226425066,42.1341190747433],"type":"Point"}

@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"c0704096c3ef2333b1861a7ef2cc2b01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef2c05e930673db36423af3b5af4feb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837319,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837319,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338996,
     "wof:name":"Mladezhki Halm",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.726670253372546,
+    24.72667025337255,
     42.14186528149754,
-    24.726670253372546,
+    24.72667025337255,
     42.14186528149754
 ],
   "geometry": {"coordinates":[24.72667025337255,42.14186528149754],"type":"Point"}

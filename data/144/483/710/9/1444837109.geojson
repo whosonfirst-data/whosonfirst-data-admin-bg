@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"677c20b3d72942354198f2a3c0cb9f3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96d07828938e8ef99e131893b28259b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837109,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837109,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338973,
     "wof:name":"Zahari Zograf",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -45,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.788557248640643,
-    42.136601378108715,
-    24.788557248640643,
-    42.136601378108715
+    24.78855724864064,
+    42.13660137810871,
+    24.78855724864064,
+    42.13660137810871
 ],
   "geometry": {"coordinates":[24.78855724864064,42.13660137810871],"type":"Point"}
 }

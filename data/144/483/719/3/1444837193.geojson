@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"4562069dc629f7d8ca0c0ead44a1f981",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c84d3b42758bc9d32164f256dac5a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837193,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837193,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338982,
     "wof:name":"Kapana",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -42,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.748531517442018,
+    24.74853151744202,
     42.15019927923437,
-    24.748531517442018,
+    24.74853151744202,
     42.15019927923437
 ],
   "geometry": {"coordinates":[24.74853151744202,42.15019927923437],"type":"Point"}

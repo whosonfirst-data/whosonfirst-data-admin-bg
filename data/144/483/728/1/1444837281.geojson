@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"2eb4925ce5fee89e5528e266f3577f18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40615b70a23b51897cb1dd8af7ed693f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837281,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837281,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338992,
     "wof:name":"Komatevski Vasel",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -42,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.716084463134173,
+    24.71608446313417,
     42.12584661671849,
-    24.716084463134173,
+    24.71608446313417,
     42.12584661671849
 ],
   "geometry": {"coordinates":[24.71608446313417,42.12584661671849],"type":"Point"}

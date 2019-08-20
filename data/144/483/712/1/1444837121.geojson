@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"79c8694591841de636d5bb4f116098df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81cc4bd440c0c5582123441fd2d99e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837121,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837121,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338976,
     "wof:name":"Lauta",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.777227592061188,
+    24.77722759206119,
     42.13390690754927,
-    24.777227592061188,
+    24.77722759206119,
     42.13390690754927
 ],
   "geometry": {"coordinates":[24.77722759206119,42.13390690754927],"type":"Point"}

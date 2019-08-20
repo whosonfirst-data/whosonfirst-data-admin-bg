@@ -29,13 +29,25 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"16cccd4d552e7f6b36c7ad65173de3a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29c80f629d9ec849b39daf52b4d13de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":-1,
+            "neighbourhood_id":1444837073,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837073,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338968,
     "wof:name":"Kapitan Burago",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.799343310586234,
-    42.137492437636155,
-    24.799343310586234,
-    42.137492437636155
+    24.79934331058623,
+    42.13749243763615,
+    24.79934331058623,
+    42.13749243763615
 ],
   "geometry": {"coordinates":[24.79934331058623,42.13749243763615],"type":"Point"}
 }

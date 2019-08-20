@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"c1cceddfd64135af3e322a8ca1cf63ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74a8138956c0a41bf3e275cbad4618bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837007,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837007,
-    "wof:lastmodified":1566333621,
+    "wof:lastmodified":1566338961,
     "wof:name":"Ljuljacite",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -45,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.776397894988452,
+    24.77639789498845,
     42.12641695008374,
-    24.776397894988452,
+    24.77639789498845,
     42.12641695008374
 ],
   "geometry": {"coordinates":[24.77639789498845,42.12641695008374],"type":"Point"}

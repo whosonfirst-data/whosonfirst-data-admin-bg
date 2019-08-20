@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"a112eda29b39e6b7c76b92b60240fa9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45760fb83ab3bcebd902b57d4cb3d57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837397,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837397,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566339005,
     "wof:name":"Zaharna Fabrika",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -42,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.728501308981333,
+    24.72850130898133,
     42.15940690009082,
-    24.728501308981333,
+    24.72850130898133,
     42.15940690009082
 ],
   "geometry": {"coordinates":[24.72850130898133,42.15940690009082],"type":"Point"}

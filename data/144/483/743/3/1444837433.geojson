@@ -29,15 +29,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"1f5d7a36c5c13ec657081f07d7cefa94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88cb858154bd4e2f33f48c240c1975d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837433,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837433,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566339008,
     "wof:name":"Industrial Zone-North",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -46,9 +59,9 @@
 },
   "bbox": [
     24.73794268946421,
-    42.171112749510726,
+    42.17111274951073,
     24.73794268946421,
-    42.171112749510726
+    42.17111274951073
 ],
   "geometry": {"coordinates":[24.73794268946421,42.17111274951073],"type":"Point"}
 }

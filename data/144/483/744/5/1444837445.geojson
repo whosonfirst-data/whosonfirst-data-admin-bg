@@ -26,15 +26,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"28f616370ef1ea1db5b4d1c2b1804d38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"066683bdbc49ddfabfccccf73e8336a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837445,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837445,
-    "wof:lastmodified":1566333623,
+    "wof:lastmodified":1566339010,
     "wof:name":"Gagarin",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -42,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.754536630918953,
-    42.161358025521864,
-    24.754536630918953,
-    42.161358025521864
+    24.75453663091895,
+    42.16135802552186,
+    24.75453663091895,
+    42.16135802552186
 ],
   "geometry": {"coordinates":[24.75453663091895,42.16135802552186],"type":"Point"}
 }

@@ -30,15 +30,28 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
     "wof:breaches":[],
     "wof:country":"BG",
-    "wof:geomhash":"575bd0a36d9da6bb191b128e373150b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9f56e1696c74a7a62eee3b98b3bc3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837103,
+            "region_id":85681779
+        }
+    ],
     "wof:id":1444837103,
-    "wof:lastmodified":1566333622,
+    "wof:lastmodified":1566338972,
     "wof:name":"Vuzrazhdane",
-    "wof:parent_id":-1,
+    "wof:parent_id":101748889,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
@@ -47,9 +60,9 @@
 },
   "bbox": [
     24.78575344473967,
-    42.140250399568224,
+    42.14025039956822,
     24.78575344473967,
-    42.140250399568224
+    42.14025039956822
 ],
   "geometry": {"coordinates":[24.78575344473967,42.14025039956822],"type":"Point"}
 }
