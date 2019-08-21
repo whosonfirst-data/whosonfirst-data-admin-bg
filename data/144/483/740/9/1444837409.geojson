@@ -1,0 +1,64 @@
+{
+  "id": 1444837409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7238664495,42.1628001229,24.7238664495,42.1628001229",
+    "geom:latitude":42.1628,
+    "geom:longitude":24.723866,
+    "iso:country":"BG",
+    "lbl:latitude":42.1628,
+    "lbl:longitude":24.723866,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "\u0428\u0435\u043a\u0435\u0440 \u043c\u0430\u0445\u0430\u043b\u0430"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"25aad6d1615744deb9c75f8fb6a1030b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837409,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":1444837409,
+    "wof:lastmodified":1566339006,
+    "wof:name":"Sheker Mahala",
+    "wof:parent_id":101748889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.72386644947156,
+    42.16280012293677,
+    24.72386644947156,
+    42.16280012293677
+],
+  "geometry": {"coordinates":[24.72386644947156,42.16280012293677],"type":"Point"}
+}

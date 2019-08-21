@@ -1,0 +1,64 @@
+{
+  "id": 1444836917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.735083756,42.1506214999,24.735083756,42.1506214999",
+    "geom:latitude":42.150621,
+    "geom:longitude":24.735084,
+    "iso:country":"BG",
+    "lbl:latitude":42.150621,
+    "lbl:longitude":24.735084,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "\u041c\u0430\u0440\u0430\u0448\u0430"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"a08bd9cc7e4eb950fa040d65c66f4ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444836917,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":1444836917,
+    "wof:lastmodified":1566338951,
+    "wof:name":"Marasha",
+    "wof:parent_id":101748889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73508375596763,
+    42.15062149994724,
+    24.73508375596763,
+    42.15062149994724
+],
+  "geometry": {"coordinates":[24.73508375596763,42.15062149994724],"type":"Point"}
+}

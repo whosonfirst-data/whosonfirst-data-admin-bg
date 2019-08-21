@@ -1,0 +1,67 @@
+{
+  "id": 1444836995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7880422643,42.1341190747,24.7880422643,42.1341190747",
+    "geom:latitude":42.134119,
+    "geom:longitude":24.788042,
+    "iso:country":"BG",
+    "lbl:latitude":42.134119,
+    "lbl:longitude":24.788042,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":16.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "\u0422\u0440\u0430\u043a\u0438\u044f"
+    ],
+    "name:eng_x_variant":[
+        "Trakiya"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"df39c3e126b53e6ccf19f6851158e3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444836995,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":1444836995,
+    "wof:lastmodified":1566338958,
+    "wof:name":"Trakia",
+    "wof:parent_id":101748889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78804226425066,
+    42.1341190747433,
+    24.78804226425066,
+    42.1341190747433
+],
+  "geometry": {"coordinates":[24.78804226425066,42.1341190747433],"type":"Point"}
+}

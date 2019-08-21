@@ -1,0 +1,64 @@
+{
+  "id": 1444837291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7470979675,42.1320636119,24.7470979675,42.1320636119",
+    "geom:latitude":42.132064,
+    "geom:longitude":24.747098,
+    "iso:country":"BG",
+    "lbl:latitude":42.132064,
+    "lbl:longitude":24.747098,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "\u0423\u0445\u043e\u0442\u043e"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"4cd9196318dd5659a44330b04756d3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837291,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":1444837291,
+    "wof:lastmodified":1566338993,
+    "wof:name":"Ucho",
+    "wof:parent_id":101748889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7470979675082,
+    42.13206361191682,
+    24.7470979675082,
+    42.13206361191682
+],
+  "geometry": {"coordinates":[24.7470979675082,42.13206361191682],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1444837423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7371988231,42.1641573611,24.7371988231,42.1641573611",
+    "geom:latitude":42.164157,
+    "geom:longitude":24.737199,
+    "iso:country":"BG",
+    "lbl:latitude":42.164157,
+    "lbl:longitude":24.737199,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u043f\u043e\u0432\u043e"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"323339997b3cc20b55eab233c8756f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444837423,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":1444837423,
+    "wof:lastmodified":1566339007,
+    "wof:name":"Filipovo",
+    "wof:parent_id":101748889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.73719882312313,
+    42.16415736106713,
+    24.73719882312313,
+    42.16415736106713
+],
+  "geometry": {"coordinates":[24.73719882312313,42.16415736106713],"type":"Point"}
+}

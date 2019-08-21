@@ -1,0 +1,67 @@
+{
+  "id": 1444836905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7453834438,42.1443426857,24.7453834438,42.1443426857",
+    "geom:latitude":42.144343,
+    "geom:longitude":24.745383,
+    "iso:country":"BG",
+    "lbl:latitude":42.144343,
+    "lbl:longitude":24.745383,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":16.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:bul_x_variant":[
+        "Cent\"r"
+    ],
+    "name:eng_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u044a\u0440"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191581,
+        101748889,
+        85633001,
+        85681779
+    ],
+    "wof:breaches":[],
+    "wof:country":"BG",
+    "wof:geomhash":"2ae1e645ee99b96d8a2a54ab8ed80f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633001,
+            "locality_id":101748889,
+            "neighbourhood_id":1444836905,
+            "region_id":85681779
+        }
+    ],
+    "wof:id":1444836905,
+    "wof:lastmodified":1566338948,
+    "wof:name":"Center",
+    "wof:parent_id":101748889,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.74538344376712,
+    42.14434268568731,
+    24.74538344376712,
+    42.14434268568731
+],
+  "geometry": {"coordinates":[24.74538344376712,42.14434268568731],"type":"Point"}
+}
