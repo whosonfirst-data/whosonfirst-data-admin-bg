@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
+    "geom:area_square_m":738829.399595,
     "geom:bbox":"26.5159969047,42.5590822013,26.5277185216,42.568762846",
     "geom:latitude":42.563674,
     "geom:longitude":26.521676,
     "iso:country":"BG",
     "lbl:latitude":42.563779,
     "lbl:longitude":26.521565,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.563779,
     "mps:longitude":26.521565,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u0430\u0432\u043e\u0439"
     ],
@@ -31,9 +36,6 @@
         "Sawoi",
         "Zavoj"
     ],
-    "name:unk_x_variant":[
-        "Sawoi"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u042f\u043c\u0431\u043e\u043b",
     "qs:a1_alt":"Yambol",
@@ -49,7 +51,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -60,7 +62,7 @@
         "fct:id":"03735230-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725431,
         "gp:id":840906,
-        "qs:id":179548
+        "qs_pg:id":179548
     },
     "wof:country":"BG",
     "wof:geomhash":"bb23161f7d07a6a3cabbb60d393ab2f0",
@@ -76,7 +78,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501215828,
+    "wof:lastmodified":1566614090,
     "wof:name":"\u0417\u0430\u0432\u043e\u0439",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

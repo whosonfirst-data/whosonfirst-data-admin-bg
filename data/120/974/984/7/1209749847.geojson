@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.74667,43.03,24.78667,43.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u044a\u043b\u0433\u0430\u0440\u0435\u043d\u0435"
     ],
@@ -43,7 +47,6 @@
     ],
     "name:und_x_variant":[
         "Belgarene",
-        "B\u0103lgarene",
         "Blgarene",
         "B\u016dlgarene"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1209749847,
-    "wof:lastmodified":1564177285,
+    "wof:lastmodified":1566613885,
     "wof:name":"Balgarene",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

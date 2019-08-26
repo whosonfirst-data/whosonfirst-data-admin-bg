@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.832991,
     "lbl:longitude":24.829235,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.832991,
     "mps:longitude":24.829235,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u0627\u06a9\u06cc"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043a\u0438"
     ],
-    "name:unk_x_variant":[
-        "Laki"
-    ],
     "name:vie_x_preferred":[
         "Laki"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":77,
     "wof:belongsto":[
@@ -136,7 +136,6 @@
         "fct:id":"0371aa0c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729509,
         "gp:id":837785,
-        "qs:id":1081390,
         "qs_pg:id":1081390,
         "wd:id":"Q405602",
         "wk:page":"Laki, Plovdiv Province"
@@ -155,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325248,
+    "wof:lastmodified":1566614041,
     "wof:name":"\u041b\u044a\u043a\u0438",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

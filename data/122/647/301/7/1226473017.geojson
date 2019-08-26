@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.79667,42.68,26.83667,42.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0433\u043d\u0435\u043d"
     ],
@@ -50,8 +54,7 @@
         "Tursko Bejki\u00f6j",
         "Beykioy",
         "Blgarsko-Bei Kioi",
-        "B\u016dlgarsko-Bey-K\u2019oy",
-        "Ognen"
+        "B\u016dlgarsko-Bey-K\u2019oy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1226473017,
-    "wof:lastmodified":1564177728,
+    "wof:lastmodified":1566614308,
     "wof:name":"Ognen",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.554442,
     "lbl:longitude":25.526256,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.554442,
     "mps:longitude":25.526256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u043e\u0432\u043e"
     ],
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Karamanowo"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0420\u0443\u0441\u0435",
     "qs:a1_alt":"Ruse",
@@ -64,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":190,
     "wof:belongsto":[
         102191581,
@@ -76,7 +76,7 @@
         "fct:id":"03714058-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730602,
         "gp:id":836973,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2015699"
     },
     "wof:country":"BG",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325154,
+    "wof:lastmodified":1566614007,
     "wof:name":"\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

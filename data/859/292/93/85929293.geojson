@@ -11,8 +11,10 @@
     "geom:longitude":23.271051,
     "gn:id":"",
     "iso:country":"BG",
+    "lbl:bbox":"23.266051,42.653035,23.276051,42.663035",
     "lbl:latitude":42.658035,
     "lbl:longitude":23.271051,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.664459,
     "mps:longitude":23.271817,
     "mz:hierarchy_label":0,
@@ -134,9 +136,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0442\u043e\u0448\u0430"
     ],
-    "name:unk_x_variant":[
-        "Vitosha"
-    ],
     "name:zho_x_preferred":[
         "\u7dad\u6258\u838e"
     ],
@@ -178,7 +177,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855477,
-        "qs:id":1080172,
+        "qs_pg:id":1080172,
         "wd:id":"Q378943"
     },
     "wof:country":"BG",
@@ -196,7 +195,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566613709,
     "wof:name":"Vitosha",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

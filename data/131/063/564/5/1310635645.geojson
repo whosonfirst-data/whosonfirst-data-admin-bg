@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.85928,42.57893,22.89928,42.61893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u043b\u0430\u043d\u0438\u043d\u0438\u0446\u0430"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310635645,
-    "wof:lastmodified":1537587426,
+    "wof:lastmodified":1566613965,
     "wof:name":"Planinitsa",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

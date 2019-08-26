@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.642596,
     "lbl:longitude":26.179285,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.642596,
     "mps:longitude":26.179285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u0432\u0440\u0430\u0438\u043b\u043e\u0432\u043e"
     ],
@@ -48,9 +51,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0432\u0440\u0430\u0457\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Dermen-Dere"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u043b\u0438\u0432\u0435\u043d",
     "qs:a1_alt":"Sliven",
@@ -66,7 +66,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -77,7 +77,7 @@
         "fct:id":"0370e054-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731499,
         "gp:id":836282,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2013298"
     },
     "wof:country":"BG",
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325364,
+    "wof:lastmodified":1566614086,
     "wof:name":"\u0413\u0430\u0432\u0440\u0430\u0438\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

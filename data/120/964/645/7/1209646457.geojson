@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.79667,42.38,23.83667,42.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e"
     ],
@@ -54,8 +58,7 @@
         "Bodrovo",
         "Bodovo",
         "Stambolowo",
-        "Kabaaplii",
-        "Stambolovo"
+        "Kabaaplii"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1209646457,
-    "wof:lastmodified":1564177212,
+    "wof:lastmodified":1566613842,
     "wof:name":"Stambolovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

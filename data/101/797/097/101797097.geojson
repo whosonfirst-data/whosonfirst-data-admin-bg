@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.236044,
     "lbl:longitude":23.133352,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.236044,
     "mps:longitude":23.133352,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0411\u0435\u0440\u043a\u043e\u0432\u0438\u0446\u0430"
     ],
@@ -66,9 +69,6 @@
     "name:spa_x_preferred":[
         "Berkovitsa"
     ],
-    "name:unk_x_variant":[
-        "Berkovica"
-    ],
     "name:vie_x_preferred":[
         "Berkovitsa"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":195,
     "wof:belongsto":[
@@ -106,7 +106,6 @@
         "fct:id":"037021b4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733264,
         "gp:id":834934,
-        "qs:id":278000,
         "qs_pg:id":278000,
         "wd:id":"Q2609066",
         "wk:page":"Berkovitsa Municipality"
@@ -125,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325179,
+    "wof:lastmodified":1566614015,
     "wof:name":"\u0411\u0435\u0440\u043a\u043e\u0432\u0438\u0446\u0430",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

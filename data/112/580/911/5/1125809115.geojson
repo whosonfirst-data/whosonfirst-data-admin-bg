@@ -9,15 +9,18 @@
     "geom:bbox":"27.97497,42.06051,27.97497,42.06051",
     "geom:latitude":42.06051,
     "geom:longitude":27.97497,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":216,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
     "gn:population":216,
     "iso:country":"BG",
+    "lbl:bbox":"27.95497,42.04051,27.99497,42.08051",
     "lbl:latitude":42.06051,
     "lbl:longitude":27.97497,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0438\u043d\u0435\u043c\u043e\u0440\u0435\u0446"
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u0435\u043c\u043e\u0440\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalandzha"
     ],
     "qs_pg:aaroncc":"BG",
@@ -94,7 +97,7 @@
     "qs_pg:woe_adm0":23424771,
     "qs_pg:woe_id":839567,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424771,
     "woe:name_adm0":"Bulgaria",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1125809115,
-    "wof:lastmodified":1563325560,
+    "wof:lastmodified":1566614166,
     "wof:name":"Sinemorets",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

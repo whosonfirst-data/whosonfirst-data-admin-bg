@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.00268,42.15442,23.04268,42.19442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u043f\u043e\u0432\u043e"
     ],
@@ -45,8 +49,7 @@
         "\u0421\u043e\u043f\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Sopowo",
-        "Sopovo"
+        "Sopowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1360321681,
-    "wof:lastmodified":1564177454,
+    "wof:lastmodified":1566614001,
     "wof:name":"Sopovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

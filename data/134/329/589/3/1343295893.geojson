@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.74024,42.25888,22.78024,42.29888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u0433\u0440\u0435\u043d\u0446\u0438"
     ],
@@ -49,8 +53,7 @@
         "\u0411\u0430\u0433\u0440\u0435\u043d\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Bagrenzi",
-        "Bagrentsi"
+        "Bagrenzi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343295893,
-    "wof:lastmodified":1564176983,
+    "wof:lastmodified":1566613699,
     "wof:name":"Bagrentsi",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

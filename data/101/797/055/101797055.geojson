@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000524,
-    "geom:area_square_m":4691459.669116,
+    "geom:area_square_m":4691459.669115,
     "geom:bbox":"23.8509071351,43.544886992,23.890896634,43.5728739035",
     "geom:latitude":43.56043,
     "geom:longitude":23.870261,
     "iso:country":"BG",
     "lbl:latitude":43.56082,
     "lbl:longitude":23.868292,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.56082,
     "mps:longitude":23.868292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u043b\u0438\u0447\u0435"
     ],
@@ -39,9 +42,6 @@
     "name:nor_x_preferred":[
         "Galiche Rock"
     ],
-    "name:unk_x_variant":[
-        "Gali\u010di"
-    ],
     "name:zho_x_preferred":[
         "\u52a0\u5229\u5207\u5ca9"
     ],
@@ -61,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":217,
     "wof:belongsto":[
         102191581,
@@ -73,7 +73,7 @@
         "fct:id":"0370dd34-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731533,
         "gp:id":836251,
-        "qs:id":404146
+        "qs_pg:id":404146
     },
     "wof:country":"BG",
     "wof:geomhash":"0084bdb6dd151f09fe5f4b4db872a6f4",
@@ -89,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641524,
+    "wof:lastmodified":1566614015,
     "wof:name":"\u0413\u0430\u043b\u0438\u0447\u0435",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

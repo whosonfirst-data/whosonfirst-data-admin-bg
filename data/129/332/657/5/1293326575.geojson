@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.8427,43.7625,22.8827,43.8025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0438 \u0414\u0440\u0435\u043d\u043e\u0432\u0435\u0446"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293326575,
-    "wof:lastmodified":1537587502,
+    "wof:lastmodified":1566613762,
     "wof:name":"Mali Drenovets",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

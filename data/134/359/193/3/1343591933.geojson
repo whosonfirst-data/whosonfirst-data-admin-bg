@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.73667,42.1075,22.77667,42.1475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0434\u0430\u043b\u043e\u0432\u043e"
     ],
@@ -46,8 +50,7 @@
         "\u0421\u0442\u0440\u0430\u0434\u0430\u043b\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Stradalowo",
-        "Stradalovo"
+        "Stradalowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1343591933,
-    "wof:lastmodified":1564176953,
+    "wof:lastmodified":1566613682,
     "wof:name":"Stradalovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.053115,
     "lbl:longitude":27.60089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.053115,
     "mps:longitude":27.60089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u044a\u0431\u0440\u0430\u0432\u0438\u043d\u043e"
     ],
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0438\u0431\u0440\u0430\u0432\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "D\u0103bravino"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0430\u0440\u043d\u0430",
     "qs:a1_alt":"Varna",
@@ -91,7 +91,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191581,
@@ -103,7 +103,7 @@
         "fct:id":"0370bd7c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731852,
         "gp:id":836018,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1075677",
         "wk:page":"Dabravino"
     },
@@ -121,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325193,
+    "wof:lastmodified":1566614021,
     "wof:name":"\u0414\u044a\u0431\u0440\u0430\u0432\u0438\u043d\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

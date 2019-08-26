@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.463213,
     "lbl:longitude":24.870127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.463213,
     "mps:longitude":24.870127,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u0644\u0627\u0648\u06cc\u0627\u0646\u0648\u0648"
     ],
@@ -81,9 +84,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0430\u0432\u044f\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Turska Trestenik"
-    ],
     "name:vie_x_preferred":[
         "Slavyanovo"
     ],
@@ -110,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":213,
     "wof:belongsto":[
@@ -123,7 +123,6 @@
         "fct:id":"0372acc2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727087,
         "gp:id":839663,
-        "qs:id":405031,
         "qs_pg:id":405031,
         "wd:id":"Q405978",
         "wk:page":"Slavyanovo"
@@ -142,7 +141,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325163,
+    "wof:lastmodified":1566614010,
     "wof:name":"\u0421\u043b\u0430\u0432\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

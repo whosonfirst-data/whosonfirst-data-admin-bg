@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.033078,
     "lbl:longitude":23.379103,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.033078,
     "mps:longitude":23.379103,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u0440\u0430 \u0411\u043e\u0432"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u0440\u0430-\u0411\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "Bow"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u043e\u0444\u0438\u044f",
     "qs:a1_alt":"Sofia",
@@ -65,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":18,
     "wof:belongsto":[
         102191581,
@@ -77,7 +77,7 @@
         "fct:id":"03703ed8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733001,
         "gp:id":835131,
-        "qs:id":940180,
+        "qs_pg:id":940180,
         "wd:id":"Q2013318"
     },
     "wof:country":"BG",
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325328,
+    "wof:lastmodified":1566614072,
     "wof:name":"\u0411\u043e\u0432",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

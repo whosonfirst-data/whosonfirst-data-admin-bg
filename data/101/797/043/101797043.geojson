@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000643,
+    "geom:area_square_m":5749393.286409,
     "geom:bbox":"23.7262533284,43.6431569977,23.7790383361,43.6682692701",
     "geom:latitude":43.655097,
     "geom:longitude":23.748212,
     "iso:country":"BG",
     "lbl:latitude":43.654849,
     "lbl:longitude":23.747812,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.654849,
     "mps:longitude":23.747812,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0430\u043d"
     ],
@@ -21,9 +26,6 @@
         "Butan"
     ],
     "name:eng_x_variant":[
-        "Boutan"
-    ],
-    "name:unk_x_variant":[
         "Boutan"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -41,7 +43,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -52,7 +54,7 @@
         "fct:id":"03705af8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732743,
         "gp:id":835330,
-        "qs:id":1272275
+        "qs_pg:id":1272275
     },
     "wof:country":"BG",
     "wof:geomhash":"20c504c2ac58b8d90880266b74799de7",
@@ -68,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501215883,
+    "wof:lastmodified":1566614028,
     "wof:name":"\u0411\u0443\u0442\u0430\u043d",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

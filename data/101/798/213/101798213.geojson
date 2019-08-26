@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.669387,
     "lbl:longitude":23.599367,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":42.669387,
     "mps:longitude":23.599367,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0644\u06cc\u0646 \u067e\u0644\u06cc\u0646"
     ],
@@ -96,9 +99,6 @@
     "name:ukr_x_variant":[
         "\u0404\u043b\u0438\u043d \u041f\u0435\u043b\u0438\u043d"
     ],
-    "name:unk_x_variant":[
-        "Novoselci"
-    ],
     "name:vie_x_preferred":[
         "Elin Pelin"
     ],
@@ -125,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":292,
     "wof:belongsto":[
@@ -138,7 +138,6 @@
         "fct:id":"0370cde4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731675,
         "gp:id":836146,
-        "qs:id":491798,
         "qs_pg:id":491798,
         "wd:id":"Q406042"
     },
@@ -156,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325352,
+    "wof:lastmodified":1566614082,
     "wof:name":"\u0415\u043b\u0438\u043d \u041f\u0435\u043b\u0438\u043d",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

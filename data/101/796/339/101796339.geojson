@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.801716,
     "lbl:longitude":26.958414,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.801716,
     "mps:longitude":26.958414,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0438\u043b"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0457\u043b"
     ],
-    "name:unk_x_variant":[
-        "Emirler"
-    ],
     "name:zho_x_preferred":[
         "\u535a\u4f0a\u723e\u89d2"
     ],
@@ -70,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":163,
     "wof:belongsto":[
         102191581,
@@ -82,7 +82,7 @@
         "fct:id":"037031d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733104,
         "gp:id":835052,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2012401"
     },
     "wof:country":"BG",
@@ -99,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325378,
+    "wof:lastmodified":1566614092,
     "wof:name":"\u0411\u043e\u0438\u043b",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

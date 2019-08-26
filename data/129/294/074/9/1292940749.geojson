@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.42782,41.28507,25.46782,41.32507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0438\u0436\u0431\u0430"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1292940749,
-    "wof:lastmodified":1564177022,
+    "wof:lastmodified":1566613732,
     "wof:name":"Strizhba",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.41333,41.59667,25.45333,41.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432\u0438\u0446\u0430"
     ],
@@ -58,8 +62,7 @@
     "name:und_x_variant":[
         "Asha Ada",
         "Ostrowiza",
-        "Asha Atsa",
-        "Ostrovitsa"
+        "Asha Atsa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1276690691,
-    "wof:lastmodified":1564177138,
+    "wof:lastmodified":1566613799,
     "wof:name":"Ostrovitsa",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

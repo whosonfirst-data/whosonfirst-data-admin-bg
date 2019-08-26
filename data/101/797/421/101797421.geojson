@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000145,
-    "geom:area_square_m":1297587.277816,
+    "geom:area_square_m":1297587.277817,
     "geom:bbox":"26.9185531681,43.723623683,26.9476318303,43.7344045142",
     "geom:latitude":43.729551,
     "geom:longitude":26.933591,
     "iso:country":"BG",
     "lbl:latitude":43.728989,
     "lbl:longitude":26.930176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.728989,
     "mps:longitude":26.930176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041f\u043b\u0435\u0432\u0435\u043d"
     ],
@@ -40,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u041f\u043b\u0435\u0432\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khadzhi Mekhmed Makhle"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":182,
     "wof:belongsto":[
         102191581,
@@ -78,7 +81,7 @@
     "wof:concordances":{
         "gn:id":726425,
         "gp:id":840150,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BG",
     "wof:geomhash":"f568150794471b410e0569dd9a81d5a3",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101797421,
-    "wof:lastmodified":1527641529,
+    "wof:lastmodified":1566614025,
     "wof:name":"\u0422\u043e\u0434\u043e\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

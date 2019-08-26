@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.29667,41.73,25.33667,41.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u043e\u0434\u0430\u0447"
     ],
@@ -57,8 +61,7 @@
     ],
     "name:und_x_variant":[
         "Kulaozlar",
-        "Wodatsch",
-        "Vodach"
+        "Wodatsch"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1226378289,
-    "wof:lastmodified":1564177750,
+    "wof:lastmodified":1566614321,
     "wof:name":"Vodach",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

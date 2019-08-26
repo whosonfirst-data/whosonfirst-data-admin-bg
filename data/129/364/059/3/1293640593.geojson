@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.71333,42.01333,23.75333,42.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0430 \u043c\u0435\u0441\u0442\u0430"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1293640593,
-    "wof:lastmodified":1564177017,
+    "wof:lastmodified":1566613731,
     "wof:name":"Cherna Mesta",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

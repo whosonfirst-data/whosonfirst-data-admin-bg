@@ -11,8 +11,10 @@
     "geom:longitude":23.36997,
     "gn:id":"",
     "iso:country":"BG",
+    "lbl:bbox":"23.36497,42.701185,23.37497,42.711185",
     "lbl:latitude":42.706185,
     "lbl:longitude":23.36997,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.704843,
     "mps:longitude":23.362986,
     "mz:hierarchy_label":0,
@@ -48,9 +50,6 @@
     ],
     "name:swe_x_preferred":[
         "Rajon Poduene"
-    ],
-    "name:unk_x_variant":[
-        "Poduyane"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_id":0,
@@ -91,7 +90,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855471,
-        "qs:id":893068,
         "qs_pg:id":893068,
         "wd:id":"Q7207186"
     },
@@ -110,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566613710,
     "wof:name":"Poduyane",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

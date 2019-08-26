@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.18,41.76333,25.22,41.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u0434\u0441\u043a\u0430"
     ],
@@ -50,8 +54,7 @@
         "\u0421\u0440\u0435\u0434\u0441\u044c\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Mursalar",
-        "Sredska"
+        "Mursalar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1327364411,
-    "wof:lastmodified":1564176830,
+    "wof:lastmodified":1566613604,
     "wof:name":"Sredska",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

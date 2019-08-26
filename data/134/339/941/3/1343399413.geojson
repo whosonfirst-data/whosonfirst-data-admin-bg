@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.53,43.49667,27.57,43.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0440\u0430\u0442\u0430\u0440\u0438\u0442\u0435"
     ],
@@ -48,8 +52,7 @@
     "name:und_x_variant":[
         "Karamanite",
         "Wratarit",
-        "Kapudzhi Makhle",
-        "Vratarite"
+        "Kapudzhi Makhle"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1343399413,
-    "wof:lastmodified":1564176920,
+    "wof:lastmodified":1566613661,
     "wof:name":"Vratarite",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

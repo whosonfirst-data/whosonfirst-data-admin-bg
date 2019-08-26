@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.94776,42.17409,22.98776,42.21409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u044a\u043b\u043a\u043e\u0432\u043e"
     ],
@@ -54,8 +58,7 @@
         "\u0412\u0443\u043a\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Wukowo",
-        "Vukovo"
+        "Wukowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1209344833,
-    "wof:lastmodified":1564177280,
+    "wof:lastmodified":1566613882,
     "wof:name":"Vukovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.108892,
     "lbl:longitude":26.416118,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.108892,
     "mps:longitude":26.416118,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041e\u043c\u0443\u0440\u0442\u0430\u0433"
     ],
@@ -68,9 +71,6 @@
     "name:swe_x_preferred":[
         "Obsjtina Omurtag"
     ],
-    "name:unk_x_variant":[
-        "Osmanbazar"
-    ],
     "name:vie_x_preferred":[
         "Omurtag"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":266,
     "wof:belongsto":[
@@ -107,7 +107,6 @@
         "fct:id":"037200e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728634,
         "gp:id":838460,
-        "qs:id":1028733,
         "qs_pg:id":1028733,
         "wd:id":"Q3882332",
         "wk:page":"Omurtag Municipality"
@@ -126,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325225,
+    "wof:lastmodified":1566614033,
     "wof:name":"\u041e\u043c\u0443\u0440\u0442\u0430\u0433",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

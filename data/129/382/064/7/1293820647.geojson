@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.88241,43.63093,22.92241,43.67093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u043e \u043f\u043e\u043b\u0435"
     ],
@@ -53,8 +57,7 @@
     ],
     "name:und_x_variant":[
         "Byalo pole",
-        "Byelo-Pole",
-        "Belo Pole"
+        "Byelo-Pole"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1293820647,
-    "wof:lastmodified":1564177044,
+    "wof:lastmodified":1566613746,
     "wof:name":"Belo Pole",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

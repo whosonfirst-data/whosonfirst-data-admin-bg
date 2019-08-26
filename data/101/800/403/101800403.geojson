@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.739145,
     "lbl:longitude":24.017909,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.739145,
     "mps:longitude":24.017909,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0631\u0646\u06cc\u062a\u0633\u0627"
     ],
@@ -88,9 +91,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u0440\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Sarniza"
-    ],
     "name:vie_x_preferred":[
         "Sarnitsa"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":121,
     "wof:belongsto":[
         102191581,
@@ -129,7 +129,6 @@
         "fct:id":"0372e048-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726612,
         "gp:id":840032,
-        "qs:id":1167316,
         "qs_pg:id":1167316,
         "wd:id":"Q405972",
         "wk:page":"Sarnitsa, Pazardzhik Province"
@@ -148,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325508,
+    "wof:lastmodified":1566614137,
     "wof:name":"\u0421\u044a\u0440\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

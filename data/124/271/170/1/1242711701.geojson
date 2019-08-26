@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.91348,42.76792,22.95348,42.80792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u043a\u0438\u0442\u0430"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242711701,
-    "wof:lastmodified":1537587396,
+    "wof:lastmodified":1566614218,
     "wof:name":"Rakita",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

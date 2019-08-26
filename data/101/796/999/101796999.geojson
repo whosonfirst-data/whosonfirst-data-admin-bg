@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.307207,
     "lbl:longitude":25.053443,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.307207,
     "mps:longitude":25.053443,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041b\u0435\u0442\u043d\u0438\u0446\u0430"
     ],
@@ -66,7 +69,7 @@
     "name:spa_x_preferred":[
         "Letnitsa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lyetnitsa"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":183,
     "wof:belongsto":[
@@ -105,7 +108,6 @@
         "fct:id":"03719b3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729646,
         "gp:id":837679,
-        "qs:id":1272708,
         "qs_pg:id":1272708,
         "wd:id":"Q2719387",
         "wk:page":"Letnitsa Municipality"
@@ -124,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325380,
+    "wof:lastmodified":1566614093,
     "wof:name":"\u041b\u0435\u0442\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

@@ -11,8 +11,10 @@
     "geom:longitude":23.247495,
     "gn:id":"",
     "iso:country":"BG",
+    "lbl:bbox":"23.242495,42.67685,23.252495,42.68685",
     "lbl:latitude":42.68185,
     "lbl:longitude":23.247495,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.68237,
     "mps:longitude":23.24878,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     ],
     "name:swe_x_preferred":[
         "Rajon Ovtja Kupel"
-    ],
-    "name:unk_x_variant":[
-        "Ovcha Kupel"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_id":0,
@@ -87,7 +86,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855473,
-        "qs:id":893069,
         "qs_pg:id":893069,
         "wd:id":"Q7113283"
     },
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566613709,
     "wof:name":"Ovcha Kupel",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

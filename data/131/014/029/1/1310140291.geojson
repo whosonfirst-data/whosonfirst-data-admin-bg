@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.41333,42.98,25.45333,43.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u0439\u043d\u0430"
     ],
@@ -47,7 +51,6 @@
     ],
     "name:und_x_variant":[
         "Pyeyna",
-        "Peina",
         "Peyna"
     ],
     "src:geom":"geonames",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1310140291,
-    "wof:lastmodified":1564177383,
+    "wof:lastmodified":1566613955,
     "wof:name":"Peyna",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

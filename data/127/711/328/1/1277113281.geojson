@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.84292,42.9191,27.88292,42.9591",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u043e\u0432\u0438\u0442\u0438\u043d\u043e"
     ],
@@ -51,8 +55,7 @@
         "Abdi K\u2019y",
         "Ssamotino",
         "Abdi K\u2019oy",
-        "Abdikioy",
-        "Samotino"
+        "Abdikioy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1277113281,
-    "wof:lastmodified":1564177201,
+    "wof:lastmodified":1566613834,
     "wof:name":"Samotino",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

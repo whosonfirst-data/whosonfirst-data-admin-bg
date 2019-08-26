@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
+    "geom:area_square_m":1228096.028653,
     "geom:bbox":"25.8379841905,42.4339267832,25.8565702599,42.4460065723",
     "geom:latitude":42.439995,
     "geom:longitude":25.846973,
     "iso:country":"BG",
     "lbl:latitude":42.439856,
     "lbl:longitude":25.847725,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.439856,
     "mps:longitude":25.847725,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
     "qs:a1_alt":"Stara Zagora",
@@ -29,7 +34,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -38,10 +43,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":838802,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BG",
-    "wof:geomhash":"f1232221ccca861e3c65cba6f3cceef4",
+    "wof:geomhash":"bb667600ff0e1308d31e97942d52e90c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":101798179,
-    "wof:lastmodified":1477508550,
+    "wof:lastmodified":1566614088,
     "wof:name":"\u0425\u0430\u043d \u0410\u0441\u043f\u0430\u0440\u0443\u0445\u043e\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

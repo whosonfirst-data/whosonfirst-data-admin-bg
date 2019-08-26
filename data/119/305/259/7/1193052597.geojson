@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.93,41.93,24.97,41.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0427\u044d\u0440\u0432\u0435\u043d\u044c"
     ],
@@ -56,11 +60,9 @@
         "\u0427\u0435\u0440\u0432\u0435\u043d\u044c"
     ],
     "name:und_x_variant":[
-        "Tscherwen",
         "Ch\u016drven",
         "Tserven",
-        "Ts\u016drven",
-        "Cherven"
+        "Ts\u016drven"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1193052597,
-    "wof:lastmodified":1564177318,
+    "wof:lastmodified":1566613911,
     "wof:name":"Cherven",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

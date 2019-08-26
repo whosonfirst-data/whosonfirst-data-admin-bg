@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.78,42.46333,24.82,42.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u0441\u043d\u043e\u043f\u043e\u0439"
     ],
@@ -51,7 +55,6 @@
     ],
     "name:und_x_variant":[
         "Chukurlii",
-        "Pesnopoi",
         "Chukurliy",
         "Pyesnopoy",
         "Pesnopoy"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1259419183,
-    "wof:lastmodified":1564177637,
+    "wof:lastmodified":1566614250,
     "wof:name":"Pesnopoy",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

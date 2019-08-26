@@ -12,8 +12,10 @@
     "gn:latitude":42.68333,
     "gn:longitude":23.31667,
     "iso:country":"BG",
+    "lbl:bbox":"23.283774,42.676435,23.293774,42.686435",
     "lbl:latitude":42.681435,
     "lbl:longitude":23.288774,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.688676,
     "mps:longitude":23.309569,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
         "Rajon Krasno Selo"
     ],
     "name:swe_x_variant":[
-        "Krasno Selo"
-    ],
-    "name:unk_x_variant":[
         "Krasno Selo"
     ],
     "qs:gn_adm0_cc":"BG",
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":729968,
         "gp:id":837426,
-        "qs:id":1167298,
         "qs_pg:id":1167298,
         "wd:id":"Q6436239"
     },
@@ -112,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247542,
+    "wof:lastmodified":1566613708,
     "wof:name":"Krasno Selo",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

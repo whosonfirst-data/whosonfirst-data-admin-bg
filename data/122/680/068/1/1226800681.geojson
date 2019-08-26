@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.74667,41.61333,23.78667,41.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0434\u0435\u0432\u043e"
     ],
@@ -56,8 +60,7 @@
     ],
     "name:und_x_variant":[
         "Baldovo",
-        "Baldewo",
-        "Baldevo"
+        "Baldewo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1226800681,
-    "wof:lastmodified":1564177679,
+    "wof:lastmodified":1566614275,
     "wof:name":"Baldevo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

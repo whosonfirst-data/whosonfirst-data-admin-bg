@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.93143,41.64947,25.97143,41.68947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043a\u0438 \u0412\u043e\u0434\u0435\u043d"
     ],
@@ -52,8 +56,7 @@
         "Silbikyum",
         "Malki-Woden",
         "Sjuljaki\u00f6j",
-        "Syulbyukyun",
-        "Malki Voden"
+        "Syulbyukyun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1276479953,
-    "wof:lastmodified":1564177157,
+    "wof:lastmodified":1566613811,
     "wof:name":"Malki Voden",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

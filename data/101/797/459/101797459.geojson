@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.457589,
     "lbl:longitude":26.681367,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.457589,
     "mps:longitude":26.681367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0438\u043d\u0430"
     ],
@@ -47,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karag\u2019oz"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -65,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":674,
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,7 @@
         "fct:id":"03731d4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725945,
         "gp:id":840509,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2012717"
     },
     "wof:country":"BG",
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325224,
+    "wof:lastmodified":1566614033,
     "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0438\u043d\u0430",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

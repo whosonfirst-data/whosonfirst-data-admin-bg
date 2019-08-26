@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.29667,41.56333,25.33667,41.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u043e\u043b\u043e\u0432\u0430\u0440\u0446\u0438"
     ],
@@ -58,8 +62,7 @@
     "name:und_x_variant":[
         "Skyuzchilar",
         "Yukyuzchilar",
-        "Wolowarzi",
-        "Volovartsi"
+        "Wolowarzi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1243485199,
-    "wof:lastmodified":1564177560,
+    "wof:lastmodified":1566614202,
     "wof:name":"Volovartsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

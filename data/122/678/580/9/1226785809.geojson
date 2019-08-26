@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.64667,41.61333,25.68667,41.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u043e\u0431\u0440\u0430\u0434\u043e\u0432\u043e"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Kyusya K\u2019oy Ardensko",
-        "Golobradowo",
-        "Golobradovo"
+        "Golobradowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1226785809,
-    "wof:lastmodified":1564177737,
+    "wof:lastmodified":1566614313,
     "wof:name":"Golobradovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

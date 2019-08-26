@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00015,
+    "geom:area_square_m":1377945.696627,
     "geom:bbox":"24.2815854379,42.1400221378,24.3001495896,42.154865452",
     "geom:latitude":42.147938,
     "geom:longitude":24.290672,
     "iso:country":"BG",
     "lbl:latitude":42.148621,
     "lbl:longitude":24.291586,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.148621,
     "mps:longitude":24.291586,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0435\u043a\u043e-\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432"
     ],
@@ -25,9 +30,6 @@
         "Aladzhilar",
         "Aleko Konstantinov",
         "Aleko-Konstatinowo"
-    ],
-    "name:unk_x_variant":[
-        "Aladzhilar"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
@@ -44,7 +46,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -55,7 +57,7 @@
         "fct:id":"036ff75c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733700,
         "gp:id":834644,
-        "qs:id":403689
+        "qs_pg:id":403689
     },
     "wof:country":"BG",
     "wof:geomhash":"dc45f1261ff7bf71b3926414eb4a9031",
@@ -71,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501215904,
+    "wof:lastmodified":1566614045,
     "wof:name":"\u0410\u043b\u0435\u043a\u043e \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

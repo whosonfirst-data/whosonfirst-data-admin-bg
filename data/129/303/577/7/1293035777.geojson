@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.24667,42.03,25.28667,42.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u044f\u043b\u0430 \u0440\u0435\u043a\u0430"
     ],
@@ -52,8 +56,7 @@
     "name:und_x_variant":[
         "Bela-Reka",
         "Byela-Ryeka",
-        "Chitak",
-        "Byala Reka"
+        "Chitak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1293035777,
-    "wof:lastmodified":1564177069,
+    "wof:lastmodified":1566613760,
     "wof:name":"Byala Reka",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

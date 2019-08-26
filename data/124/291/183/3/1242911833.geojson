@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.52331,43.75526,27.56331,43.79526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0446\u0435\u043a"
     ],
@@ -53,9 +57,7 @@
     ],
     "name:und_x_variant":[
         "Kesedzhik",
-        "Alcek",
-        "Kesedgic",
-        "Altsek"
+        "Kesedgic"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1242911833,
-    "wof:lastmodified":1564177588,
+    "wof:lastmodified":1566614219,
     "wof:name":"Altsek",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

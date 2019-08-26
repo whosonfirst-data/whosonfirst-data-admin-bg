@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.620622,
     "lbl:longitude":24.901682,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.620622,
     "mps:longitude":24.901682,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0633\u064a\u0644 \u0644\u0648\u0641\u0633\u0643\u064a"
     ],
@@ -137,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "Mitirizovo"
-    ],
     "name:war_x_preferred":[
         "Vasil Levski"
     ],
@@ -161,7 +161,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5227,
     "wof:belongsto":[
         102191581,
@@ -173,7 +173,7 @@
         "fct:id":"037314fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726031,
         "gp:id":840439,
-        "qs:id":1273248,
+        "qs_pg:id":1273248,
         "wd:id":"Q318461"
     },
     "wof:country":"BG",
@@ -190,7 +190,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325289,
+    "wof:lastmodified":1566614056,
     "wof:name":"\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

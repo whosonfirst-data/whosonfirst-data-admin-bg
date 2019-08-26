@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.89157,43.3809,27.93157,43.4209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u0644\u064a\u0628"
     ],
@@ -176,8 +180,7 @@
     "name:und_x_variant":[
         "Ciucurova",
         "Tschukurowo",
-        "Chukurovo",
-        "Prilep"
+        "Chukurovo"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0631\u06cc\u0644\u06cc\u067e"
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":1259534823,
-    "wof:lastmodified":1564177620,
+    "wof:lastmodified":1566614238,
     "wof:name":"Prilep",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

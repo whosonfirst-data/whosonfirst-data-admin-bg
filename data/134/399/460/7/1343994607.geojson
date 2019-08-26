@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.18,43.03,27.22,43.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Schwoaza G\u00fcpfi"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1343994607,
-    "wof:lastmodified":1564176927,
+    "wof:lastmodified":1566613666,
     "wof:name":"Cherni Vrah",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

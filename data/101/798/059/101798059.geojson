@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.747751,
     "lbl:longitude":23.531676,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.747751,
     "mps:longitude":23.531676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u0627 \u0628\u0648\u062a\u0634\u064a\u0646\u0627"
     ],
@@ -43,9 +46,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Iana"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430)",
     "qs:a1_alt":"Sofia (stolitsa)",
@@ -61,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":410,
     "wof:belongsto":[
         102191581,
@@ -72,7 +72,7 @@
     "wof:concordances":{
         "gn:id":725573,
         "gp:id":839722,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2022878"
     },
     "wof:country":"BG",
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":101798059,
-    "wof:lastmodified":1563325356,
+    "wof:lastmodified":1566614084,
     "wof:name":"\u042f\u043d\u0430",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

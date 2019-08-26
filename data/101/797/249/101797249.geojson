@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.34542,
     "lbl:longitude":24.413176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.34542,
     "mps:longitude":24.413176,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u0448\u043e\u0432\u0438\u0446\u0430"
     ],
@@ -31,7 +34,7 @@
     "name:rus_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438-\u0414\u044b\u0431\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kruschowiza"
     ],
     "name:vie_x_preferred":[
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":173,
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":729858,
         "gp:id":837518,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2561191"
     },
     "wof:country":"BG",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101797249,
-    "wof:lastmodified":1563325210,
+    "wof:lastmodified":1566614027,
     "wof:name":"\u041a\u0440\u0443\u0448\u043e\u0432\u0438\u0446\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

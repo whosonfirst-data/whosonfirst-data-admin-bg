@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.86333,41.83,25.90333,41.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Iwanowo"
     ],
@@ -224,9 +228,7 @@
         "\u0406\u0432\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Yunuscha",
-        "Iwanowo",
-        "Ivanovo"
+        "Yunuscha"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0648\u0627\u0646\u0648\u0648"
@@ -270,7 +272,7 @@
         }
     ],
     "wof:id":1276265855,
-    "wof:lastmodified":1564177121,
+    "wof:lastmodified":1566613789,
     "wof:name":"Ivanovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

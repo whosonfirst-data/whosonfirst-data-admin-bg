@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.370979,
     "lbl:longitude":25.63378,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.370979,
     "mps:longitude":25.63378,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u067e\u0648\u0644\u0633\u06a9\u06cc \u062a\u0631\u0627\u0645\u0628\u0634"
     ],
@@ -98,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0422\u0440\u0438\u043c\u0431\u0435\u0448"
     ],
-    "name:unk_x_variant":[
-        "Trembesh"
-    ],
     "name:vie_x_preferred":[
         "Polski Trambesh"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":15.0,
     "wd:latitude":43.383333,
@@ -144,7 +144,6 @@
         "fct:id":"03723aa8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728124,
         "gp:id":838863,
-        "qs:id":179355,
         "qs_pg:id":179355,
         "wd:id":"Q405905",
         "wk:page":"Polski Trambesh"
@@ -163,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325232,
+    "wof:lastmodified":1566614035,
     "wof:name":"\u041f\u043e\u043b\u0441\u043a\u0438 \u0422\u0440\u044a\u043c\u0431\u0435\u0448",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

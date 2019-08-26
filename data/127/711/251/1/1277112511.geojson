@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.88,41.79667,24.92,41.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u062a\u0633\u0627"
     ],
@@ -95,9 +99,7 @@
         "\u0411\u0435\u043b\u0438\u0446\u044f"
     ],
     "name:und_x_variant":[
-        "Byelitsa",
-        "Beliza",
-        "Belitsa"
+        "Byelitsa"
     ],
     "name:vie_x_preferred":[
         "Belitsa"
@@ -129,7 +131,7 @@
         }
     ],
     "wof:id":1277112511,
-    "wof:lastmodified":1564177198,
+    "wof:lastmodified":1566613833,
     "wof:name":"Belitsa",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

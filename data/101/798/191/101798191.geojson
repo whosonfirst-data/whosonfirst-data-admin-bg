@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.976033,
     "lbl:longitude":23.729074,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.976033,
     "mps:longitude":23.729074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041d\u0438\u043a\u043e\u043f\u043e\u043b"
     ],
@@ -123,9 +126,6 @@
     "name:ukr_x_variant":[
         "\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Nowatschene"
-    ],
     "name:vie_x_preferred":[
         "Nikopol"
     ],
@@ -155,7 +155,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":248,
     "wof:belongsto":[
         102191581,
@@ -167,9 +167,11 @@
         "fct:id":"0371f37c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728782,
         "gp:id":838339,
-        "qs:id":6,
-        "qs_pg:id":1081554,
+        "qs_pg:id":6,
         "wd:id":"Q4321889"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1081554
     },
     "wof:country":"BG",
     "wof:geomhash":"5dd0a96920cc6b8948399a3069c07a33",
@@ -185,7 +187,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325335,
+    "wof:lastmodified":1566614076,
     "wof:name":"\u041d\u043e\u0432\u0430\u0447\u0435\u043d\u0435",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

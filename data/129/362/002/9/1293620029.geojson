@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.73,43.06333,24.77,43.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0437\u0430\u0447\u0435\u0432\u043e"
     ],
@@ -59,8 +63,7 @@
         "Tatareto",
         "Kaza\u010devo",
         "Tatarito",
-        "Kasatschewo",
-        "Kazachevo"
+        "Kasatschewo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1293620029,
-    "wof:lastmodified":1564177011,
+    "wof:lastmodified":1566613727,
     "wof:name":"Kazachevo",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

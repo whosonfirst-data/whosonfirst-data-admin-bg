@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":42.799696,
     "lbl:longitude":23.908251,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.799696,
     "mps:longitude":23.908251,
     "mz:hierarchy_label":1,
@@ -147,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0444\u0456\u0439\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sofiyska Oblast"
     ],
     "name:urd_x_preferred":[
@@ -226,9 +227,9 @@
     "qs:type":"\u041e\u0431\u043b\u0430\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-01",
+    "src:population_date":"2011-02-01",
     "statoids:area_km":"1,349",
     "statoids:area_mi":"521",
     "statoids:as_of_date":"2011-02-01",
@@ -269,11 +270,10 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1565654076,
+    "wof:lastmodified":1566613718,
     "wof:name":"\u0421\u043e\u0444\u0438\u044f",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":1291591,
     "wof:population_rank":12,

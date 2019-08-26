@@ -10,12 +10,16 @@
     "geom:latitude":41.446899,
     "geom:longitude":25.551694,
     "iso:country":"BG",
+    "lbl:bbox":"25.531694,41.426899,25.571694,41.466899",
     "lbl:latitude":41.446899,
     "lbl:longitude":25.551694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.446899,
     "mps:longitude":25.551694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0447\u0435"
     ],
@@ -47,9 +51,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u0447\u0435"
     ],
-    "name:unk_x_variant":[
-        "At Alan"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
     "qs:a1_alt":"Kardzhali",
@@ -67,7 +68,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":185,
     "wof:belongsto":[
         102191581,
@@ -79,7 +80,7 @@
         "fct:id":"037162b8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730199,
         "gp:id":837246,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q4231945"
     },
     "wof:country":"BG",
@@ -96,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325429,
+    "wof:lastmodified":1566614110,
     "wof:name":"\u041a\u043e\u043d\u0447\u0435",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

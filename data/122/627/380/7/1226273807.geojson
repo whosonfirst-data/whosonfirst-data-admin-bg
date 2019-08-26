@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.09667,41.69667,25.13667,41.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043f\u043e\u043b\u0443\u043a\u0430"
     ],
@@ -49,8 +53,7 @@
         "\u0421\u043f\u043e\u043b\u0443\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Oladzhak",
-        "Spoluka"
+        "Oladzhak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226273807,
-    "wof:lastmodified":1564177689,
+    "wof:lastmodified":1566614281,
     "wof:name":"Spoluka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

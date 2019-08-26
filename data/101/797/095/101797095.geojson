@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.38388,
     "lbl:longitude":22.884369,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.38388,
     "mps:longitude":22.884369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0686\u06cc\u067e\u0631\u0648\u062a\u0633\u06cc"
     ],
@@ -106,9 +109,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u043f\u0440\u043e\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
-        "Tschiporowzi"
-    ],
     "name:vie_x_preferred":[
         "Chiprovtsi"
     ],
@@ -135,7 +135,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":550.0,
     "wd:latitude":43.383333,
@@ -151,7 +151,6 @@
         "fct:id":"03707696-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732456,
         "gp:id":835530,
-        "qs:id":42487,
         "qs_pg:id":42487,
         "wd:id":"Q405361",
         "wk:page":"Chiprovtsi"
@@ -170,7 +169,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325218,
+    "wof:lastmodified":1566614030,
     "wof:name":"\u0427\u0438\u043f\u0440\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

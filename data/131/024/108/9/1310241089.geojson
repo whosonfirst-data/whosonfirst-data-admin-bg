@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.59667,43.24667,26.63667,43.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u043a\u0438\u0439"
     ],
@@ -121,10 +125,8 @@
         "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
     "name:und_x_variant":[
-        "Wassil Lewski",
         "Yavashevo",
-        "Yavashkioy",
-        "Vasil Levski"
+        "Yavashkioy"
     ],
     "name:war_x_preferred":[
         "Vasil Levski"
@@ -153,7 +155,7 @@
         }
     ],
     "wof:id":1310241089,
-    "wof:lastmodified":1564177371,
+    "wof:lastmodified":1566613947,
     "wof:name":"Vasil Levski",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

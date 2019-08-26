@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.27253,42.29212,24.31253,42.33212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u067e\u0631\u06cc\u0644\u062a\u0633\u06cc"
     ],
@@ -79,9 +83,7 @@
         "\u0410\u043f\u0440\u0438\u043b\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Abdulare",
-        "Aprilzi",
-        "Apriltsi"
+        "Abdulare"
     ],
     "name:vie_x_preferred":[
         "Apriltsi"
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1277013517,
-    "wof:lastmodified":1564177110,
+    "wof:lastmodified":1566613783,
     "wof:name":"Apriltsi",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

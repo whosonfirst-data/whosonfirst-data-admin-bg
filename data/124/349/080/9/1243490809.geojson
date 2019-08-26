@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.92853,42.35498,22.96853,42.39498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u0435\u043c\u0430 \u0444\u0443\u0447\u0430"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1243490809,
-    "wof:lastmodified":1564177566,
+    "wof:lastmodified":1566614205,
     "wof:name":"Golema Fucha",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

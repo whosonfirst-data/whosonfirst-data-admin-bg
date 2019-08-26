@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.06333,42.89667,27.10333,42.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u0419\u043e\u043d\u0434\u043e\u0499"
     ],
@@ -90,8 +94,7 @@
     ],
     "name:und_x_variant":[
         "Ayvadzhik",
-        "Swesda",
-        "Zvezda"
+        "Swesda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1293237365,
-    "wof:lastmodified":1564177030,
+    "wof:lastmodified":1566613737,
     "wof:name":"Zvezda",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

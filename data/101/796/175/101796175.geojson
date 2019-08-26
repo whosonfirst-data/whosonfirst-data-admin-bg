@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.404757,
     "lbl:longitude":27.55266,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.404757,
     "mps:longitude":27.55266,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u0644\u0686\u06cc \u062f\u0648\u0644"
     ],
@@ -81,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043b\u0447\u0438\u0439 \u0414\u043e\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurt Dere"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +111,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":270.0,
     "wd:latitude":43.4,
@@ -123,7 +126,7 @@
     "wof:concordances":{
         "gn:id":725679,
         "gp:id":840708,
-        "qs:id":915572,
+        "qs_pg:id":915572,
         "wd:id":"Q405397"
     },
     "wof:country":"BG",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":101796175,
-    "wof:lastmodified":1563325399,
+    "wof:lastmodified":1566614099,
     "wof:name":"\u0412\u044a\u043b\u0447\u0438 \u0434\u043e\u043b",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

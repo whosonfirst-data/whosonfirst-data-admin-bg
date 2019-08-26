@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.7473,41.38187,25.7873,41.42187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "Gorna Mahala"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327470881,
-    "wof:lastmodified":1537587797,
+    "wof:lastmodified":1566613628,
     "wof:name":"Gorna Mahala",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

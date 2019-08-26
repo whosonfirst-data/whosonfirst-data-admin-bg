@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.57214,42.7782,22.61214,42.8182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0434\u043e\u0432\u043e"
     ],
@@ -51,8 +55,7 @@
         "Radovo"
     ],
     "name:und_x_variant":[
-        "Radowo",
-        "Radovo"
+        "Radowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1209249831,
-    "wof:lastmodified":1564177231,
+    "wof:lastmodified":1566613854,
     "wof:name":"Radovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

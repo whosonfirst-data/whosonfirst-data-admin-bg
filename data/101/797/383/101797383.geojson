@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.565546,
     "lbl:longitude":27.349738,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.565546,
     "mps:longitude":27.349738,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041d\u0438\u043a\u043e\u043b\u0430 \u041a\u043e\u0437\u043b\u0435\u0432\u043e"
     ],
@@ -68,9 +71,6 @@
     "name:swe_x_preferred":[
         "Obsjtina Nikola-Kozlevo"
     ],
-    "name:unk_x_variant":[
-        "Besh-Tepe"
-    ],
     "name:vie_x_preferred":[
         "Nikola Kozlevo"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":228,
     "wof:belongsto":[
         102191581,
@@ -106,9 +106,11 @@
         "fct:id":"037226da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728791,
         "gp:id":838323,
-        "qs:id":1272925,
         "qs_pg:id":404672,
         "wd:id":"Q15101410"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1272925
     },
     "wof:country":"BG",
     "wof:geomhash":"bbdfe6d26c29e93c19a60b92bd7bd843",
@@ -124,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325184,
+    "wof:lastmodified":1566614018,
     "wof:name":"\u041f\u0435\u0442 \u043c\u043e\u0433\u0438\u043b\u0438",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

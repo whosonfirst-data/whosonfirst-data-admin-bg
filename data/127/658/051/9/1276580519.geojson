@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.43064,43.50939,23.47064,43.54939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0431\u0438\u043b\u044f\u043a"
     ],
@@ -49,8 +53,7 @@
         "\u041a\u043e\u0431\u0438\u043b\u044f\u043a"
     ],
     "name:und_x_variant":[
-        "Kobiljak",
-        "Kobilyak"
+        "Kobiljak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1276580519,
-    "wof:lastmodified":1564177148,
+    "wof:lastmodified":1566613804,
     "wof:name":"Kobilyak",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

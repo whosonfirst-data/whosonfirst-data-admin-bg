@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.865149,
     "lbl:longitude":23.62029,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.865149,
     "mps:longitude":23.62029,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0415\u043b\u0435\u0448\u043d\u0438\u0446\u0430"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0435\u0448\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jele\u0161nica"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191581,
@@ -77,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":731681,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2015019"
     },
     "wof:country":"BG",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101800293,
-    "wof:lastmodified":1563325491,
+    "wof:lastmodified":1566614130,
     "wof:name":"\u0415\u043b\u0435\u0448\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

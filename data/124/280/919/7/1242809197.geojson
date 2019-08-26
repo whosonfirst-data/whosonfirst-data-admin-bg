@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.75947,42.03875,27.79947,42.07875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0438"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1242809197,
-    "wof:lastmodified":1564177541,
+    "wof:lastmodified":1566614190,
     "wof:name":"Kosti",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

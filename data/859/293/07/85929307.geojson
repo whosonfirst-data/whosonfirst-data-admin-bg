@@ -10,8 +10,10 @@
     "geom:latitude":42.662522,
     "geom:longitude":23.410797,
     "iso:country":"BG",
+    "lbl:bbox":"23.405797,42.657522,23.415797,42.667522",
     "lbl:latitude":42.662522,
     "lbl:longitude":23.410797,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.648035,
     "mps:longitude":23.414445,
     "mz:hierarchy_label":0,
@@ -52,9 +54,6 @@
         "\u0418\u0441\u043a\u044b\u0440"
     ],
     "name:swe_x_preferred":[
-        "Iskar"
-    ],
-    "name:unk_x_variant":[
         "Iskar"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247583,
+    "wof:lastmodified":1566613710,
     "wof:name":"Iskar",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

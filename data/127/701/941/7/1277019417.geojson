@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.11333,41.73,25.15333,41.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0434\u044a\u043d\u043a\u0430"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277019417,
-    "wof:lastmodified":1537587586,
+    "wof:lastmodified":1566613782,
     "wof:name":"Kadanka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

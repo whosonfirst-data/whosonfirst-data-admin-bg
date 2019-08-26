@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.53672,41.37144,25.57672,41.41144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043f\u043e\u043b\u043a\u0430"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1260116501,
-    "wof:lastmodified":1564177353,
+    "wof:lastmodified":1566613934,
     "wof:name":"Topolka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

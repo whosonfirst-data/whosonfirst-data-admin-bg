@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.78,42.61333,26.82,42.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043d\u0435\u0446"
     ],
@@ -50,8 +54,7 @@
         "Aledaglii",
         "Vyenets",
         "Aladagliy",
-        "Wenez",
-        "Venets"
+        "Wenez"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1259619899,
-    "wof:lastmodified":1564177650,
+    "wof:lastmodified":1566614258,
     "wof:name":"Venets",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.71333,41.83,25.75333,41.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043c\u0438\u043d\u043e"
     ],
@@ -47,8 +51,7 @@
         "\u041c\u043e\u043c\u0438\u043d\u043e"
     ],
     "name:und_x_variant":[
-        "K\u016dz Makhle",
-        "Momino"
+        "K\u016dz Makhle"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1293129543,
-    "wof:lastmodified":1564177038,
+    "wof:lastmodified":1566613742,
     "wof:name":"Momino",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

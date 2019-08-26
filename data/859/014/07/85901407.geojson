@@ -12,8 +12,10 @@
     "gn:latitude":42.51667,
     "gn:longitude":27.46667,
     "iso:country":"BG",
+    "lbl:bbox":"27.464017,42.504176,27.474017,42.514176",
     "lbl:latitude":42.509176,
     "lbl:longitude":27.469017,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.511568,
     "mps:longitude":27.46916,
     "mz:hierarchy_label":0,
@@ -86,10 +88,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0430\u043d\u0430\u0441\u0456\u0432\u0441\u044c\u043a\u0435 \u043e\u0437\u0435\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Atanaskioy",
-        "Atanasovo"
-    ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":732770,
@@ -118,7 +116,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":304,
     "wof:belongsto":[
         102191581,
@@ -130,7 +128,6 @@
     "wof:concordances":{
         "gn:id":733605,
         "gp:id":834711,
-        "qs:id":1167280,
         "qs_pg:id":1167280,
         "wd:id":"Q753441"
     },
@@ -149,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563324712,
+    "wof:lastmodified":1566613708,
     "wof:name":"Atanasovo",
     "wof:parent_id":101748905,
     "wof:placetype":"neighbourhood",

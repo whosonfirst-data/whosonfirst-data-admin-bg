@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.71333,42.31333,26.75333,42.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0435\u0446"
     ],
@@ -52,8 +56,7 @@
         "Saranl\u0103-Eni-Kyoy",
         "Telez",
         "Saranl\u0103-Eni-K\u2019oy",
-        "Saranl\u016d Eni K\u2019oy",
-        "Kamenets"
+        "Saranl\u016d Eni K\u2019oy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1293523277,
-    "wof:lastmodified":1564177016,
+    "wof:lastmodified":1566613730,
     "wof:name":"Kamenets",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.177324,
     "lbl:longitude":26.57214,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":42.177324,
     "mps:longitude":26.57214,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0644\u0647\u0648\u0648"
     ],
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0445\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u016dz\u016dl-Agach"
     ],
     "name:vie_x_preferred":[
@@ -153,7 +156,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":407,
     "wof:belongsto":[
@@ -166,7 +169,6 @@
         "fct:id":"0370cea2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731670,
         "gp:id":836150,
-        "qs:id":1272432,
         "qs_pg:id":1272432,
         "wd:id":"Q406613",
         "wk:page":"Elhovo"
@@ -185,7 +187,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325363,
+    "wof:lastmodified":1566614086,
     "wof:name":"\u0415\u043b\u0445\u043e\u0432\u043e",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

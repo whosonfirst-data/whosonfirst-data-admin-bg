@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.379075,
     "lbl:longitude":24.350419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.379075,
     "mps:longitude":24.350419,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0438 \u0414\u044a\u0431\u043d\u0438\u043a"
     ],
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Obsjtina Dolni Dbnik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Diubnik"
     ],
     "name:vie_x_preferred":[
@@ -86,7 +89,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":173,
     "wof:belongsto":[
         102191581,
@@ -97,7 +100,7 @@
     "wof:concordances":{
         "gn:id":731213,
         "gp:id":836511,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2561191"
     },
     "wof:country":"BG",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":101797243,
-    "wof:lastmodified":1563325166,
+    "wof:lastmodified":1566614011,
     "wof:name":"\u0413\u043e\u0440\u043d\u0438 \u0414\u044a\u0431\u043d\u0438\u043a",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

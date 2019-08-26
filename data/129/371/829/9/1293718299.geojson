@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.81333,42.89667,23.85333,42.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0437\u043b\u0438\u0432"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293718299,
-    "wof:lastmodified":1537587389,
+    "wof:lastmodified":1566613744,
     "wof:name":"Razliv",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

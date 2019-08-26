@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.35177,41.29786,25.39177,41.33786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u067e\u0631\u06cc\u0644\u062a\u0633\u06cc"
     ],
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1243587931,
-    "wof:lastmodified":1564177575,
+    "wof:lastmodified":1566614210,
     "wof:name":"Apriltsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

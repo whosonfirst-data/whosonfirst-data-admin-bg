@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.06383,
     "lbl:longitude":27.014847,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.06383,
     "mps:longitude":27.014847,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0421\u043c\u044f\u0434\u043e\u0432\u043e"
     ],
@@ -67,9 +70,6 @@
     "name:swe_x_preferred":[
         "Obsjtina Smjadovo"
     ],
-    "name:unk_x_variant":[
-        "Smedovo"
-    ],
     "name:vie_x_preferred":[
         "Smyadovo"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":219,
     "wof:belongsto":[
@@ -107,7 +107,6 @@
         "fct:id":"0372b42e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727025,
         "gp:id":839713,
-        "qs:id":219336,
         "qs_pg:id":219336,
         "wd:id":"Q2609389",
         "wk:page":"Smyadovo Municipality"
@@ -126,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325209,
+    "wof:lastmodified":1566614027,
     "wof:name":"\u0421\u043c\u044f\u0434\u043e\u0432\u043e",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

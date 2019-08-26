@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.33,42.79667,25.37,42.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u0420\u0430\u0434\u043a\u043e\u0432\u0446\u0438"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1259514325,
-    "wof:lastmodified":1564177660,
+    "wof:lastmodified":1566614263,
     "wof:name":"Dolni Radkovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.28,42.63,25.32,42.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0646\u0627\u0648\u062a\u0633\u06cc"
     ],
@@ -75,10 +79,8 @@
     ],
     "name:und_x_variant":[
         "Bayaslii",
-        "Dunawzi",
         "Bayazetli",
-        "Bakhaslii",
-        "Dunavtsi"
+        "Bakhaslii"
     ],
     "name:vie_x_preferred":[
         "Dunavtsi"
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":1242708803,
-    "wof:lastmodified":1564177579,
+    "wof:lastmodified":1566614213,
     "wof:name":"Dunavtsi",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

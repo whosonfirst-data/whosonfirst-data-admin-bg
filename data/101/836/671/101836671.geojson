@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.280152,
     "lbl:longitude":24.083998,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.280152,
     "mps:longitude":24.083998,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0686\u0631\u0648\u0646 \u0628\u0631\u06cc\u0627\u06af"
     ],
@@ -95,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d-\u0411\u0440\u044f\u0433"
     ],
-    "name:unk_x_variant":[
-        "Tscherwen Breg"
-    ],
     "name:vie_x_preferred":[
         "Cherven Bryag"
     ],
@@ -124,7 +124,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":301,
     "wof:belongsto":[
@@ -137,7 +137,6 @@
         "fct:id":"037388a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732491,
         "gp:id":835501,
-        "qs:id":1028760,
         "qs_pg:id":1028760,
         "wd:id":"Q407330"
     },
@@ -155,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325519,
+    "wof:lastmodified":1566614143,
     "wof:name":"\u0427\u0435\u0440\u0432\u0435\u043d \u0431\u0440\u044f\u0433",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

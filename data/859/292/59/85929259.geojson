@@ -11,8 +11,10 @@
     "geom:longitude":23.265025,
     "gn:id":"",
     "iso:country":"BG",
+    "lbl:bbox":"23.260025,42.693578,23.270025,42.703578",
     "lbl:latitude":42.698578,
     "lbl:longitude":23.265025,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.693539,
     "mps:longitude":23.287494,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     ],
     "name:swe_x_preferred":[
         "Krasna Poljana"
-    ],
-    "name:unk_x_variant":[
-        "Krasna Polyana"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_id":0,
@@ -81,7 +80,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855470,
-        "qs:id":224252,
         "qs_pg:id":224252
     },
     "wof:country":"BG",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566613709,
     "wof:name":"Krasna Polyana",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

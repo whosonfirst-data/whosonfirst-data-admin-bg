@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.80428,
     "lbl:longitude":26.099428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.80428,
     "mps:longitude":26.099428,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d\u0430 \u0432\u043e\u0434\u0430"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Obsjtina Ruse"
     ],
-    "name:unk_x_variant":[
-        "Tscherwenawoda"
-    ],
     "name:vie_x_preferred":[
         "Ruse"
     ],
@@ -88,7 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":268,
     "wof:belongsto":[
         102191581,
@@ -100,7 +100,7 @@
         "fct:id":"03707394-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732494,
         "gp:id":835506,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2652929"
     },
     "wof:country":"BG",
@@ -117,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325213,
+    "wof:lastmodified":1566614028,
     "wof:name":"\u0427\u0435\u0440\u0432\u0435\u043d\u0430 \u0432\u043e\u0434\u0430",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

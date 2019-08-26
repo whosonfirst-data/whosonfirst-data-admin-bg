@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.703308,
     "lbl:longitude":27.762799,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.703308,
     "mps:longitude":27.762799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0436\u0443\u0440\u043e\u0432\u043e"
     ],
@@ -40,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0436\u0443\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malinovo"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191581,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":732948,
         "gp:id":835174,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1082633"
     },
     "wof:country":"BG",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101796281,
-    "wof:lastmodified":1563325386,
+    "wof:lastmodified":1566614095,
     "wof:name":"\u0411\u043e\u0436\u0443\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

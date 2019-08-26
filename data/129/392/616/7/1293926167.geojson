@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"28.38648,43.46625,28.42648,43.50625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0438"
     ],
@@ -53,8 +57,7 @@
         "Racovschi",
         "Seid Akhmed",
         "Said Achmed",
-        "Sayd-Akhmed",
-        "Rakovski"
+        "Sayd-Akhmed"
     ],
     "name:vie_x_preferred":[
         "Rakovski"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1293926167,
-    "wof:lastmodified":1564177060,
+    "wof:lastmodified":1566613754,
     "wof:name":"Rakovski",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

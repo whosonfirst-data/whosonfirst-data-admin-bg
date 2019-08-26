@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.3588,
     "lbl:longitude":25.140935,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.3588,
     "mps:longitude":25.140935,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041b\u0435\u0432\u0441\u043a\u0438"
     ],
@@ -68,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0432\u0441\u044c\u043a\u0456"
     ],
-    "name:unk_x_variant":[
-        "Turski Karaagach"
-    ],
     "name:vie_x_preferred":[
         "Levski"
     ],
@@ -97,7 +97,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":157,
     "wof:belongsto":[
@@ -110,7 +110,6 @@
         "fct:id":"03719d00-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729636,
         "gp:id":837685,
-        "qs:id":1283889,
         "qs_pg:id":1283889,
         "wd:id":"Q2561243",
         "wk:page":"Levski Municipality"
@@ -129,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325201,
+    "wof:lastmodified":1566614024,
     "wof:name":"\u041b\u0435\u0432\u0441\u043a\u0438",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

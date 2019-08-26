@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.819132,
     "lbl:longitude":23.513107,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.819132,
     "mps:longitude":23.513107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u0426\u0438\u0431\u044a\u0440"
     ],
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0456\u0448\u043d\u0456\u0439 \u0426\u0438\u0431\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cibar"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":732081,
         "gp:id":835824,
-        "qs:id":1144585,
+        "qs_pg:id":1144585,
         "wd:id":"Q1087139"
     },
     "wof:country":"BG",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101797079,
-    "wof:lastmodified":1563325160,
+    "wof:lastmodified":1566614010,
     "wof:name":"\u0414\u043e\u043b\u043d\u0438 \u0426\u0438\u0431\u044a\u0440",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

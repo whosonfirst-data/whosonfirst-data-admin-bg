@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.68667,42.84667,22.72667,42.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0440\u0430\u0431\u0447\u0430"
     ],
@@ -69,8 +73,7 @@
     "name:und_x_variant":[
         "Wrabtscha",
         "Vrab\u010da",
-        "Vrabtcha",
-        "Vrabcha"
+        "Vrabtcha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1326463981,
-    "wof:lastmodified":1564176883,
+    "wof:lastmodified":1566613637,
     "wof:name":"Vrabcha",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

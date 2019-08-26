@@ -10,12 +10,16 @@
     "geom:latitude":41.600206,
     "geom:longitude":25.239044,
     "iso:country":"BG",
+    "lbl:bbox":"25.219044,41.580206,25.259044,41.620206",
     "lbl:latitude":41.600206,
     "lbl:longitude":25.239044,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.600206,
     "mps:longitude":25.239044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435"
     ],
@@ -43,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sheremetler"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191581,
@@ -73,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":730274,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1084594"
     },
     "wof:country":"BG",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":101859029,
-    "wof:lastmodified":1563325430,
+    "wof:lastmodified":1566614110,
     "wof:name":"\u041a\u043e\u0431\u0438\u043b\u044f\u043d\u0435",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

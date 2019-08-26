@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.72672,43.56138,23.76672,43.60138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0442\u0435\u0432\u043e"
     ],
@@ -47,8 +51,7 @@
     "name:und_x_variant":[
         "Bot\u2019ovo",
         "B\u016drzinski Cherkezi",
-        "Botiowo",
-        "Botevo"
+        "Botiowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1209552019,
-    "wof:lastmodified":1564177219,
+    "wof:lastmodified":1566613847,
     "wof:name":"Botevo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

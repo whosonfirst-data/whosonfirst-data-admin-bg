@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.821137,
     "lbl:longitude":23.562923,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.821137,
     "mps:longitude":23.562923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0628\u0631\u06cc\u0646\u06cc\u0634\u062a"
     ],
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0438\u043d\u0438\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sarantsi"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":161,
     "wof:belongsto":[
         102191581,
@@ -122,7 +125,6 @@
     "wof:concordances":{
         "gn:id":732205,
         "gp:id":835716,
-        "qs:id":1083322,
         "qs_pg:id":1083322,
         "wd:id":"Q407377",
         "wk:page":"Dobrinishte"
@@ -138,7 +140,7 @@
         }
     ],
     "wof:id":101799169,
-    "wof:lastmodified":1563325250,
+    "wof:lastmodified":1566614042,
     "wof:name":"\u0414\u043e\u0431\u0440\u0438\u043d\u0438\u0449\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

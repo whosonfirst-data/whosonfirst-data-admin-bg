@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.96253,43.63403,28.00253,43.67403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u043b\u0435\u043d\u0438\u043c\u0438\u0440"
     ],
@@ -47,8 +51,7 @@
     "name:und_x_variant":[
         "Salaman",
         "Plenimiv",
-        "Salman",
-        "Plenimir"
+        "Salman"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1293139091,
-    "wof:lastmodified":1564177047,
+    "wof:lastmodified":1566613747,
     "wof:name":"Plenimir",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.601126,
     "lbl:longitude":27.21631,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.601126,
     "mps:longitude":27.21631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u044a\u043b\u043d\u0430\u0440\u0438"
     ],
@@ -60,9 +63,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u043b\u043d\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
-        "Sofular"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0428\u0443\u043c\u0435\u043d",
     "qs:a1_alt":"Shumen",
@@ -78,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":228,
     "wof:belongsto":[
         102191581,
@@ -90,7 +90,7 @@
         "fct:id":"037339ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725664,
         "gp:id":840719,
-        "qs:id":405354,
+        "qs_pg:id":405354,
         "wd:id":"Q1087144"
     },
     "wof:country":"BG",
@@ -107,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325185,
+    "wof:lastmodified":1566614019,
     "wof:name":"\u0412\u044a\u043b\u043d\u0430\u0440\u0438",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

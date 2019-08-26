@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.91609,
     "lbl:longitude":23.588121,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.91609,
     "mps:longitude":23.588121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u0438\u0449\u0435"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u0457\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Krayshte"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":116,
     "wof:belongsto":[
         102191581,
@@ -80,10 +83,12 @@
     "wof:concordances":{
         "gn:id":729993,
         "gp:id":837405,
-        "qs:id":5,
-        "qs_pg:id":1018247,
+        "qs_pg:id":5,
         "wd:id":"Q2459524",
         "wk:page":"Kraishte, Blagoevgrad Province"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1018247
     },
     "wof:country":"BG",
     "wof:geomhash":"b69f487ea55e93db472dbe915e2601ef",
@@ -96,7 +101,7 @@
         }
     ],
     "wof:id":101800375,
-    "wof:lastmodified":1563325512,
+    "wof:lastmodified":1566614139,
     "wof:name":"\u041a\u0440\u0430\u0438\u0449\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

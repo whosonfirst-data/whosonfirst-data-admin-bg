@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000109,
-    "geom:area_square_m":988421.764975,
+    "geom:area_square_m":988421.764974,
     "geom:bbox":"25.9801474407,42.5991703889,25.9997339406,42.611946595",
     "geom:latitude":42.606313,
     "geom:longitude":25.990722,
     "iso:country":"BG",
     "lbl:latitude":42.607865,
     "lbl:longitude":25.992502,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.607865,
     "mps:longitude":25.992502,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Banyata"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -37,7 +40,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":983.0,
     "wd:latitude":42.283333,
     "wd:longitude":23.266667,
@@ -50,7 +53,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":733456,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"BG",
     "wof:geomhash":"2f5358104c50a9deea855d0d82621504",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":101794143,
-    "wof:lastmodified":1527689319,
+    "wof:lastmodified":1566614120,
     "wof:name":"\u0411\u0430\u043d\u044f",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

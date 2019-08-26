@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.46333,41.71333,25.50333,41.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u041a\u0440\u0435\u043f\u043e\u0441\u0442"
     ],
@@ -53,8 +57,7 @@
         "\u0414\u043e\u043b\u0456\u0448\u043d\u044f \u041a\u0440\u0435\u043f\u043e\u0441\u0442"
     ],
     "name:und_x_variant":[
-        "Dere Makhle",
-        "Dolna Krepost"
+        "Dere Makhle"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1242608453,
-    "wof:lastmodified":1564177556,
+    "wof:lastmodified":1566614199,
     "wof:name":"Dolna Krepost",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

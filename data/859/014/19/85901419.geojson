@@ -12,8 +12,10 @@
     "gn:latitude":42.01667,
     "gn:longitude":23.08333,
     "iso:country":"BG",
+    "lbl:bbox":"23.095128,42.01545,23.105128,42.02545",
     "lbl:latitude":42.02045,
     "lbl:longitude":23.100128,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.015771,
     "mps:longitude":23.089223,
     "mz:hierarchy_label":0,
@@ -46,9 +48,6 @@
     "name:swe_x_preferred":[
         "Gramada"
     ],
-    "name:unk_x_variant":[
-        "Gramada"
-    ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":733191,
@@ -78,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":22,
     "wof:belongsto":[
         102191581,
@@ -90,7 +89,6 @@
     "wof:concordances":{
         "gn:id":731055,
         "gp:id":836645,
-        "qs:id":1167293,
         "qs_pg:id":1167293
     },
     "wof:country":"BG",
@@ -108,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564176995,
+    "wof:lastmodified":1566613707,
     "wof:name":"Gramada",
     "wof:parent_id":101748875,
     "wof:placetype":"neighbourhood",

@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000271,
-    "geom:area_square_m":2445833.228944,
+    "geom:area_square_m":2445833.228946,
     "geom:bbox":"26.9351236452,43.1006809404,26.969462969,43.1181502114",
     "geom:latitude":43.109266,
     "geom:longitude":26.954617,
     "iso:country":"BG",
     "lbl:latitude":43.108605,
     "lbl:longitude":26.954877,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.108605,
     "mps:longitude":26.954877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u043b\u0430\u0442\u0430\u0440"
     ],
@@ -40,9 +43,6 @@
     "name:srp_x_preferred":[
         "\u0417\u043b\u0430\u0442\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Slatar"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0428\u0443\u043c\u0435\u043d",
     "qs:a1_alt":"Shumen",
@@ -58,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":147,
     "wof:belongsto":[
         102191581,
@@ -70,7 +70,7 @@
         "fct:id":"037361da-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725300,
         "gp:id":841020,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"BG",
     "wof:geomhash":"1004359b224165e986424a509786be75",
@@ -86,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641523,
+    "wof:lastmodified":1566614011,
     "wof:name":"\u0417\u043b\u0430\u0442\u0430\u0440",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

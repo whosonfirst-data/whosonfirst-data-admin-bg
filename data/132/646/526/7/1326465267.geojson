@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.84667,43.73,26.88667,43.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0419\u043e\u0430\u043a\u0438\u043c \u0413\u0440\u0443\u0435\u0432\u043e"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326465267,
-    "wof:lastmodified":1537587256,
+    "wof:lastmodified":1566613639,
     "wof:name":"Yakim Gruevo",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.84851,42.97518,22.88851,43.01518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u043e\u0442\u0438\u043d\u0430"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1344193593,
-    "wof:lastmodified":1564176974,
+    "wof:lastmodified":1566613694,
     "wof:name":"Kalotina",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

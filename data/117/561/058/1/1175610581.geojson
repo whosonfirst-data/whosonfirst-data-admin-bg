@@ -10,12 +10,16 @@
     "geom:latitude":43.243553,
     "geom:longitude":24.374607,
     "iso:country":"BG",
+    "lbl:bbox":"24.354607,43.223553,24.394607,43.263553",
     "lbl:latitude":43.243553,
     "lbl:longitude":24.374607,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.243553,
     "mps:longitude":24.374607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e"
     ],
@@ -58,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Byezhanovo"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041b\u043e\u0432\u0435\u0447",
     "qs:a1_alt":"Lovech",
@@ -78,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         101857933,
@@ -90,7 +91,7 @@
         "fct:id":"0370234e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733244,
         "gp:id":834944,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2453987"
     },
     "wof:country":"BG",
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1175610581,
-    "wof:lastmodified":1563325064,
+    "wof:lastmodified":1566613945,
     "wof:name":"\u0411\u0435\u0436\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

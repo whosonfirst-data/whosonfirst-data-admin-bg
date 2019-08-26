@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.73943,43.00894,27.77943,43.04894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0430"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293914433,
-    "wof:lastmodified":1537587532,
+    "wof:lastmodified":1566613722,
     "wof:name":"Krusha",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

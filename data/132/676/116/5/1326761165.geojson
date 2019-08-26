@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.21333,42.91333,27.25333,42.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u043b\u043a\u0430"
     ],
@@ -49,8 +53,7 @@
         "Chiflishka-Makhla",
         "Chiflik Makhle",
         "Chiflishka Makhala",
-        "Chiflik Maale",
-        "Bilka"
+        "Chiflik Maale"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1326761165,
-    "wof:lastmodified":1564176879,
+    "wof:lastmodified":1566613634,
     "wof:name":"Bilka",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.574178,
     "lbl:longitude":27.229057,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":43.574178,
     "mps:longitude":27.229057,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430 \u041a\u043e\u0437\u043b\u0435\u0432\u043e"
     ],
@@ -82,9 +85,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u0430-\u041a\u043e\u0437\u043b\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Dzhuvel"
-    ],
     "name:war_x_preferred":[
         "Nikola Kozlevo"
     ],
@@ -106,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -119,7 +119,7 @@
         "fct:id":"0371ee36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728791,
         "gp:id":838323,
-        "qs:id":404672,
+        "qs_pg:id":404672,
         "wd:id":"Q2021578",
         "wk:page":"Nikola Kozlevo"
     },
@@ -137,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325376,
+    "wof:lastmodified":1566614091,
     "wof:name":"\u041d\u0438\u043a\u043e\u043b\u0430 \u041a\u043e\u0437\u043b\u0435\u0432\u043e",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

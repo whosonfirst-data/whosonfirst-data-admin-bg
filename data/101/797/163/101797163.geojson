@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.375593,
     "lbl:longitude":25.350175,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.375593,
     "mps:longitude":25.350175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0435\u0441\u0435\u043d"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0457\u0441\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Rayko Daskalovo"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
     "qs:a1_alt":"Veliko Tarnovo",
@@ -73,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":206,
     "wof:belongsto":[
         102191581,
@@ -85,9 +85,11 @@
         "fct:id":"03713ff4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730616,
         "gp:id":839184,
-        "qs:id":8,
-        "qs_pg:id":1085444,
+        "qs_pg:id":8,
         "wd:id":"Q1077199"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1085444
     },
     "wof:country":"BG",
     "wof:geomhash":"f01b4eccf5f659b21d76628cf5ba4ddf",
@@ -103,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325199,
+    "wof:lastmodified":1566614024,
     "wof:name":"\u041a\u0430\u0440\u0430\u0438\u0441\u0435\u043d",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

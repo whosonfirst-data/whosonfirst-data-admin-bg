@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.59129,42.13273,22.63129,42.17273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0426\u044a\u0440\u0432\u0435\u043d\u0430 \u042f\u0431\u044a\u043b\u043a\u0430"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1209650351,
-    "wof:lastmodified":1564177209,
+    "wof:lastmodified":1566613841,
     "wof:name":"Tsarvena Yabalka",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

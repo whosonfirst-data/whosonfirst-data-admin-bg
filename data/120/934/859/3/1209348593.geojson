@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.16659,42.13752,27.20659,42.17752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u0440\u043e\u0432\u043e"
     ],
@@ -47,8 +51,7 @@
     "name:und_x_variant":[
         "Karovo",
         "Madlesh",
-        "Madlesch",
-        "Kirovo"
+        "Madlesch"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1209348593,
-    "wof:lastmodified":1564177280,
+    "wof:lastmodified":1566613882,
     "wof:name":"Kirovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

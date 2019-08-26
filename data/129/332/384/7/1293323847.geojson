@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.1316,41.43736,26.1716,41.47736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u043e\u043f\u043e\u043b\u044f\u043d\u0435"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1293323847,
-    "wof:lastmodified":1564177073,
+    "wof:lastmodified":1566613763,
     "wof:name":"Belopolyane",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

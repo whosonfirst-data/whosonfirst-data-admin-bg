@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.99419,42.0723,23.03419,42.1123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u0440\u0430\u043d\u043e\u0432\u043e"
     ],
@@ -42,8 +46,7 @@
         "\u0411\u0443\u0440\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Buranowo",
-        "Buranovo"
+        "Buranowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1276909099,
-    "wof:lastmodified":1564177172,
+    "wof:lastmodified":1566613820,
     "wof:name":"Buranovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.46333,41.63,25.50333,41.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u0432\u0435\u0437\u0434\u0435\u043b\u0438\u043d\u0430"
     ],
@@ -58,8 +62,7 @@
     "name:und_x_variant":[
         "Swesdelina",
         "Kaya Alt\u016d",
-        "Kaya Alta",
-        "Zvezdelina"
+        "Kaya Alta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1343793185,
-    "wof:lastmodified":1564176946,
+    "wof:lastmodified":1566613678,
     "wof:name":"Zvezdelina",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

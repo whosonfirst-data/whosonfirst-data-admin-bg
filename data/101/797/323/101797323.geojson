@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.627389,
     "lbl:longitude":22.681533,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.627389,
     "mps:longitude":22.681533,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0411\u0435\u043b\u043e\u0433\u0440\u0430\u0434\u0447\u0438\u043a"
     ],
@@ -72,9 +75,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0433\u0440\u0430\u0434\u0447\u0438\u043a"
     ],
-    "name:unk_x_variant":[
-        "Byelogradchik"
-    ],
     "name:vie_x_preferred":[
         "Belogradchik"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":240,
     "wof:belongsto":[
@@ -112,7 +112,6 @@
         "fct:id":"03701d4a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733309,
         "gp:id":834902,
-        "qs:id":568746,
         "qs_pg:id":568746,
         "wd:id":"Q2254259",
         "wk:page":"Belogradchik Municipality"
@@ -131,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325187,
+    "wof:lastmodified":1566614019,
     "wof:name":"\u0411\u0435\u043b\u043e\u0433\u0440\u0430\u0434\u0447\u0438\u043a",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.23247,41.79372,26.27247,41.83372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0438\u043c\u0438\u0442\u0440\u043e\u0432\u0447\u0435"
     ],
@@ -62,8 +66,7 @@
     ],
     "name:und_x_variant":[
         "Dimitrowtsche",
-        "Dimitri K\u2019oy",
-        "Dimitrovche"
+        "Dimitri K\u2019oy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1193052631,
-    "wof:lastmodified":1564177322,
+    "wof:lastmodified":1566613913,
     "wof:name":"Dimitrovche",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

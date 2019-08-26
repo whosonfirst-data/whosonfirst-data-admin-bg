@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.29667,41.71333,25.33667,41.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u0432\u0438\u0435\u043d"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259916181,
-    "wof:lastmodified":1537587413,
+    "wof:lastmodified":1566614239,
     "wof:name":"Povien",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

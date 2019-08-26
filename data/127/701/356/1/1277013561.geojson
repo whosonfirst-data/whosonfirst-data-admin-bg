@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.25472,43.4,23.29472,43.44",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u0438\u043a\u043e\u043b\u043e\u0432\u043e"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Banya",
-        "Banja",
-        "Nikolovo"
+        "Banja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1277013561,
-    "wof:lastmodified":1564177110,
+    "wof:lastmodified":1566613782,
     "wof:name":"Nikolovo",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

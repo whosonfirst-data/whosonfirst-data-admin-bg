@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.98024,41.37258,25.02024,41.41258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0430\u043c\u043e\u0432\u0446\u0438"
     ],
@@ -58,8 +62,7 @@
         "\u0410\u043b\u0430\u043c\u043e\u0432\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Alamowzi",
-        "Alamovtsi"
+        "Alamowzi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1243009505,
-    "wof:lastmodified":1564177516,
+    "wof:lastmodified":1566614177,
     "wof:name":"Alamovtsi",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

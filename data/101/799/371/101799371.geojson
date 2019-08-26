@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.176862,
     "lbl:longitude":24.863254,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.176862,
     "mps:longitude":24.863254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0448"
     ],
@@ -43,9 +46,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u043e\u0448"
     ],
-    "name:unk_x_variant":[
-        "Rogosch"
-    ],
     "name:zho_x_preferred":[
         "\u7f85\u6208\u4ec0\u51b0\u5ddd"
     ],
@@ -64,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":191,
     "wof:belongsto":[
         102191581,
@@ -76,7 +76,7 @@
         "fct:id":"03727400-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727608,
         "gp:id":839271,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2462583"
     },
     "wof:country":"BG",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325265,
+    "wof:lastmodified":1566614048,
     "wof:name":"\u0420\u043e\u0433\u043e\u0448",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.344293,
     "lbl:longitude":23.692562,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.344293,
     "mps:longitude":23.692562,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0438\u0446\u0430"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Baniza"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0440\u0430\u0446\u0430",
     "qs:a1_alt":"Vratsa",
@@ -77,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":43.333333,
     "wd:longitude":23.683333,
     "wd:wordcount":55,
@@ -91,7 +91,7 @@
         "fct:id":"03700d46-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733472,
         "gp:id":834795,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2453807",
         "wk:page":"Banitsa, Vratsa Province"
     },
@@ -109,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325166,
+    "wof:lastmodified":1566614011,
     "wof:name":"\u0411\u0430\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

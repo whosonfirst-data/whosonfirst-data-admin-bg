@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.591479,
     "lbl:longitude":23.412423,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.591479,
     "mps:longitude":23.412423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043a\u0430\u043b\u044f\u043d\u0435"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043a\u0430\u043b\u044f\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kokaljane"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":713.0,
     "wd:latitude":42.583333,
     "wd:longitude":23.416667,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":730250,
         "gp:id":837204,
-        "qs:id":496794,
         "qs_pg:id":496794,
         "wd:id":"Q2653811",
         "wk:page":"Kokalyane"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101799313,
-    "wof:lastmodified":1561837443,
+    "wof:lastmodified":1566614049,
     "wof:name":"\u041a\u043e\u043a\u0430\u043b\u044f\u043d\u0435",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.62152,43.56522,27.66152,43.60522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u043e"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1260325525,
-    "wof:lastmodified":1564177366,
+    "wof:lastmodified":1566613943,
     "wof:name":"Samuilovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

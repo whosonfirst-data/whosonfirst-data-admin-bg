@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.649415,
     "lbl:longitude":26.985889,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":42.649415,
     "mps:longitude":26.985889,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041a\u0430\u0440\u043d\u043e\u0431\u0430\u0442"
     ],
@@ -78,9 +81,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043d\u043e\u0431\u0430\u0442"
     ],
-    "name:unk_x_variant":[
-        "Poljanovgrad"
-    ],
     "name:vie_x_preferred":[
         "Karnobat"
     ],
@@ -104,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":54,
     "wof:belongsto":[
@@ -117,7 +117,6 @@
         "fct:id":"037144c2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730559,
         "gp:id":836997,
-        "qs:id":128977,
         "qs_pg:id":128977,
         "wd:id":"Q2476853"
     },
@@ -135,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325406,
+    "wof:lastmodified":1566614101,
     "wof:name":"\u041a\u0430\u0440\u043d\u043e\u0431\u0430\u0442",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

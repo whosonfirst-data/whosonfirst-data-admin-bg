@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.996283,
     "lbl:longitude":26.671362,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":42.996283,
     "mps:longitude":26.671362,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0648\u0627\u0631\u0628\u06cc\u062a\u0633\u0627"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0440\u0431\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Vrbica"
-    ],
     "name:war_x_preferred":[
         "Varbitsa"
     ],
@@ -130,7 +130,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":430.0,
     "wd:latitude":43.0,
@@ -146,7 +146,6 @@
         "fct:id":"03733bba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725649,
         "gp:id":840732,
-        "qs:id":1273295,
         "qs_pg:id":1273295,
         "wd:id":"Q406530",
         "wk:page":"Varbitsa (town)"
@@ -165,7 +164,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325162,
+    "wof:lastmodified":1566614010,
     "wof:name":"\u0412\u044a\u0440\u0431\u0438\u0446\u0430",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

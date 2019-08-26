@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.48489,41.41883,23.52489,41.45883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Petrovo"
     ],
@@ -69,10 +73,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "Petrowo",
-        "Petrovo"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1277128047,
-    "wof:lastmodified":1564177152,
+    "wof:lastmodified":1566613806,
     "wof:name":"Petrovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

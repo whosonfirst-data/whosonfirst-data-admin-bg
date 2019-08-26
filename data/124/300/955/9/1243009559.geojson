@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.01527,44.10927,27.05527,44.14927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u0442\u0440\u0435\u043d"
     ],
@@ -51,8 +55,7 @@
     "name:und_x_variant":[
         "Vyetren",
         "Vetrina",
-        "Wetren",
-        "Vetren"
+        "Wetren"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1243009559,
-    "wof:lastmodified":1564177512,
+    "wof:lastmodified":1566614174,
     "wof:name":"Vetren",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

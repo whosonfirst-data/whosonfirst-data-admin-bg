@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7450394.59095,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.105391,41.388551,25.105391,41.388551",
     "geom:latitude":41.388551,
     "geom:longitude":25.105391,
     "gn:latitude":41.38333,
     "gn:longitude":25.1,
     "iso:country":"BG",
+    "lbl:bbox":"25.100391,41.383551,25.110391,41.393551",
     "lbl:latitude":41.388551,
     "lbl:longitude":25.105391,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.381901,
     "mps:longitude":25.094765,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "\u0427\u0435\u0442\u0430\u043a\u043e\u0432\u0438 \u041a\u043e\u043b\u0438\u0431\u0438"
     ],
     "name:eng_x_preferred":[
-        "Chitakovi Kolibi"
-    ],
-    "name:unk_x_variant":[
         "Chitakovi Kolibi"
     ],
     "qs:gn_adm0_cc":"BG",
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -77,7 +76,6 @@
     "wof:concordances":{
         "gn:id":732447,
         "gp:id":835534,
-        "qs:id":983581,
         "qs_pg:id":983581
     },
     "wof:country":"BG",
@@ -95,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531932499,
+    "wof:lastmodified":1566613709,
     "wof:name":"Chitakovi Kolibi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

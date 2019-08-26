@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Skopje",
     "iso:country":"BG",
+    "lbl:bbox":"22.35308,42.29663,22.39308,42.33663",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0416\u0435\u0440\u0430\u0432\u0438\u043d\u043e"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326458913,
-    "wof:lastmodified":1537587239,
+    "wof:lastmodified":1566613614,
     "wof:name":"Zheravino",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

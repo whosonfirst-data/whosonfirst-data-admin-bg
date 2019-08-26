@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.804728,
     "lbl:longitude":27.073966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.804728,
     "mps:longitude":27.073966,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0432\u0435\u043d"
     ],
@@ -70,9 +73,6 @@
     "name:swe_x_preferred":[
         "Obsjtina Dulovo"
     ],
-    "name:unk_x_variant":[
-        "Karakatsch"
-    ],
     "name:vie_x_preferred":[
         "Dulovo"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":243,
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,7 @@
         "fct:id":"03721302-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728481,
         "gp:id":838579,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2387177"
     },
     "wof:country":"BG",
@@ -123,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325394,
+    "wof:lastmodified":1566614098,
     "wof:name":"\u041e\u0432\u0435\u043d",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

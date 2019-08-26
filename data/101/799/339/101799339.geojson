@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.323285,
     "lbl:longitude":24.673375,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.323285,
     "mps:longitude":24.673375,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0426\u0430\u0440\u0438\u043c\u0438\u0440"
     ],
@@ -43,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0430\u0440\u0438\u043c\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zarimir"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -61,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":726258,
         "gp:id":840273,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2022149"
     },
     "wof:country":"BG",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":101799339,
-    "wof:lastmodified":1563325246,
+    "wof:lastmodified":1566614040,
     "wof:name":"\u0426\u0430\u0440\u0438\u043c\u0438\u0440",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

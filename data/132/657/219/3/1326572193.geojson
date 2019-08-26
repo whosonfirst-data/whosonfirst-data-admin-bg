@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.50654,43.80896,27.54654,43.84896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043d\u0433\u0435\u043b\u0430\u0440\u0438\u0439"
     ],
@@ -54,8 +58,7 @@
     "name:und_x_variant":[
         "Soyaklii",
         "Angelarji",
-        "Soiacli",
-        "Angelariy"
+        "Soiacli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1326572193,
-    "wof:lastmodified":1564176867,
+    "wof:lastmodified":1566613627,
     "wof:name":"Angelariy",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

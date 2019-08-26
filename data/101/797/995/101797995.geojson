@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.925975,
     "lbl:longitude":25.906251,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":41.925975,
     "mps:longitude":25.906251,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u0631\u0645\u0627\u0646\u0644\u06cc"
     ],
@@ -115,9 +118,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0440\u043c\u0430\u043d\u043b\u0438"
     ],
-    "name:unk_x_variant":[
-        "Charmanlii"
-    ],
     "name:vie_x_preferred":[
         "Harmanli"
     ],
@@ -144,7 +144,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":545,
     "wof:belongsto":[
@@ -157,7 +157,6 @@
         "fct:id":"03714cec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730442,
         "gp:id":837065,
-        "qs:id":966522,
         "qs_pg:id":966522,
         "wd:id":"Q406239",
         "wk:page":"Harmanli"
@@ -176,7 +175,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325195,
+    "wof:lastmodified":1566614022,
     "wof:name":"\u0425\u0430\u0440\u043c\u0430\u043d\u043b\u0438",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

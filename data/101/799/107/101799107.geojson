@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.684719,
     "lbl:longitude":24.293421,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":41.684719,
     "mps:longitude":24.293421,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u0438\u043d\u043e"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kara-Bulak"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +86,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1778,
     "wof:belongsto":[
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":733067,
         "gp:id":56023093,
-        "qs:id":539278,
+        "qs_pg:id":539278,
         "wd:id":"Q2469110",
         "wk:page":"Borino"
     },
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":101799107,
-    "wof:lastmodified":1563325273,
+    "wof:lastmodified":1566614051,
     "wof:name":"\u0411\u043e\u0440\u0438\u043d\u043e",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

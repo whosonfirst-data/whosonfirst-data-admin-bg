@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.29667,41.99667,25.33667,42.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0434\u0440\u043e\u0432\u043e"
     ],
@@ -52,10 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0434\u0440\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "Bodrowo",
-        "Bodrovo"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1327066237,
-    "wof:lastmodified":1564176823,
+    "wof:lastmodified":1566613599,
     "wof:name":"Bodrovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

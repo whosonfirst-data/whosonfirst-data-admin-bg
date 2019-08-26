@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.45162,41.4612,25.49162,41.5012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u044f\u0432\u0435\u0446"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1242613813,
-    "wof:lastmodified":1564177555,
+    "wof:lastmodified":1566614198,
     "wof:name":"Piyavets",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

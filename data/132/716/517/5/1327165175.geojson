@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.08,41.54667,25.12,41.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0443\u043b\u043a\u0430"
     ],
@@ -57,8 +61,7 @@
     ],
     "name:und_x_variant":[
         "Chand\u016dr",
-        "Swetulka",
-        "Svetulka"
+        "Swetulka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1327165175,
-    "wof:lastmodified":1564176907,
+    "wof:lastmodified":1566613652,
     "wof:name":"Svetulka",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

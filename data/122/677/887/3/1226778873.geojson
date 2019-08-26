@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.96333,42.44667,27.00333,42.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0416\u0438\u0442\u043e\u0441\u0432\u044f\u0442"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226778873,
-    "wof:lastmodified":1564177742,
+    "wof:lastmodified":1566614316,
     "wof:name":"Zhitosvyat",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

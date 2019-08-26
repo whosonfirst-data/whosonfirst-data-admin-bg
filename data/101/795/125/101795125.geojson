@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":44.11776,
     "lbl:longitude":27.264126,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":44.11776,
     "mps:longitude":27.264126,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u064a\u0633\u062a\u0631\u0627"
     ],
@@ -203,9 +206,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043b\u0456\u0441\u0442\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Silistra"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0644\u06cc\u0633\u062a\u0631\u0627"
     ],
@@ -234,7 +234,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -246,7 +246,6 @@
         "fct:id":"0373a0d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727221,
         "gp:id":839552,
-        "qs:id":477943,
         "qs_pg:id":477943,
         "wd:id":"Q182428",
         "wk:page":"Silistra"
@@ -265,7 +264,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325468,
+    "wof:lastmodified":1566614121,
     "wof:name":"\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

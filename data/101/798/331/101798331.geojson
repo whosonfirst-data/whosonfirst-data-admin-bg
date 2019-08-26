@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.770225,
     "lbl:longitude":27.529906,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.770225,
     "mps:longitude":27.529906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u044a\u043b\u044a\u0431\u0435\u0446"
     ],
@@ -84,7 +87,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0438\u043b\u0438\u0431\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tatar K\u2019oy"
     ],
     "name:zho_x_preferred":[
@@ -105,7 +108,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3018,
     "wof:belongsto":[
         102191581,
@@ -117,7 +120,7 @@
         "fct:id":"03711826-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730995,
         "gp:id":836693,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2014876"
     },
     "wof:country":"BG",
@@ -134,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325298,
+    "wof:lastmodified":1566614060,
     "wof:name":"\u0413\u044a\u043b\u044a\u0431\u0435\u0446",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

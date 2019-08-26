@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.369908,
     "lbl:longitude":23.142744,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.369908,
     "mps:longitude":23.142744,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0424\u041a \u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430"
     ],
@@ -75,9 +78,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Eleschniza"
-    ],
     "name:zho_x_preferred":[
         "\u4f69\u7279\u91cc\u5947"
     ],
@@ -96,7 +96,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":321,
     "wof:belongsto":[
         102191581,
@@ -108,7 +108,7 @@
         "fct:id":"0370176e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733367,
         "gp:id":834864,
-        "qs:id":102394,
+        "qs_pg:id":102394,
         "wd:id":"Q6707867"
     },
     "wof:country":"BG",
@@ -125,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325492,
+    "wof:lastmodified":1566614131,
     "wof:name":"\u0411\u0435\u043b\u0430\u0441\u0438\u0446\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

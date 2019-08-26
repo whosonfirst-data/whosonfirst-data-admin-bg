@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.93,42.18,24.97,42.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u043e\u043b\u0441\u043a\u043e \u041a\u043e\u043d\u0430\u0440\u0435"
     ],
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209451443,
-    "wof:lastmodified":1537587493,
+    "wof:lastmodified":1566613888,
     "wof:name":"Manolsko Konare",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

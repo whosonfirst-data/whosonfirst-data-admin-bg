@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.859561,
     "lbl:longitude":23.126454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.859561,
     "mps:longitude":23.126454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0438\u0447\u0435"
     ],
@@ -55,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0438\u0447\u0435"
     ],
-    "name:unk_x_variant":[
-        "Makhala Tschernitsche"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
     "qs:a1_alt":"Blagoevgrad",
@@ -73,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191581,
@@ -85,7 +85,7 @@
         "fct:id":"03706dea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732559,
         "gp:id":835467,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2654493",
         "wk:page":"Cherniche"
     },
@@ -103,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325505,
+    "wof:lastmodified":1566614136,
     "wof:name":"\u0427\u0435\u0440\u043d\u0438\u0447\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

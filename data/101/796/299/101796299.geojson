@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.817364,
     "lbl:longitude":27.140829,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.817364,
     "mps:longitude":27.140829,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0644\u0648\u0648"
     ],
@@ -100,9 +103,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Inatra-Mahle"
-    ],
     "name:vie_x_preferred":[
         "Dulovo"
     ],
@@ -129,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":214,
     "wof:belongsto":[
@@ -142,7 +142,6 @@
         "fct:id":"0370bff2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731818,
         "gp:id":836044,
-        "qs:id":184364,
         "qs_pg:id":184364,
         "wd:id":"Q407319",
         "wk:page":"Dulovo, Bulgaria"
@@ -161,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325417,
+    "wof:lastmodified":1566614105,
     "wof:name":"\u0414\u0443\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

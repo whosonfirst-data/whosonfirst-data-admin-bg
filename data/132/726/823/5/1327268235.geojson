@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.24767,41.85042,26.28767,41.89042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0432\u043a\u0430"
     ],
@@ -48,8 +52,7 @@
     "name:und_x_variant":[
         "B\u016dlgarska Levka",
         "Lefka",
-        "Lefke",
-        "Levka"
+        "Lefke"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1327268235,
-    "wof:lastmodified":1564176900,
+    "wof:lastmodified":1566613647,
     "wof:name":"Levka",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

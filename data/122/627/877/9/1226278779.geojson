@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.69667,42.34667,24.73667,42.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0443\u0432\u0430\u043d\u043b\u0438\u0438"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226278779,
-    "wof:lastmodified":1537587656,
+    "wof:lastmodified":1566614280,
     "wof:name":"Duvanlii",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

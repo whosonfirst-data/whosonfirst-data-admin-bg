@@ -11,12 +11,16 @@
     "geom:longitude":25.020484,
     "gn:population":1279,
     "iso:country":"BG",
+    "lbl:bbox":"25.000484,41.587639,25.040484,41.627639",
     "lbl:latitude":41.607639,
     "lbl:longitude":25.020484,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":41.607639,
     "mps:longitude":25.020484,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u043d\u0438\u0442\u0435"
     ],
@@ -77,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0456\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u016ddzha"
     ],
     "name:war_x_preferred":[
@@ -104,7 +108,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":100,
     "wof:belongsto":[
@@ -117,7 +121,6 @@
         "fct:id":"03700d14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733474,
         "gp:id":834794,
-        "qs:id":1272156,
         "qs_pg:id":1272156,
         "wd:id":"Q2444193",
         "wk:page":"Banite"
@@ -136,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325435,
+    "wof:lastmodified":1566614113,
     "wof:name":"\u0411\u0430\u043d\u0438\u0442\u0435",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

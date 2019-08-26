@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.845366,
     "lbl:longitude":27.670653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.845366,
     "mps:longitude":27.670653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u043b\u0435\u0440\u0438\u0433"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u0435\u0440\u0438\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khasa K\u2019oseler"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -74,7 +77,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":39,
     "wof:belongsto":[
         102191581,
@@ -86,7 +89,7 @@
         "fct:id":"0372ea3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726493,
         "gp:id":840105,
-        "qs:id":405179,
+        "qs_pg:id":405179,
         "wd:id":"Q7203203",
         "wk:page":"Telerig (village)"
     },
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325471,
+    "wof:lastmodified":1566614122,
     "wof:name":"\u0422\u0435\u043b\u0435\u0440\u0438\u0433",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.587584,
     "lbl:longitude":23.898614,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.587584,
     "mps:longitude":23.898614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u0414\u0440\u044f\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dolno Drenowo"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":222,
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":732068,
         "gp:id":835837,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2458270",
         "wk:page":"Dolno Dryanovo"
     },
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101800319,
-    "wof:lastmodified":1563325512,
+    "wof:lastmodified":1566614139,
     "wof:name":"\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

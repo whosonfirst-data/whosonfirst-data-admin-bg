@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1280705.14936,
+    "geom:area_square_m":1280705.149358,
     "geom:bbox":"27.0005267175,43.8269416198,27.0164164431,43.8478369741",
     "geom:latitude":43.839089,
     "geom:longitude":27.008824,
     "iso:country":"BG",
     "lbl:latitude":43.84241,
     "lbl:longitude":27.005634,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.84241,
     "mps:longitude":27.005634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u042f\u0440\u0435\u0431\u0438\u0446\u0430"
     ],
@@ -39,9 +42,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u0440\u0435\u0431\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Jarebica"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
     "qs:a1_alt":"Silistra",
@@ -57,7 +57,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":47,
     "wof:belongsto":[
         102191581,
@@ -69,7 +69,7 @@
         "fct:id":"0373456a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725554,
         "gp:id":840807,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"BG",
     "wof:geomhash":"b9b024195477b54b946bc2656b6b9694",
@@ -85,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715150,
+    "wof:lastmodified":1566614141,
     "wof:name":"\u042f\u0440\u0435\u0431\u0438\u0446\u0430",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.632551,
     "lbl:longitude":23.787587,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.632551,
     "mps:longitude":23.787587,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0441\u043e\u0444\u0440\u043e\u043d\u0438\u0435\u0432\u043e"
     ],
@@ -67,7 +70,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u0444\u0440\u043e\u043d\u0456\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u016drbenetsa"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -86,7 +89,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -97,7 +100,7 @@
         "fct:id":"0372b5be-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727006,
         "gp:id":839725,
-        "qs:id":1273128,
+        "qs_pg:id":1273128,
         "wd:id":"Q770925"
     },
     "wof:country":"BG",
@@ -114,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325204,
+    "wof:lastmodified":1566614025,
     "wof:name":"\u0421\u043e\u0444\u0440\u043e\u043d\u0438\u0435\u0432\u043e",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.61333,43.33,26.65333,43.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0441\u0442\u0438\u0440\u0446\u0438"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310041821,
-    "wof:lastmodified":1537587494,
+    "wof:lastmodified":1566613975,
     "wof:name":"Manastirtsi",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

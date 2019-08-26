@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.066739,
     "lbl:longitude":26.56176,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.066739,
     "mps:longitude":26.56176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0438\u0442\u0435\u043b"
     ],
@@ -50,9 +53,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u0438\u0442\u0435\u043b"
     ],
-    "name:unk_x_variant":[
-        "Tekeler Kyabir"
-    ],
     "name:zho_x_preferred":[
         "\u5967\u6bd4\u7279\u723e\u534a\u5cf6"
     ],
@@ -72,7 +72,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":202,
     "wof:belongsto":[
         102191581,
@@ -84,7 +84,7 @@
         "fct:id":"0371faac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728687,
         "gp:id":838420,
-        "qs:id":404692,
+        "qs_pg:id":404692,
         "wd:id":"Q2019114"
     },
     "wof:country":"BG",
@@ -101,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325349,
+    "wof:lastmodified":1566614081,
     "wof:name":"\u041e\u0431\u0438\u0442\u0435\u043b",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

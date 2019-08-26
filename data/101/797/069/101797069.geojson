@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.412231,
     "lbl:longitude":23.617444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.412231,
     "mps:longitude":23.617444,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u0432\u0435\u043d\u0435"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0432\u0435\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Dewene"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0440\u0430\u0446\u0430",
     "qs:a1_alt":"Vratsa",
@@ -65,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":207,
     "wof:belongsto":[
         102191581,
@@ -77,7 +77,7 @@
         "fct:id":"0370871c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732297,
         "gp:id":835643,
-        "qs:id":102787,
+        "qs_pg:id":102787,
         "wd:id":"Q1078914"
     },
     "wof:country":"BG",
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325225,
+    "wof:lastmodified":1566614033,
     "wof:name":"\u0414\u0435\u0432\u0435\u043d\u0435",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

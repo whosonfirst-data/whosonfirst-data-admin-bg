@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.93733,41.47536,24.97733,41.51536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0432\u043d\u043e \u041d\u0438\u0432\u0438\u0449\u0435"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293034663,
-    "wof:lastmodified":1537587392,
+    "wof:lastmodified":1566613759,
     "wof:name":"Ravno Nivishte",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

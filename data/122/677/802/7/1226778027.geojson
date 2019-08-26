@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.49192,41.339,25.53192,41.379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0448\u0438\u043d\u0446\u0438"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1226778027,
-    "wof:lastmodified":1564177743,
+    "wof:lastmodified":1566614317,
     "wof:name":"Pashintsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

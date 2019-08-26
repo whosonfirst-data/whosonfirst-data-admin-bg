@@ -10,8 +10,10 @@
     "geom:latitude":42.723014,
     "geom:longitude":23.235722,
     "iso:country":"BG",
+    "lbl:bbox":"23.230722,42.718014,23.240722,42.728014",
     "lbl:latitude":42.723014,
     "lbl:longitude":23.235722,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.727797,
     "mps:longitude":23.252765,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:ita_x_preferred":[
         "Ljulin"
-    ],
-    "name:unk_x_variant":[
-        "Lyulin"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_id":0,
@@ -92,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566613710,
     "wof:name":"Lyulin",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

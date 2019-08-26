@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.99667,43.63,28.03667,43.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0435\u0440\u0438\u0441\u043e\u0432\u0430"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310651943,
-    "wof:lastmodified":1537587636,
+    "wof:lastmodified":1566613956,
     "wof:name":"Gerisova",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

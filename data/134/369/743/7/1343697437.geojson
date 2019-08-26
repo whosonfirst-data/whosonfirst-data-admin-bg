@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.16333,41.74667,25.20333,41.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0416\u0435\u043d\u0434\u0430"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1343697437,
-    "wof:lastmodified":1564176969,
+    "wof:lastmodified":1566613691,
     "wof:name":"Zhenda",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

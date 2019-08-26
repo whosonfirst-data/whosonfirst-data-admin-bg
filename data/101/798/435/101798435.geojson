@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.009063,
     "lbl:longitude":26.573643,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.009063,
     "mps:longitude":26.573643,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zvezdica"
     ],
@@ -46,7 +49,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":146,
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q8075525"
     },
     "wof:country":"BG",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":101798435,
-    "wof:lastmodified":1563325362,
+    "wof:lastmodified":1566614085,
     "wof:name":"\u0417\u0432\u0435\u0437\u0434\u0438\u0446\u0430",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

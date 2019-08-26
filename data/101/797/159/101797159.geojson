@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.436241,
     "lbl:longitude":25.26389,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.436241,
     "mps:longitude":25.26389,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0432\u0447\u0430 \u041c\u043e\u0433\u0438\u043b\u0430"
     ],
@@ -70,9 +73,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u043c\u0430\u0434\u0430 \u0421\u0432\u0456\u0448\u0442\u043e\u0432"
     ],
-    "name:unk_x_variant":[
-        "Owtscha-Mogila"
-    ],
     "name:vie_x_preferred":[
         "Svishtov"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":187,
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,7 @@
         "fct:id":"0372114a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728496,
         "gp:id":838567,
-        "qs:id":404727,
+        "qs_pg:id":404727,
         "wd:id":"Q600639"
     },
     "wof:country":"BG",
@@ -123,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325149,
+    "wof:lastmodified":1566614006,
     "wof:name":"\u041e\u0432\u0447\u0430 \u043c\u043e\u0433\u0438\u043b\u0430",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

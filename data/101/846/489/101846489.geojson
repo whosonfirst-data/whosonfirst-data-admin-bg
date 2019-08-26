@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.475317,
     "lbl:longitude":24.05187,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.475317,
     "mps:longitude":24.05187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0434\u0435\u0448\u0435\u0432\u043e"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0434\u0435\u0448\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Godeshovo"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
     "qs:a1_alt":"Blagoevgrad",
@@ -80,7 +80,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":714.0,
     "wd:latitude":41.466667,
     "wd:longitude":24.05,
@@ -95,7 +95,7 @@
         "fct:id":"0370ebf8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731382,
         "gp:id":836377,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q2600200",
         "wk:page":"Godeshevo"
     },
@@ -113,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325472,
+    "wof:lastmodified":1566614122,
     "wof:name":"\u0413\u043e\u0434\u0435\u0448\u0435\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

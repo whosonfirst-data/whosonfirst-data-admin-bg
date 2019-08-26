@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.84667,43.93,26.88667,43.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u043a\u043e\u043b"
     ],
@@ -82,8 +86,7 @@
     "name:und_x_variant":[
         "Atm\u0103geaua-T\u0103t\u0103reasca",
         "Tatar-Atmadsha",
-        "Tatar Atmadzha",
-        "Sokol"
+        "Tatar Atmadzha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1276908771,
-    "wof:lastmodified":1564177175,
+    "wof:lastmodified":1566613821,
     "wof:name":"Sokol",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

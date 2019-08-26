@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.07546,41.5677,23.11546,41.6077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u0434\u0435\u043b\u0435\u0446"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1276927841,
-    "wof:lastmodified":1564177152,
+    "wof:lastmodified":1566613806,
     "wof:name":"Sedelets",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

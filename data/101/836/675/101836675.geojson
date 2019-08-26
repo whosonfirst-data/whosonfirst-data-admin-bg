@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.831115,
     "lbl:longitude":27.024345,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.831115,
     "mps:longitude":27.024345,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0414\u0443\u043b\u043e\u0432\u043e"
     ],
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Obsjtina Dulovo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaz\u016dl Burun"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +103,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":243,
     "wof:belongsto":[
         102191581,
@@ -112,7 +115,7 @@
         "fct:id":"03727fea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727506,
         "gp:id":839346,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2387177"
     },
     "wof:country":"BG",
@@ -129,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325513,
+    "wof:lastmodified":1566614140,
     "wof:name":"\u0420\u0443\u0439\u043d\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

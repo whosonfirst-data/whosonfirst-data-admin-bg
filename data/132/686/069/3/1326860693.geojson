@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.53446,41.32575,25.57446,41.36575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0443\u043a"
     ],
@@ -82,8 +86,7 @@
         "\u0411\u0443\u043a"
     ],
     "name:und_x_variant":[
-        "Almal\u016d Dere",
-        "Buk"
+        "Almal\u016d Dere"
     ],
     "name:vie_x_preferred":[
         "Buk"
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1326860693,
-    "wof:lastmodified":1564176844,
+    "wof:lastmodified":1566613612,
     "wof:name":"Buk",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

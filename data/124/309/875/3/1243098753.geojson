@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.11333,42.88,25.15333,42.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u064a\u0634\u062a\u064a\u062a\u0633\u0627"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1243098753,
-    "wof:lastmodified":1564177522,
+    "wof:lastmodified":1566614180,
     "wof:name":"Kameshtitsa",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

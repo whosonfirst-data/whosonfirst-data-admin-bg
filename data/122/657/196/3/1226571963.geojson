@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.21995,43.66317,24.25995,43.70317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0438 \u0412\u0430\u0434\u0438\u043d"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226571963,
-    "wof:lastmodified":1537587618,
+    "wof:lastmodified":1566614293,
     "wof:name":"Gorni Vadin",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

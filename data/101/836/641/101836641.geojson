@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.134445,
     "lbl:longitude":24.54,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":42.134445,
     "mps:longitude":24.54,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0633\u062a\u0627\u0645\u0628\u0648\u0644\u06cc\u0633\u06a9\u06cc"
     ],
@@ -92,9 +95,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "Krichim"
-    ],
     "name:vie_x_preferred":[
         "Stamboliyski"
     ],
@@ -121,7 +121,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":314,
     "wof:belongsto":[
@@ -134,7 +134,6 @@
         "fct:id":"0370de9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726890,
         "gp:id":836266,
-        "qs:id":1069326,
         "qs_pg:id":1069326,
         "wd:id":"Q405708",
         "wk:page":"Stamboliyski"
@@ -153,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325521,
+    "wof:lastmodified":1566614143,
     "wof:name":"\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u0438\u0439\u0441\u043a\u0438",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

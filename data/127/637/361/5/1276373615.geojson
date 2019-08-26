@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.55806,43.65278,22.59806,43.69278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0440\u0443\u0438\u043d\u0434\u043e\u043b"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276373615,
-    "wof:lastmodified":1564177180,
+    "wof:lastmodified":1566613824,
     "wof:name":"Struindol",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

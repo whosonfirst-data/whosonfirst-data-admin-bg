@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.78587,42.83666,22.82587,42.87666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0435\u043a\u0430\u043d\u0435\u0446"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1343796005,
-    "wof:lastmodified":1564176945,
+    "wof:lastmodified":1566613677,
     "wof:name":"Chekanets",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

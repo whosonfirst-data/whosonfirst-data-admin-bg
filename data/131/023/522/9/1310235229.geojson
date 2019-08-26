@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.38,42.99667,26.42,43.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0441\u0442\u0440\u0430 \u041c\u043e\u0433\u0438\u043b\u0430"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310235229,
-    "wof:lastmodified":1537587446,
+    "wof:lastmodified":1566613951,
     "wof:name":"Ostra Mogila",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

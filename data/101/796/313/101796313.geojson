@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.992504,
     "lbl:longitude":26.462406,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.992504,
     "mps:longitude":26.462406,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0427\u0435\u0440\u043d\u0430"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0427\u0435\u0440\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Tyurk Smil"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
     "qs:a1_alt":"Silistra",
@@ -80,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":139,
     "wof:belongsto":[
         102191581,
@@ -92,7 +92,7 @@
         "fct:id":"0371f1e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728764,
         "gp:id":838350,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2654084"
     },
     "wof:country":"BG",
@@ -109,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325400,
+    "wof:lastmodified":1566614100,
     "wof:name":"\u041d\u043e\u0432\u0430 \u0427\u0435\u0440\u043d\u0430",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

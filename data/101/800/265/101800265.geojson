@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.601052,
     "lbl:longitude":25.276561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.601052,
     "mps:longitude":25.276561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0439\u043d\u043e"
     ],
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0439\u043d\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ismailer"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":732971,
         "gp:id":837209,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1082142"
     },
     "wof:country":"BG",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101800265,
-    "wof:lastmodified":1563325505,
+    "wof:lastmodified":1566614136,
     "wof:name":"\u0411\u043e\u0439\u043d\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

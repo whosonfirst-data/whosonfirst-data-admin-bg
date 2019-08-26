@@ -12,8 +12,10 @@
     "gn:latitude":42.98333,
     "gn:longitude":23.03333,
     "iso:country":"BG",
+    "lbl:bbox":"23.261296,42.750415,23.271296,42.760415",
     "lbl:latitude":42.755415,
     "lbl:longitude":23.266296,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.744313,
     "mps:longitude":23.291237,
     "mz:hierarchy_label":0,
@@ -63,9 +65,8 @@
         "Vrabnitsa",
         "Vr\u00febnitsa"
     ],
-    "name:unk_x_variant":[
-        "W\u0103rbniza",
-        "Vr\u00febnitsa"
+    "name:und_x_variant":[
+        "W\u0103rbniza"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_fcode":"PPL",
@@ -106,7 +107,6 @@
     "wof:concordances":{
         "gn:id":725643,
         "gp:id":840688,
-        "qs:id":907569,
         "qs_pg:id":907569,
         "wd:id":"Q7780690"
     },
@@ -125,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247542,
+    "wof:lastmodified":1566613708,
     "wof:name":"Vrabnitsa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.07789,42.84718,23.11789,42.88718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u043f\u0438\u0446\u0432\u0435\u0442"
     ],
@@ -59,8 +63,7 @@
     ],
     "name:und_x_variant":[
         "Opizwet",
-        "Opitsvyet",
-        "Opitsvet"
+        "Opitsvyet"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1327064023,
-    "wof:lastmodified":1564176825,
+    "wof:lastmodified":1566613600,
     "wof:name":"Opitsvet",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.73333,42.85556,22.77333,42.89556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u0434\u0430\u043d\u0447\u0430"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1193053949,
-    "wof:lastmodified":1564177320,
+    "wof:lastmodified":1566613912,
     "wof:name":"Prodancha",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

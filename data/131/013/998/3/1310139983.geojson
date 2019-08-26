@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.14667,43.61333,27.18667,43.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u0434\u043e\u0440-\u0418\u043a\u043e\u043d\u043e\u043c\u043e\u0432\u043e"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1310139983,
-    "wof:lastmodified":1537587310,
+    "wof:lastmodified":1566613952,
     "wof:name":"Todor-Ikonomovo",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.382989,
     "lbl:longitude":23.023965,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":43.382989,
     "mps:longitude":23.023965,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u0435\u043e\u0440\u0433\u0438 \u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e"
     ],
@@ -88,9 +91,6 @@
         "\u0413\u0435\u043e\u0440\u0433\u0456\u0439-\u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Georgi Damyanovo"
-    ],
-    "name:unk_x_variant":[
         "Lopu\u0161na"
     ],
     "name:war_x_preferred":[
@@ -116,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":464.0,
     "wd:latitude":43.383333,
@@ -132,7 +132,6 @@
         "fct:id":"0370e3ba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731458,
         "gp:id":836318,
-        "qs:id":940194,
         "qs_pg:id":940194,
         "wd:id":"Q2597274",
         "wk:page":"Georgi Damyanovo"
@@ -151,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325226,
+    "wof:lastmodified":1566614033,
     "wof:name":"\u0413\u0435\u043e\u0440\u0433\u0438 \u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

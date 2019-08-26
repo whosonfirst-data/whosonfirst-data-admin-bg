@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.29667,42.83,27.33667,42.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u0434\u043d\u0430 \u041c\u0445\u0430\u043b\u0430"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1292935305,
-    "wof:lastmodified":1564177026,
+    "wof:lastmodified":1566613735,
     "wof:name":"Sredna Mahala",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

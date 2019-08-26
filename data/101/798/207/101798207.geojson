@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.8098,
     "lbl:longitude":23.198454,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":42.8098,
     "mps:longitude":23.198454,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u06a9\u0648\u0633\u062a\u06cc\u0646\u0628\u0631\u0648\u062f"
     ],
@@ -83,9 +86,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0438\u043d\u0431\u0440\u043e\u0434"
     ],
-    "name:unk_x_variant":[
-        "Kostinbrod"
-    ],
     "name:vie_x_preferred":[
         "Kostinbrod"
     ],
@@ -112,7 +112,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":282,
     "wof:belongsto":[
@@ -125,7 +125,6 @@
         "fct:id":"0371700a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730084,
         "gp:id":837335,
-        "qs:id":261927,
         "qs_pg:id":261927,
         "wd:id":"Q671522"
     },
@@ -143,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325354,
+    "wof:lastmodified":1566614083,
     "wof:name":"\u041a\u043e\u0441\u0442\u0438\u043d\u0431\u0440\u043e\u0434",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

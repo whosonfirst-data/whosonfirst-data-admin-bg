@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.207472,
     "lbl:longitude":25.307286,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.207472,
     "mps:longitude":25.307286,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0627\u0644\u0627 \u0686\u0631\u06a9\u0648\u0627"
     ],
@@ -88,9 +91,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u044f\u043b\u0430 \u0427\u0435\u0440\u043a\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Gorni Turcheta"
-    ],
     "name:vie_x_preferred":[
         "Byala Cherkva"
     ],
@@ -117,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":104.0,
     "wd:latitude":43.2,
@@ -133,7 +133,6 @@
         "fct:id":"03705ecc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732717,
         "gp:id":835354,
-        "qs:id":1272274,
         "qs_pg:id":1272274,
         "wd:id":"Q407239",
         "wk:page":"Byala Cherkva"
@@ -152,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325299,
+    "wof:lastmodified":1566614060,
     "wof:name":"\u0411\u044f\u043b\u0430 \u0447\u0435\u0440\u043a\u0432\u0430",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

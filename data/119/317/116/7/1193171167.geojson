@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.7596,42.16264,27.7996,42.20264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u0430"
     ],
@@ -52,10 +56,8 @@
     ],
     "name:und_x_variant":[
         "Potourn\u00e1k",
-        "Welika",
         "Poturnak",
-        "Potornak",
-        "Velika"
+        "Potornak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1193171167,
-    "wof:lastmodified":1564177329,
+    "wof:lastmodified":1566613918,
     "wof:name":"Velika",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

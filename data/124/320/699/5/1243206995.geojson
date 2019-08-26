@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.49401,41.70259,24.53401,41.74259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Breze"
     ],
@@ -68,8 +72,7 @@
     ],
     "name:und_x_variant":[
         "Bryeze",
-        "Brese",
-        "Breze"
+        "Brese"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1243206995,
-    "wof:lastmodified":1564177604,
+    "wof:lastmodified":1566614228,
     "wof:name":"Breze",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

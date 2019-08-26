@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.749696,
     "lbl:longitude":27.622813,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.749696,
     "mps:longitude":27.622813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0440\u0438\u0437\u0430\u0440\u0435"
     ],
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0438\u0437\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barakliya"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -73,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":26.0,
     "wd:latitude":42.75,
     "wd:longitude":27.616667,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":728594,
         "gp:id":838491,
-        "qs:id":915450,
+        "qs_pg:id":915450,
         "wd:id":"Q2989208",
         "wk:page":"Orizare"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101798333,
-    "wof:lastmodified":1563325339,
+    "wof:lastmodified":1566614078,
     "wof:name":"\u041e\u0440\u0438\u0437\u0430\u0440\u0435",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.76647,42.77734,22.80647,42.81734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u0435\u0434\u0435\u043b\u043a\u043e\u0432\u043e"
     ],
@@ -52,8 +56,7 @@
     ],
     "name:und_x_variant":[
         "Baba",
-        "Nedyalkovo",
-        "Nedelkovo"
+        "Nedyalkovo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1209953399,
-    "wof:lastmodified":1564177255,
+    "wof:lastmodified":1566613869,
     "wof:name":"Nedelkovo",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

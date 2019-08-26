@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.930126,
     "lbl:longitude":27.129369,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.930126,
     "mps:longitude":27.129369,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0434\u0432\u0430\u0440\u0438"
     ],
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Obsjtina Silistra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baltazhi Eni K\u2019oy"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +86,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":288,
     "wof:belongsto":[
         102191581,
@@ -95,7 +98,7 @@
         "fct:id":"03704572-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732942,
         "gp:id":835181,
-        "qs:id":1272246,
+        "qs_pg:id":1272246,
         "wd:id":"Q2219334"
     },
     "wof:country":"BG",
@@ -112,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325397,
+    "wof:lastmodified":1566614098,
     "wof:name":"\u0411\u0440\u0430\u0434\u0432\u0430\u0440\u0438",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

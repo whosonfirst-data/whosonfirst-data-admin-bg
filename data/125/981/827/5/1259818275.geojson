@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.53746,41.6819,24.57746,41.7219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043b\u0438\u0432\u043e\u0432\u043e"
     ],
@@ -49,7 +53,6 @@
         "\u0421\u043b\u0438\u0432\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Sliwowo",
         "Slivovo"
     ],
     "src:geom":"geonames",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1259818275,
-    "wof:lastmodified":1564177665,
+    "wof:lastmodified":1566614265,
     "wof:name":"Slivovo",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

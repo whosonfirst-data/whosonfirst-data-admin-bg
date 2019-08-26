@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.02394,41.47947,24.06394,41.51947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0443\u0445\u043e\u0432\u0438\u0449\u0430"
     ],
@@ -90,10 +94,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0445\u043e\u0432\u0438\u0448\u0442\u0430"
     ],
-    "name:und_x_variant":[
-        "Tuchowischta",
-        "Tukhovishta"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1327385561,
-    "wof:lastmodified":1564176835,
+    "wof:lastmodified":1566613606,
     "wof:name":"Tuhovishta",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

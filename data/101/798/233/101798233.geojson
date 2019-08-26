@@ -9,14 +9,17 @@
     "geom:bbox":"23.8409969053,42.3008431613,23.8736406929,42.3205010618",
     "geom:latitude":42.309854,
     "geom:longitude":23.855902,
-    "geonames:id":"730094,730093",
+    "gn:id":"730094,730093",
     "iso:country":"BG",
     "lbl:latitude":42.30953,
     "lbl:longitude":23.855655,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.30953,
     "mps:longitude":23.855655,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0435\u043d\u0435\u0446"
     ],
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0441\u0442\u0435\u043d\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kostenetz"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":276,
     "wof:belongsto":[
         102191581,
@@ -87,10 +90,12 @@
     "wof:concordances":{
         "gn:id":730093,
         "gp:id":837327,
-        "qs:id":6,
-        "qs_pg:id":907458,
+        "qs_pg:id":6,
         "wd:id":"Q2990446",
         "wk:page":"Kostenets (village)"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":907458
     },
     "wof:country":"BG",
     "wof:geomhash":"a33bee0a1335cb1d0ae5047e543af696",
@@ -103,7 +108,7 @@
         }
     ],
     "wof:id":101798233,
-    "wof:lastmodified":1563325325,
+    "wof:lastmodified":1566614072,
     "wof:name":"\u041a\u043e\u0441\u0442\u0435\u043d\u0435\u0446",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

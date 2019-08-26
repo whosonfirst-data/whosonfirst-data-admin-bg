@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.875128,
     "lbl:longitude":25.500358,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":42.875128,
     "mps:longitude":25.500358,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0627\u0641\u0646\u0627"
     ],
@@ -122,9 +125,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u044f\u0432\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Trewna"
-    ],
     "name:vie_x_preferred":[
         "Tryavna"
     ],
@@ -151,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":434.0,
     "wd:latitude":42.866667,
@@ -167,7 +167,6 @@
         "fct:id":"0372fd26-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726287,
         "gp:id":840245,
-        "qs:id":278016,
         "qs_pg:id":278016,
         "wd:id":"Q405136",
         "wk:page":"Tryavna"
@@ -186,7 +185,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325395,
+    "wof:lastmodified":1566614098,
     "wof:name":"\u0422\u0440\u044f\u0432\u043d\u0430",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

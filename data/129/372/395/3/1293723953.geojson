@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.60194,42.30748,27.64194,42.34748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0438\u0435"
     ],
@@ -63,7 +67,6 @@
         "Sar\u0103-Musa",
         "Veselija",
         "Wesselije",
-        "Veselie",
         "Veseliye"
     ],
     "src:geom":"geonames",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1293723953,
-    "wof:lastmodified":1564177099,
+    "wof:lastmodified":1566613777,
     "wof:name":"Veselie",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

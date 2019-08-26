@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000525,
-    "geom:area_square_m":4691332.54157,
+    "geom:area_square_m":4691332.541567,
     "geom:bbox":"24.1123318994,43.6618635926,24.162018979,43.688070255",
     "geom:latitude":43.674897,
     "geom:longitude":24.138852,
     "iso:country":"BG",
     "lbl:latitude":43.676061,
     "lbl:longitude":24.137159,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.676061,
     "mps:longitude":24.137159,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432"
     ],
@@ -28,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041e\u0441\u0442\u0440\u043e\u0432 \u0428\u0451\u043d\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostrovo"
     ],
     "name:zho_x_preferred":[
@@ -49,7 +52,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":150,
     "wof:belongsto":[
         102191581,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":728513,
         "gp:id":838557,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"BG",
     "wof:geomhash":"b21d9835cc7c7bf49093b5e3251fe00f",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":101797023,
-    "wof:lastmodified":1527641522,
+    "wof:lastmodified":1566614009,
     "wof:name":"\u041e\u0441\u0442\u0440\u043e\u0432",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

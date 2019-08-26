@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.04667,43.09667,24.08667,43.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043d\u0446\u0438"
     ],
@@ -54,11 +58,9 @@
     ],
     "name:und_x_variant":[
         "Byelentsi",
-        "Belenci",
         "Belenzi",
         "Bielenci",
-        "B\u00e9l\u00e9ntzi",
-        "Belentsi"
+        "B\u00e9l\u00e9ntzi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":1293820863,
-    "wof:lastmodified":1564177045,
+    "wof:lastmodified":1566613746,
     "wof:name":"Belentsi",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

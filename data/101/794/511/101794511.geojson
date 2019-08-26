@@ -5,21 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000295,
-    "geom:area_square_m":2685714.994353,
+    "geom:area_square_m":2685714.994354,
     "geom:bbox":"23.4670253753,42.5926420195,23.5182338562,42.6090874203",
     "geom:latitude":42.601173,
     "geom:longitude":23.489352,
     "iso:country":"BG",
     "lbl:latitude":42.602481,
     "lbl:longitude":23.494007,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.602481,
     "mps:longitude":23.494007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u043e\u0437\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lozen"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -37,7 +40,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":216,
     "wof:belongsto":[
         102191581,
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":729543,
         "gp:id":837755,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"BG",
     "wof:geomhash":"08e101d9f94aa8fdfa693b9020f25c43",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":101794511,
-    "wof:lastmodified":1527689319,
+    "wof:lastmodified":1566614120,
     "wof:name":"\u041b\u043e\u0437\u0435\u043d",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

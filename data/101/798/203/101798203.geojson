@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.853973,
     "lbl:longitude":23.037968,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":42.853973,
     "mps:longitude":23.037968,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Slivnica"
     ],
@@ -221,9 +224,6 @@
     "name:swe_x_preferred":[
         "Slivnica"
     ],
-    "name:unk_x_variant":[
-        "Slivica"
-    ],
     "name:vec_x_preferred":[
         "Slivnica"
     ],
@@ -262,7 +262,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":943.0,
     "wd:latitude":40.9589,
@@ -278,7 +278,6 @@
         "fct:id":"0372aec0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727069,
         "gp:id":839677,
-        "qs:id":506255,
         "qs_pg:id":506255,
         "wd:id":"Q3135749"
     },
@@ -296,7 +295,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325321,
+    "wof:lastmodified":1566614069,
     "wof:name":"\u0421\u043b\u0438\u0432\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

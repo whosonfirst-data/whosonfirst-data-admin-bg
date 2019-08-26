@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.492652,
     "lbl:longitude":26.012657,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":42.492652,
     "mps:longitude":26.012657,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0646\u0648\u0627 \u0632\u0627\u06af\u0648\u0631\u0627"
     ],
@@ -140,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0417\u0430\u0433\u043e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Yeni Zagra"
-    ],
     "name:vie_x_preferred":[
         "Nova Zagora"
     ],
@@ -169,7 +169,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":338,
     "wof:belongsto":[
@@ -182,7 +182,6 @@
         "fct:id":"03739ed4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728742,
         "gp:id":838364,
-        "qs:id":1349323,
         "qs_pg:id":1349323,
         "wd:id":"Q405317",
         "wk:page":"Nova Zagora"
@@ -201,7 +200,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325303,
+    "wof:lastmodified":1566614062,
     "wof:name":"\u041d\u043e\u0432\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

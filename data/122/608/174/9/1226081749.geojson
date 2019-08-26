@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.45944,42.53722,22.49944,42.57722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0435\u043b\u0447\u0438\u043d\u0430 \u043c\u0430\u0445\u0430\u043b\u0430"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226081749,
-    "wof:lastmodified":1537587639,
+    "wof:lastmodified":1566614327,
     "wof:name":"Gelchina Mahala",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

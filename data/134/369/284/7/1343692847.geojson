@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.52758,43.66309,22.56758,43.70309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0448\u0430\u043d\u0435"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343692847,
-    "wof:lastmodified":1537587448,
+    "wof:lastmodified":1566613690,
     "wof:name":"Oshane",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

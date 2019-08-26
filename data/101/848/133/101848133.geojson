@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.602843,
     "lbl:longitude":23.395746,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.602843,
     "mps:longitude":23.395746,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e"
     ],
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Pantscharewo"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430)",
     "qs:a1_alt":"Sofia (stolitsa)",
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":590,
     "wof:belongsto":[
         102191581,
@@ -77,7 +77,6 @@
     "wof:concordances":{
         "gn:id":728440,
         "gp:id":838611,
-        "qs:id":211578,
         "qs_pg:id":211578,
         "wd:id":"Q1027607"
     },
@@ -92,7 +91,7 @@
         }
     ],
     "wof:id":101848133,
-    "wof:lastmodified":1563325474,
+    "wof:lastmodified":1566614123,
     "wof:name":"\u041f\u0430\u043d\u0447\u0430\u0440\u0435\u0432\u043e",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

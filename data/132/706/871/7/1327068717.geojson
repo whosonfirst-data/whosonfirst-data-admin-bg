@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.97962,41.44025,23.01962,41.48025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0443\u0440\u0438\u043b\u043e\u0432\u043e"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327068717,
-    "wof:lastmodified":1564176823,
+    "wof:lastmodified":1566613599,
     "wof:name":"Churilovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

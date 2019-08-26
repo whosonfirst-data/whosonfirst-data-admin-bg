@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.66333,41.93,23.70333,41.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0442\u043d\u0438\u043a"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259526271,
-    "wof:lastmodified":1537587442,
+    "wof:lastmodified":1566614245,
     "wof:name":"Palatnik",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.687882,
     "lbl:longitude":27.50429,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.687882,
     "mps:longitude":27.50429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u044a\u0431\u043d\u0438\u043a"
     ],
@@ -65,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0438\u0431\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
-        "Osmankioy"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
     "qs:a1_alt":"Burgas",
@@ -83,7 +83,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":42.683333,
     "wd:longitude":27.5,
     "wd:wordcount":38,
@@ -97,7 +97,7 @@
         "fct:id":"0370bac0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731872,
         "gp:id":836000,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q1075073",
         "wk:page":"Dabnik"
     },
@@ -115,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325337,
+    "wof:lastmodified":1566614077,
     "wof:name":"\u0414\u044a\u0431\u043d\u0438\u043a",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

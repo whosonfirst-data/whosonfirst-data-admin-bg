@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.97387,43.07325,23.01387,43.11325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u0449\u0438\u0446\u0430"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276804389,
-    "wof:lastmodified":1537587554,
+    "wof:lastmodified":1566613791,
     "wof:name":"Komshtitsa",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

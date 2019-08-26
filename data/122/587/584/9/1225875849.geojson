@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.44667,43.01333,25.48667,43.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0631\u0643\u0627"
     ],
@@ -49,8 +53,7 @@
         "\u041a\u0435\u0440\u0435\u043a\u0430"
     ],
     "name:und_x_variant":[
-        "Koreka",
-        "Kereka"
+        "Koreka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1225875849,
-    "wof:lastmodified":1564177718,
+    "wof:lastmodified":1566614300,
     "wof:name":"Kereka",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

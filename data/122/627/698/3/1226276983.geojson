@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.75424,42.37343,22.79424,42.41343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u043d\u043e\u0432\u043e"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226276983,
-    "wof:lastmodified":1537587725,
+    "wof:lastmodified":1566614281,
     "wof:name":"Bunovo",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

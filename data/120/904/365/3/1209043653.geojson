@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.20721,42.27375,27.24721,42.31375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
@@ -48,9 +52,7 @@
         "\u0420\u043e\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Gerge Bunar",
-        "Rossenowo",
-        "Rosenovo"
+        "Gerge Bunar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1209043653,
-    "wof:lastmodified":1564177267,
+    "wof:lastmodified":1566613876,
     "wof:name":"Rosenovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

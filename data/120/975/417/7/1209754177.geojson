@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.18,41.79667,23.22,41.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0447\u043a\u0443\u043b"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1209754177,
-    "wof:lastmodified":1564177300,
+    "wof:lastmodified":1566613894,
     "wof:name":"Mechkul",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.60283,
     "lbl:longitude":26.42108,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.60283,
     "mps:longitude":26.42108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d"
     ],
@@ -24,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "Demir Dzhilii",
-        "Demirdzheli"
-    ],
-    "name:unk_x_variant":[
         "Demirdzheli"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -44,7 +44,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":357,
     "wof:belongsto":[
         102191581,
@@ -56,7 +56,7 @@
         "fct:id":"03713540-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730713,
         "gp:id":836903,
-        "qs:id":404316
+        "qs_pg:id":404316
     },
     "wof:country":"BG",
     "wof:geomhash":"e4e255722d1ea35144f1467fdd99029a",
@@ -72,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642033,
+    "wof:lastmodified":1566614099,
     "wof:name":"\u041a\u0430\u043c\u0435\u043d",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

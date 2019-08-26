@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.94667,41.56333,24.98667,41.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u043b\u0430\u043d\u0438\u043d\u0446\u0438"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276910817,
-    "wof:lastmodified":1537587426,
+    "wof:lastmodified":1566613828,
     "wof:name":"Planintsi",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

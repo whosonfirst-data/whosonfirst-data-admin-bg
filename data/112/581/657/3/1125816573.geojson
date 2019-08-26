@@ -9,19 +9,23 @@
     "geom:bbox":"25.96667,43.71667,25.96667,43.71667",
     "geom:latitude":43.71667,
     "geom:longitude":25.96667,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BG",
+    "lbl:bbox":"25.94667,43.69667,25.98667,43.73667",
     "lbl:latitude":43.71667,
     "lbl:longitude":25.96667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u043e\u0436\u0438\u0447\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boshitschen"
     ],
     "qs_pg:aaroncc":"BG",
@@ -45,7 +49,7 @@
     "qs_pg:woe_adm0":23424771,
     "qs_pg:woe_id":835166,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424771,
     "woe:name_adm0":"Bulgaria",
     "woe:name_adm1":"Ruse",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1125816573,
-    "wof:lastmodified":1509393826,
+    "wof:lastmodified":1566614164,
     "wof:name":"Bozhichen",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

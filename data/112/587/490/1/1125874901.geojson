@@ -9,14 +9,18 @@
     "geom:bbox":"25.55,41.55,25.55,41.55",
     "geom:latitude":41.55,
     "geom:longitude":25.55,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BG",
+    "lbl:bbox":"25.53,41.53,25.57,41.57",
     "lbl:latitude":41.55,
     "lbl:longitude":25.55,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0422\u0430\u0442\u0443\u043b"
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0442\u0443\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adzhioluk"
     ],
     "qs_pg:aaroncc":"BG",
@@ -84,7 +88,7 @@
     "qs_pg:woe_adm0":23424771,
     "qs_pg:woe_id":840100,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424771,
     "woe:name_adm0":"Bulgaria",
     "woe:name_adm1":"Kurdzhali",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1125874901,
-    "wof:lastmodified":1563325561,
+    "wof:lastmodified":1566614166,
     "wof:name":"Tatul",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

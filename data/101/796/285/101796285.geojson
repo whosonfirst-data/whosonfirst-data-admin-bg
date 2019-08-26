@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.412692,
     "lbl:longitude":28.162335,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.412692,
     "mps:longitude":28.162335,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0644\u0686\u06cc\u06a9"
     ],
@@ -125,9 +128,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0447\u0438\u043a"
     ],
-    "name:unk_x_variant":[
-        "Balcic"
-    ],
     "name:vie_x_preferred":[
         "Balchik"
     ],
@@ -154,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":199.0,
     "wd:latitude":43.416667,
@@ -170,7 +170,6 @@
         "fct:id":"037009ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733515,
         "gp:id":834770,
-        "qs:id":907394,
         "qs_pg:id":907394,
         "wd:id":"Q329437",
         "wk:page":"Balchik"
@@ -189,7 +188,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325412,
+    "wof:lastmodified":1566614103,
     "wof:name":"\u0411\u0430\u043b\u0447\u0438\u043a",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

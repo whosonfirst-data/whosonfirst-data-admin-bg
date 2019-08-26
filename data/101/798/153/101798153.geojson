@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.592451,
     "lbl:longitude":25.090208,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.592451,
     "mps:longitude":25.090208,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e"
     ],
@@ -68,9 +71,6 @@
     "name:srp_x_preferred":[
         "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Okchular"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
     "qs:a1_alt":"Stara Zagora",
@@ -86,7 +86,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":103,
     "wof:belongsto":[
         102191581,
@@ -98,7 +98,7 @@
         "fct:id":"036ff95a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733694,
         "gp:id":834654,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q848667"
     },
     "wof:country":"BG",
@@ -115,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325333,
+    "wof:lastmodified":1566614075,
     "wof:name":"\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

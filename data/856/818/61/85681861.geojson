@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":43.667289,
     "lbl:longitude":25.985016,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.667289,
     "mps:longitude":25.985016,
     "mz:hierarchy_label":1,
@@ -278,9 +279,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0441\u0435"
     ],
-    "name:unk_x_variant":[
-        "Rushtuk"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0633\u06d2\u060c \u0628\u0644\u063a\u0627\u0631\u06cc\u06c1"
     ],
@@ -314,7 +312,7 @@
     "qs:type":"\u041e\u0431\u043b\u0430\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001
@@ -337,7 +335,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1565815133,
+    "wof:lastmodified":1566613711,
     "wof:name":"Ruse",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.2339,43.63372,23.2739,43.67372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u0448\u0443\u0440\u043a\u0430"
     ],
@@ -58,8 +62,7 @@
     ],
     "name:und_x_variant":[
         "B\u016dz K\u016dr",
-        "Pischurka",
-        "Pishurka"
+        "Pischurka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1293234743,
-    "wof:lastmodified":1564177035,
+    "wof:lastmodified":1566613740,
     "wof:name":"Pishurka",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

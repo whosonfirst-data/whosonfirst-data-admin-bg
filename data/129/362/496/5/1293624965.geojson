@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.92392,43.03103,22.96392,43.07103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u0435\u0448"
     ],
@@ -40,8 +44,7 @@
     ],
     "name:und_x_variant":[
         "Golesch",
-        "Doln Golezh",
-        "Golesh"
+        "Doln Golezh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1293624965,
-    "wof:lastmodified":1564177008,
+    "wof:lastmodified":1566613725,
     "wof:name":"Golesh",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

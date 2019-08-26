@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.96724,43.66193,28.00724,43.70193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0430\u0432\u043d\u0435\u0446"
     ],
@@ -42,8 +46,7 @@
     "name:und_x_variant":[
         "Piri Fak\u016d",
         "Ravnec",
-        "Perifaci",
-        "Ravnets"
+        "Perifaci"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209147431,
-    "wof:lastmodified":1564177253,
+    "wof:lastmodified":1566613868,
     "wof:name":"Ravnets",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.60917,42.85222,22.64917,42.89222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u043e\u043c\u043d\u0438\u0446\u0430"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226577221,
-    "wof:lastmodified":1537587515,
+    "wof:lastmodified":1566614292,
     "wof:name":"Lomnitsa",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

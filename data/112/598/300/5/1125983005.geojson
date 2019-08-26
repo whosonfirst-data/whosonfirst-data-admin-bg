@@ -9,14 +9,18 @@
     "geom:bbox":"28.01003,43.22923,28.01003,43.22923",
     "geom:latitude":43.22923,
     "geom:longitude":28.01003,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BG",
+    "lbl:bbox":"27.99003,43.20923,28.03003,43.24923",
     "lbl:latitude":43.22923,
     "lbl:longitude":28.01003,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0432. \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d \u0438 \u0415\u043b\u0435\u043d\u0430"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u044f\u0442\u0456 \u041a\u043e\u0441\u0442\u044f\u043d\u0442\u0438\u043d \u0456 \u041e\u043b\u0435\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "St. St. Konstantin and Elena"
     ],
     "qs_pg:aaroncc":"BG",
@@ -85,7 +89,7 @@
     "qs_pg:woe_adm0":23424771,
     "qs_pg:woe_id":15000081,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424771,
     "woe:name_adm0":"Bulgaria",
     "woe:name_adm1":"Varna",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":1125983005,
-    "wof:lastmodified":1561837460,
+    "wof:lastmodified":1566614169,
     "wof:name":"San Konstant. I Elena",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

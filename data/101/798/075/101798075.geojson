@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.356569,
     "lbl:longitude":24.731336,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":42.356569,
     "mps:longitude":24.731336,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041a\u0430\u043b\u043e\u044f\u043d\u043e\u0432\u043e"
     ],
@@ -69,9 +72,6 @@
     "name:swe_x_preferred":[
         "Obsjtina Kalojanovo"
     ],
-    "name:unk_x_variant":[
-        "Seld\u017eikovo"
-    ],
     "name:vie_x_preferred":[
         "Kaloyanovo"
     ],
@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":132,
     "wof:belongsto":[
@@ -111,7 +111,6 @@
         "fct:id":"037132fc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730733,
         "gp:id":836887,
-        "qs:id":1272573,
         "qs_pg:id":1272573,
         "wd:id":"Q2561213",
         "wk:page":"Kaloyanovo Municipality"
@@ -130,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837448,
+    "wof:lastmodified":1566614081,
     "wof:name":"\u041a\u0430\u043b\u043e\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

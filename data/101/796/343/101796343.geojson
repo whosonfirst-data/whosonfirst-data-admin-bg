@@ -9,14 +9,17 @@
     "geom:bbox":"26.9207610472,43.7792092331,26.9704335962,43.7947842684",
     "geom:latitude":43.787329,
     "geom:longitude":26.945154,
-    "geonames:id":"728467,729331",
+    "gn:id":"728467,729331",
     "iso:country":"BG",
     "lbl:latitude":43.787607,
     "lbl:longitude":26.950987,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.787607,
     "mps:longitude":26.950987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0438\u0441\u0438\u0435\u0432\u043e"
     ],
@@ -44,7 +47,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0457\u0441\u0456\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Doccelar"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":243,
     "wof:belongsto":[
         102191581,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":728467,
         "gp:id":838593,
-        "qs:id":404742,
+        "qs_pg:id":404742,
         "wd:id":"Q2018715"
     },
     "wof:country":"BG",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101796343,
-    "wof:lastmodified":1563325425,
+    "wof:lastmodified":1566614108,
     "wof:name":"\u041f\u0430\u0438\u0441\u0438\u0435\u0432\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

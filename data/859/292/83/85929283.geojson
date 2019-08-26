@@ -11,8 +11,10 @@
     "geom:longitude":23.324914,
     "gn:id":"",
     "iso:country":"BG",
+    "lbl:bbox":"23.319914,42.66712,23.329914,42.67712",
     "lbl:latitude":42.67212,
     "lbl:longitude":23.324914,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.671806,
     "mps:longitude":23.326613,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0437\u0435\u043d\u0435\u0446\u044c"
-    ],
-    "name:unk_x_variant":[
-        "Lozenets"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_id":0,
@@ -94,7 +93,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855475,
-        "qs:id":1080170,
         "qs_pg:id":1080170
     },
     "wof:country":"BG",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566613710,
     "wof:name":"Lozenets",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,8 @@
     "iso:country":"BG",
     "lbl:latitude":42.523568,
     "lbl:longitude":27.45523,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.523568,
     "mps:longitude":27.45523,
     "mz:hierarchy_label":1,
@@ -280,9 +282,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0433\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Burgaz"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0631\u06af\u0627\u0633"
     ],
@@ -416,7 +415,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":30.0,
     "wd:latitude":42.5,
@@ -434,10 +433,12 @@
         "gn:id":732770,
         "gp:id":835315,
         "loc:id":"n79142602",
-        "qs:id":1028752,
-        "qs_pg:id":1084625,
+        "qs_pg:id":1028752,
         "wd:id":"Q6509",
         "wk:page":"Burgas"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1084625
     },
     "wof:country":"BG",
     "wof:geomhash":"c247419835275877a9b70f37f6eec499",
@@ -453,7 +454,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325455,
+    "wof:lastmodified":1566614116,
     "wof:name":"\u0411\u0443\u0440\u0433\u0430\u0441",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

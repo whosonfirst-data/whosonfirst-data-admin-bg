@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000246,
+    "geom:area_square_m":2266750.447369,
     "geom:bbox":"24.9926741656,41.894998777,25.0161864992,41.9130250903",
     "geom:latitude":41.90357,
     "geom:longitude":25.004889,
     "iso:country":"BG",
     "lbl:latitude":41.903256,
     "lbl:longitude":25.004088,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.903256,
     "mps:longitude":25.004088,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043f\u043e\u043b\u043e\u0432\u043e"
     ],
@@ -23,9 +28,6 @@
     "name:eng_x_variant":[
         "Takhtalii",
         "Topolowo"
-    ],
-    "name:unk_x_variant":[
-        "Takhtalii"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
@@ -42,7 +44,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -53,7 +55,7 @@
         "fct:id":"0372f3f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726381,
         "gp:id":840178,
-        "qs:id":1081830
+        "qs_pg:id":1081830
     },
     "wof:country":"BG",
     "wof:geomhash":"34c7156f8828303c8af19355aa99ab24",
@@ -69,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501215836,
+    "wof:lastmodified":1566614128,
     "wof:name":"\u0422\u043e\u043f\u043e\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

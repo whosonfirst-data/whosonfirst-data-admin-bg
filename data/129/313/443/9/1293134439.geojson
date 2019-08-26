@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.84034,42.87676,22.88034,42.91676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gaber"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1293134439,
-    "wof:lastmodified":1564177053,
+    "wof:lastmodified":1566613751,
     "wof:name":"Gaber",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

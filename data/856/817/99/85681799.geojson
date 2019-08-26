@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":42.700862,
     "lbl:longitude":26.242382,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.700862,
     "mps:longitude":26.242382,
     "mz:hierarchy_label":1,
@@ -237,9 +238,6 @@
     "name:ukr_x_variant":[
         "\u0421\u043b\u0438\u0432\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
-        "Sliven"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0644\u0648\u06cc\u0646 \u0635\u0648\u0628\u06c1"
     ],
@@ -322,9 +320,9 @@
     "qs:type":"\u041e\u0431\u043b\u0430\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-01",
+    "src:population_date":"2011-02-01",
     "statoids:area_km":"3,544",
     "statoids:area_mi":"1,368",
     "statoids:as_of_date":"2011-02-01",
@@ -368,11 +366,10 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1565654074,
+    "wof:lastmodified":1566613717,
     "wof:name":"\u0421\u043b\u0438\u0432\u0435\u043d",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":197473,
     "wof:population_rank":9,

@@ -9,14 +9,18 @@
     "geom:bbox":"25.66667,43.1,25.66667,43.1",
     "geom:latitude":43.1,
     "geom:longitude":25.66667,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BG",
+    "lbl:bbox":"25.64667,43.08,25.68667,43.12",
     "lbl:latitude":43.1,
     "lbl:longitude":25.66667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bel_x_preferred":[
         "\u0412\u0451\u0441\u043a\u0430 \u0410\u0440\u0431\u0430\u043d\u0430\u0441\u0456"
@@ -81,9 +85,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0431\u0430\u043d\u0430\u0441\u0438"
     ],
-    "name:unk_x_variant":[
-        "Arbanassi"
-    ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
     "qs_pg:gn_fcode":"PPL",
@@ -105,7 +106,7 @@
     "qs_pg:woe_adm0":23424771,
     "qs_pg:woe_id":834685,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424771,
     "woe:name_adm0":"Bulgaria",
     "woe:name_adm1":"Veliko Turnovo",
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1125912619,
-    "wof:lastmodified":1563325569,
+    "wof:lastmodified":1566614169,
     "wof:name":"Arbanasi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

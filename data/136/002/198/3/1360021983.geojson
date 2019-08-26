@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.97628,42.31032,23.01628,42.35032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0430\u0431\u0438\u043d\u0441\u043a\u0430 \u0440\u0435\u043a\u0430"
     ],
@@ -50,8 +54,7 @@
     "name:und_x_variant":[
         "Makhala Babinska Reka",
         "Babinska",
-        "Babinoka Reka",
-        "Babinska Reka"
+        "Babinoka Reka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1360021983,
-    "wof:lastmodified":1564177459,
+    "wof:lastmodified":1566614003,
     "wof:name":"Babinska Reka",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

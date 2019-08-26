@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.88699,42.99822,22.92699,43.03822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0435\u043f\u044a\u0440\u043b\u0438\u043d\u0446\u0438"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226373701,
-    "wof:lastmodified":1537587714,
+    "wof:lastmodified":1566614323,
     "wof:name":"Cheparlintsi",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

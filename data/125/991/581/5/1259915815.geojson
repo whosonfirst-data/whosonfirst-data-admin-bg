@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.16333,42.86333,26.20333,42.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0418\u0437\u0433\u0440\u0435\u0432"
     ],
@@ -53,8 +57,7 @@
     ],
     "name:und_x_variant":[
         "Sborishte",
-        "Karamtsalari",
-        "Izgrev"
+        "Karamtsalari"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1259915815,
-    "wof:lastmodified":1564177625,
+    "wof:lastmodified":1566614242,
     "wof:name":"Izgrev",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

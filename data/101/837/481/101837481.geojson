@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.680344,
     "lbl:longitude":23.464796,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.680344,
     "mps:longitude":23.464796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0438\u043d\u0430"
     ],
@@ -43,9 +46,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0438\u0432\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Kriwina"
-    ],
     "name:zho_x_preferred":[
         "\u514b\u91cc\u7dad\u7d0d\u7063"
     ],
@@ -64,7 +64,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":194,
     "wof:belongsto":[
         102191581,
@@ -75,7 +75,7 @@
     "wof:concordances":{
         "gn:id":729919,
         "gp:id":837466,
-        "qs:id":404466,
+        "qs_pg:id":404466,
         "wd:id":"Q2017167"
     },
     "wof:country":"BG",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":101837481,
-    "wof:lastmodified":1561837458,
+    "wof:lastmodified":1566614144,
     "wof:name":"\u041a\u0440\u0438\u0432\u0438\u043d\u0430",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

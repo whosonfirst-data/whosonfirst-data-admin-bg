@@ -9,14 +9,18 @@
     "geom:bbox":"22.8,42.96667,22.8,42.96667",
     "geom:latitude":42.96667,
     "geom:longitude":22.8,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BG",
+    "lbl:bbox":"22.78,42.94667,22.82,42.98667",
     "lbl:latitude":42.96667,
     "lbl:longitude":22.8,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u041d\u043e\u0432\u043e \u0421\u0435\u043b\u043e"
@@ -45,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u041d\u043e\u0432\u043e-\u0421\u0435\u043b\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nowossel-Tschiflik"
     ],
     "qs_pg:aaroncc":"BG",
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424771,
     "qs_pg:woe_id":835849,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424771,
     "woe:name_adm0":"Bulgaria",
     "woe:name_adm1":"Sofiya",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125874865,
-    "wof:lastmodified":1563325562,
+    "wof:lastmodified":1566614167,
     "wof:name":"Dolno Novo Selo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",
