@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.91362,
     "lbl:longitude":26.837537,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.91362,
     "mps:longitude":26.837537,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u06af\u0644\u0627\u0648\u06cc\u0646\u06cc\u062a\u0633\u0627"
     ],
@@ -85,9 +88,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043b\u0430\u0432\u0438\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Asfatchioi"
-    ],
     "name:vie_x_preferred":[
         "Glavinitsa"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":150.0,
     "wd:latitude":43.916667,
@@ -130,7 +130,6 @@
         "fct:id":"0370e860-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731415,
         "gp:id":56039994,
-        "qs:id":539800,
         "qs_pg:id":539800,
         "wd:id":"Q405481"
     },
@@ -148,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325416,
+    "wof:lastmodified":1566614104,
     "wof:name":"\u0413\u043b\u0430\u0432\u0438\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

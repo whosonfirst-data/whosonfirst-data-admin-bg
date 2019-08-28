@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.595692,
     "lbl:longitude":23.807668,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":41.595692,
     "mps:longitude":23.807668,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0413\u044a\u0440\u043c\u0435\u043d"
     ],
@@ -85,9 +88,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0438\u0440\u043c\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "G\u0103rmen"
-    ],
     "name:war_x_preferred":[
         "Garmen"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":605.0,
     "wd:latitude":41.595,
@@ -127,7 +127,6 @@
         "fct:id":"03711bd2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730960,
         "gp:id":836723,
-        "qs:id":1283769,
         "qs_pg:id":1283769,
         "wd:id":"Q2332319",
         "wk:page":"Garmen"
@@ -146,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325274,
+    "wof:lastmodified":1566614051,
     "wof:name":"\u0413\u044a\u0440\u043c\u0435\u043d",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

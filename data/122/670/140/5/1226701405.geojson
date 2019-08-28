@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.53755,43.74936,27.57755,43.78936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u0438\u0442\u043e\u0432\u043e"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1226701405,
-    "wof:lastmodified":1564177741,
+    "wof:lastmodified":1566614315,
     "wof:name":"Hitovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

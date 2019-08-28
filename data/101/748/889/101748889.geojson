@@ -13,6 +13,8 @@
     "iso:country":"BG",
     "lbl:latitude":42.144039,
     "lbl:longitude":24.744011,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":42.144039,
     "mps:longitude":24.744011,
     "mz:hierarchy_label":1,
@@ -325,9 +327,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u043b\u043e\u0432\u0434\u0438\u0432"
     ],
-    "name:unk_x_variant":[
-        "Julia"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0644\u0648\u0648\u062f\u06cc\u0641"
     ],
@@ -465,7 +464,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":164.0,
     "wd:latitude":42.15,
@@ -484,10 +483,12 @@
         "gn:id":728193,
         "gp:id":838804,
         "nyt:id":"84477476398117599651",
-        "qs:id":1028723,
         "qs_pg:id":497226,
         "wd:id":"Q459",
         "wk:page":"Plovdiv"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028723
     },
     "wof:country":"BG",
     "wof:geomhash":"9b9942a6ab6fbe450c79b4ab8b939981",
@@ -503,7 +504,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325440,
+    "wof:lastmodified":1566614114,
     "wof:name":"\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

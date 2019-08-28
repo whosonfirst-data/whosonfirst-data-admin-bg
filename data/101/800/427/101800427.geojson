@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000207,
+    "geom:area_square_m":1897199.454008,
     "geom:bbox":"24.4894065852,42.0871327959,24.5146612401,42.1025745861",
     "geom:latitude":42.094711,
     "geom:longitude":24.501609,
     "iso:country":"BG",
     "lbl:latitude":42.091649,
     "lbl:longitude":24.499696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.091649,
     "mps:longitude":24.499696,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u0440\u0442\u043e\u0432\u043e \u041a\u043e\u043d\u0430\u0440\u0435"
     ],
@@ -22,9 +27,6 @@
     ],
     "name:eng_x_variant":[
         "Kurtove Konare",
-        "Kurtowo-Konare"
-    ],
-    "name:unk_x_variant":[
         "Kurtowo-Konare"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -42,7 +44,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -53,7 +55,7 @@
         "fct:id":"0371909e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729774,
         "gp:id":837584,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"BG",
     "wof:geomhash":"d257bede4fcef17a580cce474ae0e974",
@@ -69,7 +71,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501215861,
+    "wof:lastmodified":1566614136,
     "wof:name":"\u041a\u0443\u0440\u0442\u043e\u0432\u043e \u041a\u043e\u043d\u0430\u0440\u0435",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

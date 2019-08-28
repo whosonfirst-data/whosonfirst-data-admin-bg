@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.96213,43.05741,23.00213,43.09741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043c\u043e\u043b\u0447\u0430"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276474097,
-    "wof:lastmodified":1537587350,
+    "wof:lastmodified":1566613810,
     "wof:name":"Smolcha",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.94667,42.28,23.98667,42.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u043b\u0430\u043a"
     ],
@@ -41,8 +45,7 @@
     ],
     "name:und_x_variant":[
         "Cholak",
-        "\u010colak",
-        "Golak"
+        "\u010colak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1293031849,
-    "wof:lastmodified":1564177068,
+    "wof:lastmodified":1566613759,
     "wof:name":"Golak",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

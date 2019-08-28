@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.94087,41.46019,24.98087,41.50019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "Kukale"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327167817,
-    "wof:lastmodified":1537587801,
+    "wof:lastmodified":1566613653,
     "wof:name":"Kukale",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

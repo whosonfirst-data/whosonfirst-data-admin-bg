@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.758684,
     "lbl:longitude":23.201705,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":42.758684,
     "mps:longitude":23.201705,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0632\u0647\u0648\u0631\u06cc\u0634\u062a"
     ],
@@ -87,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0436\u0443\u0440\u0438\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
-        "Bojurishe"
-    ],
     "name:vie_x_preferred":[
         "Bozhurishte"
     ],
@@ -116,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":167,
     "wof:belongsto":[
@@ -129,7 +129,6 @@
         "fct:id":"037043e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732954,
         "gp:id":835170,
-        "qs:id":966452,
         "qs_pg:id":966452,
         "wd:id":"Q404811",
         "wk:page":"Bozhurishte"
@@ -148,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325353,
+    "wof:lastmodified":1566614083,
     "wof:name":"\u0411\u043e\u0436\u0443\u0440\u0438\u0449\u0435",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

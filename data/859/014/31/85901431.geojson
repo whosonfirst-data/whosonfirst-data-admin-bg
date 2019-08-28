@@ -12,8 +12,10 @@
     "gn:latitude":42.71667,
     "gn:longitude":23.31667,
     "iso:country":"BG",
+    "lbl:bbox":"23.304399,42.737795,23.314399,42.747795",
     "lbl:latitude":42.742795,
     "lbl:longitude":23.309399,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.728465,
     "mps:longitude":23.302047,
     "mz:hierarchy_label":0,
@@ -46,10 +48,6 @@
     ],
     "name:pol_x_preferred":[
         "Rejon Nade\u017cda"
-    ],
-    "name:unk_x_variant":[
-        "Kvartal Nadezhda",
-        "Nadezhda"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_fcode":"PPLX",
@@ -92,7 +90,6 @@
     "wof:concordances":{
         "gn:id":728876,
         "gp:id":838260,
-        "qs:id":983583,
         "qs_pg:id":983583,
         "wd:id":"Q3658044",
         "wk:page":"Nadezhda, Sofia"
@@ -112,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247542,
+    "wof:lastmodified":1566613708,
     "wof:name":"Nadezhda",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

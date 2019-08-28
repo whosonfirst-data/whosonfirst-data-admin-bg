@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.06872,42.17852,23.10872,42.21852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0430\u0439\u043d\u0438 \u0434\u043e\u043b"
     ],
@@ -48,7 +52,6 @@
         "\u041a\u0440\u0430\u0439\u043d\u0456\u0439 \u0414\u043e\u043b"
     ],
     "name:und_x_variant":[
-        "Kraini Dol",
         "Krayni Dol"
     ],
     "src:geom":"geonames",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1277013893,
-    "wof:lastmodified":1564177113,
+    "wof:lastmodified":1566613784,
     "wof:name":"Krayni Dol",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

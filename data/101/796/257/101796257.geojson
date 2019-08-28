@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.45705,
     "lbl:longitude":25.735526,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.45705,
     "mps:longitude":25.735526,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0411\u044f\u043b\u0430"
     ],
@@ -64,9 +67,6 @@
     "name:rus_x_preferred":[
         "\u0411\u044f\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "B\u011bla"
-    ],
     "name:vie_x_preferred":[
         "Byala"
     ],
@@ -88,7 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":238,
     "wof:belongsto":[
         102191581,
@@ -100,7 +100,7 @@
         "fct:id":"03705e5e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732720,
         "gp:id":835352,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q2609654",
         "wk:page":"Byala Municipality, Ruse Province"
     },
@@ -118,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325386,
+    "wof:lastmodified":1566614095,
     "wof:name":"\u0411\u044f\u043b\u0430",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

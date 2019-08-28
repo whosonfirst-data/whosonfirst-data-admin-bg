@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.297375,
     "lbl:longitude":25.210715,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":42.297375,
     "mps:longitude":25.210715,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u0442\u044f \u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u0438"
     ],
@@ -64,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0442\u044f-\u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u0456"
     ],
-    "name:unk_x_variant":[
-        "Malko Borissowo"
-    ],
     "name:war_x_preferred":[
         "Bratya Daskalovi"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":671.0,
     "wd:latitude":42.3,
@@ -106,7 +106,6 @@
         "fct:id":"03704838-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732920,
         "gp:id":835198,
-        "qs:id":1272250,
         "qs_pg:id":1272250,
         "wd:id":"Q899684"
     },
@@ -124,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325368,
+    "wof:lastmodified":1566614088,
     "wof:name":"\u0411\u0440\u0430\u0442\u044f \u0414\u0430\u0441\u043a\u0430\u043b\u043e\u0432\u0438",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

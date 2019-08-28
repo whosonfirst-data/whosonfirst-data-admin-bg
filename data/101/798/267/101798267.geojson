@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.966972,
     "lbl:longitude":25.025544,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.966972,
     "mps:longitude":25.025544,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0647\u064a\u0641\u0648"
     ],
@@ -64,9 +67,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0448\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Dushva"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0413\u0430\u0431\u0440\u043e\u0432\u043e",
     "qs:a1_alt":"Gabrovo",
@@ -83,7 +83,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":42.966667,
     "wd:longitude":25.033333,
     "wd:wordcount":39,
@@ -114,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325322,
+    "wof:lastmodified":1566614070,
     "wof:name":"\u0414\u0443\u0448\u0435\u0432\u043e",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

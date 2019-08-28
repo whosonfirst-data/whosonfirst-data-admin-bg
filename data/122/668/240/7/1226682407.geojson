@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.54667,42.99667,25.58667,43.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u043e\u044f"
     ],
@@ -49,7 +53,6 @@
         "\u041c\u0430\u043d\u043e\u044f"
     ],
     "name:und_x_variant":[
-        "Manoja",
         "Manoya"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226682407,
-    "wof:lastmodified":1564177703,
+    "wof:lastmodified":1566614290,
     "wof:name":"Manoya",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.09778,43.38556,23.13778,43.42556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u0426\u0435\u0440\u043e\u0432\u0435\u043d\u0435"
     ],
@@ -53,8 +57,7 @@
         "\u0413\u043e\u0440\u0456\u0448\u043d\u0454 \u0426\u0435\u0440\u043e\u0432\u0435\u043d\u0435"
     ],
     "name:und_x_variant":[
-        "Gorno Zerowene",
-        "Gorno Tserovene"
+        "Gorno Zerowene"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1310236395,
-    "wof:lastmodified":1564177377,
+    "wof:lastmodified":1566613951,
     "wof:name":"Gorno Tserovene",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

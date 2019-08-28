@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.889888,
     "lbl:longitude":22.520948,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.889888,
     "mps:longitude":22.520948,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041a\u0443\u043b\u0430"
     ],
@@ -68,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u043b\u0430"
     ],
-    "name:unk_x_variant":[
-        "Adlye"
-    ],
     "name:vie_x_preferred":[
         "Kula"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":194,
     "wof:belongsto":[
@@ -104,7 +104,6 @@
         "fct:id":"03718bda-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729825,
         "gp:id":837545,
-        "qs:id":1272685,
         "qs_pg:id":1272685,
         "wd:id":"Q2715384",
         "wk:page":"Kula Municipality, Bulgaria"
@@ -123,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325394,
+    "wof:lastmodified":1566614098,
     "wof:name":"\u041a\u0443\u043b\u0430",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.795315,
     "lbl:longitude":26.50263,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":43.795315,
     "mps:longitude":26.50263,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041a\u0443\u0431\u0440\u0430\u0442"
     ],
@@ -60,9 +63,6 @@
     "name:rus_x_preferred":[
         "\u041a\u0443\u0431\u0440\u0430\u0442"
     ],
-    "name:unk_x_variant":[
-        "Balbunar"
-    ],
     "name:vie_x_preferred":[
         "Kubrat"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":199,
     "wof:belongsto":[
@@ -99,7 +99,6 @@
         "fct:id":"03718aa4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729839,
         "gp:id":837533,
-        "qs:id":128971,
         "qs_pg:id":128971,
         "wd:id":"Q2716750",
         "wk:page":"Kubrat Municipality"
@@ -118,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325466,
+    "wof:lastmodified":1566614120,
     "wof:name":"\u041a\u0443\u0431\u0440\u0430\u0442",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

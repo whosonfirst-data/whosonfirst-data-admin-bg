@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.89575,41.97,22.93575,42.01",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "Malishevska Mahala"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276488149,
-    "wof:lastmodified":1537587807,
+    "wof:lastmodified":1566613819,
     "wof:name":"Malishevska Mahala",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

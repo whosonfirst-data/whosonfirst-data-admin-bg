@@ -13,6 +13,8 @@
     "iso:country":"BG",
     "lbl:latitude":43.836669,
     "lbl:longitude":25.960555,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":43.836669,
     "mps:longitude":25.960555,
     "mz:hierarchy_label":1,
@@ -269,9 +271,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0441\u0435"
     ],
-    "name:unk_x_variant":[
-        "Rushtuk"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0633\u06d2\u060c \u0628\u0644\u063a\u0627\u0631\u06cc\u06c1"
     ],
@@ -402,7 +401,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":45.0,
     "wd:latitude":43.85,
@@ -418,10 +417,12 @@
         "fct:id":"0373988a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727523,
         "gp:id":839334,
-        "qs:id":1028710,
         "qs_pg:id":497457,
         "wd:id":"Q160173",
         "wk:page":"Ruse, Bulgaria"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1028710
     },
     "wof:country":"BG",
     "wof:geomhash":"b330f41286918b772642bd45e8e630eb",
@@ -437,7 +438,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325450,
+    "wof:lastmodified":1566614116,
     "wof:name":"\u0420\u0443\u0441\u0435",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

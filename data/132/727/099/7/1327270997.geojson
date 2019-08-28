@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.91333,42.51333,26.95333,42.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043c\u043e\u043b\u043d\u0438\u043a"
     ],
@@ -46,8 +50,7 @@
         "\u0421\u043c\u043e\u043b\u043d\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Tastepe",
-        "Smolnik"
+        "Tastepe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1327270997,
-    "wof:lastmodified":1564176911,
+    "wof:lastmodified":1566613655,
     "wof:name":"Smolnik",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.73051,43.54142,22.77051,43.58142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u0442\u043e\u043f\u043e\u043f\u0438\u043d\u0446\u0438"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1276260549,
-    "wof:lastmodified":1564177116,
+    "wof:lastmodified":1566613787,
     "wof:name":"Protopopintsi",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

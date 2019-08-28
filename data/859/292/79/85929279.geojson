@@ -11,8 +11,10 @@
     "geom:longitude":23.348648,
     "gn:id":"",
     "iso:country":"BG",
+    "lbl:bbox":"23.343648,42.664454,23.353648,42.674454",
     "lbl:latitude":42.669454,
     "lbl:longitude":23.348648,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.680415,
     "mps:longitude":23.354537,
     "mz:hierarchy_label":0,
@@ -42,9 +44,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0437\u0433\u0440\u0435\u0432"
-    ],
-    "name:unk_x_variant":[
-        "Izgrev"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_id":0,
@@ -85,7 +84,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55855474,
-        "qs:id":1080169,
         "qs_pg:id":1080169,
         "wd:id":"Q12281451"
     },
@@ -104,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566613710,
     "wof:name":"Izgrev",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

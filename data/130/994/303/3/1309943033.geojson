@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.46333,43.23,24.50333,43.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0433\u043b\u0435\u0436"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1309943033,
-    "wof:lastmodified":1537587763,
+    "wof:lastmodified":1566614155,
     "wof:name":"Beglezh",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

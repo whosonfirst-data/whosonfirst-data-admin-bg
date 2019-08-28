@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.71426,44.17161,22.75426,44.21161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0440\u044a\u0432"
     ],
@@ -62,11 +66,9 @@
     ],
     "name:und_x_variant":[
         "V\u016drv",
-        "Vr\u0103v",
         "Vrv",
         "W\u0103rw",
-        "Vrf",
-        "Vr\u016dv"
+        "Vrf"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +92,7 @@
         }
     ],
     "wof:id":1343595167,
-    "wof:lastmodified":1564176957,
+    "wof:lastmodified":1566613684,
     "wof:name":"Vrav",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.13,42.91333,27.17,42.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0432\u0435\u043b\u044c\u043e\u0432\u043e"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1293426435,
-    "wof:lastmodified":1564177083,
+    "wof:lastmodified":1566613768,
     "wof:name":"Karavelyovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.47262,
     "lbl:longitude":23.334843,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.47262,
     "mps:longitude":23.334843,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u06cc\u0686\u06cc\u0646\u0648\u062a\u0633\u06cc"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0439\u0447\u0438\u043d\u043e\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
-        "Bojtschinowzi"
-    ],
     "name:vie_x_preferred":[
         "Boychinovtsi"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":43.471944,
     "wd:longitude":23.335556,
@@ -138,7 +138,6 @@
         "fct:id":"03704072-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732986,
         "gp:id":835144,
-        "qs:id":255594,
         "qs_pg:id":255594,
         "wd:id":"Q405184",
         "wk:page":"Boychinovtsi"
@@ -157,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325169,
+    "wof:lastmodified":1566614012,
     "wof:name":"\u0411\u043e\u0439\u0447\u0438\u043d\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

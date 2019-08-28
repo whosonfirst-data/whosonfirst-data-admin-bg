@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.99667,42.83,24.03667,42.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0438\u0431\u0430\u0440\u0438\u0446\u0430"
     ],
@@ -41,8 +45,7 @@
     ],
     "name:und_x_variant":[
         "Pod Manastirya",
-        "Ribarica",
-        "Ribaritsa"
+        "Ribarica"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1326964597,
-    "wof:lastmodified":1564176896,
+    "wof:lastmodified":1566613644,
     "wof:name":"Ribaritsa",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

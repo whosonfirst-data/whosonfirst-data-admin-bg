@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.686139,
     "lbl:longitude":25.955011,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":43.686139,
     "mps:longitude":25.955011,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0418\u0432\u0430\u043d\u043e\u0432\u043e"
     ],
@@ -68,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0432\u0430\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Iwanowo"
-    ],
     "name:zho_x_preferred":[
         "\u4f0a\u74e6\u8afe\u6c83"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":151,
     "wof:belongsto":[
@@ -104,7 +104,6 @@
         "fct:id":"03712762-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730852,
         "gp:id":836802,
-        "qs:id":57434,
         "qs_pg:id":57434,
         "wd:id":"Q935789",
         "wk:page":"Ivanovo, Ruse Province"
@@ -123,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325410,
+    "wof:lastmodified":1566614103,
     "wof:name":"\u0418\u0432\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

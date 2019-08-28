@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.674993,
     "lbl:longitude":23.433842,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.674993,
     "mps:longitude":23.433842,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u0441\u043c\u0430\u043d\u0446\u0438"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0441\u043c\u0430\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bussmanzi"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -67,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":42.683333,
     "wd:longitude":23.433333,
     "wd:wordcount":87,
@@ -79,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":732745,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2653338",
         "wk:page":"Busmantsi"
     },
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101798067,
-    "wof:lastmodified":1561837450,
+    "wof:lastmodified":1566614086,
     "wof:name":"\u0411\u0443\u0441\u043c\u0430\u043d\u0446\u0438",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

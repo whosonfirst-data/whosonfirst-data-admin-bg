@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.37899,41.27578,25.41899,41.31578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u043e\u0437\u0435\u043d\u0433\u0440\u0430\u0434\u0446\u0438"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "Karakash",
-        "Losengradzi",
-        "Lozengradtsi"
+        "Losengradzi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1326964201,
-    "wof:lastmodified":1564176894,
+    "wof:lastmodified":1566613643,
     "wof:name":"Lozengradtsi",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

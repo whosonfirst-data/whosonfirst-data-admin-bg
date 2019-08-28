@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.34667,41.58,23.38667,41.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0436\u0434\u043e\u0432\u043e"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1343300557,
-    "wof:lastmodified":1564176917,
+    "wof:lastmodified":1566613659,
     "wof:name":"Bozhdovo",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

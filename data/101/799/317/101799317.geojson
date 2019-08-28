@@ -5,19 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000299,
+    "geom:area_square_m":2725664.299737,
     "geom:bbox":"23.3395256892,42.574025232,23.370339913,42.5926515923",
     "geom:latitude":42.583299,
     "geom:longitude":23.355175,
     "iso:country":"BG",
     "lbl:latitude":42.583691,
     "lbl:longitude":23.357977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.583691,
     "mps:longitude":23.357977,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bistriza"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -35,7 +40,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -45,7 +50,7 @@
     "wof:concordances":{
         "gn:id":733208,
         "gp:id":834975,
-        "qs:id":7
+        "qs_pg:id":7
     },
     "wof:country":"BG",
     "wof:geomhash":"bbe654d253a1ad3c2cf29a6c48c4eb4c",
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":101799317,
-    "wof:lastmodified":1501215902,
+    "wof:lastmodified":1566614058,
     "wof:name":"\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.94495,42.45264,22.98495,42.49264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0431\u0430\u0440\u0430\u0446\u0438"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209945993,
-    "wof:lastmodified":1537587749,
+    "wof:lastmodified":1566613880,
     "wof:name":"Boboratsi",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.77408,43.88803,27.81408,43.92803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0631\u064a\u062a"
     ],
@@ -61,8 +65,7 @@
     "name:und_x_variant":[
         "Abrid",
         "Aptat",
-        "Aptaat",
-        "Abrit"
+        "Aptaat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1276166131,
-    "wof:lastmodified":1564177130,
+    "wof:lastmodified":1566613794,
     "wof:name":"Abrit",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

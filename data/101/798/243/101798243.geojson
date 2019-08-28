@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000103,
+    "geom:area_square_m":938547.946942,
     "geom:bbox":"23.5070145678,42.383772959,23.5297409011,42.3958674848",
     "geom:latitude":42.389817,
     "geom:longitude":23.517981,
     "iso:country":"BG",
     "lbl:latitude":42.388469,
     "lbl:longitude":23.519703,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.388469,
     "mps:longitude":23.519703,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0428\u0438\u0440\u043e\u043a\u0438 \u0414\u043e\u043b"
     ],
@@ -21,9 +26,6 @@
         "Shiroki Dol"
     ],
     "name:eng_x_variant":[
-        "Schiroki Dol"
-    ],
-    "name:unk_x_variant":[
         "Schiroki Dol"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -41,7 +43,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -52,7 +54,7 @@
         "fct:id":"03729732-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727277,
         "gp:id":839512,
-        "qs:id":1
+        "qs_pg:id":1
     },
     "wof:country":"BG",
     "wof:geomhash":"25baacd77c093795cce240f2a4edd01a",
@@ -68,7 +70,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501215845,
+    "wof:lastmodified":1566614066,
     "wof:name":"\u0428\u0438\u0440\u043e\u043a\u0438 \u0434\u043e\u043b",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

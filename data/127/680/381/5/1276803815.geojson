@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.16333,42.89667,25.20333,42.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u0627\u0645\u0627\u0646\u0648\u0641\u062a\u0633\u064a"
     ],
@@ -64,11 +68,9 @@
     "name:und_x_variant":[
         "Nova Makhala",
         "Draganovts\u016d",
-        "Draganovci",
         "Dragonovtsi",
         "Dragievci",
-        "Draganowzi",
-        "Draganovtsi"
+        "Draganowzi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1276803815,
-    "wof:lastmodified":1564177128,
+    "wof:lastmodified":1566613793,
     "wof:name":"Draganovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

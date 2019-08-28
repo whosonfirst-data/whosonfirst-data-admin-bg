@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.027537,
     "lbl:longitude":27.441977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.027537,
     "mps:longitude":27.441977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0426\u043e\u043d\u0435\u0432\u0430"
     ],
@@ -55,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u043e\u043d\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saidekch\u016d"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -74,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":33,
     "wof:belongsto":[
         102191581,
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gn:id":726219,
         "gp:id":840301,
-        "qs:id":422752,
+        "qs_pg:id":422752,
         "wd:id":"Q2462573",
         "wk:page":"Tsonevo"
     },
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":101798441,
-    "wof:lastmodified":1563325314,
+    "wof:lastmodified":1566614066,
     "wof:name":"\u0426\u043e\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

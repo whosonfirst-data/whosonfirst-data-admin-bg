@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.89581,42.12534,26.93581,42.16534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u044a\u043b\u0447\u0438 \u0418\u0437\u0432\u043e\u0440"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209950971,
-    "wof:lastmodified":1537587262,
+    "wof:lastmodified":1566613870,
     "wof:name":"Valchi Izvor",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

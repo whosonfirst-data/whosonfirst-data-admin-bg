@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.812036,
     "lbl:longitude":26.733578,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.812036,
     "mps:longitude":26.733578,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u0441\u0435\u043b\u0435\u0446"
     ],
@@ -71,9 +74,6 @@
     "name:swe_x_preferred":[
         "Obsjtina Zavet"
     ],
-    "name:unk_x_variant":[
-        "Sheremetkioy"
-    ],
     "name:vie_x_preferred":[
         "Zavet"
     ],
@@ -95,7 +95,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":185,
     "wof:belongsto":[
         102191581,
@@ -107,7 +107,7 @@
         "fct:id":"03738f70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725949,
         "gp:id":840505,
-        "qs:id":1273259,
+        "qs_pg:id":1273259,
         "wd:id":"Q2716740"
     },
     "wof:country":"BG",
@@ -124,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325413,
+    "wof:lastmodified":1566614104,
     "wof:name":"\u0412\u0435\u0441\u0435\u043b\u0435\u0446",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

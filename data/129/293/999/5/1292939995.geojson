@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.56765,41.68394,24.60765,41.72394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "Shiroka Laka"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1292939995,
-    "wof:lastmodified":1564177025,
+    "wof:lastmodified":1566613734,
     "wof:name":"Shiroka Laka",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

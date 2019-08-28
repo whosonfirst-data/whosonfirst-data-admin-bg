@@ -9,14 +9,18 @@
     "geom:bbox":"25.56667,41.76667,25.56667,41.76667",
     "geom:latitude":41.76667,
     "geom:longitude":25.56667,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BG",
+    "lbl:bbox":"25.54667,41.74667,25.58667,41.78667",
     "lbl:latitude":41.76667,
     "lbl:longitude":25.56667,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u043a\u0430\u043d"
@@ -51,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daa K\u2019oy"
     ],
     "qs_pg:aaroncc":"BG",
@@ -75,7 +79,7 @@
     "qs_pg:woe_adm0":23424771,
     "qs_pg:woe_id":834776,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424771,
     "woe:name_adm0":"Bulgaria",
     "woe:name_adm1":"Khaskovo",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":1126023437,
-    "wof:lastmodified":1563325553,
+    "wof:lastmodified":1566614163,
     "wof:name":"Balkan",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

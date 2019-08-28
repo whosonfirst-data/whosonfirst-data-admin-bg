@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.96333,43.46333,27.00333,43.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u043e"
     ],
@@ -46,8 +50,7 @@
         "\u041a\u0430\u043b\u0456\u043d\u043e"
     ],
     "name:und_x_variant":[
-        "Chamurlu",
-        "Kalino"
+        "Chamurlu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1209040355,
-    "wof:lastmodified":1564177272,
+    "wof:lastmodified":1566613878,
     "wof:name":"Kalino",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

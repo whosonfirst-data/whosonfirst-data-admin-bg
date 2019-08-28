@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.88,42.68,26.92,42.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u044a\u0434\u0440\u0438\u043d\u043e"
     ],
@@ -50,7 +54,6 @@
     "name:und_x_variant":[
         "Beykioy",
         "Kada K\u2019oy",
-        "M\u0103drino",
         "Kadi-K\u2019oy",
         "M\u016ddrino"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1276795733,
-    "wof:lastmodified":1564177166,
+    "wof:lastmodified":1566613816,
     "wof:name":"Madrino",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

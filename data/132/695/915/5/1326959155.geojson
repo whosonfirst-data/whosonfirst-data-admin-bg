@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.95297,41.49389,25.99297,41.53389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u043d\u0438 \u0440\u0438\u0434"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1326959155,
-    "wof:lastmodified":1564176864,
+    "wof:lastmodified":1566613626,
     "wof:name":"Cherni Rid",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.13,43.08,26.17,43.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u043b\u0432\u0430\u0434\u0436\u0438\u0439\u0441\u043a\u043e"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310341349,
-    "wof:lastmodified":1537587569,
+    "wof:lastmodified":1566613976,
     "wof:name":"Halvadzhiysko",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

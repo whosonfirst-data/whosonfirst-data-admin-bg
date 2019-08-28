@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.79667,43.39667,26.83667,43.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0415\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u0446\u0438"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259714899,
-    "wof:lastmodified":1537587652,
+    "wof:lastmodified":1566614251,
     "wof:name":"Edinakovtsi",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

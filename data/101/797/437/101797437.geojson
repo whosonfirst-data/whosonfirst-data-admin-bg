@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.626496,
     "lbl:longitude":26.705152,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.626496,
     "mps:longitude":26.705152,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0418\u0441\u043f\u0435\u0440\u0438\u0445"
     ],
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Obsjtina Isperich"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ionkovo"
     ],
     "name:vie_x_preferred":[
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":199,
     "wof:belongsto":[
         102191581,
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gn:id":725509,
         "gp:id":840844,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2220241"
     },
     "wof:country":"BG",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101797437,
-    "wof:lastmodified":1563325170,
+    "wof:lastmodified":1566614012,
     "wof:name":"\u0419\u043e\u043d\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

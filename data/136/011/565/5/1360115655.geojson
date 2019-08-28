@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.99564,41.41262,26.03564,41.45262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0434\u043e\u0432\u043e"
     ],
@@ -49,9 +53,7 @@
         "\u041a\u043e\u043d\u0434\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Myuselim",
-        "Kondowo",
-        "Kondovo"
+        "Myuselim"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1360115655,
-    "wof:lastmodified":1564177443,
+    "wof:lastmodified":1566613995,
     "wof:name":"Kondovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

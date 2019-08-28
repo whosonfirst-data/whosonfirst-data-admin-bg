@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.906418,
     "lbl:longitude":23.793853,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":42.906418,
     "mps:longitude":23.793853,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u0424\u041a \u0411\u0430\u043b\u043a\u0430\u043d"
     ],
@@ -32,9 +35,6 @@
         "Orhanie",
         "Orhanje",
         "Orkhanie"
-    ],
-    "name:unk_x_variant":[
-        "Orhanje"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u723e\u574e\u535a\u6cf0\u592b\u683c\u52d2\u8db3\u7403\u6703"
@@ -56,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":260,
     "wof:belongsto":[
@@ -69,7 +69,6 @@
         "fct:id":"03703d3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733014,
         "gp:id":835121,
-        "qs:id":57414,
         "qs_pg:id":57414,
         "wd:id":"Q7119063"
     },
@@ -87,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325397,
+    "wof:lastmodified":1566614099,
     "wof:name":"\u0411\u043e\u0442\u0435\u0432\u0433\u0440\u0430\u0434",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

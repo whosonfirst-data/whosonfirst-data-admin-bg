@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.72255,41.44983,24.76255,41.48983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "Parnarevo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276478907,
-    "wof:lastmodified":1537587802,
+    "wof:lastmodified":1566613812,
     "wof:name":"Parnarevo",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

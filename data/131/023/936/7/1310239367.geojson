@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.20473,43.54427,24.24473,43.58427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0441\u0442\u0438\u043b\u044f"
     ],
@@ -49,8 +53,7 @@
         "\u0413\u043e\u0441\u0442\u0438\u043b\u044f"
     ],
     "name:und_x_variant":[
-        "Gostilja",
-        "Gostilya"
+        "Gostilja"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1310239367,
-    "wof:lastmodified":1564177373,
+    "wof:lastmodified":1566613948,
     "wof:name":"Gostilya",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

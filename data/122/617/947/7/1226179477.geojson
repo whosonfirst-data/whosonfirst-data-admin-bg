@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.21333,43.03,26.25333,43.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043b\u0430\u0448\u0430\u0442\u0430\u0439"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226179477,
-    "wof:lastmodified":1537587635,
+    "wof:lastmodified":1566614273,
     "wof:name":"Glashatay",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

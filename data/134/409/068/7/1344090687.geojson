@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.71236,41.44737,25.75236,41.48737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u043b\u0438\u043d"
     ],
@@ -46,8 +50,7 @@
         "\u041f\u0435\u043b\u0438\u043d"
     ],
     "name:und_x_variant":[
-        "Kara Beyli",
-        "Pelin"
+        "Kara Beyli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1344090687,
-    "wof:lastmodified":1564176936,
+    "wof:lastmodified":1566613671,
     "wof:name":"Pelin",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

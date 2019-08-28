@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.61276,
     "lbl:longitude":25.468613,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.61276,
     "mps:longitude":25.468613,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0440\u0434\u0438\u043c"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0434\u0438\u043c"
     ],
-    "name:unk_x_variant":[
-        "Wardim"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
     "qs:a1_alt":"Veliko Tarnovo",
@@ -74,7 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":43.616667,
     "wd:longitude":25.466667,
     "wd:wordcount":216,
@@ -88,7 +88,7 @@
         "fct:id":"0373132e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726055,
         "gp:id":840427,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q1255166",
         "wk:page":"Vardim"
     },
@@ -106,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325187,
+    "wof:lastmodified":1566614019,
     "wof:name":"\u0412\u0430\u0440\u0434\u0438\u043c",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.92369,42.03879,22.96369,42.07879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u0441\u0438\u044f"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1343512841,
-    "wof:lastmodified":1564176969,
+    "wof:lastmodified":1566613692,
     "wof:name":"Lisia",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

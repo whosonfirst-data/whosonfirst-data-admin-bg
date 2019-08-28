@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.82752,43.5076,27.86752,43.5476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0440\u0430\u043d\u0438\u0449\u0435"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226595253,
-    "wof:lastmodified":1564177698,
+    "wof:lastmodified":1566614286,
     "wof:name":"Branishte",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

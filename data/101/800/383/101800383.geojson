@@ -9,14 +9,17 @@
     "geom:bbox":"23.0099819796,41.3582296622,23.0221349822,41.3659619542",
     "geom:latitude":41.362035,
     "geom:longitude":23.016545,
-    "geonames:id":"730291,730294",
+    "gn:id":"730291,730294",
     "iso:country":"BG",
     "lbl:latitude":41.362392,
     "lbl:longitude":23.016545,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.362392,
     "mps:longitude":23.016545,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043b\u044e\u0447"
     ],
@@ -71,7 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":232,
     "wof:belongsto":[
         102191581,
@@ -81,7 +84,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":837175,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q751389"
     },
     "wof:country":"BG",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101800383,
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1566614131,
     "wof:name":"\u041a\u043b\u044e\u0447",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

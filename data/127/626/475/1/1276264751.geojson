@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.8435,42.89868,22.8835,42.93868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u043e\u0440\u0443\u043b"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1276264751,
-    "wof:lastmodified":1564177119,
+    "wof:lastmodified":1566613788,
     "wof:name":"Chorul",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

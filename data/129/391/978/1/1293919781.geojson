@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.91333,41.74667,24.95333,41.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kormiso\u015f xan"
     ],
@@ -67,8 +71,7 @@
     ],
     "name:und_x_variant":[
         "Karamush",
-        "Kormissosch",
-        "Kormisosh"
+        "Kormissosch"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1293919781,
-    "wof:lastmodified":1564177003,
+    "wof:lastmodified":1566613722,
     "wof:name":"Kormisosh",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

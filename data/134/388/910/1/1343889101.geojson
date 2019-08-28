@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.74496,44.04859,22.78496,44.08859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0456\u043d\u0430"
     ],
@@ -72,8 +76,7 @@
         "\u041a\u0430\u043b\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Chorokalina",
-        "Kalina"
+        "Chorokalina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1343889101,
-    "wof:lastmodified":1564176994,
+    "wof:lastmodified":1566613706,
     "wof:name":"Kalina",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

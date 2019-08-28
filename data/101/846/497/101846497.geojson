@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.976241,
     "lbl:longitude":25.478055,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":42.976241,
     "mps:longitude":25.478055,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u0646\u0648\u0648"
     ],
@@ -112,9 +115,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u044f\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Drenowo"
-    ],
     "name:vie_x_preferred":[
         "Dryanovo"
     ],
@@ -141,7 +141,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":42.983333,
     "wd:longitude":25.491944,
@@ -156,7 +156,6 @@
         "fct:id":"0370b958-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731882,
         "gp:id":835990,
-        "qs:id":128980,
         "qs_pg:id":128980,
         "wd:id":"Q406050"
     },
@@ -174,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325470,
+    "wof:lastmodified":1566614121,
     "wof:name":"\u0414\u0440\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

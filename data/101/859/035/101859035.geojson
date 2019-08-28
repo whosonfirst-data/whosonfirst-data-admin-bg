@@ -10,12 +10,16 @@
     "geom:latitude":41.456279,
     "geom:longitude":25.686959,
     "iso:country":"BG",
+    "lbl:bbox":"25.666959,41.436279,25.706959,41.476279",
     "lbl:latitude":41.456279,
     "lbl:longitude":25.686959,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.456279,
     "mps:longitude":25.686959,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447"
     ],
@@ -44,7 +48,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yumer K\u2019oy"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -65,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191581,
@@ -93,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325431,
+    "wof:lastmodified":1566614111,
     "wof:name":"\u0420\u043e\u0433\u0430\u0447",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

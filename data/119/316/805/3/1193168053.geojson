@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.08,42.93,24.12,42.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0448\u0430"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1193168053,
-    "wof:lastmodified":1537587453,
+    "wof:lastmodified":1566613915,
     "wof:name":"Oresha",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

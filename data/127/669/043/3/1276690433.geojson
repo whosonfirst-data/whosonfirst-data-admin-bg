@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.31796,41.52286,24.35796,41.56286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0436\u0430\u0440\u0438"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276690433,
-    "wof:lastmodified":1537587542,
+    "wof:lastmodified":1566613798,
     "wof:name":"Kozhari",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.79667,41.99667,24.83667,42.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u0443\u0435\u043d"
     ],
@@ -73,8 +77,7 @@
         "Bogoroditschno",
         "Panaya",
         "Bogorodichivo",
-        "Bogorodichno",
-        "Ruen"
+        "Bogorodichno"
     ],
     "name:war_x_preferred":[
         "Ruen"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1193054273,
-    "wof:lastmodified":1564177321,
+    "wof:lastmodified":1566613913,
     "wof:name":"Ruen",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":23.943628,
     "gn:population":4155,
     "iso:country":"BG",
+    "lbl:bbox":"23.923628,42.114266,23.963628,42.154266",
     "lbl:latitude":42.134266,
     "lbl:longitude":23.943628,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":42.134266,
     "mps:longitude":23.943628,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0432\u043e"
     ],
@@ -85,9 +89,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Gara Byelovo"
-    ],
     "name:vie_x_preferred":[
         "Belovo"
     ],
@@ -114,7 +115,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":320.0,
     "wd:latitude":42.216667,
@@ -130,7 +131,7 @@
         "fct:id":"03701f52-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733286,
         "gp:id":834916,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q407705"
     },
     "wof:country":"BG",
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":101857925,
-    "wof:lastmodified":1563325433,
+    "wof:lastmodified":1566614112,
     "wof:name":"\u0411\u0435\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

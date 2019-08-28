@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.684542,
     "lbl:longitude":25.975257,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.684542,
     "mps:longitude":25.975257,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0431\u043e\u0440\u0438\u0449\u0435"
     ],
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0431\u043e\u0440\u0438\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzhumalii"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -65,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":170.0,
     "wd:latitude":43.259167,
     "wd:longitude":26.589167,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":727409,
         "gp:id":839420,
-        "qs:id":110448,
+        "qs_pg:id":110448,
         "wd:id":"Q2461068"
     },
     "wof:country":"BG",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101798291,
-    "wof:lastmodified":1563325356,
+    "wof:lastmodified":1566614084,
     "wof:name":"\u0421\u0431\u043e\u0440\u0438\u0449\u0435",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

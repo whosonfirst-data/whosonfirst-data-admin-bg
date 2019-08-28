@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.53,42.38,25.57,42.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043a\u0430 \u0412\u0435\u0440\u0435\u044f"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326865817,
-    "wof:lastmodified":1537587500,
+    "wof:lastmodified":1566613609,
     "wof:name":"Malka Vereya",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

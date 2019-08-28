@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.941889,
     "lbl:longitude":26.204367,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.941889,
     "mps:longitude":26.204367,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u0644\u06cc\u0648 \u067e\u0648\u0644"
     ],
@@ -87,9 +90,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043b\u0438\u0432\u043e-\u041f\u043e\u043b\u0435"
     ],
-    "name:unk_x_variant":[
-        "Kashikler"
-    ],
     "name:war_x_preferred":[
         "Slivo Pole"
     ],
@@ -113,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":359,
     "wof:belongsto":[
@@ -126,7 +126,6 @@
         "fct:id":"0372aef2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727067,
         "gp:id":839678,
-        "qs:id":915511,
         "qs_pg:id":915511,
         "wd:id":"Q406747",
         "wk:page":"Slivo Pole"
@@ -145,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325414,
+    "wof:lastmodified":1566614104,
     "wof:name":"\u0421\u043b\u0438\u0432\u043e \u043f\u043e\u043b\u0435",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

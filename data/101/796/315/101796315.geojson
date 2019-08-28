@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000261,
-    "geom:area_square_m":2325533.183875,
+    "geom:area_square_m":2325533.183873,
     "geom:bbox":"26.5330938198,43.9783346631,26.5498085733,44.0098237822",
     "geom:latitude":43.991804,
     "geom:longitude":26.540447,
     "iso:country":"BG",
     "lbl:latitude":43.9898,
     "lbl:longitude":26.539624,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.9898,
     "mps:longitude":26.539624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e \u0421\u0435\u043b\u043e"
     ],
@@ -35,9 +38,6 @@
     "name:srp_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e \u0421\u0435\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Satul Vechiu"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
     "qs:a1_alt":"Silistra",
@@ -53,7 +53,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":63,
     "wof:belongsto":[
         102191581,
@@ -65,7 +65,7 @@
         "fct:id":"0372c7f2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726822,
         "gp:id":839859,
-        "qs:id":6
+        "qs_pg:id":6
     },
     "wof:country":"BG",
     "wof:geomhash":"3688a5c05bd699f8b513cbd810a1a84a",
@@ -81,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642032,
+    "wof:lastmodified":1566614099,
     "wof:name":"\u0421\u0442\u0430\u0440\u043e \u0441\u0435\u043b\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.10866,41.44572,25.14866,41.48572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "Kochani"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293726309,
-    "wof:lastmodified":1537587801,
+    "wof:lastmodified":1566613779,
     "wof:name":"Kochani",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

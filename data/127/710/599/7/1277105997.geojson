@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.85455,42.65673,22.89455,42.69673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u043e\u0435\u0432\u0446\u0438"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277105997,
-    "wof:lastmodified":1537587463,
+    "wof:lastmodified":1566613831,
     "wof:name":"Noevtsi",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

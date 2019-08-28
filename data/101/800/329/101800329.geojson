@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.554146,
     "lbl:longitude":23.748866,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.554146,
     "mps:longitude":23.748866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0443\u0441\u043e\u043c\u0438\u0449\u0430"
     ],
@@ -63,7 +66,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0441\u043e\u043c\u0438\u0448\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Musomi\u0161ta"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -81,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":405,
     "wof:belongsto":[
         102191581,
@@ -93,7 +96,7 @@
         "fct:id":"0371e63e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728895,
         "gp:id":838248,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2654740",
         "wk:page":"Musomishta"
     },
@@ -111,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325509,
+    "wof:lastmodified":1566614138,
     "wof:name":"\u041c\u0443\u0441\u043e\u043c\u0438\u0449\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

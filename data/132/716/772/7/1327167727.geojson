@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.30089,42.64511,27.34089,42.68511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u044a\u0434\u0438\u0435\u0432\u043e"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1327167727,
-    "wof:lastmodified":1564176909,
+    "wof:lastmodified":1566613654,
     "wof:name":"Sadievo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

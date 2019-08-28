@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.44667,42.93,25.48667,42.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u064a\u0646\u0627\u064a\u062a"
     ],
@@ -53,8 +57,7 @@
         "\u0414\u043e\u0431\u0440\u0435\u043d\u0438\u0442\u0435"
     ],
     "name:und_x_variant":[
-        "Dobr\u016dnite",
-        "Dobrenite"
+        "Dobr\u016dnite"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1209450925,
-    "wof:lastmodified":1564177291,
+    "wof:lastmodified":1566613888,
     "wof:name":"Dobrenite",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

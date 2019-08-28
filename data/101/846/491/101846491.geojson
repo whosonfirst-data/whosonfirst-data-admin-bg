@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.963969,
     "lbl:longitude":23.345657,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":42.963969,
     "mps:longitude":23.345657,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u0648\u0648\u06af"
     ],
@@ -108,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u043e\u0433\u0435"
     ],
-    "name:unk_x_variant":[
-        "Svogja"
-    ],
     "name:vie_x_preferred":[
         "Svoge"
     ],
@@ -137,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":125,
     "wof:belongsto":[
@@ -150,7 +150,6 @@
         "fct:id":"0372e73c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726524,
         "gp:id":840085,
-        "qs:id":313385,
         "qs_pg:id":313385,
         "wd:id":"Q406143",
         "wk:page":"Svoge"
@@ -169,7 +168,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325470,
+    "wof:lastmodified":1566614122,
     "wof:name":"\u0421\u0432\u043e\u0433\u0435",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

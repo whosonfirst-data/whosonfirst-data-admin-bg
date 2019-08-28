@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":41.530802,
     "lbl:longitude":25.392923,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.530802,
     "mps:longitude":25.392923,
     "mz:hierarchy_label":1,
@@ -251,7 +252,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0440\u0434\u0436\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u016drdzhaliyski Okr\u016dg"
     ],
     "name:urd_x_preferred":[
@@ -336,9 +337,9 @@
     "qs:type":"\u041e\u0431\u043b\u0430\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-01",
+    "src:population_date":"2011-02-01",
     "statoids:area_km":"3,209",
     "statoids:area_mi":"1,239",
     "statoids:as_of_date":"2011-02-01",
@@ -382,11 +383,10 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1565654074,
+    "wof:lastmodified":1566613716,
     "wof:name":"\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":152808,
     "wof:population_rank":9,

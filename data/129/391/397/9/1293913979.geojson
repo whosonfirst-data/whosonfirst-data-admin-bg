@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.54667,42.78,25.58667,42.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u062a\u0634\u0648\u0641\u062a\u0633\u064a"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293913979,
-    "wof:lastmodified":1564177000,
+    "wof:lastmodified":1566613720,
     "wof:name":"Velchovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

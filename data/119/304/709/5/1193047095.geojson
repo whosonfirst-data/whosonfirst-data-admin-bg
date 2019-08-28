@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.05755,43.47974,26.09755,43.51974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0441\u043a\u043e \u0410\u0431\u043b\u0430\u043d\u043e\u0432\u043e"
     ],
@@ -58,8 +62,7 @@
         "\u0413\u043e\u0440\u0441\u044c\u043a\u043e-\u0410\u0431\u043b\u0430\u043d\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Gorsko-Ablanowo",
-        "Gorsko Ablanovo"
+        "Gorsko-Ablanowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1193047095,
-    "wof:lastmodified":1564177313,
+    "wof:lastmodified":1566613908,
     "wof:name":"Gorsko Ablanovo",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

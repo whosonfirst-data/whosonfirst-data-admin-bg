@@ -14,10 +14,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.709427,
     "lbl:longitude":27.769846,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":42.709427,
     "mps:longitude":27.769846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0633\u0648\u062a\u06cc \u0648\u0644\u0627\u0633"
     ],
@@ -93,9 +96,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0442\u0438\u0439 \u0412\u043b\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Sweti Wlas"
-    ],
     "name:vie_x_preferred":[
         "Sveti Vlas"
     ],
@@ -122,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":589,
     "wof:belongsto":[
@@ -134,7 +134,6 @@
     "wof:concordances":{
         "gn:id":725816,
         "gp:id":840593,
-        "qs:id":552677,
         "qs_pg:id":552677,
         "wd:id":"Q406657",
         "wk:page":"Sveti Vlas"
@@ -150,7 +149,7 @@
         }
     ],
     "wof:id":101798347,
-    "wof:lastmodified":1563325332,
+    "wof:lastmodified":1566614074,
     "wof:name":"\u0421\u0432\u0435\u0442\u0438 \u0412\u043b\u0430\u0441",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

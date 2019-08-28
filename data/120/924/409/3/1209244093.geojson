@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.77011,43.78245,22.81011,43.82245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u044a\u0440\u0442\u043e\u043f"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209244093,
-    "wof:lastmodified":1537587258,
+    "wof:lastmodified":1566613854,
     "wof:name":"Vartop",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

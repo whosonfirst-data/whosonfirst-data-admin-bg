@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.65071,42.6856,22.69071,42.7256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0443\u0448\u0438\u043d\u0446\u0438"
     ],
@@ -51,8 +55,7 @@
         "\u0414\u0443\u0448\u0438\u043d\u0446\u0456"
     ],
     "name:und_x_variant":[
-        "Duschinzi",
-        "Dushintsi"
+        "Duschinzi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1193168271,
-    "wof:lastmodified":1564177324,
+    "wof:lastmodified":1566613914,
     "wof:name":"Dushintsi",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

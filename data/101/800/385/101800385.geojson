@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.36478,
     "lbl:longitude":23.109082,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.36478,
     "mps:longitude":23.109082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0413\u043b\u0430\u0432\u0438\u043d\u0438\u0446\u0430"
     ],
@@ -77,9 +80,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Kolarewo"
-    ],
     "name:vie_x_preferred":[
         "Glavinitsa"
     ],
@@ -101,7 +101,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":235,
     "wof:belongsto":[
         102191581,
@@ -113,7 +113,7 @@
         "fct:id":"03715e8a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730241,
         "gp:id":837213,
-        "qs:id":940203,
+        "qs_pg:id":940203,
         "wd:id":"Q2989967"
     },
     "wof:country":"BG",
@@ -130,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325493,
+    "wof:lastmodified":1566614131,
     "wof:name":"\u041a\u043e\u043b\u0430\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

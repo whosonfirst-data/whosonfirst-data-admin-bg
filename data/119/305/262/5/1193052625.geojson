@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.99667,43.39667,26.03667,43.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0426\u0430\u0440 \u0410\u0441\u0435\u043d"
     ],
@@ -52,8 +56,7 @@
     "name:und_x_variant":[
         "Khalvadzhi-Enidzhe",
         "Zar-Assen",
-        "Khalvadzhi Endzhe K\u2019oy",
-        "Tsar Asen"
+        "Khalvadzhi Endzhe K\u2019oy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1193052625,
-    "wof:lastmodified":1564177322,
+    "wof:lastmodified":1566613913,
     "wof:name":"Tsar Asen",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

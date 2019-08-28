@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.61905,41.46669,25.65905,41.50669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Vransko"
     ],
@@ -67,8 +71,7 @@
         "\u0412\u0440\u0430\u043d\u0441\u044c\u043a\u043e"
     ],
     "name:und_x_variant":[
-        "Khadzhilar",
-        "Vransko"
+        "Khadzhilar"
     ],
     "name:zho_x_preferred":[
         "\u5f17\u862d\u65af\u79d1"
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1242904763,
-    "wof:lastmodified":1564177589,
+    "wof:lastmodified":1566614220,
     "wof:name":"Vransko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.98,43.46333,25.02,43.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u044a\u043d\u0447\u043e\u0432\u0438\u0446\u0430"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259517433,
-    "wof:lastmodified":1537587303,
+    "wof:lastmodified":1566614263,
     "wof:name":"Tranchovitsa",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

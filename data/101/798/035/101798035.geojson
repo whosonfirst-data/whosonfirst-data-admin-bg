@@ -5,19 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
+    "geom:area_square_m":818705.696836,
     "geom:bbox":"23.4884598847,42.5362175608,23.5084397337,42.546778918",
     "geom:latitude":42.541474,
     "geom:longitude":23.499545,
     "iso:country":"BG",
     "lbl:latitude":42.541418,
     "lbl:longitude":23.499546,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.541418,
     "mps:longitude":23.499546,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0441\u0430\u0440\u0435\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dolni-Passarel"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -35,7 +40,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -45,7 +50,7 @@
     "wof:concordances":{
         "gn:id":728413,
         "gp:id":838631,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BG",
     "wof:geomhash":"a24c80f73479b002fbf671e78268acfb",
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":101798035,
-    "wof:lastmodified":1501215855,
+    "wof:lastmodified":1566614083,
     "wof:name":"\u0414\u043e\u043b\u043d\u0438 \u041f\u0430\u0441\u0430\u0440\u0435\u043b",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.44667,42.34667,24.48667,42.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0433\u043e\u043c\u0438\u0440"
     ],
@@ -47,8 +51,7 @@
         "Dragomir"
     ],
     "name:und_x_variant":[
-        "Yakhlare",
-        "Dragomir"
+        "Yakhlare"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1276473557,
-    "wof:lastmodified":1564177156,
+    "wof:lastmodified":1566613810,
     "wof:name":"Dragomir",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

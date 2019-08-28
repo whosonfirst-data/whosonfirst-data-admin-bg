@@ -12,8 +12,10 @@
     "gn:latitude":42.65,
     "gn:longitude":23.26667,
     "iso:country":"BG",
+    "lbl:bbox":"23.255341,42.642748,23.265341,42.652748",
     "lbl:latitude":42.647748,
     "lbl:longitude":23.260341,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.635516,
     "mps:longitude":23.262034,
     "mz:hierarchy_label":0,
@@ -46,10 +48,6 @@
     ],
     "name:por_x_preferred":[
         "Boiana"
-    ],
-    "name:unk_x_variant":[
-        "Bojana",
-        "Boyana"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_fcode":"PPLX",
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":732995,
         "gp:id":835137,
-        "qs:id":1083320,
         "qs_pg:id":1083320,
         "wd:id":"Q4952224",
         "wk:page":"Boyana"
@@ -114,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247542,
+    "wof:lastmodified":1566613707,
     "wof:name":"Vitosha",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

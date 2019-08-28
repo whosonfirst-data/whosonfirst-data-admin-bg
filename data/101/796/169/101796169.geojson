@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":44.159097,
     "lbl:longitude":22.78787,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":44.159097,
     "mps:longitude":22.78787,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e"
     ],
@@ -63,9 +66,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u043e-\u0421\u0435\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Nowo-Selo"
-    ],
     "name:zho_x_preferred":[
         "\u65b0\u585e\u6d1b\u5e02"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":255,
     "wof:belongsto":[
@@ -99,7 +99,6 @@
         "fct:id":"0371f6a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728709,
         "gp:id":838392,
-        "qs:id":179333,
         "qs_pg:id":179333,
         "wd:id":"Q576734",
         "wk:page":"Novo Selo Municipality, Bulgaria"
@@ -118,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325381,
+    "wof:lastmodified":1566614093,
     "wof:name":"\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

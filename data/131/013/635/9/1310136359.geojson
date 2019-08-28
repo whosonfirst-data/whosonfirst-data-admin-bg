@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.99667,43.09667,26.03667,43.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u043c\u0435\u043d\u0443\u0433\u0430"
     ],
@@ -47,8 +51,7 @@
     ],
     "name:und_x_variant":[
         "Indzhe K\u2019oy",
-        "Indzhekioy",
-        "Temenuga"
+        "Indzhekioy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1310136359,
-    "wof:lastmodified":1564177379,
+    "wof:lastmodified":1566613952,
     "wof:name":"Temenuga",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

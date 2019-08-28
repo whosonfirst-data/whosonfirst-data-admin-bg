@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.210011,
     "lbl:longitude":24.654668,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.210011,
     "mps:longitude":24.654668,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043d\u043a\u043e\u0432\u0441\u043a\u0438"
     ],
@@ -37,9 +40,6 @@
         "Mrezyan",
         "M\u00ferzyan"
     ],
-    "name:unk_x_variant":[
-        "Mrezyan"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
     "qs:a1_alt":"Plovdiv",
@@ -55,7 +55,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
         102191581,
@@ -67,7 +67,7 @@
         "fct:id":"037020b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733276,
         "gp:id":834926,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q5424849"
     },
     "wof:country":"BG",
@@ -84,7 +84,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325269,
+    "wof:lastmodified":1566614050,
     "wof:name":"\u0411\u0435\u043d\u043a\u043e\u0432\u0441\u043a\u0438",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

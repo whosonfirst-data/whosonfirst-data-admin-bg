@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.179315,
     "lbl:longitude":27.441174,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":43.179315,
     "mps:longitude":27.441174,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u067e\u0631\u0648\u0627\u062f\u06cc\u0627"
     ],
@@ -99,9 +102,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0430\u0434\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Provadidija"
-    ],
     "name:vie_x_preferred":[
         "Provadia"
     ],
@@ -128,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":654,
     "wof:belongsto":[
@@ -141,7 +141,6 @@
         "fct:id":"037252d6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727921,
         "gp:id":839026,
-        "qs:id":57475,
         "qs_pg:id":57475,
         "wd:id":"Q405801",
         "wk:page":"Provadia"
@@ -160,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325396,
+    "wof:lastmodified":1566614098,
     "wof:name":"\u041f\u0440\u043e\u0432\u0430\u0434\u0438\u044f",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

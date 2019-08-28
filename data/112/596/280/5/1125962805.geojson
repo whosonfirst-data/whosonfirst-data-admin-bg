@@ -9,14 +9,18 @@
     "geom:bbox":"25.85,41.66667,25.85,41.66667",
     "geom:latitude":41.66667,
     "geom:longitude":25.85,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BG",
+    "lbl:bbox":"25.83,41.64667,25.87,41.68667",
     "lbl:latitude":41.66667,
     "lbl:longitude":25.85,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u041f\u043e\u043b\u0435"
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0456\u0448\u043d\u0454 \u041f\u043e\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tursko Pole"
     ],
     "qs_pg:aaroncc":"BG",
@@ -72,7 +76,7 @@
     "qs_pg:woe_adm0":23424771,
     "qs_pg:woe_id":836553,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424771,
     "woe:name_adm0":"Bulgaria",
     "woe:name_adm1":"Khaskovo",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1125962805,
-    "wof:lastmodified":1563325564,
+    "wof:lastmodified":1566614168,
     "wof:name":"Gorno Pole",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

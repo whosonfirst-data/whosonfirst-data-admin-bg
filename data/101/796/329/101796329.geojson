@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.899953,
     "lbl:longitude":27.482428,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.899953,
     "mps:longitude":27.482428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0440\u0435\u0434\u0438\u0449\u0435"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0440\u0435\u0434\u0438\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
-        "Knyazhevo"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
     "qs:a1_alt":"Silistra",
@@ -67,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":550.0,
     "wd:latitude":43.383333,
     "wd:longitude":22.883333,
@@ -82,7 +82,7 @@
         "fct:id":"0372bdac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726933,
         "gp:id":839783,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2021188"
     },
     "wof:country":"BG",
@@ -99,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325418,
+    "wof:lastmodified":1566614105,
     "wof:name":"\u0421\u0440\u0435\u0434\u0438\u0449\u0435",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.888582,
     "lbl:longitude":26.446388,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":42.888582,
     "mps:longitude":26.446388,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0644"
     ],
@@ -101,9 +104,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0442\u0435\u043b"
     ],
-    "name:unk_x_variant":[
-        "Kazan"
-    ],
     "name:war_x_preferred":[
         "Kotel"
     ],
@@ -127,7 +127,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":643.0,
     "wd:latitude":42.883333,
@@ -143,7 +143,6 @@
         "fct:id":"0371712c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730073,
         "gp:id":56039988,
-        "qs:id":972288,
         "qs_pg:id":972288,
         "wd:id":"Q404822"
     },
@@ -161,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325424,
+    "wof:lastmodified":1566614108,
     "wof:name":"\u041a\u043e\u0442\u0435\u043b",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

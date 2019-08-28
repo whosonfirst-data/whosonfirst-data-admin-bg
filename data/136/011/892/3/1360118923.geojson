@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.23236,42.32381,27.27236,42.36381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0447\u0435\u0432\u043e"
     ],
@@ -55,8 +59,7 @@
         "K\u016drk Chal\u016d",
         "Dratschewo",
         "K\u016drk Chala",
-        "Kry Chal\u016d",
-        "Drachevo"
+        "Kry Chal\u016d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1360118923,
-    "wof:lastmodified":1564177441,
+    "wof:lastmodified":1566613994,
     "wof:name":"Drachevo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.41676,43.86455,26.45676,43.90455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0436\u0443\u0440\u043e\u0432\u043e"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260015707,
-    "wof:lastmodified":1537587736,
+    "wof:lastmodified":1566613931,
     "wof:name":"Bozhurovo",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.915974,
     "lbl:longitude":22.819701,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.915974,
     "mps:longitude":22.819701,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0646\u0627\u0648\u062a\u0633\u06cc"
     ],
@@ -74,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u043d\u0430\u0432\u0446\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dunavtzi"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":35.0,
     "wd:latitude":43.916667,
@@ -119,7 +122,6 @@
         "fct:id":"0370c088-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731809,
         "gp:id":836049,
-        "qs:id":1081073,
         "qs_pg:id":1081073,
         "wd:id":"Q405856",
         "wk:page":"Dunavtsi"
@@ -138,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325192,
+    "wof:lastmodified":1566614021,
     "wof:name":"\u0414\u0443\u043d\u0430\u0432\u0446\u0438",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.86333,42.66333,26.90333,42.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u0643\u0631\u0627"
     ],
@@ -114,8 +118,7 @@
     ],
     "name:und_x_variant":[
         "Tursko-Bey-K\u2019oy",
-        "Tursko-Beykioy",
-        "Iskra"
+        "Tursko-Beykioy"
     ],
     "name:zho_x_preferred":[
         "\u706b\u661f\u62a5"
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1243589065,
-    "wof:lastmodified":1564177572,
+    "wof:lastmodified":1566614209,
     "wof:name":"Iskra",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

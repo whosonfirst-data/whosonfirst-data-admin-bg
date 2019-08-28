@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.165405,
     "lbl:longitude":24.216559,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.165405,
     "mps:longitude":24.216559,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Daid\u017ea"
     ],
@@ -37,7 +40,7 @@
     "name:srp_x_preferred":[
         "\u0421\u0440\u043f\u0441\u043a\u0438 \u0441\u0440\u043e\u0434\u043d\u0438\u0447\u043a\u0438 \u043e\u0434\u043d\u043e\u0441\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u2019ose-Muratovo"
     ],
     "name:zho_x_preferred":[
@@ -58,7 +61,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":499,
     "wof:belongsto":[
         102191581,
@@ -70,7 +73,7 @@
         "fct:id":"03704734-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732930,
         "gp:id":835192,
-        "qs:id":403830,
+        "qs_pg:id":403830,
         "wd:id":"Q7452985"
     },
     "wof:country":"BG",
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325278,
+    "wof:lastmodified":1566614053,
     "wof:name":"\u0411\u0440\u0430\u0442\u0430\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.39368,41.365,25.43368,41.405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "Zlatolist"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1326866115,
-    "wof:lastmodified":1564176838,
+    "wof:lastmodified":1566613608,
     "wof:name":"Zlatolist",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

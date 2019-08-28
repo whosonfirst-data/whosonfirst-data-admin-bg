@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002217,
-    "geom:area_square_m":20022401.318454,
+    "geom:area_square_m":20022401.318457,
     "geom:bbox":"25.570764,43.057118,25.6653025,43.099177",
     "geom:latitude":43.074706,
     "geom:longitude":25.619799,
@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.072675,
     "lbl:longitude":25.619081,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":43.072675,
     "mps:longitude":25.619081,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u0644\u064a\u0643\u0648 \u062a\u0627\u0631\u0646\u0648\u0648"
     ],
@@ -220,9 +223,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043b\u0438\u043a\u043e\u0442\u0438\u0440\u043d\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
-        "Ternovo"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0644\u06cc\u06a9\u0648 \u062a\u0627\u0631\u0646\u0648\u0648 \u0635\u0648\u0628\u06c1"
     ],
@@ -256,7 +256,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -268,7 +268,6 @@
         "fct:id":"0373a26c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725993,
         "gp:id":840473,
-        "qs:id":1219047,
         "qs_pg:id":1219047
     },
     "wof:country":"BG",
@@ -285,7 +284,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505337696,
+    "wof:lastmodified":1566614118,
     "wof:name":"\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

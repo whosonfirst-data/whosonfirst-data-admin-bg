@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.022275,
     "lbl:longitude":26.46215,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.022275,
     "mps:longitude":26.46215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0423\u0441\u0442\u0440\u0435\u043c"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u0441\u0442\u0440\u0435\u043c"
     ],
-    "name:unk_x_variant":[
-        "Oustrem"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
     "qs:a1_alt":"Haskovo",
@@ -71,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":42.016667,
     "wd:longitude":26.466667,
     "wd:wordcount":38,
@@ -85,7 +85,7 @@
         "fct:id":"037310f4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726085,
         "gp:id":840404,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2021598",
         "wk:page":"Ustrem (village)"
     },
@@ -103,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837444,
+    "wof:lastmodified":1566614055,
     "wof:name":"\u0423\u0441\u0442\u0440\u0435\u043c",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

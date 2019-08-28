@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.45322,41.35842,25.49322,41.39842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u043b\u0432\u0438\u043d\u043e"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Delveler",
-        "Dedwino",
-        "Delvino"
+        "Dedwino"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343498089,
-    "wof:lastmodified":1564176950,
+    "wof:lastmodified":1566613680,
     "wof:name":"Delvino",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

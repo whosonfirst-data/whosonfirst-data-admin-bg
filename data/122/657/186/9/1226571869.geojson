@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.55594,41.97544,26.59594,42.01544",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0441\u043e\u0432\u043e"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226571869,
-    "wof:lastmodified":1537587519,
+    "wof:lastmodified":1566614293,
     "wof:name":"Lesovo",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

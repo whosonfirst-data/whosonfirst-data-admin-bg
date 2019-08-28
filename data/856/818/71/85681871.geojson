@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":43.924299,
     "lbl:longitude":27.098866,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.924299,
     "mps:longitude":27.098866,
     "mz:hierarchy_label":1,
@@ -234,7 +235,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043b\u0456\u0441\u0442\u0440\u0438\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Silistrenski Okr\u016dg"
     ],
     "name:urd_x_preferred":[
@@ -319,9 +320,9 @@
     "qs:type":"\u041e\u0431\u043b\u0430\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-01",
+    "src:population_date":"2011-02-01",
     "statoids:area_km":"2,846",
     "statoids:area_mi":"1,099",
     "statoids:as_of_date":"2011-02-01",
@@ -366,11 +367,10 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1565654073,
+    "wof:lastmodified":1566613715,
     "wof:name":"\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":119474,
     "wof:population_rank":9,

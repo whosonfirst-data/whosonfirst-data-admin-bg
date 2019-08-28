@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.032814,
     "lbl:longitude":24.301878,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":42.032814,
     "mps:longitude":24.301878,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u067e\u0634\u062a\u0631\u0627"
     ],
@@ -104,9 +107,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0448\u0442\u0435\u0440\u0430"
     ],
-    "name:unk_x_variant":[
-        "Momarsko"
-    ],
     "name:vie_x_preferred":[
         "Peshtera"
     ],
@@ -133,7 +133,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":450.0,
     "wd:latitude":42.033333,
@@ -149,7 +149,6 @@
         "fct:id":"0372250e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728317,
         "gp:id":838706,
-        "qs:id":762601,
         "qs_pg:id":762601,
         "wd:id":"Q407570",
         "wk:page":"Peshtera"
@@ -168,7 +167,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325282,
+    "wof:lastmodified":1566614054,
     "wof:name":"\u041f\u0435\u0449\u0435\u0440\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

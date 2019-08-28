@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.97426,42.98916,23.01426,43.02916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0443\u0434\u0435\u043d"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360319199,
-    "wof:lastmodified":1537587295,
+    "wof:lastmodified":1566613989,
     "wof:name":"Tuden",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

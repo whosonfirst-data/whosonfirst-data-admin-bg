@@ -9,14 +9,18 @@
     "geom:bbox":"28.53333,43.6,28.53333,43.6",
     "geom:latitude":43.6,
     "geom:longitude":28.53333,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BG",
+    "lbl:bbox":"28.51333,43.58,28.55333,43.62",
     "lbl:latitude":43.6,
     "lbl:longitude":28.53333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0415\u0437\u0435\u0440\u0435\u0446"
@@ -42,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0404\u0437\u0435\u0440\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Satlamus"
     ],
     "qs_pg:aaroncc":"BG",
@@ -66,7 +70,7 @@
     "qs_pg:woe_adm0":23424771,
     "qs_pg:woe_id":836187,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424771,
     "woe:name_adm0":"Bulgaria",
     "woe:name_adm1":"Dobrich",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1125962755,
-    "wof:lastmodified":1563325565,
+    "wof:lastmodified":1566614168,
     "wof:name":"Ezerets",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

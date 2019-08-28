@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.7635,43.64581,27.8035,43.68581",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0420\u043e\u0441\u0435\u043d\u043e\u0432\u043e"
     ],
@@ -50,8 +54,7 @@
         "Carasinan",
         "Kara Sinan",
         "Oberleutnant Limonov",
-        "Poruchik Limonovo",
-        "Rosenovo"
+        "Poruchik Limonovo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1260131069,
-    "wof:lastmodified":1564177336,
+    "wof:lastmodified":1566613921,
     "wof:name":"Rosenovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

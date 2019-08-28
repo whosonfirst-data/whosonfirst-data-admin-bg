@@ -9,14 +9,18 @@
     "geom:bbox":"23.3,41.56667,23.3,41.56667",
     "geom:latitude":41.56667,
     "geom:longitude":23.3,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BG",
+    "lbl:bbox":"23.28,41.54667,23.32,41.58667",
     "lbl:latitude":41.56667,
     "lbl:longitude":23.3,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u0435\u043d\u0438\u0446\u0430"
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u043e\u043b\u0435\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poleniza"
     ],
     "qs_pg:aaroncc":"BG",
@@ -84,7 +88,7 @@
     "qs_pg:woe_adm0":23424833,
     "qs_pg:woe_id":958608,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424833,
     "woe:name_adm0":"\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
     "woe:name_adm1":"Macedonia and Thrace",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1125872003,
-    "wof:lastmodified":1563325562,
+    "wof:lastmodified":1566614167,
     "wof:name":"Osenitsa",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

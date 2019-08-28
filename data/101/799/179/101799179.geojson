@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.255604,
     "lbl:longitude":22.852777,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":42.255604,
     "mps:longitude":22.852777,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0435\u0432\u0435\u0441\u0442\u0438\u043d\u043e"
     ],
@@ -73,9 +76,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0432\u0435\u0441\u0442\u0438\u043d\u043e"
     ],
-    "name:unk_x_variant":[
-        "Newestino"
-    ],
     "name:war_x_preferred":[
         "Nevestino"
     ],
@@ -99,7 +99,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":42.256389,
     "wd:longitude":22.853333,
@@ -114,7 +114,6 @@
         "fct:id":"0371ed32-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728818,
         "gp:id":838309,
-        "qs:id":422448,
         "qs_pg:id":422448,
         "wd:id":"Q2994062",
         "wk:page":"Nevestino, Kyustendil Province"
@@ -133,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325293,
+    "wof:lastmodified":1566614058,
     "wof:name":"\u041d\u0435\u0432\u0435\u0441\u0442\u0438\u043d\u043e",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

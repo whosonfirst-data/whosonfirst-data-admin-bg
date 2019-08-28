@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.53,41.74667,25.57,41.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u0412\u043e\u0439\u0432\u043e\u0434\u0438\u043d\u043e"
     ],
@@ -50,7 +54,6 @@
     ],
     "name:und_x_variant":[
         "Chitaklar Atik",
-        "Gorno Wojwodino",
         "Gorno Voyvodino"
     ],
     "src:geom":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1327468687,
-    "wof:lastmodified":1564176872,
+    "wof:lastmodified":1566613630,
     "wof:name":"Gorno Voyvodino",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

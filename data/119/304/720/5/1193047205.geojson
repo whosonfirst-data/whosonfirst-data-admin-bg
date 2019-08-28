@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.65525,42.19805,27.69525,42.23805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u0441\u043c\u0435\u043d\u043e\u0432\u043e"
     ],
@@ -54,8 +58,7 @@
         "Chiflik-Uruziya",
         "Uzun Chair",
         "Pismenowo",
-        "Pismonovo",
-        "Pismenovo"
+        "Pismonovo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1193047205,
-    "wof:lastmodified":1564177315,
+    "wof:lastmodified":1566613909,
     "wof:name":"Pismenovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

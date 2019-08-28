@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.38,42.24667,26.42,42.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0440\u0443\u043c\u043e\u0432\u043e"
     ],
@@ -58,9 +62,7 @@
     ],
     "name:und_x_variant":[
         "Gyuyumliy",
-        "Krumowo",
-        "Gyuyumlii",
-        "Krumovo"
+        "Gyuyumlii"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +85,7 @@
         }
     ],
     "wof:id":1310037007,
-    "wof:lastmodified":1564177407,
+    "wof:lastmodified":1566613971,
     "wof:name":"Krumovo",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

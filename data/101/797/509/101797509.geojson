@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.650939,
     "lbl:longitude":27.572717,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.650939,
     "mps:longitude":27.572717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043f\u0435\u043b\u0438\u0442"
     ],
@@ -46,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043f\u0435\u043b\u0456\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stejarul"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -64,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":45,
     "wof:belongsto":[
         102191581,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":730590,
         "gp:id":836982,
-        "qs:id":883570,
+        "qs_pg:id":883570,
         "wd:id":"Q1082043",
         "wk:page":"Karapelit"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101797509,
-    "wof:lastmodified":1563325201,
+    "wof:lastmodified":1566614024,
     "wof:name":"\u041a\u0430\u0440\u0430\u043f\u0435\u043b\u0438\u0442",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

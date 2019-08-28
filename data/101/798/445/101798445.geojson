@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.008697,
     "lbl:longitude":27.627535,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.008697,
     "mps:longitude":27.627535,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0435\u043d \u0427\u0438\u0444\u043b\u0438\u043a"
     ],
@@ -74,9 +77,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0456\u0448\u043d\u0456\u0439 \u0427\u0438\u0444\u043b\u0438\u043a"
     ],
-    "name:unk_x_variant":[
-        "Gorni-Chnflik"
-    ],
     "name:vie_x_preferred":[
         "Dolni Chiflik"
     ],
@@ -98,7 +98,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":226,
     "wof:belongsto":[
         102191581,
@@ -110,7 +110,7 @@
         "fct:id":"0370f67a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731272,
         "gp:id":836457,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q2715362"
     },
     "wof:country":"BG",
@@ -127,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325351,
+    "wof:lastmodified":1566614082,
     "wof:name":"\u0413\u043e\u0440\u0435\u043d \u0447\u0438\u0444\u043b\u0438\u043a",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

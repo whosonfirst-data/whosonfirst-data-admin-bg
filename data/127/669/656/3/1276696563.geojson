@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.73,43.63,26.77,43.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e \u0421\u0435\u043b\u0438\u0449\u0435"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276696563,
-    "wof:lastmodified":1537587336,
+    "wof:lastmodified":1566613796,
     "wof:name":"Staro Selishte",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

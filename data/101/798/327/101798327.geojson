@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.777398,
     "lbl:longitude":27.169803,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.777398,
     "mps:longitude":27.169803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u0430\u0439\u0447\u0430\u0440"
     ],
@@ -54,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0439\u0447\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Pedlzhenler"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0411\u0443\u0440\u0433\u0430\u0441",
     "qs:a1_alt":"Burgas",
@@ -72,7 +72,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191581,
@@ -84,7 +84,7 @@
         "fct:id":"03735262-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725428,
         "gp:id":840909,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1075547",
         "wk:page":"Zaychar"
     },
@@ -102,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325365,
+    "wof:lastmodified":1566614086,
     "wof:name":"\u0417\u0430\u0439\u0447\u0430\u0440",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

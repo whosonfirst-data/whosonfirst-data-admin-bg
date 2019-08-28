@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.98046,
     "lbl:longitude":26.494267,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.98046,
     "mps:longitude":26.494267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u0438\u043b\u0430\u0440\u0435\u0442\u043e\u0432\u043e"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u043b\u0430\u0440\u0435\u0442\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Khamzalar"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u043b\u0438\u0432\u0435\u043d",
     "qs:a1_alt":"Sliven",
@@ -65,7 +65,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -76,7 +76,7 @@
         "fct:id":"0370d56e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731603,
         "gp:id":836198,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2021904"
     },
     "wof:country":"BG",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325476,
+    "wof:lastmodified":1566614124,
     "wof:name":"\u0424\u0438\u043b\u0430\u0440\u0435\u0442\u043e\u0432\u043e",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

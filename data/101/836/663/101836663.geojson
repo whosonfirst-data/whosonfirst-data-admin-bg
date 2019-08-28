@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.822172,
     "lbl:longitude":23.236888,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":43.822172,
     "mps:longitude":23.236888,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041b\u043e\u043c"
     ],
@@ -75,9 +78,6 @@
     "name:tat_x_preferred":[
         "\u041b\u043e\u043c"
     ],
-    "name:unk_x_variant":[
-        "Dzhembek Makhala"
-    ],
     "name:vie_x_preferred":[
         "Lom"
     ],
@@ -101,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":185,
     "wof:belongsto":[
@@ -114,7 +114,6 @@
         "fct:id":"0371a340-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729581,
         "gp:id":837731,
-        "qs:id":218868,
         "qs_pg:id":218868,
         "wd:id":"Q288100",
         "wk:page":"Lom Municipality"
@@ -133,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325522,
+    "wof:lastmodified":1566614143,
     "wof:name":"\u041b\u043e\u043c",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

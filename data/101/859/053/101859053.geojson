@@ -10,12 +10,16 @@
     "geom:latitude":41.358792,
     "geom:longitude":25.214284,
     "iso:country":"BG",
+    "lbl:bbox":"25.194284,41.338792,25.234284,41.378792",
     "lbl:latitude":41.358792,
     "lbl:longitude":25.214284,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.358792,
     "mps:longitude":25.214284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435"
     ],
@@ -44,9 +48,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435"
     ],
-    "name:unk_x_variant":[
-        "Yurtchular"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
     "qs:a1_alt":"Kardzhali",
@@ -64,7 +65,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191581,
@@ -76,7 +77,7 @@
         "fct:id":"0371dab8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729003,
         "gp:id":838166,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1083214"
     },
     "wof:country":"BG",
@@ -93,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325428,
+    "wof:lastmodified":1566614110,
     "wof:name":"\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

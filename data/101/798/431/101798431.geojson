@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.021908,
     "lbl:longitude":26.560583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.021908,
     "mps:longitude":26.560583,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0627\u0631\u063a\u0648\u0641\u064a\u0634\u062a\u0647"
     ],
@@ -194,7 +197,7 @@
         "Targovisjte"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bb0\u0bcd\u0b95\u0bcb\u0bb5\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9f\u0bb0\u0bcd\u0b95\u0bcb\u0bb5\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c30\u0c4d\u0c17\u0c4b\u0c35\u0c3f\u0c37\u0c4d\u0c1f\u0c46 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -210,9 +213,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
-        "Kara-Atlar"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u06af\u0648\u0648\u06cc\u0634\u062a\u06d2 \u0635\u0648\u0628\u06c1"
@@ -241,7 +241,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":988,
     "wof:belongsto":[
         102191581,
@@ -253,7 +253,7 @@
         "fct:id":"03733354-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725726,
         "gp:id":840670,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2012589"
     },
     "wof:country":"BG",
@@ -270,7 +270,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325322,
+    "wof:lastmodified":1566614070,
     "wof:name":"\u0412\u0440\u0430\u043d\u0438 \u043a\u043e\u043d",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

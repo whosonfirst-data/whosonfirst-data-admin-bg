@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.406273,
     "lbl:longitude":26.571344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.406273,
     "mps:longitude":26.571344,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0438\u043d\u044f \u0412\u043e\u0434\u0430"
     ],
@@ -67,7 +70,7 @@
     "name:swe_x_preferred":[
         "Obsjtina Loznitsa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u2019okche Su"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":226,
     "wof:belongsto":[
         102191581,
@@ -103,7 +106,7 @@
         "fct:id":"0372a042-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727189,
         "gp:id":839573,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2717061"
     },
     "wof:country":"BG",
@@ -120,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325181,
+    "wof:lastmodified":1566614017,
     "wof:name":"\u0421\u0438\u043d\u044f \u0432\u043e\u0434\u0430",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.46333,43.46333,23.50333,43.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u0434\u0435\u0448\u043d\u0438\u0446\u0430"
     ],
@@ -60,8 +64,7 @@
     ],
     "name:und_x_variant":[
         "Gradezhnitsa",
-        "Gradeschniza",
-        "Gradeshnitsa"
+        "Gradeschniza"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1259717393,
-    "wof:lastmodified":1564177637,
+    "wof:lastmodified":1566614250,
     "wof:name":"Gradeshnitsa",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

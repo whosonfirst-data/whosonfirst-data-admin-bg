@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.006941,
     "lbl:longitude":25.59574,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.006941,
     "mps:longitude":25.59574,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0430 \u043a\u0440\u0435\u043f\u043e\u0441\u0442"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0456\u0448\u043d\u044f \u041a\u0440\u0435\u043f\u043e\u0441\u0442"
     ],
-    "name:unk_x_variant":[
-        "Golyamo Yurendzhik"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
     "qs:a1_alt":"Haskovo",
@@ -72,7 +72,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -100,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325257,
+    "wof:lastmodified":1566614045,
     "wof:name":"\u041a\u0440\u0435\u043f\u043e\u0441\u0442",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

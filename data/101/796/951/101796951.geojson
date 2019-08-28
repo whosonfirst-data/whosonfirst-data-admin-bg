@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000156,
+    "geom:area_square_m":1417742.524795,
     "geom:bbox":"26.3153154234,42.5834229825,26.329730886,42.6017826098",
     "geom:latitude":42.59267,
     "geom:longitude":26.322743,
     "iso:country":"BG",
     "lbl:latitude":42.591638,
     "lbl:longitude":26.323327,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.591638,
     "mps:longitude":26.323327,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043c\u0443\u0438\u043b\u043e\u0432\u043e"
     ],
@@ -25,9 +30,6 @@
         "Tursunli",
         "Tursunlii",
         "Tursunliy"
-    ],
-    "name:unk_x_variant":[
-        "Tursunlii"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u043b\u0438\u0432\u0435\u043d",
@@ -44,7 +46,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -55,7 +57,7 @@
         "fct:id":"037286ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727450,
         "gp:id":839390,
-        "qs:id":5
+        "qs_pg:id":5
     },
     "wof:country":"BG",
     "wof:geomhash":"04546d27bcf36015eb08101c846e603d",
@@ -71,7 +73,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501215845,
+    "wof:lastmodified":1566614101,
     "wof:name":"\u0421\u0430\u043c\u0443\u0438\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

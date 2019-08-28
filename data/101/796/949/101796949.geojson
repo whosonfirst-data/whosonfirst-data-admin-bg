@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000432,
+    "geom:area_square_m":3933725.43318,
     "geom:bbox":"26.4703263054,42.5835609019,26.5045913689,42.6103105394",
     "geom:latitude":42.596149,
     "geom:longitude":26.484772,
     "iso:country":"BG",
     "lbl:latitude":42.593836,
     "lbl:longitude":26.483085,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.593836,
     "mps:longitude":26.483085,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0416\u0435\u043b\u044e \u0412\u043e\u0439\u0432\u043e\u0434\u0430"
     ],
@@ -30,9 +35,6 @@
         "Shelju Woiwoda",
         "Zhelju Vojvoda"
     ],
-    "name:unk_x_variant":[
-        "Cherkishliy"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u043b\u0438\u0432\u0435\u043d",
     "qs:a1_alt":"Sliven",
@@ -48,7 +50,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -59,7 +61,7 @@
         "fct:id":"03735aaa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725363,
         "gp:id":840965,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"BG",
     "wof:geomhash":"fda1b72d67598d250014c7d68491ed45",
@@ -75,7 +77,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501215827,
+    "wof:lastmodified":1566614100,
     "wof:name":"\u0416\u0435\u043b\u044e \u0412\u043e\u0439\u0432\u043e\u0434\u0430",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

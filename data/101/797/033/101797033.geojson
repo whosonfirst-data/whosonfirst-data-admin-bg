@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.427701,
     "lbl:longitude":23.750009,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.427701,
     "mps:longitude":23.750009,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0430\u043d"
     ],
@@ -65,9 +68,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u043e\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Borowan"
-    ],
     "name:war_x_preferred":[
         "Borovan"
     ],
@@ -91,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":162.0,
     "wd:latitude":43.433333,
@@ -107,7 +107,6 @@
         "fct:id":"0370388e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733058,
         "gp:id":835089,
-        "qs:id":129003,
         "qs_pg:id":129003,
         "wd:id":"Q2565618"
     },
@@ -125,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325222,
+    "wof:lastmodified":1566614032,
     "wof:name":"\u0411\u043e\u0440\u043e\u0432\u0430\u043d",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

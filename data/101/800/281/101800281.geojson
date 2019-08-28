@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.350487,
     "lbl:longitude":25.159819,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.350487,
     "mps:longitude":25.159819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440"
     ],
@@ -37,7 +40,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0441\u044c\u043a\u0438\u0439 \u0406\u0437\u0432\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurudzha Dere"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -55,7 +58,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":37,
     "wof:belongsto":[
         102191581,
@@ -65,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":731137,
-        "qs:id":3,
+        "qs_pg:id":3,
         "wd:id":"Q4145900"
     },
     "wof:country":"BG",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101800281,
-    "wof:lastmodified":1561837455,
+    "wof:lastmodified":1566614129,
     "wof:name":"\u0413\u043e\u0440\u0441\u043a\u0438 \u0438\u0437\u0432\u043e\u0440",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

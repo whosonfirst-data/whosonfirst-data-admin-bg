@@ -10,12 +10,16 @@
     "geom:latitude":41.386246,
     "geom:longitude":25.351793,
     "iso:country":"BG",
+    "lbl:bbox":"25.331793,41.366246,25.371793,41.406246",
     "lbl:latitude":41.386246,
     "lbl:longitude":25.351793,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.386246,
     "mps:longitude":25.351793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
@@ -36,9 +40,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Khatibolar"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
     "qs:a1_alt":"Kardzhali",
@@ -56,7 +57,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":36,
     "wof:belongsto":[
         102191581,
@@ -68,7 +69,7 @@
         "fct:id":"0370d712-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731589,
         "gp:id":836207,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q4492173"
     },
     "wof:country":"BG",
@@ -85,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837452,
+    "wof:lastmodified":1566614109,
     "wof:name":"\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.0968,42.63172,27.1368,42.67172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0443\u043a\u0430\u0440\u043a\u0430"
     ],
@@ -56,8 +60,7 @@
     ],
     "name:und_x_variant":[
         "Tas Tepe",
-        "Tschukarka",
-        "Chukarka"
+        "Tschukarka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1344190903,
-    "wof:lastmodified":1564176972,
+    "wof:lastmodified":1566613693,
     "wof:name":"Chukarka",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.661962,
     "lbl:longitude":24.374732,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.661962,
     "mps:longitude":24.374732,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u044c\u043e\u0432\u0440\u0435\u043d"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u044c\u043e\u0432\u0440\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gjowren"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":261,
     "wof:belongsto":[
         102191581,
@@ -80,9 +83,11 @@
     "wof:concordances":{
         "gn:id":731100,
         "gp:id":836217,
-        "qs:id":8,
-        "qs_pg:id":249898,
+        "qs_pg:id":8,
         "wd:id":"Q3623055"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":249898
     },
     "wof:country":"BG",
     "wof:geomhash":"5d351064f533f4c935b612300d315c9f",
@@ -95,7 +100,7 @@
         }
     ],
     "wof:id":101800227,
-    "wof:lastmodified":1563325484,
+    "wof:lastmodified":1566614128,
     "wof:name":"\u0413\u044c\u043e\u0432\u0440\u0435\u043d",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

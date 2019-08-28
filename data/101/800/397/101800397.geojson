@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.835853,
     "lbl:longitude":25.33042,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.835853,
     "mps:longitude":25.33042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u0446\u0438"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u0446\u0456"
     ],
-    "name:unk_x_variant":[
-        "Ulu-Dere-Karamanli"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
     "qs:a1_alt":"Haskovo",
@@ -77,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.834444,
     "wd:longitude":25.329444,
     "wd:wordcount":39,
@@ -91,7 +91,7 @@
         "fct:id":"0371408a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730601,
         "gp:id":836974,
-        "qs:id":404339,
+        "qs_pg:id":404339,
         "wd:id":"Q2653788",
         "wk:page":"Karamantsi"
     },
@@ -109,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325483,
+    "wof:lastmodified":1566614127,
     "wof:name":"\u041a\u0430\u0440\u0430\u043c\u0430\u043d\u0446\u0438",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

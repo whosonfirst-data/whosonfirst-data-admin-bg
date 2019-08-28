@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.79667,41.48,23.83667,41.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u062f\u0648\u0648"
     ],
@@ -76,10 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0434\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "Sadowo",
-        "Sadovo"
-    ],
     "name:vie_x_preferred":[
         "Sadovo"
     ],
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":1209658069,
-    "wof:lastmodified":1564177210,
+    "wof:lastmodified":1566613841,
     "wof:name":"Sadovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

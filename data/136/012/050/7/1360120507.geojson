@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.6481,41.3186,25.6881,41.3586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u0432\u0435\u0441\u0438\u043b\u043e\u0432\u043e"
     ],
@@ -53,8 +57,7 @@
     ],
     "name:und_x_variant":[
         "Dewissolowo",
-        "Dikili Kainl\u016dk",
-        "Devesilovo"
+        "Dikili Kainl\u016dk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1360120507,
-    "wof:lastmodified":1564177425,
+    "wof:lastmodified":1566613982,
     "wof:name":"Devesilovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

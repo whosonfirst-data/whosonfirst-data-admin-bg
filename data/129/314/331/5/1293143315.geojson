@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.76933,43.48708,27.80933,43.52708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u0434\u0430\u043d"
     ],
@@ -70,8 +74,7 @@
     ],
     "name:und_x_variant":[
         "Bogdanovo",
-        "Bogdanova",
-        "Bogdan"
+        "Bogdanova"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1293143315,
-    "wof:lastmodified":1564177056,
+    "wof:lastmodified":1566613752,
     "wof:name":"Bogdan",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

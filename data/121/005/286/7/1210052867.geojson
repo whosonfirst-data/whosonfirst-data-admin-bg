@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.47026,42.82189,25.51026,42.86189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u062c\u064a\u0644\u0627\u064a\u062a"
     ],
@@ -41,8 +45,7 @@
     ],
     "name:und_x_variant":[
         "Bumalcha",
-        "Bumal\u016da",
-        "Mogilite"
+        "Bumal\u016da"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1210052867,
-    "wof:lastmodified":1564177305,
+    "wof:lastmodified":1566613903,
     "wof:name":"Mogilite",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.133018,
     "lbl:longitude":24.602102,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.133018,
     "mps:longitude":24.602102,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0434\u0438\u0435\u0432\u043e"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0434\u0456\u0454\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Kadiewo"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
     "qs:a1_alt":"Plovdiv",
@@ -67,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -78,7 +78,7 @@
         "fct:id":"03712df2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730789,
         "gp:id":836851,
-        "qs:id":1272571,
+        "qs_pg:id":1272571,
         "wd:id":"Q2459382"
     },
     "wof:country":"BG",
@@ -95,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325301,
+    "wof:lastmodified":1566614061,
     "wof:name":"\u041a\u0430\u0434\u0438\u0435\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

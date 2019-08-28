@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.01333,41.54667,25.05333,41.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0443\u0441\u0435\u0432\u043e"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Muse",
-        "Mussewo",
-        "Musevo"
+        "Mussewo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1209137187,
-    "wof:lastmodified":1564177247,
+    "wof:lastmodified":1566613864,
     "wof:name":"Musevo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

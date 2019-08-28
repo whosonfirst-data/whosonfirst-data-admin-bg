@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.38734,41.45081,25.42734,41.49081",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d\u0435\u0446"
     ],
@@ -46,8 +50,7 @@
         "Bektash",
         "Bektaschi",
         "Bekta\u0161i",
-        "Bektashler",
-        "Kamenets"
+        "Bektashler"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1293326443,
-    "wof:lastmodified":1564177071,
+    "wof:lastmodified":1566613762,
     "wof:name":"Kamenets",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

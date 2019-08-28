@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.507732,
     "lbl:longitude":25.363301,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.507732,
     "mps:longitude":25.363301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u0437\u043b\u043e\u0432\u0435\u0446"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0437\u043b\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
-        "Turska Sliva"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
     "qs:a1_alt":"Veliko Tarnovo",
@@ -71,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":187,
     "wof:belongsto":[
         102191581,
@@ -83,7 +83,7 @@
         "fct:id":"03717744-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":730009,
         "gp:id":837395,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1077483"
     },
     "wof:country":"BG",
@@ -100,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325202,
+    "wof:lastmodified":1566614025,
     "wof:name":"\u041a\u043e\u0437\u043b\u043e\u0432\u0435\u0446",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

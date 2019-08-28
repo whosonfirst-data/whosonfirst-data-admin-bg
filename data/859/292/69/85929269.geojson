@@ -10,8 +10,10 @@
     "geom:latitude":42.698772,
     "geom:longitude":23.337391,
     "iso:country":"BG",
+    "lbl:bbox":"23.332391,42.693772,23.342391,42.703772",
     "lbl:latitude":42.698772,
     "lbl:longitude":23.337391,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.699287,
     "mps:longitude":23.337547,
     "mz:hierarchy_label":0,
@@ -53,9 +55,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0431\u043e\u0440\u0438\u0448\u0442\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Oborishte"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_id":0,
@@ -111,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566613709,
     "wof:name":"Oborishte",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

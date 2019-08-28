@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.59455,
     "lbl:longitude":25.207317,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":42.59455,
     "mps:longitude":25.207317,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0644 \u0628\u0627\u0646\u064a\u0627"
     ],
@@ -105,7 +108,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0432\u0435\u043b-\u0411\u0430\u043d\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u016ddzha K\u2019oy"
     ],
     "name:vie_x_preferred":[
@@ -135,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1203,
     "wof:belongsto":[
@@ -148,7 +151,6 @@
         "fct:id":"03721df2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728389,
         "gp:id":838653,
-        "qs:id":915457,
         "qs_pg:id":915457,
         "wd:id":"Q407336",
         "wk:page":"Pavel Banya"
@@ -167,7 +169,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325339,
+    "wof:lastmodified":1566614077,
     "wof:name":"\u041f\u0430\u0432\u0435\u043b \u0431\u0430\u043d\u044f",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

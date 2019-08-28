@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.34381,41.80529,26.38381,41.84529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0429\u0438\u0442"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1293136843,
-    "wof:lastmodified":1564177054,
+    "wof:lastmodified":1566613751,
     "wof:name":"Shtit",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

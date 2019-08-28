@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.08,42.93,24.12,42.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u044a\u043b\u0433\u0430 \u043b\u0438\u0432\u0430\u0434\u0430"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209953051,
-    "wof:lastmodified":1537587659,
+    "wof:lastmodified":1566613871,
     "wof:name":"Dalga Livada",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

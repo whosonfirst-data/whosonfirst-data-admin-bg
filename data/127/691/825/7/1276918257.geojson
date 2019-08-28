@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.61239,43.61282,27.65239,43.65282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u0430\u0434\u0438\u043d\u043e\u0432\u0446\u0438"
     ],
@@ -43,9 +47,7 @@
     ],
     "name:und_x_variant":[
         "Denicler",
-        "Miladinovci",
-        "Diynekler",
-        "Miladinovtsi"
+        "Diynekler"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1276918257,
-    "wof:lastmodified":1564177188,
+    "wof:lastmodified":1566613828,
     "wof:name":"Miladinovtsi",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.228232,
     "lbl:longitude":26.661632,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.228232,
     "mps:longitude":26.661632,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0631\u063a\u0648\u0641\u064a\u0634\u062a\u0647"
     ],
@@ -202,7 +205,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0438\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayachkioy"
     ],
     "name:urd_x_preferred":[
@@ -233,7 +236,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":170.0,
     "wd:latitude":43.259167,
     "wd:longitude":26.589167,
@@ -247,7 +250,7 @@
     "wof:concordances":{
         "gn:id":733408,
         "gp:id":834837,
-        "qs:id":1272170,
+        "qs_pg:id":1272170,
         "wd:id":"Q185114"
     },
     "wof:country":"BG",
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":101798417,
-    "wof:lastmodified":1563325343,
+    "wof:lastmodified":1566614079,
     "wof:name":"\u0411\u0430\u044f\u0447\u0435\u0432\u043e",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

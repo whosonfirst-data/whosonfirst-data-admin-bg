@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.431961,
     "lbl:longitude":27.825093,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.431961,
     "mps:longitude":27.825093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u043e\u0436\u0435\u0440"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u043e\u0436\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baladsha"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -70,7 +73,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":43.45,
     "wd:longitude":27.816667,
     "wd:wordcount":38,
@@ -83,7 +86,7 @@
     "wof:concordances":{
         "gn:id":726754,
         "gp:id":835902,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q1081949",
         "wk:page":"Stozher"
     },
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101846519,
-    "wof:lastmodified":1563325471,
+    "wof:lastmodified":1566614122,
     "wof:name":"\u0421\u0442\u043e\u0436\u0435\u0440",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"28.0738,43.51888,28.1138,43.55888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u044a\u0431\u0440\u0430\u0432\u0430"
     ],
@@ -55,7 +59,6 @@
     ],
     "name:und_x_variant":[
         "Meshe Makhle",
-        "D\u0103brava",
         "Mese-Mahle",
         "Dabrawa",
         "D\u016dbrava"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1327484821,
-    "wof:lastmodified":1564176870,
+    "wof:lastmodified":1566613629,
     "wof:name":"Dabrava",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

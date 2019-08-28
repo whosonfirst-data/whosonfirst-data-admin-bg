@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.38,42.84667,23.42,42.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041b\u0443\u043a\u0430\u0432\u0430"
     ],
@@ -65,8 +69,7 @@
         "\u041b\u0443\u043a\u043e\u0432\u0435"
     ],
     "name:und_x_variant":[
-        "Lukowo",
-        "Lukovo"
+        "Lukowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1292941573,
-    "wof:lastmodified":1564177018,
+    "wof:lastmodified":1566613731,
     "wof:name":"Lukovo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

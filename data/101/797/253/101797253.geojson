@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.327439,
     "lbl:longitude":24.259262,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.327439,
     "mps:longitude":24.259262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u043b\u0438\u0448"
     ],
@@ -61,9 +64,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u043b\u0438\u0448"
     ],
-    "name:unk_x_variant":[
-        "Azizie"
-    ],
     "name:zho_x_preferred":[
         "\u7279\u5229\u4ec0\u5ca9"
     ],
@@ -82,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":185,
     "wof:belongsto":[
         102191581,
@@ -94,7 +94,7 @@
         "fct:id":"0372ea70-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726491,
         "gp:id":840106,
-        "qs:id":915542,
+        "qs_pg:id":915542,
         "wd:id":"Q2021841"
     },
     "wof:country":"BG",
@@ -111,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325219,
+    "wof:lastmodified":1566614031,
     "wof:name":"\u0422\u0435\u043b\u0438\u0448",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

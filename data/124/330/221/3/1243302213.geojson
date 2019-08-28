@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.34667,43.66333,27.38667,43.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u043e\u0439\u043d\u0438\u043a\u043e\u0432\u043e"
     ],
@@ -54,10 +58,8 @@
     ],
     "name:und_x_variant":[
         "Kavurga",
-        "Voinikovo",
         "Bej\u00fck Machala",
-        "Biuiuk",
-        "Voynikovo"
+        "Biuiuk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":1243302213,
-    "wof:lastmodified":1564177526,
+    "wof:lastmodified":1566614182,
     "wof:name":"Voynikovo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

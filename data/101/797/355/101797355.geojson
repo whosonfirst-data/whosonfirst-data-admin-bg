@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.993151,
     "lbl:longitude":27.716451,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":42.993151,
     "mps:longitude":27.716451,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0414\u043e\u043b\u043d\u0438 \u0447\u0438\u0444\u043b\u0438\u043a"
     ],
@@ -81,9 +84,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0456\u0448\u043d\u0456\u0439 \u0427\u0438\u0444\u043b\u0438\u043a"
     ],
-    "name:unk_x_variant":[
-        "Dol\u00e8n Tchiflik"
-    ],
     "name:vie_x_preferred":[
         "Dolni Chiflik"
     ],
@@ -107,7 +107,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":226,
     "wof:belongsto":[
@@ -120,7 +120,6 @@
         "fct:id":"03709f18-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731453,
         "gp:id":835802,
-        "qs:id":1272365,
         "qs_pg:id":1272365,
         "wd:id":"Q2715362",
         "wk:page":"Dolni Chiflik Municipality"
@@ -139,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325155,
+    "wof:lastmodified":1566614007,
     "wof:name":"\u0414\u043e\u043b\u043d\u0438 \u0447\u0438\u0444\u043b\u0438\u043a",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.31333,42.23,26.35333,42.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u0430\u0434\u0438\u043d\u043e\u0432\u0446\u0438"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "Kalfakioy",
         "Miladinowzi",
-        "Kalfa K\u2019oy",
-        "Miladinovtsi"
+        "Kalfa K\u2019oy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1209650197,
-    "wof:lastmodified":1564177208,
+    "wof:lastmodified":1566613841,
     "wof:name":"Miladinovtsi",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

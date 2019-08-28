@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.36333,41.86333,25.40333,41.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0438\u0440\u0430\u043a\u043e\u0432\u043e"
     ],
@@ -56,9 +60,7 @@
         "\u0421\u0438\u0440\u0430\u043a\u043e\u0432\u043e"
     ],
     "name:und_x_variant":[
-        "Yusuz K\u2019oy",
-        "Sirakowo",
-        "Sirakovo"
+        "Yusuz K\u2019oy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +83,7 @@
         }
     ],
     "wof:id":1310339711,
-    "wof:lastmodified":1564177421,
+    "wof:lastmodified":1566613979,
     "wof:name":"Sirakovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

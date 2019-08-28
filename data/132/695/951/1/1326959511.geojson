@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.48027,43.82838,26.52027,43.86838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Zadruga"
     ],
@@ -69,8 +73,7 @@
     "name:und_x_variant":[
         "Kishlakioy",
         "Sadruga",
-        "K\u016dshla K\u2019oy",
-        "Zadruga"
+        "K\u016dshla K\u2019oy"
     ],
     "name:zho_x_preferred":[
         "\u672d\u5fb7\u9b6f\u52a0"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1326959511,
-    "wof:lastmodified":1564176865,
+    "wof:lastmodified":1566613626,
     "wof:name":"Zadruga",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

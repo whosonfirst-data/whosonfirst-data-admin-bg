@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.68381,41.41588,25.72381,41.45588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "Bashtino"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209846037,
-    "wof:lastmodified":1564177222,
+    "wof:lastmodified":1566613849,
     "wof:name":"Bashtino",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

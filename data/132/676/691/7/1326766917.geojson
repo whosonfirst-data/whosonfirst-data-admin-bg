@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.54667,43.14667,27.58667,43.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0434\u0438\u043d\u0430"
     ],
@@ -71,8 +75,7 @@
         "\u041f\u0430\u0434\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Kopuschii",
-        "Padina"
+        "Kopuschii"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1326766917,
-    "wof:lastmodified":1564176881,
+    "wof:lastmodified":1566613636,
     "wof:name":"Padina",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

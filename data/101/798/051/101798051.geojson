@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.770461,
     "lbl:longitude":23.406362,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.770461,
     "mps:longitude":23.406362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0432\u0430\u043d"
     ],
@@ -46,9 +49,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0435\u0433\u043e\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Negowan"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430)",
     "qs:a1_alt":"Sofia (stolitsa)",
@@ -64,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":35,
     "wof:belongsto":[
         102191581,
@@ -75,7 +75,7 @@
     "wof:concordances":{
         "gn:id":728836,
         "gp:id":838295,
-        "qs:id":2,
+        "qs_pg:id":2,
         "wd:id":"Q2653970",
         "wk:page":"Negovan, Bulgaria"
     },
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":101798051,
-    "wof:lastmodified":1563325362,
+    "wof:lastmodified":1566614086,
     "wof:name":"\u041d\u0435\u0433\u043e\u0432\u0430\u043d",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

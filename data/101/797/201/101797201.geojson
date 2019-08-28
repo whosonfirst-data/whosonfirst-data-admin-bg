@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.593301,
     "lbl:longitude":24.388302,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.593301,
     "mps:longitude":24.388302,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0440\u0435\u0445\u043e\u0432\u0438\u0446\u0430"
     ],
@@ -62,9 +65,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0435\u0445\u043e\u0432\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Orjechovica"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u043b\u0435\u0432\u0435\u043d",
     "qs:a1_alt":"Pleven",
@@ -80,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":218,
     "wof:belongsto":[
         102191581,
@@ -92,7 +92,7 @@
         "fct:id":"037202fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728617,
         "gp:id":838473,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q2018789"
     },
     "wof:country":"BG",
@@ -109,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325222,
+    "wof:lastmodified":1566614032,
     "wof:name":"\u041e\u0440\u0435\u0445\u043e\u0432\u0438\u0446\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

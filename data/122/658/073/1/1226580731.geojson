@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.7173,43.2354,27.7573,43.2754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0438\u043f\u0435\u043a"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Dzhizdar K\u2019oy",
-        "Dzhizdar",
-        "Pripek"
+        "Dzhizdar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226580731,
-    "wof:lastmodified":1564177693,
+    "wof:lastmodified":1566614283,
     "wof:name":"Pripek",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

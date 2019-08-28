@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.04021,42.37891,27.08021,42.41891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0417\u0430\u0433\u043e\u0440\u0446\u0438"
     ],
@@ -54,7 +58,6 @@
         "Shaban-K\u016dr\u0103",
         "Kir Harman",
         "Sagorzi",
-        "Zagortsi",
         "Zagortsy"
     ],
     "src:geom":"geonames",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1259910795,
-    "wof:lastmodified":1564177621,
+    "wof:lastmodified":1566614239,
     "wof:name":"Zagortsi",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

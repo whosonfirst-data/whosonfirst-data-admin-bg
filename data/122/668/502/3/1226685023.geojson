@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.11333,41.56333,23.15333,41.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0435\u043b\u044e\u0449\u0435\u0446"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1226685023,
-    "wof:lastmodified":1564177699,
+    "wof:lastmodified":1566614287,
     "wof:name":"Velyushtets",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

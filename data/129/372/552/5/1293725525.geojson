@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.79667,41.96333,24.83667,42.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u044f\u0441\u043a\u043e\u0432\u043e"
     ],
@@ -48,8 +52,7 @@
     "name:und_x_variant":[
         "Leskowo",
         "Lyeskovo",
-        "Leskovo",
-        "Lyaskovo"
+        "Leskovo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1293725525,
-    "wof:lastmodified":1564177100,
+    "wof:lastmodified":1566613778,
     "wof:name":"Lyaskovo",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

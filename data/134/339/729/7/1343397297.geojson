@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.76333,42.19667,25.80333,42.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043d\u044f\u0436\u0435\u0432\u0441\u043a\u043e"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1343397297,
-    "wof:lastmodified":1564176924,
+    "wof:lastmodified":1566613663,
     "wof:name":"Knyazhevsko",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

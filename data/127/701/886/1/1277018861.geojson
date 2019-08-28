@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.94667,42.96333,26.98667,43.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u043b\u044f\u043a\u0441\u0430\u043d\u0434\u0440\u0430\u0432\u0430"
     ],
@@ -74,8 +78,7 @@
     ],
     "name:und_x_variant":[
         "Cherkez K\u2019oy",
-        "Alexandrowo",
-        "Aleksandrovo"
+        "Alexandrowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1277018861,
-    "wof:lastmodified":1564177106,
+    "wof:lastmodified":1566613781,
     "wof:name":"Aleksandrovo",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

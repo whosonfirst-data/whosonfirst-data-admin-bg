@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.03,41.59667,25.07,41.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u0448\u0435\u0432\u043e"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "Lyeskovo",
         "Leskovo",
-        "Leskowo",
-        "Vishnevo"
+        "Leskowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1327364835,
-    "wof:lastmodified":1564176830,
+    "wof:lastmodified":1566613603,
     "wof:name":"Vishnevo",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

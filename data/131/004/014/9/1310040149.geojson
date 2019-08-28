@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.47712,42.46718,23.51712,42.50718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u041e\u043a\u043e\u043b"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310040149,
-    "wof:lastmodified":1537587679,
+    "wof:lastmodified":1566613974,
     "wof:name":"Dolni Okol",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

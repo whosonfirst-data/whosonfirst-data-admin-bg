@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":41.634901,
     "lbl:longitude":25.859873,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":41.634901,
     "mps:longitude":25.859873,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0645\u0627\u062f\u0632\u0647\u0627\u0631\u0648\u0648"
     ],
@@ -94,9 +97,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0434\u0436\u0430\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Dupnitsa"
-    ],
     "name:vie_x_preferred":[
         "Madzharovo"
     ],
@@ -123,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.633333,
     "wd:longitude":25.866667,
@@ -138,7 +138,6 @@
         "fct:id":"0371b204-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729428,
         "gp:id":837847,
-        "qs:id":907477,
         "qs_pg:id":907477,
         "wd:id":"Q407352",
         "wk:page":"Madzharovo"
@@ -157,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325279,
+    "wof:lastmodified":1566614053,
     "wof:name":"\u041c\u0430\u0434\u0436\u0430\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

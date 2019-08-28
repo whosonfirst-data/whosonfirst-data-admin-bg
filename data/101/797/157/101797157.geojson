@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000317,
-    "geom:area_square_m":2844895.042711,
+    "geom:area_square_m":2844895.042708,
     "geom:bbox":"25.1989956773,43.4409277028,25.2259826599,43.4690740151",
     "geom:latitude":43.45318,
     "geom:longitude":25.213649,
     "iso:country":"BG",
     "lbl:latitude":43.452798,
     "lbl:longitude":25.214774,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.452798,
     "mps:longitude":25.214774,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Ju\u017ena Morava"
     ],
@@ -98,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u041c\u043e\u0440\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
-        "Khadzhi Musa"
-    ],
     "name:zho_x_preferred":[
         "\u5357\u6469\u62c9\u74e6\u6cb3"
     ],
@@ -119,7 +119,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":819,
     "wof:belongsto":[
         102191581,
@@ -131,7 +131,7 @@
         "fct:id":"0371ddec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728971,
         "gp:id":838189,
-        "qs:id":915428
+        "qs_pg:id":915428
     },
     "wof:country":"BG",
     "wof:geomhash":"b8dfbe01fbbe54c2d8711bd5b60b5311",
@@ -147,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641520,
+    "wof:lastmodified":1566614005,
     "wof:name":"\u041c\u043e\u0440\u0430\u0432\u0430",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

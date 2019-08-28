@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.116766,
     "lbl:longitude":27.670013,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":43.116766,
     "mps:longitude":27.670013,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0432\u0440\u0435\u043d"
     ],
@@ -68,9 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0432\u0440\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Momino"
-    ],
     "name:war_x_preferred":[
         "Avren"
     ],
@@ -94,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":404.0,
     "wd:latitude":43.116667,
@@ -110,7 +110,6 @@
         "fct:id":"0370024c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733587,
         "gp:id":56039993,
-        "qs:id":1100364,
         "qs_pg:id":1100364,
         "wd:id":"Q2469076",
         "wk:page":"Avren, Varna Province"
@@ -129,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325403,
+    "wof:lastmodified":1566614100,
     "wof:name":"\u0410\u0432\u0440\u0435\u043d",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.199083,
     "lbl:longitude":24.43005,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.199083,
     "mps:longitude":24.43005,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u043e \u041a\u043e\u043d\u0430\u0440\u0435"
     ],
@@ -57,9 +60,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u043e-\u041a\u043e\u043d\u0430\u0440\u0435"
     ],
-    "name:unk_x_variant":[
-        "Doganovo-Konare"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
     "qs:a1_alt":"Pazardzhik",
@@ -75,7 +75,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":131,
     "wof:belongsto":[
         102191581,
@@ -87,7 +87,7 @@
         "fct:id":"0371bc04-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729316,
         "gp:id":837933,
-        "qs:id":940218,
+        "qs_pg:id":940218,
         "wd:id":"Q2654176",
         "wk:page":"Malo Konare"
     },
@@ -105,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325282,
+    "wof:lastmodified":1566614054,
     "wof:name":"\u041c\u0430\u043b\u043e \u041a\u043e\u043d\u0430\u0440\u0435",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

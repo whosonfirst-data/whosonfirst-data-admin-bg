@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.6604,
     "lbl:longitude":23.461122,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.6604,
     "mps:longitude":23.461122,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0437\u0438\u0447\u0435\u043d\u0435"
     ],
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0437\u0438\u0447\u0435\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kazichane"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -77,7 +80,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":339,
     "wof:belongsto":[
         102191581,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101836639,
-    "wof:lastmodified":1563325522,
+    "wof:lastmodified":1566614144,
     "wof:name":"\u041a\u0430\u0437\u0438\u0447\u0435\u043d\u0435",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

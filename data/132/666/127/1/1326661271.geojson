@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.53,43.24667,25.57,43.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Gradina"
     ],
@@ -75,8 +79,7 @@
         "Stefan Stambolovo",
         "Gradinchitsa",
         "Bederlii",
-        "Stefan-Stambolowo",
-        "Gradina"
+        "Stefan-Stambolowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1326661271,
-    "wof:lastmodified":1564176860,
+    "wof:lastmodified":1566613622,
     "wof:name":"Gradina",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

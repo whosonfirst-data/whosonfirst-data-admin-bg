@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.765515,
     "lbl:longitude":26.297975,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.765515,
     "mps:longitude":26.297975,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438"
     ],
@@ -55,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "Knyazheva Polyana"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0420\u0443\u0441\u0435",
     "qs:a1_alt":"Ruse",
@@ -73,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":43.633333,
     "wd:longitude":23.033333,
     "wd:wordcount":37,
@@ -87,7 +87,7 @@
         "fct:id":"0372b15e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727046,
         "gp:id":839695,
-        "qs:id":405044,
+        "qs_pg:id":405044,
         "wd:id":"Q2021282"
     },
     "wof:country":"BG",
@@ -104,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325207,
+    "wof:lastmodified":1566614027,
     "wof:name":"\u0421\u043c\u0438\u0440\u043d\u0435\u043d\u0441\u043a\u0438",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

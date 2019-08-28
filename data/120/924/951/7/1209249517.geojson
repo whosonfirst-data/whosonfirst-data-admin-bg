@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.46061,41.37006,25.50061,41.41006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0647\u0648\u0648"
     ],
@@ -100,9 +104,6 @@
     "name:ukr_x_preferred":[
         "\u0404\u043b\u0445\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "Elkhovo"
-    ],
     "name:vie_x_preferred":[
         "Elhovo"
     ],
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1209249517,
-    "wof:lastmodified":1564177233,
+    "wof:lastmodified":1566613855,
     "wof:name":"Elhovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":43.290222,
     "lbl:longitude":27.003468,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.290222,
     "mps:longitude":27.003468,
     "mz:hierarchy_label":1,
@@ -217,7 +218,7 @@
         "Sjumen"
     ],
     "name:tam_x_preferred":[
-        "\u0bb7\u0bc1\u0bae\u0bc7\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb7\u0bc1\u0bae\u0bc7\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c37\u0c42\u0c2e\u0c46\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -233,9 +234,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0443\u043c\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
-    ],
-    "name:unk_x_variant":[
-        "Shumen"
     ],
     "name:urd_x_preferred":[
         "\u0634\u0648\u0645\u0646 \u0635\u0648\u0628\u06c1"
@@ -319,9 +317,9 @@
     "qs:type":"\u041e\u0431\u043b\u0430\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-01",
+    "src:population_date":"2011-02-01",
     "statoids:area_km":"3,390",
     "statoids:area_mi":"1,309",
     "statoids:as_of_date":"2011-02-01",
@@ -366,11 +364,10 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1565654073,
+    "wof:lastmodified":1566613714,
     "wof:name":"\u0428\u0443\u043c\u0435\u043d",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":180528,
     "wof:population_rank":9,

@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.380066,
     "lbl:longitude":24.848779,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":43.380066,
     "mps:longitude":24.848779,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041f\u043e\u0440\u0434\u0438\u043c"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Obsjtina Pordim"
     ],
-    "name:unk_x_variant":[
-        "Porodim"
-    ],
     "name:vie_x_preferred":[
         "Pordim"
     ],
@@ -93,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":158,
     "wof:belongsto":[
@@ -106,7 +106,6 @@
         "fct:id":"037240de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728056,
         "gp:id":838910,
-        "qs:id":1081635,
         "qs_pg:id":1081635,
         "wd:id":"Q2721267",
         "wk:page":"Pordim Municipality"
@@ -125,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325200,
+    "wof:lastmodified":1566614024,
     "wof:name":"\u041f\u043e\u0440\u0434\u0438\u043c",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.14667,41.49667,23.18667,41.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u043e"
     ],
@@ -54,10 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u043e"
     ],
-    "name:und_x_variant":[
-        "Drenowo",
-        "Drenovo"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85633001
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":1209045215,
-    "wof:lastmodified":1564177269,
+    "wof:lastmodified":1566613877,
     "wof:name":"Drenovo",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

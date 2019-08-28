@@ -5,19 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
+    "geom:area_square_m":1208214.480375,
     "geom:bbox":"24.5561305257,42.1112084447,24.5710410744,42.1253431659",
     "geom:latitude":42.11824,
     "geom:longitude":24.563486,
     "iso:country":"BG",
     "lbl:latitude":42.118082,
     "lbl:longitude":24.563344,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.118082,
     "mps:longitude":24.563344,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0419\u043e\u0430\u043a\u0438\u043c-\u0413\u0440\u0443\u0435\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karatair\u00fa"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -35,7 +40,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -45,7 +50,7 @@
     "wof:concordances":{
         "gn:id":725513,
         "gp:id":840841,
-        "qs:id":889824
+        "qs_pg:id":889824
     },
     "wof:country":"BG",
     "wof:geomhash":"c6908f88bd1e6adaa14960f6d0618969",
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":101799373,
-    "wof:lastmodified":1501215828,
+    "wof:lastmodified":1566614058,
     "wof:name":"\u0419\u043e\u0430\u043a\u0438\u043c \u0413\u0440\u0443\u0435\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

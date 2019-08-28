@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002352,
-    "geom:area_square_m":21176097.54426,
+    "geom:area_square_m":21176097.544263,
     "geom:bbox":"26.8937415,43.247013,26.978958,43.299654",
     "geom:latitude":43.274971,
     "geom:longitude":26.936426,
@@ -13,6 +13,8 @@
     "iso:country":"BG",
     "lbl:latitude":43.272489,
     "lbl:longitude":26.93578,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":43.272489,
     "mps:longitude":26.93578,
     "mz:hierarchy_label":1,
@@ -85,9 +87,6 @@
     ],
     "name:ukr_x_variant":[
         "Shoumen"
-    ],
-    "name:unk_x_variant":[
-        "Kolarovgrad"
     ],
     "name:vie_x_preferred":[
         "Shumen"
@@ -204,7 +203,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -216,7 +215,6 @@
         "fct:id":"03739d94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727233,
         "gp:id":839546,
-        "qs:id":1167312,
         "qs_pg:id":1167312
     },
     "wof:country":"BG",
@@ -233,7 +231,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505337696,
+    "wof:lastmodified":1566614118,
     "wof:name":"\u0428\u0443\u043c\u0435\u043d",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

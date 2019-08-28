@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000094,
+    "geom:area_square_m":858624.129046,
     "geom:bbox":"25.0595740176,42.6207440323,25.072743704,42.6327570941",
     "geom:latitude":42.627189,
     "geom:longitude":25.065826,
     "iso:country":"BG",
     "lbl:latitude":42.627536,
     "lbl:longitude":25.065826,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.627536,
     "mps:longitude":25.065826,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u043e\u043b\u043e\u0432\u043e"
     ],
@@ -24,9 +29,6 @@
         "Borisovo",
         "Borissowo",
         "Malko Selo"
-    ],
-    "name:unk_x_variant":[
-        "Borisovo"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
@@ -43,7 +45,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -54,7 +56,7 @@
         "fct:id":"0371c29e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729261,
         "gp:id":837974,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"BG",
     "wof:geomhash":"05714527ead9bf43628f4b2ad838bcc2",
@@ -70,7 +72,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501215858,
+    "wof:lastmodified":1566614045,
     "wof:name":"\u041c\u0430\u043d\u043e\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

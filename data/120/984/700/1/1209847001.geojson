@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.05628,41.3538,26.09628,41.3938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u041b\u0443\u043a\u043e\u0432\u043e"
     ],
@@ -49,8 +53,7 @@
     ],
     "name:und_x_variant":[
         "Dolno-Suvanli",
-        "Dolno-Lukowo",
-        "Dolno Lukovo"
+        "Dolno-Lukowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1209847001,
-    "wof:lastmodified":1564177221,
+    "wof:lastmodified":1566613848,
     "wof:name":"Dolno Lukovo",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

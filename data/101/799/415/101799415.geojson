@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0003,
+    "geom:area_square_m":2745781.843511,
     "geom:bbox":"25.8181643956,42.3487571847,25.8514511904,42.3659918746",
     "geom:latitude":42.357169,
     "geom:longitude":25.836884,
     "iso:country":"BG",
     "lbl:latitude":42.35646,
     "lbl:longitude":25.838523,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.35646,
     "mps:longitude":25.838523,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u044a\u0440\u043d\u0435\u0432\u043e"
     ],
@@ -39,9 +44,6 @@
         "S\u00e6rnevo",
         "S\u00fernevo"
     ],
-    "name:unk_x_variant":[
-        "Kara Bunar"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
     "qs:a1_alt":"Stara Zagora",
@@ -57,7 +59,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -68,7 +70,7 @@
         "fct:id":"0372df76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726616,
         "gp:id":840028,
-        "qs:id":1273181
+        "qs_pg:id":1273181
     },
     "wof:country":"BG",
     "wof:geomhash":"cdf6fb471f3be6705118bbff85067af0",
@@ -84,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501215838,
+    "wof:lastmodified":1566614044,
     "wof:name":"\u0421\u044a\u0440\u043d\u0435\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

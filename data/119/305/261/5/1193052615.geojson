@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.89667,43.41333,24.93667,43.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u0442\u043b\u0435\u0431\u0435\u043d"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "B\u016dlgarski-Karagach",
         "B\u0103lgarski Karagach",
-        "Bolgarski Karaagach",
-        "Totleben"
+        "Bolgarski Karaagach"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1193052615,
-    "wof:lastmodified":1564177318,
+    "wof:lastmodified":1566613911,
     "wof:name":"Totleben",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

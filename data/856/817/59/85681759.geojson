@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":41.842689,
     "lbl:longitude":25.916749,
+    "lbl:min_zoom":8.0,
     "mps:latitude":41.842689,
     "mps:longitude":25.916749,
     "mz:hierarchy_label":1,
@@ -222,7 +223,7 @@
         "Chaskovo"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0b95\u0bcb\u0bb5\u0bcb  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb9\u0b95\u0bcb\u0bb5\u0bcb \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c38\u0c4d\u0c15\u0c4b\u0c35\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -242,7 +243,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0441\u043a\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khaskovska Oblast"
     ],
     "name:urd_x_preferred":[
@@ -327,9 +328,9 @@
     "qs:type":"\u041e\u0431\u043b\u0430\u0441\u0442",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-02-01",
+    "src:population_date":"2011-02-01",
     "statoids:area_km":"5,533",
     "statoids:area_mi":"2,136",
     "statoids:as_of_date":"2011-02-01",
@@ -373,11 +374,10 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1565654074,
+    "wof:lastmodified":1566613716,
     "wof:name":"\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"region",
     "wof:population":246238,
     "wof:population_rank":10,

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.75804,43.67512,22.79804,43.71512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u044a\u043b\u0433\u043e \u043f\u043e\u043b\u0435"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293237125,
-    "wof:lastmodified":1537587658,
+    "wof:lastmodified":1566613739,
     "wof:name":"Dalgo Pole",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

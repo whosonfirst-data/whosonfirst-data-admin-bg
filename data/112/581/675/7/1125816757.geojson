@@ -9,14 +9,18 @@
     "geom:bbox":"26.78333,43.75,26.78333,43.75",
     "geom:latitude":43.75,
     "geom:longitude":26.78333,
-    "gn:gn_country":"BG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"BG",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"BG",
+    "lbl:bbox":"26.76333,43.73,26.80333,43.77",
     "lbl:latitude":43.75,
     "lbl:longitude":26.78333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0449\u0430\u0440\u0438"
@@ -45,7 +49,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0448\u0442\u0430\u0440\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mumdzhular"
     ],
     "qs_pg:aaroncc":"BG",
@@ -69,7 +73,7 @@
     "qs_pg:woe_adm0":23424771,
     "qs_pg:woe_id":840049,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424771,
     "woe:name_adm0":"Bulgaria",
     "woe:name_adm1":"Razgrad",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1125816757,
-    "wof:lastmodified":1563325555,
+    "wof:lastmodified":1566614164,
     "wof:name":"Sveshtari",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

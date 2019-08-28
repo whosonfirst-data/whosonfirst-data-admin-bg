@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.57902,42.4665,22.61902,42.5065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u041a\u043e\u0440\u0438\u0442\u0435\u043d"
     ],
@@ -45,8 +49,7 @@
         "\u0414\u043e\u043b\u0456\u0448\u043d\u0456\u0439 \u041a\u043e\u0440\u0438\u0442\u0435\u043d"
     ],
     "name:und_x_variant":[
-        "Koriten Dolni",
-        "Dolni Koriten"
+        "Koriten Dolni"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1343894529,
-    "wof:lastmodified":1564176988,
+    "wof:lastmodified":1566613703,
     "wof:name":"Dolni Koriten",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

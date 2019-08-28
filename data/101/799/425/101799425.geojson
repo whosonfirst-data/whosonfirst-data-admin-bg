@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":2536271.656083,
+    "geom:area_square_m":2536271.656082,
     "geom:bbox":"26.0934350947,42.0608021239,26.1185516647,42.0781015359",
     "geom:latitude":42.069051,
     "geom:longitude":26.105715,
     "iso:country":"BG",
     "lbl:latitude":42.068454,
     "lbl:longitude":26.104698,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.068454,
     "mps:longitude":26.104698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430"
     ],
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Obsjtina Silistra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Imuklar"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":288,
     "wof:belongsto":[
         102191581,
@@ -80,7 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":731425,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"BG",
     "wof:geomhash":"96143db4dc8e9c63e9be85bf1ad3f9bd",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101799425,
-    "wof:lastmodified":1527641683,
+    "wof:lastmodified":1566614042,
     "wof:name":"\u0413\u043b\u0430\u0432\u0430\u043d",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.211555,
     "lbl:longitude":24.379963,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.211555,
     "mps:longitude":24.379963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u0446\u0430"
     ],
@@ -52,9 +55,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u0446\u044f"
     ],
-    "name:unk_x_variant":[
-        "Karezliy"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
     "qs:a1_alt":"Pazardzhik",
@@ -70,7 +70,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":127,
     "wof:belongsto":[
         102191581,
@@ -82,7 +82,7 @@
         "fct:id":"0370952c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732182,
         "gp:id":835736,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q1086212"
     },
     "wof:country":"BG",
@@ -99,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325257,
+    "wof:lastmodified":1566614045,
     "wof:name":"\u0414\u043e\u0431\u0440\u043e\u0432\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

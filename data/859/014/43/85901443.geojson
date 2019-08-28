@@ -12,8 +12,10 @@
     "gn:latitude":43.41667,
     "gn:longitude":28.16667,
     "iso:country":"BG",
+    "lbl:bbox":"28.152337,43.402154,28.162337,43.412154",
     "lbl:latitude":43.407154,
     "lbl:longitude":28.157337,
+    "lbl:max_zoom":18.0,
     "mps:latitude":43.408185,
     "mps:longitude":28.161729,
     "mz:hierarchy_label":0,
@@ -133,10 +135,6 @@
     "name:ukr_x_variant":[
         "\u0412\u0430\u0441\u0438\u043b \u041b\u0435\u0432\u0441\u044c\u043a\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "Redzhina Mariya",
-        "Vasil Levski"
-    ],
     "name:war_x_preferred":[
         "Vasil Levski"
     ],
@@ -172,7 +170,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101796285,
@@ -183,7 +181,6 @@
     "wof:concordances":{
         "gn:id":726028,
         "gp:id":840441,
-        "qs:id":313392,
         "qs_pg:id":313392
     },
     "wof:country":"BG",
@@ -201,7 +198,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564176996,
+    "wof:lastmodified":1566613708,
     "wof:name":"Vasil Levski",
     "wof:parent_id":101796285,
     "wof:placetype":"neighbourhood",

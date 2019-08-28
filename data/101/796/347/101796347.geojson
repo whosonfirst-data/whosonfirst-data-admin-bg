@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000126,
-    "geom:area_square_m":1127886.475499,
+    "geom:area_square_m":1127886.475501,
     "geom:bbox":"27.0569236449,43.7618402884,27.069338533,43.7811908046",
     "geom:latitude":43.772813,
     "geom:longitude":27.063478,
     "iso:country":"BG",
     "lbl:latitude":43.773621,
     "lbl:longitude":27.063384,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.773621,
     "mps:longitude":27.063384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u043e\u043a\u0438\u043b"
     ],
@@ -38,9 +41,6 @@
     "name:swe_x_preferred":[
         "Vokil Point"
     ],
-    "name:unk_x_variant":[
-        "Sungurlar"
-    ],
     "name:zho_x_preferred":[
         "\u6c83\u57fa\u723e\u89d2"
     ],
@@ -59,7 +59,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":169,
     "wof:belongsto":[
         102191581,
@@ -71,7 +71,7 @@
         "fct:id":"03732e72-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725784,
         "gp:id":840623,
-        "qs:id":8
+        "qs_pg:id":8
     },
     "wof:country":"BG",
     "wof:geomhash":"b59722160999b1e82bbfe8d9301acdc9",
@@ -87,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642033,
+    "wof:lastmodified":1566614100,
     "wof:name":"\u0412\u043e\u043a\u0438\u043b",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

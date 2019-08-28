@@ -10,12 +10,16 @@
     "geom:latitude":43.069033,
     "geom:longitude":23.392561,
     "iso:country":"BG",
+    "lbl:bbox":"23.372561,43.049033,23.412561,43.089033",
     "lbl:latitude":43.069033,
     "lbl:longitude":23.392561,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.069033,
     "mps:longitude":23.392561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a"
     ],
@@ -43,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a"
     ],
-    "name:unk_x_variant":[
-        "Lakatnik"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0421\u043e\u0444\u0438\u044f",
     "qs:a1_alt":"Sofia",
@@ -63,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
         102191581,
@@ -75,7 +76,7 @@
         "fct:id":"03719382-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729722,
         "gp:id":837620,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q2017393",
         "wk:page":"Lakatnik"
     },
@@ -93,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325433,
+    "wof:lastmodified":1566614112,
     "wof:name":"\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

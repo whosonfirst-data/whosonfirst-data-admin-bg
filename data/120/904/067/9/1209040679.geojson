@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.59327,43.98319,22.63327,44.02319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u043b\u043d\u0438 \u0431\u043e\u0448\u043d\u044f\u043a"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209040679,
-    "wof:lastmodified":1537587680,
+    "wof:lastmodified":1566613879,
     "wof:name":"Dolni Boshnyak",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",

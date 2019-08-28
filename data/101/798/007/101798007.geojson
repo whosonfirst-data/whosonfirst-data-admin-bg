@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.515316,
     "lbl:longitude":24.078388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.515316,
     "mps:longitude":24.078388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u043e\u0440\u0438\u0449\u0435"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0431\u043e\u0440\u0438\u0448\u0442\u0435"
     ],
-    "name:unk_x_variant":[
-        "Mechka"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
     "qs:a1_alt":"Pazardzhik",
@@ -74,7 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -85,7 +85,7 @@
         "fct:id":"0371fb10-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728683,
         "gp:id":838422,
-        "qs:id":915442,
+        "qs_pg:id":915442,
         "wd:id":"Q2459597",
         "wk:page":"Oborishte"
     },
@@ -103,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325320,
+    "wof:lastmodified":1566614069,
     "wof:name":"\u041e\u0431\u043e\u0440\u0438\u0449\u0435",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

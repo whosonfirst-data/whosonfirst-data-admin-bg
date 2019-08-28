@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.456547,
     "lbl:longitude":28.550617,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.456547,
     "mps:longitude":28.550617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d \u0431\u0440\u044f\u0433"
     ],
@@ -52,7 +55,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043c\u0435\u043d-\u0411\u0440\u044f\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "St\u016dnka"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":118,
     "wof:belongsto":[
         102191581,
@@ -83,7 +86,6 @@
     "wof:concordances":{
         "gn:id":730704,
         "gp:id":836905,
-        "qs:id":267074,
         "qs_pg:id":267074,
         "wd:id":"Q994086",
         "wk:page":"Kamen Bryag"
@@ -99,7 +101,7 @@
         }
     ],
     "wof:id":101910941,
-    "wof:lastmodified":1563325526,
+    "wof:lastmodified":1566614145,
     "wof:name":"Kamen Bryag",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

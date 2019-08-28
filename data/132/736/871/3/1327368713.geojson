@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.24667,42.89667,25.28667,42.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u0648\u0641\u062a\u0633\u064a"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327368713,
-    "wof:lastmodified":1564176833,
+    "wof:lastmodified":1566613605,
     "wof:name":"Petsovtsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.996885,
     "lbl:longitude":27.162606,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.996885,
     "mps:longitude":27.162606,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u0444\u0435\u0441\u043e\u0440-\u0418\u0448\u0438\u0440\u043a\u043e\u0432\u043e"
     ],
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Obsjtina Silistra"
     ],
-    "name:unk_x_variant":[
-        "Kochina"
-    ],
     "name:vie_x_preferred":[
         "Silistra"
     ],
@@ -88,7 +88,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":288,
     "wof:belongsto":[
         102191581,
@@ -100,7 +100,7 @@
         "fct:id":"03724f98-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":727941,
         "gp:id":839007,
-        "qs:id":966594,
+        "qs_pg:id":966594,
         "wd:id":"Q2219334"
     },
     "wof:country":"BG",
@@ -117,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325408,
+    "wof:lastmodified":1566614102,
     "wof:name":"\u041f\u0440\u043e\u0444\u0435\u0441\u043e\u0440 \u0418\u0448\u0438\u0440\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

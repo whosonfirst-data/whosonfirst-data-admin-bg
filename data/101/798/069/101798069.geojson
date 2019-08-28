@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.650941,
     "lbl:longitude":24.746148,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.650941,
     "mps:longitude":24.746148,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u043f\u043e\u0442"
     ],
@@ -85,9 +88,6 @@
     "name:tur_x_preferred":[
         "Sopot"
     ],
-    "name:unk_x_variant":[
-        "Vazovgrad"
-    ],
     "name:zho_x_preferred":[
         "\u7d22\u6ce2\u7279"
     ],
@@ -106,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":243,
     "wof:belongsto":[
         102191581,
@@ -118,7 +118,7 @@
         "fct:id":"0372b9c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726976,
         "gp:id":839752,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q1013179"
     },
     "wof:country":"BG",
@@ -135,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325361,
+    "wof:lastmodified":1566614085,
     "wof:name":"\u0421\u043e\u043f\u043e\u0442",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

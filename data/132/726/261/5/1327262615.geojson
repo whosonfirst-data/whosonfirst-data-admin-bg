@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.91584,42.55286,22.95584,42.59286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043f\u0430\u043d\u0438\u0446\u0430"
     ],
@@ -34,8 +38,7 @@
         "Kopanitsa"
     ],
     "name:und_x_variant":[
-        "Kopaniza",
-        "Kopanitsa"
+        "Kopaniza"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1327262615,
-    "wof:lastmodified":1564176899,
+    "wof:lastmodified":1566613647,
     "wof:name":"Kopanitsa",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

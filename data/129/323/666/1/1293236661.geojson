@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.88503,44.06595,26.92503,44.10595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u0440\u0432\u0430\u043d"
     ],
@@ -46,8 +50,7 @@
         "\u0413\u0430\u0440\u0432\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Garvan-Cioara",
-        "Garvan"
+        "Garvan-Cioara"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1293236661,
-    "wof:lastmodified":1564177032,
+    "wof:lastmodified":1566613738,
     "wof:name":"Garvan",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.95836,43.59586,27.99836,43.63586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0442\u043e\u0434\u0438\u0435\u0432\u043e"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193183863,
-    "wof:lastmodified":1537587486,
+    "wof:lastmodified":1566613914,
     "wof:name":"Metodievo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

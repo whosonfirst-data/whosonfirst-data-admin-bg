@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9930405.704534,
+    "geom:area_square_m":0.0,
     "geom:bbox":"25.313049,42.879787,25.313049,42.879787",
     "geom:latitude":42.879787,
     "geom:longitude":25.313049,
     "iso:country":"BG",
+    "lbl:bbox":"25.308049,42.874787,25.318049,42.884787",
     "lbl:latitude":42.879787,
     "lbl:longitude":25.313049,
+    "lbl:max_zoom":18.0,
     "mps:latitude":42.877977,
     "mps:longitude":25.32056,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Tonchovtsi"
-    ],
-    "name:unk_x_variant":[
-        "Tonchevtsi"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_id":0,
@@ -60,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         101748901,
@@ -86,7 +85,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531932507,
+    "wof:lastmodified":1566613708,
     "wof:name":"Tonchevtsi",
     "wof:parent_id":101748901,
     "wof:placetype":"neighbourhood",

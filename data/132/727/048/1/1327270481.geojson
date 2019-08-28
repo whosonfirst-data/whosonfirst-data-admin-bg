@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"24.61736,42.85584,24.65736,42.89584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u043d\u043e \u0422\u0440\u0430\u043f\u0435"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1327270481,
-    "wof:lastmodified":1564176910,
+    "wof:lastmodified":1566613654,
     "wof:name":"Gorno Trape",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

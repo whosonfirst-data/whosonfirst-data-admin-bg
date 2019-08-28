@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":42.501868,
     "lbl:longitude":25.176846,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":42.501868,
     "mps:longitude":25.176846,
     "mz:hierarchy_label":1,
@@ -909,20 +911,12 @@
         "Balgarija",
         "Voulgaria"
     ],
-    "name:und_x_preferred":[
-        "Bolgarija",
-        "B\u00falgar\u00eda"
-    ],
     "name:und_x_variant":[
         "Bolharija",
-        "Bulharsko",
         "Burugaria",
         "B\u00e2lgarija",
         "Republika Bolgarija",
-        "Republika Bulgaria",
-        "Voulgar\u00eda"
-    ],
-    "name:unk_x_variant":[
+        "Voulgar\u00eda",
         "Blgariya"
     ],
     "name:urd_x_preferred":[
@@ -1087,7 +1081,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"359",
     "statoids:ds":"BG",
@@ -1132,7 +1126,7 @@
         "mzb:id":"bulgaria",
         "ne:adm0_a3":"BGR",
         "nyt:id":"1369224404072545591",
-        "qs:id":552755,
+        "qs_pg:id":552755,
         "uncrt:id":"BG",
         "wd:id":"Q219",
         "wk:page":"Bulgaria",
@@ -1154,7 +1148,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1565654072,
+    "wof:lastmodified":1566613711,
     "wof:name":"Bulgaria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

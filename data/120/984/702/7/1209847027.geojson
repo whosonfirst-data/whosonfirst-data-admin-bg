@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.54667,41.54667,25.58667,41.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u0441\u0442\u043d\u0438\u043a"
     ],
@@ -56,8 +60,7 @@
         "\u041f\u043e\u0441\u0442\u043d\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Akhat-Baba",
-        "Postnik"
+        "Akhat-Baba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1209847027,
-    "wof:lastmodified":1564177222,
+    "wof:lastmodified":1566613849,
     "wof:name":"Postnik",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.56333,41.71333,25.60333,41.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u0442\u043a\u043e\u0432\u043e"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Bobalar Eni Makhle",
-        "Tatkowo",
-        "Tatkovo"
+        "Tatkowo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1209850327,
-    "wof:lastmodified":1564177239,
+    "wof:lastmodified":1566613859,
     "wof:name":"Tatkovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

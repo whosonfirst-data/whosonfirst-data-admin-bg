@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.326394,
     "lbl:longitude":24.168935,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.326394,
     "mps:longitude":24.168935,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u0421\u0443\u0445\u0438\u043d\u0434\u043e\u043b"
     ],
@@ -79,7 +82,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0443\u0433\u0435\u0440\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gelvere"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +106,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":219,
     "wof:belongsto":[
         102191581,
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gn:id":730723,
         "gp:id":836895,
-        "qs:id":110231,
+        "qs_pg:id":110231,
         "wd:id":"Q2016899"
     },
     "wof:country":"BG",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":101799223,
-    "wof:lastmodified":1563325280,
+    "wof:lastmodified":1566614053,
     "wof:name":"\u041a\u0430\u043b\u0443\u0433\u0435\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.411317,
     "lbl:longitude":23.15857,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.411317,
     "mps:longitude":23.15857,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u043d"
     ],
@@ -54,9 +57,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0435\u043d"
     ],
-    "name:unk_x_variant":[
-        "Dryan"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u0435\u0440\u043d\u0438\u043a",
     "qs:a1_alt":"Pernik",
@@ -72,7 +72,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":41.329444,
     "wd:longitude":21.778889,
     "wd:wordcount":29,
@@ -86,7 +86,7 @@
         "fct:id":"0370b458-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731922,
         "gp:id":835958,
-        "qs:id":7,
+        "qs_pg:id":7,
         "wd:id":"Q1074204"
     },
     "wof:country":"BG",
@@ -103,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561837446,
+    "wof:lastmodified":1566614069,
     "wof:name":"\u0414\u0440\u0435\u043d",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.642664,
     "lbl:longitude":24.646341,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.642664,
     "mps:longitude":24.646341,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u043e\u0433\u0434\u0430\u043d"
     ],
@@ -47,9 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0433\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Derelii"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u043b\u043e\u0432\u0434\u0438\u0432",
     "qs:a1_alt":"Plovdiv",
@@ -65,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":83,
     "wof:belongsto":[
         102191581,
@@ -77,7 +77,7 @@
         "fct:id":"03702e3e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733133,
         "gp:id":835028,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q2012440"
     },
     "wof:country":"BG",
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325263,
+    "wof:lastmodified":1566614048,
     "wof:name":"\u0411\u043e\u0433\u0434\u0430\u043d",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

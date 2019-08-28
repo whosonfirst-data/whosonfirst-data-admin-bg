@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.260863,
     "lbl:longitude":23.475505,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.260863,
     "mps:longitude":23.475505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0432\u0435\u0434\u0430\u0440\u0446\u0438"
     ],
@@ -53,9 +56,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0432\u0435\u0434\u0430\u0440\u0446\u0456"
     ],
-    "name:unk_x_variant":[
-        "Golyamo Selo"
-    ],
     "name:zho_x_preferred":[
         "\u54e5\u7dad\u9054\u897f"
     ],
@@ -74,7 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":42.25,
     "wd:longitude":23.483333,
     "wd:wordcount":64,
@@ -88,7 +88,7 @@
         "fct:id":"03710c5a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731103,
         "gp:id":836610,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2457696",
         "wk:page":"Govedartsi"
     },
@@ -106,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325256,
+    "wof:lastmodified":1566614044,
     "wof:name":"\u0413\u043e\u0432\u0435\u0434\u0430\u0440\u0446\u0438",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

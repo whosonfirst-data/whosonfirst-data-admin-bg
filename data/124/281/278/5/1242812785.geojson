@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.81333,43.31333,25.85333,43.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434"
     ],
@@ -53,8 +57,7 @@
         "Winograd",
         "Saydikioy",
         "Seydi k\u2019oy",
-        "Vinngrad",
-        "Vinograd"
+        "Vinngrad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1242812785,
-    "wof:lastmodified":1564177546,
+    "wof:lastmodified":1566614193,
     "wof:name":"Vinograd",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

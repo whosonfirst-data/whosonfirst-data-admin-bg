@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.322195,
     "lbl:longitude":23.521538,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.322195,
     "mps:longitude":23.521538,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u043b\u044f\u0447\u0435"
     ],
@@ -44,9 +47,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0438\u043b\u044f\u0447\u0435"
     ],
-    "name:unk_x_variant":[
-        "Liljatsche"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0440\u0430\u0446\u0430",
     "qs:a1_alt":"Vratsa",
@@ -62,7 +62,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -73,7 +73,7 @@
         "fct:id":"03719ea4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":729625,
         "gp:id":837693,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q2459228"
     },
     "wof:country":"BG",
@@ -90,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325205,
+    "wof:lastmodified":1566614026,
     "wof:name":"\u041b\u0438\u043b\u044f\u0447\u0435",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

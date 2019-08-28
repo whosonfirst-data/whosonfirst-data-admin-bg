@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.87963,43.62482,27.91963,43.66482",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0426\u0430\u0440\u0435\u0432\u0435\u0446"
     ],
@@ -46,8 +50,7 @@
         "Karalez",
         "Caralez",
         "Karales",
-        "Carewec",
-        "Tsarevets"
+        "Carewec"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1360223075,
-    "wof:lastmodified":1564177427,
+    "wof:lastmodified":1566613983,
     "wof:name":"Tsarevets",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":44.045839,
     "lbl:longitude":26.612628,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mps:latitude":44.045839,
     "mps:longitude":26.612628,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u062a\u0648\u062a\u0631\u0627\u06a9\u0627\u0646"
     ],
@@ -115,9 +118,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0442\u0440\u0430\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Turtukai"
-    ],
     "name:vie_x_preferred":[
         "Tutrakan"
     ],
@@ -143,7 +143,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":417,
     "wof:belongsto":[
@@ -156,7 +156,6 @@
         "fct:id":"03730ce4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":726141,
         "gp:id":840368,
-        "qs:id":128919,
         "qs_pg:id":128919,
         "wd:id":"Q404939",
         "wk:page":"Tutrakan"
@@ -175,7 +174,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325383,
+    "wof:lastmodified":1566614094,
     "wof:name":"\u0422\u0443\u0442\u0440\u0430\u043a\u0430\u043d",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

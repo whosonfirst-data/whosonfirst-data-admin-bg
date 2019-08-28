@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"26.08,42.63,26.12,42.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u043d\u043a\u043e\u0441"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327060739,
-    "wof:lastmodified":1537587754,
+    "wof:lastmodified":1566613598,
     "wof:name":"Binkos",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

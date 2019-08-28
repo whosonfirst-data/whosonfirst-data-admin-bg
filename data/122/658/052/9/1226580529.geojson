@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"22.49545,43.70179,22.53545,43.74179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0443\u0431\u043b\u0438\u0446\u0430"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226580529,
-    "wof:lastmodified":1537587786,
+    "wof:lastmodified":1566614283,
     "wof:name":"Stublitsa",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

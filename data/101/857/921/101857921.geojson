@@ -10,16 +10,20 @@
     "geom:latitude":42.280592,
     "geom:longitude":22.514598,
     "iso:country":"BG",
+    "lbl:bbox":"22.494598,42.260592,22.534598,42.300592",
     "lbl:latitude":42.280592,
     "lbl:longitude":22.514598,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.280592,
     "mps:longitude":22.514598,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tursko Selo"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
@@ -39,7 +43,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         85633001,
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":733209,
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"BG",
     "wof:geomhash":"4ba323f82a7fcc62715338164c608768",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":101857921,
-    "wof:lastmodified":1544744146,
+    "wof:lastmodified":1566614112,
     "wof:name":"\u0411\u0438\u0441\u0442\u0440\u0438\u0446\u0430",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

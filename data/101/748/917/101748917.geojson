@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000854,
-    "geom:area_square_m":7599510.977944,
+    "geom:area_square_m":7599510.97794,
     "geom:bbox":"22.844429,43.9751395,22.891095,44.008099",
     "geom:latitude":43.99248,
     "geom:longitude":22.870716,
@@ -13,10 +13,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.991547,
     "lbl:longitude":22.870361,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":43.991547,
     "mps:longitude":22.870361,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u064a\u062f\u064a\u0646"
     ],
@@ -226,9 +229,6 @@
     "name:ukr_x_variant":[
         "\u0412\u0438\u0434\u0438\u043d"
     ],
-    "name:unk_x_variant":[
-        "Vidine"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u062f\u06cc\u0646 \u0635\u0648\u0628\u06c1"
     ],
@@ -264,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191581,
@@ -276,7 +276,6 @@
         "fct:id":"03739952-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":725905,
         "gp:id":840533,
-        "qs:id":907567,
         "qs_pg:id":907567
     },
     "wof:country":"BG",
@@ -293,7 +292,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1505337696,
+    "wof:lastmodified":1566614119,
     "wof:name":"\u0412\u0438\u0434\u0438\u043d",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

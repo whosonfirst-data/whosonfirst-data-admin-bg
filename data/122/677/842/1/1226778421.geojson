@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.00294,42.17212,23.04294,42.21212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u0441\u043e\u043a\u0430 \u041c\u043e\u0433\u0438\u043b\u0430"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226778421,
-    "wof:lastmodified":1564177742,
+    "wof:lastmodified":1566614316,
     "wof:name":"Visoka Mogila",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

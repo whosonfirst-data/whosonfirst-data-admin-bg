@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.68,43.24667,23.72,43.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0433\u043e\u0440\u043d\u043e \u041f\u0435\u0449\u0435\u043d\u0435"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293815129,
-    "wof:lastmodified":1537587615,
+    "wof:lastmodified":1566613775,
     "wof:name":"Gorno Peshtene",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

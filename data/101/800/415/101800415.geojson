@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.045997,
     "lbl:longitude":24.130773,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.045997,
     "mps:longitude":24.130773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u0440\u043a\u043e\u0432\u043e"
     ],
@@ -49,9 +52,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0440\u043a\u043e\u0432\u043e"
     ],
-    "name:unk_x_variant":[
-        "Dorkowo"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
     "qs:a1_alt":"Pazardzhik",
@@ -67,7 +67,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":546,
     "wof:belongsto":[
         102191581,
@@ -79,7 +79,7 @@
         "fct:id":"0370aa08-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":732019,
         "gp:id":835880,
-        "qs:id":5,
+        "qs_pg:id":5,
         "wd:id":"Q2014051",
         "wk:page":"Dorkovo"
     },
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325487,
+    "wof:lastmodified":1566614129,
     "wof:name":"\u0414\u043e\u0440\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.39679,
     "lbl:longitude":27.216619,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.39679,
     "mps:longitude":27.216619,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u0431\u0449\u0438\u043d\u0430 \u041d\u043e\u0432\u0438 \u043f\u0430\u0437\u0430\u0440"
     ],
@@ -70,9 +73,6 @@
     "name:swe_x_preferred":[
         "Obsjtina Novi Pazar"
     ],
-    "name:unk_x_variant":[
-        "Pamukchin"
-    ],
     "name:vie_x_preferred":[
         "Novi Pazar"
     ],
@@ -94,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":260,
     "wof:belongsto":[
         102191581,
@@ -106,7 +106,7 @@
         "fct:id":"03721730-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":728449,
         "gp:id":838606,
-        "qs:id":404748,
+        "qs_pg:id":404748,
         "wd:id":"Q2609377"
     },
     "wof:country":"BG",
@@ -123,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325155,
+    "wof:lastmodified":1566614008,
     "wof:name":"\u041f\u0430\u043c\u0443\u043a\u0447\u0438\u0438",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

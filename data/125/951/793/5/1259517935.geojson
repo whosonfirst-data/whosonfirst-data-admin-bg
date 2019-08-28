@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"25.19667,42.33,25.23667,42.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0430\u0440\u043a\u0430\u0432\u0430"
     ],
@@ -66,8 +70,7 @@
     "name:und_x_variant":[
         "Sakarlii",
         "Markowo",
-        "Sakarliy",
-        "Markovo"
+        "Sakarliy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1259517935,
-    "wof:lastmodified":1564177658,
+    "wof:lastmodified":1566614262,
     "wof:name":"Markovo",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

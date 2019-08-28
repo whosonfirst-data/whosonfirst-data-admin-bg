@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"23.21333,41.79667,23.25333,41.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u043d\u043e\u043a\u043e\u0441"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1276590997,
-    "wof:lastmodified":1537587369,
+    "wof:lastmodified":1566613805,
     "wof:name":"Senokos",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

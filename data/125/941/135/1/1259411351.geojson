@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.82329,42.89069,27.86329,42.93069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0440\u0438\u0446\u0430"
     ],
@@ -51,8 +55,7 @@
         "Kurukioy",
         "Goriza",
         "Kuru K\u2019oy",
-        "Koru K\u2019oy",
-        "Goritsa"
+        "Koru K\u2019oy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1259411351,
-    "wof:lastmodified":1564177632,
+    "wof:lastmodified":1566614246,
     "wof:name":"Goritsa",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

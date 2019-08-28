@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":43.69283,
     "lbl:longitude":22.977253,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":43.69283,
     "mps:longitude":22.977253,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u0435\u0446"
     ],
@@ -56,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0440\u0435\u043d\u043e\u0432\u0435\u0446\u044c"
     ],
-    "name:unk_x_variant":[
-        "Drjenovec"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u0412\u0438\u0434\u0438\u043d",
     "qs:a1_alt":"Vidin",
@@ -74,7 +74,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":40,
     "wof:belongsto":[
         102191581,
@@ -86,7 +86,7 @@
         "fct:id":"0370b4ee-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":731919,
         "gp:id":835961,
-        "qs:id":1028751,
+        "qs_pg:id":1028751,
         "wd:id":"Q1078511"
     },
     "wof:country":"BG",
@@ -103,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325148,
+    "wof:lastmodified":1566614005,
     "wof:name":"\u0414\u0440\u0435\u043d\u043e\u0432\u0435\u0446",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

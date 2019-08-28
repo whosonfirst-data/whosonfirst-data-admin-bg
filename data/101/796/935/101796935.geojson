@@ -12,10 +12,13 @@
     "iso:country":"BG",
     "lbl:latitude":42.477848,
     "lbl:longitude":26.397102,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":42.477848,
     "mps:longitude":26.397102,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u0437\u043c\u0435\u0440"
     ],
@@ -59,9 +62,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0437\u043c\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Khamrozen"
-    ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u042f\u043c\u0431\u043e\u043b",
     "qs:a1_alt":"Yambol",
@@ -77,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":76,
     "wof:belongsto":[
         102191581,
@@ -89,7 +89,7 @@
         "fct:id":"037023d0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":733240,
         "gp:id":834947,
-        "qs:id":179019,
+        "qs_pg:id":179019,
         "wd:id":"Q2454030",
         "wk:page":"Bezmer, Yambol Province"
     },
@@ -107,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563325403,
+    "wof:lastmodified":1566614100,
     "wof:name":"\u0411\u0435\u0437\u043c\u0435\u0440",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

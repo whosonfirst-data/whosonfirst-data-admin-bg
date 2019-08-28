@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Sofia",
     "iso:country":"BG",
+    "lbl:bbox":"27.76012,43.46827,27.80012,43.50827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041e\u043f\u0430\u043d\u0435\u0446"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209265741,
-    "wof:lastmodified":1537587454,
+    "wof:lastmodified":1566613889,
     "wof:name":"Opanets",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",
