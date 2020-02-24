@@ -139,6 +139,9 @@
         "wk:page":"Isperih"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d93db34d3dada66945b4cd62a19919d0",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614094,
+    "wof:lastmodified":1582345669,
     "wof:name":"\u0418\u0441\u043f\u0435\u0440\u0438\u0445",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

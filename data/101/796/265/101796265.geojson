@@ -119,6 +119,9 @@
         "wk:page":"Shabla Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fa0f1f2326a2c4e316043c2f0c723a80",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614104,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0428\u0430\u0431\u043b\u0430",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

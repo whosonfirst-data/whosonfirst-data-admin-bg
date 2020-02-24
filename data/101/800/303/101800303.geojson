@@ -97,6 +97,9 @@
         "wk:page":"Gorno Dryanovo"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa04e701edc9ef6dcc7f7a9dbf828fdc",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101800303,
-    "wof:lastmodified":1566614132,
+    "wof:lastmodified":1582345675,
     "wof:name":"\u0413\u043e\u0440\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

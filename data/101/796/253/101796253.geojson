@@ -141,6 +141,9 @@
         "wk:page":"Borovo, Ruse Province"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e48324b8ef5b34bd9038133cc987d3a",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614104,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0411\u043e\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

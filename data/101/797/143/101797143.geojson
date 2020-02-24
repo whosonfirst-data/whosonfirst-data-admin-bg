@@ -141,6 +141,9 @@
         "wk:page":"Pavlikeni"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b804b09090f9a78be217937b2a6292e9",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614020,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u041f\u0430\u0432\u043b\u0438\u043a\u0435\u043d\u0438",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

@@ -132,6 +132,9 @@
         "wk:page":"Garmen"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3afb35d7d65556fd66f0488049306f52",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614051,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u0413\u044a\u0440\u043c\u0435\u043d",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

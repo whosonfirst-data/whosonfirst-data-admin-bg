@@ -92,6 +92,10 @@
         "qs_pg:id":1167293
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd248e39720d79b76d23d272fe4385a6",
     "wof:hierarchy":[
         {
@@ -106,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613707,
+    "wof:lastmodified":1582345656,
     "wof:name":"Gramada",
     "wof:parent_id":101748875,
     "wof:placetype":"neighbourhood",

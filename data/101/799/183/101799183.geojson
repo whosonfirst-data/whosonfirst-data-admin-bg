@@ -140,6 +140,9 @@
         "wk:page":"Rila, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a080cfaf0e3ecd86cb2b2f94c42bdc91",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614057,
+    "wof:lastmodified":1582345667,
     "wof:name":"\u0420\u0438\u043b\u0430",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

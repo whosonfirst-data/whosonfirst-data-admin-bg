@@ -119,6 +119,9 @@
         "wk:page":"Nevestino, Kyustendil Province"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2bf7a6bb6926b581a6a6305e0ec4c3c1",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614058,
+    "wof:lastmodified":1582345667,
     "wof:name":"\u041d\u0435\u0432\u0435\u0441\u0442\u0438\u043d\u043e",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

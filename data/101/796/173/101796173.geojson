@@ -109,6 +109,9 @@
         "wk:page":"Kula Municipality, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c10b1026a023dca8927b4ad06dfd730f",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614098,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u041a\u0443\u043b\u0430",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

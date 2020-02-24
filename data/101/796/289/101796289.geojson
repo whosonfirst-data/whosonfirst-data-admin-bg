@@ -114,6 +114,9 @@
         "wk:page":"Sitovo Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9744ad6ea7bee95e85aed87cc5cf6d93",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614094,
+    "wof:lastmodified":1582345669,
     "wof:name":"\u0421\u0438\u0442\u043e\u0432\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

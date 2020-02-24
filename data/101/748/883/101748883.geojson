@@ -277,6 +277,9 @@
         "wk:page":"Pazardzhik"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f4add9ad4466d1b125705c834d0b223",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614117,
+    "wof:lastmodified":1582345673,
     "wof:name":"\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

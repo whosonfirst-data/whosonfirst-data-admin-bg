@@ -88,6 +88,9 @@
         "wk:page":"German, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"405ade4a05fb239636487167fd704f45",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101794507,
-    "wof:lastmodified":1566614120,
+    "wof:lastmodified":1582345674,
     "wof:name":"\u0413\u0435\u0440\u043c\u0430\u043d",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

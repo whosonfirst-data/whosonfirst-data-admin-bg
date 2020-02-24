@@ -175,6 +175,9 @@
         "wk:page":"Balchik"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f7de8ba977a8e44bc6b87c7089bc0d5c",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614103,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0411\u0430\u043b\u0447\u0438\u043a",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

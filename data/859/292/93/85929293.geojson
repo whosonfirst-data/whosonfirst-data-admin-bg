@@ -181,6 +181,9 @@
         "wd:id":"Q378943"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3be599078d3ff9ab7be803adee8eca64",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613709,
+    "wof:lastmodified":1582345657,
     "wof:name":"Vitosha",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

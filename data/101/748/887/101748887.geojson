@@ -724,6 +724,9 @@
         "qs_pg:id":491815
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6e818aeaa0d92b5c1bab5fef7bfd6de9",
     "wof:hierarchy":[
         {
@@ -737,7 +740,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1578084065,
+    "wof:lastmodified":1582345673,
     "wof:megacity":1,
     "wof:name":"Sofia",
     "wof:parent_id":85681771,

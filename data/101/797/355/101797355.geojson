@@ -125,6 +125,9 @@
         "wk:page":"Dolni Chiflik Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2b471d0a35a33bc31885edaf23476ec4",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614007,
+    "wof:lastmodified":1582345663,
     "wof:name":"\u0414\u043e\u043b\u043d\u0438 \u0447\u0438\u0444\u043b\u0438\u043a",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

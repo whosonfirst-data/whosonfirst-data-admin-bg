@@ -88,6 +88,10 @@
         "wd:id":"Q12281451"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c877a04782d85ca939f344eb65391fc0",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613710,
+    "wof:lastmodified":1582345657,
     "wof:name":"Izgrev",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

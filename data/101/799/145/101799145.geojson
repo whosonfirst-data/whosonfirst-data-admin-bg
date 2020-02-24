@@ -159,6 +159,9 @@
         "wk:page":"Razlog"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d91231d673c71a06e1c191ed9d814be",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614047,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u0420\u0430\u0437\u043b\u043e\u0433",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

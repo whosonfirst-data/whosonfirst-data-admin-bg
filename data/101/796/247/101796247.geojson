@@ -109,6 +109,9 @@
         "wk:page":"Ivanovo, Ruse Province"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b778995361505c317a28f172c6514620",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614103,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u0418\u0432\u0430\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

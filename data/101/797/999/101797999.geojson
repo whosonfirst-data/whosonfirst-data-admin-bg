@@ -128,6 +128,9 @@
         "wk:page":"Panagyurishte Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f125116158db43a735a1d5532a5c8bf2",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614008,
+    "wof:lastmodified":1582345663,
     "wof:name":"\u041f\u0430\u043d\u0430\u0433\u044e\u0440\u0438\u0449\u0435",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

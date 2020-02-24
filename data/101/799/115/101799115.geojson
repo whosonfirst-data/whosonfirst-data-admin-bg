@@ -139,6 +139,9 @@
         "wk:page":"Nedelino"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7c877dd65ae43e0f07b16e06f7455c89",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614056,
+    "wof:lastmodified":1582345667,
     "wof:name":"\u041d\u0435\u0434\u0435\u043b\u0438\u043d\u043e",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

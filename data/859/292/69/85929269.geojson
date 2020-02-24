@@ -96,6 +96,9 @@
         "gp:id":55855472
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64c99e32f492027b3bf3261efb71eb93",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613709,
+    "wof:lastmodified":1582345657,
     "wof:name":"Oborishte",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

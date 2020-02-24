@@ -1134,6 +1134,10 @@
     },
     "wof:country":"BG",
     "wof:country_alpha3":"BGR",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"a783b9397d459792baa4c1511c0cf7d7",
     "wof:hierarchy":[
         {
@@ -1148,7 +1152,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1566613711,
+    "wof:lastmodified":1582345657,
     "wof:name":"Bulgaria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

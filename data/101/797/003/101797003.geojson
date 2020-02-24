@@ -369,6 +369,9 @@
         "wk:page":"Lovech"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"da71b2251cfa768849cb8ad8c74c3fa1",
     "wof:hierarchy":[
         {
@@ -382,7 +385,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614029,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u041b\u043e\u0432\u0435\u0447",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

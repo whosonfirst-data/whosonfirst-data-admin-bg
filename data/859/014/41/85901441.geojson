@@ -71,6 +71,9 @@
         "gp:id":840160
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d92e8f3ebe227e7c7c6bc472b0341c14",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613708,
+    "wof:lastmodified":1582345656,
     "wof:name":"Tonchevtsi",
     "wof:parent_id":101748901,
     "wof:placetype":"neighbourhood",

@@ -356,6 +356,9 @@
         "wk:page":"Kyustendil"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39f0cccaee8a95f72c85d179eae63486",
     "wof:hierarchy":[
         {
@@ -369,7 +372,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614116,
+    "wof:lastmodified":1582345673,
     "wof:name":"\u041a\u044e\u0441\u0442\u0435\u043d\u0434\u0438\u043b",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

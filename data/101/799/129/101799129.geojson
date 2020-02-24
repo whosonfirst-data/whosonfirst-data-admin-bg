@@ -142,6 +142,9 @@
         "wk:page":"Dzhebel"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cfe775a551b99a6b1bc038168b1ce69f",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614047,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u0414\u0436\u0435\u0431\u0435\u043b",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

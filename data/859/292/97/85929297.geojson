@@ -97,6 +97,10 @@
         "wd:id":"Q6885639"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5af20eb9050f78de43261d6bd0020fdb",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613710,
+    "wof:lastmodified":1582345657,
     "wof:name":"Mladost",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

@@ -115,6 +115,9 @@
         "wk:page":"Avren, Varna Province"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7d9ce8c6264bbb8689c615eec7ed403f",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614100,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u0410\u0432\u0440\u0435\u043d",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

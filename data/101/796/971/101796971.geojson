@@ -136,6 +136,9 @@
         "wk:page":"Kameno"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7b1987fe52ed81276ba90fe09a3a795a",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614099,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u041a\u0430\u043c\u0435\u043d\u043e",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

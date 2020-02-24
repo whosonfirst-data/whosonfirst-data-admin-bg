@@ -188,6 +188,9 @@
         "wk:page":"Aytos"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1bf38fad00c0bb58ea50e5b734adf774",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614101,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u0410\u0439\u0442\u043e\u0441",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -100,6 +100,9 @@
         "gp:id":55855483
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72fbf93214156f94c3fdd613afb0de64",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613710,
+    "wof:lastmodified":1582345657,
     "wof:name":"Iskar",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

@@ -143,6 +143,9 @@
         "wd:id":"Q1993655"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3f224e5c57f5c7de7d2a883dd0bd965d",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614053,
+    "wof:lastmodified":1582345667,
     "wof:name":"\u041a\u0438\u0442\u0435\u043d",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

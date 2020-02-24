@@ -119,6 +119,9 @@
         "wk:page":"Lom Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c8e4b77a64b5e4a041328da995091d2",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614143,
+    "wof:lastmodified":1582345675,
     "wof:name":"\u041b\u043e\u043c",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

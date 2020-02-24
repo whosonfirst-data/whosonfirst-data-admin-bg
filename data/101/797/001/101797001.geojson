@@ -151,6 +151,9 @@
         "wk:page":"Lukovit Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"72b9812aa190176146dfe00516ebf1cc",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614017,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u041b\u0443\u043a\u043e\u0432\u0438\u0442",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

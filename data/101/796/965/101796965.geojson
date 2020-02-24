@@ -148,6 +148,9 @@
         "wk:page":"Sungurlare"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0a0ee6c2d020108a60c098fdd1df02a0",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614091,
+    "wof:lastmodified":1582345669,
     "wof:name":"\u0421\u0443\u043d\u0433\u0443\u0440\u043b\u0430\u0440\u0435",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

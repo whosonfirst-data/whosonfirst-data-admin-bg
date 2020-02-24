@@ -135,6 +135,9 @@
         "wk:page":"Suhindol"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e76c3a848f841c6a778944ed9e1064b5",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614036,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u0421\u0443\u0445\u0438\u043d\u0434\u043e\u043b",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

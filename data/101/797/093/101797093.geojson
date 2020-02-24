@@ -137,6 +137,9 @@
         "wk:page":"Georgi Damyanovo"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b8cae9328a5c837ee5542a1e5fe235e9",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614033,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u0413\u0435\u043e\u0440\u0433\u0438 \u0414\u0430\u043c\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

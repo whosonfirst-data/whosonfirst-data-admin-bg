@@ -353,6 +353,9 @@
         "wk:page":"Montana, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ed4fe70f34d03ee40c0b2f93eac0dcd",
     "wof:hierarchy":[
         {
@@ -366,7 +369,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614113,
+    "wof:lastmodified":1582345672,
     "wof:name":"\u041c\u043e\u043d\u0442\u0430\u043d\u0430",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

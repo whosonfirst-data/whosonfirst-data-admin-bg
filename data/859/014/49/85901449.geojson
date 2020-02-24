@@ -111,6 +111,10 @@
         "wd:id":"Q7780690"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ace97f5a5337ecb2d2413902575a575d",
     "wof:hierarchy":[
         {
@@ -125,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613708,
+    "wof:lastmodified":1582345657,
     "wof:name":"Vrabnitsa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

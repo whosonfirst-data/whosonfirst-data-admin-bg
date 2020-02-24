@@ -119,6 +119,9 @@
         "wk:page":"Boynitsa Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c63ae13489702b2e295866de22182dfb",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614096,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u0411\u043e\u0439\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"Levski Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d115e6fecb0864a7cdf8d741e50b11a5",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614024,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u041b\u0435\u0432\u0441\u043a\u0438",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

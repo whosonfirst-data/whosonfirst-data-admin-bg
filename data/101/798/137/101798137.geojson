@@ -177,6 +177,9 @@
         "wk:page":"Maglizh"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"707f2946c3d50c7fa87431fe64635a79",
     "wof:hierarchy":[
         {
@@ -190,7 +193,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614078,
+    "wof:lastmodified":1582345668,
     "wof:name":"\u041c\u044a\u0433\u043b\u0438\u0436",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

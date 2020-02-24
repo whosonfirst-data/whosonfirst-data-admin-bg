@@ -161,6 +161,9 @@
         "wk:page":"Hisarya, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14d218c1191a429817f7f9c1924a4464",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614066,
+    "wof:lastmodified":1582345668,
     "wof:name":"\u0425\u0438\u0441\u0430\u0440\u044f",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

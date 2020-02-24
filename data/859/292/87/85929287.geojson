@@ -88,6 +88,10 @@
         "wd:id":"Q3658300"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8e786e0064ccb84eb68a06e75be0f317",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613709,
+    "wof:lastmodified":1582345657,
     "wof:name":"Triaditsa",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

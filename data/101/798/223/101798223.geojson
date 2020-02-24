@@ -119,6 +119,9 @@
         "wk:page":"Anton, Sofia Province"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5f7a40bde5d0bd55f6e25c7a1611d1c",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614080,
+    "wof:lastmodified":1582345668,
     "wof:name":"\u0410\u043d\u0442\u043e\u043d",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

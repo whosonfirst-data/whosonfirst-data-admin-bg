@@ -114,6 +114,9 @@
         "wk:page":"Makresh Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0b46e1f838e7b66a7bbe990415e50807",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614036,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u041c\u0430\u043a\u0440\u0435\u0448",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

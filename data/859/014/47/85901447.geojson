@@ -170,6 +170,10 @@
         "wd:id":"Q7780633"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"850fa5755efe365deec63efa177184b6",
     "wof:hierarchy":[
         {
@@ -184,7 +188,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613709,
+    "wof:lastmodified":1582345657,
     "wof:name":"Vrazhdebna",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

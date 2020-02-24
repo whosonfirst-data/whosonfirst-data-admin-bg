@@ -147,6 +147,9 @@
         "wk:page":"Dulovo, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7aacee4cb6abb00a7ef97ce5af0d569f",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614105,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0414\u0443\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681871,
     "wof:placetype":"locality",

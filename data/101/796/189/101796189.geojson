@@ -146,6 +146,9 @@
         "wk:page":"Provadia"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aac3c80307a9b1876fdf80a8e4a23010",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614098,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u041f\u0440\u043e\u0432\u0430\u0434\u0438\u044f",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

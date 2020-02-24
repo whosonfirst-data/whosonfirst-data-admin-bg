@@ -162,6 +162,9 @@
         "wk:page":"Harmanli"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"30e065fe14243d5dd282ea222a4a2ff5",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614022,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u0425\u0430\u0440\u043c\u0430\u043d\u043b\u0438",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

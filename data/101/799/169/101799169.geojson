@@ -130,6 +130,9 @@
         "wk:page":"Dobrinishte"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"88b4729c0182d9e9802177d9c2279d80",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":101799169,
-    "wof:lastmodified":1566614042,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u0414\u043e\u0431\u0440\u0438\u043d\u0438\u0449\u0435",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

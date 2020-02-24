@@ -120,6 +120,9 @@
         "wk:page":"Kavarna Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f815528e9f2ca3ac1faf6fbc64ec507d",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614102,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u041a\u0430\u0432\u0430\u0440\u043d\u0430",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

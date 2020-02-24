@@ -114,6 +114,9 @@
         "wk:page":"Koynare"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e9cbc359c3030b0ff535cb25bca88fd7",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614027,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u041a\u043e\u0439\u043d\u0430\u0440\u0435",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

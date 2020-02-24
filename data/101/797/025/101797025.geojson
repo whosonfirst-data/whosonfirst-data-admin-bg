@@ -144,6 +144,9 @@
         "wk:page":"Mizia (town)"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba6d521b5eeae18d71a1809bc72c3159",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614011,
+    "wof:lastmodified":1582345663,
     "wof:name":"\u041c\u0438\u0437\u0438\u044f",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

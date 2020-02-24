@@ -148,6 +148,9 @@
         "wk:page":"Pirdop"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5ab0cc75bdc684212a7fa0613ff1b191",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614143,
+    "wof:lastmodified":1582345675,
     "wof:name":"\u041f\u0438\u0440\u0434\u043e\u043f",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

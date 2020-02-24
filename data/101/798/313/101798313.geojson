@@ -153,6 +153,9 @@
         "wk:page":"Obzor"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aecb5c866622a841be1515b5a976c070",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":101798313,
-    "wof:lastmodified":1566614074,
+    "wof:lastmodified":1582345668,
     "wof:name":"\u041e\u0431\u0437\u043e\u0440",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -82,6 +82,10 @@
         "wd:id":"Q3500923"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a795a154b9eea47a7d7f48bcf652b403",
     "wof:hierarchy":[
         {
@@ -96,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613710,
+    "wof:lastmodified":1582345657,
     "wof:name":"Studentski",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

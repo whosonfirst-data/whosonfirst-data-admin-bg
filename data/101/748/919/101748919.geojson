@@ -462,6 +462,9 @@
         "wk:page":"Varna"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04dacb4721fab9757ed58e360ed039a5",
     "wof:hierarchy":[
         {
@@ -475,7 +478,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614118,
+    "wof:lastmodified":1582345674,
     "wof:name":"\u0412\u0430\u0440\u043d\u0430",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

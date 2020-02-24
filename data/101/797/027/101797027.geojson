@@ -114,6 +114,9 @@
         "wk:page":"Hayredin"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"26d67361e2f6912eee32dc6eb3873b32",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":101797027,
-    "wof:lastmodified":1566614027,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u0425\u0430\u0439\u0440\u0435\u0434\u0438\u043d",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

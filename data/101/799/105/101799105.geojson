@@ -153,6 +153,9 @@
         "wk:page":"Chepelare"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"12951baae8dac043a7464c307bc5084d",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614040,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u0427\u0435\u043f\u0435\u043b\u0430\u0440\u0435",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

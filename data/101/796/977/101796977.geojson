@@ -202,6 +202,9 @@
         "wk:page":"Sozopol"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d11566f1c711d02e8f7d97b5a9e076d",
     "wof:hierarchy":[
         {
@@ -215,7 +218,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614097,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u0421\u043e\u0437\u043e\u043f\u043e\u043b",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -138,6 +138,9 @@
         "wk:page":"Popovo, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a37f4c82ebf67d9aca72657ca2fd6cb4",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614031,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u041f\u043e\u043f\u043e\u0432\u043e",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

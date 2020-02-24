@@ -91,6 +91,9 @@
         "wk:page":"Kamen Bryag"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d5e1e6b78848b9cf01b7e1812442142",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101910941,
-    "wof:lastmodified":1566614145,
+    "wof:lastmodified":1582345675,
     "wof:name":"Kamen Bryag",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

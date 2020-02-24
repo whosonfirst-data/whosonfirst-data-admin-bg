@@ -164,6 +164,9 @@
         "wk:page":"Primorsko"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e5b349d215581258a590cbc7fd09a04",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614098,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u043e",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

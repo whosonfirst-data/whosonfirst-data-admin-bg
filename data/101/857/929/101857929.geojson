@@ -81,6 +81,9 @@
         "wk:page":"Lakatnik"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d2d8d0e9b1ead8bffbc78996b5fe444b",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614112,
+    "wof:lastmodified":1582345672,
     "wof:name":"\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

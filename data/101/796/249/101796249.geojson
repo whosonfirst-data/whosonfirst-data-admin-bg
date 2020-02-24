@@ -132,6 +132,9 @@
         "wk:page":"Dve Mogili"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c99669fec653722570ca20890f85207",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614103,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u0414\u0432\u0435 \u043c\u043e\u0433\u0438\u043b\u0438",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

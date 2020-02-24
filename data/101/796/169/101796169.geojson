@@ -104,6 +104,9 @@
         "wk:page":"Novo Selo Municipality, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0abd5bf23df2414b7f137d1da9f8a6cd",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614093,
+    "wof:lastmodified":1582345669,
     "wof:name":"\u041d\u043e\u0432\u043e \u0441\u0435\u043b\u043e",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

@@ -171,6 +171,9 @@
         "wk:page":"Varshets"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"988dbb8643a3f8ae948339de60c1f066",
     "wof:hierarchy":[
         {
@@ -184,7 +187,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614014,
+    "wof:lastmodified":1582345663,
     "wof:name":"\u0412\u044a\u0440\u0448\u0435\u0446",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

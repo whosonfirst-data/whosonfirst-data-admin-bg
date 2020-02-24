@@ -243,6 +243,9 @@
         "wk:page":"Gorna Oryahovitsa"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3fc5103dcd5b7a2bf2b8eea20d7a1d32",
     "wof:hierarchy":[
         {
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":101836667,
-    "wof:lastmodified":1566614142,
+    "wof:lastmodified":1582345675,
     "wof:name":"\u0413\u043e\u0440\u043d\u0430 \u041e\u0440\u044f\u0445\u043e\u0432\u0438\u0446\u0430",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

@@ -96,6 +96,10 @@
         "wd:id":"Q7780690"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a9f62557a614d850d28d534fcff742a",
     "wof:hierarchy":[
         {
@@ -110,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613707,
+    "wof:lastmodified":1582345656,
     "wof:name":"Moderno Predgradie",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

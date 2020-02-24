@@ -151,6 +151,9 @@
         "wk:page":"Boboshevo"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92101656b48c97372bb0f6f462b33ceb",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614049,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u0411\u043e\u0431\u043e\u0448\u0435\u0432\u043e",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

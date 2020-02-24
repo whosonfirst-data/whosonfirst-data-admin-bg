@@ -262,6 +262,9 @@
         "wk:page":"Nesebar"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b1869b70094f85548f1cbaa8656c3c47",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614142,
+    "wof:lastmodified":1582345675,
     "wof:name":"\u041d\u0435\u0441\u0435\u0431\u044a\u0440",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

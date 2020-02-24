@@ -184,6 +184,10 @@
         "qs_pg:id":313392
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"b9ccf8059b129e9cc20c58759e2298dc",
     "wof:hierarchy":[
         {
@@ -198,7 +202,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613708,
+    "wof:lastmodified":1582345656,
     "wof:name":"Vasil Levski",
     "wof:parent_id":101796285,
     "wof:placetype":"neighbourhood",

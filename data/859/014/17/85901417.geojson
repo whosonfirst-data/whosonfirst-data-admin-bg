@@ -81,6 +81,9 @@
         "gp:id":836262
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"15038e5431eac0ba9cb542dc92f8047d",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613707,
+    "wof:lastmodified":1582345656,
     "wof:name":"Gara Iskar",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

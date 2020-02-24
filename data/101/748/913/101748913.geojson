@@ -387,6 +387,9 @@
         "wk:page":"Pleven"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ccc176dc120330e891b34c64849c434",
     "wof:hierarchy":[
         {
@@ -400,7 +403,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614116,
+    "wof:lastmodified":1582345673,
     "wof:name":"\u041f\u043b\u0435\u0432\u0435\u043d",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

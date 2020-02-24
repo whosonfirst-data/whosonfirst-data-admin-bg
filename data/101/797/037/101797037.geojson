@@ -141,6 +141,9 @@
         "wk:page":"Roman, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb87fe0a36be547d87284f7b63e1ad30",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614016,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u0420\u043e\u043c\u0430\u043d",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

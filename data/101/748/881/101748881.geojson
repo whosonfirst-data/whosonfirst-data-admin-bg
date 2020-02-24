@@ -359,6 +359,9 @@
         "wk:page":"Haskovo"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10288fd0df6b51e24201b1e2266ff81b",
     "wof:hierarchy":[
         {
@@ -372,7 +375,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614115,
+    "wof:lastmodified":1582345673,
     "wof:name":"\u0425\u0430\u0441\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

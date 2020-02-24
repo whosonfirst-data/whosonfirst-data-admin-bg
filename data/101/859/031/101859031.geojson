@@ -87,6 +87,9 @@
         "wk:page":"Gorna Kula"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"800d563f8b53d6008b9431fe86e33de2",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614110,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0413\u043e\u0440\u043d\u0430 \u043a\u0443\u043b\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

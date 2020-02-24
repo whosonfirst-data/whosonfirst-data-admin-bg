@@ -101,6 +101,10 @@
         "wd:id":"Q10270041"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"e54fccc36820b7be4cd35622d64c5540",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613708,
+    "wof:lastmodified":1582345656,
     "wof:name":"Darvenitsa",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

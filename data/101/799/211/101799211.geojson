@@ -129,6 +129,9 @@
         "wk:page":"Stambolovo, Haskovo Province"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"788bbd1cf2b8bfc0df7c50636db5d742",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614042,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u0421\u0442\u0430\u043c\u0431\u043e\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

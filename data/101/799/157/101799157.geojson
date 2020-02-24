@@ -209,6 +209,9 @@
         "wk:page":"Gotse Delchev, Blagoevgrad Province"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4ac4a504971b3a3b5ce5e05793156074",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614039,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u0413\u043e\u0446\u0435 \u0414\u0435\u043b\u0447\u0435\u0432",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -256,6 +256,9 @@
         "wk:page":"Yambol"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"51c238c45bb4a3bc593a9b2d13edb5aa",
     "wof:hierarchy":[
         {
@@ -269,7 +272,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614118,
+    "wof:lastmodified":1582345674,
     "wof:name":"\u042f\u043c\u0431\u043e\u043b",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

@@ -105,6 +105,9 @@
         "wk:page":"Buhovo"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e52ec53f8408a2be544927904804fd70",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":101798057,
-    "wof:lastmodified":1566614084,
+    "wof:lastmodified":1582345669,
     "wof:name":"\u0411\u0443\u0445\u043e\u0432\u043e",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

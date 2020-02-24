@@ -113,6 +113,9 @@
         "wk:page":"Chuprene Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"95a79ab524ec7c5b1f8870cde445779a",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614034,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u0427\u0443\u043f\u0440\u0435\u043d\u0435",
     "wof:parent_id":85681841,
     "wof:placetype":"locality",

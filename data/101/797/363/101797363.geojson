@@ -109,6 +109,9 @@
         "wk:page":"Kaspichan Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"74fa65f651e8ba5856dd6c0e9e502025",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":101797363,
-    "wof:lastmodified":1566614008,
+    "wof:lastmodified":1582345663,
     "wof:name":"\u041a\u0430\u0441\u043f\u0438\u0447\u0430\u043d",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

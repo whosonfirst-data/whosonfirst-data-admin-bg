@@ -135,6 +135,9 @@
         "wk:page":"Knezha"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1794c66e59278ed70a88c4282ccdcdd",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":101797187,
-    "wof:lastmodified":1566614018,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u041a\u043d\u0435\u0436\u0430",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",
