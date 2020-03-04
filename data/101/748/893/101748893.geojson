@@ -264,6 +264,9 @@
         "wk:page":"Kazanlak"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a43a00117141c4c0dedf37fe6acffda",
     "wof:hierarchy":[
         {
@@ -277,7 +280,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614115,
+    "wof:lastmodified":1582345673,
     "wof:name":"\u041a\u0430\u0437\u0430\u043d\u043b\u044a\u043a",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

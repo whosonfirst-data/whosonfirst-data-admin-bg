@@ -116,6 +116,9 @@
         "wk:page":"Kaloyanovo Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f621486feb2c515b9b163ba43097476",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614081,
+    "wof:lastmodified":1582345668,
     "wof:name":"\u041a\u0430\u043b\u043e\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

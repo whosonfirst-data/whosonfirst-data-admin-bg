@@ -126,6 +126,9 @@
         "wk:page":"Senovo, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f2941e589ae58b83d1e0f78568a4bdff",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614029,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u0421\u0435\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

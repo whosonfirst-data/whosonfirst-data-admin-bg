@@ -138,6 +138,9 @@
         "wk:page":"Byala Cherkva"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c45e89cab6e9996a64343966b96d6ab6",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614060,
+    "wof:lastmodified":1582345667,
     "wof:name":"\u0411\u044f\u043b\u0430 \u0447\u0435\u0440\u043a\u0432\u0430",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

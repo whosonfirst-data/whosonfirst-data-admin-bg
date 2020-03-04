@@ -157,6 +157,9 @@
         "wk:page":"Kozloduy"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"18b9e1e90e8817e2e78b89f6db0c98b7",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614101,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u041a\u043e\u0437\u043b\u043e\u0434\u0443\u0439",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

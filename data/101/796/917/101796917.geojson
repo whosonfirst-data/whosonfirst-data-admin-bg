@@ -136,6 +136,9 @@
         "wk:page":"Nikolaevo"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1524b50e23a31187344dad839ec41421",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614107,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u043e",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

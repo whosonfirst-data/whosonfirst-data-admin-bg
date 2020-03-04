@@ -167,6 +167,9 @@
         "wk:page":"Malko Tarnovo"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f804e0b60ad3cb2a16c1cf9c74a94992",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614119,
+    "wof:lastmodified":1582345674,
     "wof:name":"\u041c\u0430\u043b\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

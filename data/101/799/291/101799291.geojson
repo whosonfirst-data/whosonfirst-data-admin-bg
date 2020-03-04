@@ -145,6 +145,9 @@
         "wk:page":"Batak, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6fffda0cd709601d499eef726b78c281",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614055,
+    "wof:lastmodified":1582345667,
     "wof:name":"\u0411\u0430\u0442\u0430\u043a",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

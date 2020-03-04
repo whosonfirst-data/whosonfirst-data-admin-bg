@@ -145,6 +145,9 @@
         "wk:page":"Etropole"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"debff314e618b32af4028b7e9cb9eda4",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614071,
+    "wof:lastmodified":1582345668,
     "wof:name":"\u0415\u0442\u0440\u043e\u043f\u043e\u043b\u0435",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

@@ -132,6 +132,10 @@
         "wd:id":"Q753441"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0f1209c6b99e4e14bd104ab812a2abf",
     "wof:hierarchy":[
         {
@@ -146,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613708,
+    "wof:lastmodified":1582345656,
     "wof:name":"Atanasovo",
     "wof:parent_id":101748905,
     "wof:placetype":"neighbourhood",

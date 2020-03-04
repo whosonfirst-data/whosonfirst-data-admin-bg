@@ -91,6 +91,9 @@
         "wk:page":"Kokalyane"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25728fa253c4fcb5b25fb737198897b1",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":101799313,
-    "wof:lastmodified":1566614049,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u041a\u043e\u043a\u0430\u043b\u044f\u043d\u0435",
     "wof:parent_id":85681771,
     "wof:placetype":"locality",

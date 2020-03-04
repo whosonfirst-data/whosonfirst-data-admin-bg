@@ -195,6 +195,9 @@
         "wk:page":"Pomorie"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6cd3a48b26acabad994bb35bb9401857",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614106,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u041f\u043e\u043c\u043e\u0440\u0438\u0435",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

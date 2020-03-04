@@ -113,6 +113,9 @@
         "wk:page":"Aksakovo Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d1895fa7770fe5e42c3a84d319291998",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614099,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u0410\u043a\u0441\u0430\u043a\u043e\u0432\u043e",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

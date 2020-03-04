@@ -112,6 +112,9 @@
         "wk:page":"Devnya Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b4ec5059873761bb30a9a7316d2ea92e",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614108,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0414\u0435\u0432\u043d\u044f",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

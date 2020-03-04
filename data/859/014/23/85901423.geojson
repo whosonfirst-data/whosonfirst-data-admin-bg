@@ -96,6 +96,10 @@
         "wd:id":"Q6436239"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"fda707316fe81c092c03773aa05d57a0",
     "wof:hierarchy":[
         {
@@ -110,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613708,
+    "wof:lastmodified":1582345656,
     "wof:name":"Krasno Selo",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

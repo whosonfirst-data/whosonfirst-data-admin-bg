@@ -77,6 +77,9 @@
         "wd:id":"Q19610982"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"378374d3db7328c8649ba2138a416feb",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613710,
+    "wof:lastmodified":1582345657,
     "wof:name":"Lyulin",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

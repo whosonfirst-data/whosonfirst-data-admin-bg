@@ -139,6 +139,9 @@
         "wk:page":"Zemen"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"735bfe492176787b5c3e93d7071b6d1e",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614080,
+    "wof:lastmodified":1582345668,
     "wof:name":"\u0417\u0435\u043c\u0435\u043d",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

@@ -116,6 +116,9 @@
         "wk:page":"Loznitsa Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"70f135bf9b0b3594ac1894536bfda94d",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614094,
+    "wof:lastmodified":1582345669,
     "wof:name":"\u041b\u043e\u0437\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

@@ -104,6 +104,9 @@
         "wk:page":"Kubrat Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a952a4b34ad993d28446a37f620133d3",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614120,
+    "wof:lastmodified":1582345674,
     "wof:name":"\u041a\u0443\u0431\u0440\u0430\u0442",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

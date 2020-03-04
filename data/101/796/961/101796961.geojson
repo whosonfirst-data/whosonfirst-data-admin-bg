@@ -120,6 +120,9 @@
         "wk:page":"Kermen"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae8a45a57d99470f6ae435ed66f2dbab",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614100,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u041a\u0435\u0440\u043c\u0435\u043d",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

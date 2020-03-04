@@ -115,6 +115,9 @@
         "wk:page":"Beloslav Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"09cf01958ad2d634abc8ba54abdcf3fe",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614098,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u0411\u0435\u043b\u043e\u0441\u043b\u0430\u0432",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

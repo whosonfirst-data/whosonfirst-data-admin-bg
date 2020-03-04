@@ -91,6 +91,9 @@
         "wk:page":"Obrochishte"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9c3a029c39bb73f8fd1526bd8d81a81",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614035,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u041e\u0431\u0440\u043e\u0447\u0438\u0449\u0435",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

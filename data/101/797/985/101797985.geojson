@@ -148,6 +148,9 @@
         "wk:page":"Sapareva Banya"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04e5e24ccc3ab7c8ed94ee39cc53ed63",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614020,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u0421\u0430\u043f\u0430\u0440\u0435\u0432\u0430 \u0431\u0430\u043d\u044f",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

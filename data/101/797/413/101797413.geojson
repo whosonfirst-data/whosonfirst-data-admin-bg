@@ -151,6 +151,9 @@
         "wk:page":"Varbitsa (town)"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3218c9ba1f394e4abde404c4cf269314",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614010,
+    "wof:lastmodified":1582345663,
     "wof:name":"\u0412\u044a\u0440\u0431\u0438\u0446\u0430",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

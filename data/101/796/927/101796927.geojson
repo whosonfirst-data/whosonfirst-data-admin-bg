@@ -146,6 +146,9 @@
         "wk:page":"Straldzha"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11e5cc3a917a6813603cbfa5c5a3c1ae",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614105,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0421\u0442\u0440\u0430\u043b\u0434\u0436\u0430",
     "wof:parent_id":85681793,
     "wof:placetype":"locality",

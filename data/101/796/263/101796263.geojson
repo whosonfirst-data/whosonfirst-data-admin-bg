@@ -131,6 +131,9 @@
         "wk:page":"General Toshevo Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c6abc2c1baeb2c27ef6609bd59352254",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614105,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0413\u0435\u043d\u0435\u0440\u0430\u043b \u0422\u043e\u0448\u0435\u0432\u043e",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -149,6 +149,9 @@
         "wk:page":"Polski Trambesh"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d9274da69a776bd1dd16c7e6cd5f591",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614035,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u041f\u043e\u043b\u0441\u043a\u0438 \u0422\u0440\u044a\u043c\u0431\u0435\u0448",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

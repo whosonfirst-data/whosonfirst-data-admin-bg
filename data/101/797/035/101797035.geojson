@@ -134,6 +134,9 @@
         "wk:page":"Krivodol, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3c96d2f1df73deb580ea390f0cb12e12",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614030,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u041a\u0440\u0438\u0432\u043e\u0434\u043e\u043b",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

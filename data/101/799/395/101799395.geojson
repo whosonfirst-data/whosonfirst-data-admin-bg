@@ -140,6 +140,9 @@
         "wk:page":"Kuklen"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1d37d9f296d4d53c2d5a8b78e52e199a",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614050,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u041a\u0443\u043a\u043b\u0435\u043d",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

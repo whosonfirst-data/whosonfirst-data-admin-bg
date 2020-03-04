@@ -130,6 +130,9 @@
         "wk:page":"Dolna Mitropoliya"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"88f70dc1f02b687e7340dbcdf0808018",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614019,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u0414\u043e\u043b\u043d\u0430 \u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

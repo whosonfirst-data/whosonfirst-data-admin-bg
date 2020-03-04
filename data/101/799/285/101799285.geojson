@@ -154,6 +154,9 @@
         "wk:page":"Peshtera"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6e63790861d5cb7f52a6062f22497e65",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614054,
+    "wof:lastmodified":1582345667,
     "wof:name":"\u041f\u0435\u0449\u0435\u0440\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

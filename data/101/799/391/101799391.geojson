@@ -146,6 +146,9 @@
         "wk:page":"Perushtitsa"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3da38ad67ccf918cf276d683d98ed40a",
     "wof:hierarchy":[
         {
@@ -159,7 +162,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614038,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u041f\u0435\u0440\u0443\u0449\u0438\u0446\u0430",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

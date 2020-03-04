@@ -86,6 +86,9 @@
         "wk:page":"Erma Reka (village)"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a1ded74833bcf9261f1a533806e1a62a",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614111,
+    "wof:lastmodified":1582345672,
     "wof:name":"\u0415\u0440\u043c\u0430 \u0440\u0435\u043a\u0430",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

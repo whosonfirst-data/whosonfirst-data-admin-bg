@@ -287,6 +287,9 @@
         "wk:page":"Targovishte"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48b0481c22aaea43011bb4d760b9a832",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614015,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435",
     "wof:parent_id":85681839,
     "wof:placetype":"locality",

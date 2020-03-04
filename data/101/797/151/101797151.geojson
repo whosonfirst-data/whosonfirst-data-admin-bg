@@ -142,6 +142,9 @@
         "wk:page":"Elena, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1b5d76a8f5cafc434b18ce72501264c",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614008,
+    "wof:lastmodified":1582345663,
     "wof:name":"\u0415\u043b\u0435\u043d\u0430",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

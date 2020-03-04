@@ -151,6 +151,9 @@
         "wk:page":"Pravets"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"30c34f395f691ba09b7ae3fc18f8adf5",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614100,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u041f\u0440\u0430\u0432\u0435\u0446",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

@@ -65,6 +65,9 @@
         "wk:page":"Yablanitsa Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6486f34012b74a14ad832429dcb8cb30",
     "wof:hierarchy":[
         {
@@ -78,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534985847,
+    "wof:lastmodified":1582345675,
     "wof:name":"\u042f\u0431\u043b\u0430\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

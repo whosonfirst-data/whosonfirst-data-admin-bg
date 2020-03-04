@@ -119,6 +119,9 @@
         "wk:page":"Tsenovo Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"64706f44fa5deba28d0bc5367fe62b53",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614097,
+    "wof:lastmodified":1582345670,
     "wof:name":"\u0426\u0435\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

@@ -98,6 +98,9 @@
         "gp:id":839133
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7f791e766d493b41a716ba686529705",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613708,
+    "wof:lastmodified":1582345656,
     "wof:name":"Rakovski",
     "wof:parent_id":101797991,
     "wof:placetype":"neighbourhood",

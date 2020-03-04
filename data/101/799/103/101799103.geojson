@@ -141,6 +141,9 @@
         "wk:page":"Devin, Bulgaria"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b370e339f462b84c125fc154fd1096a8",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":101799103,
-    "wof:lastmodified":1566614038,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u0414\u0435\u0432\u0438\u043d",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

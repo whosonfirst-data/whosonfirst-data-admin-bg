@@ -134,6 +134,9 @@
         "wk:page":"Sarnitsa, Pazardzhik Province"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6e6e478c7f665e2aa6da1604bf314f13",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614137,
+    "wof:lastmodified":1582345675,
     "wof:name":"\u0421\u044a\u0440\u043d\u0438\u0446\u0430",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

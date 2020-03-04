@@ -140,6 +140,9 @@
         "wk:page":"Kaolinovo"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"22af9a56a0efa7d8fbafada378c7a399",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614093,
+    "wof:lastmodified":1582345669,
     "wof:name":"\u041a\u0430\u043e\u043b\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

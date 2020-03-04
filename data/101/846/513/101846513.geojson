@@ -120,6 +120,9 @@
         "wk:page":"Yakimovo Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f9e8ade32f3594cdeb8d205be9771d2b",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614123,
+    "wof:lastmodified":1582345675,
     "wof:name":"\u042f\u043a\u0438\u043c\u043e\u0432\u043e",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

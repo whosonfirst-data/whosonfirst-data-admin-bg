@@ -141,6 +141,9 @@
         "wk:page":"Laki, Plovdiv Province"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ab178cfe3359b9d5189738b6fbb9e4f",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614041,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u041b\u044a\u043a\u0438",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

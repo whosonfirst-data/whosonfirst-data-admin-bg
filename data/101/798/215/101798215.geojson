@@ -150,6 +150,9 @@
         "wk:page":"Ihtiman"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"420a3b795478c64069af3573b11d5d1d",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614079,
+    "wof:lastmodified":1582345668,
     "wof:name":"\u0418\u0445\u0442\u0438\u043c\u0430\u043d",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

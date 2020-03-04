@@ -112,6 +112,9 @@
         "wk:page":"Smyadovo Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cf1e91e31d1d0e73538dbc42bc93ec5a",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614027,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u0421\u043c\u044f\u0434\u043e\u0432\u043e",
     "wof:parent_id":85681853,
     "wof:placetype":"locality",

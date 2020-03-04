@@ -97,6 +97,10 @@
         "wk:page":"Boyana"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb04ea77c3e9a0d2771292fc620ce0a9",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613707,
+    "wof:lastmodified":1582345656,
     "wof:name":"Vitosha",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

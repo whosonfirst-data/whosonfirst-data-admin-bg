@@ -269,6 +269,9 @@
         "wk:page":"Smolyan"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9079e5c7c9b5704341bcc1ffee296a25",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614048,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u0421\u043c\u043e\u043b\u044f\u043d",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

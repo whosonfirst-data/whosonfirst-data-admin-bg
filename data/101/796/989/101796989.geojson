@@ -138,6 +138,9 @@
         "qs_pg:id":907407
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"12354b2eb50cdf3ea773612027f3d700",
     "wof:hierarchy":[
         {
@@ -151,7 +154,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614106,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0435\u0446",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "wk:page":"Zlataritsa Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a5226ee842d15cfc198d6bfcb8128df9",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614037,
+    "wof:lastmodified":1582345665,
     "wof:name":"\u0417\u043b\u0430\u0442\u0430\u0440\u0438\u0446\u0430",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

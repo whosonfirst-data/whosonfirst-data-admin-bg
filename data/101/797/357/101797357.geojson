@@ -147,6 +147,9 @@
         "wk:page":"Byala, Varna Province"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25b19a80b1e32a22fc79d34413918731",
     "wof:hierarchy":[
         {
@@ -160,7 +163,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614022,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u0411\u044f\u043b\u0430",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

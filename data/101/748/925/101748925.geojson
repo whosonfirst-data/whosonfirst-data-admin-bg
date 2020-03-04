@@ -395,6 +395,9 @@
         "wk:page":"Dobrich"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4f8f88f7297d0f7eb772b9c6343cd795",
     "wof:hierarchy":[
         {
@@ -408,7 +411,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614116,
+    "wof:lastmodified":1582345673,
     "wof:name":"\u0414\u043e\u0431\u0440\u0438\u0447",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

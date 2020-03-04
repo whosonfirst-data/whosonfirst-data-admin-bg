@@ -95,6 +95,10 @@
         "wk:page":"Nadezhda, Sofia"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b4bd7163a3127fd08bfb7cccc48d3edb",
     "wof:hierarchy":[
         {
@@ -109,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613708,
+    "wof:lastmodified":1582345656,
     "wof:name":"Nadezhda",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

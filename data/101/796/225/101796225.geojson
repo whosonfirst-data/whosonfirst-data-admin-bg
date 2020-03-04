@@ -342,6 +342,9 @@
         "wk:page":"Razgrad"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ae8cd876a33facf0ba63ddb0c89a0c3",
     "wof:hierarchy":[
         {
@@ -355,7 +358,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614103,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

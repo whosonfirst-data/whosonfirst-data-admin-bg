@@ -124,6 +124,9 @@
         "wk:page":"Satovcha"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd8c5e7525a20833eb22025cc5a7aac9",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614041,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u0421\u0430\u0442\u043e\u0432\u0447\u0430",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -158,6 +158,9 @@
         "wk:page":"Rakovski (town)"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11470573f2cc68f28dd4638cd2e32be6",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614064,
+    "wof:lastmodified":1582345667,
     "wof:name":"\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0438",
     "wof:parent_id":85681779,
     "wof:placetype":"locality",

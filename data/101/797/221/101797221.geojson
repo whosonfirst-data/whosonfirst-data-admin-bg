@@ -128,6 +128,9 @@
         "wk:page":"Slavyanovo"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"eacc9116fb831512981d793c4e2027f7",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614010,
+    "wof:lastmodified":1582345663,
     "wof:name":"\u0421\u043b\u0430\u0432\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

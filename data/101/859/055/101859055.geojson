@@ -93,6 +93,9 @@
         "wk:page":"Pokrovnik"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"35d7a3344e852c8b7c07faf700a32aba",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614110,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u041f\u043e\u043a\u0440\u043e\u0432\u043d\u0438\u043a",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

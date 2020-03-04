@@ -143,6 +143,9 @@
         "wk:page":"Boychinovtsi"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b198c238bce21184fc9941ed1177bdb5",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614012,
+    "wof:lastmodified":1582345663,
     "wof:name":"\u0411\u043e\u0439\u0447\u0438\u043d\u043e\u0432\u0446\u0438",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

@@ -189,6 +189,9 @@
         "wk:page":"Bansko"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4e95ebfba5c11cfdece8762a5fe02c5e",
     "wof:hierarchy":[
         {
@@ -202,7 +205,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614059,
+    "wof:lastmodified":1582345667,
     "wof:name":"\u0411\u0430\u043d\u0441\u043a\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

@@ -79,6 +79,10 @@
         "qs_pg:id":983581
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed82a560045667dfdcb8b319024b624f",
     "wof:hierarchy":[
         {
@@ -93,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613709,
+    "wof:lastmodified":1582345657,
     "wof:name":"Chitakovi Kolibi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

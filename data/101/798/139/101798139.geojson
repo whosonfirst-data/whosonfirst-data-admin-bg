@@ -156,6 +156,9 @@
         "wk:page":"Pavel Banya"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7ca6dbdae116078fb99bc07dcc120d6c",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614077,
+    "wof:lastmodified":1582345668,
     "wof:name":"\u041f\u0430\u0432\u0435\u043b \u0431\u0430\u043d\u044f",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

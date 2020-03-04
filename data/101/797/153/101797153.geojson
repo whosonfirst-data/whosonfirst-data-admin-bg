@@ -117,6 +117,9 @@
         "wk:page":"Debelets"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ae11666eb91f02bca5608ba0cd56c06",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":101797153,
-    "wof:lastmodified":1566614022,
+    "wof:lastmodified":1582345664,
     "wof:name":"\u0414\u0435\u0431\u0435\u043b\u0435\u0446",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

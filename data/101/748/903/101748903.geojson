@@ -400,6 +400,9 @@
         "wk:page":"Sliven"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2ea06cf2390d6919c148cd09c989c49f",
     "wof:hierarchy":[
         {
@@ -413,7 +416,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614116,
+    "wof:lastmodified":1582345673,
     "wof:name":"\u0421\u043b\u0438\u0432\u0435\u043d",
     "wof:parent_id":85681799,
     "wof:placetype":"locality",

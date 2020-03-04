@@ -88,6 +88,10 @@
         "wd:id":"Q7917652"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1413200368580431349dd5d90d01219f",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613709,
+    "wof:lastmodified":1582345657,
     "wof:name":"Vazrazhdane",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

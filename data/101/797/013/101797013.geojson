@@ -116,6 +116,9 @@
         "wk:page":"Apriltsi Municipality"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"580b3dade1d4e48d99e3f18fae82455c",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614010,
+    "wof:lastmodified":1582345663,
     "wof:name":"\u0410\u043f\u0440\u0438\u043b\u0446\u0438",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

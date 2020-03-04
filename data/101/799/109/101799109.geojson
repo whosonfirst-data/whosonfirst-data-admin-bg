@@ -133,6 +133,9 @@
         "wk:page":"Dospat"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"54d8bc583c795beb8c590e47b5b6720e",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614051,
+    "wof:lastmodified":1582345666,
     "wof:name":"\u0414\u043e\u0441\u043f\u0430\u0442",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

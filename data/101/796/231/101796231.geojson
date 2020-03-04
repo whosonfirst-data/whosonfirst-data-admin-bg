@@ -131,6 +131,9 @@
         "wk:page":"Slivo Pole"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc1b4e6ac3b72f512e736bea9555e97a",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614104,
+    "wof:lastmodified":1582345671,
     "wof:name":"\u0421\u043b\u0438\u0432\u043e \u043f\u043e\u043b\u0435",
     "wof:parent_id":85681861,
     "wof:placetype":"locality",

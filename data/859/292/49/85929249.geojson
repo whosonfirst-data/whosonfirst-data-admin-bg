@@ -97,6 +97,10 @@
         "wd:id":"Q5426161"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"84192c2b708de59000e4a5dad92c52a9",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566613710,
+    "wof:lastmodified":1582345657,
     "wof:name":"Ilinden",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

@@ -352,6 +352,9 @@
         "wk:page":"Vratsa"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8a0845d12ecfb9c33e5ede2ac14a269f",
     "wof:hierarchy":[
         {
@@ -365,7 +368,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614113,
+    "wof:lastmodified":1582345672,
     "wof:name":"\u0412\u0440\u0430\u0446\u0430",
     "wof:parent_id":85681817,
     "wof:placetype":"locality",

@@ -134,6 +134,9 @@
         "wk:page":"Bozhurishte"
     },
     "wof:country":"BG",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cc7f57de21370758ddbe45bad6bf0dcf",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566614083,
+    "wof:lastmodified":1582345668,
     "wof:name":"\u0411\u043e\u0436\u0443\u0440\u0438\u0449\u0435",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",
