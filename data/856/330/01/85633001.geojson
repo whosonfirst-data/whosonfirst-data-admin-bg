@@ -1110,9 +1110,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Bulgaria",
-        "digitalenvoy:country_code":[
-            100
-        ],
+        "digitalenvoy:country_code":100,
         "fb:id":"en.bulgaria",
         "fifa:id":"BUL",
         "fips:code":"BU",
@@ -1155,7 +1153,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1583529079,
+    "wof:lastmodified":1583797283,
     "wof:name":"Bulgaria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
