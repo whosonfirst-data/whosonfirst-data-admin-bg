@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.196063,
-    "geom:area_square_m":110717101596.578903,
+    "geom:area_square_m":110717103900.925659,
     "geom:bbox":"22.358378,41.238374,28.605693,44.215692",
     "geom:latitude":42.758554,
     "geom:longitude":25.236214,
@@ -66,6 +66,9 @@
     "name:arg_x_preferred":[
         "Bulgaria"
     ],
+    "name:ary_x_preferred":[
+        "\u0628\u0644\u063a\u0627\u0631\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u0644\u062c\u0627\u0631\u064a\u0627"
     ],
@@ -92,6 +95,9 @@
     ],
     "name:bam_x_preferred":[
         "Buligari"
+    ],
+    "name:ban_x_preferred":[
+        "Bulgaria"
     ],
     "name:bar_x_preferred":[
         "Buigarien"
@@ -197,6 +203,12 @@
     "name:dan_x_preferred":[
         "Bulgarien"
     ],
+    "name:deu_at_x_preferred":[
+        "Bulgarien"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Bulgarien"
+    ],
     "name:deu_x_preferred":[
         "Bulgarien"
     ],
@@ -220,6 +232,12 @@
     ],
     "name:eml_x_preferred":[
         "Bulgar\u00ee"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Bulgaria"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Bulgaria"
     ],
     "name:eng_x_preferred":[
         "Bulgaria"
@@ -292,6 +310,12 @@
     ],
     "name:gag_x_preferred":[
         "Bulgariya"
+    ],
+    "name:gan_x_preferred":[
+        "\u4fdd\u52a0\u5229\u4e9e"
+    ],
+    "name:gcr_x_preferred":[
+        "Bilgari"
     ],
     "name:gla_x_preferred":[
         "Bulg\u00e0iria"
@@ -368,6 +392,9 @@
     "name:hyw_x_preferred":[
         "\u054a\u0578\u0582\u056c\u0572\u0561\u0580\u056b\u0561"
     ],
+    "name:hyw_x_variant":[
+        "\u054a\u0578\u0582\u056c\u056f\u0561\u0580\u056b\u0561"
+    ],
     "name:ibo_x_preferred":[
         "Bulgaria"
     ],
@@ -438,6 +465,9 @@
     ],
     "name:kbp_x_preferred":[
         "Puligari"
+    ],
+    "name:kea_x_preferred":[
+        "Bulg\u00e1ria"
     ],
     "name:khm_x_preferred":[
         "\u1794\u17ca\u17bb\u179b\u17a0\u17d2\u1782\u17b6\u179a\u17b8"
@@ -721,6 +751,9 @@
     "name:pol_x_preferred":[
         "Bu\u0142garia"
     ],
+    "name:por_br_x_preferred":[
+        "Bulg\u00e1ria"
+    ],
     "name:por_x_preferred":[
         "Bulg\u00e1ria"
     ],
@@ -826,6 +859,12 @@
     "name:srn_x_preferred":[
         "Bulgarikondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u0440\u0441\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Bugarska"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0443\u0433\u0430\u0440\u0441\u043a\u0430"
     ],
@@ -846,6 +885,9 @@
     ],
     "name:szl_x_preferred":[
         "Bu\u0142garyjo"
+    ],
+    "name:szy_x_preferred":[
+        "Bulgaria"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bb2\u0bcd\u0b95\u0bbe\u0bb0\u0bbf\u0baf\u0bbe"
@@ -988,6 +1030,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Bulgariya"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4fdd\u52a0\u5229\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u4fdd\u52a0\u5229\u4e9a"
@@ -1153,7 +1198,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1583797283,
+    "wof:lastmodified":1587428007,
     "wof:name":"Bulgaria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
