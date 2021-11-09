@@ -25,7 +25,7 @@
     "geom:longitude":23.607539,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0421\u043e\u0444\u0438\u044f Region"
+        "Sofia Province"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
@@ -267,7 +267,8 @@
         "gn:id":727012,
         "gp:id":20070061,
         "hasc:id":"BG.SG",
-        "iso:id":"BG-22"
+        "iso:id":"BG-22",
+        "wd:id":"Q202904"
     },
     "wof:country":"BG",
     "wof:geomhash":"7b6727e0991c5c2ba1b4d749c751df1f",
