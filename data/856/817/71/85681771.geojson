@@ -25,7 +25,7 @@
     "geom:longitude":23.398601,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430) Region"
+        "Sofia City Province"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
@@ -59,10 +59,7 @@
         "Liste der bulgarischen Orden und Ehrenzeichen"
     ],
     "name:eng_x_preferred":[
-        "Sofiya"
-    ],
-    "name:eng_x_variant":[
-        "Orders"
+        "Sofia City"
     ],
     "name:nob_x_preferred":[
         "Bulgarias ordensvesen"
@@ -188,7 +185,7 @@
         "hasc:id":"BG.SF",
         "iso:id":"BG-23",
         "unlc:id":"BG-22",
-        "wd:id":"Q983760"
+        "wd:id":"Q1585725"
     },
     "wof:country":"BG",
     "wof:geomhash":"10be1cff26675942a0ed641bcea7c3e6",
