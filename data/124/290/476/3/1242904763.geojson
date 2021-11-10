@@ -43,10 +43,19 @@
     "name:deu_x_preferred":[
         "Vransko"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0627\u0646\u0633\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "Vransko"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e8\u05e0\u05e1\u05e7\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Vransko"
+    ],
+    "name:hun_x_preferred":[
         "Vransko"
     ],
     "name:ind_x_preferred":[
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":1242904763,
-    "wof:lastmodified":1566614220,
+    "wof:lastmodified":1636500635,
     "wof:name":"Vransko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

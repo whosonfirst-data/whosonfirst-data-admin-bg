@@ -38,6 +38,12 @@
     "name:deu_x_preferred":[
         "Ilinden"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05dc\u05d9\u05e0\u05d3\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Ilinden"
+    ],
     "name:spa_x_preferred":[
         "Ilinden"
     ],
@@ -66,7 +72,7 @@
         "gn:id":730910
     },
     "wof:country":"BG",
-    "wof:geomhash":"006ce78050ca37fd50a032c555e7c9e4",
+    "wof:geomhash":"df79fa70c201ba8ee6af5e4598d415fb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1360127387,
-    "wof:lastmodified":1566613981,
+    "wof:lastmodified":1636500633,
     "wof:name":"Ilinden",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",
@@ -86,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.79892000000001,
+    23.79892,
     41.46305,
-    23.79892000000001,
+    23.79892,
     41.46305
 ],
-  "geometry": {"coordinates":[23.79892000000001,41.46305],"type":"Point"}
+  "geometry": {"coordinates":[23.79892,41.46305],"type":"Point"}
 }

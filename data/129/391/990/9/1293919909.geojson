@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0443\u0433\u043b\u0430"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e7\u05d3\u05d0\u05df"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293919909,
-    "wof:lastmodified":1566613720,
+    "wof:lastmodified":1636500631,
     "wof:name":"Mugla",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

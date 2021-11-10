@@ -45,6 +45,9 @@
     "name:fra_x_preferred":[
         "Kostel"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e1\u05d8\u05dc"
+    ],
     "name:hun_x_preferred":[
         "Kostel"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1242812503,
-    "wof:lastmodified":1566614192,
+    "wof:lastmodified":1636500634,
     "wof:name":"Kostel",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

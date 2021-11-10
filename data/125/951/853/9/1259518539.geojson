@@ -39,6 +39,12 @@
     "name:fra_x_preferred":[
         "Zelenikovo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05dc\u05e0\u05d9\u05e7\u05d5\u05d1\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Zelenikovo"
+    ],
     "name:ron_x_preferred":[
         "Zelenikovo"
     ],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1259518539,
-    "wof:lastmodified":1566614263,
+    "wof:lastmodified":1636500635,
     "wof:name":"Zelenikovo",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

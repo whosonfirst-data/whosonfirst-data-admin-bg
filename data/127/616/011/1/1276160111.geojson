@@ -82,6 +82,9 @@
         "Kumanovo"
     ],
     "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05de\u05e0\u05d5\u05d1\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05e7\u05d5\u05de\u05d0\u05e0\u05d5\u05d1\u05d5"
     ],
     "name:hrv_x_preferred":[
@@ -196,7 +199,7 @@
         "gn:id":729813
     },
     "wof:country":"BG",
-    "wof:geomhash":"9a747acdb9c62324d0df3bfc9022146d",
+    "wof:geomhash":"0f46349129a38eb9110d1d05021551bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":1276160111,
-    "wof:lastmodified":1566613794,
+    "wof:lastmodified":1636500632,
     "wof:name":"Kumanovo",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",
@@ -216,10 +219,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.93762000000001,
+    27.93762,
     43.27087,
-    27.93762000000001,
+    27.93762,
     43.27087
 ],
-  "geometry": {"coordinates":[27.93762000000001,43.27087],"type":"Point"}
+  "geometry": {"coordinates":[27.93762,43.27087],"type":"Point"}
 }

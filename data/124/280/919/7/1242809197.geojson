@@ -37,6 +37,9 @@
     "name:ell_x_preferred":[
         "\u039a\u03c9\u03c3\u03c4\u03af"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e1\u05d8\u05d9"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10e1\u10e2\u10d8"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1242809197,
-    "wof:lastmodified":1566614190,
+    "wof:lastmodified":1636500634,
     "wof:name":"Kosti",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

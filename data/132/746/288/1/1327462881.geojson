@@ -88,6 +88,9 @@
     "name:hrv_x_preferred":[
         "Razgrad"
     ],
+    "name:hun_x_preferred":[
+        "Razgrad"
+    ],
     "name:ile_x_preferred":[
         "Razgrad"
     ],
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1327462881,
-    "wof:lastmodified":1566613629,
+    "wof:lastmodified":1636500629,
     "wof:name":"Razgrad",
     "wof:parent_id":85681821,
     "wof:placetype":"locality",

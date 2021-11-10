@@ -58,6 +58,9 @@
     "name:hrv_x_preferred":[
         "Metlika"
     ],
+    "name:hun_x_preferred":[
+        "Metlika"
+    ],
     "name:ind_x_preferred":[
         "Munisipalitas Metlika"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1293235553,
-    "wof:lastmodified":1566613739,
+    "wof:lastmodified":1636500631,
     "wof:name":"Metlika",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",
