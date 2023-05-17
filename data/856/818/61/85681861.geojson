@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"BG",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Ruse",
+    "eurostat:name_local":"\u0420\u0443\u0441\u0435",
+    "eurostat:nuts_2021_id":"BG323",
+    "eurostat:nuts_2021_level_0":"BG",
+    "eurostat:nuts_2021_level_1":"BG3",
+    "eurostat:nuts_2021_level_2":"BG32",
+    "eurostat:nuts_2021_level_3":"BG323",
+    "eurostat:population":209084,
+    "eurostat:population_year":2022,
+    "eurostat:urban_type":"2",
     "geom:area":0.316964,
-    "geom:area_square_m":2834870489.520977,
+    "geom:area_square_m":2834870489.520889,
     "geom:bbox":"25.457617,43.359272,26.4594685,44.0382465",
     "geom:latitude":43.671651,
     "geom:longitude":25.992939,
@@ -313,14 +327,18 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "wof:belongsto":[
         102191581,
         85633001
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "eurostat:nuts_2021_id":"BG323"
+    },
     "wof:country":"BG",
-    "wof:geomhash":"13869016b5486d4d3a5de2de006107fd",
+    "wof:geomhash":"518097ff6c5c8c9518cf9ec7ebf3cab8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -335,10 +353,12 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1566613711,
+    "wof:lastmodified":1684351496,
     "wof:name":"Ruse",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
+    "wof:population":209084,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:shortcode":"RS",
     "wof:superseded_by":[],
