@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"BG",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"Bulgaria",
+    "eurostat:name_local":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "eurostat:nuts_2021_id":"BG",
+    "eurostat:nuts_2021_level_0":"BG",
+    "eurostat:population":6838937,
+    "eurostat:population_year":2022,
     "geom:area":12.196541,
-    "geom:area_square_m":110717103900.925659,
+    "geom:area_square_m":110721501812.582138,
     "geom:bbox":"22.358378,41.238374,28.605693,44.215692",
     "geom:latitude":42.75852,
     "geom:longitude":25.236064,
@@ -1192,7 +1200,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2022",
     "statoids:dial":"359",
     "statoids:ds":"BG",
     "statoids:fifa":"BUL",
@@ -1221,6 +1230,7 @@
     "wof:concordances":{
         "dbp:id":"Bulgaria",
         "digitalenvoy:country_code":100,
+        "eurostat:nuts_2021_id":"BG",
         "fb:id":"en.bulgaria",
         "fifa:id":"BUL",
         "fips:code":"BU",
@@ -1251,7 +1261,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"33af41b3b62ca4938b864d1ddd3a90b8",
+    "wof:geomhash":"5acfb2ac59e90a187ca256b899b5274c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1265,11 +1275,11 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1617828573,
+    "wof:lastmodified":1684351312,
     "wof:name":"Bulgaria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
-    "wof:population":7265115,
+    "wof:population":6838937,
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:shortcode":"BG",
