@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Krushuna"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0443\u043d\u0430"
+    ],
     "name:eng_x_preferred":[
         "Krushuna"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0443\u043d\u0430"
+    ],
+    "name:nan_x_preferred":[
+        "Krushuna"
     ],
     "name:pol_x_preferred":[
         "Kruszuna"
@@ -52,11 +58,17 @@
     "name:swe_x_preferred":[
         "Krusjuna"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0440\u0443\u0448\u0443\u043d\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0443\u0448\u0443\u043d\u0430"
     ],
     "name:und_x_variant":[
         "Kruschuna"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u9b6f\u8212\u7d0d"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1125987571,
-    "wof:lastmodified":1566614169,
+    "wof:lastmodified":1690857368,
     "wof:name":"Krushuna",
     "wof:parent_id":85681811,
     "wof:placetype":"locality",

@@ -22,10 +22,16 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0632\u0647\u064a\u0646\u062a\u0633\u0649"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0436\u0435\u043d\u0446\u0438"
     ],
     "name:bul_x_variant":[
+        "\u0411\u043e\u0436\u0435\u043d\u0446\u0438\u0442\u0435"
+    ],
+    "name:che_x_preferred":[
         "\u0411\u043e\u0436\u0435\u043d\u0446\u0438\u0442\u0435"
     ],
     "name:eng_x_preferred":[
@@ -43,6 +49,9 @@
     "name:msa_x_preferred":[
         "Bozhentsi"
     ],
+    "name:nan_x_preferred":[
+        "Bozhentsite"
+    ],
     "name:nld_x_preferred":[
         "Bozhentsi"
     ],
@@ -53,6 +62,9 @@
         "Bojen\u021bite"
     ],
     "name:rus_x_preferred":[
+        "\u0411\u043e\u0436\u0435\u043d\u0446\u0438\u0442\u0435"
+    ],
+    "name:tat_x_preferred":[
         "\u0411\u043e\u0436\u0435\u043d\u0446\u0438\u0442\u0435"
     ],
     "name:ukr_x_preferred":[
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":1125774137,
-    "wof:lastmodified":1566614172,
+    "wof:lastmodified":1690857372,
     "wof:name":"Bozhentsi",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "name:bul_x_variant":[
         "\u0413\u043e\u043b\u044f\u043c\u0430 \u0447\u0438\u043d\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Goljama Chinka"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430-\u0427\u0438\u043d\u043a\u0430"
+    ],
     "name:eng_x_preferred":[
         "Golyama Chinka"
     ],
@@ -43,14 +49,26 @@
     "name:kaz_x_preferred":[
         "\u0413\u043e\u043b\u044f\u043c\u0430-\u0427\u0438\u043d\u043a\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Golyama Chinka"
+    ],
     "name:ron_x_preferred":[
         "Goleama Cinka"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u043b\u044f\u043c\u0430-\u0427\u0438\u043d\u043a\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Goljama Tjinka"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u043b\u044f\u043c\u0430-\u0427\u0438\u043d\u043a\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043b\u044f\u043c\u0430 \u0427\u0438\u043d\u043a\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Golyama Chinka"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
@@ -101,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345671,
+    "wof:lastmodified":1690857289,
     "wof:name":"\u0413\u043e\u043b\u044f\u043c\u0430 \u0447\u0438\u043d\u043a\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

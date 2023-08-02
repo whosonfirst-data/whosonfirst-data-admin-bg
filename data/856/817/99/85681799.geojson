@@ -75,6 +75,15 @@
     "name:ces_x_preferred":[
         "Slivensk\u00e1 oblast"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043b\u0438\u0432\u0435\u043d\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:crh_x_preferred":[
+        "Sliven vil\u00e2yeti"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Sliven"
+    ],
     "name:dan_x_preferred":[
         "Sliven"
     ],
@@ -180,6 +189,9 @@
     "name:nld_x_preferred":[
         "Sliven"
     ],
+    "name:nno_x_preferred":[
+        "Provinsen Sliven"
+    ],
     "name:nob_x_preferred":[
         "Sliven oblast"
     ],
@@ -200,6 +212,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Sliven"
+    ],
+    "name:ron_x_variant":[
+        "Sliven"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043b\u0438\u0432\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -263,6 +278,9 @@
     ],
     "name:war_x_preferred":[
         "Sliven"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65af\u5229\u6587\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u65af\u5229\u6587\u5dde"
@@ -369,7 +387,7 @@
         "wd:id":"Q113120"
     },
     "wof:country":"BG",
-    "wof:geomhash":"9b9c92b59eb9aaf828142341c330664d",
+    "wof:geomhash":"e82b8cdc777535480aaf91576f3cbb7f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -384,7 +402,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1684351495,
+    "wof:lastmodified":1690857085,
     "wof:name":"\u0421\u043b\u0438\u0432\u0435\u043d",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

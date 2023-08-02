@@ -30,6 +30,12 @@
         "\u0422\u0435\u043c\u043d\u0438\u0441\u043a\u043e",
         "Parvomaytsi"
     ],
+    "name:ceb_x_preferred":[
+        "Purvomajci"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0446\u0438"
+    ],
     "name:eng_x_preferred":[
         "Parvomaytsi"
     ],
@@ -39,6 +45,15 @@
     "name:kaz_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0446\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Parvomaytsi"
+    ],
+    "name:nld_x_preferred":[
+        "Parvomajtsi"
+    ],
+    "name:nno_x_preferred":[
+        "P\u0103rvomajsti"
+    ],
     "name:ota_x_preferred":[
         "\u0633\u0631\u063a\u0648\u0641\u0686\u0647"
     ],
@@ -46,6 +61,12 @@
         "P\u0103rvomai\u021bi"
     ],
     "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0446\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Prvomajtsi"
+    ],
+    "name:tat_x_preferred":[
         "\u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0446\u0438"
     ],
     "name:ukr_x_preferred":[
@@ -103,7 +124,7 @@
         }
     ],
     "wof:id":1125873605,
-    "wof:lastmodified":1566614167,
+    "wof:lastmodified":1690857362,
     "wof:name":"Purvomaytsi",
     "wof:parent_id":85681829,
     "wof:placetype":"locality",

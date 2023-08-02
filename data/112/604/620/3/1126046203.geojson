@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0430\u0434\u0438\u0431\u043e\u0448"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0430\u0434\u0438\u0431\u043e\u0448"
+    ],
     "name:eng_x_preferred":[
         "Radibosh"
     ],
@@ -34,10 +37,16 @@
     "name:kaz_x_preferred":[
         "\u0420\u0430\u0434\u0438\u0431\u043e\u0448"
     ],
+    "name:nan_x_preferred":[
+        "Radibosh"
+    ],
     "name:ron_x_preferred":[
         "Radibo\u0219"
     ],
     "name:rus_x_preferred":[
+        "\u0420\u0430\u0434\u0438\u0431\u043e\u0448"
+    ],
+    "name:tat_x_preferred":[
         "\u0420\u0430\u0434\u0438\u0431\u043e\u0448"
     ],
     "name:ukr_x_preferred":[
@@ -96,7 +105,7 @@
         }
     ],
     "wof:id":1126046203,
-    "wof:lastmodified":1566614163,
+    "wof:lastmodified":1690857357,
     "wof:name":"Radibosh",
     "wof:parent_id":85681767,
     "wof:placetype":"locality",

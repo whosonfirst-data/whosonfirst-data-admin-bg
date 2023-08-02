@@ -25,8 +25,17 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0436\u0435\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Rojen"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0436\u0435\u043d"
+    ],
     "name:deu_x_preferred":[
         "Roschen"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03b6\u03b9\u03bd\u03cc\u03c2"
     ],
     "name:eng_x_preferred":[
         "Rozhen"
@@ -37,8 +46,14 @@
     "name:fra_x_preferred":[
         "Rozhen"
     ],
+    "name:fra_x_variant":[
+        "Rojen"
+    ],
     "name:mkd_x_preferred":[
         "\u0420\u043e\u0436\u0435\u043d"
+    ],
+    "name:nan_x_preferred":[
+        "Rozhen"
     ],
     "name:pol_x_preferred":[
         "Ro\u017cen"
@@ -47,6 +62,9 @@
         "Rojen"
     ],
     "name:rus_x_preferred":[
+        "\u0420\u043e\u0436\u0435\u043d"
+    ],
+    "name:tat_x_preferred":[
         "\u0420\u043e\u0436\u0435\u043d"
     ],
     "name:ukr_x_preferred":[
@@ -105,7 +123,7 @@
         }
     ],
     "wof:id":1126022779,
-    "wof:lastmodified":1566614163,
+    "wof:lastmodified":1690857356,
     "wof:name":"Rozhen",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

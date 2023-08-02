@@ -72,6 +72,18 @@
     "name:ces_x_preferred":[
         "Silistersk\u00e1 oblast"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0633\u06cc\u0644\u06cc\u0633\u062a\u0631\u0627"
+    ],
+    "name:crh_x_preferred":[
+        "Silistre vil\u00e2yeti"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Silistra"
+    ],
     "name:dan_x_preferred":[
         "Silistra"
     ],
@@ -180,6 +192,9 @@
     "name:nld_x_preferred":[
         "Silistra"
     ],
+    "name:nno_x_preferred":[
+        "Provinsen Silistra"
+    ],
     "name:nob_x_preferred":[
         "Silistra oblast"
     ],
@@ -200,6 +215,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Silistra"
+    ],
+    "name:ron_x_variant":[
+        "Silistra"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -263,6 +281,9 @@
     ],
     "name:war_x_preferred":[
         "Silistra"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9521\u5229\u65af\u7279\u62c9\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u932b\u5229\u65af\u7279\u62c9\u5dde"
@@ -370,7 +391,7 @@
         "wd:id":"Q2012423"
     },
     "wof:country":"BG",
-    "wof:geomhash":"1a26d7f62f3b5718d36e169d17a74c62",
+    "wof:geomhash":"c85c5480dbfa5acfe11e078d1f303aef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -385,7 +406,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1684351496,
+    "wof:lastmodified":1690857082,
     "wof:name":"\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

@@ -65,6 +65,9 @@
         "Vrabnitsa",
         "Vr\u00febnitsa"
     ],
+    "name:nld_x_preferred":[
+        "Vrabnitsa"
+    ],
     "name:und_x_variant":[
         "W\u0103rbniza"
     ],
@@ -129,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345657,
+    "wof:lastmodified":1690857075,
     "wof:name":"Vrabnitsa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

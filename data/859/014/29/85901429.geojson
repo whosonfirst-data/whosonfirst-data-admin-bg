@@ -48,6 +48,9 @@
         "Moderno Predgradea",
         "Vrabnitsa"
     ],
+    "name:nld_x_preferred":[
+        "Vrabnitsa"
+    ],
     "name:pol_x_preferred":[
         "Rejon Wrybnica"
     ],
@@ -114,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345656,
+    "wof:lastmodified":1690857074,
     "wof:name":"Moderno Predgradie",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

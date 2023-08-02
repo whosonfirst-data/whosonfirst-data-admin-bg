@@ -28,6 +28,9 @@
     "name:bul_x_variant":[
         "\u0417\u043b\u0430\u0442\u043d\u0430 \u043b\u0438\u0432\u0430\u0434\u0430"
     ],
+    "name:che_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u043d\u0430-\u041b\u0438\u0432\u0430\u0434\u0430"
+    ],
     "name:deu_x_preferred":[
         "Zlatna Livada"
     ],
@@ -43,6 +46,9 @@
     "name:kaz_x_preferred":[
         "\u0417\u043b\u0430\u0442\u043d\u0430-\u041b\u0438\u0432\u0430\u0434\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Zlatna livada"
+    ],
     "name:ron_x_preferred":[
         "Zlatna Livada"
     ],
@@ -51,6 +57,9 @@
     ],
     "name:spa_x_preferred":[
         "Zlatna Livada"
+    ],
+    "name:tat_x_preferred":[
+        "\u0417\u043b\u0430\u0442\u043d\u0430-\u041b\u0438\u0432\u0430\u0434\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u043b\u0430\u0442\u043d\u0430 \u041b\u0438\u0432\u0430\u0434\u0430"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1125864255,
-    "wof:lastmodified":1566614164,
+    "wof:lastmodified":1690857358,
     "wof:name":"Zlatna Livada",
     "wof:parent_id":85681783,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u043c\u0435\u043b\u0438\u044f"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0443\u043c\u0435\u043b\u0438\u044f"
+    ],
     "name:eng_x_preferred":[
         "Rumelia"
     ],
@@ -37,6 +40,9 @@
     "name:kaz_x_preferred":[
         "\u0420\u0443\u043c\u0435\u043b\u0438\u044f"
     ],
+    "name:nan_x_preferred":[
+        "Rumeliya"
+    ],
     "name:pol_x_preferred":[
         "Rumelija"
     ],
@@ -44,6 +50,9 @@
         "Rumelia"
     ],
     "name:rus_x_preferred":[
+        "\u0420\u0443\u043c\u0435\u043b\u0438\u044f"
+    ],
+    "name:tat_x_preferred":[
         "\u0420\u0443\u043c\u0435\u043b\u0438\u044f"
     ],
     "name:ukr_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1125912741,
-    "wof:lastmodified":1566614169,
+    "wof:lastmodified":1690857367,
     "wof:name":"Rumeliya",
     "wof:parent_id":85681759,
     "wof:placetype":"locality",

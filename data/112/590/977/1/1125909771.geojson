@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0441\u0442\u0443\u0445"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0443\u0445"
+    ],
     "name:eng_x_preferred":[
         "Pastuh"
     ],
@@ -37,10 +40,19 @@
     "name:kaz_x_preferred":[
         "\u041f\u0430\u0441\u0442\u0443\u0445"
     ],
+    "name:nan_x_preferred":[
+        "Pastuh"
+    ],
+    "name:pol_x_preferred":[
+        "Pastuch"
+    ],
     "name:ron_x_preferred":[
         "Pastuh"
     ],
     "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0443\u0445"
+    ],
+    "name:tat_x_preferred":[
         "\u041f\u0430\u0441\u0442\u0443\u0445"
     ],
     "name:ukr_x_preferred":[
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1125909771,
-    "wof:lastmodified":1566614167,
+    "wof:lastmodified":1690857364,
     "wof:name":"Pastukh",
     "wof:parent_id":85681753,
     "wof:placetype":"locality",

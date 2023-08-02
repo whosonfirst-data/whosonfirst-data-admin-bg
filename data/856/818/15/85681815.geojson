@@ -67,6 +67,21 @@
     "name:ces_x_preferred":[
         "Rusensk\u00e1 oblast"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0443\u0441\u0435\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:chv_x_preferred":[
+        "\u0420\u0443\u0441\u0435 \u043e\u0431\u043b\u0430\u00e7\u0115"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0695\u0648\u0633\u06ce"
+    ],
+    "name:crh_x_preferred":[
+        "Ruse vil\u00e2yeti"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Ruse"
+    ],
     "name:dan_x_preferred":[
         "Ruse"
     ],
@@ -175,6 +190,9 @@
     "name:nld_x_preferred":[
         "Roese"
     ],
+    "name:nno_x_preferred":[
+        "Provinsen Ruse"
+    ],
     "name:nob_x_preferred":[
         "Ruse oblast"
     ],
@@ -195,6 +213,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Ruse"
+    ],
+    "name:ron_x_variant":[
+        "Ruse"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0441\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -255,6 +276,9 @@
     ],
     "name:war_x_preferred":[
         "Rousse"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9c81\u585e\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u585e\u5dde"
@@ -373,7 +397,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1614893049,
+    "wof:lastmodified":1690857082,
     "wof:name":"\u0420\u0443\u0441\u0435",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

@@ -72,11 +72,23 @@
     "name:ces_x_preferred":[
         "Starozagorsk\u00e1 oblast"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0437\u0430\u0433\u043e\u0440\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
     "name:chv_x_preferred":[
         "\u041a\u0438\u0432\u0115 \u0417\u0430\u0433\u043e\u0440\u0430 \u043e\u0431\u043b\u0430\u00e7\u0115"
     ],
     "name:ckb_x_preferred":[
         "\u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u06af\u06c6\u0631\u0627"
+    ],
+    "name:ckb_x_variant":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0633\u062a\u0627\u0631\u0627 \u0632\u0627\u06af\u06c6\u0631\u0627"
+    ],
+    "name:crh_x_preferred":[
+        "Stara Zagora vil\u00e2yeti"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Stara Zagora"
     ],
     "name:dan_x_preferred":[
         "Stara Zagora"
@@ -183,6 +195,9 @@
     "name:nld_x_preferred":[
         "Stara Zagora"
     ],
+    "name:nno_x_preferred":[
+        "Provinsen Stara Zagora"
+    ],
     "name:nob_x_preferred":[
         "Stara Zagora oblast"
     ],
@@ -203,6 +218,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Stara Zagora"
+    ],
+    "name:ron_x_variant":[
+        "Stara Zagora"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0437\u0430\u0433\u043e\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -234,6 +252,9 @@
     "name:tam_x_preferred":[
         "\u0bb8\u0bcd\u0b9f\u0bbe\u0bb0\u0bbe \u0b9a\u0bbe\u0b95\u0bc1\u0bb1\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb8\u0bcd\u0b9f\u0bbe\u0bb0\u0bbe \u0b9a\u0bbe\u0b95\u0bc1\u0bb1\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4d\u0c2e\u0c4b\u0c1f\u0c3e\u0c30\u0c3e \u0c1c\u0c4b\u0c17\u0c3e\u0c30\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -263,6 +284,9 @@
     ],
     "name:war_x_preferred":[
         "Stara Zagora"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65e7\u624e\u6208\u62c9\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u820a\u624e\u6208\u62c9\u5dde"
@@ -369,7 +393,7 @@
         "wd:id":"Q2012583"
     },
     "wof:country":"BG",
-    "wof:geomhash":"b5fd638d0ae7c5f452c186e6346f21a4",
+    "wof:geomhash":"d7c58ceeec078c7381e3bbd2b1c3dea7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -384,7 +408,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1684351495,
+    "wof:lastmodified":1690857086,
     "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
