@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Sindelci"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0438\u043d\u0434\u0435\u043b\u0446\u0438"
+    ],
     "name:eng_x_preferred":[
         "Sindeltsi"
     ],
@@ -43,6 +46,9 @@
     "name:kaz_x_preferred":[
         "\u0421\u0438\u043d\u0434\u0435\u043b\u0446\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Sindeltsi"
+    ],
     "name:pol_x_preferred":[
         "Sinde\u0142ci"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Sindeltsi"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u043d\u0434\u0435\u043b\u0446\u0438"
     ],
     "name:tur_x_preferred":[
         "Sindelli"
@@ -110,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345672,
+    "wof:lastmodified":1690857293,
     "wof:name":"\u0421\u0438\u043d\u0434\u0435\u043b\u0446\u0438",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

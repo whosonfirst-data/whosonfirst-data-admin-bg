@@ -75,6 +75,21 @@
     "name:ces_x_preferred":[
         "Dobri\u010dsk\u00e1 oblast"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0438\u0447\u0438\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:chv_x_preferred":[
+        "\u0414\u043e\u0431\u0440\u0438\u0447 \u043e\u0431\u043b\u0430\u00e7\u0115"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062f\u06c6\u0628\u0631\u06cc\u0686"
+    ],
+    "name:crh_x_preferred":[
+        "Dobri\u00e7 vil\u00e2yeti"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Dobrich"
+    ],
     "name:dan_x_preferred":[
         "Dobritj"
     ],
@@ -183,6 +198,9 @@
     "name:nld_x_preferred":[
         "Dobritsj"
     ],
+    "name:nno_x_preferred":[
+        "Provinsen Dobritsj"
+    ],
     "name:nob_x_preferred":[
         "Dobritsj oblast"
     ],
@@ -203,6 +221,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Dobrici"
+    ],
+    "name:ron_x_variant":[
+        "Dobrici"
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0431\u0440\u0438\u0447\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -269,6 +290,9 @@
     ],
     "name:war_x_preferred":[
         "Dobrich"
+    ],
+    "name:wuu_x_preferred":[
+        "\u591a\u5e03\u91cc\u5947\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u591a\u5e03\u91cc\u5947\u5dde"
@@ -375,7 +399,7 @@
         "wd:id":"Q907395"
     },
     "wof:country":"BG",
-    "wof:geomhash":"6d53bee3650a023e6a5b2d0382a4a7b4",
+    "wof:geomhash":"27df4577b431077ce53f6e4e7e5530ba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -390,7 +414,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1684351496,
+    "wof:lastmodified":1690857081,
     "wof:name":"\u0414\u043e\u0431\u0440\u0438\u0447",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

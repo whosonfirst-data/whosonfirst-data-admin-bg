@@ -23,6 +23,12 @@
     "name:bul_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447"
     ],
+    "name:ceb_x_preferred":[
+        "Rogach"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0447"
+    ],
     "name:eng_x_preferred":[
         "Rogach"
     ],
@@ -39,10 +45,19 @@
     "name:kaz_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447"
     ],
+    "name:nan_x_preferred":[
+        "Rogach"
+    ],
     "name:ron_x_preferred":[
         "Rogaci"
     ],
     "name:rus_x_preferred":[
+        "\u0420\u043e\u0433\u0430\u0447"
+    ],
+    "name:swe_x_preferred":[
+        "Rogatj"
+    ],
+    "name:tat_x_preferred":[
         "\u0420\u043e\u0433\u0430\u0447"
     ],
     "name:ukr_x_preferred":[
@@ -50,6 +65,9 @@
     ],
     "name:und_x_variant":[
         "Yumer K\u2019oy"
+    ],
+    "name:uzb_x_preferred":[
+        "Rogach"
     ],
     "qs:a0":"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
     "qs:a1":"*\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
@@ -100,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345672,
+    "wof:lastmodified":1690857292,
     "wof:name":"\u0420\u043e\u0433\u0430\u0447",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

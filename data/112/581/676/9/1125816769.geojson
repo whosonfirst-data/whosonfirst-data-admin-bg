@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Strashimirovo"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0448\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Strashimirovo"
     ],
@@ -37,8 +40,17 @@
     "name:fra_x_preferred":[
         "Strashimirovo"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u0580\u0561\u0577\u056b\u0574\u056b\u0580\u0578\u057e\u0578"
+    ],
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0448\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Strashimirovo"
+    ],
+    "name:nld_x_preferred":[
+        "Strasjimirovo"
     ],
     "name:ron_x_preferred":[
         "Stra\u0219imirovo"
@@ -48,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Strasjimirovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0440\u0430\u0448\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0440\u0430\u0448\u0438\u043c\u0438\u0440\u043e\u0432\u043e"
@@ -105,7 +120,7 @@
         }
     ],
     "wof:id":1125816769,
-    "wof:lastmodified":1566614164,
+    "wof:lastmodified":1690857359,
     "wof:name":"Strashimirovo",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",

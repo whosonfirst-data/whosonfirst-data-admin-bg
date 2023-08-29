@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
     "geom:area_square_m":359513.976224,
-    "geom:bbox":"23.8926560998,41.5849735215,23.9031108426,41.5900692805",
+    "geom:bbox":"23.892656,41.584974,23.903111,41.590069",
     "geom:latitude":41.58757,
     "geom:longitude":23.897992,
     "iso:country":"BG",
@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Dolno Dryanovo"
     ],
+    "name:ceb_x_variant":[
+        "Dolno Drjanovo"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0414\u0440\u044f\u043d\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Dolno Dryanovo"
     ],
@@ -40,6 +46,9 @@
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u0435\u043d\u043e\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Dolno Dryanovo"
+    ],
     "name:ron_x_preferred":[
         "Dolno Dreanovo"
     ],
@@ -51,6 +60,12 @@
     ],
     "name:swe_x_preferred":[
         "Dolno Dryanovo"
+    ],
+    "name:swe_x_variant":[
+        "Dolno Drjanovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e-\u0414\u0440\u044f\u043d\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u0456\u0448\u043d\u0454 \u0414\u0440\u044f\u043d\u043e\u0432\u043e"
@@ -89,7 +104,7 @@
         "wk:page":"Dolno Dryanovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"ac53c2ed048d0bf819ff3dca1d46d758",
+    "wof:geomhash":"e7c4dd624e40a5fe4ca2f7f47e41a4c1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,7 +114,7 @@
         }
     ],
     "wof:id":101800319,
-    "wof:lastmodified":1566614139,
+    "wof:lastmodified":1690857344,
     "wof:name":"\u0414\u043e\u043b\u043d\u043e \u0414\u0440\u044f\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",
@@ -109,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.89265609980532,
-    41.58497352147714,
-    23.90311084262078,
-    41.59006928054782
+    23.892656,
+    41.584974,
+    23.903111,
+    41.590069
 ],
-  "geometry": {"coordinates":[[[23.90311084262078,41.58924083789111],[23.90229846606809,41.58569442557405],[23.90111855795038,41.58586013081469],[23.90091549988779,41.58497352147714],[23.89265609980532,41.5861330493226],[23.89346792597746,41.58967955604129],[23.89700789692108,41.58918266567491],[23.89721092194912,41.59006928054782],[23.90311084262078,41.58924083789111]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[23.903111,41.589241],[23.902298,41.585694],[23.901119,41.58586],[23.900915,41.584974],[23.892656,41.586133],[23.893468,41.58968],[23.897008,41.589183],[23.897211,41.590069],[23.903111,41.589241]]],"type":"Polygon"}
 }

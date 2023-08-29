@@ -26,6 +26,15 @@
     "name:bul_x_variant":[
         "\u0415\u0440\u043c\u0430 \u0420\u0435\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Erma reka"
+    ],
+    "name:che_x_preferred":[
+        "\u0415\u0440\u043c\u0430-\u0420\u0435\u043a\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Erma Reka"
+    ],
     "name:eng_x_preferred":[
         "Erma Reka"
     ],
@@ -33,6 +42,9 @@
         "Erma-Ryeka",
         "Irma Ryeka",
         "Promishleno Selo Erma Reka"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0645\u0627 \u0631\u06a9\u0627"
     ],
     "name:fra_x_preferred":[
         "Erma Reka"
@@ -43,10 +55,22 @@
     "name:kaz_x_preferred":[
         "\u0415\u0440\u043c\u0430-\u0420\u0435\u043a\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Erma Reka"
+    ],
+    "name:nan_x_preferred":[
+        "Erma reka"
+    ],
     "name:ron_x_preferred":[
         "Erma Reka"
     ],
     "name:rus_x_preferred":[
+        "\u0415\u0440\u043c\u0430-\u0420\u0435\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Erma reka"
+    ],
+    "name:tat_x_preferred":[
         "\u0415\u0440\u043c\u0430-\u0420\u0435\u043a\u0430"
     ],
     "name:ukr_x_preferred":[
@@ -102,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345672,
+    "wof:lastmodified":1690857292,
     "wof:name":"\u0415\u0440\u043c\u0430 \u0440\u0435\u043a\u0430",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

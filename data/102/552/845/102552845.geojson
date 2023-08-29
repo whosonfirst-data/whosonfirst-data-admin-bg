@@ -31,6 +31,9 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30e9\u30d5\u30fb\u30a4\u30b0\u30ca\u30c6\u30a3\u30a8\u30dc\u7a7a\u8ecd\u57fa\u5730"
     ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Graf Ignatievo"
+    ],
     "name:tgk_x_preferred":[
         "\u041f\u043e\u0439\u0433\u043e\u04b3\u0438 \u04b3\u0430\u0432\u043e\u04e3 \u0433\u0440\u0444 \u043e\u0438\u0433\u043d\u043e\u0442\u044e\u0432"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":102552845,
-    "wof:lastmodified":1631750085,
+    "wof:lastmodified":1690857073,
     "wof:name":"Graf Ignatievo Airport",
     "wof:parent_id":85681779,
     "wof:placetype":"campus",

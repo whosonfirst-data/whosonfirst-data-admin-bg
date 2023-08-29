@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Gelemenovo"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0435\u043b\u0435\u043c\u0435\u043d\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Gelemenovo"
     ],
@@ -46,6 +49,9 @@
     "name:msa_x_preferred":[
         "Gelemenovo"
     ],
+    "name:nan_x_preferred":[
+        "Gelemenovo"
+    ],
     "name:ron_x_preferred":[
         "Ghelemenovo"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Gelemenovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0435\u043b\u0435\u043c\u0435\u043d\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0435\u043b\u0435\u043c\u0435\u043d\u043e\u0432\u043e"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1125962795,
-    "wof:lastmodified":1566614168,
+    "wof:lastmodified":1690857366,
     "wof:name":"Gelemenovo",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

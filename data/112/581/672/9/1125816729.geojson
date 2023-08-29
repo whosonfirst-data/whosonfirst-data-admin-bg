@@ -25,14 +25,29 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u043b\u044f\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Poljanovo"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Polyanovo"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u0644\u06cc\u0627\u0646\u0648\u0648\u0648"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u056c\u0575\u0561\u0576\u0578\u057e\u0578"
+    ],
     "name:kaz_x_preferred":[
         "\u041f\u043e\u043b\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:nan_x_preferred":[
+        "Polyanovo"
+    ],
+    "name:nld_x_preferred":[
+        "Poljanovo"
     ],
     "name:pol_x_preferred":[
         "Polanowo"
@@ -41,6 +56,12 @@
         "Poleanovo"
     ],
     "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u044f\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Poljanovo"
+    ],
+    "name:tat_x_preferred":[
         "\u041f\u043e\u043b\u044f\u043d\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
@@ -99,7 +120,7 @@
         }
     ],
     "wof:id":1125816729,
-    "wof:lastmodified":1566614164,
+    "wof:lastmodified":1690857358,
     "wof:name":"Polyanovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",

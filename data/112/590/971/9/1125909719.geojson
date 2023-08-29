@@ -25,6 +25,12 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0430\u0433\u0443\u0448\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Dragushinovo"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0443\u0448\u0438\u043d\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Dragushinovo"
     ],
@@ -34,6 +40,12 @@
     "name:kaz_x_preferred":[
         "\u0414\u0440\u0430\u0433\u0443\u0448\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Dragushinovo"
+    ],
+    "name:nld_x_preferred":[
+        "Dragoesjinovo"
+    ],
     "name:pol_x_preferred":[
         "Draguszinowo"
     ],
@@ -41,6 +53,12 @@
         "Dragu\u0219inovo"
     ],
     "name:rus_x_preferred":[
+        "\u0414\u0440\u0430\u0433\u0443\u0448\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dragusjinovo"
+    ],
+    "name:tat_x_preferred":[
         "\u0414\u0440\u0430\u0433\u0443\u0448\u0438\u043d\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
@@ -99,7 +117,7 @@
         }
     ],
     "wof:id":1125909719,
-    "wof:lastmodified":1566614167,
+    "wof:lastmodified":1690857364,
     "wof:name":"Dragushinovo",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

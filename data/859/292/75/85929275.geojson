@@ -27,20 +27,33 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
     "mz:tier_metro":30,
+    "name:bar_x_preferred":[
+        "Owtscha Kupel"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0432\u0447\u0430 \u043a\u0443\u043f\u0435\u043b"
     ],
     "name:ceb_x_preferred":[
         "Rayon Ovcha Kupel"
     ],
+    "name:deu_x_preferred":[
+        "Owtscha Kupel"
+    ],
     "name:eng_x_preferred":[
         "Ovcha Kupel"
     ],
     "name:eng_x_variant":[
-        "Ovcha kupel"
+        "Ovcha kupel",
+        "Ovcha Kupel District"
     ],
     "name:hye_x_preferred":[
         "\u0555\u057e\u0579\u0561 \u056f\u0578\u0582\u057a\u0565\u056c"
+    ],
+    "name:nno_x_preferred":[
+        "Ovtsja kupel"
+    ],
+    "name:pol_x_preferred":[
+        "Rejon Owcza kupe\u0142"
     ],
     "name:swe_x_preferred":[
         "Rajon Ovtja Kupel"
@@ -108,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345657,
+    "wof:lastmodified":1690857076,
     "wof:name":"Ovcha Kupel",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

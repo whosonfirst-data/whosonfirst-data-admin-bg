@@ -25,6 +25,12 @@
     "name:bul_x_preferred":[
         "\u0421\u0432\u0435\u0449\u0430\u0440\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Sveshhari"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0432\u0435\u0448\u0442\u0430\u0440\u0438"
+    ],
     "name:eng_x_preferred":[
         "Sveshtari"
     ],
@@ -37,6 +43,12 @@
     "name:kaz_x_preferred":[
         "\u0421\u0432\u0435\u0448\u0442\u0430\u0440\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Sveshtari"
+    ],
+    "name:nld_x_preferred":[
+        "Svesjtari"
+    ],
     "name:pol_x_preferred":[
         "Swesztari"
     ],
@@ -46,11 +58,20 @@
     "name:rus_x_preferred":[
         "\u0421\u0432\u0435\u0448\u0442\u0430\u0440\u0438"
     ],
+    "name:swe_x_preferred":[
+        "Svesjtari"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0432\u0435\u0448\u0442\u0430\u0440\u0438"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0432\u0435\u0448\u0442\u0430\u0440\u0438"
     ],
     "name:und_x_variant":[
         "Mumdzhular"
+    ],
+    "name:vie_x_preferred":[
+        "Sveshtari"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -102,7 +123,7 @@
         }
     ],
     "wof:id":1125816757,
-    "wof:lastmodified":1566614164,
+    "wof:lastmodified":1690857359,
     "wof:name":"Sveshtari",
     "wof:parent_id":85681857,
     "wof:placetype":"locality",

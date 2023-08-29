@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Kranevo"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0440\u0430\u043d\u0435\u0432\u043e"
+    ],
     "name:deu_x_preferred":[
         "Kranewo"
     ],
@@ -47,6 +50,9 @@
         "\u041a\u0440\u0430\u043d\u0435\u0432\u043e"
     ],
     "name:msa_x_preferred":[
+        "Kranevo"
+    ],
+    "name:nan_x_preferred":[
         "Kranevo"
     ],
     "name:pol_x_preferred":[
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1125823821,
-    "wof:lastmodified":1566614171,
+    "wof:lastmodified":1690857370,
     "wof:name":"Kranevo",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

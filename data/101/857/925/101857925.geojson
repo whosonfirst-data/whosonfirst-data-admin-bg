@@ -33,6 +33,9 @@
     "name:ckb_x_preferred":[
         "\u0628\u06ce\u0644\u06c6\u06a4\u06c6"
     ],
+    "name:deu_x_preferred":[
+        "Belowo"
+    ],
     "name:eng_x_preferred":[
         "Belovo"
     ],
@@ -50,6 +53,9 @@
     "name:fra_x_preferred":[
         "Belovo"
     ],
+    "name:gle_x_preferred":[
+        "Belovo"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05d5\u05d1\u05d5"
     ],
@@ -65,8 +71,14 @@
     "name:nld_x_preferred":[
         "Belovo"
     ],
+    "name:pol_x_preferred":[
+        "Be\u0142owo"
+    ],
     "name:por_x_preferred":[
         "Belovo"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u06d0\u0644\u0648 \u0648\u0648"
     ],
     "name:ron_x_preferred":[
         "Belovo"
@@ -78,6 +90,9 @@
         "Belovo"
     ],
     "name:spa_x_preferred":[
+        "Belovo"
+    ],
+    "name:swe_x_preferred":[
         "Belovo"
     ],
     "name:tat_x_preferred":[
@@ -148,7 +163,7 @@
         }
     ],
     "wof:id":101857925,
-    "wof:lastmodified":1582345672,
+    "wof:lastmodified":1690857294,
     "wof:name":"\u0411\u0435\u043b\u043e\u0432\u043e",
     "wof:parent_id":85681763,
     "wof:placetype":"locality",

@@ -55,6 +55,9 @@
         "\u0421\u043e\u0444\u0438\u044f-\u0413\u0440\u0430\u0434",
         "\u041e\u0442\u043b\u0438\u0447\u0438\u044f \u043d\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
     ],
+    "name:ces_x_preferred":[
+        "\u0158\u00e1dy"
+    ],
     "name:deu_x_preferred":[
         "Liste der bulgarischen Orden und Ehrenzeichen"
     ],
@@ -64,11 +67,17 @@
     "name:eng_x_variant":[
         "Orders"
     ],
+    "name:ita_x_preferred":[
+        "onorificenze bulgare"
+    ],
     "name:nob_x_preferred":[
         "Bulgarias ordensvesen"
     ],
     "name:nor_x_preferred":[
         "Bulgarias ordensvesen"
+    ],
+    "name:pol_x_preferred":[
+        "Bu\u0142garskie odznaczenia"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0411\u043e\u043b\u0433\u0430\u0440\u0438\u0438"
@@ -191,7 +200,7 @@
         "wd:id":"Q983760"
     },
     "wof:country":"BG",
-    "wof:geomhash":"10be1cff26675942a0ed641bcea7c3e6",
+    "wof:geomhash":"081b68880d25cbe3e4b54842534ceac1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -206,7 +215,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1684351494,
+    "wof:lastmodified":1690857087,
     "wof:name":"\u0421\u043e\u0444\u0438\u044f (\u0441\u0442\u043e\u043b\u0438\u0446\u0430)",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

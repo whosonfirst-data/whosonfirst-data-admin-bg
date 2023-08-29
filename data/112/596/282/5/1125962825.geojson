@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0438\u0447\u0430\u0440"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0438\u0447\u0430\u0440"
+    ],
     "name:eng_x_preferred":[
         "Granichar"
     ],
@@ -37,6 +40,9 @@
     "name:kaz_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0438\u0447\u0430\u0440"
     ],
+    "name:nan_x_preferred":[
+        "Granichar"
+    ],
     "name:nld_x_preferred":[
         "Granichar"
     ],
@@ -44,6 +50,9 @@
         "Graniciar"
     ],
     "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d\u0438\u0447\u0430\u0440"
+    ],
+    "name:tat_x_preferred":[
         "\u0413\u0440\u0430\u043d\u0438\u0447\u0430\u0440"
     ],
     "name:ukr_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1125962825,
-    "wof:lastmodified":1566614169,
+    "wof:lastmodified":1690857366,
     "wof:name":"Granichar",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

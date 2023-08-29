@@ -45,6 +45,9 @@
     "name:hye_x_preferred":[
         "\u054a\u0578\u0564\u0578\u0582\u0575\u0561\u0576\u0565"
     ],
+    "name:nno_x_preferred":[
+        "Podujane"
+    ],
     "name:pol_x_preferred":[
         "Rejon Podujane"
     ],
@@ -112,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345657,
+    "wof:lastmodified":1690857077,
     "wof:name":"Poduyane",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

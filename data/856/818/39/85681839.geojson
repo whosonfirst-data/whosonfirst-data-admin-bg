@@ -74,6 +74,18 @@
     "name:ces_x_preferred":[
         "Targovi\u0161\u0165sk\u00e1 oblast"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u044b\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0435\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062a\u0627\u0631\u06af\u06c6\u06a4\u06cc\u0634\u062a\u06ce"
+    ],
+    "name:crh_x_preferred":[
+        "T\u0131rgovi\u015fte vil\u00e2yeti"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Targovishte"
+    ],
     "name:dan_x_preferred":[
         "Targovisjte"
     ],
@@ -179,6 +191,9 @@
     "name:nld_x_preferred":[
         "Targovisjte"
     ],
+    "name:nno_x_preferred":[
+        "Provinsen T\u0103rgovisjte"
+    ],
     "name:nob_x_preferred":[
         "Targovishte provins"
     ],
@@ -199,6 +214,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea T\u0103rgovi\u0219te"
+    ],
+    "name:ron_x_variant":[
+        "T\u0103rgovi\u0219te"
     ],
     "name:rus_x_preferred":[
         "\u0422\u044b\u0440\u0433\u043e\u0432\u0438\u0448\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -265,6 +283,9 @@
     ],
     "name:war_x_variant":[
         "Targovisjte"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7279\u5c14\u6208\u7ef4\u4ec0\u7279\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u7279\u723e\u6208\u7dad\u4ec0\u7279\u5dde"
@@ -371,7 +392,7 @@
         "wd:id":"Q2012589"
     },
     "wof:country":"BG",
-    "wof:geomhash":"13e40a7fe15842537d49072b8c4ffec6",
+    "wof:geomhash":"719ad628c3ced8a99e317674289db529",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -386,7 +407,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1684351496,
+    "wof:lastmodified":1690857082,
     "wof:name":"\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

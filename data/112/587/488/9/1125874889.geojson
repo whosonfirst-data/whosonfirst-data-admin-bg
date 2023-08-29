@@ -28,6 +28,12 @@
     "name:bul_x_variant":[
         "\u0421\u0442\u0443\u0434\u0435\u043d \u043a\u043b\u0430\u0434\u0435\u043d\u0435\u0446"
     ],
+    "name:ceb_x_preferred":[
+        "Studen kladenec"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d-\u041a\u043b\u0430\u0434\u0435\u043d\u0435\u0446"
+    ],
     "name:eng_x_preferred":[
         "Studen Kladenets"
     ],
@@ -40,10 +46,19 @@
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0443\u0434\u0435\u043d-\u041a\u043b\u0430\u0434\u0435\u043d\u0435\u0446"
     ],
+    "name:nan_x_preferred":[
+        "Studen kladenets"
+    ],
     "name:ron_x_preferred":[
         "Studen Kladene\u021b"
     ],
     "name:rus_x_preferred":[
+        "\u0421\u0442\u0443\u0434\u0435\u043d-\u041a\u043b\u0430\u0434\u0435\u043d\u0435\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Studen kladenets"
+    ],
+    "name:tat_x_preferred":[
         "\u0421\u0442\u0443\u0434\u0435\u043d-\u041a\u043b\u0430\u0434\u0435\u043d\u0435\u0446"
     ],
     "name:ukr_x_preferred":[
@@ -51,6 +66,9 @@
     ],
     "name:und_x_variant":[
         "Souk Bunar"
+    ],
+    "name:uzb_x_preferred":[
+        "Studen Kladenets"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -102,7 +120,7 @@
         }
     ],
     "wof:id":1125874889,
-    "wof:lastmodified":1566614167,
+    "wof:lastmodified":1690857363,
     "wof:name":"Studen Kladenets",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

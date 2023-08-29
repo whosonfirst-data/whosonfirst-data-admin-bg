@@ -31,6 +31,9 @@
     "name:ceb_x_preferred":[
         "Gorna krepost"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430-\u041a\u0440\u0435\u043f\u043e\u0441\u0442"
+    ],
     "name:eng_x_preferred":[
         "Gorna krepost"
     ],
@@ -46,6 +49,12 @@
     "name:kaz_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0430-\u041a\u0440\u0435\u043f\u043e\u0441\u0442"
     ],
+    "name:nan_x_preferred":[
+        "Gorna krepost"
+    ],
+    "name:pol_x_preferred":[
+        "Gorna krepost"
+    ],
     "name:ron_x_preferred":[
         "Gorna Krepost"
     ],
@@ -55,11 +64,17 @@
     "name:swe_x_preferred":[
         "Gorna krepost"
     ],
+    "name:tat_x_preferred":[
+        "\u0413\u043e\u0440\u043d\u0430-\u041a\u0440\u0435\u043f\u043e\u0441\u0442"
+    ],
     "name:ukr_x_preferred":[
         "\u0413\u043e\u0440\u0456\u0448\u043d\u044f \u041a\u0440\u0435\u043f\u043e\u0441\u0442"
     ],
     "name:und_x_variant":[
         "Kara Alar"
+    ],
+    "name:uzb_x_preferred":[
+        "Gorna krepost"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -111,7 +126,7 @@
         }
     ],
     "wof:id":1126030399,
-    "wof:lastmodified":1566614163,
+    "wof:lastmodified":1690857358,
     "wof:name":"Gorna Krepost",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

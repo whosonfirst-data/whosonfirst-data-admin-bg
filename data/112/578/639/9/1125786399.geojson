@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Somovit"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u043e\u043c\u043e\u0432\u0438\u0442"
+    ],
     "name:eng_x_preferred":[
         "Somovit"
     ],
@@ -40,6 +43,12 @@
     "name:kaz_x_preferred":[
         "\u0421\u043e\u043c\u043e\u0432\u0438\u0442"
     ],
+    "name:nan_x_preferred":[
+        "Somovit"
+    ],
+    "name:pol_x_preferred":[
+        "Somowit"
+    ],
     "name:ron_x_preferred":[
         "Somovit"
     ],
@@ -48,6 +57,9 @@
     ],
     "name:swe_x_preferred":[
         "Somovit"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u043c\u043e\u0432\u0438\u0442"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043c\u043e\u0432\u0438\u0442"
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":1125786399,
-    "wof:lastmodified":1566614172,
+    "wof:lastmodified":1690857371,
     "wof:name":"Somovit",
     "wof:parent_id":85681835,
     "wof:placetype":"locality",

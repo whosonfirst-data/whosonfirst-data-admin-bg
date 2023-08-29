@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0438"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0438"
+    ],
     "name:eng_x_preferred":[
         "Vinogradi"
     ],
@@ -40,6 +43,9 @@
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043d\u045f\u043e\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Vinogradi"
+    ],
     "name:pol_x_preferred":[
         "Winogradi"
     ],
@@ -47,6 +53,9 @@
         "Vinogradi"
     ],
     "name:rus_x_preferred":[
+        "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0438"
+    ],
+    "name:tat_x_preferred":[
         "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0438"
     ],
     "name:ukr_x_preferred":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1125902877,
-    "wof:lastmodified":1566614167,
+    "wof:lastmodified":1690857363,
     "wof:name":"Vinogradi",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

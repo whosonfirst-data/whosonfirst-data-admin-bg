@@ -23,6 +23,12 @@
     "name:bul_x_preferred":[
         "\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Fotinovo"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Fotinovo"
     ],
@@ -31,10 +37,28 @@
         "Habibolar",
         "Khatibolar"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u062a\u06cc\u0646\u0648\u0648"
+    ],
+    "name:nan_x_preferred":[
+        "Fotinovo"
+    ],
+    "name:nld_x_preferred":[
+        "Fotinovo"
+    ],
+    "name:pol_x_preferred":[
+        "Fotinowo"
+    ],
     "name:ron_x_preferred":[
         "Fotinovo"
     ],
     "name:rus_x_preferred":[
+        "\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Fotinovo"
+    ],
+    "name:tat_x_preferred":[
         "\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
@@ -89,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345671,
+    "wof:lastmodified":1690857288,
     "wof:name":"\u0424\u043e\u0442\u0438\u043d\u043e\u0432\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

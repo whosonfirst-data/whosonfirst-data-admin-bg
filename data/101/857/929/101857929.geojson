@@ -26,6 +26,12 @@
     "name:ceb_x_preferred":[
         "Lakatnik"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a"
+    ],
+    "name:deu_x_preferred":[
+        "Lakatnik"
+    ],
     "name:eng_x_preferred":[
         "Lakatnik"
     ],
@@ -33,6 +39,9 @@
         "\u0644\u0627\u06a9\u0627\u062a\u0646\u06cc\u06a9"
     ],
     "name:fra_x_preferred":[
+        "Lakatnik"
+    ],
+    "name:nan_x_preferred":[
         "Lakatnik"
     ],
     "name:ron_x_preferred":[
@@ -43,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Lakatnik"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a"
@@ -97,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345672,
+    "wof:lastmodified":1690857294,
     "wof:name":"\u041b\u0430\u043a\u0430\u0442\u043d\u0438\u043a",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",

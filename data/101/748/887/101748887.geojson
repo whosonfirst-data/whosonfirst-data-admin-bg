@@ -29,6 +29,9 @@
     "name:afr_x_preferred":[
         "Sofia"
     ],
+    "name:aka_x_preferred":[
+        "Sofia"
+    ],
     "name:amh_x_preferred":[
         "\u1236\u134a\u12eb"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:arg_x_preferred":[
         "Sofiya"
+    ],
+    "name:ary_x_preferred":[
+        "\u0635\u0648\u0641\u064a\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0635\u0648\u0641\u064a\u0627"
@@ -47,6 +53,9 @@
     "name:ava_x_preferred":[
         "\u0421\u043e\u0444\u0438\u044f"
     ],
+    "name:avk_x_preferred":[
+        "Sofiya"
+    ],
     "name:azb_x_preferred":[
         "\u0635\u0648\u0641\u06cc\u0647"
     ],
@@ -55,6 +64,12 @@
     ],
     "name:bak_x_preferred":[
         "\u0421\u043e\u0444\u0438\u044f"
+    ],
+    "name:ban_x_preferred":[
+        "Sofia"
+    ],
+    "name:bar_x_preferred":[
+        "Sofia"
     ],
     "name:bcl_x_preferred":[
         "Sofia"
@@ -206,6 +221,9 @@
     "name:hat_x_preferred":[
         "Sofia"
     ],
+    "name:hau_x_preferred":[
+        "Sofiya"
+    ],
     "name:haw_x_preferred":[
         "Sofia"
     ],
@@ -344,6 +362,9 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u092b\u093f\u092f\u093e"
     ],
+    "name:mdf_x_preferred":[
+        "\u0421\u043e\u0444\u0438\u044f"
+    ],
     "name:mhr_x_preferred":[
         "\u0421\u043e\u0444\u0438\u0439"
     ],
@@ -367,6 +388,9 @@
     ],
     "name:myv_x_preferred":[
         "\u0421\u043e\u0444\u0438\u044f \u043e\u0448"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0635\u0648\u0641\u06cc\u0627"
     ],
     "name:nah_x_preferred":[
         "Sofiya"
@@ -446,6 +470,9 @@
     "name:sah_x_preferred":[
         "\u0421\u043e\u0444\u0438\u044f"
     ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c73\u1c6f\u1c77\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Sofia"
     ],
@@ -467,11 +494,23 @@
     "name:sme_x_preferred":[
         "Sofia"
     ],
+    "name:smn_x_preferred":[
+        "Sofia"
+    ],
     "name:smo_x_preferred":[
+        "Sofia"
+    ],
+    "name:sms_x_preferred":[
         "Sofia"
     ],
     "name:sna_x_preferred":[
         "Sofia"
+    ],
+    "name:snd_x_preferred":[
+        "\u0633\u0648\u0641\u064a\u0627"
+    ],
+    "name:som_x_preferred":[
+        "Sofiya"
     ],
     "name:spa_x_preferred":[
         "Sof\u00eda"
@@ -568,6 +607,9 @@
     ],
     "name:wol_x_preferred":[
         "Sofiya"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7d22\u975e\u4e9a"
     ],
     "name:xmf_x_preferred":[
         "\u10e1\u10dd\u10e4\u10d8\u10d0"
@@ -751,7 +793,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1636500634,
+    "wof:lastmodified":1690857297,
     "wof:megacity":1,
     "wof:name":"Sofia",
     "wof:parent_id":85681771,

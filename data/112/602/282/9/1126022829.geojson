@@ -49,6 +49,9 @@
     "name:est_x_preferred":[
         "Kuldsed Liivad"
     ],
+    "name:fin_x_preferred":[
+        "Kultahietikko"
+    ],
     "name:fra_x_preferred":[
         "Sables d'or"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:nld_x_preferred":[
         "Zlatni pjasatsi"
+    ],
+    "name:nob_x_preferred":[
+        "Golden Sands"
     ],
     "name:nor_x_preferred":[
         "Golden Sands"
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":1126022829,
-    "wof:lastmodified":1566614163,
+    "wof:lastmodified":1690857357,
     "wof:name":"Zlatni Pyassatsi",
     "wof:parent_id":85681847,
     "wof:placetype":"locality",
