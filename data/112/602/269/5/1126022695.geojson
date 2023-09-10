@@ -25,6 +25,12 @@
     "name:bul_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d\u0430 \u043b\u043e\u043a\u0432\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u0430 \u041b\u043e\u043a\u0432\u0430"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u0430-\u041b\u043e\u043a\u0432\u0430"
+    ],
     "name:eng_x_preferred":[
         "Chervena lokva"
     ],
@@ -37,6 +43,9 @@
     "name:kaz_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d\u0430-\u041b\u043e\u043a\u0432\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Chervena lokva"
+    ],
     "name:pol_x_preferred":[
         "Czerwena \u0142okwa"
     ],
@@ -44,6 +53,9 @@
         "Cervena Lokva"
     ],
     "name:rus_x_preferred":[
+        "\u0427\u0435\u0440\u0432\u0435\u043d\u0430-\u041b\u043e\u043a\u0432\u0430"
+    ],
+    "name:tat_x_preferred":[
         "\u0427\u0435\u0440\u0432\u0435\u043d\u0430-\u041b\u043e\u043a\u0432\u0430"
     ],
     "name:ukr_x_preferred":[
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1126022695,
-    "wof:lastmodified":1566614163,
+    "wof:lastmodified":1690857356,
     "wof:name":"Chervena Lokva",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

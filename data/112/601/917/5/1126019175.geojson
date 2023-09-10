@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0447\u0430"
     ],
+    "name:che_x_preferred":[
+        "\u0414\u043e\u0447\u0430"
+    ],
     "name:eng_x_preferred":[
         "Docha"
     ],
@@ -40,6 +43,9 @@
     "name:kaz_x_preferred":[
         "\u0414\u043e\u0447\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Docha"
+    ],
     "name:pol_x_preferred":[
         "Docza"
     ],
@@ -49,8 +55,14 @@
     "name:rus_x_preferred":[
         "\u0414\u043e\u0447\u0430"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u043e\u0447\u0430"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0447\u0430"
+    ],
+    "name:uzb_x_preferred":[
+        "Docha"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":1126019175,
-    "wof:lastmodified":1566614170,
+    "wof:lastmodified":1690857369,
     "wof:name":"Docha",
     "wof:parent_id":85681797,
     "wof:placetype":"locality",

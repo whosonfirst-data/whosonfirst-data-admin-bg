@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Starovo"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0432\u043e"
+    ],
     "name:eng_x_preferred":[
         "Starovo"
     ],
@@ -41,6 +44,12 @@
     "name:kaz_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0432\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Starovo"
+    ],
+    "name:pol_x_preferred":[
+        "Starowo"
+    ],
     "name:ron_x_preferred":[
         "Starovo"
     ],
@@ -49,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Starovo"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u043e\u0432\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u043e\u0432\u043e"
@@ -102,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345671,
+    "wof:lastmodified":1690857291,
     "wof:name":"\u0421\u0442\u0430\u0440\u043e\u0432\u043e",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

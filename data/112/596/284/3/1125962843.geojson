@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Kutela"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u0442\u0435\u043b\u0430"
+    ],
     "name:eng_x_preferred":[
         "Kutela"
     ],
@@ -40,6 +43,9 @@
     "name:kaz_x_preferred":[
         "\u041a\u0443\u0442\u0435\u043b\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Kutela"
+    ],
     "name:ron_x_preferred":[
         "Kutela"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Kutela"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u0442\u0435\u043b\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0442\u0435\u043b\u0430"
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1125962843,
-    "wof:lastmodified":1566614168,
+    "wof:lastmodified":1690857365,
     "wof:name":"Kutela",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

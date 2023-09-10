@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0442\u043b\u0430\u0440\u0438"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0442\u043b\u0430\u0440\u0438"
+    ],
     "name:eng_x_preferred":[
         "Kotlari"
     ],
@@ -37,10 +40,16 @@
     "name:kaz_x_preferred":[
         "\u041a\u043e\u0442\u043b\u0430\u0440\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Kotlari"
+    ],
     "name:ron_x_preferred":[
         "Kotlari"
     ],
     "name:rus_x_preferred":[
+        "\u041a\u043e\u0442\u043b\u0430\u0440\u0438"
+    ],
+    "name:tat_x_preferred":[
         "\u041a\u043e\u0442\u043b\u0430\u0440\u0438"
     ],
     "name:ukr_x_preferred":[
@@ -48,6 +57,9 @@
     ],
     "name:und_x_variant":[
         "Kazandzhilar"
+    ],
+    "name:uzb_x_preferred":[
+        "Kotlari"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1125788271,
-    "wof:lastmodified":1566614171,
+    "wof:lastmodified":1690857371,
     "wof:name":"Kotlari",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

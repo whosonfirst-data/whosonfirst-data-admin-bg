@@ -25,6 +25,12 @@
     "name:bul_x_preferred":[
         "\u041f\u0438\u0440\u0438\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Pirin"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
     "name:eng_x_preferred":[
         "Pirin"
     ],
@@ -40,6 +46,9 @@
     "name:mkd_x_preferred":[
         "\u041f\u0438\u0440\u0438\u043d"
     ],
+    "name:nan_x_preferred":[
+        "Pirin"
+    ],
     "name:pol_x_preferred":[
         "Pirin"
     ],
@@ -47,6 +56,12 @@
         "Pirin"
     ],
     "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Pirin"
+    ],
+    "name:tat_x_preferred":[
         "\u041f\u0438\u0440\u0438\u043d"
     ],
     "name:ukr_x_preferred":[
@@ -105,7 +120,7 @@
         }
     ],
     "wof:id":1125938107,
-    "wof:lastmodified":1566614161,
+    "wof:lastmodified":1690857353,
     "wof:name":"Pirin",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

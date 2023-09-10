@@ -25,8 +25,14 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0449\u0435\u043d"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0435\u0448\u0442\u0435\u043d"
+    ],
     "name:eng_x_preferred":[
         "Leshten"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0634\u062a\u0646"
     ],
     "name:fra_x_preferred":[
         "Leshten"
@@ -37,10 +43,19 @@
     "name:mkd_x_preferred":[
         "\u041b\u0435\u0448\u0442\u0435\u043d"
     ],
+    "name:nan_x_preferred":[
+        "Leshten"
+    ],
     "name:ron_x_preferred":[
         "Le\u0219ten"
     ],
     "name:rus_x_preferred":[
+        "\u041b\u0435\u0448\u0442\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Le\u0161ten"
+    ],
+    "name:tat_x_preferred":[
         "\u041b\u0435\u0448\u0442\u0435\u043d"
     ],
     "name:ukr_x_preferred":[
@@ -48,6 +63,9 @@
     ],
     "name:und_x_variant":[
         "Leschten"
+    ],
+    "name:zho_x_preferred":[
+        "\u5217\u58eb\u767b"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -99,7 +117,7 @@
         }
     ],
     "wof:id":1125788003,
-    "wof:lastmodified":1566614172,
+    "wof:lastmodified":1690857371,
     "wof:name":"Leshten",
     "wof:parent_id":85681749,
     "wof:placetype":"locality",

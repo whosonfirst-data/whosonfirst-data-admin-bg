@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Tatul"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u0442\u0443\u043b"
+    ],
     "name:deu_x_preferred":[
         "Tatul"
     ],
@@ -46,6 +49,9 @@
     "name:msa_x_preferred":[
         "Tatul"
     ],
+    "name:nan_x_preferred":[
+        "Tatul"
+    ],
     "name:nld_x_preferred":[
         "Tatul"
     ],
@@ -61,11 +67,20 @@
     "name:swe_x_preferred":[
         "Tatul"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0430\u0442\u0443\u043b"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0442\u0443\u043b"
     ],
     "name:und_x_variant":[
         "Adzhioluk"
+    ],
+    "name:uzb_x_preferred":[
+        "Tatul"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u56fe\u5c14"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":1125874901,
-    "wof:lastmodified":1566614166,
+    "wof:lastmodified":1690857362,
     "wof:name":"Tatul",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

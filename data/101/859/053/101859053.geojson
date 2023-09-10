@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435"
+    ],
     "name:eng_x_preferred":[
         "Mogilyane"
     ],
@@ -39,10 +42,22 @@
     "name:kaz_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Mogilyane"
+    ],
+    "name:nld_x_preferred":[
+        "Mogiljane"
+    ],
+    "name:pol_x_preferred":[
+        "Mogilane"
+    ],
     "name:ron_x_preferred":[
         "Moghileane"
     ],
     "name:rus_x_preferred":[
+        "\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435"
+    ],
+    "name:tat_x_preferred":[
         "\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435"
     ],
     "name:ukr_x_preferred":[
@@ -97,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345671,
+    "wof:lastmodified":1690857289,
     "wof:name":"\u041c\u043e\u0433\u0438\u043b\u044f\u043d\u0435",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Albena"
     ],
+    "name:ces_x_preferred":[
+        "Albena"
+    ],
     "name:deu_x_preferred":[
         "Albena"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:epo_x_preferred":[
         "Albena"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u0628\u0646\u0627"
     ],
     "name:fin_x_preferred":[
         "Albena"
@@ -78,6 +84,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0431\u0435\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u4f2f\u7d0d"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -130,7 +139,7 @@
         }
     ],
     "wof:id":1125821767,
-    "wof:lastmodified":1566614171,
+    "wof:lastmodified":1690857370,
     "wof:name":"Albena",
     "wof:parent_id":85681865,
     "wof:placetype":"locality",

@@ -61,6 +61,9 @@
         "\u0421\u043e\u0444\u0438\u044f-\u0413\u0440\u0430\u0434",
         "\u041e\u0442\u043b\u0438\u0447\u0438\u044f \u043d\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
     ],
+    "name:ces_x_preferred":[
+        "\u0158\u00e1dy"
+    ],
     "name:deu_x_preferred":[
         "Oblast Sofia-Stadt"
     ],
@@ -71,11 +74,17 @@
         "Sofia",
         "Orders"
     ],
+    "name:ita_x_preferred":[
+        "onorificenze bulgare"
+    ],
     "name:nob_x_preferred":[
         "Bulgarias ordensvesen"
     ],
     "name:nor_x_preferred":[
         "Bulgarias ordensvesen"
+    ],
+    "name:pol_x_preferred":[
+        "Bu\u0142garskie odznaczenia"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0433\u0440\u0430\u0434\u044b \u0411\u043e\u043b\u0433\u0430\u0440\u0438\u0438"
@@ -213,7 +222,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694313480,
+    "wof:lastmodified":1694313806,
     "wof:name":"Sofia City",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

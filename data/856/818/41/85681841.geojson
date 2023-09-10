@@ -75,6 +75,21 @@
     "name:ces_x_preferred":[
         "Vidinsk\u00e1 oblast"
     ],
+    "name:che_x_preferred":[
+        "\u0412\u0438\u0434\u0438\u043d\u0430\u043d \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    ],
+    "name:chv_x_preferred":[
+        "\u0412\u0438\u0434\u0438\u043d \u043e\u0431\u043b\u0430\u00e7\u0115"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u06a4\u06cc\u062f\u06cc\u0646"
+    ],
+    "name:crh_x_preferred":[
+        "Vidin vil\u00e2yeti"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Vidin"
+    ],
     "name:dan_x_preferred":[
         "Vidin"
     ],
@@ -186,6 +201,9 @@
     "name:nld_x_preferred":[
         "Vidin"
     ],
+    "name:nno_x_preferred":[
+        "Provinsen Vidin"
+    ],
     "name:nob_x_preferred":[
         "Vidin oblast"
     ],
@@ -206,6 +224,9 @@
     ],
     "name:ron_x_preferred":[
         "Regiunea Vidin"
+    ],
+    "name:ron_x_variant":[
+        "Vidin"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0438\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
@@ -266,6 +287,9 @@
     ],
     "name:war_x_preferred":[
         "Vidin"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7ef4\u4e01\u5dde"
     ],
     "name:zho_x_preferred":[
         "\u7dad\u4e01\u5dde"
@@ -373,7 +397,7 @@
         "wd:id":"Q2012772"
     },
     "wof:country":"BG",
-    "wof:geomhash":"639a65cb179f94ec6573a665e6a76210",
+    "wof:geomhash":"b32411dafcf112278fe9b065503fa972",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -388,7 +412,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1684351496,
+    "wof:lastmodified":1690857082,
     "wof:name":"\u0412\u0438\u0434\u0438\u043d",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

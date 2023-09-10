@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Kitna"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0442\u043d\u0430"
+    ],
     "name:eng_x_preferred":[
         "Kitna"
     ],
@@ -41,6 +44,12 @@
     "name:kaz_x_preferred":[
         "\u041a\u0438\u0442\u043d\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Kitna"
+    ],
+    "name:pol_x_preferred":[
+        "Kitna"
+    ],
     "name:ron_x_preferred":[
         "Kitna"
     ],
@@ -49,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Kitna"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0438\u0442\u043d\u0430"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0438\u0442\u043d\u0430"
@@ -102,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345672,
+    "wof:lastmodified":1690857293,
     "wof:name":"\u041a\u0438\u0442\u043d\u0430",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

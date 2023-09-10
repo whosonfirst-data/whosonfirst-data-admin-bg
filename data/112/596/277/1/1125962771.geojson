@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0435\u043b\u0430"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0435\u043b\u0430"
+    ],
     "name:deu_x_preferred":[
         "Gela"
     ],
@@ -40,10 +43,16 @@
     "name:kaz_x_preferred":[
         "\u0413\u0435\u043b\u0430"
     ],
+    "name:nan_x_preferred":[
+        "Gela"
+    ],
     "name:ron_x_preferred":[
         "Ghela"
     ],
     "name:rus_x_preferred":[
+        "\u0413\u0435\u043b\u0430"
+    ],
+    "name:tat_x_preferred":[
         "\u0413\u0435\u043b\u0430"
     ],
     "name:ukr_x_preferred":[
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1125962771,
-    "wof:lastmodified":1566614168,
+    "wof:lastmodified":1690857366,
     "wof:name":"Gela",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

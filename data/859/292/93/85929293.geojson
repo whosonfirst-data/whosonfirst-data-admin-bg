@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u062a\u0648\u0634\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0644 \u0641\u064a\u062a\u0648\u0634\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0438\u0442\u043e\u0448\u0430"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:chu_x_preferred":[
         "\u0412\u0438\u0442\u043e\u0448\u0430"
+    ],
+    "name:dan_x_preferred":[
+        "Vitosha"
     ],
     "name:deu_x_preferred":[
         "Witoscha"
@@ -49,8 +55,14 @@
     "name:eus_x_preferred":[
         "Vitoxa"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u062a\u0648\u0634\u0627"
+    ],
     "name:fra_x_preferred":[
         "Vitocha"
+    ],
+    "name:frr_x_preferred":[
+        "Witoschaberger"
     ],
     "name:got_x_preferred":[
         "\ud800\udf43\ud800\udf3a\ud800\udf49\ud800\udf3c\ud800\udf39\ud800\udf3f\ud800\udf43"
@@ -60,6 +72,9 @@
     ],
     "name:hrv_x_preferred":[
         "Vito\u0161a"
+    ],
+    "name:hsb_x_preferred":[
+        "Wito\u0161a"
     ],
     "name:hun_x_preferred":[
         "Vitosa"
@@ -91,6 +106,9 @@
     "name:lat_x_preferred":[
         "Scomius"
     ],
+    "name:lav_x_preferred":[
+        "Vito\u0161a"
+    ],
     "name:lit_x_preferred":[
         "Vito\u0161a"
     ],
@@ -101,6 +119,9 @@
         "Vitosja"
     ],
     "name:nno_x_preferred":[
+        "Vitosja"
+    ],
+    "name:nob_x_preferred":[
         "Vitosja"
     ],
     "name:pol_x_preferred":[
@@ -135,6 +156,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0442\u043e\u0448\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0412\u0438\u0442\u043e\u0448\u0430"
+    ],
+    "name:vec_x_preferred":[
+        "Vito\u0161a"
     ],
     "name:zho_x_preferred":[
         "\u7dad\u6258\u838e"
@@ -198,7 +225,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345657,
+    "wof:lastmodified":1690857076,
     "wof:name":"Vitosha",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",

@@ -26,6 +26,12 @@
     "name:bul_x_variant":[
         "Varben"
     ],
+    "name:ceb_x_preferred":[
+        "Vurben"
+    ],
+    "name:che_x_preferred":[
+        "\u0412\u044b\u0440\u0431\u0435\u043d"
+    ],
     "name:eng_x_preferred":[
         "Vurben"
     ],
@@ -38,10 +44,22 @@
     "name:kaz_x_preferred":[
         "\u0412\u044b\u0440\u0431\u0435\u043d"
     ],
+    "name:nan_x_preferred":[
+        "Varben"
+    ],
+    "name:pol_x_preferred":[
+        "Wyrben"
+    ],
     "name:ron_x_preferred":[
         "V\u0103rben"
     ],
     "name:rus_x_preferred":[
+        "\u0412\u044b\u0440\u0431\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Vrben"
+    ],
+    "name:tat_x_preferred":[
         "\u0412\u044b\u0440\u0431\u0435\u043d"
     ],
     "name:ukr_x_preferred":[
@@ -94,7 +112,7 @@
         }
     ],
     "wof:id":101859045,
-    "wof:lastmodified":1582345671,
+    "wof:lastmodified":1690857290,
     "wof:name":"\u0412\u044a\u0440\u0431\u0435\u043d",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

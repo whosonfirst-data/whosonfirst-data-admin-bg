@@ -29,6 +29,9 @@
     "name:ceb_x_preferred":[
         "Grokhotno"
     ],
+    "name:che_x_preferred":[
+        "\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e"
+    ],
     "name:eng_x_preferred":[
         "Grohotno"
     ],
@@ -38,6 +41,9 @@
     "name:kaz_x_preferred":[
         "\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Grohotno"
+    ],
     "name:ron_x_preferred":[
         "Grohotno"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Grochotno"
+    ],
+    "name:tat_x_preferred":[
+        "\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e"
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":101859017,
-    "wof:lastmodified":1582345672,
+    "wof:lastmodified":1690857291,
     "wof:name":"\u0413\u0440\u043e\u0445\u043e\u0442\u043d\u043e",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

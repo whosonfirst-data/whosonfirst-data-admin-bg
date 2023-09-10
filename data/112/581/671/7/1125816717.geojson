@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
     ],
+    "name:che_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
+    ],
     "name:eng_x_preferred":[
         "Progled"
     ],
@@ -34,10 +37,16 @@
     "name:kaz_x_preferred":[
         "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
     ],
+    "name:nan_x_preferred":[
+        "Progled"
+    ],
     "name:ron_x_preferred":[
         "Progled"
     ],
     "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
+    ],
+    "name:tat_x_preferred":[
         "\u041f\u0440\u043e\u0433\u043b\u0435\u0434"
     ],
     "name:ukr_x_preferred":[
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1125816717,
-    "wof:lastmodified":1566614165,
+    "wof:lastmodified":1690857360,
     "wof:name":"Progled",
     "wof:parent_id":85681739,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0443\u0441\u0430\u043b\u0441\u043a\u043e"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0443\u0441\u0430\u043b\u0441\u043a\u043e"
+    ],
     "name:eng_x_preferred":[
         "Rusalsko"
     ],
@@ -40,10 +43,19 @@
     "name:kaz_x_preferred":[
         "\u0420\u0443\u0441\u0430\u043b\u0441\u043a\u043e"
     ],
+    "name:nan_x_preferred":[
+        "Rusalsko"
+    ],
+    "name:pol_x_preferred":[
+        "Rusa\u0142sko"
+    ],
     "name:ron_x_preferred":[
         "Rusalsko"
     ],
     "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0430\u043b\u0441\u043a\u043e"
+    ],
+    "name:tat_x_preferred":[
         "\u0420\u0443\u0441\u0430\u043b\u0441\u043a\u043e"
     ],
     "name:tur_x_preferred":[
@@ -54,6 +66,9 @@
     ],
     "name:und_x_variant":[
         "Duralar"
+    ],
+    "name:uzb_x_preferred":[
+        "Rusalsko"
     ],
     "qs_pg:aaroncc":"BG",
     "qs_pg:gn_country":"BG",
@@ -105,7 +120,7 @@
         }
     ],
     "wof:id":1126004615,
-    "wof:lastmodified":1566614170,
+    "wof:lastmodified":1690857369,
     "wof:name":"Rusalsko",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",

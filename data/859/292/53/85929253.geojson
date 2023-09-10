@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u0412\u044a\u0437\u0440\u0430\u0436\u0434\u0430\u043d\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Rayon Vazrazhdane"
+    ],
     "name:deu_x_preferred":[
         "Wasraschdana"
     ],
@@ -42,8 +45,20 @@
     "name:hye_x_preferred":[
         "\u054e\u0566\u0580\u0561\u056a\u0564\u0561\u0576\u0565"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ba\u30e9\u30ba\u30c0\u30f3\u5730\u533a"
+    ],
+    "name:nld_x_preferred":[
+        "Vazrazjdane"
+    ],
+    "name:nno_x_preferred":[
+        "V\u0103zrazjdane"
+    ],
     "name:pol_x_preferred":[
         "Rejon Wyzra\u017cdane"
+    ],
+    "name:swe_x_preferred":[
+        "Rajon Vzrazjdane"
     ],
     "qs:gn_adm0_cc":"BG",
     "qs:gn_id":0,
@@ -106,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582345657,
+    "wof:lastmodified":1690857076,
     "wof:name":"Vazrazhdane",
     "wof:parent_id":101748887,
     "wof:placetype":"neighbourhood",
