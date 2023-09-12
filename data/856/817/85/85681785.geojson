@@ -63,7 +63,7 @@
         "Oblast Sofia"
     ],
     "name:eng_x_preferred":[
-        "Sofia Province"
+        "Sofia"
     ],
     "name:eng_x_variant":[
         "Sofia",
@@ -285,8 +285,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1684351495,
-    "wof:name":"\u0421\u043e\u0444\u0438\u044f",
+    "wof:lastmodified":1694493264,
+    "wof:name":"Sofia",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
