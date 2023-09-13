@@ -25,13 +25,16 @@
     "geom:longitude":27.304172,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0411\u0443\u0440\u0433\u0430\u0441 Region"
+        "Burgas Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "BR"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0411\u0443\u0440\u0433\u0430\u0441 Region"
     ],
     "lbl:latitude":42.654466,
     "lbl:longitude":27.194076,
@@ -403,7 +406,7 @@
         "wd:id":"Q369220"
     },
     "wof:country":"BG",
-    "wof:geomhash":"9dae53263236712c4753ffceb59d1e5a",
+    "wof:geomhash":"33b6a4259d52fa071e9aa7b766a19b0b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -418,8 +421,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857079,
-    "wof:name":"\u0411\u0443\u0440\u0433\u0430\u0441",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Burgas",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

@@ -25,13 +25,16 @@
     "geom:longitude":25.425459,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438 Region"
+        "Kurdzhali Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "KZ"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438 Region"
     ],
     "lbl:latitude":41.530802,
     "lbl:longitude":25.392923,
@@ -404,7 +407,7 @@
         "wd:id":"Q1104675"
     },
     "wof:country":"BG",
-    "wof:geomhash":"b61e923062c1f4e9d9733dbb64584718",
+    "wof:geomhash":"0a617a1e0db555607d2add8751f3c680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -419,8 +422,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857084,
-    "wof:name":"\u041a\u044a\u0440\u0434\u0436\u0430\u043b\u0438",
+    "wof:lastmodified":1694639833,
+    "wof:name":"Kurdzhali",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

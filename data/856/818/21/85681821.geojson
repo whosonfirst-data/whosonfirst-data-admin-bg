@@ -25,13 +25,16 @@
     "geom:longitude":23.204741,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u041c\u043e\u043d\u0442\u0430\u043d\u0430 Region"
+        "Montana Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "MT"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u041c\u043e\u043d\u0442\u0430\u043d\u0430 Region"
     ],
     "lbl:latitude":43.490186,
     "lbl:longitude":23.168781,
@@ -360,7 +363,7 @@
         "wd:id":"Q2012057"
     },
     "wof:country":"BG",
-    "wof:geomhash":"cab2acbdb7c7320e6b3ad51b61be2070",
+    "wof:geomhash":"4852c93908d36e4175df6b4921bf1389",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -375,8 +378,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857081,
-    "wof:name":"\u041c\u043e\u043d\u0442\u0430\u043d\u0430",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Montana",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

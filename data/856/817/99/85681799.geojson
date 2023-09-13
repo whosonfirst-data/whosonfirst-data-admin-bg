@@ -25,13 +25,16 @@
     "geom:longitude":26.235568,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0421\u043b\u0438\u0432\u0435\u043d Region"
+        "Sliven Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "SL"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0421\u043b\u0438\u0432\u0435\u043d Region"
     ],
     "lbl:latitude":42.700862,
     "lbl:longitude":26.242382,
@@ -387,7 +390,7 @@
         "wd:id":"Q113120"
     },
     "wof:country":"BG",
-    "wof:geomhash":"e82b8cdc777535480aaf91576f3cbb7f",
+    "wof:geomhash":"9b9c92b59eb9aaf828142341c330664d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -402,8 +405,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857085,
-    "wof:name":"\u0421\u043b\u0438\u0432\u0435\u043d",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Sliven",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

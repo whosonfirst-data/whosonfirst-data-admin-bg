@@ -25,13 +25,16 @@
     "geom:longitude":26.354893,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435 Region"
+        "Turgovishte Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "TU"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435 Region"
     ],
     "lbl:latitude":43.238396,
     "lbl:longitude":26.319331,
@@ -392,7 +395,7 @@
         "wd:id":"Q2012589"
     },
     "wof:country":"BG",
-    "wof:geomhash":"719ad628c3ced8a99e317674289db529",
+    "wof:geomhash":"13e40a7fe15842537d49072b8c4ffec6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -407,8 +410,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857082,
-    "wof:name":"\u0422\u044a\u0440\u0433\u043e\u0432\u0438\u0449\u0435",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Turgovishte",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

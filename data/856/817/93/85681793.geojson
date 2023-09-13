@@ -25,13 +25,16 @@
     "geom:longitude":26.625931,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u042f\u043c\u0431\u043e\u043b Region"
+        "Yambol Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "YA"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u042f\u043c\u0431\u043e\u043b Region"
     ],
     "lbl:latitude":42.354159,
     "lbl:longitude":26.632576,
@@ -399,7 +402,7 @@
         "wd:id":"Q220736"
     },
     "wof:country":"BG",
-    "wof:geomhash":"3b3a1a90c904497fc683fc111e7b8439",
+    "wof:geomhash":"b445791848b50ddb943c87de66b4a9ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -414,8 +417,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857084,
-    "wof:name":"\u042f\u043c\u0431\u043e\u043b",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Yambol",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

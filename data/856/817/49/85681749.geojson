@@ -25,13 +25,16 @@
     "geom:longitude":23.438021,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434 Region"
+        "Blagoevgrad Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "BL"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434 Region"
     ],
     "lbl:latitude":41.731196,
     "lbl:longitude":23.426233,
@@ -402,7 +405,7 @@
         "wd:id":"Q804311"
     },
     "wof:country":"BG",
-    "wof:geomhash":"4e57898281efbd0968dccec1d8b0015f",
+    "wof:geomhash":"7e9d446a0ae0be35e7efcb9a18bf9bd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -417,8 +420,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857087,
-    "wof:name":"\u0411\u043b\u0430\u0433\u043e\u0435\u0432\u0433\u0440\u0430\u0434",
+    "wof:lastmodified":1694639833,
+    "wof:name":"Blagoevgrad",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

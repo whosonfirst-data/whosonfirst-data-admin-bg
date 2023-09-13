@@ -25,13 +25,16 @@
     "geom:longitude":27.586821,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0412\u0430\u0440\u043d\u0430 Region"
+        "Varna Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "VN"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0412\u0430\u0440\u043d\u0430 Region"
     ],
     "lbl:latitude":43.18678,
     "lbl:longitude":27.594402,
@@ -372,7 +375,7 @@
         "wd:id":"Q183487"
     },
     "wof:country":"BG",
-    "wof:geomhash":"95dee50d30eabf5a2d082c8a3489f2f9",
+    "wof:geomhash":"6f85de149d7a32d64800754b03157578",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -387,8 +390,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857083,
-    "wof:name":"\u0412\u0430\u0440\u043d\u0430",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Varna",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

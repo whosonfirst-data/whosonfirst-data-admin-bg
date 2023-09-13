@@ -5,19 +5,22 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003146,
-    "geom:area_square_m":28290854.71411,
+    "geom:area_square_m":28291066.767224,
     "geom:bbox":"25.940748,43.317205,26.037181,43.370379",
     "geom:latitude":43.344574,
     "geom:longitude":25.979809,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0420\u0443\u0441\u0435 Region"
+        "Ruse Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "RS"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0420\u0443\u0441\u0435 Region"
     ],
     "lbl:latitude":43.344355,
     "lbl:longitude":25.979802,
@@ -382,7 +385,7 @@
         "wd:id":"Q1251933"
     },
     "wof:country":"BG",
-    "wof:geomhash":"225affab776f9eaef1476122957087ae",
+    "wof:geomhash":"2f2f2cf15ee191c5a0fff9baf727ab82",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -397,8 +400,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857082,
-    "wof:name":"\u0420\u0443\u0441\u0435",
+    "wof:lastmodified":1694639832,
+    "wof:name":"Ruse",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

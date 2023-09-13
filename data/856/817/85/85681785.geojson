@@ -25,13 +25,16 @@
     "geom:longitude":23.607539,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0421\u043e\u0444\u0438\u044f Region"
+        "Sofia Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "SG"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0421\u043e\u0444\u0438\u044f Region"
     ],
     "lbl:latitude":42.799696,
     "lbl:longitude":23.908251,
@@ -66,7 +69,6 @@
         "Sofia"
     ],
     "name:eng_x_variant":[
-        "Sofia",
         "Grad Sofiya"
     ],
     "name:epo_x_preferred":[
@@ -285,8 +287,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694493264,
-    "wof:name":"Sofia",
+    "wof:lastmodified":1694639833,
+    "wof:name":"Sofia Province",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

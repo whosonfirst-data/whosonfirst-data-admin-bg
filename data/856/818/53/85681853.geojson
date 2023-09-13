@@ -25,13 +25,16 @@
     "geom:longitude":26.996555,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0428\u0443\u043c\u0435\u043d Region"
+        "Shumen Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "SH"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0428\u0443\u043c\u0435\u043d Region"
     ],
     "lbl:latitude":43.290222,
     "lbl:longitude":27.003468,
@@ -391,7 +394,7 @@
         "wd:id":"Q184981"
     },
     "wof:country":"BG",
-    "wof:geomhash":"47aa9f3216e62aacee572e762c22d6c3",
+    "wof:geomhash":"e82240145eeb4392a15d95db8ecc3f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -406,8 +409,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857081,
-    "wof:name":"\u0428\u0443\u043c\u0435\u043d",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Shumen",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
