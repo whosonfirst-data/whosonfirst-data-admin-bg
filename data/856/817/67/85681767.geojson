@@ -25,13 +25,16 @@
     "geom:longitude":22.854426,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u041f\u0435\u0440\u043d\u0438\u043a Region"
+        "Pernik Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "PN"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u041f\u0435\u0440\u043d\u0438\u043a Region"
     ],
     "lbl:latitude":42.595733,
     "lbl:longitude":22.883932,
@@ -430,7 +433,7 @@
         "wd:id":"Q2012234"
     },
     "wof:country":"BG",
-    "wof:geomhash":"b8c5001a947d9833d0a2f551dab5510e",
+    "wof:geomhash":"5d0ce5318892995d3229b771565e9cea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -445,8 +448,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857084,
-    "wof:name":"\u041f\u0435\u0440\u043d\u0438\u043a",
+    "wof:lastmodified":1694639833,
+    "wof:name":"Pernik",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

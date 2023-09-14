@@ -19,19 +19,22 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"2",
     "geom:area":0.223059,
-    "geom:area_square_m":2019388629.860733,
+    "geom:area_square_m":2019388645.330939,
     "geom:bbox":"24.867629,42.733672,25.634132,43.193967",
     "geom:latitude":42.933185,
     "geom:longitude":25.233706,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0413\u0430\u0431\u0440\u043e\u0432\u043e Region"
+        "Gabrovo Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "GB"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0413\u0430\u0431\u0440\u043e\u0432\u043e Region"
     ],
     "lbl:latitude":42.944694,
     "lbl:longitude":25.195495,
@@ -405,7 +408,7 @@
         "wd:id":"Q1007272"
     },
     "wof:country":"BG",
-    "wof:geomhash":"51a41543660f6fbb5c7ef2a2dda09f94",
+    "wof:geomhash":"cfe4d79a4c34b443660a78b94814c7f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -420,8 +423,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857085,
-    "wof:name":"\u0413\u0430\u0431\u0440\u043e\u0432\u043e",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Gabrovo",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

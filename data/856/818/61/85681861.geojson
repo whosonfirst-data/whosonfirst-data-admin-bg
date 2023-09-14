@@ -39,7 +39,7 @@
     "mps:latitude":43.667289,
     "mps:longitude":25.985016,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
@@ -65,6 +65,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0420\u0443\u0441\u0435"
+    ],
+    "name:bul_x_variant":[
+        "Ruse"
     ],
     "name:cat_x_preferred":[
         "Ruse"
@@ -353,7 +356,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1684351496,
+    "wof:lastmodified":1694639831,
     "wof:name":"Ruse",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

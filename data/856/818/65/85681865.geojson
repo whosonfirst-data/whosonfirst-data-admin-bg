@@ -25,13 +25,16 @@
     "geom:longitude":27.927828,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0414\u043e\u0431\u0440\u0438\u0447 Region"
+        "Dobrich Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "DO"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0414\u043e\u0431\u0440\u0438\u0447 Region"
     ],
     "lbl:latitude":43.63417,
     "lbl:longitude":27.917236,
@@ -399,7 +402,7 @@
         "wd:id":"Q907395"
     },
     "wof:country":"BG",
-    "wof:geomhash":"27df4577b431077ce53f6e4e7e5530ba",
+    "wof:geomhash":"6d53bee3650a023e6a5b2d0382a4a7b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -414,8 +417,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857081,
-    "wof:name":"\u0414\u043e\u0431\u0440\u0438\u0447",
+    "wof:lastmodified":1694639835,
+    "wof:name":"Dobrich",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

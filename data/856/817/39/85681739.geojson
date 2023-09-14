@@ -25,13 +25,16 @@
     "geom:longitude":24.662591,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0421\u043c\u043e\u043b\u044f\u043d Region"
+        "Smolyan Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "SM"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0421\u043c\u043e\u043b\u044f\u043d Region"
     ],
     "lbl:latitude":41.69033,
     "lbl:longitude":24.624563,
@@ -406,7 +409,7 @@
         "wd:id":"Q2012430"
     },
     "wof:country":"BG",
-    "wof:geomhash":"0889dc0ed2e403986e0fbfdf7d9c6e9c",
+    "wof:geomhash":"6420025b1a3cb4fb8f9b1d8030ad4976",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -421,8 +424,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857085,
-    "wof:name":"\u0421\u043c\u043e\u043b\u044f\u043d",
+    "wof:lastmodified":1694639833,
+    "wof:name":"Smolyan",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

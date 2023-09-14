@@ -25,13 +25,16 @@
     "geom:longitude":22.697314,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0412\u0438\u0434\u0438\u043d Region"
+        "Vidin Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "VD"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0412\u0438\u0434\u0438\u043d Region"
     ],
     "lbl:latitude":43.804062,
     "lbl:longitude":22.633612,
@@ -397,7 +400,7 @@
         "wd:id":"Q2012772"
     },
     "wof:country":"BG",
-    "wof:geomhash":"b32411dafcf112278fe9b065503fa972",
+    "wof:geomhash":"639a65cb179f94ec6573a665e6a76210",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -412,8 +415,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857082,
-    "wof:name":"\u0412\u0438\u0434\u0438\u043d",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Vidin",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

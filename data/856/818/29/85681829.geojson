@@ -25,13 +25,16 @@
     "geom:longitude":25.63072,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e Region"
+        "Veliko Turnovo Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "VT"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e Region"
     ],
     "lbl:latitude":43.124662,
     "lbl:longitude":25.812193,
@@ -73,7 +76,8 @@
         "Oblast Veliko Tarnovo",
         "Veliko Tarnovo",
         "\u041e\u0431\u043b\u0430\u0441\u0442 \u0412\u0435\u043b\u0438\u043a\u043e \u0422\u0430\u0440\u043d\u043e\u0432\u043e",
-        "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u0430\u0440\u043d\u043e\u0432\u043e"
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u0430\u0440\u043d\u043e\u0432\u043e",
+        "\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e"
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Veliko Tarnovo"
@@ -406,7 +410,7 @@
         "wd:id":"Q2012621"
     },
     "wof:country":"BG",
-    "wof:geomhash":"829e675136904c1ff83d8dc20f64a84d",
+    "wof:geomhash":"b6b7f42ccce8da481e64bd7daf59519c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -421,8 +425,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857080,
-    "wof:name":"\u0412\u0435\u043b\u0438\u043a\u043e \u0422\u044a\u0440\u043d\u043e\u0432\u043e",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Veliko Turnovo",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

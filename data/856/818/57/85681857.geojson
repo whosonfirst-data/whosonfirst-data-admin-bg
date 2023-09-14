@@ -19,19 +19,22 @@
     "eurostat:population_year":2022,
     "eurostat:urban_type":"3",
     "geom:area":0.269291,
-    "geom:area_square_m":2409542576.981011,
+    "geom:area_square_m":2409542665.876303,
     "geom:bbox":"26.153328,43.326412,27.03525,43.952601",
     "geom:latitude":43.645533,
     "geom:longitude":26.595714,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0420\u0430\u0437\u0433\u0440\u0430\u0434 Region"
+        "Razgrad Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "RG"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0420\u0430\u0437\u0433\u0440\u0430\u0434 Region"
     ],
     "lbl:latitude":43.659226,
     "lbl:longitude":26.639147,
@@ -412,7 +415,7 @@
         "wd:id":"Q2790675"
     },
     "wof:country":"BG",
-    "wof:geomhash":"d9e9748221a841379462e687f1cd6937",
+    "wof:geomhash":"de802f91e71e77fc9db10373a08f5a78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -427,8 +430,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857078,
-    "wof:name":"\u0420\u0430\u0437\u0433\u0440\u0430\u0434",
+    "wof:lastmodified":1694639835,
+    "wof:name":"Razgrad",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

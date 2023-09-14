@@ -22,6 +22,9 @@
     "itu:country_code":[
         "359"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "BG"
     ],
@@ -1352,7 +1355,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"33af41b3b62ca4938b864d1ddd3a90b8",
+    "wof:geomhash":"5acfb2ac59e90a187ca256b899b5274c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -1366,7 +1369,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857078,
+    "wof:lastmodified":1694492228,
     "wof:name":"Bulgaria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",

@@ -25,13 +25,16 @@
     "geom:longitude":24.146927,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a Region"
+        "Pazardzhik Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "PZ"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a Region"
     ],
     "lbl:latitude":42.058375,
     "lbl:longitude":24.154357,
@@ -391,7 +394,7 @@
         "wd:id":"Q2012227"
     },
     "wof:country":"BG",
-    "wof:geomhash":"cce035cc03a889109f609cb0eb0b2b62",
+    "wof:geomhash":"4600e0221bbb29d2cfe20c4d07f0247d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -406,8 +409,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857086,
-    "wof:name":"\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a",
+    "wof:lastmodified":1694639833,
+    "wof:name":"Pazardzhik",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

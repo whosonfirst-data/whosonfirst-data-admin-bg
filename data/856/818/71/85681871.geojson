@@ -25,13 +25,16 @@
     "geom:longitude":27.043011,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430 Region"
+        "Silistra Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "SI"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430 Region"
     ],
     "lbl:latitude":43.924299,
     "lbl:longitude":27.098866,
@@ -391,7 +394,7 @@
         "wd:id":"Q2012423"
     },
     "wof:country":"BG",
-    "wof:geomhash":"c85c5480dbfa5acfe11e078d1f303aef",
+    "wof:geomhash":"1a26d7f62f3b5718d36e169d17a74c62",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -406,8 +409,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857082,
-    "wof:name":"\u0421\u0438\u043b\u0438\u0441\u0442\u0440\u0430",
+    "wof:lastmodified":1694639835,
+    "wof:name":"Silistra",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

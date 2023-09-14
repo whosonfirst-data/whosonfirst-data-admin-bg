@@ -25,13 +25,16 @@
     "geom:longitude":25.547066,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430 Region"
+        "Stara Zagora Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "SZ"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430 Region"
     ],
     "lbl:latitude":42.462455,
     "lbl:longitude":25.48678,
@@ -393,7 +396,7 @@
         "wd:id":"Q2012583"
     },
     "wof:country":"BG",
-    "wof:geomhash":"d7c58ceeec078c7381e3bbd2b1c3dea7",
+    "wof:geomhash":"b5fd638d0ae7c5f452c186e6346f21a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -408,8 +411,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857086,
-    "wof:name":"\u0421\u0442\u0430\u0440\u0430 \u0417\u0430\u0433\u043e\u0440\u0430",
+    "wof:lastmodified":1694639833,
+    "wof:name":"Stara Zagora",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

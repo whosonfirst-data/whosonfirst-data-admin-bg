@@ -25,13 +25,16 @@
     "geom:longitude":24.599957,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u041f\u043b\u0435\u0432\u0435\u043d Region"
+        "Pleven Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "PV"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u041f\u043b\u0435\u0432\u0435\u043d Region"
     ],
     "lbl:latitude":43.488022,
     "lbl:longitude":24.520359,
@@ -396,7 +399,7 @@
         "wd:id":"Q2012242"
     },
     "wof:country":"BG",
-    "wof:geomhash":"2c5d985b93df45eda0296a0d88cb760b",
+    "wof:geomhash":"3ddf9f94faacf2aa850d85147b499753",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -411,8 +414,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857079,
-    "wof:name":"\u041f\u043b\u0435\u0432\u0435\u043d",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Pleven",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",

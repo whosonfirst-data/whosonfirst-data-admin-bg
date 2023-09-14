@@ -25,13 +25,16 @@
     "geom:longitude":24.556987,
     "iso:country":"BG",
     "label:eng_x_preferred_longname":[
-        "\u041b\u043e\u0432\u0435\u0447 Region"
+        "Lovech Region"
     ],
     "label:eng_x_preferred_placetype":[
         "region"
     ],
     "label:eng_x_preferred_shortcode":[
         "LV"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u041b\u043e\u0432\u0435\u0447 Region"
     ],
     "lbl:latitude":42.999236,
     "lbl:longitude":24.547911,
@@ -396,7 +399,7 @@
         "wd:id":"Q6587068"
     },
     "wof:country":"BG",
-    "wof:geomhash":"4ece0c7f3ae1adcf3560d61694922916",
+    "wof:geomhash":"994d24aa20760cd84124553584f906ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -411,8 +414,8 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1690857079,
-    "wof:name":"\u041b\u043e\u0432\u0435\u0447",
+    "wof:lastmodified":1694639834,
+    "wof:name":"Lovech",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
     "wof:placetype_local":"region",
