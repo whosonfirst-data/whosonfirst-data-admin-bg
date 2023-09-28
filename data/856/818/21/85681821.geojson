@@ -358,10 +358,16 @@
         "gn:id":453753,
         "gp:id":20070056,
         "hasc:id":"BG.MT",
+        "iso:code":"BG-12",
         "iso:id":"BG-12",
+        "qs:local_id":"MON",
         "unlc:id":"BG-12",
         "wd:id":"Q2012057"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"4852c93908d36e4175df6b4921bf1389",
     "wof:hierarchy":[
@@ -378,7 +384,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885191,
     "wof:name":"Montana",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

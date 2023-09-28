@@ -399,10 +399,16 @@
         "gn:id":730436,
         "gp:id":20070073,
         "hasc:id":"BG.KK",
+        "iso:code":"BG-26",
         "iso:id":"BG-26",
+        "qs:local_id":"HKV",
         "unlc:id":"BG-26",
         "wd:id":"Q182809"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"dc20c28a36396aaff14cba6bb4aaa9a3",
     "wof:hierarchy":[
@@ -419,7 +425,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885190,
     "wof:name":"Khaskovo",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

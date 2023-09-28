@@ -394,10 +394,16 @@
         "gn:id":728204,
         "gp:id":20070065,
         "hasc:id":"BG.PV",
+        "iso:code":"BG-15",
         "iso:id":"BG-15",
+        "qs:local_id":"PVN",
         "unlc:id":"BG-15",
         "wd:id":"Q2012242"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"3ddf9f94faacf2aa850d85147b499753",
     "wof:hierarchy":[
@@ -414,7 +420,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885191,
     "wof:name":"Pleven",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

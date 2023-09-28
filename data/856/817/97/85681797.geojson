@@ -403,10 +403,16 @@
         "gn:id":864552,
         "gp:id":20070062,
         "hasc:id":"BG.GB",
+        "iso:code":"BG-07",
         "iso:id":"BG-07",
+        "qs:local_id":"GAB",
         "unlc:id":"BG-07",
         "wd:id":"Q1007272"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"cfe4d79a4c34b443660a78b94814c7f4",
     "wof:hierarchy":[
@@ -423,7 +429,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885191,
     "wof:name":"Gabrovo",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

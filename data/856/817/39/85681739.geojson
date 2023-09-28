@@ -404,10 +404,16 @@
         "gn:id":864558,
         "gp:id":20070067,
         "hasc:id":"BG.SM",
+        "iso:code":"BG-21",
         "iso:id":"BG-21",
+        "qs:local_id":"SML",
         "unlc:id":"BG-21",
         "wd:id":"Q2012430"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"6420025b1a3cb4fb8f9b1d8030ad4976",
     "wof:hierarchy":[
@@ -424,7 +430,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885190,
     "wof:name":"Smolyan",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

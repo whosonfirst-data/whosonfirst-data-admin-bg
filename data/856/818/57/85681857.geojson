@@ -410,10 +410,16 @@
         "gn:id":453751,
         "gp:id":20070071,
         "hasc:id":"BG.RG",
+        "iso:code":"BG-17",
         "iso:id":"BG-17",
+        "qs:local_id":"RAZ",
         "unlc:id":"BG-17",
         "wd:id":"Q2790675"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"de802f91e71e77fc9db10373a08f5a78",
     "wof:hierarchy":[
@@ -430,7 +436,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639835,
+    "wof:lastmodified":1695885192,
     "wof:name":"Razgrad",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

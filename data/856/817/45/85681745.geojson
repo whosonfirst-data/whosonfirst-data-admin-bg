@@ -402,10 +402,16 @@
         "gn:id":864553,
         "gp:id":20070053,
         "hasc:id":"BG.KZ",
+        "iso:code":"BG-09",
         "iso:id":"BG-09",
+        "qs:local_id":"KRZ",
         "unlc:id":"BG-09",
         "wd:id":"Q1104675"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"0a617a1e0db555607d2add8751f3c680",
     "wof:hierarchy":[
@@ -422,7 +428,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885190,
     "wof:name":"Kurdzhali",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

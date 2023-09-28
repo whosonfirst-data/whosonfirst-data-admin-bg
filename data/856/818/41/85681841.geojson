@@ -395,10 +395,16 @@
         "gn:id":864562,
         "gp:id":20070055,
         "hasc:id":"BG.VD",
+        "iso:code":"BG-05",
         "iso:id":"BG-05",
+        "qs:local_id":"VID",
         "unlc:id":"BG-05",
         "wd:id":"Q2012772"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"639a65cb179f94ec6573a665e6a76210",
     "wof:hierarchy":[
@@ -415,7 +421,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885192,
     "wof:name":"Vidin",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

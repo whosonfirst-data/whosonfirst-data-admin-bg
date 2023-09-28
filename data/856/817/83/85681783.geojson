@@ -391,10 +391,16 @@
         "gn:id":864559,
         "gp:id":20070054,
         "hasc:id":"BG.SZ",
+        "iso:code":"BG-24",
         "iso:id":"BG-24",
+        "qs:local_id":"SZR",
         "unlc:id":"BG-24",
         "wd:id":"Q2012583"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"b5fd638d0ae7c5f452c186e6346f21a4",
     "wof:hierarchy":[
@@ -411,7 +417,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885190,
     "wof:name":"Stara Zagora",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

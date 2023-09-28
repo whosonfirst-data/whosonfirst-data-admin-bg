@@ -405,10 +405,16 @@
         "gn:id":864561,
         "gp:id":20070063,
         "hasc:id":"BG.VT",
+        "iso:code":"BG-04",
         "iso:id":"BG-04",
+        "qs:local_id":"VTR",
         "unlc:id":"BG-04",
         "wd:id":"Q2012621"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"b6b7f42ccce8da481e64bd7daf59519c",
     "wof:hierarchy":[
@@ -425,7 +431,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885191,
     "wof:name":"Veliko Turnovo",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

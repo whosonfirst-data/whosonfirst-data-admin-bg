@@ -381,9 +381,15 @@
         "gn:id":727524,
         "gp:id":20070069,
         "hasc:id":"BG.RS",
+        "iso:code":"BG-18",
         "iso:id":"BG-18",
+        "qs:local_id":"RSE",
         "wd:id":"Q1251933"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"2f2f2cf15ee191c5a0fff9baf727ab82",
     "wof:hierarchy":[
@@ -400,7 +406,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639832,
+    "wof:lastmodified":1695884484,
     "wof:name":"Ruse",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
