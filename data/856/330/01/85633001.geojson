@@ -1334,6 +1334,7 @@
         "hasc:id":"BG",
         "icao:code":"LZ",
         "ioc:id":"BUL",
+        "iso:code":"BG",
         "itu:id":"BUL",
         "loc:id":"n81032254",
         "m49:code":"100",
@@ -1348,6 +1349,7 @@
         "wk:page":"Bulgaria",
         "wmo:id":"BU"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BG",
     "wof:country_alpha3":"BGR",
     "wof:geom_alt":[
@@ -1369,7 +1371,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694492228,
+    "wof:lastmodified":1695881341,
     "wof:name":"Bulgaria",
     "wof:parent_id":102191581,
     "wof:placetype":"country",
