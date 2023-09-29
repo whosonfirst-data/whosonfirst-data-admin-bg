@@ -397,10 +397,16 @@
         "gn:id":864563,
         "gp:id":20070074,
         "hasc:id":"BG.YA",
+        "iso:code":"BG-28",
         "iso:id":"BG-28",
+        "qs:local_id":"JAM",
         "unlc:id":"BG-28",
         "wd:id":"Q220736"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"b445791848b50ddb943c87de66b4a9ef",
     "wof:hierarchy":[
@@ -417,7 +423,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885191,
     "wof:name":"Yambol",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

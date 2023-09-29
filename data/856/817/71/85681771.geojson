@@ -199,10 +199,16 @@
         "gn:id":731061,
         "gp:id":20069794,
         "hasc:id":"BG.SF",
+        "iso:code":"BG-23",
         "iso:id":"BG-23",
+        "qs:local_id":"SOF",
         "unlc:id":"BG-22",
         "wd:id":"Q983760"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"10be1cff26675942a0ed641bcea7c3e6",
     "wof:hierarchy":[
@@ -219,7 +225,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885190,
     "wof:name":"Sofiya",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

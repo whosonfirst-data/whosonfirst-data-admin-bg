@@ -338,8 +338,14 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "eurostat:nuts_2021_id":"BG323"
+        "eurostat:nuts_2021_id":"BG323",
+        "iso:code":"BG-18",
+        "qs:local_id":"RSE"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"518097ff6c5c8c9518cf9ec7ebf3cab8",
     "wof:hierarchy":[
@@ -356,7 +362,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639831,
+    "wof:lastmodified":1695884296,
     "wof:name":"Ruse",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

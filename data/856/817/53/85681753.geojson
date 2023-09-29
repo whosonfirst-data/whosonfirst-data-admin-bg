@@ -153,8 +153,14 @@
         "gn:id":864554,
         "gp:id":20070059,
         "hasc:id":"BG.KY",
-        "iso:id":"BG-10"
+        "iso:code":"BG-10",
+        "iso:id":"BG-10",
+        "qs:local_id":"KNL"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"76fff37f7a371e1e3ea8e53d1a9dcd89",
     "wof:hierarchy":[
@@ -171,7 +177,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885190,
     "wof:name":"Kyustendil",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

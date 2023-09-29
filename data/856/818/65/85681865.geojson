@@ -397,10 +397,16 @@
         "gn:id":726419,
         "gp:id":20070050,
         "hasc:id":"BG.DO",
+        "iso:code":"BG-08",
         "iso:id":"BG-08",
+        "qs:local_id":"DOB",
         "unlc:id":"BG-08",
         "wd:id":"Q907395"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"6d53bee3650a023e6a5b2d0382a4a7b4",
     "wof:hierarchy":[
@@ -417,7 +423,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639835,
+    "wof:lastmodified":1695885192,
     "wof:name":"Dobrich",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

@@ -385,10 +385,16 @@
         "gn:id":864557,
         "gp:id":20070049,
         "hasc:id":"BG.SL",
+        "iso:code":"BG-20",
         "iso:id":"BG-20",
+        "qs:local_id":"SLV",
         "unlc:id":"BG-20",
         "wd:id":"Q113120"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"9b9c92b59eb9aaf828142341c330664d",
     "wof:hierarchy":[
@@ -405,7 +411,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885191,
     "wof:name":"Sliven",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

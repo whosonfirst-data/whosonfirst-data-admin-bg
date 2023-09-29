@@ -401,10 +401,16 @@
         "gn:id":732771,
         "gp:id":20070075,
         "hasc:id":"BG.BR",
+        "iso:code":"BG-02",
         "iso:id":"BG-02",
+        "qs:local_id":"BGS",
         "unlc:id":"BG-02",
         "wd:id":"Q369220"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"33b6a4259d52fa071e9aa7b766a19b0b",
     "wof:hierarchy":[
@@ -421,7 +427,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885191,
     "wof:name":"Burgas",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

@@ -390,10 +390,16 @@
         "gn:id":864560,
         "gp:id":20070072,
         "hasc:id":"BG.TU",
+        "iso:code":"BG-25",
         "iso:id":"BG-25",
+        "qs:local_id":"TGV",
         "unlc:id":"BG-25",
         "wd:id":"Q2012589"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"13e40a7fe15842537d49072b8c4ffec6",
     "wof:hierarchy":[
@@ -410,7 +416,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885191,
     "wof:name":"Turgovishte",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

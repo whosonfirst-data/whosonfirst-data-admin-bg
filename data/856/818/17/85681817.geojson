@@ -410,10 +410,16 @@
         "gn:id":725713,
         "gp:id":20070057,
         "hasc:id":"BG.VR",
+        "iso:code":"BG-06",
         "iso:id":"BG-06",
+        "qs:local_id":"VRC",
         "unlc:id":"BG-06",
         "wd:id":"Q2012785"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"eb6d417842c20e76d85d993abfe6ad76",
     "wof:hierarchy":[
@@ -430,7 +436,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885191,
     "wof:name":"Vratsa",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

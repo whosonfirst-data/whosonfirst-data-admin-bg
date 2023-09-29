@@ -390,9 +390,15 @@
         "gn:id":728379,
         "gp:id":20070066,
         "hasc:id":"BG.PZ",
+        "iso:code":"BG-13",
         "iso:id":"BG-13",
+        "qs:local_id":"PAZ",
         "wd:id":"Q2012227"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"4600e0221bbb29d2cfe20c4d07f0247d",
     "wof:hierarchy":[
@@ -409,7 +415,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885190,
     "wof:name":"Pazardzhik",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

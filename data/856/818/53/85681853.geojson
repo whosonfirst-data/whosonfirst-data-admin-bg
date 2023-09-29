@@ -389,10 +389,16 @@
         "gn:id":864555,
         "gp:id":20070052,
         "hasc:id":"BG.SH",
+        "iso:code":"BG-27",
         "iso:id":"BG-27",
+        "qs:local_id":"SHU",
         "unlc:id":"BG-27",
         "wd:id":"Q184981"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"e82240145eeb4392a15d95db8ecc3f8c",
     "wof:hierarchy":[
@@ -409,7 +415,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885192,
     "wof:name":"Shumen",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

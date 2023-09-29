@@ -389,10 +389,16 @@
         "gn:id":864556,
         "gp:id":20070070,
         "hasc:id":"BG.SI",
+        "iso:code":"BG-19",
         "iso:id":"BG-19",
+        "qs:local_id":"SLS",
         "unlc:id":"BG-19",
         "wd:id":"Q2012423"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"1a26d7f62f3b5718d36e169d17a74c62",
     "wof:hierarchy":[
@@ -409,7 +415,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639835,
+    "wof:lastmodified":1695885192,
     "wof:name":"Silistra",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

@@ -400,10 +400,16 @@
         "gn:id":733192,
         "gp:id":20070060,
         "hasc:id":"BG.BL",
+        "iso:code":"BG-01",
         "iso:id":"BG-01",
+        "qs:local_id":"BLG",
         "unlc:id":"BG-01",
         "wd:id":"Q804311"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"7e9d446a0ae0be35e7efcb9a18bf9bd8",
     "wof:hierarchy":[
@@ -420,7 +426,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885190,
     "wof:name":"Blagoevgrad",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

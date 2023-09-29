@@ -269,8 +269,14 @@
         "gn:id":727012,
         "gp:id":20070061,
         "hasc:id":"BG.SG",
-        "iso:id":"BG-22"
+        "iso:code":"BG-22",
+        "iso:id":"BG-22",
+        "qs:local_id":"SFO"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"7b6727e0991c5c2ba1b4d749c751df1f",
     "wof:hierarchy":[
@@ -287,7 +293,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885191,
     "wof:name":"Sofia Province",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

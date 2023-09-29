@@ -394,10 +394,16 @@
         "gn:id":729560,
         "gp:id":20070064,
         "hasc:id":"BG.LV",
+        "iso:code":"BG-11",
         "iso:id":"BG-11",
+        "qs:local_id":"LOV",
         "unlc:id":"BG-11",
         "wd:id":"Q6587068"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"994d24aa20760cd84124553584f906ec",
     "wof:hierarchy":[
@@ -414,7 +420,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639834,
+    "wof:lastmodified":1695885191,
     "wof:name":"Lovech",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

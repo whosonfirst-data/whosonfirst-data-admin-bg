@@ -428,10 +428,16 @@
         "gn:id":728331,
         "gp:id":20070058,
         "hasc:id":"BG.PN",
+        "iso:code":"BG-14",
         "iso:id":"BG-14",
+        "qs:local_id":"PER",
         "unlc:id":"BG-14",
         "wd:id":"Q2012234"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"5d0ce5318892995d3229b771565e9cea",
     "wof:hierarchy":[
@@ -448,7 +454,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885190,
     "wof:name":"Pernik",
     "wof:parent_id":85633001,
     "wof:placetype":"region",

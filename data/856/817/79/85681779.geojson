@@ -396,10 +396,16 @@
         "gn:id":728194,
         "gp:id":20070068,
         "hasc:id":"BG.PD",
+        "iso:code":"BG-16",
         "iso:id":"BG-16",
+        "qs:local_id":"PDV",
         "unlc:id":"BG-16",
         "wd:id":"Q187874"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"BG",
     "wof:geomhash":"73215b4929442539594ef0ee0544ff1b",
     "wof:hierarchy":[
@@ -416,7 +422,7 @@
     "wof:lang_x_spoken":[
         "bul"
     ],
-    "wof:lastmodified":1694639833,
+    "wof:lastmodified":1695885190,
     "wof:name":"Plovdiv",
     "wof:parent_id":85633001,
     "wof:placetype":"region",
