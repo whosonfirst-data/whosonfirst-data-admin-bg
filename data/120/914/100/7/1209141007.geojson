@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"27.6485,42.64845,27.6485,42.64845",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0647\u0644\u0648\u06cc"
@@ -96,12 +98,14 @@
         }
     ],
     "wof:id":1209141007,
-    "wof:lastmodified":1566613867,
+    "wof:lastmodified":1706239329,
     "wof:name":"Aheloy",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bg",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209140025
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

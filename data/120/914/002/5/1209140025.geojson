@@ -10,6 +10,8 @@
     "geom:latitude":42.64987,
     "geom:longitude":27.64838,
     "gn:admin1_code":"39",
+    "gn:admin2_code":"BGS17",
+    "gn:admin3_code":"BGS17-02",
     "gn:asciiname":"Aheloy",
     "gn:country_code":"BG",
     "gn:dem":25,
@@ -35,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0445\u0435\u043b\u043e\u0439"
     ],
+    "name:bul_x_variant":[
+        "Aheloy"
+    ],
     "name:ceb_x_preferred":[
         "Aheloy"
     ],
@@ -59,6 +64,15 @@
     "name:ukr_x_preferred":[
         "\u0410\u0445\u0435\u043b\u043e\u0439"
     ],
+    "name:und_x_variant":[
+        "Razvalina Chimcho",
+        "Chimovo",
+        "Tschimowo",
+        "Chemose",
+        "Razvalina Chimus",
+        "Chimos",
+        "Akheloy"
+    ],
     "name:vie_x_preferred":[
         "Aheloy"
     ],
@@ -75,6 +89,11 @@
         "gn:id":7874334,
         "wk:page":"Aheloy"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            733727
+        ]
+    },
     "wof:country":"BG",
     "wof:geomhash":"e70c2c9803fd8da97493f5edc811a62e",
     "wof:hierarchy":[
@@ -84,7 +103,7 @@
         }
     ],
     "wof:id":1209140025,
-    "wof:lastmodified":1566613868,
+    "wof:lastmodified":1706239329,
     "wof:name":"Aheloy",
     "wof:parent_id":85633001,
     "wof:placetype":"locality",
@@ -92,7 +111,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209141007
+    ],
     "wof:tags":[]
 },
   "bbox": [

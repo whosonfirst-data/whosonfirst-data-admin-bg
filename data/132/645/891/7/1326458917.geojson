@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0435\u0437\u043e\u0432\u043e"
     ],
+    "name:bul_x_variant":[
+        "Rezovo"
+    ],
     "name:ceb_x_preferred":[
         "Rezovo"
     ],
@@ -92,6 +95,11 @@
         "gn:id":727649,
         "wk:page":"Rezovo"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            727648
+        ]
+    },
     "wof:country":"BG",
     "wof:geomhash":"4149d10f6f973f6124ab5bef46ddbc3a",
     "wof:hierarchy":[
@@ -103,13 +111,15 @@
         }
     ],
     "wof:id":1326458917,
-    "wof:lastmodified":1566613614,
+    "wof:lastmodified":1706239329,
     "wof:name":"Rezovo",
     "wof:parent_id":85681805,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327066475
+    ],
     "wof:tags":[]
 },
   "bbox": [

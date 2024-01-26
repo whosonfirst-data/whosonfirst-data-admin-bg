@@ -10,6 +10,8 @@
     "geom:latitude":41.41932,
     "geom:longitude":25.68718,
     "gn:admin1_code":"44",
+    "gn:admin2_code":"KRZ15",
+    "gn:admin3_code":"KRZ15-12",
     "gn:asciiname":"Gulia",
     "gn:country_code":"BG",
     "gn:dem":389,
@@ -41,14 +43,26 @@
     "name:deu_x_preferred":[
         "Gulia"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0644\u06cc\u06cc\u0627"
+    ],
     "name:hin_x_preferred":[
         "\u0917\u0941\u0932\u093f\u092f\u093e"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0413\u0443\u043b\u0438\u044f"
     ],
     "name:ron_x_preferred":[
         "Gulia"
     ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u043b\u0438\u044f"
+    ],
     "name:srp_x_preferred":[
         "\u0413\u0443\u043b\u0438\u0458\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u043b\u0456\u044f"
     ],
     "name:und_x_variant":[
         "Guliya"
@@ -61,7 +75,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":11347224
+        "gn:id":11347224,
+        "wk:page":"Guliya"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            731000
+        ]
     },
     "wof:country":"BG",
     "wof:geomhash":"ca6db105ba29be709e40ac0795906d7f",
@@ -74,13 +94,15 @@
         }
     ],
     "wof:id":1259617927,
-    "wof:lastmodified":1566614257,
+    "wof:lastmodified":1706239329,
     "wof:name":"Gulia",
     "wof:parent_id":85681745,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327170931
+    ],
     "wof:tags":[]
 },
   "bbox": [
