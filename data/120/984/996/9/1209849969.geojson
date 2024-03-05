@@ -15,6 +15,7 @@
     "gn:asciiname":"Hrabarsko",
     "gn:country_code":"BG",
     "gn:dem":702,
+    "gn:elevation":"630.0",
     "gn:feature_class":"P",
     "gn:feature_code":"PPL",
     "gn:geonameid":730402,
@@ -51,6 +52,11 @@
     "wof:concordances":{
         "gn:id":730402
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7932419
+        ]
+    },
     "wof:country":"BG",
     "wof:geomhash":"23023fac250fde2281b4b304d2f5b5e7",
     "wof:hierarchy":[
@@ -62,13 +68,15 @@
         }
     ],
     "wof:id":1209849969,
-    "wof:lastmodified":1566613848,
+    "wof:lastmodified":1706239329,
     "wof:name":"Hrabarsko",
     "wof:parent_id":85681785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bg",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293718243
+    ],
     "wof:tags":[]
 },
   "bbox": [
