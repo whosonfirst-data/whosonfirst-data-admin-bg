@@ -80,7 +80,7 @@
         "wk:page":"Mogilitsa"
     },
     "wof:country":"BG",
-    "wof:geomhash":"4a5c7cb01ea8ce6ae7a6459b26752e7b",
+    "wof:geomhash":"44eea99e8400d1818d750ac14e717857",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,5 +105,5 @@
     24.63657000000001,
     41.49623
 ],
-  "geometry": {"coordinates":[24.63657000000001,41.49623],"type":"Point"}
+  "geometry": {"coordinates":[24.63657,41.49623],"type":"Point"}
 }

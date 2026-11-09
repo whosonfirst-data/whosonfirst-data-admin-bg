@@ -67,7 +67,7 @@
         "wk:page":"Spoluka"
     },
     "wof:country":"BG",
-    "wof:geomhash":"908a178adc966a0e3f9843f8bd02aecd",
+    "wof:geomhash":"739b714e518102f8e97ab648afa86d75",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     25.11667000000001,
     41.71667
 ],
-  "geometry": {"coordinates":[25.11667000000001,41.71667],"type":"Point"}
+  "geometry": {"coordinates":[25.11667,41.71667],"type":"Point"}
 }

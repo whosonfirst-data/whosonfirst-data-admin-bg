@@ -70,7 +70,7 @@
         "wk:page":"Branitsa"
     },
     "wof:country":"BG",
-    "wof:geomhash":"3a77203caee9b27e8355a435da4a860f",
+    "wof:geomhash":"d9d68cbe75a433b33899e3fb133a7fdc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     26.08333,
     42.0
 ],
-  "geometry": {"coordinates":[26.08333,42.0],"type":"Point"}
+  "geometry": {"coordinates":[26.08333,42],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Kalinka%2C_Kardzhali_Province"
     },
     "wof:country":"BG",
-    "wof:geomhash":"316689bcdef2a0525b20bb0d23f7ab2f",
+    "wof:geomhash":"a4d5f9d4e252a494a0fe0b37200f7e14",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -89,5 +89,5 @@
     25.36667000000001,
     41.68333
 ],
-  "geometry": {"coordinates":[25.36667000000001,41.68333],"type":"Point"}
+  "geometry": {"coordinates":[25.36667,41.68333],"type":"Point"}
 }

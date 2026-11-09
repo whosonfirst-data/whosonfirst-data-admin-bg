@@ -73,7 +73,7 @@
         "wk:page":"Blatska"
     },
     "wof:country":"BG",
-    "wof:geomhash":"3be6233b71d1231ddb5596ac1e92f292",
+    "wof:geomhash":"58a69f468996d9205dfeede2b5bb5f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     23.86667000000001,
     41.53333
 ],
-  "geometry": {"coordinates":[23.86667000000001,41.53333],"type":"Point"}
+  "geometry": {"coordinates":[23.86667,41.53333],"type":"Point"}
 }

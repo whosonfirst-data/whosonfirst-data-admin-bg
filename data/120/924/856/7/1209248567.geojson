@@ -64,7 +64,7 @@
         "wk:page":"Ralichevo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"1ed05c931b915b197351a07e03b15acb",
+    "wof:geomhash":"6d60b26636186e90238daa2666dc52a4",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -87,5 +87,5 @@
     25.50077000000001,
     41.38431
 ],
-  "geometry": {"coordinates":[25.50077000000001,41.38431],"type":"Point"}
+  "geometry": {"coordinates":[25.50077,41.38431],"type":"Point"}
 }

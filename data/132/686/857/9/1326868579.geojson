@@ -69,7 +69,7 @@
         "wk:page":"Orlova_mogila"
     },
     "wof:country":"BG",
-    "wof:geomhash":"6fbf625eb12fffe3036d765f266d32f5",
+    "wof:geomhash":"3877c267022d3c009084e1abe194cd31",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     27.60137000000001,
     43.54983
 ],
-  "geometry": {"coordinates":[27.60137000000001,43.54983],"type":"Point"}
+  "geometry": {"coordinates":[27.60137,43.54983],"type":"Point"}
 }

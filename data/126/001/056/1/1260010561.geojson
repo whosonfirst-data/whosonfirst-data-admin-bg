@@ -74,7 +74,7 @@
         "wk:page":"Bryasotvets"
     },
     "wof:country":"BG",
-    "wof:geomhash":"13557c6ba5ba8cbb0b7be22c98648604",
+    "wof:geomhash":"6dce53cd8595c2759ad8abed12d093e1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     27.46464000000001,
     42.67224
 ],
-  "geometry": {"coordinates":[27.46464000000001,42.67224],"type":"Point"}
+  "geometry": {"coordinates":[27.46464,42.67224],"type":"Point"}
 }

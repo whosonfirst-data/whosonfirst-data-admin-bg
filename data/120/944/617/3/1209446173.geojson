@@ -63,7 +63,7 @@
         "wk:page":"Salasuka"
     },
     "wof:country":"BG",
-    "wof:geomhash":"2930be221dc3407a6cdcde3369e3000b",
+    "wof:geomhash":"111bda141bd8e2dde390bb3b603623d9",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -86,5 +86,5 @@
     25.53333,
     43.0
 ],
-  "geometry": {"coordinates":[25.53333,43.0],"type":"Point"}
+  "geometry": {"coordinates":[25.53333,43],"type":"Point"}
 }

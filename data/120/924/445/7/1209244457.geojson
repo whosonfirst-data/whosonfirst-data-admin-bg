@@ -73,7 +73,7 @@
         "wk:page":"Belimel"
     },
     "wof:country":"BG",
-    "wof:geomhash":"5fe1853b04b15c2f8280b44f006e59ff",
+    "wof:geomhash":"085989bff55d04a059c36daac12c62ca",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -96,5 +96,5 @@
     22.97342,
     43.43324000000001
 ],
-  "geometry": {"coordinates":[22.97342,43.43324000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.97342,43.43324],"type":"Point"}
 }

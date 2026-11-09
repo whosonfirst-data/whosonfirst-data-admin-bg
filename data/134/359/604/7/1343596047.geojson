@@ -70,7 +70,7 @@
         "wk:page":"Donino"
     },
     "wof:country":"BG",
-    "wof:geomhash":"08cabec8e1e3d873645b22898cb03528",
+    "wof:geomhash":"7b6661c5bd13cae4bc4424a9c1d4831a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     25.36667000000001,
     42.91667
 ],
-  "geometry": {"coordinates":[25.36667000000001,42.91667],"type":"Point"}
+  "geometry": {"coordinates":[25.36667,42.91667],"type":"Point"}
 }

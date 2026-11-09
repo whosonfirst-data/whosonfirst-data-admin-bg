@@ -72,7 +72,7 @@
         "wk:page":"Vinarsko"
     },
     "wof:country":"BG",
-    "wof:geomhash":"c242affb81fec786c54bbea8244bad96",
+    "wof:geomhash":"06b202ee2fe7e421c1cb3e7c0a6c6a5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     27.19998,
     42.60704000000001
 ],
-  "geometry": {"coordinates":[27.19998,42.60704000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.19998,42.60704],"type":"Point"}
 }

@@ -81,7 +81,7 @@
         "wk:page":"Yovkovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"ea49f3832e201a0e0231cd05b898bee8",
+    "wof:geomhash":"9134a35a2bef2ad0dc91fc6e2e8af6de",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -104,5 +104,5 @@
     28.13947000000001,
     43.77638
 ],
-  "geometry": {"coordinates":[28.13947000000001,43.77638],"type":"Point"}
+  "geometry": {"coordinates":[28.13947,43.77638],"type":"Point"}
 }

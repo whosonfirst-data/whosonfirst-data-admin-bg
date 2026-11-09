@@ -71,7 +71,7 @@
         "wk:page":"Bozhdovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"119345c8ea7720253959b8f9c52bff15",
+    "wof:geomhash":"20b78d696cbf75e49a175f97dc9f5f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.36667000000001,
     41.6
 ],
-  "geometry": {"coordinates":[23.36667000000001,41.6],"type":"Point"}
+  "geometry": {"coordinates":[23.36667,41.6],"type":"Point"}
 }

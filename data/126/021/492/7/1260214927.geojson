@@ -64,7 +64,7 @@
         "wk:page":"Piperovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"d99da248eb0c810ea926bb8d7d0adb8d",
+    "wof:geomhash":"fe2d8ec356cf75410fd84d335b9802f4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     23.11667000000001,
     42.28333
 ],
-  "geometry": {"coordinates":[23.11667000000001,42.28333],"type":"Point"}
+  "geometry": {"coordinates":[23.11667,42.28333],"type":"Point"}
 }

@@ -77,7 +77,7 @@
         "wk:page":"Matochina"
     },
     "wof:country":"BG",
-    "wof:geomhash":"d5c43de9172da89bb9f03618788c8e4a",
+    "wof:geomhash":"f864f1ab5633f4ee129e82e09e63a061",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -102,5 +102,5 @@
     26.54259,
     41.84979000000001
 ],
-  "geometry": {"coordinates":[26.54259,41.84979000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.54259,41.84979],"type":"Point"}
 }

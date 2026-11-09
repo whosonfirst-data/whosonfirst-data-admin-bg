@@ -73,7 +73,7 @@
         "wk:page":"Malko_Gradishte"
     },
     "wof:country":"BG",
-    "wof:geomhash":"23652ce5e3a39c2145381236f90d6b46",
+    "wof:geomhash":"241b0116513955b524186fd0058fccb4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     26.0,
     41.76667
 ],
-  "geometry": {"coordinates":[26.0,41.76667],"type":"Point"}
+  "geometry": {"coordinates":[26,41.76667],"type":"Point"}
 }

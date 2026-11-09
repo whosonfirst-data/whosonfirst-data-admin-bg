@@ -67,7 +67,7 @@
         "wk:page":"Branishte"
     },
     "wof:country":"BG",
-    "wof:geomhash":"dbac91e9db38507549d50532da6c00b8",
+    "wof:geomhash":"6d02464ff0eee8f705723cde26f62890",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     27.84752000000001,
     43.5276
 ],
-  "geometry": {"coordinates":[27.84752000000001,43.5276],"type":"Point"}
+  "geometry": {"coordinates":[27.84752,43.5276],"type":"Point"}
 }

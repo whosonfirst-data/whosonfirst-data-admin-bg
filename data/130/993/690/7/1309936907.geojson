@@ -74,7 +74,7 @@
         "wk:page":"Sbor"
     },
     "wof:country":"BG",
-    "wof:geomhash":"d3600c387a278377a964482c68adadfd",
+    "wof:geomhash":"1806d5cc425c897a3dfe715a0aa94249",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     24.29647000000001,
     42.33961
 ],
-  "geometry": {"coordinates":[24.29647000000001,42.33961],"type":"Point"}
+  "geometry": {"coordinates":[24.29647,42.33961],"type":"Point"}
 }

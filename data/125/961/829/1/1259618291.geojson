@@ -63,7 +63,7 @@
         "wk:page":"Obichnik"
     },
     "wof:country":"BG",
-    "wof:geomhash":"f1fd9cd392d6f9e85c890dacb102e47d",
+    "wof:geomhash":"f740e42019a4a63fdad45c829024d819",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     25.47948,
     41.49574000000001
 ],
-  "geometry": {"coordinates":[25.47948,41.49574000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.47948,41.49574],"type":"Point"}
 }

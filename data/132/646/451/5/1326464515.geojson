@@ -68,7 +68,7 @@
         "wk:page":"Lisovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"fc667f2b09d18da617ddf6e4fd13afa5",
+    "wof:geomhash":"9d2d57d5a12e5a36a29d5af9d5b0cd6f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     26.31743,
     41.94179000000001
 ],
-  "geometry": {"coordinates":[26.31743,41.94179000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.31743,41.94179],"type":"Point"}
 }

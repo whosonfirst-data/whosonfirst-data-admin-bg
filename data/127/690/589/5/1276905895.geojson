@@ -73,7 +73,7 @@
         "wk:page":"Hirevo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"14afea256c1adfd972214620d69ca8ae",
+    "wof:geomhash":"8d9bc6e3c90a3037f87647c883790f9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     24.98333,
     43.0
 ],
-  "geometry": {"coordinates":[24.98333,43.0],"type":"Point"}
+  "geometry": {"coordinates":[24.98333,43],"type":"Point"}
 }

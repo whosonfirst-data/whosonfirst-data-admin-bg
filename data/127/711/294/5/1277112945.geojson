@@ -70,7 +70,7 @@
         "wk:page":"Kozitsa"
     },
     "wof:country":"BG",
-    "wof:geomhash":"e82990557e3a8c5015dd114741ffcaa6",
+    "wof:geomhash":"bd43778d515baba85ed39905b5fff003",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     25.27803,
     41.44967000000001
 ],
-  "geometry": {"coordinates":[25.27803,41.44967000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.27803,41.44967],"type":"Point"}
 }

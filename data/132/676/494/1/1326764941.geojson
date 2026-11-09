@@ -65,7 +65,7 @@
         "wk:page":"Gorna_Vasilitsa"
     },
     "wof:country":"BG",
-    "wof:geomhash":"06790e25ed3f399239038aebcb991575",
+    "wof:geomhash":"7428ccf2d87c3a86256a53291633a207",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.86667000000001,
     42.31667
 ],
-  "geometry": {"coordinates":[23.86667000000001,42.31667],"type":"Point"}
+  "geometry": {"coordinates":[23.86667,42.31667],"type":"Point"}
 }

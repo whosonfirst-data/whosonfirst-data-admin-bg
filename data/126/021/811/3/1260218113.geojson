@@ -69,7 +69,7 @@
         "wk:page":"Gorno_Kobile"
     },
     "wof:country":"BG",
-    "wof:geomhash":"52069f6df10505992690609f9d9b9c81",
+    "wof:geomhash":"2f397a021f026ffcb493958d9056e73f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     22.51842000000001,
     42.56557
 ],
-  "geometry": {"coordinates":[22.51842000000001,42.56557],"type":"Point"}
+  "geometry": {"coordinates":[22.51842,42.56557],"type":"Point"}
 }

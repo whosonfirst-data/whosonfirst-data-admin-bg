@@ -70,7 +70,7 @@
         "wk:page":"Nedelkovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"e4259336b1fb8a50ecd255d68db4e7fe",
+    "wof:geomhash":"9ee076056c0745e8e9279747cfe3ab02",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     22.78647,
     42.79734000000001
 ],
-  "geometry": {"coordinates":[22.78647,42.79734000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.78647,42.79734],"type":"Point"}
 }

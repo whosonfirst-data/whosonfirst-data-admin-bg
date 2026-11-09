@@ -67,7 +67,7 @@
         "wk:page":"Lensko"
     },
     "wof:country":"BG",
-    "wof:geomhash":"91ff18c008988d2eafc797f35a3110db",
+    "wof:geomhash":"4a3dd112ebe1308e40ed80f21c61e582",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     25.96492000000001,
     41.43645
 ],
-  "geometry": {"coordinates":[25.96492000000001,41.43645],"type":"Point"}
+  "geometry": {"coordinates":[25.96492,41.43645],"type":"Point"}
 }

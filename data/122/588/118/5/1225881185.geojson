@@ -65,7 +65,7 @@
         "wk:page":"Lelintsi"
     },
     "wof:country":"BG",
-    "wof:geomhash":"7e919539c18a143fa92b3223887eef1a",
+    "wof:geomhash":"103da10ce1176c583ad26703c06bf1ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.74167000000001,
     42.23278
 ],
-  "geometry": {"coordinates":[22.74167000000001,42.23278],"type":"Point"}
+  "geometry": {"coordinates":[22.74167,42.23278],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"Agatovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"4d237afdbfbde44b17b9a4b051c11103",
+    "wof:geomhash":"737a40e4e82d2d4803fa1b970ae266b0",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -98,5 +98,5 @@
     25.0,
     43.13333
 ],
-  "geometry": {"coordinates":[25.0,43.13333],"type":"Point"}
+  "geometry": {"coordinates":[25,43.13333],"type":"Point"}
 }

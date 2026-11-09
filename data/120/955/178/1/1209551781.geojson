@@ -66,7 +66,7 @@
         "wk:page":"Sladun"
     },
     "wof:country":"BG",
-    "wof:geomhash":"eab32ea7783b4c31cc1f22e948806292",
+    "wof:geomhash":"2806db873661a3007b554f7e96a31211",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -89,5 +89,5 @@
     26.45805,
     41.85149000000001
 ],
-  "geometry": {"coordinates":[26.45805,41.85149000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.45805,41.85149],"type":"Point"}
 }

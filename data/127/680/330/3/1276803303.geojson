@@ -72,7 +72,7 @@
         "wk:page":"Vozhdovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"f0f0b0aa5621bc46abfe9965df62452b",
+    "wof:geomhash":"6e000cbe2ece2853e2fd95090f2000f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     25.36667000000001,
     41.75
 ],
-  "geometry": {"coordinates":[25.36667000000001,41.75],"type":"Point"}
+  "geometry": {"coordinates":[25.36667,41.75],"type":"Point"}
 }

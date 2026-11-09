@@ -71,7 +71,7 @@
         "wk:page":"Lyubovka"
     },
     "wof:country":"BG",
-    "wof:geomhash":"f6fa0aa5354622d7258583773069d603",
+    "wof:geomhash":"62fbaf7e7a9e023ae34027eba8bfe5db",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     23.36667000000001,
     41.58333
 ],
-  "geometry": {"coordinates":[23.36667000000001,41.58333],"type":"Point"}
+  "geometry": {"coordinates":[23.36667,41.58333],"type":"Point"}
 }

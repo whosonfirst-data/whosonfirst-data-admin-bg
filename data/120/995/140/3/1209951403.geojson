@@ -72,7 +72,7 @@
         "wk:page":"Damyanovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"ba7c25c26267c3ef399e73bc3633a711",
+    "wof:geomhash":"4f3fde0ab842c5f201b23e16cd611c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     24.93333,
     43.0
 ],
-  "geometry": {"coordinates":[24.93333,43.0],"type":"Point"}
+  "geometry": {"coordinates":[24.93333,43],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Sredina"
     },
     "wof:country":"BG",
-    "wof:geomhash":"c461eb58fb8e6f68efbcf85c7d7ae2ca",
+    "wof:geomhash":"287a3e372978591919285c904994738b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     28.23867000000001,
     43.62505
 ],
-  "geometry": {"coordinates":[28.23867000000001,43.62505],"type":"Point"}
+  "geometry": {"coordinates":[28.23867,43.62505],"type":"Point"}
 }
