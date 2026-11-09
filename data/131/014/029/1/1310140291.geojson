@@ -65,7 +65,7 @@
         "wk:page":"Peyna"
     },
     "wof:country":"BG",
-    "wof:geomhash":"6b1c64f8ea8ab0db41c883889f0b014c",
+    "wof:geomhash":"372ba8c3adbfc693852ad826ea8e6bb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     25.43333,
     43.0
 ],
-  "geometry": {"coordinates":[25.43333,43.0],"type":"Point"}
+  "geometry": {"coordinates":[25.43333,43],"type":"Point"}
 }

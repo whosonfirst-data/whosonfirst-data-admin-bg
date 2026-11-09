@@ -98,7 +98,7 @@
     },
     "wof:country":"BG",
     "wof:created":1497291582,
-    "wof:geomhash":"4aa05386dabada3077221ddad783a804",
+    "wof:geomhash":"e060300f1b35cc0d0078290c4cfddbad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -123,5 +123,5 @@
     24.61667,
     42.0
 ],
-  "geometry": {"coordinates":[24.61667,42.0],"type":"Point"}
+  "geometry": {"coordinates":[24.61667,42],"type":"Point"}
 }

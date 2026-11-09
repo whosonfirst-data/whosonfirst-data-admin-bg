@@ -69,7 +69,7 @@
         "wk:page":"Samotino"
     },
     "wof:country":"BG",
-    "wof:geomhash":"7c4281763606dd4599181682939b607e",
+    "wof:geomhash":"f6ec32eaeaceec5ffe3bd489a453fa60",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     27.86292000000001,
     42.9391
 ],
-  "geometry": {"coordinates":[27.86292000000001,42.9391],"type":"Point"}
+  "geometry": {"coordinates":[27.86292,42.9391],"type":"Point"}
 }

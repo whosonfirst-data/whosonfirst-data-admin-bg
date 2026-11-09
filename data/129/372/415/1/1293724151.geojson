@@ -73,7 +73,7 @@
         "wk:page":"Yovovtsi"
     },
     "wof:country":"BG",
-    "wof:geomhash":"841183fa00be54cfe93107f27e1726f1",
+    "wof:geomhash":"316635751cf6d08982b3f45ffc1934e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     25.44515,
     42.80412000000001
 ],
-  "geometry": {"coordinates":[25.44515,42.80412000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.44515,42.80412],"type":"Point"}
 }

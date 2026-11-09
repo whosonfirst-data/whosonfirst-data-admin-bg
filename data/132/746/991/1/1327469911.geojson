@@ -67,7 +67,7 @@
         "wk:page":"Planinovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"07ef5dd4ff15a86a98e3a8344ad10764",
+    "wof:geomhash":"ee97845884a4535a04a515367b423baf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     26.37749,
     41.95699000000001
 ],
-  "geometry": {"coordinates":[26.37749,41.95699000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.37749,41.95699],"type":"Point"}
 }

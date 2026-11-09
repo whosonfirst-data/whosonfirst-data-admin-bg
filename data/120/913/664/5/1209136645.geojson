@@ -67,7 +67,7 @@
         "wk:page":"Kopcheliite"
     },
     "wof:country":"BG",
-    "wof:geomhash":"ad5b85d709800cea7e4396bda3e40dcc",
+    "wof:geomhash":"fcac1154dbd902d1e597a29713a8e5e2",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -90,5 +90,5 @@
     25.36667000000001,
     42.9
 ],
-  "geometry": {"coordinates":[25.36667000000001,42.9],"type":"Point"}
+  "geometry": {"coordinates":[25.36667,42.9],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Delyan%2C_Sofia_Province"
     },
     "wof:country":"BG",
-    "wof:geomhash":"40c3c672cfc731bf62763db2f039ee92",
+    "wof:geomhash":"9cc7cacc4ee7e8394f798eade2508039",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     23.00281,
     42.75917000000001
 ],
-  "geometry": {"coordinates":[23.00281,42.75917000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.00281,42.75917],"type":"Point"}
 }

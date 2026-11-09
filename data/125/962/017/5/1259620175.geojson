@@ -71,7 +71,7 @@
         "wk:page":"Zaya"
     },
     "wof:country":"BG",
-    "wof:geomhash":"d64fe523c745216f703b5d8ca32d061b",
+    "wof:geomhash":"d1bc736e8fe7548290ab10504dd6bda7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     25.51667,
     43.0
 ],
-  "geometry": {"coordinates":[25.51667,43.0],"type":"Point"}
+  "geometry": {"coordinates":[25.51667,43],"type":"Point"}
 }

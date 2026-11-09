@@ -80,7 +80,7 @@
         "wk:page":"Koriten"
     },
     "wof:country":"BG",
-    "wof:geomhash":"d007c4fb11aa7d71a6118ac051edb65c",
+    "wof:geomhash":"d87267efd7c232d8ee4c4b26a8a04933",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -105,5 +105,5 @@
     27.75612000000001,
     43.92643
 ],
-  "geometry": {"coordinates":[27.75612000000001,43.92643],"type":"Point"}
+  "geometry": {"coordinates":[27.75612,43.92643],"type":"Point"}
 }

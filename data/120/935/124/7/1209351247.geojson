@@ -64,7 +64,7 @@
         "wk:page":"Golyamo_Kamenyane"
     },
     "wof:country":"BG",
-    "wof:geomhash":"9f51518f8ce4cc45ebe50d93bf060e75",
+    "wof:geomhash":"e0f0ea7e8579729323afd598aaafca6a",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -87,5 +87,5 @@
     25.70825,
     41.40600000000001
 ],
-  "geometry": {"coordinates":[25.70825,41.40600000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.70825,41.406],"type":"Point"}
 }

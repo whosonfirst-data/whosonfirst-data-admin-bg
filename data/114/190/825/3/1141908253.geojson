@@ -123,7 +123,7 @@
     "wof:concordances":{},
     "wof:country":"BG",
     "wof:created":1499130860,
-    "wof:geomhash":"ed45e708ce576efb54527010d7ea76fc",
+    "wof:geomhash":"53bed3ea70953d4e86b4f824ea37dfb3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -148,5 +148,5 @@
     25.65552933625304,
     43.08624472968097
 ],
-  "geometry": {"coordinates":[25.65552933625304,43.08624472968097],"type":"Point"}
+  "geometry": {"coordinates":[25.655529,43.086245],"type":"Point"}
 }

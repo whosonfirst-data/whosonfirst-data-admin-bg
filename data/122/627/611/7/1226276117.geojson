@@ -68,7 +68,7 @@
         "wk:page":"Sofiytsi"
     },
     "wof:country":"BG",
-    "wof:geomhash":"105c24de73c12352f1ee00f2da507714",
+    "wof:geomhash":"fe6d3fe3ceda15d62460f4cb8a82a9e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     25.36667000000001,
     41.53333
 ],
-  "geometry": {"coordinates":[25.36667000000001,41.53333],"type":"Point"}
+  "geometry": {"coordinates":[25.36667,41.53333],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Kukuryak"
     },
     "wof:country":"BG",
-    "wof:geomhash":"04cd30a9304a0021a243cefc60e9f80a",
+    "wof:geomhash":"5f7d00843509be0d0f30710ac174bc37",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     25.47644,
     41.33499000000001
 ],
-  "geometry": {"coordinates":[25.47644,41.33499000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.47644,41.33499],"type":"Point"}
 }

@@ -68,7 +68,7 @@
         "wk:page":"Svetlina%2C_Haskovo_Province"
     },
     "wof:country":"BG",
-    "wof:geomhash":"a67d4ab2fa85ccfc98aa825aa9a809cf",
+    "wof:geomhash":"f636496d77dbcdad8b9e476b9f6165f5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     25.38333,
     42.0
 ],
-  "geometry": {"coordinates":[25.38333,42.0],"type":"Point"}
+  "geometry": {"coordinates":[25.38333,42],"type":"Point"}
 }

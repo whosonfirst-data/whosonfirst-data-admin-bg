@@ -69,7 +69,7 @@
         "wk:page":"Dedovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"85649627561acaee9a738771a7958d3c",
+    "wof:geomhash":"658e0194b3806b5199cd081994e289c6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     24.66667,
     42.0
 ],
-  "geometry": {"coordinates":[24.66667,42.0],"type":"Point"}
+  "geometry": {"coordinates":[24.66667,42],"type":"Point"}
 }

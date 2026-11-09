@@ -68,7 +68,7 @@
         "wk:page":"Dolnoseltsi"
     },
     "wof:country":"BG",
-    "wof:geomhash":"1c111a111ec7a219a8aaa4317a9e7cd3",
+    "wof:geomhash":"731e79265d13179b0e951d9791cb667c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     25.98974,
     41.60169000000001
 ],
-  "geometry": {"coordinates":[25.98974,41.60169000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.98974,41.60169],"type":"Point"}
 }

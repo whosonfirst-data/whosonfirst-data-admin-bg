@@ -69,7 +69,7 @@
         "wk:page":"Leshnikovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"252a967c6e432e2452419e8c07aa699c",
+    "wof:geomhash":"379e3c122a0708b922d84bea20262c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     25.91159,
     41.84249000000001
 ],
-  "geometry": {"coordinates":[25.91159,41.84249000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.91159,41.84249],"type":"Point"}
 }

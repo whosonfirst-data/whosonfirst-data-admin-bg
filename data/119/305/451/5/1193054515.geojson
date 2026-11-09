@@ -64,7 +64,7 @@
         "wk:page":"Shatrovo%2C_Bulgaria"
     },
     "wof:country":"BG",
-    "wof:geomhash":"e0761ff06c078c42faea3e1f88ff313d",
+    "wof:geomhash":"485cac40ce8f7a4c75f18df28d2ccc59",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     22.9744,
     42.29349000000001
 ],
-  "geometry": {"coordinates":[22.9744,42.29349000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.9744,42.29349],"type":"Point"}
 }

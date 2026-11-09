@@ -66,7 +66,7 @@
         "wk:page":"Levka"
     },
     "wof:country":"BG",
-    "wof:geomhash":"07144bacaca379f2725d117197746b28",
+    "wof:geomhash":"5b9711344cf0cc7d5ca9b5938a782d05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     26.26767000000001,
     41.87042
 ],
-  "geometry": {"coordinates":[26.26767000000001,41.87042],"type":"Point"}
+  "geometry": {"coordinates":[26.26767,41.87042],"type":"Point"}
 }

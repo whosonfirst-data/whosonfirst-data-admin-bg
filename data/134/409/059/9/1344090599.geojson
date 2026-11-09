@@ -78,7 +78,7 @@
         "wk:page":"Balgari"
     },
     "wof:country":"BG",
-    "wof:geomhash":"7aad3a8b5530b2c782c2924bdf18a0f5",
+    "wof:geomhash":"89f734fbf3d2174bafd4c6e9569df796",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -103,5 +103,5 @@
     27.72888,
     42.08779000000001
 ],
-  "geometry": {"coordinates":[27.72888,42.08779000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.72888,42.08779],"type":"Point"}
 }

@@ -75,7 +75,7 @@
         "wk:page":"Miladinovo"
     },
     "wof:country":"BG",
-    "wof:geomhash":"ad304449d3d653766f162c284333ba3f",
+    "wof:geomhash":"e71500efd53ac753d0f4dddd83562aa5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     25.61667000000001,
     41.7
 ],
-  "geometry": {"coordinates":[25.61667000000001,41.7],"type":"Point"}
+  "geometry": {"coordinates":[25.61667,41.7],"type":"Point"}
 }

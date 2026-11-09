@@ -64,7 +64,7 @@
         "wk:page":"Tsvetkova_bara"
     },
     "wof:country":"BG",
-    "wof:geomhash":"25518e103c767e2a1bc841fe9b7f5577",
+    "wof:geomhash":"8099950809b16d5ba7f8afe0ed9ab493",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     23.16167,
     43.19694000000001
 ],
-  "geometry": {"coordinates":[23.16167,43.19694000000001],"type":"Point"}
+  "geometry": {"coordinates":[23.16167,43.19694],"type":"Point"}
 }

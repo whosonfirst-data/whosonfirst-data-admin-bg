@@ -79,7 +79,7 @@
         "wk:page":"Makedontsi"
     },
     "wof:country":"BG",
-    "wof:geomhash":"dd76aaf9b77baf5e52ff15d5eca886e5",
+    "wof:geomhash":"091c6dc17e0ed051016e7562ad46e017",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -104,5 +104,5 @@
     25.36667000000001,
     41.58333
 ],
-  "geometry": {"coordinates":[25.36667000000001,41.58333],"type":"Point"}
+  "geometry": {"coordinates":[25.36667,41.58333],"type":"Point"}
 }

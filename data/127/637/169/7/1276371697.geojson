@@ -69,7 +69,7 @@
         "wk:page":"Chepleten"
     },
     "wof:country":"BG",
-    "wof:geomhash":"dd37631cd81ab878b2f7ce4f4cd2762e",
+    "wof:geomhash":"b1aebf50c234d86891520eadace2d39c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     24.75391,
     41.46084000000001
 ],
-  "geometry": {"coordinates":[24.75391,41.46084000000001],"type":"Point"}
+  "geometry": {"coordinates":[24.75391,41.46084],"type":"Point"}
 }

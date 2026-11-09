@@ -74,7 +74,7 @@
         "wk:page":"Chukarka"
     },
     "wof:country":"BG",
-    "wof:geomhash":"598e1bda7a228dd57c27dd044e35c885",
+    "wof:geomhash":"342568f2444f9278a682e3add9bd99b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     27.1168,
     42.65172000000001
 ],
-  "geometry": {"coordinates":[27.1168,42.65172000000001],"type":"Point"}
+  "geometry": {"coordinates":[27.1168,42.65172],"type":"Point"}
 }

@@ -66,7 +66,7 @@
         "wk:page":"Malka_Zhelyazna"
     },
     "wof:country":"BG",
-    "wof:geomhash":"20485bcfba0f0fd2e61f16aca6ea8274",
+    "wof:geomhash":"5a69679124db59d7f973d46aa87e1445",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     24.31667,
     43.0
 ],
-  "geometry": {"coordinates":[24.31667,43.0],"type":"Point"}
+  "geometry": {"coordinates":[24.31667,43],"type":"Point"}
 }

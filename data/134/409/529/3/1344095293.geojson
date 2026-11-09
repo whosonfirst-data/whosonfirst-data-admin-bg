@@ -67,7 +67,7 @@
         "wk:page":"Buchino"
     },
     "wof:country":"BG",
-    "wof:geomhash":"103ad2537cfcb3db10c7dc3f1d0bb254",
+    "wof:geomhash":"03720a2a956453e292dfcd8f63397c6c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     23.0,
     42.05
 ],
-  "geometry": {"coordinates":[23.0,42.05],"type":"Point"}
+  "geometry": {"coordinates":[23,42.05],"type":"Point"}
 }

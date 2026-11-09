@@ -43,7 +43,7 @@
         "gn:id":725800
     },
     "wof:country":"BG",
-    "wof:geomhash":"2f5f2b7250e4cd20adc7bd8284cafacc",
+    "wof:geomhash":"d07c401649003fea6cef22daf6da57a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     23.0,
     41.45
 ],
-  "geometry": {"coordinates":[23.0,41.45],"type":"Point"}
+  "geometry": {"coordinates":[23,41.45],"type":"Point"}
 }

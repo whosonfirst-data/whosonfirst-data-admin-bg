@@ -43,7 +43,7 @@
         "gn:id":728058
     },
     "wof:country":"BG",
-    "wof:geomhash":"24972dcce221d34d50999f95b5b54d66",
+    "wof:geomhash":"6514f0f72ffd2b8428b84758a6077427",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -66,5 +66,5 @@
     26.0,
     42.96667
 ],
-  "geometry": {"coordinates":[26.0,42.96667],"type":"Point"}
+  "geometry": {"coordinates":[26,42.96667],"type":"Point"}
 }

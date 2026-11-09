@@ -66,7 +66,7 @@
         "wk:page":"Polyanets"
     },
     "wof:country":"BG",
-    "wof:geomhash":"3163aa20ec5faa1a6588327900b7d0ba",
+    "wof:geomhash":"2b06d04499de1521b00d6177cd5be6e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     25.34675,
     41.47734000000001
 ],
-  "geometry": {"coordinates":[25.34675,41.47734000000001],"type":"Point"}
+  "geometry": {"coordinates":[25.34675,41.47734],"type":"Point"}
 }

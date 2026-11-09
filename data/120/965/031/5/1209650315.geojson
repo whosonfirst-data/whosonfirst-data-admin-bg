@@ -67,7 +67,7 @@
         "wk:page":"Rodopsko"
     },
     "wof:country":"BG",
-    "wof:geomhash":"e96723eaaf3c14789764e885ad7ecfb8",
+    "wof:geomhash":"12a1ac86ad2df86f772caf8a9bc91169",
     "wof:hierarchy":[
         {
             "country_id":85633001,
@@ -90,5 +90,5 @@
     25.11667000000001,
     41.58333
 ],
-  "geometry": {"coordinates":[25.11667000000001,41.58333],"type":"Point"}
+  "geometry": {"coordinates":[25.11667,41.58333],"type":"Point"}
 }

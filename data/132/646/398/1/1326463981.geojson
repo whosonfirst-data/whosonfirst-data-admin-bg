@@ -87,7 +87,7 @@
         "wk:page":"Vrabcha"
     },
     "wof:country":"BG",
-    "wof:geomhash":"27f80dbc37dc20455f37c5daf7d62054",
+    "wof:geomhash":"3cb194a12676b0b067000d537817303d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -112,5 +112,5 @@
     22.70667000000001,
     42.86667
 ],
-  "geometry": {"coordinates":[22.70667000000001,42.86667],"type":"Point"}
+  "geometry": {"coordinates":[22.70667,42.86667],"type":"Point"}
 }

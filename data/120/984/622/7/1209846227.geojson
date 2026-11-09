@@ -72,7 +72,7 @@
         "wk:page":"Dushevski_kolibi"
     },
     "wof:country":"BG",
-    "wof:geomhash":"a59f4aaf62203c90bfa7fac6bb961edc",
+    "wof:geomhash":"05ccc65f4230800b5794f039d84d48c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -97,5 +97,5 @@
     25.0,
     42.9
 ],
-  "geometry": {"coordinates":[25.0,42.9],"type":"Point"}
+  "geometry": {"coordinates":[25,42.9],"type":"Point"}
 }

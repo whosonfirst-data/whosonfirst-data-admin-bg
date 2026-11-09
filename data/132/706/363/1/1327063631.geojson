@@ -65,7 +65,7 @@
         "wk:page":"Radlovtsi"
     },
     "wof:country":"BG",
-    "wof:geomhash":"e0e73ed807be03ac860b2fec5692d108",
+    "wof:geomhash":"5cb39b7e77226d8843422823c35b4653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     22.63639,
     42.31444000000001
 ],
-  "geometry": {"coordinates":[22.63639,42.31444000000001],"type":"Point"}
+  "geometry": {"coordinates":[22.63639,42.31444],"type":"Point"}
 }
